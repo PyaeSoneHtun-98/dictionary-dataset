@@ -1,0 +1,77 @@
+name: Assemble Batch 024
+
+on:
+  push:
+    paths:
+      - 'staging/batch024/READY'
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Assemble and validate
+        run: |
+          python - <<'PY'
+          import base64, hashlib, json, pathlib, shutil, zlib
+
+          root = pathlib.Path('.')
+          stage = root / 'staging' / 'batch024'
+
+          batch_encoded = (stage / 'batch.zlib.b64').read_text(encoding='ascii').strip()
+          batch_raw = zlib.decompress(base64.b64decode(batch_encoded))
+          batch = json.loads(batch_raw.decode('utf-8'))
+          assert batch['version'] == 1
+          assert batch['batch'] == 24
+          assert len(batch['entries']) == 500
+          words = [e['word'] for e in batch['entries']]
+          assert len(set(words)) == 500
+          assert all(e.get('pronunciation') for e in batch['entries'])
+          assert all(e.get('meanings') for e in batch['entries'])
+          assert all(' ' not in w and '-' not in w for w in words)
+
+          out = root / 'batches' / 'dictionary_batch_024.json'
+          out.parent.mkdir(parents=True, exist_ok=True)
+          out.write_bytes(batch_raw)
+
+          index_text = ''.join(
+              (stage / f'index.part{i:02d}.txt').read_text(encoding='ascii').strip()
+              for i in range(1, 4)
+          )
+          decoded = zlib.decompress(base64.b64decode(index_text)).decode('utf-8')
+          keys = [x for x in decoded.splitlines() if x]
+          assert len(keys) == 23800
+          assert len(set(keys)) == 23800
+          assert all(w in set(keys) for w in words)
+          lookup = root / 'lookup' / 'used_keys_current.zlib.b64'
+          lookup.parent.mkdir(parents=True, exist_ok=True)
+          lookup.write_text(index_text, encoding='ascii')
+
+          manifest_path = root / 'dictionary_manifest.json'
+          manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+          manifest['latestBatch'] = 24
+          manifest['nextBatch'] = 25
+          manifest['batchCount'] = 24
+          manifest['totalHeadwords'] = 12000
+          manifest['lookup']['throughBatch'] = 24
+          manifest['lookup']['uniqueLookupKeys'] = 23800
+          manifest['lookup']['uniqueHeadwords'] = 12000
+          manifest['lookup']['uniqueStoredForms'] = 11846
+          manifest['lookup']['sha256'] = hashlib.sha256(index_text.encode('ascii')).hexdigest()
+          assert manifest['lookup']['sha256'] == '488ee19ef547a05acaa40435bf5e9f588446f7900152c58ddf32f4dd8a4e4a16'
+          manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+
+          shutil.rmtree(stage)
+          PY
+      - name: Commit generated dataset state
+        run: |
+          git config user.name "dictionary-dataset-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A batches/dictionary_batch_024.json lookup/used_keys_current.zlib.b64 dictionary_manifest.json staging/batch024
+          git commit -m "Add dictionary batch 024"
+          git push
