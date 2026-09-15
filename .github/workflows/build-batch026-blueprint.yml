@@ -1,0 +1,82 @@
+name: Build Batch 026 Blueprint
+
+on:
+  push:
+    paths:
+      - 'staging/batch026/BUILD_BLUEPRINT'
+
+permissions:
+  contents: write
+
+jobs:
+  blueprint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install lexical resources
+        run: |
+          python -m pip install --quiet nltk cmudict
+          python - <<'PY'
+          import nltk
+          nltk.download('wordnet', quiet=True)
+          PY
+      - name: Build canonical unused blueprint
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, urllib.request, zlib
+          from nltk.corpus import wordnet as wn
+          import cmudict
+
+          root=pathlib.Path('.')
+          lookup=(root/'lookup'/'used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          prior={x for x in zlib.decompress(base64.b64decode(lookup)).decode('utf-8').splitlines() if x}
+          words=urllib.request.urlopen('https://raw.githubusercontent.com/first20hours/google-10000-english/master/20k.txt',timeout=30).read().decode().splitlines()
+          cmu=cmudict.dict()
+          pos_order=[wn.NOUN,wn.VERB,wn.ADJ,wn.ADV]
+          pos_name={wn.NOUN:'noun',wn.VERB:'verb',wn.ADJ:'adjective',wn.ADV:'adverb'}
+
+          rows=[]; seen=set()
+          for rank,w in enumerate(words,1):
+              w=w.strip().lower()
+              if rank < 3500 or w in seen or w in prior: continue
+              seen.add(w)
+              if not w.isascii() or not w.isalpha() or len(w)<4 or len(w)>16: continue
+              if w not in cmu: continue
+              chosen=None
+              for pos in pos_order:
+                  if wn.morphy(w,pos)!=w: continue
+                  syns=wn.synsets(w,pos=pos)
+                  if not syns: continue
+                  # Require the exact spelling to be a lemma in at least one synset.
+                  exact=[s for s in syns if any(l.name().lower()==w for l in s.lemmas())]
+                  if exact:
+                      chosen=(pos,exact[0]); break
+              if not chosen: continue
+              pos,syn=chosen
+              # Reject obvious web/file/brand-ish terms that WordNet occasionally contains.
+              if w in {'html','http','https','jpeg','jpg','gif','php','dvd','dvds','mp3','ipod','xbox','linux','unix'}: continue
+              rows.append({
+                  'rank':rank,
+                  'word':w,
+                  'partOfSpeech':pos_name[pos],
+                  'definition':syn.definition(),
+                  'cmu':cmu[w][0],
+              })
+              if len(rows)>=750: break
+
+          assert len(rows)>=600, len(rows)
+          outdir=root/'staging'/'batch026'/'blueprint'
+          outdir.mkdir(parents=True,exist_ok=True)
+          for i in range(0,len(rows),75):
+              part=rows[i:i+75]
+              (outdir/f'part_{i//75+1:02d}.json').write_text(json.dumps(part,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          (outdir/'SUMMARY.txt').write_text(f'count={len(rows)}\nfirst={rows[0]["word"]}\nlast={rows[-1]["word"]}\n',encoding='utf-8')
+          print('blueprint words',len(rows))
+          PY
+      - name: Commit blueprint
+        run: |
+          git config user.name "dictionary-dataset-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add staging/batch026/blueprint
+          git commit -m "Build Batch 026 canonical blueprint"
+          git push
