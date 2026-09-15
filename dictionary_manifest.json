@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "project": "Subtitle Bridge English-Burmese Dictionary",
+  "targetHeadwords": 30000,
+  "targetBatches": 60,
+  "entriesPerBatch": 500,
+  "latestBatch": 23,
+  "nextBatch": 24,
+  "batchCount": 23,
+  "totalHeadwords": 11500,
+  "repositoryBatchesStartAt": 24,
+  "historicalBatches": {
+    "from": 1,
+    "through": 23,
+    "mirroredAsJson": false,
+    "representedInLookupIndex": true
+  },
+  "lookup": {
+    "path": "lookup/used_keys_current.zlib.b64",
+    "encoding": "base64(zlib(utf8 newline-separated keys))",
+    "throughBatch": 23,
+    "uniqueLookupKeys": 22881,
+    "uniqueHeadwords": 11500,
+    "uniqueStoredForms": 11427,
+    "sha256": "9961a84a5280a75020d44af237f24b21bf8bed1be8c06ce84f53ac5955642d7f"
+  },
+  "batchFilenamePattern": "batches/dictionary_batch_XXX.json",
+  "status": "active"
+}
