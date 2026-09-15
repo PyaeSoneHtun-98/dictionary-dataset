@@ -21,7 +21,7 @@ The repository is the source of truth for all work from Batch 024 onward. The hi
 ```text
 AGENTS.md                     permanent generation rules
 dictionary_manifest.json      project progress / next batch
-batches/                      generated batch JSON files
+Batches/                      generated batch JSON files
 lookup/                       prior lookup-key indexes
 scripts/                      validation and index utilities
 ```

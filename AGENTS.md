@@ -21,7 +21,7 @@ When the user says `next batch`:
 5. Write natural Burmese meanings manually using language understanding.
 6. Add General American IPA and useful inflected forms.
 7. Run all validation rules below.
-8. Commit the new file as `batches/dictionary_batch_XXX.json`.
+8. Commit the new file as `Batches/dictionary_batch_XXX.json`.
 9. Update the cumulative lookup index so it contains all old keys plus the new headwords/forms.
 10. Update `dictionary_manifest.json` (`latestBatch`, `nextBatch`, `batchCount`, `totalHeadwords`, and lookup metadata).
 11. Return the new batch file/result to the user with a short validation summary.
@@ -204,6 +204,6 @@ Every batch must satisfy all of the following:
 
 `lookup/used_keys_current.zlib.b64` is the canonical cumulative exclusion index. It is zlib-compressed UTF-8 text, Base64 encoded, with one lookup key per line before compression.
 
-Batches 001–023 were generated before this repository workflow was initialized. Their complete lookup keys are represented in the cumulative lookup index. Batch 024 onward should be committed directly under `batches/`.
+Batches 001–023 were generated before this repository workflow was initialized. Their complete lookup keys are represented in the cumulative lookup index. Batch 024 onward should be committed directly under `Batches/`.
 
 If historical batch JSON files are later mirrored into the repo, do not alter their data merely to make them fit a new generation rule; validate and document any corrections explicitly.
