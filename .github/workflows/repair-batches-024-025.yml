@@ -1,0 +1,161 @@
+name: Repair Batches 024 and 025
+
+on:
+  push:
+    paths:
+      - 'staging/repair_024_025/READY'
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Assemble, validate, rebuild lookup, and update manifest
+        run: |
+          python - <<'PY'
+          import base64
+          import hashlib
+          import json
+          import pathlib
+          import re
+          import shutil
+          import zlib
+
+          root = pathlib.Path('.')
+          stage = root / 'staging' / 'repair_024_025'
+
+          def read_staged(batch_no: int):
+              parts = sorted(stage.glob(f'batch{batch_no:03d}.part*.b64'))
+              assert parts, f'No staged parts for Batch {batch_no:03d}'
+              encoded = ''.join(p.read_text(encoding='ascii').strip() for p in parts)
+              raw = zlib.decompress(base64.b64decode(encoded))
+              data = json.loads(raw.decode('utf-8'))
+              return raw, data
+
+          def validate_basic(data, batch_no: int):
+              assert data['version'] == 1
+              assert data['batch'] == batch_no
+              entries = data['entries']
+              assert len(entries) == 500
+              words = [e['word'] for e in entries]
+              assert len(set(words)) == 500
+              assert all(e.get('pronunciation') for e in entries)
+              assert all(e.get('meanings') for e in entries)
+              assert all(' ' not in w and '-' not in w for w in words)
+              for e in entries:
+                  forms = e.get('forms', [])
+                  assert e['word'] not in forms
+                  assert len(forms) == len(set(forms))
+              return entries
+
+          raw24, data24 = read_staged(24)
+          raw25, data25 = read_staged(25)
+          entries24 = validate_basic(data24, 24)
+          entries25 = validate_basic(data25, 25)
+
+          historical_files = sorted((root / 'Batches').glob('dictionary_batch_*.json'))
+          assert len(historical_files) >= 23
+
+          prior_keys = set()
+          all_headwords = set()
+          all_forms = set()
+
+          for path in historical_files:
+              data = json.loads(path.read_text(encoding='utf-8'))
+              batch_no = int(data['batch'])
+              if batch_no > 23:
+                  continue
+              entries = data['entries']
+              assert len(entries) == 500
+              for e in entries:
+                  word = e['word']
+                  all_headwords.add(word)
+                  prior_keys.add(word)
+                  for form in e.get('forms', []):
+                      all_forms.add(form)
+                      prior_keys.add(form)
+
+          assert len(all_headwords) == 11500, len(all_headwords)
+          assert len(prior_keys) == 22881, len(prior_keys)
+
+          def add_new_batch(entries, batch_no: int):
+              local_keys = set()
+              for e in entries:
+                  keys = [e['word'], *e.get('forms', [])]
+                  for key in keys:
+                      assert key not in prior_keys, f'Batch {batch_no:03d} overlaps prior key: {key}'
+                      assert key not in local_keys, f'Batch {batch_no:03d} internal key collision: {key}'
+                      local_keys.add(key)
+                  all_headwords.add(e['word'])
+                  all_forms.update(e.get('forms', []))
+              prior_keys.update(local_keys)
+
+          add_new_batch(entries24, 24)
+          add_new_batch(entries25, 25)
+
+          assert len(all_headwords) == 12500
+
+          out_dir = root / 'batches'
+          out_dir.mkdir(parents=True, exist_ok=True)
+          (out_dir / 'dictionary_batch_024.json').write_bytes(raw24)
+          (out_dir / 'dictionary_batch_025.json').write_bytes(raw25)
+
+          lookup_plain = ('\n'.join(sorted(prior_keys)) + '\n').encode('utf-8')
+          lookup_encoded = base64.b64encode(zlib.compress(lookup_plain, 9)).decode('ascii')
+          lookup_path = root / 'lookup' / 'used_keys_current.zlib.b64'
+          lookup_path.parent.mkdir(parents=True, exist_ok=True)
+          lookup_path.write_text(lookup_encoded, encoding='ascii')
+
+          manifest_path = root / 'dictionary_manifest.json'
+          manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+          manifest['latestBatch'] = 25
+          manifest['nextBatch'] = 26
+          manifest['batchCount'] = 25
+          manifest['totalHeadwords'] = 12500
+          manifest['lookup']['path'] = 'lookup/used_keys_current.zlib.b64'
+          manifest['lookup']['encoding'] = 'base64(zlib(utf8 newline-separated keys))'
+          manifest['lookup']['throughBatch'] = 25
+          manifest['lookup']['uniqueLookupKeys'] = len(prior_keys)
+          manifest['lookup']['uniqueHeadwords'] = len(all_headwords)
+          manifest['lookup']['uniqueStoredForms'] = len(all_forms)
+          manifest['lookup']['sha256'] = hashlib.sha256(lookup_encoded.encode('ascii')).hexdigest()
+          manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+
+          readme_path = root / 'README.md'
+          readme = readme_path.read_text(encoding='utf-8')
+          readme = re.sub(
+              r'Batches 001–023 have been generated: \*\*11,500 unique headwords\*\*\.',
+              'Batches 001–025 have been generated: **12,500 unique headwords**.',
+              readme,
+          )
+          readme = readme.replace(
+              'The repository is the source of truth for all work from Batch 024 onward.',
+              'The repository is the source of truth for all work from Batch 024 onward.'
+          )
+          readme_path.write_text(readme, encoding='utf-8')
+
+          shutil.rmtree(root / 'staging' / 'batch024', ignore_errors=True)
+          shutil.rmtree(stage, ignore_errors=True)
+          (root / '.github' / 'workflows' / 'assemble-batch-024.yml').unlink(missing_ok=True)
+          (root / '.github' / 'workflows' / 'repair-batches-024-025.yml').unlink(missing_ok=True)
+
+          print('Batch 024 entries:', len(entries24))
+          print('Batch 025 entries:', len(entries25))
+          print('Total headwords:', len(all_headwords))
+          print('Unique lookup keys:', len(prior_keys))
+          print('Unique stored forms:', len(all_forms))
+          PY
+
+      - name: Commit repaired dataset state
+        run: |
+          git config user.name "dictionary-dataset-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "Repair dictionary batches 024 and 025"
+          git push
