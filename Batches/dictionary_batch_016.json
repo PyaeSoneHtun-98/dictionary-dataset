@@ -1,0 +1,7473 @@
+{
+  "version": 1,
+  "batch": 16,
+  "entries": [
+    {
+      "word": "shin",
+      "pronunciation": "/ʃɪn/",
+      "forms": [
+        "shins"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခြေသလုံးရှေ့ပိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "handwriting",
+      "pronunciation": "/ˈhænˌdraɪtɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်ရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "salon",
+      "pronunciation": "/səˈlɑn/",
+      "forms": [
+        "salons"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလှပြင်ဆိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nerd",
+      "pronunciation": "/nɝd/",
+      "forms": [
+        "nerds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာပေနဲ့နည်းပညာကို အလွန်စွဲလမ်းသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crappy",
+      "pronunciation": "/ˈkræpi/",
+      "forms": [
+        "crappier",
+        "crappiest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလွန်ညံ့သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dinosaur",
+      "pronunciation": "/ˈdaɪnəˌsɔr/",
+      "forms": [
+        "dinosaurs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒိုင်နိုဆော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stray",
+      "pronunciation": "/streɪ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လမ်းလွဲသွားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "savior",
+      "pronunciation": "/ˈseɪvjɚ/",
+      "forms": [
+        "saviors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကယ်တင်ရှင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wager",
+      "pronunciation": "/ˈweɪdʒɚ/",
+      "forms": [
+        "wagers",
+        "wagered",
+        "wagering"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လောင်းကြေး"
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လောင်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dye",
+      "pronunciation": "/daɪ/",
+      "forms": [
+        "dyes",
+        "dyed",
+        "dyeing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆိုးဆေး"
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အရောင်ဆိုးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "thigh",
+      "pronunciation": "/θaɪ/",
+      "forms": [
+        "thighs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပေါင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tonic",
+      "pronunciation": "/ˈtɑnɪk/",
+      "forms": [
+        "tonics"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အားဖြည့်ဆေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "eyewitness",
+      "pronunciation": "/ˈaɪˌwɪtnəs/",
+      "forms": [
+        "eyewitnesses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျက်မြင်သက်သေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hound",
+      "pronunciation": "/haʊnd/",
+      "forms": [
+        "hounds",
+        "hounded",
+        "hounding"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမဲလိုက်ခွေး"
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တောက်လျှောက်လိုက်နှောင့်ယှက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cloak",
+      "pronunciation": "/kloʊk/",
+      "forms": [
+        "cloaks",
+        "cloaked",
+        "cloaking"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပေါ်ရုံရှည်"
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဖုံးကွယ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cheerleader",
+      "pronunciation": "/ˈtʃɪrˌlidɚ/",
+      "forms": [
+        "cheerleaders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အားပေးကခုန်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "macho",
+      "pronunciation": "/ˈmɑtʃoʊ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ယောက်ျားပီသကြောင်း အလွန်အကျွံပြသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fling",
+      "pronunciation": "/flɪŋ/",
+      "forms": [
+        "flings",
+        "flung",
+        "flinging"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အားနဲ့ပစ်လွှတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uptight",
+      "pronunciation": "/əpˈtaɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စိတ်တင်းကျပ်နေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jockey",
+      "pronunciation": "/ˈdʒɑki/",
+      "forms": [
+        "jockeys"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြင်းစီးပြိုင်ပွဲသမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "penthouse",
+      "pronunciation": "/ˈpɛntˌhaʊs/",
+      "forms": [
+        "penthouses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဆောက်အဦထိပ်ဆုံးဇိမ်ခံခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "quack",
+      "pronunciation": "/kwæk/",
+      "forms": [
+        "quacks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆရာဝန်အယောင်ဆောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "peck",
+      "pronunciation": "/pɛk/",
+      "forms": [
+        "pecks",
+        "pecked",
+        "pecking"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "နှုတ်သီးနဲ့ဆိတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sideways",
+      "pronunciation": "/ˈsaɪˌdweɪz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ဘေးတိုက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "troll",
+      "pronunciation": "/troʊl/",
+      "forms": [
+        "trolls"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက်ပေါ် တမင်ရန်စသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "notch",
+      "pronunciation": "/nɑtʃ/",
+      "forms": [
+        "notches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အထစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "idiotic",
+      "pronunciation": "/ˌɪdiˈɑtɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလွန်မိုက်မဲသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inconvenience",
+      "pronunciation": "/ˌɪnkənˈvinjəns/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဆင်မပြေမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "quarry",
+      "pronunciation": "/ˈkwɔri/",
+      "forms": [
+        "quarries"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောက်မိုင်း",
+            "လိုက်လံဖမ်းဆီးရမည့်ပစ်မှတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "semen",
+      "pronunciation": "/ˈsimən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သုက်ရည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "harness",
+      "pronunciation": "/ˈhɑrnəs/",
+      "forms": [
+        "harnesses",
+        "harnessed",
+        "harnessing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ထိန်းကြိုးတန်ဆာ"
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အသုံးချသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "slate",
+      "pronunciation": "/sleɪt/",
+      "forms": [
+        "slates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောက်သင်ပုန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "upright",
+      "pronunciation": "/əˈpraɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မတ်မတ်တည့်တည့်ဖြစ်သော",
+            "ဖြောင့်မတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "patron",
+      "pronunciation": "/ˈpeɪtrən/",
+      "forms": [
+        "patrons"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပံ့ပိုးသူ",
+            "ဖောက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reborn",
+      "pronunciation": "/ˌriˈbɔrn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပြန်လည်မွေးဖွားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "typewriter",
+      "pronunciation": "/ˈtaɪpˌraɪtɚ/",
+      "forms": [
+        "typewriters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်နှိပ်စက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "utmost",
+      "pronunciation": "/ˈʌtˌmoʊst/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အမြင့်ဆုံးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "glee",
+      "pronunciation": "/ɡli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝမ်းသာပီတိ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "revolver",
+      "pronunciation": "/rɪˈvɑlvɚ/",
+      "forms": [
+        "revolvers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခြောက်လုံးပြူးသေနတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "brunch",
+      "pronunciation": "/brʌntʃ/",
+      "forms": [
+        "brunches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နံနက်စာနဲ့နေ့လယ်စာပေါင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dwell",
+      "pronunciation": "/dwɛl/",
+      "forms": [
+        "dwells",
+        "dwelled",
+        "dwelt",
+        "dwelling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "နေထိုင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "squat",
+      "pronunciation": "/skwɑt/",
+      "forms": [
+        "squats",
+        "squatted",
+        "squatting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဒူးကွေးထိုင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mailbox",
+      "pronunciation": "/ˈmeɪlˌbɑks/",
+      "forms": [
+        "mailboxes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာတိုက်ပုံး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lynch",
+      "pronunciation": "/lɪntʃ/",
+      "forms": [
+        "lynches",
+        "lynched",
+        "lynching"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လူအုပ်က တရားမဝင်သတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "scrape",
+      "pronunciation": "/skreɪp/",
+      "forms": [
+        "scrapes",
+        "scraped",
+        "scraping"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ခြစ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "commandant",
+      "pronunciation": "/ˌkɑmənˈdɑnt/",
+      "forms": [
+        "commandants"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တပ်စခန်းမှူး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "paycheck",
+      "pronunciation": "/ˈpeɪˌtʃɛk/",
+      "forms": [
+        "paychecks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လစာငွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "panther",
+      "pronunciation": "/ˈpænθɚ/",
+      "forms": [
+        "panthers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျားသစ်နက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trout",
+      "pronunciation": "/traʊt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ထရောက်ငါး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "repent",
+      "pronunciation": "/rɪˈpɛnt/",
+      "forms": [
+        "repents",
+        "repented",
+        "repenting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "နောင်တရပြီးပြုပြင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "martyr",
+      "pronunciation": "/ˈmɑrtɚ/",
+      "forms": [
+        "martyrs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယုံကြည်ချက်အတွက် အသက်စွန့်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "privileged",
+      "pronunciation": "/ˈprɪvlədʒd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အခွင့်ထူးရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "charter",
+      "pronunciation": "/ˈtʃɑrtɚ/",
+      "forms": [
+        "charters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပဋိညာဉ်စာတမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "litter",
+      "pronunciation": "/ˈlɪtɚ/",
+      "forms": [
+        "litters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမှိုက်သရိုက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "standby",
+      "pronunciation": "/ˈstændˌbaɪ/",
+      "forms": [
+        "standbys"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရန်အသင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "kilo",
+      "pronunciation": "/ˈkiloʊ/",
+      "forms": [
+        "kilos"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကီလိုဂရမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vicinity",
+      "pronunciation": "/vəˈsɪnəti/",
+      "forms": [
+        "vicinities"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အနီးပတ်ဝန်းကျင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "flank",
+      "pronunciation": "/flæŋk/",
+      "forms": [
+        "flanks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘေးတန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "itchy",
+      "pronunciation": "/ˈɪtʃi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ယားယံသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ensign",
+      "pronunciation": "/ˈɛnsən/",
+      "forms": [
+        "ensigns"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေတပ်အငယ်တန်းအရာရှိ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "haste",
+      "pronunciation": "/heɪst/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလောတကြီးလုပ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bumper",
+      "pronunciation": "/ˈbʌmpɚ/",
+      "forms": [
+        "bumpers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကားရှေ့နောက်ကာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "slash",
+      "pronunciation": "/slæʃ/",
+      "forms": [
+        "slashes",
+        "slashed",
+        "slashing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဓားနဲ့အရှည်လိုက်ခုတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "thorn",
+      "pronunciation": "/θɔrn/",
+      "forms": [
+        "thorns"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆူး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "workout",
+      "pronunciation": "/ˈwɝˌkaʊt/",
+      "forms": [
+        "workouts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်လက်လေ့ကျင့်ခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "extraterrestrial",
+      "pronunciation": "/ˌɛkstrətɚˈɛstriəl/",
+      "forms": [
+        "extraterrestrials"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကမ္ဘာပြင်ပသက်ရှိ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vacant",
+      "pronunciation": "/ˈveɪkənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လွတ်နေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "purity",
+      "pronunciation": "/ˈpjʊrəti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သန့်ရှင်းစင်ကြယ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ramp",
+      "pronunciation": "/ræmp/",
+      "forms": [
+        "ramps"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တက်ဆင်းလမ်းစောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intriguing",
+      "pronunciation": "/ˌɪnˈtriɡɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စိတ်ဝင်စားဖွယ်ကောင်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rook",
+      "pronunciation": "/rʊk/",
+      "forms": [
+        "rooks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စစ်တုရင်ရဲတိုက်ရုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "daft",
+      "pronunciation": "/dæft/",
+      "forms": [
+        "dafter",
+        "daftest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မိုက်မဲသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "infirmary",
+      "pronunciation": "/ɪnˈfɝmɚi/",
+      "forms": [
+        "infirmaries"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးကုခန်းငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "milky",
+      "pronunciation": "/ˈmɪlki/",
+      "forms": [
+        "milkier",
+        "milkiest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နို့ရောင်ဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "glamorous",
+      "pronunciation": "/ˈɡlæmɚəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တောက်ပဆွဲဆောင်မှုရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cinnamon",
+      "pronunciation": "/ˈsɪnəmən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သစ်ကြံပိုးခေါက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "housewife",
+      "pronunciation": "/ˈhaʊˌswaɪf/",
+      "forms": [
+        "housewives"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိမ်ရှင်မ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "soak",
+      "pronunciation": "/soʊk/",
+      "forms": [
+        "soaks",
+        "soaked",
+        "soaking"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ရေစိမ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "resurrection",
+      "pronunciation": "/ˌrɛzɚˈɛkʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သေပြီးပြန်ရှင်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "latte",
+      "pronunciation": "/ˈlɑteɪ/",
+      "forms": [
+        "lattes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နို့ဖျော်ကော်ဖီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lighthouse",
+      "pronunciation": "/ˈlaɪtˌhaʊs/",
+      "forms": [
+        "lighthouses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မီးပြတိုက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "valet",
+      "pronunciation": "/væˈleɪ/",
+      "forms": [
+        "valets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကားရပ်ပေးဝန်ထမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "paddle",
+      "pronunciation": "/ˈpædəl/",
+      "forms": [
+        "paddles",
+        "paddled",
+        "paddling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လှော်တက်"
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လှော်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "louse",
+      "pronunciation": "/laʊs/",
+      "forms": [
+        "lice"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "itch",
+      "pronunciation": "/ɪtʃ/",
+      "forms": [
+        "itches",
+        "itched",
+        "itching"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ယားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gibberish",
+      "pronunciation": "/ˈɡɪbɚɪʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဓိပ္ပာယ်မရှိတဲ့အပြော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "voicemail",
+      "pronunciation": "/ˈvɔɪsˌmeɪl/",
+      "forms": [
+        "voicemails"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသံမက်ဆေ့ချ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cadet",
+      "pronunciation": "/kəˈdɛt/",
+      "forms": [
+        "cadets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေ့ကျင့်ရေးဗိုလ်လောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spectacle",
+      "pronunciation": "/ˈspɛktəkəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူအများကြည့်ရှုရာ မြင်ကွင်းကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "paste",
+      "pronunciation": "/peɪst/",
+      "forms": [
+        "pastes",
+        "pasted",
+        "pasting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကပ်ဆေး"
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ကပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fiery",
+      "pronunciation": "/ˈfaɪɚi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စိတ်ပြင်းထန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spiral",
+      "pronunciation": "/ˈspaɪrəl/",
+      "forms": [
+        "spirals",
+        "spiraled",
+        "spiraling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရုပတ်ပုံ"
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဆက်တိုက်ဆိုးရွားလာသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "clipboard",
+      "pronunciation": "/ˈklɪpˌbɔrd/",
+      "forms": [
+        "clipboards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလစ်တပ်စာရေးဘုတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "touchdown",
+      "pronunciation": "/ˈtʌtʃˌdaʊn/",
+      "forms": [
+        "touchdowns"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမေရိကန်ဘောလုံးဂိုးမှတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "posh",
+      "pronunciation": "/pɑʃ/",
+      "forms": [
+        "posher",
+        "poshest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ခမ်းနားအဆင့်မြင့်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chubby",
+      "pronunciation": "/ˈtʃʌbi/",
+      "forms": [
+        "chubbier",
+        "chubbiest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပြည့်ပြည့်ဖောင်းဖောင်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "steroid",
+      "pronunciation": "/stɚˈɔɪd/",
+      "forms": [
+        "steroids"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စတီရွိုက်ဟော်မုန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "genie",
+      "pronunciation": "/ˈdʒini/",
+      "forms": [
+        "genies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆန္ဒဖြည့်နတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "witchcraft",
+      "pronunciation": "/ˈwɪtʃˌkræft/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စုန်းပညာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mischief",
+      "pronunciation": "/ˈmɪstʃəf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်သရမ်းမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ripper",
+      "pronunciation": "/ˈrɪpɚ/",
+      "forms": [
+        "rippers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူသတ်သမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "imbecile",
+      "pronunciation": "/ˈɪmbəsəl/",
+      "forms": [
+        "imbeciles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလွန်မိုက်မဲသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cove",
+      "pronunciation": "/koʊv/",
+      "forms": [
+        "coves"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပင်လယ်အော်ငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lair",
+      "pronunciation": "/lɛr/",
+      "forms": [
+        "lairs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခိုအောင်းရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "congregation",
+      "pronunciation": "/ˌkɑŋɡrəˈɡeɪʃən/",
+      "forms": [
+        "congregations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘုရားဝတ်ပြုသူများအဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crisp",
+      "pronunciation": "/krɪsp/",
+      "forms": [
+        "crisper",
+        "crispest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကြွပ်ရွသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "knuckle",
+      "pronunciation": "/ˈnʌkəl/",
+      "forms": [
+        "knuckles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်ချောင်းဆစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cork",
+      "pronunciation": "/kɔrk/",
+      "forms": [
+        "corks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖော့ပိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "icy",
+      "pronunciation": "/ˈaɪsi/",
+      "forms": [
+        "icier",
+        "iciest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရေခဲလိုအေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wormhole",
+      "pronunciation": "/ˈwɝmˌhɔl/",
+      "forms": [
+        "wormholes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အာကာသဖြတ်လမ်းပေါက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "flyer",
+      "pronunciation": "/ˈflaɪɚ/",
+      "forms": [
+        "flyers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်ကမ်းစာစောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pep",
+      "pronunciation": "/pɛp/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တက်ကြွအားမာန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "poetic",
+      "pronunciation": "/poʊˈɛtɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကဗျာဆန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "duct",
+      "pronunciation": "/dʌkt/",
+      "forms": [
+        "ducts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြွန်လမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "messiah",
+      "pronunciation": "/məˈsaɪə/",
+      "forms": [
+        "messiahs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကယ်တင်ရှင်မေရှိယ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "muddy",
+      "pronunciation": "/ˈmʌdi/",
+      "forms": [
+        "muddier",
+        "muddiest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရွှံ့ထူသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "suction",
+      "pronunciation": "/ˈsʌkʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စုပ်အား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "override",
+      "pronunciation": "/ˈoʊvɚˌraɪd/",
+      "forms": [
+        "overrides",
+        "overrode",
+        "overridden",
+        "overriding"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "မူလဆုံးဖြတ်ချက်ကို ပယ်ပြီးအစားထိုးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "needy",
+      "pronunciation": "/ˈnidi/",
+      "forms": [
+        "needier",
+        "neediest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အကူအညီလိုအပ်နေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inhabitant",
+      "pronunciation": "/ɪnˈhæbətənt/",
+      "forms": [
+        "inhabitants"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နေထိုင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "blimey",
+      "pronunciation": "/ˈblaɪmi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "interjection",
+          "burmese": [
+            "ဟာကွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "titan",
+      "pronunciation": "/ˈtaɪtən/",
+      "forms": [
+        "titans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလွန်အင်အားကြီးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mutt",
+      "pronunciation": "/mʌt/",
+      "forms": [
+        "mutts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျိုးစပ်ခွေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hairdresser",
+      "pronunciation": "/ˈhɛrˌdrɛsɚ/",
+      "forms": [
+        "hairdressers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆံပင်ညှပ်ပြင်ဆရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dork",
+      "pronunciation": "/dɔrk/",
+      "forms": [
+        "dorks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အူကြောင်ကြောင်လူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bulk",
+      "pronunciation": "/bʌlk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမြောက်အများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "paw",
+      "pronunciation": "/pɔ/",
+      "forms": [
+        "paws"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တိရစ္ဆာန်ခြေဖဝါး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "plaster",
+      "pronunciation": "/ˈplæstɚ/",
+      "forms": [
+        "plasters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်္ဂတေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "carve",
+      "pronunciation": "/kɑrv/",
+      "forms": [
+        "carves",
+        "carved",
+        "carving"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ထွင်းထုသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "martian",
+      "pronunciation": "/ˈmɑrʃən/",
+      "forms": [
+        "martians"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်္ဂါဂြိုဟ်သား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chunk",
+      "pronunciation": "/tʃʌŋk/",
+      "forms": [
+        "chunks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အတုံးကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hag",
+      "pronunciation": "/hæɡ/",
+      "forms": [
+        "hags"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမယ်အိုဆိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "holler",
+      "pronunciation": "/ˈhɑlɚ/",
+      "forms": [
+        "hollers",
+        "hollered",
+        "hollering"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အော်ဟစ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chug",
+      "pronunciation": "/tʃʌɡ/",
+      "forms": [
+        "chugs",
+        "chugged",
+        "chugging"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အလျင်အမြန် အများကြီးသောက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hare",
+      "pronunciation": "/hɛr/",
+      "forms": [
+        "hares"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တောယုန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vouch",
+      "pronunciation": "/vaʊtʃ/",
+      "forms": [
+        "vouches",
+        "vouched",
+        "vouching"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အာမခံပြောသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lunar",
+      "pronunciation": "/ˈlunɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rightful",
+      "pronunciation": "/ˈraɪtfəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တရားဝင်ရထိုက်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "freckle",
+      "pronunciation": "/ˈfrɛkəl/",
+      "forms": [
+        "freckles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တင်းတိပ်အစက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "offspring",
+      "pronunciation": "/ˈɔfˌsprɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သားသမီးမျိုးဆက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "monstrous",
+      "pronunciation": "/ˈmɑnstrəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကြောက်မက်ဖွယ်ကြီးမားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "doorman",
+      "pronunciation": "/ˈdɔrˌmæn/",
+      "forms": [
+        "doormen"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တံခါးစောင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "prop",
+      "pronunciation": "/prɑp/",
+      "forms": [
+        "props"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇာတ်ဝင်ပစ္စည်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shag",
+      "pronunciation": "/ʃæɡ/",
+      "forms": [
+        "shags",
+        "shagged",
+        "shagging"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လိင်ဆက်ဆံသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "underpants",
+      "pronunciation": "/ˈʌndɚˌpænts/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အတွင်းခံဘောင်းဘီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emerald",
+      "pronunciation": "/ˈɛmrəld/",
+      "forms": [
+        "emeralds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြကျောက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hassle",
+      "pronunciation": "/ˈhæsəl/",
+      "forms": [
+        "hassles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အနှောင့်အယှက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "thrilling",
+      "pronunciation": "/ˈθrɪlɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရင်ခုန်စိတ်လှုပ်ရှားဖွယ်ကောင်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "clatter",
+      "pronunciation": "/ˈklætɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ထိခတ်မြည်သံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "undressed",
+      "pronunciation": "/ənˈdrɛst/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အဝတ်ချွတ်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "boiler",
+      "pronunciation": "/ˈbɔɪlɚ/",
+      "forms": [
+        "boilers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေနွေးဘွိုင်လာအိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "afterlife",
+      "pronunciation": "/ˈæftɚˌlaɪf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သေလွန်ပြီးနောက်ဘဝ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "smiley",
+      "pronunciation": "/ˈsmaɪli/",
+      "forms": [
+        "smileys"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြုံးနေသောမျက်နှာပုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wand",
+      "pronunciation": "/wɑnd/",
+      "forms": [
+        "wands"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မှော်တုတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "liaison",
+      "pronunciation": "/liˈeɪˌzɑn/",
+      "forms": [
+        "liaisons"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆက်သွယ်ညှိနှိုင်းမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bloke",
+      "pronunciation": "/bloʊk/",
+      "forms": [
+        "blokes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယောက်ျားတစ်ယောက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stench",
+      "pronunciation": "/stɛntʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နံဆိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "peacock",
+      "pronunciation": "/ˈpiˌkɑk/",
+      "forms": [
+        "peacocks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒေါင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pluck",
+      "pronunciation": "/plʌk/",
+      "forms": [
+        "plucks",
+        "plucked",
+        "plucking"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဆွဲနှုတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bungalow",
+      "pronunciation": "/ˈbʌŋɡəˌloʊ/",
+      "forms": [
+        "bungalows"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တစ်ထပ်အိမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uranium",
+      "pronunciation": "/jɚˈeɪniəm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယူရေနီယမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sauna",
+      "pronunciation": "/ˈsɔnə/",
+      "forms": [
+        "saunas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချွေးထုတ်ခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bourgeois",
+      "pronunciation": "/bʊrʒˈwɑ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လူလတ်တန်းစားဆန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "downhill",
+      "pronunciation": "/ˌdaʊnˈhɪl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "တောင်အောက်ဘက်သို့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "turbo",
+      "pronunciation": "/ˈtɝboʊ/",
+      "forms": [
+        "turbos"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တာဘိုအားဖြည့်စက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sparrow",
+      "pronunciation": "/ˈspɛroʊ/",
+      "forms": [
+        "sparrows"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာကလေးငှက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "brew",
+      "pronunciation": "/bru/",
+      "forms": [
+        "brews",
+        "brewed",
+        "brewing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဖျော်ချက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "turd",
+      "pronunciation": "/tɝd/",
+      "forms": [
+        "turds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မစင်တုံး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "challenger",
+      "pronunciation": "/ˈtʃæləndʒɚ/",
+      "forms": [
+        "challengers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စိန်ခေါ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bulletin",
+      "pronunciation": "/ˈbʊlɪtən/",
+      "forms": [
+        "bulletins"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သတင်းကြေညာချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jinx",
+      "pronunciation": "/dʒɪŋks/",
+      "forms": [
+        "jinxes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကံဆိုးစေတဲ့အရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "immortality",
+      "pronunciation": "/ˌɪmɔrˈtælɪti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မသေမပျောက်ဘဝ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "procession",
+      "pronunciation": "/prəˈsɛʃən/",
+      "forms": [
+        "processions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီတန်းလှည့်လည်ပွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "knob",
+      "pronunciation": "/nɑb/",
+      "forms": [
+        "knobs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်ကိုင်ခလုတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bead",
+      "pronunciation": "/bid/",
+      "forms": [
+        "beads"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုတီးစေ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "windy",
+      "pronunciation": "/ˈwɪndi/",
+      "forms": [
+        "windier",
+        "windiest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လေတိုက်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lass",
+      "pronunciation": "/læs/",
+      "forms": [
+        "lasses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိန်းကလေးငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "leisure",
+      "pronunciation": "/ˈlɛʒɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အားလပ်ချိန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "buff",
+      "pronunciation": "/bʌf/",
+      "forms": [
+        "buffs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလွန်ဝါသနာပါသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "heave",
+      "pronunciation": "/hiv/",
+      "forms": [
+        "heaves",
+        "heaved",
+        "heaving"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အားနဲ့မတင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "goodwill",
+      "pronunciation": "/ˌɡʊdˈwɪl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စေတနာကောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "boar",
+      "pronunciation": "/bɔr/",
+      "forms": [
+        "boars"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တောဝက်ထီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rhyme",
+      "pronunciation": "/raɪm/",
+      "forms": [
+        "rhymes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကာရန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "brunette",
+      "pronunciation": "/bruˈnɛt/",
+      "forms": [
+        "brunettes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆံပင်အညိုရောင်မိန်းမ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jab",
+      "pronunciation": "/dʒæb/",
+      "forms": [
+        "jabs",
+        "jabbed",
+        "jabbing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အမြန်ထိုးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hippie",
+      "pronunciation": "/ˈhɪpi/",
+      "forms": [
+        "hippies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟစ်ပီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "golly",
+      "pronunciation": "/ˈɡɑli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "interjection",
+          "burmese": [
+            "အလိုလေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pyramid",
+      "pronunciation": "/ˈpɪrəmɪd/",
+      "forms": [
+        "pyramids"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပိရမစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dandy",
+      "pronunciation": "/ˈdændi/",
+      "forms": [
+        "dandies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဝတ်အစားအလှကို အလွန်ဂရုစိုက်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "parting",
+      "pronunciation": "/ˈpɑrtɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခွဲခွာမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "err",
+      "pronunciation": "/ɛr/",
+      "forms": [
+        "errs",
+        "erred",
+        "erring"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "မှားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dreamer",
+      "pronunciation": "/ˈdrimɚ/",
+      "forms": [
+        "dreamers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိပ်မက်ကြီးမားသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "squire",
+      "pronunciation": "/skwaɪr/",
+      "forms": [
+        "squires"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သူရဲကောင်းအကူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tweet",
+      "pronunciation": "/twit/",
+      "forms": [
+        "tweets",
+        "tweeted",
+        "tweeting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆိုရှယ်မီဒီယာတိုပို့စ်"
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တိုပို့စ်တင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "audible",
+      "pronunciation": "/ˈɑdəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကြားနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "communion",
+      "pronunciation": "/kəˈmjunjən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သန့်ရှင်းမုန့်ဝိုင်ဝေခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ballroom",
+      "pronunciation": "/ˈbɔlˌrum/",
+      "forms": [
+        "ballrooms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကပွဲခန်းမ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phenomenal",
+      "pronunciation": "/fəˈnɑmənəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလွန်ထူးချွန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sweetness",
+      "pronunciation": "/ˈswitnəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချိုမြိန်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "parenting",
+      "pronunciation": "/ˈpɛrəntɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေးပြုစုပျိုးထောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wimp",
+      "pronunciation": "/wɪmp/",
+      "forms": [
+        "wimps"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သတ္တိနည်းသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rewrite",
+      "pronunciation": "/riˈraɪt/",
+      "forms": [
+        "rewrites",
+        "rewrote",
+        "rewritten",
+        "rewriting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပြန်ရေးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "captioning",
+      "pronunciation": "/ˈkæpʃənɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာတန်းထိုးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "revive",
+      "pronunciation": "/rɪˈvaɪv/",
+      "forms": [
+        "revives",
+        "revived",
+        "reviving"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပြန်လည်အသက်ဝင်စေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unnatural",
+      "pronunciation": "/ənˈnætʃɚəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သဘာဝမကျသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "onstage",
+      "pronunciation": "/ˌɑnˈsteɪdʒ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "စင်ပေါ်တွင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "comfy",
+      "pronunciation": "/ˈkʌmfi/",
+      "forms": [
+        "comfier",
+        "comfiest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သက်တောင့်သက်သာရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "telegraph",
+      "pronunciation": "/ˈtɛləˌɡræf/",
+      "forms": [
+        "telegraphs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြေးနန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "grandad",
+      "pronunciation": "/ˈɡrænˌdæd/",
+      "forms": [
+        "grandads"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဘိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "germ",
+      "pronunciation": "/dʒɝm/",
+      "forms": [
+        "germs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပိုးမွှား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "honk",
+      "pronunciation": "/hɑŋk/",
+      "forms": [
+        "honks",
+        "honked",
+        "honking"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဟွန်းတီးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tar",
+      "pronunciation": "/tɑr/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကတ္တရာစေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stance",
+      "pronunciation": "/stæns/",
+      "forms": [
+        "stances"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရပ်တည်ချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nosy",
+      "pronunciation": "/ˈnoʊzi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သူများကိစ္စစပ်စုသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "puppet",
+      "pronunciation": "/ˈpʌpət/",
+      "forms": [
+        "puppets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုပ်သေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "awe",
+      "pronunciation": "/ɑ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြည်ညိုအံ့ဩမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "postman",
+      "pronunciation": "/ˈpoʊstmən/",
+      "forms": [
+        "postmen"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာပို့သမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "clamp",
+      "pronunciation": "/klæmp/",
+      "forms": [
+        "clamps",
+        "clamped",
+        "clamping"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ညှပ်ကိရိယာ"
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တင်းညှပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chemist",
+      "pronunciation": "/ˈkɛmɪst/",
+      "forms": [
+        "chemists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဓာတုဗေဒပညာရှင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gunpowder",
+      "pronunciation": "/ˈɡʌnˌpaʊdɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယမ်းမှုန့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gala",
+      "pronunciation": "/ˈɡælə/",
+      "forms": [
+        "galas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခမ်းအနားကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "billionaire",
+      "pronunciation": "/ˌbɪljəˈnɛr/",
+      "forms": [
+        "billionaires"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘီလျံနာသူဌေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cardboard",
+      "pronunciation": "/ˈkɑrdˌbɔrd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကတ်ထူပြား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "everlasting",
+      "pronunciation": "/ˌɛvɚˈlæstɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ထာဝရတည်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "usher",
+      "pronunciation": "/ˈʌʃɚ/",
+      "forms": [
+        "ushers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နေရာညွှန်ဝန်ထမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sundown",
+      "pronunciation": "/ˈsʌnˌdaʊn/",
+      "forms": [
+        "sundowns"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နေဝင်ချိန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "metropolis",
+      "pronunciation": "/məˈtrɑpələs/",
+      "forms": [
+        "metropolises"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြို့ကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bridal",
+      "pronunciation": "/ˈbraɪdəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သတို့သမီးနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "victorious",
+      "pronunciation": "/vɪkˈtɔriəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အနိုင်ရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "squirt",
+      "pronunciation": "/skwɝt/",
+      "forms": [
+        "squirts",
+        "squirted",
+        "squirting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပန်းထွက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nip",
+      "pronunciation": "/nɪp/",
+      "forms": [
+        "nips",
+        "nipped",
+        "nipping"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အနည်းငယ်ကိုက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "backward",
+      "pronunciation": "/ˈbækwɚd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "နောက်သို့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sari",
+      "pronunciation": "/ˈsɑri/",
+      "forms": [
+        "saris"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆာရီဝတ်စုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bosom",
+      "pronunciation": "/ˈbʊzəm/",
+      "forms": [
+        "bosoms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရင်ခွင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "salsa",
+      "pronunciation": "/ˈsɔlsə/",
+      "forms": [
+        "salsas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆာလ်ဆာအက"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shred",
+      "pronunciation": "/ʃrɛd/",
+      "forms": [
+        "shreds",
+        "shredded",
+        "shredding"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အစိတ်စိတ်ဖျက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "aurora",
+      "pronunciation": "/ɚˈɔrə/",
+      "forms": [
+        "auroras"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝင်ရိုးစွန်းအရုဏ်ရောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sleigh",
+      "pronunciation": "/sleɪ/",
+      "forms": [
+        "sleighs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နှင်းလျှောလှည်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "redhead",
+      "pronunciation": "/ˈrɛdˌhɛd/",
+      "forms": [
+        "redheads"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆံပင်နီသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "creativity",
+      "pronunciation": "/ˌkrieɪˈtɪvəti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖန်တီးနိုင်စွမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "corny",
+      "pronunciation": "/ˈkɔrni/",
+      "forms": [
+        "cornier",
+        "corniest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဟောင်းနွမ်းရိုးအီသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chariot",
+      "pronunciation": "/ˈtʃɛriət/",
+      "forms": [
+        "chariots"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြင်းဆွဲစစ်လှည်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "havoc",
+      "pronunciation": "/ˈhævək/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အကြီးအကျယ်ပျက်စီးရှုပ်ထွေးမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "celestial",
+      "pronunciation": "/səˈlɛstʃəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကောင်းကင်အာကာသနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "videotape",
+      "pronunciation": "/ˈvɪdioʊˌteɪp/",
+      "forms": [
+        "videotapes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဗီဒီယိုတိပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "babysit",
+      "pronunciation": "/ˈbeɪbisɪt/",
+      "forms": [
+        "babysits",
+        "babysat",
+        "babysitting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ကလေးထိန်းပေးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rim",
+      "pronunciation": "/rɪm/",
+      "forms": [
+        "rims"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အနားသတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cheesy",
+      "pronunciation": "/ˈtʃizi/",
+      "forms": [
+        "cheesier",
+        "cheesiest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အပေါစားဆန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "symbolic",
+      "pronunciation": "/sɪmˈbɑlɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သင်္ကေတဆန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cranky",
+      "pronunciation": "/ˈkræŋki/",
+      "forms": [
+        "crankier",
+        "crankiest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စိတ်တိုလွယ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "grail",
+      "pronunciation": "/ɡreɪl/",
+      "forms": [
+        "grails"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလွန်တန်ဖိုးထားရှာဖွေသည့်အရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "toothpaste",
+      "pronunciation": "/ˈtuθˌpeɪst/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သွားတိုက်ဆေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lever",
+      "pronunciation": "/ˈlɛvɚ/",
+      "forms": [
+        "levers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မောင်းတံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shaman",
+      "pronunciation": "/ˈʃeɪmən/",
+      "forms": [
+        "shamans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နတ်ဆရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nipple",
+      "pronunciation": "/ˈnɪpəl/",
+      "forms": [
+        "nipples"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နို့သီးခေါင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "regent",
+      "pronunciation": "/ˈridʒənt/",
+      "forms": [
+        "regents"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစားထိုးအုပ်ချုပ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tile",
+      "pronunciation": "/taɪl/",
+      "forms": [
+        "tiles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြွေပြား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crusade",
+      "pronunciation": "/kruˈseɪd/",
+      "forms": [
+        "crusades"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရည်ရွယ်ချက်ကြီးတစ်ခုအတွက် လှုပ်ရှားမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shaky",
+      "pronunciation": "/ˈʃeɪki/",
+      "forms": [
+        "shakier",
+        "shakiest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မခိုင်မမာဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "alligator",
+      "pronunciation": "/ˈæləˌɡeɪtɚ/",
+      "forms": [
+        "alligators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမေရိကန်မိကျောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unicorn",
+      "pronunciation": "/ˈjunɪˌkɔrn/",
+      "forms": [
+        "unicorns"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယူနီကွန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "goofy",
+      "pronunciation": "/ˈɡufi/",
+      "forms": [
+        "goofier",
+        "goofiest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အူကြောင်ကြောင်ရယ်စရာကောင်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessman",
+      "pronunciation": "/ˈbɪznəˌsmæn/",
+      "forms": [
+        "businessmen"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေးသမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "noose",
+      "pronunciation": "/nus/",
+      "forms": [
+        "nooses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြိုးကွင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chic",
+      "pronunciation": "/ʃik/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ခေတ်မီသပ်ရပ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "twinkle",
+      "pronunciation": "/ˈtwɪŋkəl/",
+      "forms": [
+        "twinkles",
+        "twinkled",
+        "twinkling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တလက်လက်တောက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "baroness",
+      "pronunciation": "/ˈbɛrənəs/",
+      "forms": [
+        "baronesses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘာရွန်ဘွဲ့ရအမျိုးသမီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "malfunction",
+      "pronunciation": "/mælˈfʌŋkʃən/",
+      "forms": [
+        "malfunctions",
+        "malfunctioned",
+        "malfunctioning"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စက်ချို့ယွင်းမှု"
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ချို့ယွင်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "memorable",
+      "pronunciation": "/ˈmɛmɚəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မှတ်မိစရာကောင်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "motorbike",
+      "pronunciation": "/ˈmoʊtɚˌbaɪk/",
+      "forms": [
+        "motorbikes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မော်တော်ဆိုင်ကယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "snoop",
+      "pronunciation": "/snup/",
+      "forms": [
+        "snoops",
+        "snooped",
+        "snooping"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ခိုးကြည့်စုံစမ်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "array",
+      "pronunciation": "/ɚˈeɪ/",
+      "forms": [
+        "arrays"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစီအရီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tenderness",
+      "pronunciation": "/ˈtɛndɚnəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နူးညံ့ကြင်နာမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "moan",
+      "pronunciation": "/moʊn/",
+      "forms": [
+        "moans",
+        "moaned",
+        "moaning"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ညည်းသံထွက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "graffiti",
+      "pronunciation": "/ɡrəˈfiti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နံရံပေါ်ရေးဆွဲစာပုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "decorate",
+      "pronunciation": "/ˈdɛkɚˌeɪt/",
+      "forms": [
+        "decorates",
+        "decorated",
+        "decorating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အလှဆင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mandarin",
+      "pronunciation": "/ˈmændɚən/",
+      "forms": [
+        "mandarins"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မန်ဒရင်လိမ္မော်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "slime",
+      "pronunciation": "/slaɪm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချွဲညစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "executioner",
+      "pronunciation": "/ˌɛksəˈkjuʃənɚ/",
+      "forms": [
+        "executioners"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သေဒဏ်စီရင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tug",
+      "pronunciation": "/tʌɡ/",
+      "forms": [
+        "tugs",
+        "tugged",
+        "tugging"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အားနဲ့ဆွဲသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uptown",
+      "pronunciation": "/ˌʌpˈtaʊn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မြို့အထက်ပိုင်းသို့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bookstore",
+      "pronunciation": "/ˈbʊkˌstɔr/",
+      "forms": [
+        "bookstores"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာအုပ်ဆိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fudge",
+      "pronunciation": "/fʌdʒ/",
+      "forms": [
+        "fudges",
+        "fudged",
+        "fudging"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နို့ချောကလက်ပျော့မုန့်"
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အချက်အလက်ကို လိမ်လည်ပြင်ဆင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "slogan",
+      "pronunciation": "/ˈsloʊɡən/",
+      "forms": [
+        "slogans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆောင်ပုဒ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "quadrant",
+      "pronunciation": "/ˈkwɑdrənt/",
+      "forms": [
+        "quadrants"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေးပုံတစ်ပုံအပိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sparkle",
+      "pronunciation": "/ˈspɑrkəl/",
+      "forms": [
+        "sparkles",
+        "sparkled",
+        "sparkling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တဖျပ်ဖျပ်တောက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chump",
+      "pronunciation": "/tʃʌmp/",
+      "forms": [
+        "chumps"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလွယ်လှည့်စားခံရသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "howl",
+      "pronunciation": "/haʊl/",
+      "forms": [
+        "howls",
+        "howled",
+        "howling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အူသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "headphone",
+      "pronunciation": "/ˈhɛdˌfoʊn/",
+      "forms": [
+        "headphones"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နားကြပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "freshen",
+      "pronunciation": "/ˈfrɛʃən/",
+      "forms": [
+        "freshens",
+        "freshened",
+        "freshening"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လန်းဆန်းစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nightfall",
+      "pronunciation": "/ˈnaɪtˌfɔl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ညချမ်းမှောင်ချိန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "miniature",
+      "pronunciation": "/ˈmɪniəˌtʃʊr/",
+      "forms": [
+        "miniatures"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရွယ်သေးပုံစံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "omen",
+      "pronunciation": "/ˈoʊmən/",
+      "forms": [
+        "omens"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နိမိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chum",
+      "pronunciation": "/tʃʌm/",
+      "forms": [
+        "chums"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သူငယ်ချင်းရင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "posse",
+      "pronunciation": "/ˈpɑsi/",
+      "forms": [
+        "posses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လိုက်ဖမ်းရေးအဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jumbo",
+      "pronunciation": "/ˈdʒʌmboʊ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလွန်ကြီးမားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dung",
+      "pronunciation": "/dʌŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တိရစ္ဆာန်မစင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "plantation",
+      "pronunciation": "/ˌplænˈteɪʃən/",
+      "forms": [
+        "plantations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စိုက်ခင်းကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rust",
+      "pronunciation": "/rʌst/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သံချေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "urn",
+      "pronunciation": "/ɝn/",
+      "forms": [
+        "urns"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရိုးပြာထည့်အိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vine",
+      "pronunciation": "/vaɪn/",
+      "forms": [
+        "vines"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နွယ်ပင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "auspicious",
+      "pronunciation": "/ɑˈspɪʃəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မင်္ဂလာရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unpack",
+      "pronunciation": "/ənˈpæk/",
+      "forms": [
+        "unpacks",
+        "unpacked",
+        "unpacking"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ထုပ်ပိုးထားတာကို ဖွင့်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gavel",
+      "pronunciation": "/ˈɡævəl/",
+      "forms": [
+        "gavels"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တရားသူကြီးသံတူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hive",
+      "pronunciation": "/haɪv/",
+      "forms": [
+        "hives"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပျားအုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dew",
+      "pronunciation": "/du/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နှင်းရည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "harp",
+      "pronunciation": "/hɑrp/",
+      "forms": [
+        "harps"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟာ့ပ်တူရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "anthem",
+      "pronunciation": "/ˈænθəm/",
+      "forms": [
+        "anthems"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂုဏ်ပြုသီချင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "weave",
+      "pronunciation": "/wiv/",
+      "forms": [
+        "weaves",
+        "wove",
+        "woven",
+        "weaving"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ရက်လုပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gallows",
+      "pronunciation": "/ˈɡæloʊz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြိုးပေးစင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "budge",
+      "pronunciation": "/bʌdʒ/",
+      "forms": [
+        "budges",
+        "budged",
+        "budging"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အနည်းငယ်ရွေ့သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "landlady",
+      "pronunciation": "/ˈlændˌleɪdi/",
+      "forms": [
+        "landladies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိမ်ငှားပေးသော အမျိုးသမီးအိမ်ရှင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dusk",
+      "pronunciation": "/dʌsk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နေဝင်မှောင်ရီချိန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "indoors",
+      "pronunciation": "/ˈɪnˌdɔrz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အိမ်တွင်းတွင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "saliva",
+      "pronunciation": "/səˈlaɪvə/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တံတွေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "diver",
+      "pronunciation": "/ˈdaɪvɚ/",
+      "forms": [
+        "divers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေငုပ်သမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wiggle",
+      "pronunciation": "/ˈwɪɡəl/",
+      "forms": [
+        "wiggles",
+        "wiggled",
+        "wiggling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လှုပ်ယမ်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "aria",
+      "pronunciation": "/ˈɑriə/",
+      "forms": [
+        "arias"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အော်ပရာတစ်ကိုယ်တော်သီချင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sidekick",
+      "pronunciation": "/ˈsaɪdˌkɪk/",
+      "forms": [
+        "sidekicks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အနီးကပ်အဖော်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sap",
+      "pronunciation": "/sæp/",
+      "forms": [
+        "saps",
+        "sapped",
+        "sapping"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပင်ရည်"
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အားကုန်စေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "marble",
+      "pronunciation": "/ˈmɑrbəl/",
+      "forms": [
+        "marbles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မာဘယ်ကျောက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "refill",
+      "pronunciation": "/ˌriˈfɪl/",
+      "forms": [
+        "refills",
+        "refilled",
+        "refilling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပြန်ဖြည့်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lasagna",
+      "pronunciation": "/lɑˈsɑnjə/",
+      "forms": [
+        "lasagnas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လာဆာညာခေါက်ဆွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "muck",
+      "pronunciation": "/mʌk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ညစ်ပတ်သောအညစ်အကြေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "archbishop",
+      "pronunciation": "/ˌɑrtʃˈbɪʃəp/",
+      "forms": [
+        "archbishops"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂိုဏ်းချုပ်ဆရာတော်ကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spade",
+      "pronunciation": "/speɪd/",
+      "forms": [
+        "spades"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပေါက်တူးပြား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "saucer",
+      "pronunciation": "/ˈsɔsɚ/",
+      "forms": [
+        "saucers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခွက်အောက်ခံပန်းကန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "flap",
+      "pronunciation": "/flæp/",
+      "forms": [
+        "flaps",
+        "flapped",
+        "flapping"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တဖျပ်ဖျပ်လှုပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "whim",
+      "pronunciation": "/wɪm/",
+      "forms": [
+        "whims"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုတ်တရက်စိတ်ကူး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bandana",
+      "pronunciation": "/ˌbænˈdænə/",
+      "forms": [
+        "bandanas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခေါင်းစည်းပဝါ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "goggles",
+      "pronunciation": "/ˈɡɑɡəlz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျက်မှန်ကာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "scalp",
+      "pronunciation": "/skælp/",
+      "forms": [
+        "scalps"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဦးရေပြား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "watchman",
+      "pronunciation": "/ˈwɑtʃmən/",
+      "forms": [
+        "watchmen"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကင်းစောင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "aura",
+      "pronunciation": "/ˈɔrə/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပတ်ဝန်းကျင်အငွေ့အသက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "helm",
+      "pronunciation": "/hɛlm/",
+      "forms": [
+        "helms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သင်္ဘောပဲ့ကိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "viper",
+      "pronunciation": "/ˈvaɪpɚ/",
+      "forms": [
+        "vipers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဆိပ်ပြင်းမြွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cleanse",
+      "pronunciation": "/klɛnz/",
+      "forms": [
+        "cleanses",
+        "cleansed",
+        "cleansing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "သန့်စင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "abbot",
+      "pronunciation": "/ˈæbət/",
+      "forms": [
+        "abbots"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘုန်းကြီးကျောင်းအကြီးအကဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sizzling",
+      "pronunciation": "/ˈsɪzəlɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပူလောင်ပြီး ရှဲရှဲမြည်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mustang",
+      "pronunciation": "/ˈmʌstæŋ/",
+      "forms": [
+        "mustangs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမေရိကန်မြင်းရိုင်းမျိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wraith",
+      "pronunciation": "/reɪθ/",
+      "forms": [
+        "wraiths"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တစ္ဆေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "renowned",
+      "pronunciation": "/rɪˈnaʊnd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကျော်ကြားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pulp",
+      "pronunciation": "/pʌlp/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပျော့ဖတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sticker",
+      "pronunciation": "/ˈstɪkɚ/",
+      "forms": [
+        "stickers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စတစ်ကာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "veal",
+      "pronunciation": "/vil/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နွားကလေးသား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "isle",
+      "pronunciation": "/aɪl/",
+      "forms": [
+        "isles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျွန်းငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "zap",
+      "pronunciation": "/zæp/",
+      "forms": [
+        "zaps",
+        "zapped",
+        "zapping"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လျှပ်စစ်နဲ့ထိုးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reaper",
+      "pronunciation": "/ˈripɚ/",
+      "forms": [
+        "reapers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရိတ်သိမ်းသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mystic",
+      "pronunciation": "/ˈmɪstɪk/",
+      "forms": [
+        "mystics"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နက်နဲဝိညာဉ်ရေးသမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shuffle",
+      "pronunciation": "/ˈʃʌfəl/",
+      "forms": [
+        "shuffles",
+        "shuffled",
+        "shuffling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဖဲကတ်များကို ရှပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vegan",
+      "pronunciation": "/ˈvɛɡən/",
+      "forms": [
+        "vegans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တိရစ္ဆာန်ထွက်ပစ္စည်းမစားသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "glitter",
+      "pronunciation": "/ˈɡlɪtɚ/",
+      "forms": [
+        "glitters",
+        "glittered",
+        "glittering"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တဖျတ်ဖျတ်တောက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "amulet",
+      "pronunciation": "/ˈæmjələt/",
+      "forms": [
+        "amulets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဆောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "guild",
+      "pronunciation": "/ɡɪld/",
+      "forms": [
+        "guilds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသက်မွေးဝမ်းကျောင်းအဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "steward",
+      "pronunciation": "/ˈstuɚd/",
+      "forms": [
+        "stewards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝန်ဆောင်မှူး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "projector",
+      "pronunciation": "/prəˈdʒɛktɚ/",
+      "forms": [
+        "projectors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပရိုဂျက်တာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "earthly",
+      "pronunciation": "/ˈɝθli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကမ္ဘာလောကဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "modesty",
+      "pronunciation": "/ˈmɑdəsti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နှိမ့်ချမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "slumber",
+      "pronunciation": "/ˈslʌmbɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိပ်စက်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "canary",
+      "pronunciation": "/kəˈnɛri/",
+      "forms": [
+        "canaries"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကနေရီငှက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "eyesight",
+      "pronunciation": "/ˈaɪˌsaɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျက်စိမြင်အား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gardening",
+      "pronunciation": "/ˈɡɑrdənɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥယျာဉ်စိုက်ပျိုးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gram",
+      "pronunciation": "/ɡræm/",
+      "forms": [
+        "grams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂရမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tangled",
+      "pronunciation": "/ˈtæŋɡəld/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ချည်ငြိရှုပ်ထွေးနေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bulletproof",
+      "pronunciation": "/ˈbʊlətˌpruf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကျည်မပေါက်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "firewood",
+      "pronunciation": "/ˈfaɪɚˌwʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ထင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mash",
+      "pronunciation": "/mæʃ/",
+      "forms": [
+        "mashes",
+        "mashed",
+        "mashing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ကြိတ်ညှစ်ပျော့အောင်လုပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "growl",
+      "pronunciation": "/ɡraʊl/",
+      "forms": [
+        "growls",
+        "growled",
+        "growling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အသံနိမ့်နိမ့် ခြိမ်းခြောက်သလိုမြည်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "brace",
+      "pronunciation": "/breɪs/",
+      "forms": [
+        "braces"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ထောက်ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "picky",
+      "pronunciation": "/ˈpɪki/",
+      "forms": [
+        "pickier",
+        "pickiest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဇီဇာကြောင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "platter",
+      "pronunciation": "/ˈplætɚ/",
+      "forms": [
+        "platters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစားအစာတင်ပန်းကန်ကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "scarecrow",
+      "pronunciation": "/ˈskærˌkroʊ/",
+      "forms": [
+        "scarecrows"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာခြောက်ရုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ledge",
+      "pronunciation": "/lɛdʒ/",
+      "forms": [
+        "ledges"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျဉ်းမြောင်းသော အနားစွန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rosy",
+      "pronunciation": "/ˈroʊzi/",
+      "forms": [
+        "rosier",
+        "rosiest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပန်းရောင်သန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "throttle",
+      "pronunciation": "/ˈθrɑtəl/",
+      "forms": [
+        "throttles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်ဂျင်အရှိန်ထိန်းခလုတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "alphabet",
+      "pronunciation": "/ˈælfəˌbɛt/",
+      "forms": [
+        "alphabets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အက္ခရာစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sect",
+      "pronunciation": "/sɛkt/",
+      "forms": [
+        "sects"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘာသာရေးဂိုဏ်းခွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spree",
+      "pronunciation": "/spri/",
+      "forms": [
+        "sprees"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချိန်တိုအတွင်း ဆက်တိုက်လုပ်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stuffy",
+      "pronunciation": "/ˈstʌfi/",
+      "forms": [
+        "stuffier",
+        "stuffiest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လေမဝင်လေမထွက် ပူအိုက်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fasten",
+      "pronunciation": "/ˈfæsən/",
+      "forms": [
+        "fastens",
+        "fastened",
+        "fastening"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ချည်တပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "roadblock",
+      "pronunciation": "/ˈroʊdˌblɑk/",
+      "forms": [
+        "roadblocks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လမ်းပိတ်အတားအဆီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pharmaceutical",
+      "pronunciation": "/ˌfɑrməˈsutɪkəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဆေးဝါးနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "joyful",
+      "pronunciation": "/ˈdʒɔɪfəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပျော်ရွှင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "teamwork",
+      "pronunciation": "/ˈtimˌwɝk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဖွဲ့လိုက်ပူးပေါင်းလုပ်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "raving",
+      "pronunciation": "/ˈreɪvɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရူးသွပ်သလို အော်ဟစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "espresso",
+      "pronunciation": "/ˌɛˈsprɛsoʊ/",
+      "forms": [
+        "espressos"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အက်စ်ပရက်ဆိုကော်ဖီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sleeper",
+      "pronunciation": "/ˈslipɚ/",
+      "forms": [
+        "sleepers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချိန်ကြာလျှို့ဝှက်နေသော အေးဂျင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "munch",
+      "pronunciation": "/mʌntʃ/",
+      "forms": [
+        "munches",
+        "munched",
+        "munching"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဝါးစားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stag",
+      "pronunciation": "/stæɡ/",
+      "forms": [
+        "stags"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သမင်ထီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "backseat",
+      "pronunciation": "/ˈbækˌsit/",
+      "forms": [
+        "backseats"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကားနောက်ခုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crumb",
+      "pronunciation": "/krʌm/",
+      "forms": [
+        "crumbs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမှုန့်အစအန"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "puddle",
+      "pronunciation": "/ˈpʌdəl/",
+      "forms": [
+        "puddles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေအိုင်ငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "barefoot",
+      "pronunciation": "/ˈbɛrˌfʊt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဖိနပ်မပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "taco",
+      "pronunciation": "/ˈtɑkoʊ/",
+      "forms": [
+        "tacos"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တာကိုမုန့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "beak",
+      "pronunciation": "/bik/",
+      "forms": [
+        "beaks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ငှက်နှုတ်သီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fanfare",
+      "pronunciation": "/ˈfænˌfɛr/",
+      "forms": [
+        "fanfares"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြီးကျယ်ခမ်းနားစွာ ကြိုဆိုမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mascot",
+      "pronunciation": "/ˈmæskət/",
+      "forms": [
+        "mascots"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဖွဲ့သင်္ကေတဇာတ်ကောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "charade",
+      "pronunciation": "/ʃɚˈeɪd/",
+      "forms": [
+        "charades"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "puncture",
+      "pronunciation": "/ˈpʌŋktʃɚ/",
+      "forms": [
+        "punctures"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "goose",
+      "pronunciation": "/ɡus/",
+      "forms": [
+        "geese"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ငန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "knitting",
+      "pronunciation": "/ˈnɪtɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပ်ချည်ထိုးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "matron",
+      "pronunciation": "/ˈmeɪtrən/",
+      "forms": [
+        "matrons"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမျိုးသမီးကြီးကြပ်ရေးမှူး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "starship",
+      "pronunciation": "/ˈstɑrˌʃɪp/",
+      "forms": [
+        "starships"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အာကာသယာဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fume",
+      "pronunciation": "/fjum/",
+      "forms": [
+        "fumes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အငွေ့ပြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "squeak",
+      "pronunciation": "/skwik/",
+      "forms": [
+        "squeaks",
+        "squeaked",
+        "squeaking"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "စူးစူးမြည်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cappuccino",
+      "pronunciation": "/ˌkæˌpuˈtʃinoʊ/",
+      "forms": [
+        "cappuccinos"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကပ္ပူချီနိုကော်ဖီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inventor",
+      "pronunciation": "/ˌɪnˈvɛntɚ/",
+      "forms": [
+        "inventors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တီထွင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "playful",
+      "pronunciation": "/ˈpleɪfəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဆော့ကစားချင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bleach",
+      "pronunciation": "/blitʃ/",
+      "forms": [
+        "bleaches",
+        "bleached",
+        "bleaching"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရောင်ချွတ်ဆေး"
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အရောင်ချွတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lineup",
+      "pronunciation": "/ˈlaɪˌnʌp/",
+      "forms": [
+        "lineups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သံသယရှိသူတန်းစီပြမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "glamour",
+      "pronunciation": "/ˈɡlæmɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တောက်ပဆွဲဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "halo",
+      "pronunciation": "/ˈheɪloʊ/",
+      "forms": [
+        "halos"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဦးခေါင်းပတ်လင်းရောင်ဝန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pony",
+      "pronunciation": "/ˈpoʊni/",
+      "forms": [
+        "ponies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြင်းပု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "drugstore",
+      "pronunciation": "/ˈdrʌɡˌstɔr/",
+      "forms": [
+        "drugstores"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဆိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chute",
+      "pronunciation": "/ʃut/",
+      "forms": [
+        "chutes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပစ္စည်းလျှောချပြွန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cavity",
+      "pronunciation": "/ˈkævəti/",
+      "forms": [
+        "cavities"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သွားပိုးစားအပေါက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "caffeine",
+      "pronunciation": "/kæˈfin/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကဖိန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rut",
+      "pronunciation": "/rʌt/",
+      "forms": [
+        "ruts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုံသေဘဝအကျင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "opener",
+      "pronunciation": "/ˈoʊpənɚ/",
+      "forms": [
+        "openers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖွင့်ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "slimy",
+      "pronunciation": "/ˈslaɪmi/",
+      "forms": [
+        "slimier",
+        "slimiest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ချွဲကျိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "knickers",
+      "pronunciation": "/ˈnɪkɚz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမျိုးသမီးအတွင်းခံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jumpy",
+      "pronunciation": "/ˈdʒʌmpi/",
+      "forms": [
+        "jumpier",
+        "jumpiest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လန့်လွယ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lowly",
+      "pronunciation": "/ˈloʊli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အဆင့်နိမ့်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "touchy",
+      "pronunciation": "/ˈtʌtʃi/",
+      "forms": [
+        "touchier",
+        "touchiest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စိတ်ထိခိုက်လွယ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "upcoming",
+      "pronunciation": "/ˈʌpˌkʌmɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မကြာမီလာမည့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "oracle",
+      "pronunciation": "/ˈɔrəkəl/",
+      "forms": [
+        "oracles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အနာဂတ်ဟောသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fragment",
+      "pronunciation": "/ˈfræɡmənt/",
+      "forms": [
+        "fragments"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစိတ်အပိုင်းငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "noble",
+      "pronunciation": "/ˈnoʊbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မြင့်မြတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pup",
+      "pronunciation": "/pʌp/",
+      "forms": [
+        "pups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခွေးကလေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "genetically",
+      "pronunciation": "/dʒəˈnɛtɪkli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မျိုးဗီဇအရ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unsolved",
+      "pronunciation": "/ənˈsɑlvd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မဖြေရှင်းရသေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pioneer",
+      "pronunciation": "/ˌpaɪəˈnɪr/",
+      "forms": [
+        "pioneers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရှေ့ဆောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "icu",
+      "pronunciation": "/ˌaɪ si ˈju/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အထူးကြပ်မတ်ကုသဆောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "satisfactory",
+      "pronunciation": "/ˌsætəsˈfæktri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကျေနပ်ဖွယ်ကောင်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sorority",
+      "pronunciation": "/sɚˈɔrəti/",
+      "forms": [
+        "sororities"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမျိုးသမီးတက္ကသိုလ်ကျောင်းသူအဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inconvenient",
+      "pronunciation": "/ˌɪnkənˈvinjənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အဆင်မပြေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "enlightenment",
+      "pronunciation": "/ˌɛnˈlaɪtənmənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသိဉာဏ်ပွင့်လင်းမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "demonic",
+      "pronunciation": "/dɪˈmɑnɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နတ်ဆိုးဆန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "foremost",
+      "pronunciation": "/ˈfɔrˌmoʊst/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အရေးအကြီးဆုံး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fashionable",
+      "pronunciation": "/ˈfæʃənəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ခေတ်စားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "birthmark",
+      "pronunciation": "/ˈbɝθˌmɑrk/",
+      "forms": [
+        "birthmarks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မွေးရာပါအမှတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "commentator",
+      "pronunciation": "/ˈkɑmənˌteɪtɚ/",
+      "forms": [
+        "commentators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သုံးသပ်တင်ဆက်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tsar",
+      "pronunciation": "/zɑr/",
+      "forms": [
+        "tsars"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇာဘုရင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hallowed",
+      "pronunciation": "/ˈhæloʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မြင့်မြတ်သန့်ရှင်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gateway",
+      "pronunciation": "/ˈɡeɪˌtweɪ/",
+      "forms": [
+        "gateways"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဓိကဝင်ပေါက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rite",
+      "pronunciation": "/raɪt/",
+      "forms": [
+        "rites"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘာသာရေးအခမ်းအနား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rating",
+      "pronunciation": "/ˈreɪtɪŋ/",
+      "forms": [
+        "ratings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဆင့်သတ်မှတ်ချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mortal",
+      "pronunciation": "/ˈmɔrtəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သေမျိုးဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "foolproof",
+      "pronunciation": "/ˈfulˌpruf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မှားဖို့ခက်အောင် စီမံထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "entity",
+      "pronunciation": "/ˈɛntəti/",
+      "forms": [
+        "entities"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သီးခြားတည်ရှိသည့်အရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stealth",
+      "pronunciation": "/stɛlθ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မမြင်မသိအောင် လျှို့ဝှက်လှုပ်ရှားမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "yearbook",
+      "pronunciation": "/ˈjɪrˌbʊk/",
+      "forms": [
+        "yearbooks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နှစ်ပတ်လည်ကျောင်းမှတ်တမ်းစာအုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "eyepatch",
+      "pronunciation": "/ˈaɪˌpætʃ/",
+      "forms": [
+        "eyepatches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျက်လုံးဖုံး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "truthful",
+      "pronunciation": "/ˈtruθfəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အမှန်အတိုင်းပြောသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ghastly",
+      "pronunciation": "/ˈɡæstli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကြောက်မက်ဖွယ်အလွန်ဆိုးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "missionary",
+      "pronunciation": "/ˈmɪʃəˌnɛri/",
+      "forms": [
+        "missionaries"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သာသနာပြု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "infinity",
+      "pronunciation": "/ˌɪnˈfɪnɪti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဆုံးမရှိမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "penance",
+      "pronunciation": "/ˈpɛnəns/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပြစ်ဖြေခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "moist",
+      "pronunciation": "/mɔɪst/",
+      "forms": [
+        "moister",
+        "moistest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စိုစွတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sham",
+      "pronunciation": "/ʃæm/",
+      "forms": [
+        "shams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အတုအယောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "flop",
+      "pronunciation": "/flɑp/",
+      "forms": [
+        "flops",
+        "flopped",
+        "flopping"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အကြီးအကျယ်မအောင်မြင်မှု"
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "မအောင်မြင်ဘဲကျရှုံးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vermin",
+      "pronunciation": "/ˈvɝmɪn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အန္တရာယ်ပေးသော ပိုးမွှားတိရစ္ဆာန်များ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rift",
+      "pronunciation": "/rɪft/",
+      "forms": [
+        "rifts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆက်ဆံရေးကွဲလွဲမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lifelong",
+      "pronunciation": "/ˈlaɪfˌlɔŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တစ်သက်တာဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pilgrimage",
+      "pronunciation": "/ˈpɪlɡrəmədʒ/",
+      "forms": [
+        "pilgrimages"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘုရားဖူးခရီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rhythmic",
+      "pronunciation": "/ˈrɪðmɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စည်းချက်ညီသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "clover",
+      "pronunciation": "/ˈkloʊvɚ/",
+      "forms": [
+        "clovers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလိုဗာမြက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "troupe",
+      "pronunciation": "/trup/",
+      "forms": [
+        "troupes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အနုပညာဖျော်ဖြေရေးအဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "preposterous",
+      "pronunciation": "/prɪˈpɑstɚəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လုံးဝအဓိပ္ပာယ်မရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unseen",
+      "pronunciation": "/ənˈsin/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မမြင်ရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lest",
+      "pronunciation": "/lɛst/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "conjunction",
+          "burmese": [
+            "မဖြစ်ရလေအောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "speechless",
+      "pronunciation": "/ˈspitʃləs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စကားမထွက်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jaguar",
+      "pronunciation": "/ˈdʒæɡwɑr/",
+      "forms": [
+        "jaguars"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂျာဂွာကျား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wench",
+      "pronunciation": "/wɛntʃ/",
+      "forms": [
+        "wenches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိန်းမငယ်ကို အထင်သေးခေါ်သည့်စကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "underage",
+      "pronunciation": "/ˌʌndɚˈeɪdʒ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အသက်မပြည့်သေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hamster",
+      "pronunciation": "/ˈhæmstɚ/",
+      "forms": [
+        "hamsters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟမ်းစတာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "omelet",
+      "pronunciation": "/ˈɑmlət/",
+      "forms": [
+        "omelets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြက်ဥမွှေကြော်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "grub",
+      "pronunciation": "/ɡrʌb/",
+      "forms": [
+        "grubs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစားအသောက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "brigadier",
+      "pronunciation": "/ˌbrɪɡəˈdɪr/",
+      "forms": [
+        "brigadiers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တပ်မဟာမှူး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hedgehog",
+      "pronunciation": "/ˈhɛdʒˌhɑɡ/",
+      "forms": [
+        "hedgehogs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆူးဝက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tacky",
+      "pronunciation": "/ˈtæki/",
+      "forms": [
+        "tackier",
+        "tackiest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အပေါစားဆန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "physicist",
+      "pronunciation": "/ˈfɪzɪsɪst/",
+      "forms": [
+        "physicists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရူပဗေဒပညာရှင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "yonder",
+      "pronunciation": "/ˈjɑndɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ဟိုဘက်မှာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lullaby",
+      "pronunciation": "/ˈlʌləˌbaɪ/",
+      "forms": [
+        "lullabies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချော့သိပ်သီချင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "oasis",
+      "pronunciation": "/oʊˈeɪsɪs/",
+      "forms": [
+        "oases"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သဲကန္တာရရေအိုင်စိမ်းလန်းရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "energetic",
+      "pronunciation": "/ˌɛnɚˈdʒɛtɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တက်ကြွအားပြည့်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "aloud",
+      "pronunciation": "/əˈlaʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အသံထွက်၍"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "muse",
+      "pronunciation": "/mjuz/",
+      "forms": [
+        "muses",
+        "mused",
+        "musing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖန်တီးစိတ်ကူးပေးသူ"
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တွေးတောသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "recital",
+      "pronunciation": "/rəˈsaɪtəl/",
+      "forms": [
+        "recitals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တစ်ကိုယ်တော်ဖျော်ဖြေပွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pencil",
+      "pronunciation": "/ˈpɛnsəl/",
+      "forms": [
+        "pencils"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခဲတံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "astray",
+      "pronunciation": "/əˈstreɪ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "လမ်းလွဲ၍"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bagel",
+      "pronunciation": "/ˈbeɪɡəl/",
+      "forms": [
+        "bagels"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘေဂယ်ပေါင်မုန့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inhuman",
+      "pronunciation": "/ˌɪnˈhjumən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လူမဆန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "horsepower",
+      "pronunciation": "/ˈhɔrsˌpaʊɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြင်းကောင်ရေအား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "informer",
+      "pronunciation": "/ˌɪnˈfɔrmɚ/",
+      "forms": [
+        "informers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သတင်းပေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tram",
+      "pronunciation": "/træm/",
+      "forms": [
+        "trams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လမ်းပေါ်ရထား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chaplain",
+      "pronunciation": "/ˈtʃæplən/",
+      "forms": [
+        "chaplains"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဖွဲ့အစည်းဆိုင်ရာ ဘာသာရေးဆရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "casing",
+      "pronunciation": "/ˈkeɪsɪŋ/",
+      "forms": [
+        "casings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျည်ခွံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "helper",
+      "pronunciation": "/ˈhɛlpɚ/",
+      "forms": [
+        "helpers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကူညီသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intro",
+      "pronunciation": "/ˈɪntroʊ/",
+      "forms": [
+        "intros"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဖွင့်မိတ်ဆက်ပိုင်း"
+          ]
+        }
+      ]
+    }
+  ]
+}

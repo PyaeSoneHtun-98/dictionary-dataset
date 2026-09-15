@@ -1,0 +1,7339 @@
+{
+  "version": 1,
+  "batch": 14,
+  "entries": [
+    {
+      "word": "ail",
+      "pronunciation": "/eɪl/",
+      "forms": [
+        "ails",
+        "ailed",
+        "ailing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "နာကျင်စေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "appall",
+      "pronunciation": "/əˈpɔl/",
+      "forms": [
+        "appalls"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အလွန်ထိတ်လန့်စေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "attest",
+      "pronunciation": "/əˈtɛst/",
+      "forms": [
+        "attests",
+        "attested",
+        "attesting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အတည်ပြုသက်သေခံသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "behold",
+      "pronunciation": "/bɪˈhoʊld/",
+      "forms": [
+        "beholds",
+        "beheld",
+        "beholding"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ကြည့်ရှုသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "complicit",
+      "pronunciation": "/kəmˈplɪsət/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အမှုတွင်ပါဝင်ပတ်သက်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "daze",
+      "pronunciation": "/deɪz/",
+      "forms": [
+        "dazes",
+        "dazed",
+        "dazing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "မူးဝေရှုပ်ထွေးစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emancipate",
+      "pronunciation": "/ɪˈmænsəˌpeɪt/",
+      "forms": [
+        "emancipates",
+        "emancipated",
+        "emancipating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အချုပ်အနှောင်မှလွတ်မြောက်စေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fathom",
+      "pronunciation": "/ˈfæðəm/",
+      "forms": [
+        "fathoms",
+        "fathomed",
+        "fathoming"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "နက်နက်ရှိုင်းရှိုင်းနားလည်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "haphazard",
+      "pronunciation": "/hæpˈhæzɚd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စနစ်မကျဘဲ ကြုံသလိုဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "impair",
+      "pronunciation": "/ˌɪmˈpɛr/",
+      "forms": [
+        "impairs",
+        "impairing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "စွမ်းရည်လျော့နည်းစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "innocuous",
+      "pronunciation": "/ˌɪˈnɑkjuəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အန္တရာယ်မရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "muster",
+      "pronunciation": "/ˈmʌstɚ/",
+      "forms": [
+        "musters",
+        "mustered",
+        "mustering"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အားတင်းစုစည်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "persecute",
+      "pronunciation": "/ˈpɝsəkˌjut/",
+      "forms": [
+        "persecutes",
+        "persecuted",
+        "persecuting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဖိနှိပ်ညှဉ်းပန်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "relish",
+      "pronunciation": "/ˈrɛlɪʃ/",
+      "forms": [
+        "relishes",
+        "relished",
+        "relishing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အရသာခံနှစ်သက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "revere",
+      "pronunciation": "/rɪˈvɪr/",
+      "forms": [
+        "reveres",
+        "revered",
+        "revering"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အလွန်လေးစားကြည်ညိုသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "scorn",
+      "pronunciation": "/skɔrn/",
+      "forms": [
+        "scorns"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မထီမဲ့မြင်ပြုမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "slay",
+      "pronunciation": "/sleɪ/",
+      "forms": [
+        "slays",
+        "slew",
+        "slain",
+        "slaying"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "သတ်ဖြတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stun",
+      "pronunciation": "/stʌn/",
+      "forms": [
+        "stuns",
+        "stunned"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အံ့အားသင့်မိန်းမောစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "taint",
+      "pronunciation": "/teɪnt/",
+      "forms": [
+        "taints",
+        "tainted",
+        "tainting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဂုဏ်သတင်းညစ်ညမ်းစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "treachery",
+      "pronunciation": "/ˈtrɛtʃɚi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သစ္စာဖောက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tyrant",
+      "pronunciation": "/ˈtaɪrənt/",
+      "forms": [
+        "tyrants"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အာဏာရှင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wane",
+      "pronunciation": "/weɪn/",
+      "forms": [
+        "wanes",
+        "waned",
+        "waning"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တဖြည်းဖြည်းလျော့နည်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wrath",
+      "pronunciation": "/ræθ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြင်းထန်သောအမျက်ဒေါသ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "detract",
+      "pronunciation": "/dɪˈtrækt/",
+      "forms": [
+        "detracts",
+        "detracted",
+        "detracting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တန်ဖိုးလျော့စေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "exorbitant",
+      "pronunciation": "/ɪɡˈzɔrbɪtənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလွန်အကျွံမြင့်မားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incessant",
+      "pronunciation": "/ˌɪnˈsɛsənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မရပ်မနားဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "detainment",
+      "pronunciation": "/dɪˈteɪnmənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖမ်းဆီးထိန်းသိမ်းထားမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "remand",
+      "pronunciation": "/rɪˈmænd/",
+      "forms": [
+        "remands"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမှုစစ်ရန်ချုပ်နှောင်ထားမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "convulsion",
+      "pronunciation": "/kənˈvʌlʃən/",
+      "forms": [
+        "convulsions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အကြောဆွဲခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "solitude",
+      "pronunciation": "/ˈsɑləˌtud/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တစ်ယောက်တည်းနေခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "conglomerate",
+      "pronunciation": "/kənˈɡlɑmɚət/",
+      "forms": [
+        "conglomerates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုပ်ငန်းအုပ်စုကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "liquidate",
+      "pronunciation": "/ˈlɪkwɪˌdeɪt/",
+      "forms": [
+        "liquidates",
+        "liquidated",
+        "liquidating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပိုင်ဆိုင်မှုများရောင်းချပြီး လုပ်ငန်းပိတ်သိမ်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "arbitrage",
+      "pronunciation": "/ˈɑrbɪˌtrɑʒ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဈေးကွာခြားချက်မှအမြတ်ရှာမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gross",
+      "pronunciation": "/ɡroʊs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စုစုပေါင်းဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "scalability",
+      "pronunciation": "/ˈskeɪləˈbɪlɪti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လိုအပ်သလိုချဲ့ထွင်နိုင်စွမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "checksum",
+      "pronunciation": "/ˈtʃɛkˌsʌm/",
+      "forms": [
+        "checksums"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒေတာမှန်ကန်မှုစစ်တန်ဖိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sandbox",
+      "pronunciation": "/ˈsændˌbɑks/",
+      "forms": [
+        "sandboxes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သီးခြားလုံခြုံစမ်းသပ်ပတ်ဝန်းကျင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wildlife",
+      "pronunciation": "/ˈwaɪldˌlaɪf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တောရိုင်းတိရစ္ဆာန်များ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "meteorological",
+      "pronunciation": "/ˌmitiˌɔrəˈlɑdʒɪkəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မိုးလေဝသဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "asteroid",
+      "pronunciation": "/ˈæstɚˌɔɪd/",
+      "forms": [
+        "asteroids"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂြိုဟ်သိမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vacuum",
+      "pronunciation": "/ˈvækjum/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေမဲ့နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "neuron",
+      "pronunciation": "/ˈnʊrɑn/",
+      "forms": [
+        "neurons"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အာရုံကြောဆဲလ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stimulus",
+      "pronunciation": "/ˈstɪmjələs/",
+      "forms": [
+        "stimuli"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တုံ့ပြန်မှုဖြစ်စေသောလှုံ့ဆော်ချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "modest",
+      "pronunciation": "/ˈmɑdəst/",
+      "forms": [
+        "modester",
+        "modestest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မလွန်ကဲသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "allergen",
+      "pronunciation": "/ˈælɚdʒən/",
+      "forms": [
+        "allergens"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဓာတ်မတည့်မှုဖြစ်စေသောအရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "contusion",
+      "pronunciation": "/kənˈtuʒən/",
+      "forms": [
+        "contusions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ထိခိုက်ညိုမည်းဒဏ်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "defibrillator",
+      "pronunciation": "/diˈfɪbrɪˌleɪtɚ/",
+      "forms": [
+        "defibrillators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နှလုံးခုန်ပြန်စေသည့်လျှပ်စစ်စက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dislocation",
+      "pronunciation": "/dɪˈsloʊˈkeɪʃən/",
+      "forms": [
+        "dislocations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဆစ်လွဲခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "endoscopy",
+      "pronunciation": "/ˌɛnˈdɔskɑpi/",
+      "forms": [
+        "endoscopies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်တွင်းကြည့်မှန်ပြောင်းစစ်ဆေးမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fetus",
+      "pronunciation": "/ˈfitəs/",
+      "forms": [
+        "fetuses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သန္ဓေသား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hemoglobin",
+      "pronunciation": "/ˌhiməˈɡloʊbən/",
+      "forms": [
+        "hemoglobins"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟီမိုဂလိုဘင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hypothermia",
+      "pronunciation": "/ˌhaɪpəˈθɝmiə/",
+      "forms": [
+        "hypothermias"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်အပူချိန်အလွန်ကျဆင်းမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incubator",
+      "pronunciation": "/ˈɪŋkjəˌbeɪtɚ/",
+      "forms": [
+        "incubators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မွေးကင်းစကလေးထိန်းအပူပေးစက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inhaler",
+      "pronunciation": "/ˌɪnˈheɪlɚ/",
+      "forms": [
+        "inhalers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရှူသွင်းဆေးကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intubate",
+      "pronunciation": "/ˈɪntəˌbeɪt/",
+      "forms": [
+        "intubates",
+        "intubated",
+        "intubating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အသက်ရှူလမ်းကြောင်းထဲပြွန်ထည့်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "osteoporosis",
+      "pronunciation": "/ˌɔstiˌɑpɚˈoʊsɪs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရိုးပွရောဂါ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pancreas",
+      "pronunciation": "/ˈpænkriəs/",
+      "forms": [
+        "pancreases"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပန်ကရိယ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "respirator",
+      "pronunciation": "/ˈrɛspɚˌeɪtɚ/",
+      "forms": [
+        "respirators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသက်ရှူကူညီကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spleen",
+      "pronunciation": "/splin/",
+      "forms": [
+        "spleens"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သရက်ရွက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "suture",
+      "pronunciation": "/ˈsutʃɚ/",
+      "forms": [
+        "sutures"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခွဲစိတ်ဒဏ်ရာချုပ်ကြိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "thyroid",
+      "pronunciation": "/ˈθaɪrɔɪd/",
+      "forms": [
+        "thyroids"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သိုင်းရွိုက်ဂလင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "urinary",
+      "pronunciation": "/ˈjɝəˌnɛri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဆီးလမ်းကြောင်းဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vascular",
+      "pronunciation": "/ˈvæskjəlɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သွေးကြောဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "womb",
+      "pronunciation": "/wum/",
+      "forms": [
+        "wombs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သားအိမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cornea",
+      "pronunciation": "/ˈkɔrniə/",
+      "forms": [
+        "corneas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျက်ကြည်လွှာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "endocrine",
+      "pronunciation": "/ˈɛndoʊˌkraɪn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဟော်မုန်းဂလင်းစနစ်ဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "graft",
+      "pronunciation": "/ɡræft/",
+      "forms": [
+        "grafts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစားထိုးတစ်ရှူး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hemorrhoid",
+      "pronunciation": "/ˈhɛmɚˌɔɪd/",
+      "forms": [
+        "hemorrhoids"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လိပ်ခေါင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "infusion",
+      "pronunciation": "/ˌɪnfˈjuʒən/",
+      "forms": [
+        "infusions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရည်သွင်းခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "laparoscopy",
+      "pronunciation": "/ˌlæpɚˈɑskəpi/",
+      "forms": [
+        "laparoscopies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဗိုက်အတွင်းမှန်ပြောင်းခွဲစိတ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pacemaker",
+      "pronunciation": "/ˈpeɪˌsmeɪkɚ/",
+      "forms": [
+        "pacemakers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နှလုံးခုန်ထိန်းစက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "palliative",
+      "pronunciation": "/ˈpæliətɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နာကျင်မှုသက်သာစေရန်ရည်ရွယ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "radiology",
+      "pronunciation": "/ˌreɪdiˈɑlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဓာတ်မှန်ဆိုင်ရာဆေးပညာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "antidepressant",
+      "pronunciation": "/ˌæntidɪˈprɛsənt/",
+      "forms": [
+        "antidepressants"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စိတ်ကျရောဂါကုဆေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dyslexia",
+      "pronunciation": "/dɪˈslɛksiə/",
+      "forms": [
+        "dyslexias"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာဖတ်ရေးအခက်အခဲရောဂါ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hysteria",
+      "pronunciation": "/hɪˈstɛriə/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မထိန်းနိုင်သောစိတ်လှုပ်ရှားမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "placebo",
+      "pronunciation": "/pləˈsiboʊ/",
+      "forms": [
+        "placebos"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးအာနိသင်မရှိသောစမ်းသပ်ဆေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "psychotherapy",
+      "pronunciation": "/ˌsaɪkoʊˈθɛrəpi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စကားပြောစိတ်ကုထုံး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "codependency",
+      "pronunciation": "/ˌkoʊdɪˈpɛndənsi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တစ်ဦးကိုတစ်ဦးမကျန်းမာစွာမှီခိုမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "flashback",
+      "pronunciation": "/ˈflæʃˌbæk/",
+      "forms": [
+        "flashbacks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အတိတ်ဖြစ်ရပ်ကိုပြန်မြင်ခံစားရမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hypnosis",
+      "pronunciation": "/hɪpˈnoʊsəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စိတ်ညှို့ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "introvert",
+      "pronunciation": "/ˈɪntroʊˌvɝt/",
+      "forms": [
+        "introverts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အတွင်းကျသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "extrovert",
+      "pronunciation": "/ˈɛkstrəˌvɝt/",
+      "forms": [
+        "extroverts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုဆက်ဆံရေးတက်ကြွသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mindfulness",
+      "pronunciation": "/ˈmaɪndfəlnəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်ရှိအခိုက်အတန့်ကိုသတိပြုနေမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stressful",
+      "pronunciation": "/ˈstrɛsfəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စိတ်ဖိစီးစေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "docket",
+      "pronunciation": "/ˈdɑkət/",
+      "forms": [
+        "dockets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တရားရုံးအမှုစာရင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jurisdictional",
+      "pronunciation": "/ˌdʒʊrəsˈdɪkʃənəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တရားစီရင်ပိုင်ခွင့်ဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "covenant",
+      "pronunciation": "/ˈkʌvənənt/",
+      "forms": [
+        "covenants"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တရားဝင်ကတိသဘောတူညီချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fiduciary",
+      "pronunciation": "/fəˈduʃiˌɛri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အကျိုးစီးပွားကိုယုံကြည်အပ်နှံစီမံရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "indemnity",
+      "pronunciation": "/ˌɪnˈdɛmnəti/",
+      "forms": [
+        "indemnities"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နစ်နာမှုအတွက်လျော်ကြေးကာကွယ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "plaintive",
+      "pronunciation": "/ˈpleɪntɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဝမ်းနည်းတောင်းပန်သံပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "provision",
+      "pronunciation": "/prəˈvɪʒən/",
+      "forms": [
+        "provisions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာချုပ်အချက်အလက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stipulation",
+      "pronunciation": "/ˌstɪpjəˈleɪʃən/",
+      "forms": [
+        "stipulations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တိတိကျကျသတ်မှတ်ထားသောစည်းကမ်းချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "testator",
+      "pronunciation": "/tɛˈsteɪtɚ/",
+      "forms": [
+        "testators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သေတမ်းစာရေးထားသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adjutant",
+      "pronunciation": "/ˈædʒətənt/",
+      "forms": [
+        "adjutants"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စစ်အရာရှိလက်ထောက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "encampment",
+      "pronunciation": "/ɪnˈkæmpmɪnt/",
+      "forms": [
+        "encampments"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယာယီတပ်စခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "insignia",
+      "pronunciation": "/ˌɪnˈsɪɡˌniə/",
+      "forms": [
+        "insignias"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရာထူးသင်္ကေတတံဆိပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "paratrooper",
+      "pronunciation": "/ˈpɛrəˌtrupɚ/",
+      "forms": [
+        "paratroopers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေထီးစစ်သား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sentry",
+      "pronunciation": "/ˈsɛntri/",
+      "forms": [
+        "sentries"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကင်းစောင့်စစ်သား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shrapnel",
+      "pronunciation": "/ˈʃræpnəl/",
+      "forms": [
+        "shrapnels"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပေါက်ကွဲမှုမှလွင့်ထွက်သောသတ္တုစ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sortie",
+      "pronunciation": "/ˈsɔrti/",
+      "forms": [
+        "sorties"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စစ်လေယာဉ်ထွက်စစ်ဆင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "torpedo",
+      "pronunciation": "/tɔrˈpiˌdoʊ/",
+      "forms": [
+        "torpedos"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေအောက်ပစ်ဖောက်ခွဲလက်နက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "demobilize",
+      "pronunciation": "/dɪˈmoʊbəˌlaɪz/",
+      "forms": [
+        "demobilizes",
+        "demobilized",
+        "demobilizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "စစ်တပ်မှပြန်လည်လွှတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "howitzer",
+      "pronunciation": "/ˈhaʊətsɚ/",
+      "forms": [
+        "howitzers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမြောက်ကြီးတစ်မျိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incursion",
+      "pronunciation": "/ˌɪnˈkɝʒən/",
+      "forms": [
+        "incursions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နယ်မြေထဲသို့စစ်ရေးဝင်ရောက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "landmine",
+      "pronunciation": "/ˈlændˌmaɪn/",
+      "forms": [
+        "landmines"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြေမြှုပ်မိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "warlord",
+      "pronunciation": "/ˈwɔrˌlɔrd/",
+      "forms": [
+        "warlords"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်နက်ကိုင်အာဏာပိုင်ခေါင်းဆောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "counterattack",
+      "pronunciation": "/ˈkaʊntɚəˌtæk/",
+      "forms": [
+        "counterattacks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တန်ပြန်တိုက်ခိုက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reconnoiter",
+      "pronunciation": "/ˌrikəˈnɔɪtɚ/",
+      "forms": [
+        "reconnoiters",
+        "reconnoitered",
+        "reconnoitering"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ရန်သူအခြေအနေသွားရောက်စုံစမ်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ambassadorial",
+      "pronunciation": "/æmˌbæsəˈdɔriəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သံအမတ်ဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "statehood",
+      "pronunciation": "/ˈsteɪtˌhʊd/",
+      "forms": [
+        "statehoods"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နိုင်ငံတစ်နိုင်ငံအဖြစ်ရပ်တည်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unilateral",
+      "pronunciation": "/ˌjunəˈlætɚəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တစ်ဖက်တည်းဆုံးဖြတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ratify",
+      "pronunciation": "/ˈrætəˌfaɪ/",
+      "forms": [
+        "ratifies",
+        "ratified",
+        "ratifying"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တရားဝင်အတည်ပြုသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incumbency",
+      "pronunciation": "/ˌɪnˈkʌmbənsi/",
+      "forms": [
+        "incumbencies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရာထူးလက်ရှိကိုင်ထားမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "filibuster",
+      "pronunciation": "/ˈfɪləˌbʌstɚ/",
+      "forms": [
+        "filibusters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေမဲပေးမှုနှောင့်နှေးစေရန်ရှည်ကြာဆွေးနွေးမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gerrymander",
+      "pronunciation": "/ˈdʒɛriˌmændɚ/",
+      "forms": [
+        "gerrymanders",
+        "gerrymandered",
+        "gerrymandering"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "မဲဆန္ဒနယ်ကိုအကျိုးရှိအောင်မမျှတပြင်ဆင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "carjacking",
+      "pronunciation": "/ˈkɑrˌdʒækɪŋ/",
+      "forms": [
+        "carjackings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကားလုယက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "poacher",
+      "pronunciation": "/ˈpoʊtʃɚ/",
+      "forms": [
+        "poachers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တရားမဝင်အမဲလိုက်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pickpocket",
+      "pronunciation": "/ˈpɪkˌpɑkət/",
+      "forms": [
+        "pickpockets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိတ်ကပ်နှိုက်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "burgle",
+      "pronunciation": "/ˈbɝɡəl/",
+      "forms": [
+        "burgles",
+        "burgled",
+        "burgling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အိမ်ဖောက်ထွင်းခိုးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "impound",
+      "pronunciation": "/ˌɪmˈpaʊnd/",
+      "forms": [
+        "impounds",
+        "impounded",
+        "impounding"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဥပဒေအရသိမ်းဆည်းထားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "solicit",
+      "pronunciation": "/səˈlɪsɪt/",
+      "forms": [
+        "solicits",
+        "solicited",
+        "soliciting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တောင်းခံသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "misappropriate",
+      "pronunciation": "/mɪsəˈproʊpriˌeɪt/",
+      "forms": [
+        "misappropriates",
+        "misappropriated",
+        "misappropriating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပိုင်ရှင်မဟုတ်ဘဲမတရားသုံးစွဲသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "prowl",
+      "pronunciation": "/praʊl/",
+      "forms": [
+        "prowls",
+        "prowled",
+        "prowling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "မကောင်းကြံ၍လှည့်ပတ်နေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accrual",
+      "pronunciation": "/əˈkruəl/",
+      "forms": [
+        "accruals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တဖြည်းဖြည်းစုလာသည့်ငွေသို့မဟုတ်အကျိုးခံစားခွင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "annuity",
+      "pronunciation": "/əˈnuəti/",
+      "forms": [
+        "annuities"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုံမှန်ကာလအလိုက်ရသောငွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bondholder",
+      "pronunciation": "/ˈbɑndˌhoʊldɚ/",
+      "forms": [
+        "bondholders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အကြွေးစာချုပ်ပိုင်ရှင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "creditworthiness",
+      "pronunciation": "/ˈkrɛdɪˌtwɝðinəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချေးငွေပြန်ဆပ်နိုင်ကြောင်းယုံကြည်ရမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "denomination",
+      "pronunciation": "/dɪˌnɔməˈneɪʃən/",
+      "forms": [
+        "denominations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ငွေစက္ကူတန်ဖိုးအမျိုးအစား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disbursement",
+      "pronunciation": "/dɪsˈbɝsmənt/",
+      "forms": [
+        "disbursements"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ငွေထုတ်ပေးမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "escrow",
+      "pronunciation": "/ɛˈskroʊ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သတ်မှတ်ချက်ပြည့်မှလွှဲပေးရန်ကြားခံထိန်းသိမ်းထားသောငွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "guarantor",
+      "pronunciation": "/ˌɡɛrənˈtɔr/",
+      "forms": [
+        "guarantors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အာမခံပေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hedge",
+      "pronunciation": "/hɛdʒ/",
+      "forms": [
+        "hedges"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရှုံးအန္တရာယ်လျှော့ချရေးရင်းနှီးမြှုပ်နှံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "receivable",
+      "pronunciation": "/rɪˈsivəbəl/",
+      "forms": [
+        "receivables"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရရန်ရှိငွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "refinance",
+      "pronunciation": "/ˌrifəˈnæns/",
+      "forms": [
+        "refinances",
+        "refinanced",
+        "refinancing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ချေးငွေအသစ်ဖြင့်အဟောင်းကိုပြန်စီစဉ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "underwriter",
+      "pronunciation": "/ˈʌndɚˌraɪtɚ/",
+      "forms": [
+        "underwriters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အာမခံသို့မဟုတ်ငွေချေးအန္တရာယ်အကဲဖြတ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "arbitrageur",
+      "pronunciation": "/ˈɑrbɪˌtrɑʒɚ/",
+      "forms": [
+        "arbitrageurs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဈေးကွာခြားချက်မှအမြတ်ရှာသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bearish",
+      "pronunciation": "/ˈbɛrɪʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဈေးကျမည်ဟုမြင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bullish",
+      "pronunciation": "/ˈbʊlɪʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဈေးတက်မည်ဟုမြင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "buyout",
+      "pronunciation": "/ˈbaɪˌaʊt/",
+      "forms": [
+        "buyouts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကုမ္ပဏီပိုင်ဆိုင်မှုကိုဝယ်ယူခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "consolidation",
+      "pronunciation": "/kənˌsɑləˈdeɪʃən/",
+      "forms": [
+        "consolidations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုပ်ငန်းများပေါင်းစည်းခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "markup",
+      "pronunciation": "/ˈmɑrˌkʌp/",
+      "forms": [
+        "markups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မူလဈေးပေါ်တင်ထားသည့်အမြတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "severance",
+      "pronunciation": "/ˈsɛˌvɝəns/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလုပ်ထွက်လျော်ကြေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "whitelist",
+      "pronunciation": "/ˈwaɪtˌlɪst/",
+      "forms": [
+        "whitelists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခွင့်ပြုစာရင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "containerization",
+      "pronunciation": "/kənˌteɪnɚəˈzeɪʃən/",
+      "forms": [
+        "containerizations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အက်ပ်ကိုသီးခြားပတ်ဝန်းကျင်အဖြစ်ထုပ်ပိုးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "middleware",
+      "pronunciation": "/ˈmɪdəlˌwɛr/",
+      "forms": [
+        "middlewares"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စနစ်နှစ်ခုကြားချိတ်ဆက်ပေးသည့်ဆော့ဖ်ဝဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rollback",
+      "pronunciation": "/ˈroʊlˌbæk/",
+      "forms": [
+        "rollbacks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယခင်ဗားရှင်းသို့ပြန်သွားခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "throughput",
+      "pronunciation": "/ˈθruˌpʊt/",
+      "forms": [
+        "throughputs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချိန်တစ်ခုအတွင်းလုပ်ဆောင်နိုင်သည့်ပမာဏ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uptime",
+      "pronunciation": "/ˈʌpˌtaɪm/",
+      "forms": [
+        "uptimes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စနစ်လည်ပတ်နေသည့်အချိန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "asynchronous",
+      "pronunciation": "/ˈeɪˈsɪŋkrənəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တစ်ချိန်တည်းမဟုတ်ဘဲလုပ်ဆောင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "concurrency",
+      "pronunciation": "/kənˈkɝənsi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုပ်ငန်းများတပြိုင်နက်လည်ပတ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "immutable",
+      "pronunciation": "/ˌɪmˈjutəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မပြောင်းလဲနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "recursive",
+      "pronunciation": "/ˌriˈkɝsɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မိမိကိုယ်ကိုပြန်ခေါ်လုပ်ဆောင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "scalable",
+      "pronunciation": "/ˈskeɪləbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လိုအပ်သလိုချဲ့ထွင်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "telemetry",
+      "pronunciation": "/təˈlɛmətri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဝေးမှစနစ်ဒေတာတိုင်းတာပို့ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ablation",
+      "pronunciation": "/ˌʌˈbleɪʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖယ်ရှားဖျက်ဆီးကုသမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "alkaline",
+      "pronunciation": "/ˈælkəˌlaɪn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အယ်ကာလိုင်းဓာတ်ရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "amplitude",
+      "pronunciation": "/ˈæmpləˌtud/",
+      "forms": [
+        "amplitudes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လှိုင်းအမြင့်ပမာဏ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "combustion",
+      "pronunciation": "/kəmˈbʌstʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လောင်ကျွမ်းမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "conductivity",
+      "pronunciation": "/ˌkɑnˌdʌkˈtɪvəti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လျှပ်စစ်သို့မဟုတ်အပူကူးနိုင်စွမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "diffusion",
+      "pronunciation": "/dɪfˈjuʒən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမှုန်များပျံ့နှံ့မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "electromagnetic",
+      "pronunciation": "/ˌɪˌlɛktroʊmæɡˈnɛtɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လျှပ်စစ်သံလိုက်ဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fusion",
+      "pronunciation": "/ˈfjuʒən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပေါင်းစည်းမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "kinetic",
+      "pronunciation": "/kəˈnɛtɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လှုပ်ရှားမှုဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "oscillation",
+      "pronunciation": "/ˌɑsəˈleɪʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပြန်အလှန်လှုပ်ရှားမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "resonance",
+      "pronunciation": "/ˈrɛzənəns/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တုန်ခါမှုတူညီ၍အားတိုးမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "soluble",
+      "pronunciation": "/ˈsɑljəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပျော်ဝင်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "viscosity",
+      "pronunciation": "/vɪˈskɑsəti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရည်ပျစ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "oxidation",
+      "pronunciation": "/ˌɑksəˈdeɪʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အောက်ဆီဂျင်နှင့်ဓာတ်ပြုမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "microbe",
+      "pronunciation": "/ˈmaɪˌkroʊb/",
+      "forms": [
+        "microbes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဏုဇီဝပိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "parasite",
+      "pronunciation": "/ˈpɛrəˌsaɪt/",
+      "forms": [
+        "parasites"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကပ်ပါးပိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "photosynthesis",
+      "pronunciation": "/ˌfoʊtoʊˈsɪnθəsɪs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပင်အလင်းဖြင့်အစာချက်လုပ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fungus",
+      "pronunciation": "/ˈfʌŋɡəs/",
+      "forms": [
+        "fungi",
+        "funguses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မှို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "larva",
+      "pronunciation": "/ˈlɑrvə/",
+      "forms": [
+        "larvas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပိုးလောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mammal",
+      "pronunciation": "/ˈmæməl/",
+      "forms": [
+        "mammals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နို့တိုက်သတ္တဝါ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "predator",
+      "pronunciation": "/ˈprɛdətɚ/",
+      "forms": [
+        "predators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သားကောင်ဖမ်းစားသည့်တိရစ္ဆာန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "prey",
+      "pronunciation": "/preɪ/",
+      "forms": [
+        "preys"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သားကောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reptile",
+      "pronunciation": "/ˈrɛptaɪl/",
+      "forms": [
+        "reptiles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တွားသွားသတ္တဝါ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vertebrate",
+      "pronunciation": "/ˈvɝtəˌbreɪt/",
+      "forms": [
+        "vertebrates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောရိုးရှိသတ္တဝါ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "extinct",
+      "pronunciation": "/ɪkˈstɪŋkt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မျိုးသုဉ်းသွားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "invasive",
+      "pronunciation": "/ˌɪnˈveɪsɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဒေသမဟုတ်ဘဲဝင်ရောက်ပြန့်ပွားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nocturnal",
+      "pronunciation": "/nɑkˈtɝnəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ညဘက်လှုပ်ရှားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "venomous",
+      "pronunciation": "/ˈvɛnəməs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အဆိပ်ထိုးတတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "poaching",
+      "pronunciation": "/ˈpoʊtʃɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တရားမဝင်အမဲလိုက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "acidification",
+      "pronunciation": "/əˌsɪdəfəˈkeɪʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အက်စစ်ဓာတ်တိုးလာမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "desertification",
+      "pronunciation": "/dɪˌzɝtəfəˈkeɪʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြေယာသဲကန္တာရဖြစ်လာမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "eutrophication",
+      "pronunciation": "/ˌjutrəfəˈkeɪʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေထဲအာဟာရဓာတ်များလွန်း၍ရေအရည်အသွေးကျဆင်းမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "microplastic",
+      "pronunciation": "/ˌmaɪkroʊˈplæstɪk/",
+      "forms": [
+        "microplastics"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပလတ်စတစ်အမှုန်သေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reforestation",
+      "pronunciation": "/ˌrifɔrəˈsteɪʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သစ်တောပြန်လည်စိုက်ပျိုးမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "renewables",
+      "pronunciation": "/rɪˈnuəbəlz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြန်လည်ဖြည့်တင်းနိုင်သောစွမ်းအင်ရင်းမြစ်များ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wastewater",
+      "pronunciation": "/ˈweɪsˌtwɔtɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စွန့်ပစ်ရေဆိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "biosphere",
+      "pronunciation": "/ˈbaɪoʊsˌfɪr/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သက်ရှိများရှိသောကမ္ဘာ့အလွှာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "climatology",
+      "pronunciation": "/ˌklaɪməˈtɑlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရာသီဥတုပညာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "meteorology",
+      "pronunciation": "/ˌmitiɚˈɑlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုးလေဝသပညာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "humid",
+      "pronunciation": "/ˈhjuməd/",
+      "forms": [
+        "humider",
+        "humidest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စိုထိုင်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "monsoon",
+      "pronunciation": "/mɑnˈsun/",
+      "forms": [
+        "monsoons"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မုတ်သုံရာသီလေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "permafrost",
+      "pronunciation": "/ˈpɝməˌfrɔst/",
+      "forms": [
+        "permafrosts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမြဲခဲနေသောမြေလွှာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tectonic",
+      "pronunciation": "/tɛkˈtɑnɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကမ္ဘာ့မြေပြားရွေ့လျားမှုဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tremor",
+      "pronunciation": "/ˈtrɛmɚ/",
+      "forms": [
+        "tremors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြေငလျင်လှုပ်ခတ်မှုငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "epicenter",
+      "pronunciation": "/ˈɛpəˌsɛntɚ/",
+      "forms": [
+        "epicenters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ငလျင်ဗဟိုချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "magma",
+      "pronunciation": "/ˈmæɡmə/",
+      "forms": [
+        "magmas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြေအောက်အရည်ပျော်ကျောက်ရည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "barometer",
+      "pronunciation": "/bɚˈɑmɪtɚ/",
+      "forms": [
+        "barometers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေဖိအားတိုင်းကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "thunderstorm",
+      "pronunciation": "/ˈθʌndɚˌstɔrm/",
+      "forms": [
+        "thunderstorms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုးကြိုးမုန်တိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hail",
+      "pronunciation": "/heɪl/",
+      "forms": [
+        "hails"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုးသီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "whirlwind",
+      "pronunciation": "/ˈwɝlˌwɪnd/",
+      "forms": [
+        "whirlwinds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေဝဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "excavation",
+      "pronunciation": "/ˌɛkskəˈveɪʃən/",
+      "forms": [
+        "excavations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တူးဖော်ရှာဖွေမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fossilized",
+      "pronunciation": "/ˈfɑsəˌlaɪzd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရုပ်ကြွင်းဖြစ်သွားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "manuscript",
+      "pronunciation": "/ˈmænjəˌskrɪpt/",
+      "forms": [
+        "manuscripts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်ရေးစာမူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "prehistoric",
+      "pronunciation": "/ˌprihɪˈstɔrɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သမိုင်းမှတ်တမ်းမတင်မီခေတ်ဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "folklore",
+      "pronunciation": "/ˈfoʊˌklɔr/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရိုးရာပုံပြင်ယုံကြည်မှုများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mythology",
+      "pronunciation": "/məˈθɑləˌdʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒဏ္ဍာရီများအစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ritual",
+      "pronunciation": "/ˈrɪtʃuəl/",
+      "forms": [
+        "rituals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ထုံးတမ်းအခမ်းအနား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "superstition",
+      "pronunciation": "/ˌsupɚˈstɪʃən/",
+      "forms": [
+        "superstitions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အယူသီးမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customary",
+      "pronunciation": "/ˈkʌstəˌmɛri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရိုးရာဓလေ့အရဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nomadic",
+      "pronunciation": "/noʊˈmædɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နေရာရွှေ့ပြောင်းနေထိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pastoral",
+      "pronunciation": "/ˈpæstɚəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကျေးလက်မွေးမြူရေးဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "assimilation",
+      "pronunciation": "/əˌsɪməˈleɪʃən/",
+      "forms": [
+        "assimilations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခြားယဉ်ကျေးမှုထဲဝင်ရောက်ပေါင်းစည်းမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "diaspora",
+      "pronunciation": "/daɪˈæspɚə/",
+      "forms": [
+        "diasporas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မူလနိုင်ငံပြင်ပတွင်ပြန့်နှံ့နေသောလူမျိုးစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ethnography",
+      "pronunciation": "/ɛθˈnɑɡrəfi/",
+      "forms": [
+        "ethnographies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမျိုးစုဘဝလေ့လာရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dialect",
+      "pronunciation": "/ˈdaɪəˌlɛkt/",
+      "forms": [
+        "dialects"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒေသသုံးဘာသာစကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bilingual",
+      "pronunciation": "/baɪˈlɪŋɡwəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဘာသာစကားနှစ်မျိုးသုံးနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multilingual",
+      "pronunciation": "/ˌmʌltiˈlɪŋwəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဘာသာစကားများစွာသုံးနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "slang",
+      "pronunciation": "/slæŋ/",
+      "forms": [
+        "slangs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလွတ်သဘောအသုံးအနှုန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jargon",
+      "pronunciation": "/ˈdʒɑrɡən/",
+      "forms": [
+        "jargons"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နယ်ပယ်အထူးသုံးစကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "idiom",
+      "pronunciation": "/ˈɪdiəm/",
+      "forms": [
+        "idioms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စကားပုံသဘောအသုံးအနှုန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "satire",
+      "pronunciation": "/ˈsæˌtaɪɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပြစ်အနာအဆာကိုဟာသဖြင့်လှောင်ပြောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "metaphor",
+      "pronunciation": "/ˈmɛtəfɔr/",
+      "forms": [
+        "metaphors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တင်စားခိုင်းနှိုင်းမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "narrative",
+      "pronunciation": "/ˈnærətɪv/",
+      "forms": [
+        "narratives"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇာတ်ကြောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "protagonist",
+      "pronunciation": "/proʊˈtæɡənəst/",
+      "forms": [
+        "protagonists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဓိကဇာတ်ကောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "prequel",
+      "pronunciation": "/ˈprikwɛl/",
+      "forms": [
+        "prequels"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မူလဇာတ်လမ်းမတိုင်မီအကြောင်းပြဇာတ်လမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "climax",
+      "pronunciation": "/ˈklaɪˌmæks/",
+      "forms": [
+        "climaxes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇာတ်လမ်းအမြင့်ဆုံးအခိုက်အတန့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "epilogue",
+      "pronunciation": "/ˈɛpəˌlɔɡ/",
+      "forms": [
+        "epilogues"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇာတ်သိမ်းနောက်ဆက်တွဲအပိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "prologue",
+      "pronunciation": "/ˈproʊlɑɡ/",
+      "forms": [
+        "prologues"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇာတ်အစနိဒါန်းပိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "subplot",
+      "pronunciation": "/ˈsʌbplɑt/",
+      "forms": [
+        "subplots"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဓိကဇာတ်လမ်းအပြင် ဇာတ်ကြောင်းငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cinematic",
+      "pronunciation": "/ˌsɪnəˈmætɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရုပ်ရှင်ဆန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "screenplay",
+      "pronunciation": "/ˈskrinˌpleɪ/",
+      "forms": [
+        "screenplays"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုပ်ရှင်ဇာတ်ညွှန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "voiceover",
+      "pronunciation": "/ˈvɔɪˌsoʊvɚ/",
+      "forms": [
+        "voiceovers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုံရိပ်ပေါ်မှအသံရှင်းလင်းချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "montage",
+      "pronunciation": "/mɑnˈtɑʒ/",
+      "forms": [
+        "montages"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြန်မြန်ဆက်ထားသောမြင်ကွင်းအစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cameo",
+      "pronunciation": "/ˈkæmiˌoʊ/",
+      "forms": [
+        "cameos"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နာမည်ကြီးသူ၏အခန်းတိုပါဝင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "improv",
+      "pronunciation": "/ˈɪmˌprɑv/",
+      "forms": [
+        "improvs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြိုမပြင်ဆင်ဘဲသရုပ်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "satirical",
+      "pronunciation": "/səˈtɪrəkəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သရော်လှောင်ပြောင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "heroine",
+      "pronunciation": "/ˈhɛroʊən/",
+      "forms": [
+        "heroines"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမျိုးသမီးအဓိကသူရဲကောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "narrator",
+      "pronunciation": "/ˈnɛreɪtɚ/",
+      "forms": [
+        "narrators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇာတ်ကြောင်းပြောသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "screenwriter",
+      "pronunciation": "/ˈskrinˌraɪtɚ/",
+      "forms": [
+        "screenwriters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုပ်ရှင်ဇာတ်ညွှန်းရေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cinematography",
+      "pronunciation": "/ˌsɪnɪməˈtɑɡrəfi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုပ်ရှင်ရိုက်ကူးပုံပညာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "choreography",
+      "pronunciation": "/ˌkɔriˈɑɡrəfi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အကသို့မဟုတ်လှုပ်ရှားမှုအစီအစဉ်ရေးဆွဲမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rehearsal",
+      "pronunciation": "/rɪˈhɝsəl/",
+      "forms": [
+        "rehearsals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစမ်းလေ့ကျင့်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "remake",
+      "pronunciation": "/ˈriˈmeɪk/",
+      "forms": [
+        "remakes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်ရာဟောင်းကိုပြန်လည်ဖန်တီးမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bestseller",
+      "pronunciation": "/ˈbɛstˈsɛlɚ/",
+      "forms": [
+        "bestsellers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရောင်းရဆုံးစာအုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "memoir",
+      "pronunciation": "/ˈmɛmˌwɑr/",
+      "forms": [
+        "memoirs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်တိုင်ကြုံတွေ့မှုမှတ်တမ်းစာအုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "anthology",
+      "pronunciation": "/ænˈθɑlədʒi/",
+      "forms": [
+        "anthologies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်ရာများစုစည်းစာအုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "novelist",
+      "pronunciation": "/ˈnɑvələst/",
+      "forms": [
+        "novelists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝတ္ထုရေးဆရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "correspondent",
+      "pronunciation": "/ˌkɔrəˈspɑndənt/",
+      "forms": [
+        "correspondents"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သတင်းပေးပို့သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "columnist",
+      "pronunciation": "/ˈkɑləmnəst/",
+      "forms": [
+        "columnists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုံမှန်ကော်လံရေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sensational",
+      "pronunciation": "/sɛnˈseɪʃənəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အာရုံစိုက်စေရန်အလွန်အကျွံဖော်ပြသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disclaimer",
+      "pronunciation": "/dɪsˈkleɪmɚ/",
+      "forms": [
+        "disclaimers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တာဝန်မယူကြောင်းရှင်းလင်းချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "excerpt",
+      "pronunciation": "/ˈɛksɚpt/",
+      "forms": [
+        "excerpts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာပိုဒ်ထုတ်နုတ်ချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "plagiarism",
+      "pronunciation": "/ˈpleɪdʒɚˌɪzəm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သူတစ်ပါးလက်ရာကိုမိမိလက်ရာအဖြစ်ကူးယူမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "publisher",
+      "pronunciation": "/ˈpʌblɪʃɚ/",
+      "forms": [
+        "publishers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ထုတ်ဝေသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "catalogue",
+      "pronunciation": "/ˈkætəˌlɔɡ/",
+      "forms": [
+        "catalogues"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာရင်းစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "index",
+      "pronunciation": "/ˈɪndɛks/",
+      "forms": [
+        "indexes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရှာဖွေရန်အညွှန်းစာရင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bibliography",
+      "pronunciation": "/ˌbɪbliˈɑɡrəfi/",
+      "forms": [
+        "bibliographies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုးကားစာအုပ်စာရင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "annotation",
+      "pronunciation": "/ˌænəˈteɪʃən/",
+      "forms": [
+        "annotations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရှင်းလင်းမှတ်ချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "foreword",
+      "pronunciation": "/ˈfɔrˌwɝd/",
+      "forms": [
+        "forewords"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာအုပ်ရှေ့စကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "preface",
+      "pronunciation": "/ˈprɛfəs/",
+      "forms": [
+        "prefaces"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာရေးသူ၏နိဒါန်းစကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "causation",
+      "pronunciation": "/ˌkɔˈzeɪʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အကြောင်းကြောင့်အကျိုးဖြစ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sampling",
+      "pronunciation": "/ˈsæmplɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နမူနာရွေးချယ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "questionnaire",
+      "pronunciation": "/ˌkwɛstʃəˈnɛr/",
+      "forms": [
+        "questionnaires"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မေးခွန်းလွှာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "apron",
+      "pronunciation": "/ˈeɪprən/",
+      "forms": [
+        "aprons"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချက်ပြုတ်ဝတ်ရှေ့ကာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "banister",
+      "pronunciation": "/ˈbænɪstɚ/",
+      "forms": [
+        "banisters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လှေကားလက်ရန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "beam",
+      "pronunciation": "/bim/",
+      "forms": [
+        "beams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဆောက်အအုံထောက်တန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "brickwork",
+      "pronunciation": "/ˈbrɪkˌwɝk/",
+      "forms": [
+        "brickworks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အုတ်စီအလုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cupboard",
+      "pronunciation": "/ˈkʌbɚd/",
+      "forms": [
+        "cupboards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပစ္စည်းသိမ်းဘီရို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "foyer",
+      "pronunciation": "/ˈfɔɪɚ/",
+      "forms": [
+        "foyers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝင်ပေါက်ဧည့်ခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hinge",
+      "pronunciation": "/hɪndʒ/",
+      "forms": [
+        "hinges"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တံခါးပတ္တာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "loft",
+      "pronunciation": "/lɔft/",
+      "forms": [
+        "lofts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပေါ်ခန်းငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mantel",
+      "pronunciation": "/ˈmæntəl/",
+      "forms": [
+        "mantels"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မီးဖိုပေါ်စင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rafter",
+      "pronunciation": "/ˈræftɚ/",
+      "forms": [
+        "rafters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခေါင်မိုးထောက်တန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stairwell",
+      "pronunciation": "/ˈstɛrˌwɛl/",
+      "forms": [
+        "stairwells"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လှေကားတန်းရှိရာနေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "veranda",
+      "pronunciation": "/vɚˈændə/",
+      "forms": [
+        "verandas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိမ်ဘေးမုတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "worktop",
+      "pronunciation": "/ˈwɝkˌtɑp/",
+      "forms": [
+        "worktops"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မီးဖိုချောင်အလုပ်စားပွဲပြင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bedding",
+      "pronunciation": "/ˈbɛdɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိပ်ရာခင်းပစ္စည်းများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pillowcase",
+      "pronunciation": "/ˈpɪloʊˌkeɪs/",
+      "forms": [
+        "pillowcases"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခေါင်းအုံးစွပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "quilt",
+      "pronunciation": "/kwɪlt/",
+      "forms": [
+        "quilts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချုပ်စောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rug",
+      "pronunciation": "/rʌɡ/",
+      "forms": [
+        "rugs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြမ်းခင်းကော်ဇောငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "blinds",
+      "pronunciation": "/blaɪndz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြတင်းပေါက်အကာပြားများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lampshade",
+      "pronunciation": "/ˈlæmpˌʃeɪd/",
+      "forms": [
+        "lampshades"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မီးအိမ်အကာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chandelier",
+      "pronunciation": "/ʃændəˈlɪr/",
+      "forms": [
+        "chandeliers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မီးပန်းဆိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bookshelf",
+      "pronunciation": "/ˈbʊkˌʃɛlf/",
+      "forms": [
+        "bookshelves"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာအုပ်စင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dresser",
+      "pronunciation": "/ˈdrɛsɚ/",
+      "forms": [
+        "dressers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အံဆွဲပါအဝတ်သိမ်းခုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "recliner",
+      "pronunciation": "/rɪˈklaɪnɚ/",
+      "forms": [
+        "recliners"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နောက်မှီလှန်နိုင်သောကုလားထိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spatula",
+      "pronunciation": "/ˈspæˌtʃʊlə/",
+      "forms": [
+        "spatulas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစားလှန်ပြား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ladle",
+      "pronunciation": "/ˈleɪdəl/",
+      "forms": [
+        "ladles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟင်းရည်ခပ်ဇွန်းကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "whisk",
+      "pronunciation": "/wɪsk/",
+      "forms": [
+        "whisks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မွှေတံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "colander",
+      "pronunciation": "/ˈkɑləndɚ/",
+      "forms": [
+        "colanders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေစစ်ဇလုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "saucepan",
+      "pronunciation": "/ˈsɔˌspæn/",
+      "forms": [
+        "saucepans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟင်းချက်အိုးငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "skillet",
+      "pronunciation": "/ˈskɪlət/",
+      "forms": [
+        "skillets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အကြော်အလှော်ဒယ်အိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "thermos",
+      "pronunciation": "/ˈθɝməs/",
+      "forms": [
+        "thermoses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပူထိန်းဘူး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "corkscrew",
+      "pronunciation": "/ˈkɔrkˌskru/",
+      "forms": [
+        "corkscrews"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖော့ပိတ်ဖွင့်ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cutlery",
+      "pronunciation": "/ˈkʌtlɚi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စားပွဲသုံးဇွန်းဓားခက်ရင်းများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "napkin",
+      "pronunciation": "/ˈnæpkɪn/",
+      "forms": [
+        "napkins"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စားပွဲသုံးလက်သုတ်ပဝါ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "coaster",
+      "pronunciation": "/ˈkoʊstɚ/",
+      "forms": [
+        "coasters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခွက်အောက်ခံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tray",
+      "pronunciation": "/treɪ/",
+      "forms": [
+        "trays"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဗန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "blender",
+      "pronunciation": "/ˈblɛndɚ/",
+      "forms": [
+        "blenders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစားဖျော်စက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "toaster",
+      "pronunciation": "/ˈtoʊstɚ/",
+      "forms": [
+        "toasters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပေါင်မုန့်ကင်စက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "microwave",
+      "pronunciation": "/ˈmaɪkrəˌweɪv/",
+      "forms": [
+        "microwaves"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုက်ခရိုဝေ့မီးဖို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "freezer",
+      "pronunciation": "/ˈfrizɚ/",
+      "forms": [
+        "freezers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အေးခဲသိုလှောင်ခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "refrigerator",
+      "pronunciation": "/rəˈfrɪdʒɚˌeɪtɚ/",
+      "forms": [
+        "refrigerators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေခဲသေတ္တာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hanger",
+      "pronunciation": "/ˈhæŋɚ/",
+      "forms": [
+        "hangers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဝတ်ချိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mop",
+      "pronunciation": "/mɑp/",
+      "forms": [
+        "mops"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြမ်းတိုက်တံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dustpan",
+      "pronunciation": "/ˈdʌstˌpæn/",
+      "forms": [
+        "dustpans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမှိုက်ကောက်ပြား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sponge",
+      "pronunciation": "/spʌndʒ/",
+      "forms": [
+        "sponges"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေမြှုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "plunger",
+      "pronunciation": "/ˈplʌndʒɚ/",
+      "forms": [
+        "plungers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပိုက်ပိတ်ဖွင့်စုပ်တံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wrench",
+      "pronunciation": "/rɛntʃ/",
+      "forms": [
+        "wrenches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မူလီလှည့်ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pliers",
+      "pronunciation": "/ˈplaɪɚz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပလာယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "screwdriver",
+      "pronunciation": "/ˈskruˌdraɪvɚ/",
+      "forms": [
+        "screwdrivers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝက်အူလှည့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chisel",
+      "pronunciation": "/ˈtʃɪzəl/",
+      "forms": [
+        "chisels"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆောက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mallet",
+      "pronunciation": "/ˈmælɪt/",
+      "forms": [
+        "mallets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တူပျော့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crowbar",
+      "pronunciation": "/ˈkroʊˌbɑr/",
+      "forms": [
+        "crowbars"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကော်တံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "matchbox",
+      "pronunciation": "/ˈmætʃˌbɑks/",
+      "forms": [
+        "matchboxes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မီးခြစ်ဘူး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "padlock",
+      "pronunciation": "/ˈpædˌlɑk/",
+      "forms": [
+        "padlocks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သော့ခလောက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "latch",
+      "pronunciation": "/lætʃ/",
+      "forms": [
+        "latches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တံခါးချိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "siren",
+      "pronunciation": "/ˈsaɪrən/",
+      "forms": [
+        "sirens"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချက်ပေးဥဩသံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intercom",
+      "pronunciation": "/ˈɪntɚˌkɑm/",
+      "forms": [
+        "intercoms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အတွင်းဆက်သွယ်ရေးစက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "doorbell",
+      "pronunciation": "/ˈdɔrˌbɛl/",
+      "forms": [
+        "doorbells"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တံခါးခေါင်းလောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "peephole",
+      "pronunciation": "/ˈpipˌhoʊl/",
+      "forms": [
+        "peepholes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တံခါးကြည့်ပေါက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gatepost",
+      "pronunciation": "/ˈɡeɪtˌpoʊst/",
+      "forms": [
+        "gateposts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တံခါးတိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shed",
+      "pronunciation": "/ʃɛd/",
+      "forms": [
+        "sheds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပစ္စည်းသိုလှောင်တဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "barn",
+      "pronunciation": "/bɑrn/",
+      "forms": [
+        "barns"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စပါးသို့မွေးမြူရေးပစ္စည်းသိုလှောင်အဆောက်အအုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "orchard",
+      "pronunciation": "/ˈɔrtʃɚd/",
+      "forms": [
+        "orchards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သစ်သီးခြံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vineyard",
+      "pronunciation": "/ˈvɪnjɚd/",
+      "forms": [
+        "vineyards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စပျစ်ခြံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pasture",
+      "pronunciation": "/ˈpæstʃɚ/",
+      "forms": [
+        "pastures"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တိရစ္ဆာန်စားကျက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wetland",
+      "pronunciation": "/ˈwɛtˌlænd/",
+      "forms": [
+        "wetlands"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေဝပ်စိုစွတ်မြေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ravine",
+      "pronunciation": "/rəˈvin/",
+      "forms": [
+        "ravines"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျဉ်းနက်သောတောင်ကြား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "plateau",
+      "pronunciation": "/plæˈtoʊ/",
+      "forms": [
+        "plateaus"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကုန်းပြင်မြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "estuary",
+      "pronunciation": "/ˈɛstʃuˌɛri/",
+      "forms": [
+        "estuaries"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြစ်ဝကျယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "brook",
+      "pronunciation": "/brʊk/",
+      "forms": [
+        "brooks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချောင်းကလေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wharf",
+      "pronunciation": "/wɔrf/",
+      "forms": [
+        "wharves",
+        "wharfs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကုန်တင်ချဆိပ်ခံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "pronunciation": "/mɚˈinə/",
+      "forms": [
+        "marinas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပန်းဖြေသင်္ဘောဆိပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "canoe",
+      "pronunciation": "/kəˈnu/",
+      "forms": [
+        "canoes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လှေငယ်ရှည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "kayak",
+      "pronunciation": "/ˈkaɪæk/",
+      "forms": [
+        "kayaks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကယက်လှေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "raft",
+      "pronunciation": "/ræft/",
+      "forms": [
+        "rafts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sailboat",
+      "pronunciation": "/ˈseɪlˌboʊt/",
+      "forms": [
+        "sailboats"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရွက်လှေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "pronunciation": "/jɑt/",
+      "forms": [
+        "yachts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပန်းဖြေသင်္ဘော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "freighter",
+      "pronunciation": "/ˈfreɪtɚ/",
+      "forms": [
+        "freighters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကုန်တင်သင်္ဘော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lifeboat",
+      "pronunciation": "/ˈlaɪfˌboʊt/",
+      "forms": [
+        "lifeboats"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသက်ကယ်လှေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rudder",
+      "pronunciation": "/ˈrʌdɚ/",
+      "forms": [
+        "rudders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သင်္ဘောလမ်းညွှန်တက်မ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mast",
+      "pronunciation": "/mæst/",
+      "forms": [
+        "masts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရွက်တိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cockpit",
+      "pronunciation": "/ˈkɑkˌpɪt/",
+      "forms": [
+        "cockpits"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ်မောင်းခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "runway",
+      "pronunciation": "/ˈrʌnˌweɪ/",
+      "forms": [
+        "runways"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ်ပြေးလမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hangar",
+      "pronunciation": "/ˈhæŋɚ/",
+      "forms": [
+        "hangars"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ်သိုလှောင်ရုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "glider",
+      "pronunciation": "/ˈɡlaɪdɚ/",
+      "forms": [
+        "gliders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်ဂျင်မဲ့လေယာဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "parachute",
+      "pronunciation": "/ˈpɛrəˌʃut/",
+      "forms": [
+        "parachutes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေထီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "turbulence",
+      "pronunciation": "/ˈtɝbjələns/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ်လှုပ်ခတ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "airborne",
+      "pronunciation": "/ˈɛrˌbɔrn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လေထဲတွင်ရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "takeoff",
+      "pronunciation": "/ˈteɪˌkɔf/",
+      "forms": [
+        "takeofves"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပျံတက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "purse",
+      "pronunciation": "/pɝs/",
+      "forms": [
+        "purses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမျိုးသမီးလက်ကိုင်အိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "handbag",
+      "pronunciation": "/ˈhændˌbæɡ/",
+      "forms": [
+        "handbags"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်ကိုင်အိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "satchel",
+      "pronunciation": "/ˈsætʃəl/",
+      "forms": [
+        "satchels"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပခုံးလွယ်အိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pouch",
+      "pronunciation": "/paʊtʃ/",
+      "forms": [
+        "pouches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိတ်ငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "zipper",
+      "pronunciation": "/ˈzɪpɚ/",
+      "forms": [
+        "zippers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "button",
+      "pronunciation": "/ˈbʌtən/",
+      "forms": [
+        "buttons"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြယ်သီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cuff",
+      "pronunciation": "/kʌf/",
+      "forms": [
+        "cufves"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်မောင်းအဆုံးအနား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sleeve",
+      "pronunciation": "/sliv/",
+      "forms": [
+        "sleeves"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်္ကျီလက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "seam",
+      "pronunciation": "/sim/",
+      "forms": [
+        "seams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချုပ်ရိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hem",
+      "pronunciation": "/hɛm/",
+      "forms": [
+        "hems"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဝတ်အနားချုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lace",
+      "pronunciation": "/leɪs/",
+      "forms": [
+        "laces"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြိုးသေးသို့ဇာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "linen",
+      "pronunciation": "/ˈlɪnən/",
+      "forms": [
+        "linens"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လင်နင်အထည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "velvet",
+      "pronunciation": "/ˈvɛlvət/",
+      "forms": [
+        "velvets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကတ္တီပါ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "silk",
+      "pronunciation": "/sɪlk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပိုးထည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wool",
+      "pronunciation": "/wʊl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သိုးမွေးထည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "leather",
+      "pronunciation": "/ˈlɛðɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သားရေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "suede",
+      "pronunciation": "/sweɪd/",
+      "forms": [
+        "suedes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပျော့သားရေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cotton",
+      "pronunciation": "/ˈkɑtən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချည်ထည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "patterned",
+      "pronunciation": "/ˈpætɚnd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပုံစံအဆင်ပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "striped",
+      "pronunciation": "/straɪpt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အစင်းပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "plaid",
+      "pronunciation": "/plæd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကွက်စိတ်အဆင်ရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "blazer",
+      "pronunciation": "/ˈbleɪzɚ/",
+      "forms": [
+        "blazers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂျက်ကက်အကျီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cardigan",
+      "pronunciation": "/ˈkɑrdɪɡən/",
+      "forms": [
+        "cardigans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရှေ့ဖွင့်သိုးမွေးအင်္ကျီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hoodie",
+      "pronunciation": "/ˈhʊdi/",
+      "forms": [
+        "hoodies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခေါင်းစွပ်ပါအင်္ကျီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "waistcoat",
+      "pronunciation": "/ˈweɪsˌkoʊt/",
+      "forms": [
+        "waistcoats"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်မဲ့ကုတ်အတွင်းခံအင်္ကျီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "raincoat",
+      "pronunciation": "/ˈreɪnˌkoʊt/",
+      "forms": [
+        "raincoats"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုးကာအင်္ကျီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sneaker",
+      "pronunciation": "/ˈsnikɚ/",
+      "forms": [
+        "sneakers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အားကစားဖိနပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "loafer",
+      "pronunciation": "/ˈloʊfɚ/",
+      "forms": [
+        "loafers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြိုးမဲ့ဖိနပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "slipper",
+      "pronunciation": "/ˈslɪpɚ/",
+      "forms": [
+        "slippers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိမ်စီးဖိနပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sandal",
+      "pronunciation": "/ˈsændəl/",
+      "forms": [
+        "sandals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခြေနင်းဖိနပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sole",
+      "pronunciation": "/soʊl/",
+      "forms": [
+        "soles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိနပ်အောက်ခံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "insole",
+      "pronunciation": "/ˈɪnˌsoʊl/",
+      "forms": [
+        "insoles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိနပ်အတွင်းခံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shoelace",
+      "pronunciation": "/ˈʃuˌleɪs/",
+      "forms": [
+        "shoelaces"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိနပ်ကြိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "beanie",
+      "pronunciation": "/ˈbini/",
+      "forms": [
+        "beanies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သိုးမွေးဦးထုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "beret",
+      "pronunciation": "/ˈbɛrət/",
+      "forms": [
+        "berets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြားဝိုင်းဦးထုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "visor",
+      "pronunciation": "/ˈvaɪzɚ/",
+      "forms": [
+        "visors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျက်နှာကာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "scarf",
+      "pronunciation": "/skɑrf/",
+      "forms": [
+        "scarves"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လည်ပင်းပဝါ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shawl",
+      "pronunciation": "/ʃɔl/",
+      "forms": [
+        "shawls"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပခုံးခြုံပဝါ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mitten",
+      "pronunciation": "/ˈmɪtən/",
+      "forms": [
+        "mittens"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်ချောင်းများပေါင်းထားသောလက်အိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pendant",
+      "pronunciation": "/ˈpɛndənt/",
+      "forms": [
+        "pendants"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လည်ဆွဲသီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "brooch",
+      "pronunciation": "/brutʃ/",
+      "forms": [
+        "brooches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်္ကျီထိုးရင်ထိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cufflink",
+      "pronunciation": "/ˈkʌfˌlɪŋk/",
+      "forms": [
+        "cufflinks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်္ကျီလက်ချိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "anklet",
+      "pronunciation": "/ˈæŋklɪt/",
+      "forms": [
+        "anklets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခြေချင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lipstick",
+      "pronunciation": "/ˈlɪpˌstɪk/",
+      "forms": [
+        "lipsticks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နှုတ်ခမ်းနီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mascara",
+      "pronunciation": "/mæˈskɛrə/",
+      "forms": [
+        "mascaras"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျက်တောင်ဆေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "concealer",
+      "pronunciation": "/kənˈsilɚ/",
+      "forms": [
+        "concealers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပြစ်အနာဖုံးမိတ်ကပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "perfume",
+      "pronunciation": "/pɚfˈjum/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေမွှေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cologne",
+      "pronunciation": "/kəˈloʊn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အနံ့ပျော့ရေမွှေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lotion",
+      "pronunciation": "/ˈloʊʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လိမ်းဆေးရည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "moisturizer",
+      "pronunciation": "/ˈmɔɪstʃɚˌaɪzɚ/",
+      "forms": [
+        "moisturizers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေပြားအစိုဓာတ်ထိန်းလိမ်းဆေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shampoo",
+      "pronunciation": "/ʃæmˈpu/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခေါင်းလျှော်ရည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "conditioner",
+      "pronunciation": "/kənˈdɪʃənɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆံပင်ပျော့ဆေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "razor",
+      "pronunciation": "/ˈreɪzɚ/",
+      "forms": [
+        "razors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မုတ်ဆိတ်ရိတ်ဓား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shaver",
+      "pronunciation": "/ˈʃeɪvɚ/",
+      "forms": [
+        "shavers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမွှေးရိတ်စက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "comb",
+      "pronunciation": "/koʊm/",
+      "forms": [
+        "combs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hairbrush",
+      "pronunciation": "/ˈhɛrˌbrʌʃ/",
+      "forms": [
+        "hairbrushes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆံပင်ဖြီးတံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hairpin",
+      "pronunciation": "/ˈhɛrˌpɪn/",
+      "forms": [
+        "hairpins"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆံထိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "barrette",
+      "pronunciation": "/bɚˈɛt/",
+      "forms": [
+        "barrettes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆံပင်ကလစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tweezers",
+      "pronunciation": "/ˈtwizɚz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇာဂနာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "splint",
+      "pronunciation": "/splɪnt/",
+      "forms": [
+        "splints"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရိုးဒဏ်ရာထိန်းတံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crutch",
+      "pronunciation": "/krʌtʃ/",
+      "forms": [
+        "crutches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချိုင်းထောက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wheelchair",
+      "pronunciation": "/ˈwilˌtʃɛr/",
+      "forms": [
+        "wheelchairs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘီးတပ်ကုလားထိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stretcher",
+      "pronunciation": "/ˈstrɛtʃɚ/",
+      "forms": [
+        "stretchers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူနာသယ်တင်ခုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "thermometer",
+      "pronunciation": "/θɚˈmɑmətɚ/",
+      "forms": [
+        "thermometers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပူချိန်တိုင်းကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "scalpel",
+      "pronunciation": "/ˈskælpəl/",
+      "forms": [
+        "scalpels"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခွဲစိတ်ဓား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "midwife",
+      "pronunciation": "/ˈmɪˌdwaɪf/",
+      "forms": [
+        "midwives"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သားဖွားဆရာမ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pediatrician",
+      "pronunciation": "/ˌpidiəˈtrɪʃən/",
+      "forms": [
+        "pediatricians"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေးအထူးကုဆရာဝန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "welder",
+      "pronunciation": "/ˈwɛldɚ/",
+      "forms": [
+        "welders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သံဂဟေဆော်သမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mason",
+      "pronunciation": "/ˈmeɪsən/",
+      "forms": [
+        "masons"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အုတ်ပန်းရံသမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "roofer",
+      "pronunciation": "/ˈrufɚ/",
+      "forms": [
+        "roofers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခေါင်မိုးလုပ်သမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "painter",
+      "pronunciation": "/ˈpeɪntɚ/",
+      "forms": [
+        "painters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးသုတ်သမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "barber",
+      "pronunciation": "/ˈbɑrbɚ/",
+      "forms": [
+        "barbers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆံပင်ညှပ်သမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stylist",
+      "pronunciation": "/ˈstaɪlɪst/",
+      "forms": [
+        "stylists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလှအပပုံစံဖန်တီးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "concierge",
+      "pronunciation": "/ˌkɑnsiˈɛrʒ/",
+      "forms": [
+        "concierges"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟိုတယ်ဧည့်သည်ဝန်ဆောင်မှုဝန်ထမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chauffeur",
+      "pronunciation": "/ʃoʊˈfɝ/",
+      "forms": [
+        "chauffeurs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်ပိုင်ယာဉ်မောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "messenger",
+      "pronunciation": "/ˈmɛsəndʒɚ/",
+      "forms": [
+        "messengers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သတင်းစာပို့သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bookkeeper",
+      "pronunciation": "/ˈbʊkˌkipɚ/",
+      "forms": [
+        "bookkeepers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ငွေစာရင်းမှတ်တမ်းရေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intern",
+      "pronunciation": "/ˈɪntɚn/",
+      "forms": [
+        "interns"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလုပ်သင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trainee",
+      "pronunciation": "/ˈtreɪˈni/",
+      "forms": [
+        "trainees"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သင်တန်းသား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "craftsman",
+      "pronunciation": "/ˈkræftsmən/",
+      "forms": [
+        "craftsmans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျွမ်းကျင်လက်မှုပညာရှင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "blacksmith",
+      "pronunciation": "/ˈblækˌsmɪθ/",
+      "forms": [
+        "blacksmiths"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပန်းပဲသမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rancher",
+      "pronunciation": "/ˈræntʃɚ/",
+      "forms": [
+        "ranchers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မွေးမြူရေးခြံပိုင်ရှင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hunter",
+      "pronunciation": "/ˈhʌntɚ/",
+      "forms": [
+        "hunters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မုဆိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lumberjack",
+      "pronunciation": "/ˈlʌmbɚˌdʒæk/",
+      "forms": [
+        "lumberjacks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သစ်ခုတ်သမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "illustrator",
+      "pronunciation": "/ˈɪləˌstreɪtɚ/",
+      "forms": [
+        "illustrators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုံဆွဲသရုပ်ဖော်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sculptor",
+      "pronunciation": "/ˈskʌlptɚ/",
+      "forms": [
+        "sculptors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပန်းပုဆရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "violinist",
+      "pronunciation": "/vaɪəˈlɪnəst/",
+      "forms": [
+        "violinists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တယောပညာရှင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pianist",
+      "pronunciation": "/piˈænəst/",
+      "forms": [
+        "pianists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပီယာနိုပညာရှင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "drummer",
+      "pronunciation": "/ˈdrʌmɚ/",
+      "forms": [
+        "drummers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒရမ်တီးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "guitarist",
+      "pronunciation": "/ˌɡɪˈtɑrɪst/",
+      "forms": [
+        "guitarists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂစ်တာတီးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vocalist",
+      "pronunciation": "/ˈvoʊkəlɪst/",
+      "forms": [
+        "vocalists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဆိုရှင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "comedian",
+      "pronunciation": "/kəˈmidiən/",
+      "forms": [
+        "comedians"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟာသသရုပ်ဆောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "magician",
+      "pronunciation": "/məˈdʒɪʃən/",
+      "forms": [
+        "magicians"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျက်လှည့်ဆရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stuntman",
+      "pronunciation": "/ˈstʌntˌmæn/",
+      "forms": [
+        "stuntmans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အန္တရာယ်ရှိအခန်းအစားထိုးသရုပ်ဆောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "archivist",
+      "pronunciation": "/ˈɑrkəvɪst/",
+      "forms": [
+        "archivists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မှတ်တမ်းထိန်းသိမ်းသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "proofreader",
+      "pronunciation": "/ˈprufˌridɚ/",
+      "forms": [
+        "proofreaders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာအမှားစစ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "presenter",
+      "pronunciation": "/ˈprɛzəntɚ/",
+      "forms": [
+        "presenters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစီအစဉ်တင်ဆက်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "announcer",
+      "pronunciation": "/əˈnaʊnsɚ/",
+      "forms": [
+        "announcers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြေညာသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "referee",
+      "pronunciation": "/ˌrɛfɚˈi/",
+      "forms": [
+        "referees"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒိုင်လူကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "umpire",
+      "pronunciation": "/ˈʌmˌpaɪɚ/",
+      "forms": [
+        "umpires"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အားကစားဒိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "coach",
+      "pronunciation": "/koʊtʃ/",
+      "forms": [
+        "coaches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နည်းပြ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "striker",
+      "pronunciation": "/ˈstraɪkɚ/",
+      "forms": [
+        "strikers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တိုက်စစ်မှူး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "goalkeeper",
+      "pronunciation": "/ˈɡoʊlˌkipɚ/",
+      "forms": [
+        "goalkeepers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂိုးသမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "midfielder",
+      "pronunciation": "/ˈmɪdˌfildɚ/",
+      "forms": [
+        "midfielders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလယ်တန်းကစားသမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spectator",
+      "pronunciation": "/ˈspɛkteɪtɚ/",
+      "forms": [
+        "spectators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပွဲကြည့်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "champion",
+      "pronunciation": "/ˈtʃæmpiən/",
+      "forms": [
+        "champions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချန်ပီယံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "contender",
+      "pronunciation": "/kənˈtɛndɚ/",
+      "forms": [
+        "contenders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချန်ပီယံဖြစ်ရန်ယှဉ်ပြိုင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "underdog",
+      "pronunciation": "/ˈʌndɚˌdɔɡ/",
+      "forms": [
+        "underdogs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အနိုင်ရနိုင်ခြေနည်းသောပြိုင်ဘက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "teammate",
+      "pronunciation": "/ˈtiˌmeɪt/",
+      "forms": [
+        "teammates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသင်းဖော်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tournament",
+      "pronunciation": "/ˈtʊrnəmənt/",
+      "forms": [
+        "tournaments"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြိုင်ပွဲစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "qualifier",
+      "pronunciation": "/ˈkwɑləˌfaɪɚ/",
+      "forms": [
+        "qualifiers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နောက်တစ်ဆင့်တက်ရန်အရည်အချင်းစစ်ပွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "semifinal",
+      "pronunciation": "/ˌsɛmiˈfaɪnəl/",
+      "forms": [
+        "semifinals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆီမီးဖိုင်နယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "playoff",
+      "pronunciation": "/ˈpleɪˌɔf/",
+      "forms": [
+        "playofves"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဆုံးအဖြတ်တက်ရောက်ပွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "scoreboard",
+      "pronunciation": "/ˈskɔrˌbɔrd/",
+      "forms": [
+        "scoreboards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရမှတ်ပြဘုတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jersey",
+      "pronunciation": "/ˈdʒɝzi/",
+      "forms": [
+        "jerseys"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အားကစားအင်္ကျီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shinpad",
+      "pronunciation": "/ˈʃɪnˌpæd/",
+      "forms": [
+        "shinpads"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခြေသလုံးကာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "racquet",
+      "pronunciation": "/ˈrækɪt/",
+      "forms": [
+        "racquets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တင်းနစ်ရိုက်တံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bat",
+      "pronunciation": "/bæt/",
+      "forms": [
+        "bats"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘောလုံးရိုက်တံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "puck",
+      "pronunciation": "/pʌk/",
+      "forms": [
+        "pucks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟော်ကီပြား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hoop",
+      "pronunciation": "/hup/",
+      "forms": [
+        "hoops"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘတ်စကတ်ဘောကွင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mat",
+      "pronunciation": "/mæt/",
+      "forms": [
+        "mats"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေ့ကျင့်ခန်းဖျာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rink",
+      "pronunciation": "/rɪŋk/",
+      "forms": [
+        "rinks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေခဲစကိတ်ကွင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stadium",
+      "pronunciation": "/ˈsteɪdiəm/",
+      "forms": [
+        "stadiums"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အားကစားကွင်းကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "foul",
+      "pronunciation": "/faʊl/",
+      "forms": [
+        "fouls"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စည်းကမ်းချိုးဖောက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "offside",
+      "pronunciation": "/ˈɔfˌsaɪd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကစားစည်းမျဉ်းအရရှေ့ကျော်နေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "timeout",
+      "pronunciation": "/ˈtaɪˌmaʊt/",
+      "forms": [
+        "timeouts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပွဲခဏရပ်ချိန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "knockout",
+      "pronunciation": "/ˈnɑˌkaʊt/",
+      "forms": [
+        "knockouts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ထိုးပွဲတွင်မထနိုင်အောင်အလဲထိုးမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sparring",
+      "pronunciation": "/ˈspɑrɪŋ/",
+      "forms": [
+        "sparrings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေ့ကျင့်ထိုးသတ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jog",
+      "pronunciation": "/dʒɑɡ/",
+      "forms": [
+        "jogs",
+        "jogged",
+        "jogging"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဖြည်းဖြည်းပြေးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hurdle",
+      "pronunciation": "/ˈhɝdəl/",
+      "forms": [
+        "hurdles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပြေးခုန်ကျော်အတား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "triathlon",
+      "pronunciation": "/ˌtraɪˈæθlən/",
+      "forms": [
+        "triathlons"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အားကစားသုံးမျိုးဆက်တိုက်ပြိုင်ပွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "surfing",
+      "pronunciation": "/ˈsɝfɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လှိုင်းစီးအားကစား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "skiing",
+      "pronunciation": "/ˈskiɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နှင်းလျှောစီးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "snowboard",
+      "pronunciation": "/ˈsnoʊˌbɔrd/",
+      "forms": [
+        "snowboards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နှင်းလျှောဘုတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "skateboard",
+      "pronunciation": "/ˈskeɪtˌbɔrd/",
+      "forms": [
+        "skateboards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စကိတ်ဘုတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "skating",
+      "pronunciation": "/ˈskeɪtɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စကိတ်စီးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hiking",
+      "pronunciation": "/ˈhaɪkɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တောင်တန်းလမ်းလျှောက်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bonfire",
+      "pronunciation": "/ˈbɑnˌfaɪɚ/",
+      "forms": [
+        "bonfires"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မီးပုံကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "campfire",
+      "pronunciation": "/ˈkæmpˌfaɪɚ/",
+      "forms": [
+        "campfires"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စခန်းမီးပုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "canteen",
+      "pronunciation": "/kænˈtin/",
+      "forms": [
+        "canteens"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေဘူး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trail",
+      "pronunciation": "/treɪl/",
+      "forms": [
+        "trails"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တောလမ်းငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "summit",
+      "pronunciation": "/ˈsʌmət/",
+      "forms": [
+        "summits"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တောင်ထိပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "campsite",
+      "pronunciation": "/ˈkæmpˌsaɪt/",
+      "forms": [
+        "campsites"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စခန်းချနေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mosquito",
+      "pronunciation": "/məˈskitoʊ/",
+      "forms": [
+        "mosquitoes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခြင်"
+          ]
+        }
+      ]
+    }
+  ]
+}
