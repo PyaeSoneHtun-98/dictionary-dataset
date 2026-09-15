@@ -1,6 +1,7 @@
 parts=[('candidates.part01.b64', 14000), ('candidates.part02.b64', 14000), ('candidates.part03.b64', 14000), ('candidates.part04.b64', 988)]
 encoded_length=42988
-Traceback (most recent call last):
-  File "<stdin>", line 11, in <module>
-zlib.error: Error -3 while decompressing data: incorrect data check
-
+batch=26 candidates=931 unique_words=931
+prior_keys=24683 manifest_prior_keys=24683
+counts={"bad_ipa": 0, "bad_meaning": 0, "bad_word": 0, "eligible": 45, "prior_word": 886, "too_many_senses": 0}
+first_eligible=connive,gait,inquest,perilous,shoddy,substandard,vibrant,laceration,tetanus,succession,repeal,tentatively,undoubtedly,abettor,entrapment,immunization,corrosion,fragmentation,microprocessor,navigation
+last_eligible=quarterly,deductible,demobilization,encirclement,fissure,inundation,adversely,concurrently,objectively,predominantly,provisionally,subjectively,declassify,decontaminate,deescalate,demarcate,destabilize,incapacitate,misrepresent,reinstate
