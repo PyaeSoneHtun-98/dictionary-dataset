@@ -1,0 +1,46 @@
+name: Find Unused Batch 026 Words
+
+on:
+  push:
+    paths:
+      - 'staging/batch026/FIND_UNUSED'
+
+permissions:
+  contents: write
+
+jobs:
+  find-unused:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build ranked unused-word list
+        run: |
+          python - <<'PY'
+          import base64, pathlib, urllib.request, zlib
+          root = pathlib.Path('.')
+          lookup = (root/'lookup'/'used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          prior = {x for x in zlib.decompress(base64.b64decode(lookup)).decode('utf-8').splitlines() if x}
+          url = 'https://raw.githubusercontent.com/first20hours/google-10000-english/master/20k.txt'
+          words = urllib.request.urlopen(url, timeout=30).read().decode('utf-8').splitlines()
+          rows=[]
+          seen=set()
+          for rank,w in enumerate(words,1):
+              w=w.strip()
+              if not w or w in seen or w in prior: continue
+              seen.add(w)
+              if not w.isascii() or not w.isalpha() or w.lower()!=w: continue
+              if len(w)<4 or len(w)>18: continue
+              rows.append(f'{rank}\t{w}')
+          out=root/'staging'/'batch026'/'UNUSED_20K.tsv'
+          out.write_text('\n'.join(rows)+'\n',encoding='utf-8')
+          print('unused candidates',len(rows))
+          print('first',rows[:20])
+          print('last',rows[-20:])
+          PY
+      - name: Commit unused-word list
+        run: |
+          git config user.name "dictionary-dataset-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add staging/batch026/UNUSED_20K.tsv
+          git commit -m "Add Batch 026 unused word probe"
+          git push
