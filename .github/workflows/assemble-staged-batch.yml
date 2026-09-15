@@ -1,0 +1,203 @@
+name: Assemble Staged Dictionary Batch
+
+on:
+  push:
+    paths:
+      - 'staging/batch*/READY'
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Select 500 new entries, validate, and update dataset
+        run: |
+          python - <<'PY'
+          import base64
+          import hashlib
+          import json
+          import pathlib
+          import re
+          import shutil
+          import zlib
+
+          root = pathlib.Path('.')
+          manifest_path = root / 'dictionary_manifest.json'
+          manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+          batch_no = int(manifest['nextBatch'])
+          stage = root / 'staging' / f'batch{batch_no:03d}'
+          assert stage.exists(), f'Missing staging directory: {stage}'
+
+          parts = sorted(stage.glob('candidates.part*.b64'))
+          assert parts, 'No candidate payload parts found'
+          encoded_candidates = ''.join(p.read_text(encoding='ascii').strip() for p in parts)
+          candidate_raw = zlib.decompress(base64.b64decode(encoded_candidates))
+          payload = json.loads(candidate_raw.decode('utf-8'))
+          assert payload['version'] == 1
+          assert int(payload['batch']) == batch_no
+          candidates = payload['candidates']
+          assert len(candidates) >= 500
+
+          # Candidate headwords must be unique before filtering.
+          candidate_words = [e['word'] for e in candidates]
+          assert len(candidate_words) == len(set(candidate_words))
+          candidate_word_set = set(candidate_words)
+
+          lookup_path = root / manifest['lookup']['path']
+          lookup_encoded = lookup_path.read_text(encoding='ascii').strip()
+          prior_plain = zlib.decompress(base64.b64decode(lookup_encoded)).decode('utf-8')
+          prior_keys = {x for x in prior_plain.splitlines() if x}
+          assert len(prior_keys) == int(manifest['lookup']['uniqueLookupKeys'])
+
+          allowed_pos = {
+              'noun','verb','adjective','adverb','pronoun','preposition',
+              'conjunction','interjection','determiner','modal','auxiliary'
+          }
+          ascii_word = re.compile(r'[A-Za-z]')
+
+          selected = []
+          new_keys = set()
+          new_forms = set()
+          skipped_prior = 0
+
+          for src in candidates:
+              if len(selected) >= 500:
+                  break
+
+              word = src.get('word')
+              if not isinstance(word, str) or not word or ' ' in word or '-' in word:
+                  continue
+              if word in prior_keys or word in new_keys:
+                  skipped_prior += 1
+                  continue
+
+              pronunciation = src.get('pronunciation')
+              if not isinstance(pronunciation, str) or len(pronunciation) < 3:
+                  continue
+              if not (pronunciation.startswith('/') and pronunciation.endswith('/')):
+                  continue
+
+              meanings = src.get('meanings')
+              if not isinstance(meanings, list) or not meanings:
+                  continue
+              semantic_count = 0
+              valid_meanings = []
+              meaning_ok = True
+              for m in meanings:
+                  pos = m.get('partOfSpeech')
+                  burmese = m.get('burmese')
+                  if pos not in allowed_pos or not isinstance(burmese, list) or not burmese:
+                      meaning_ok = False
+                      break
+                  cleaned = []
+                  for gloss in burmese:
+                      if not isinstance(gloss, str) or not gloss.strip() or ascii_word.search(gloss):
+                          meaning_ok = False
+                          break
+                      cleaned.append(gloss.strip())
+                  if not meaning_ok:
+                      break
+                  semantic_count += len(cleaned)
+                  valid_meanings.append({'partOfSpeech': pos, 'burmese': cleaned})
+              if not meaning_ok or semantic_count > 3:
+                  continue
+
+              # Keep useful forms only when they do not collide with any prior key,
+              # selected key, or another candidate headword. A dropped form is already
+              # resolvable elsewhere or reserved for a canonical headword.
+              forms = []
+              seen_forms = set()
+              for form in src.get('forms', []):
+                  if not isinstance(form, str) or not form or form == word:
+                      continue
+                  if ' ' in form or '-' in form:
+                      continue
+                  if form in seen_forms or form in prior_keys or form in new_keys:
+                      continue
+                  if form in candidate_word_set and form != word:
+                      continue
+                  forms.append(form)
+                  seen_forms.add(form)
+
+              entry = {
+                  'word': word,
+                  'pronunciation': pronunciation,
+                  'forms': forms,
+                  'meanings': valid_meanings,
+              }
+              selected.append(entry)
+              new_keys.add(word)
+              for form in forms:
+                  new_keys.add(form)
+                  new_forms.add(form)
+
+          assert len(selected) == 500, f'Only {len(selected)} unused valid candidates available'
+          selected_words = [e['word'] for e in selected]
+          assert len(set(selected_words)) == 500
+          assert not (set(selected_words) & prior_keys)
+
+          # Final same-batch collision audit.
+          selected_word_set = set(selected_words)
+          for e in selected:
+              assert e['word'] not in e['forms']
+              assert not (set(e['forms']) & prior_keys)
+              assert not (set(e['forms']) & (selected_word_set - {e['word']}))
+
+          batch = {'version': 1, 'batch': batch_no, 'entries': selected}
+          out = root / 'Batches' / f'dictionary_batch_{batch_no:03d}.json'
+          assert not out.exists(), f'Batch already exists: {out}'
+          out.parent.mkdir(parents=True, exist_ok=True)
+          out.write_text(json.dumps(batch, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+
+          updated_keys = prior_keys | new_keys
+          lookup_plain = ('\n'.join(sorted(updated_keys)) + '\n').encode('utf-8')
+          updated_lookup_encoded = base64.b64encode(zlib.compress(lookup_plain, 9)).decode('ascii')
+          lookup_path.write_text(updated_lookup_encoded, encoding='ascii')
+
+          previous_forms = int(manifest['lookup']['uniqueStoredForms'])
+          manifest['latestBatch'] = batch_no
+          manifest['nextBatch'] = batch_no + 1
+          manifest['batchCount'] = int(manifest['batchCount']) + 1
+          manifest['totalHeadwords'] = int(manifest['totalHeadwords']) + 500
+          manifest['batchFilenamePattern'] = 'Batches/dictionary_batch_XXX.json'
+          manifest['historicalBatches']['mirroredAsJson'] = True
+          manifest['lookup']['throughBatch'] = batch_no
+          manifest['lookup']['uniqueLookupKeys'] = len(updated_keys)
+          manifest['lookup']['uniqueHeadwords'] = int(manifest['lookup']['uniqueHeadwords']) + 500
+          manifest['lookup']['uniqueStoredForms'] = previous_forms + len(new_forms)
+          manifest['lookup']['sha256'] = hashlib.sha256(updated_lookup_encoded.encode('ascii')).hexdigest()
+          assert manifest['totalHeadwords'] == manifest['batchCount'] * 500
+          manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+
+          readme_path = root / 'README.md'
+          readme = readme_path.read_text(encoding='utf-8')
+          readme = re.sub(
+              r'Batches 001–\d{3} have been generated: \*\*[\d,]+ unique headwords\*\*\.',
+              f"Batches 001–{batch_no:03d} have been generated: **{manifest['totalHeadwords']:,} unique headwords**.",
+              readme,
+          )
+          readme_path.write_text(readme, encoding='utf-8')
+
+          print(f'Batch {batch_no:03d}: {len(selected)} entries')
+          print(f'Candidate pool: {len(candidates)}')
+          print(f'Prior-key candidates skipped: {skipped_prior}')
+          print(f'New stored forms: {len(new_forms)}')
+          print(f'Total headwords: {manifest["totalHeadwords"]}')
+          print(f'Unique lookup keys: {len(updated_keys)}')
+
+          shutil.rmtree(stage)
+          PY
+
+      - name: Commit generated batch
+        run: |
+          git config user.name "dictionary-dataset-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A Batches lookup dictionary_manifest.json README.md staging
+          git commit -m "Add dictionary batch $(printf '%03d' $(python -c 'import json; print(json.load(open("dictionary_manifest.json"))["latestBatch"])'))"
+          git push
