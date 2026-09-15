@@ -1,0 +1,84 @@
+name: Curate Batch 026 Blueprint
+
+on:
+  push:
+    paths:
+      - 'staging/batch026/CURATE_BLUEPRINT'
+
+permissions:
+  contents: write
+
+jobs:
+  curate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install lexical resources
+        run: |
+          python -m pip install --quiet nltk cmudict
+          python - <<'PY'
+          import nltk
+          nltk.download('wordnet', quiet=True)
+          PY
+      - name: Curate canonical unused words
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, urllib.request, zlib
+          from nltk.corpus import wordnet as wn
+          import cmudict
+
+          root=pathlib.Path('.')
+          lookup=(root/'lookup'/'used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          prior={x for x in zlib.decompress(base64.b64decode(lookup)).decode('utf-8').splitlines() if x}
+          words=urllib.request.urlopen('https://raw.githubusercontent.com/first20hours/google-10000-english/master/20k.txt',timeout=30).read().decode().splitlines()
+          cmu=cmudict.dict()
+          pos_order=[wn.NOUN,wn.VERB,wn.ADJ,wn.ADV]
+          pos_name={wn.NOUN:'noun',wn.VERB:'verb',wn.ADJ:'adjective',wn.ADV:'adverb'}
+          blacklist={'dildo','porn','porno','milf','pussy','cock','incest','phentermine'}
+
+          rows=[]; seen=set()
+          for rank,w in enumerate(words,1):
+              w=w.strip().lower()
+              if rank < 5000 or w in seen or w in prior or w in blacklist: continue
+              seen.add(w)
+              if not w.isascii() or not w.isalpha() or len(w)<4 or len(w)>16 or w not in cmu: continue
+              chosen=None
+              for pos in pos_order:
+                  if wn.morphy(w,pos)!=w: continue
+                  syns=wn.synsets(w,pos=pos)
+                  for syn in syns:
+                      exact=[l for l in syn.lemmas() if l.name().lower()==w]
+                      if not exact: continue
+                      # Proper named entities in WordNet are normally instances and/or capitalized lemmas.
+                      if syn.instance_hypernyms(): continue
+                      if any(l.name()[:1].isupper() for l in exact): continue
+                      chosen=(pos,syn); break
+                  if chosen: break
+              if not chosen: continue
+              pos,syn=chosen
+              # Drop obvious participles when a separate verb base exists.
+              if (w.endswith('ing') or w.endswith('ed')):
+                  vb=wn.morphy(w,wn.VERB)
+                  if vb and vb!=w and wn.synsets(vb,pos=wn.VERB): continue
+              # Exclude obvious technical/web artifacts and abbreviations.
+              if w in {'html','http','https','jpeg','jpg','gif','php','dvd','dvds','mp3','ipod','xbox','linux','unix','ascii','isbn'}: continue
+              rows.append({'rank':rank,'word':w,'partOfSpeech':pos_name[pos],'definition':syn.definition(),'cmu':cmu[w][0]})
+              if len(rows)>=650: break
+
+          assert len(rows)>=550, len(rows)
+          outdir=root/'staging'/'batch026'/'curated'
+          outdir.mkdir(parents=True,exist_ok=True)
+          for p in outdir.glob('*'): p.unlink()
+          for i in range(0,len(rows),50):
+              part=rows[i:i+50]
+              (outdir/f'part_{i//50+1:02d}.json').write_text(json.dumps(part,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          (outdir/'SUMMARY.txt').write_text(f'count={len(rows)}\nfirst={rows[0]["word"]}\nlast={rows[-1]["word"]}\n',encoding='utf-8')
+          print('curated',len(rows))
+          PY
+      - name: Commit curated blueprint
+        run: |
+          git config user.name "dictionary-dataset-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add staging/batch026/curated
+          git commit -m "Curate Batch 026 blueprint"
+          git push
