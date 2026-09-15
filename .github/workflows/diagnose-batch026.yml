@@ -1,0 +1,79 @@
+name: Diagnose Batch 026
+
+on:
+  push:
+    paths:
+      - 'staging/batch026/DIAGNOSE'
+
+permissions:
+  contents: write
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Diagnose candidate selection
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, re, traceback, zlib
+          root = pathlib.Path('.')
+          out = []
+          try:
+              m = json.loads((root/'dictionary_manifest.json').read_text(encoding='utf-8'))
+              stage = root/'staging'/'batch026'
+              parts = sorted(stage.glob('candidates.part*.b64'))
+              out.append(f'parts={[(p.name,p.stat().st_size) for p in parts]}')
+              enc = ''.join(p.read_text(encoding='ascii').strip() for p in parts)
+              out.append(f'encoded_length={len(enc)}')
+              raw = zlib.decompress(base64.b64decode(enc))
+              payload = json.loads(raw.decode('utf-8'))
+              cands = payload['candidates']
+              out.append(f'batch={payload.get("batch")} candidates={len(cands)} unique_words={len(set(e["word"] for e in cands))}')
+              lookup_enc = (root/m['lookup']['path']).read_text(encoding='ascii').strip()
+              prior = {x for x in zlib.decompress(base64.b64decode(lookup_enc)).decode('utf-8').splitlines() if x}
+              out.append(f'prior_keys={len(prior)} manifest_prior_keys={m["lookup"]["uniqueLookupKeys"]}')
+              ascii_word = re.compile(r'[A-Za-z]')
+              allowed = {'noun','verb','adjective','adverb','pronoun','preposition','conjunction','interjection','determiner','modal','auxiliary'}
+              counts = {'prior_word':0,'bad_word':0,'bad_ipa':0,'bad_meaning':0,'too_many_senses':0,'eligible':0}
+              eligible=[]
+              for e in cands:
+                  w=e.get('word')
+                  if not isinstance(w,str) or not w or ' ' in w or '-' in w:
+                      counts['bad_word']+=1; continue
+                  if w in prior:
+                      counts['prior_word']+=1; continue
+                  p=e.get('pronunciation')
+                  if not isinstance(p,str) or len(p)<3 or not(p.startswith('/') and p.endswith('/')):
+                      counts['bad_ipa']+=1; continue
+                  meanings=e.get('meanings')
+                  ok=True; senses=0
+                  if not isinstance(meanings,list) or not meanings: ok=False
+                  else:
+                      for mm in meanings:
+                          b=mm.get('burmese'); pos=mm.get('partOfSpeech')
+                          if pos not in allowed or not isinstance(b,list) or not b:
+                              ok=False; break
+                          for g in b:
+                              if not isinstance(g,str) or not g.strip() or ascii_word.search(g): ok=False; break
+                          if not ok: break
+                          senses += len(b)
+                  if not ok:
+                      counts['bad_meaning']+=1; continue
+                  if senses>3:
+                      counts['too_many_senses']+=1; continue
+                  counts['eligible']+=1; eligible.append(w)
+              out.append('counts='+json.dumps(counts,ensure_ascii=False,sort_keys=True))
+              out.append('first_eligible='+','.join(eligible[:20]))
+              out.append('last_eligible='+','.join(eligible[-20:]))
+          except Exception:
+              out.append(traceback.format_exc())
+          (root/'staging'/'batch026'/'DIAGNOSTIC.txt').write_text('\n'.join(out)+'\n',encoding='utf-8')
+          PY
+      - name: Commit diagnostic
+        run: |
+          git config user.name "dictionary-dataset-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add staging/batch026/DIAGNOSTIC.txt
+          git commit -m "Diagnose batch 026 assembly"
+          git push
