@@ -1,0 +1,347 @@
+{
+  "batch": 42,
+  "verbCount": 62,
+  "reviewedFormCount": 181,
+  "corrections": {
+    "imperil": {
+      "removed": [
+        "imperilled",
+        "imperilling"
+      ],
+      "kept": [
+        "imperils",
+        "imperiled",
+        "imperiling"
+      ]
+    },
+    "pummel": {
+      "removed": [
+        "pummelled",
+        "pummelling"
+      ],
+      "kept": [
+        "pummels",
+        "pummeled",
+        "pummeling"
+      ]
+    },
+    "rebroadcast": {
+      "removed": [
+        "rebroadcasted"
+      ],
+      "kept": [
+        "rebroadcasts",
+        "rebroadcasting"
+      ],
+      "note": "past and past participle use the unchanged headword and are not stored as forms"
+    }
+  },
+  "verbForms": {
+    "sanctify": [
+      "sanctifies",
+      "sanctified",
+      "sanctifying"
+    ],
+    "shuck": [
+      "shucks",
+      "shucked",
+      "shucking"
+    ],
+    "typecast": [
+      "typecasts",
+      "typecasting"
+    ],
+    "dethrone": [
+      "dethrones",
+      "dethroned",
+      "dethroning"
+    ],
+    "electrify": [
+      "electrifies",
+      "electrified",
+      "electrifying"
+    ],
+    "impel": [
+      "impels",
+      "impelled",
+      "impelling"
+    ],
+    "incapacitate": [
+      "incapacitates",
+      "incapacitating"
+    ],
+    "oxidize": [
+      "oxidizes",
+      "oxidized",
+      "oxidizing"
+    ],
+    "reorder": [
+      "reorders",
+      "reordered",
+      "reordering"
+    ],
+    "spurn": [
+      "spurns",
+      "spurned",
+      "spurning"
+    ],
+    "supercharge": [
+      "supercharges",
+      "supercharged",
+      "supercharging"
+    ],
+    "transpire": [
+      "transpires",
+      "transpired",
+      "transpiring"
+    ],
+    "underperform": [
+      "underperforms",
+      "underperformed",
+      "underperforming"
+    ],
+    "choreograph": [
+      "choreographs",
+      "choreographed",
+      "choreographing"
+    ],
+    "disassociate": [
+      "disassociates",
+      "disassociated",
+      "disassociating"
+    ],
+    "endear": [
+      "endears",
+      "endeared"
+    ],
+    "redecorate": [
+      "redecorates",
+      "redecorated",
+      "redecorating"
+    ],
+    "redeploy": [
+      "redeploys",
+      "redeployed",
+      "redeploying"
+    ],
+    "reexamine": [
+      "reexamines",
+      "reexamined",
+      "reexamining"
+    ],
+    "resubmit": [
+      "resubmits",
+      "resubmitted",
+      "resubmitting"
+    ],
+    "scram": [
+      "scrams",
+      "scrammed",
+      "scramming"
+    ],
+    "squelch": [
+      "squelches",
+      "squelched",
+      "squelching"
+    ],
+    "undervalue": [
+      "undervalues",
+      "undervalued",
+      "undervaluing"
+    ],
+    "upstage": [
+      "upstages",
+      "upstaged",
+      "upstaging"
+    ],
+    "dignify": [
+      "dignifies",
+      "dignified",
+      "dignifying"
+    ],
+    "imperil": [
+      "imperils",
+      "imperiled",
+      "imperiling"
+    ],
+    "memorialize": [
+      "memorializes",
+      "memorialized",
+      "memorializing"
+    ],
+    "punctuate": [
+      "punctuates",
+      "punctuated",
+      "punctuating"
+    ],
+    "rebuff": [
+      "rebuffs",
+      "rebuffed",
+      "rebuffing"
+    ],
+    "relearn": [
+      "relearns",
+      "relearned",
+      "relearning"
+    ],
+    "tattle": [
+      "tattles",
+      "tattled",
+      "tattling"
+    ],
+    "transgress": [
+      "transgresses",
+      "transgressed",
+      "transgressing"
+    ],
+    "capsize": [
+      "capsizes",
+      "capsized",
+      "capsizing"
+    ],
+    "castrate": [
+      "castrates",
+      "castrated",
+      "castrating"
+    ],
+    "constrict": [
+      "constricts",
+      "constricted",
+      "constricting"
+    ],
+    "entrench": [
+      "entrenches",
+      "entrenching"
+    ],
+    "incinerate": [
+      "incinerates",
+      "incinerated",
+      "incinerating"
+    ],
+    "pummel": [
+      "pummels",
+      "pummeled",
+      "pummeling"
+    ],
+    "regurgitate": [
+      "regurgitates",
+      "regurgitated",
+      "regurgitating"
+    ],
+    "suckle": [
+      "suckles",
+      "suckled",
+      "suckling"
+    ],
+    "bawl": [
+      "bawls",
+      "bawled",
+      "bawling"
+    ],
+    "coddle": [
+      "coddles",
+      "coddled",
+      "coddling"
+    ],
+    "crumple": [
+      "crumples",
+      "crumpled",
+      "crumpling"
+    ],
+    "espy": [
+      "espies",
+      "espied",
+      "espying"
+    ],
+    "imbibe": [
+      "imbibes",
+      "imbibed",
+      "imbibing"
+    ],
+    "invigorate": [
+      "invigorates",
+      "invigorated",
+      "invigorating"
+    ],
+    "nock": [
+      "nocks",
+      "nocked",
+      "nocking"
+    ],
+    "rebroadcast": [
+      "rebroadcasts",
+      "rebroadcasting"
+    ],
+    "showboat": [
+      "showboats",
+      "showboated",
+      "showboating"
+    ],
+    "swill": [
+      "swills",
+      "swilled",
+      "swilling"
+    ],
+    "fixate": [
+      "fixates",
+      "fixated",
+      "fixating"
+    ],
+    "foretell": [
+      "foretells",
+      "foretold",
+      "foretelling"
+    ],
+    "impinge": [
+      "impinges",
+      "impinged",
+      "impinging"
+    ],
+    "itemize": [
+      "itemizes",
+      "itemized",
+      "itemizing"
+    ],
+    "outstrip": [
+      "outstrips",
+      "outstripped",
+      "outstripping"
+    ],
+    "replant": [
+      "replants",
+      "replanted",
+      "replanting"
+    ],
+    "contravene": [
+      "contravenes",
+      "contravened",
+      "contravening"
+    ],
+    "decriminalize": [
+      "decriminalizes",
+      "decriminalized",
+      "decriminalizing"
+    ],
+    "dramatize": [
+      "dramatizes",
+      "dramatized",
+      "dramatizing"
+    ],
+    "excrete": [
+      "excretes",
+      "excreted",
+      "excreting"
+    ],
+    "opine": [
+      "opines",
+      "opined",
+      "opining"
+    ],
+    "scrounge": [
+      "scrounges",
+      "scrounged",
+      "scrounging"
+    ]
+  },
+  "formsReviewed": true
+}
