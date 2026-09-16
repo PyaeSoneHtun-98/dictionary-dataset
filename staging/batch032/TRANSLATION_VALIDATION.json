@@ -1,0 +1,13 @@
+{
+  "batch": 32,
+  "finalWords": 500,
+  "uniqueWords": 500,
+  "translations": 500,
+  "priorLookupKeys": 28109,
+  "priorCollisions": [],
+  "malformed": [],
+  "duplicates": [],
+  "missing": [],
+  "extra": [],
+  "badGlossOrPos": []
+}
