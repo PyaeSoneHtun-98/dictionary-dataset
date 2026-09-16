@@ -1,0 +1,55 @@
+name: Freeze Batch 029 Selection
+on:
+  push:
+    paths:
+      - staging/batch029/FREEZE
+permissions:
+  contents: write
+jobs:
+  freeze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Freeze reviewed 500
+        run: |
+          python - <<'PY'
+          import pathlib
+          root=pathlib.Path('.')
+          src=root/'staging'/'batch029'/'candidates_v2'
+          first=[]
+          for i in range(1,11):
+            for line in (src/f'candidates_{i:02d}.tsv').read_text(encoding='utf-8').splitlines():
+              if line.strip(): first.append(line)
+          assert len(first)==500
+          deny=set('''highschool kraft mecca midi cropped spartan thirteenth fourteenth seventeenth davenport airbus corvette frankenstein gemma hydra plotted strung fifteenth clipped laced muller olympian tripoli worshipped granger heller peeing fahrenheit gladstone marseille ritz taping cretaceous padded prima ridley'''.split())
+          retained=[r for r in first if r.split('\t',1)[0] not in deny]
+          assert len(retained)==464, len(retained)
+          reserve=[]
+          for i in range(11,18):
+            p=src/f'candidates_{i:02d}.tsv'
+            if not p.exists(): continue
+            reserve += [r for r in p.read_text(encoding='utf-8').splitlines() if r.strip()]
+          reserve_skip=set('''pantheon reactionary brownie cartwright crusader laguna levant loco magnolia pave soma stemmed cupid equestrian platonic polka realisation'''.split())
+          replacements=[]
+          used={r.split('\t',1)[0] for r in retained}
+          for r in reserve:
+            w=r.split('\t',1)[0]
+            if w in reserve_skip or w in used: continue
+            replacements.append(r); used.add(w)
+            if len(replacements)==36: break
+          assert len(replacements)==36
+          final=retained+replacements
+          words=[r.split('\t',1)[0] for r in final]
+          assert len(final)==500 and len(set(words))==500
+          out=root/'staging'/'batch029'/'final_selection.tsv'
+          out.write_text('\n'.join(final)+'\n',encoding='utf-8')
+          (root/'staging'/'batch029'/'SELECTION_SUMMARY.txt').write_text(f'retained={len(retained)}\nreplacements={len(replacements)}\nfinal=500\nfirst={words[0]}\nlast={words[-1]}\n',encoding='utf-8')
+          print('replacements:', ','.join(r.split('\t',1)[0] for r in replacements))
+          PY
+      - name: Commit selection
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch029/final_selection.tsv staging/batch029/SELECTION_SUMMARY.txt
+          git commit -m "Freeze Batch 029 selection"
+          git push
