@@ -1,0 +1,40 @@
+{
+  "batch": 43,
+  "entries": 500,
+  "newForms": 188,
+  "priorLookupKeys": 34856,
+  "uniqueLookupKeys": 35544,
+  "totalHeadwords": 21500,
+  "nextBatch": 44,
+  "ipaFallbackCount": 7,
+  "ipaFallbackWords": [
+    "jambalaya",
+    "pharisee",
+    "regale",
+    "reveille",
+    "camembert",
+    "conjurer",
+    "nympho"
+  ],
+  "lookupSha256": "b3dab070f4ea3e063a34ffad907ceaca83764bf87c11b266cb7a97fb3cc67336",
+  "formsReviewed": true,
+  "selectionReview": {
+    "retained": 453,
+    "replacements": 47,
+    "secondSweepReplacements": 0
+  },
+  "formCorrections": {
+    "overspend": {
+      "removed": [
+        "overspended"
+      ],
+      "added": [
+        "overspent"
+      ],
+      "kept": [
+        "overspends",
+        "overspending"
+      ]
+    }
+  }
+}
