@@ -1,0 +1,76 @@
+name: Review Batch 043 Forms
+
+on:
+  push:
+    paths:
+      - 'staging/batch043/FORMS'
+
+permissions:
+  contents: write
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Freeze manually reviewed forms
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, zlib
+          root=pathlib.Path('.')
+          m=json.loads((root/'dictionary_manifest.json').read_text())
+          assert m['latestBatch']==42 and m['nextBatch']==43 and m['lookup']['uniqueLookupKeys']==34856
+          prior=set(zlib.decompress(base64.b64decode((root/'lookup/used_keys_current.zlib.b64').read_text().strip())).decode().splitlines())
+          assert len(prior)==34856
+          sel=[x for x in (root/'staging/batch043/final_selection.tsv').read_text(encoding='utf-8').splitlines() if x.strip()]
+          headset={x.split('\t',1)[0].strip() for x in sel}; assert len(headset)==500
+          dry=json.loads((root/'staging/batch043/ASSEMBLY_DRYRUN.json').read_text(encoding='utf-8'))
+          assert dry['batch']==43 and dry['verbCount']==64 and dry['proposedFormCount']==188
+          forms={k:list(v) for k,v in dry['verbForms'].items()}
+
+          # Manual irregular review.
+          assert forms['overspend']==['overspends','overspended','overspending']
+          assert 'overspent' not in prior and 'overspent' not in headset
+          forms['overspend']=['overspends','overspent','overspending']
+          assert forms['retell']==['retells','retold','retelling']
+          assert forms['gird']==['girds','girded','girt','girding']
+          assert forms['aver']==['avers','averred','averring']
+          # `typeset` has unchanged past/participle; the headword itself is never stored as a form.
+          assert forms['typeset']==['typesets']
+          # Collision-sensitive omissions from the generic inflector are intentional.
+          assert forms['mope']==['mopes','moping']
+          assert forms['resound']==['resounds','resounded']
+          assert forms['unsettle']==['unsettles','unsettled']
+
+          flat=[]
+          for w,vals in forms.items():
+              assert w in headset and len(vals)==len(set(vals))
+              for f in vals:
+                  assert f.isascii() and f.isalpha() and f==f.lower()
+                  assert f!=w and f not in prior and f not in headset
+                  flat.append(f)
+          assert len(flat)==188 and len(set(flat))==188
+          report={
+            'batch':43,
+            'verbCount':len(forms),
+            'reviewedFormCount':len(flat),
+            'corrections':{
+              'overspend':{
+                'removed':['overspended'],
+                'added':['overspent'],
+                'kept':['overspends','overspending']
+              }
+            },
+            'verbForms':forms,
+            'formsReviewed':True
+          }
+          (root/'staging/batch043/REVIEWED_FORMS.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print(json.dumps({'verbCount':len(forms),'reviewedFormCount':len(flat),'overspend':forms['overspend']},indent=2))
+          PY
+      - name: Commit reviewed forms
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch043/REVIEWED_FORMS.json
+          git commit -m 'Review Batch 043 forms'
+          git push
