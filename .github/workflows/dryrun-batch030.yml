@@ -1,0 +1,88 @@
+name: Dry Run Dictionary Batch 030
+
+on:
+  push:
+    paths:
+      - 'staging/batch030/DRYRUN'
+
+permissions:
+  contents: write
+
+jobs:
+  dryrun:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install language helpers
+        run: python -m pip install --quiet lemminflect eng-to-ipa
+      - name: Dry-run IPA and forms
+        run: |
+          python - <<'PY'
+          import base64, hashlib, json, pathlib, re, zlib
+          from lemminflect import getInflection
+          import eng_to_ipa as e2i
+          root=pathlib.Path('.')
+          m=json.loads((root/'dictionary_manifest.json').read_text(encoding='utf-8'))
+          assert m['latestBatch']==29 and m['nextBatch']==30 and m['lookup']['uniqueLookupKeys']==26999
+          encoded=(root/'lookup/used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          assert hashlib.sha256(encoded.encode('ascii')).hexdigest()==m['lookup']['sha256']
+          prior=set(zlib.decompress(base64.b64decode(encoded)).decode('utf-8').splitlines())
+          assert len(prior)==26999
+          rows=[]
+          for raw in (root/'staging/batch030/final_selection.tsv').read_text(encoding='utf-8').splitlines():
+              if raw.strip():
+                  w,pos,freq,phones,definition=raw.split('\t',4)
+                  rows.append({'word':w.strip(),'sourcePos':pos.strip(),'phones':phones.strip(),'definition':definition.strip()})
+          words=[r['word'] for r in rows]; headset=set(words); by={r['word']:r for r in rows}
+          assert len(rows)==500 and len(headset)==500 and not (headset&prior)
+          translations={}
+          for p in sorted((root/'staging/batch030/translations').glob('*.tsv')):
+              for raw in p.read_text(encoding='utf-8').splitlines():
+                  if raw.strip():
+                      w,pos,blob=raw.split('\t',2)
+                      translations[w.strip()]=(pos.strip(),[x.strip() for x in blob.split('|') if x.strip()])
+          assert len(translations)==500 and set(translations)==headset
+          def fallback_ipa(phones):
+              cmap={'B':'b','CH':'tʃ','D':'d','DH':'ð','F':'f','G':'ɡ','HH':'h','JH':'dʒ','K':'k','L':'l','M':'m','N':'n','NG':'ŋ','P':'p','R':'r','S':'s','SH':'ʃ','T':'t','TH':'θ','V':'v','W':'w','Y':'j','Z':'z','ZH':'ʒ'}
+              vmap={'AA':'ɑ','AE':'æ','AO':'ɔ','AW':'aʊ','AY':'aɪ','EH':'ɛ','EY':'eɪ','IH':'ɪ','IY':'i','OW':'oʊ','OY':'ɔɪ','UH':'ʊ','UW':'u'}
+              out=[]
+              for tok in phones.split():
+                  mm=re.match(r'^([A-Z]+)([012])?$',tok); assert mm,(phones,tok)
+                  base,stress=mm.group(1),mm.group(2)
+                  if base=='AH': sym='ə' if stress=='0' else 'ʌ'
+                  elif base=='ER': sym='ɚ' if stress=='0' else 'ɝ'
+                  elif base in vmap: sym=vmap[base]
+                  else: sym=cmap[base]
+                  if stress=='1' and base in set(vmap)|{'AH','ER'}: sym='ˈ'+sym
+                  elif stress=='2' and base in set(vmap)|{'AH','ER'}: sym='ˌ'+sym
+                  out.append(sym)
+              return ''.join(out)
+          fallback=[]; ipa_map={}; verb_forms={}; used=set()
+          for w in words:
+              pos,_=translations[w]
+              ipa=e2i.convert(w,stress_marks='both').strip()
+              if not ipa or '*' in ipa or ipa.lower()==w.lower():
+                  ipa=fallback_ipa(by[w]['phones']); fallback.append(w)
+              ipa_map[w]=ipa.replace('/','').strip()
+              if pos=='verb':
+                  forms=[]
+                  for tag in ('VBZ','VBD','VBN','VBG'):
+                      for f in getInflection(w,tag=tag) or ():
+                          f=f.lower().strip()
+                          if not f or f==w or not f.isascii() or not f.isalpha(): continue
+                          if f in prior or f in headset or f in used or f in forms: continue
+                          forms.append(f); used.add(f)
+                  verb_forms[w]=forms
+          report={'batch':30,'entries':500,'priorLookupKeys':len(prior),'ipaFallbackCount':len(fallback),'ipaFallbackWords':fallback,'verbCount':len(verb_forms),'proposedFormCount':sum(map(len,verb_forms.values())),'verbForms':verb_forms}
+          (root/'staging/batch030/ASSEMBLY_DRYRUN.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print(json.dumps(report,ensure_ascii=False,indent=2))
+          PY
+      - name: Commit dry-run report
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch030/ASSEMBLY_DRYRUN.json
+          git commit -m 'Dry-run Batch 030 assembly'
+          git push
