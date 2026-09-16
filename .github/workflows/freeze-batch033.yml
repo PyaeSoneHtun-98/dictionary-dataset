@@ -1,0 +1,48 @@
+name: Freeze Batch 033 Selection
+
+on:
+  push:
+    paths:
+      - 'staging/batch033/FREEZE'
+
+permissions:
+  contents: write
+
+jobs:
+  freeze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Freeze reviewed 500
+        run: |
+          python - <<'PY'
+          import pathlib
+          root=pathlib.Path('.')
+          cdir=root/'staging'/'batch033'/'candidates'
+          rows=[]
+          for i in range(1,23):
+              rows += [x for x in (cdir/f'candidates_{i:02d}.tsv').read_text(encoding='utf-8').splitlines() if x.strip()]
+          parsed={r.split('\t',1)[0]:r for r in rows}
+          first=[]
+          for i in range(1,11):
+              first += [x for x in (cdir/f'candidates_{i:02d}.tsv').read_text(encoding='utf-8').splitlines() if x.strip()]
+          reject=set('cuter fao franciscan hao mackintosh pips whiter argyll ascii gad ganges matures saskatoon velcro amon automata dss iroquois kuwaiti magi nad newmarket polaroid seminole spilt adonis bes ddt dias guerilla incase luo maoist overpaid uma dag dol lire sams casanova cro curie firestone mossad nears shakespearean boswell burnside cypriot diabetics lain predates rainier samoan'.split())
+          replacements='splice spoonful statistician storefront subsystem supple tirade topaz trickster turmeric undress vitriol welt yaw amigo astonishingly beryllium briar capacitance caper cede chock comer compositional condenser cutaneous deconstruction defamatory depress encroachment freebie glassware gooey habitually hemlock hydrolysis hyperactivity illiteracy incitement inconsequential injector irregularly jot meditative multivariate nadir numerically nutcracker outlier paltry pollute precocious publicize quicken'.split()
+          assert len(reject)==54 and len(replacements)==54
+          kept=[r for r in first if r.split('\t',1)[0] not in reject]
+          assert len(kept)==446, len(kept)
+          assert all(w in parsed for w in replacements)
+          final=kept+[parsed[w] for w in replacements]
+          words=[r.split('\t',1)[0] for r in final]
+          assert len(final)==500 and len(set(words))==500
+          assert not (set(words)&reject)
+          (root/'staging'/'batch033'/'final_selection.tsv').write_text('\n'.join(final)+'\n',encoding='utf-8')
+          (root/'staging'/'batch033'/'SELECTION_SUMMARY.txt').write_text(f'kept={len(kept)}\nreplacements={len(replacements)}\nfinal={len(final)}\n',encoding='utf-8')
+          PY
+      - name: Commit selection
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch033/final_selection.tsv staging/batch033/SELECTION_SUMMARY.txt
+          git commit -m 'Freeze Batch 033 selection'
+          git push
