@@ -1,0 +1,46 @@
+name: Repair Batch 030 Selection
+
+on:
+  push:
+    paths:
+      - 'staging/batch030/REPAIR_SELECTION'
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Replace plural headword
+        run: |
+          python - <<'PY'
+          import pathlib
+          root=pathlib.Path('.')
+          p=root/'staging/batch030/final_selection.tsv'
+          rows=[x for x in p.read_text(encoding='utf-8').splitlines() if x.strip()]
+          assert len(rows)==500
+          assert sum(x.startswith('egos\t') for x in rows)==1
+          reserve=None
+          for raw in (root/'staging/batch030/candidates/candidates_12.tsv').read_text(encoding='utf-8').splitlines():
+              if raw.startswith('bleep\t'):
+                  reserve=raw; break
+          assert reserve and not any(x.startswith('bleep\t') for x in rows)
+          rows=[x for x in rows if not x.startswith('egos\t')]+[reserve]
+          words=[x.split('\t',1)[0] for x in rows]
+          assert len(rows)==500 and len(set(words))==500 and 'egos' not in words and 'bleep' in words
+          p.write_text('\n'.join(rows)+'\n',encoding='utf-8')
+          s=root/'staging/batch030/SELECTION_SUMMARY.txt'
+          text=s.read_text(encoding='utf-8')+'repair=egos->bleep\n'
+          s.write_text(text,encoding='utf-8')
+          PY
+      - name: Commit repair
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch030/final_selection.tsv staging/batch030/SELECTION_SUMMARY.txt
+          git commit -m 'Repair Batch 030 selection'
+          git push
