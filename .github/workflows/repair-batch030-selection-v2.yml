@@ -1,0 +1,44 @@
+name: Repair Batch 030 Selection V2
+
+on:
+  push:
+    paths:
+      - 'staging/batch030/REPAIR_SELECTION_V2'
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Replace plural ova headword
+        run: |
+          python - <<'PY'
+          import pathlib
+          root=pathlib.Path('.')
+          p=root/'staging/batch030/final_selection.tsv'
+          rows=[x for x in p.read_text(encoding='utf-8').splitlines() if x.strip()]
+          assert len(rows)==500 and sum(x.startswith('ova\t') for x in rows)==1
+          reserve=None
+          for raw in (root/'staging/batch030/candidates/candidates_12.tsv').read_text(encoding='utf-8').splitlines():
+              if raw.startswith('tourney\t'):
+                  reserve=raw; break
+          assert reserve and not any(x.startswith('tourney\t') for x in rows)
+          rows=[x for x in rows if not x.startswith('ova\t')]+[reserve]
+          words=[x.split('\t',1)[0] for x in rows]
+          assert len(rows)==500 and len(set(words))==500 and 'ova' not in words and 'tourney' in words
+          p.write_text('\n'.join(rows)+'\n',encoding='utf-8')
+          s=root/'staging/batch030/SELECTION_SUMMARY.txt'
+          s.write_text(s.read_text(encoding='utf-8')+'repair=ova->tourney\n',encoding='utf-8')
+          PY
+      - name: Commit repair
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch030/final_selection.tsv staging/batch030/SELECTION_SUMMARY.txt
+          git commit -m 'Repair Batch 030 plural headword'
+          git push
