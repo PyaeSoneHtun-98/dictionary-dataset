@@ -1,0 +1,51 @@
+{
+  "batch": 37,
+  "entries": 500,
+  "newForms": 121,
+  "priorLookupKeys": 31124,
+  "uniqueLookupKeys": 31745,
+  "totalHeadwords": 18500,
+  "nextBatch": 38,
+  "ipaFallbackCount": 12,
+  "ipaFallbackWords": [
+    "cardiomyopathy",
+    "constitutive",
+    "haggis",
+    "covalent",
+    "typology",
+    "crag",
+    "mossy",
+    "tuber",
+    "declarative",
+    "effector",
+    "epistemological",
+    "notional"
+  ],
+  "lookupSha256": "0839bda7c94d26b023ddc1662805440bac9517094bfb38b0f50935ee68c368d0",
+  "formsReviewed": true,
+  "formCorrections": {
+    "outbid": {
+      "dropped": [
+        "outbade",
+        "outbidden"
+      ],
+      "kept": [
+        "outbids",
+        "outbidding"
+      ]
+    },
+    "jell": {
+      "dropped": [
+        "gels",
+        "gells",
+        "gelled",
+        "gelling"
+      ],
+      "kept": [
+        "jells",
+        "jelled",
+        "jelling"
+      ]
+    }
+  }
+}
