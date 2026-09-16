@@ -1,0 +1,30 @@
+{
+  "batch": 34,
+  "entries": 500,
+  "newForms": 89,
+  "priorLookupKeys": 29270,
+  "uniqueLookupKeys": 29859,
+  "totalHeadwords": 17000,
+  "nextBatch": 35,
+  "ipaFallbackCount": 16,
+  "ipaFallbackWords": [
+    "probabilistic",
+    "interpolation",
+    "waveform",
+    "workspace",
+    "tinnitus",
+    "poetics",
+    "syntactic",
+    "crawler",
+    "descriptor",
+    "metabolite",
+    "monetize",
+    "pathogenesis",
+    "stenosis",
+    "wadi",
+    "amine",
+    "cation"
+  ],
+  "lookupSha256": "2ba0f5e6ee8d6f3e4abb969941613653905059491f58b131c602d551d7f7ccf9",
+  "formsReviewed": true
+}
