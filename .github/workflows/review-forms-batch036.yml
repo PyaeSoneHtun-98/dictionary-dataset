@@ -1,0 +1,51 @@
+name: Review Batch 036 Forms
+
+on:
+  push:
+    paths:
+      - 'staging/batch036/FORMS'
+
+permissions:
+  contents: write
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Freeze manually reviewed forms
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, zlib
+          root=pathlib.Path('.')
+          m=json.loads((root/'dictionary_manifest.json').read_text())
+          assert m['latestBatch']==35 and m['nextBatch']==36 and m['lookup']['uniqueLookupKeys']==30475
+          prior=set(zlib.decompress(base64.b64decode((root/'lookup/used_keys_current.zlib.b64').read_text().strip())).decode().splitlines())
+          sel=[x for x in (root/'staging/batch036/final_selection.tsv').read_text(encoding='utf-8').splitlines() if x.strip()]
+          headset={x.split('\t',1)[0].strip() for x in sel}; assert len(headset)==500
+          dry=json.loads((root/'staging/batch036/ASSEMBLY_DRYRUN.json').read_text(encoding='utf-8'))
+          assert dry['verbCount']==48 and dry['proposedFormCount']==148
+          forms={k:list(v) for k,v in dry['verbForms'].items()}
+          assert forms['degas']==['degases','degased','degasing']
+          forms['degas']=['degases','degasses','degassed','degassing']
+          assert 'degased' not in forms['degas'] and 'degasing' not in forms['degas']
+          flat=[]
+          for w,vals in forms.items():
+              assert w in headset
+              assert len(vals)==len(set(vals))
+              for f in vals:
+                  assert f.isascii() and f.isalpha() and f==f.lower()
+                  assert f!=w and f not in prior and f not in headset
+                  flat.append(f)
+          assert len(flat)==149 and len(set(flat))==149
+          report={'batch':36,'verbCount':len(forms),'reviewedFormCount':len(flat),'corrections':{'degas':{'dropped':['degased','degasing'],'kept_or_added':['degases','degasses','degassed','degassing']}},'verbForms':forms,'formsReviewed':True}
+          (root/'staging/batch036/REVIEWED_FORMS.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print(json.dumps({'verbCount':len(forms),'reviewedFormCount':len(flat),'degas':forms['degas']},indent=2))
+          PY
+      - name: Commit reviewed forms
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch036/REVIEWED_FORMS.json
+          git commit -m 'Review Batch 036 forms'
+          git push
