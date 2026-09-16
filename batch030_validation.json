@@ -1,0 +1,19 @@
+{
+  "batch": 30,
+  "entries": 500,
+  "newForms": 63,
+  "priorLookupKeys": 26999,
+  "uniqueLookupKeys": 27562,
+  "totalHeadwords": 15000,
+  "nextBatch": 31,
+  "ipaFallbackCount": 5,
+  "ipaFallbackWords": [
+    "singularity",
+    "eyeshadow",
+    "observational",
+    "folio",
+    "thermodynamics"
+  ],
+  "lookupSha256": "859de75b40df91aabebee813e9943d7760ec21ff344c43bf846515649330c0e8",
+  "formsReviewed": true
+}
