@@ -1,0 +1,44 @@
+{
+  "batch": 36,
+  "entries": 500,
+  "newForms": 149,
+  "priorLookupKeys": 30475,
+  "uniqueLookupKeys": 31124,
+  "totalHeadwords": 18000,
+  "nextBatch": 37,
+  "ipaFallbackCount": 16,
+  "ipaFallbackWords": [
+    "demeanour",
+    "postoperative",
+    "systolic",
+    "vibrational",
+    "cardamom",
+    "epinephrine",
+    "postmodernism",
+    "rabbinic",
+    "anion",
+    "congruent",
+    "haulage",
+    "insufficiency",
+    "oxidase",
+    "ricotta",
+    "hypothalamus",
+    "perfusion"
+  ],
+  "lookupSha256": "d0f4bff0f7e8609bafd3bfccb53ce7b3f40d78f8922718124cec457ae6555f81",
+  "formsReviewed": true,
+  "formCorrections": {
+    "degas": {
+      "dropped": [
+        "degased",
+        "degasing"
+      ],
+      "kept_or_added": [
+        "degases",
+        "degasses",
+        "degassed",
+        "degassing"
+      ]
+    }
+  }
+}
