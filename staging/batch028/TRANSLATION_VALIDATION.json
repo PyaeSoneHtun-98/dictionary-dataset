@@ -1,14 +1,10 @@
 {
   "finalWords": 500,
-  "translations": 499,
+  "translations": 500,
   "malformed": [],
   "duplicates": [],
-  "missing": [
-    "telegram"
-  ],
+  "missing": [],
   "extra": [],
-  "badGlossOrPos": [
-    "puff"
-  ],
+  "badGlossOrPos": [],
   "priorLookupKeys": 25849
 }
