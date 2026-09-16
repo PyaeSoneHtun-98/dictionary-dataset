@@ -1,0 +1,26 @@
+{
+  "batch": 33,
+  "entries": 500,
+  "newForms": 76,
+  "priorLookupKeys": 28694,
+  "uniqueLookupKeys": 29270,
+  "totalHeadwords": 16500,
+  "nextBatch": 34,
+  "ipaFallbackCount": 12,
+  "ipaFallbackWords": [
+    "separator",
+    "thereto",
+    "thermodynamic",
+    "clove",
+    "dermatitis",
+    "headshot",
+    "laterally",
+    "adsorption",
+    "modifier",
+    "ischemic",
+    "turmeric",
+    "multivariate"
+  ],
+  "lookupSha256": "def46870efbbda371da5fab909d24f4ea9150ce707d46cd7213f7adbb4b93e69",
+  "formsReviewed": true
+}
