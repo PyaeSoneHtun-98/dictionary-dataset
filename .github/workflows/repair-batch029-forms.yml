@@ -1,0 +1,94 @@
+name: Repair Batch 029 Verb Forms
+on:
+  push:
+    paths:
+      - staging/batch029/REPAIR_FORMS
+permissions:
+  contents: write
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Repair reviewed verb forms
+        run: |
+          python - <<'PY'
+          import base64,hashlib,json,pathlib,zlib
+          root=pathlib.Path('.')
+          batch_path=root/'Batches'/'dictionary_batch_029.json'
+          manifest_path=root/'dictionary_manifest.json'
+          lookup_path=root/'lookup'/'used_keys_current.zlib.b64'
+          batch=json.loads(batch_path.read_text(encoding='utf-8'))
+          m=json.loads(manifest_path.read_text(encoding='utf-8'))
+          assert batch['batch']==29 and len(batch['entries'])==500
+          assert m['latestBatch']==29 and m['nextBatch']==30
+          current=set(zlib.decompress(base64.b64decode(lookup_path.read_text(encoding='ascii').strip())).decode('utf-8').splitlines())
+          headset={e['word'] for e in batch['entries']}
+          oldforms={f for e in batch['entries'] for f in e.get('forms',[])}
+          assert len(oldforms)==67
+          prior=current-headset-oldforms
+          assert len(prior)==26432
+          forms={
+            'bulldog':['bulldogs','bulldogged','bulldogging'],
+            'conn':['conns','conned','conning'],
+            'revisit':['revisits','revisited','revisiting'],
+            'soften':['softens','softened','softening'],
+            'revert':['reverts','reverted','reverting'],
+            'deem':['deems','deemed','deeming'],
+            'inhabit':['inhabits','inhabited','inhabiting'],
+            'mend':['mends','mended','mending'],
+            'excite':['excites','excited','exciting'],
+            'straighten':['straightens','straightened','straightening'],
+            'meditate':['meditates','meditated','meditating'],
+            'brighten':['brightens','brightened','brightening'],
+            'emit':['emits','emitted','emitting'],
+            'leach':['leaches','leached','leaching'],
+            'prod':['prods','prodded','prodding'],
+            'stomp':['stomps','stomped','stomping'],
+            'widen':['widens','widened','widening'],
+            'relive':['relives','relived','reliving'],
+            'revolve':['revolves','revolved','revolving'],
+            'unload':['unloads','unloaded','unloading'],
+            'converge':['converges','converged','converging'],
+            'partake':['partakes','partook','partaken','partaking'],
+            'bathe':['bathes','bathed','bathing']
+          }
+          used=set(); safe_by={}
+          for e in batch['entries']:
+            w=e['word']; pos=e['meanings'][0]['partOfSpeech']
+            vals=[]
+            if pos=='verb':
+              assert w in forms, f'missing explicit forms for verb {w}'
+              for f in forms[w]:
+                if f in prior or f in headset or f in used: continue
+                vals.append(f); used.add(f)
+            else:
+              assert w not in forms
+            safe_by[w]=vals
+          for e in batch['entries']: e['forms']=safe_by[e['word']]
+          newforms={f for e in batch['entries'] for f in e['forms']}
+          assert len(newforms)==len(used)
+          assert not(newforms&prior) and not(newforms&headset)
+          batch_path.write_text(json.dumps(batch,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          allkeys=prior|headset|newforms
+          plain=('\n'.join(sorted(allkeys))+'\n').encode('utf-8')
+          enc=base64.b64encode(zlib.compress(plain,9)).decode('ascii')
+          lookup_path.write_text(enc,encoding='ascii')
+          m['lookup']['uniqueLookupKeys']=len(allkeys)
+          m['lookup']['uniqueStoredForms']=12478+len(newforms)
+          m['lookup']['sha256']=hashlib.sha256(enc.encode('ascii')).hexdigest()
+          manifest_path.write_text(json.dumps(m,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          report=json.loads((root/'batch029_validation.json').read_text(encoding='utf-8'))
+          report['newForms']=len(newforms); report['uniqueLookupKeys']=len(allkeys); report['lookupSha256']=m['lookup']['sha256']; report['formsReviewed']=True
+          (root/'batch029_validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print(json.dumps({'oldForms':len(oldforms),'reviewedForms':len(newforms),'uniqueLookupKeys':len(allkeys)},indent=2))
+          PY
+      - name: Commit repaired forms
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add Batches/dictionary_batch_029.json lookup/used_keys_current.zlib.b64 dictionary_manifest.json batch029_validation.json
+          git commit -m 'Repair Batch 029 verb forms'
+          git push
