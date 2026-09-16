@@ -1,0 +1,71 @@
+name: Review Batch 041 Forms
+
+on:
+  push:
+    paths:
+      - 'staging/batch041/FORMS'
+
+permissions:
+  contents: write
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Freeze manually reviewed forms
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, zlib
+          root=pathlib.Path('.')
+          m=json.loads((root/'dictionary_manifest.json').read_text())
+          assert m['latestBatch']==40 and m['nextBatch']==41 and m['lookup']['uniqueLookupKeys']==33591
+          prior=set(zlib.decompress(base64.b64decode((root/'lookup/used_keys_current.zlib.b64').read_text().strip())).decode().splitlines())
+          assert len(prior)==33591
+          sel=[x for x in (root/'staging/batch041/final_selection.tsv').read_text(encoding='utf-8').splitlines() if x.strip()]
+          headset={x.split('\t',1)[0].strip() for x in sel}; assert len(headset)==500
+          dry=json.loads((root/'staging/batch041/ASSEMBLY_DRYRUN.json').read_text(encoding='utf-8'))
+          assert dry['batch']==41 and dry['verbCount']==29 and dry['proposedFormCount']==86
+          forms={k:list(v) for k,v in dry['verbForms'].items()}
+
+          # General American spelling policy: omit British doubled-l variants.
+          assert forms['shrivel']==['shrivels','shrivelled','shriveled','shriveling','shrivelling']
+          forms['shrivel']=['shrivels','shriveled','shriveling']
+          # Reviewed irregular and collision-sensitive maps.
+          assert forms['beget']==['begets','begot','begotten','begetting']
+          assert forms['infuriate']==['infuriates','infuriating']
+          assert forms['heckle']==['heckles','heckled']
+          assert forms['shelve']==['shelved','shelving']
+          assert forms['hallow']==['hallows','hallowing']
+
+          flat=[]
+          for w,vals in forms.items():
+              assert w in headset and len(vals)==len(set(vals))
+              for f in vals:
+                  assert f.isascii() and f.isalpha() and f==f.lower()
+                  assert f!=w and f not in prior and f not in headset
+                  flat.append(f)
+          assert len(flat)==84 and len(set(flat))==84
+          report={
+            'batch':41,
+            'verbCount':len(forms),
+            'reviewedFormCount':len(flat),
+            'corrections':{
+              'shrivel':{
+                'removed':['shrivelled','shrivelling'],
+                'kept':['shrivels','shriveled','shriveling']
+              }
+            },
+            'verbForms':forms,
+            'formsReviewed':True
+          }
+          (root/'staging/batch041/REVIEWED_FORMS.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print(json.dumps({'verbCount':len(forms),'reviewedFormCount':len(flat),'shrivel':forms['shrivel']},indent=2))
+          PY
+      - name: Commit reviewed forms
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch041/REVIEWED_FORMS.json
+          git commit -m 'Review Batch 041 forms'
+          git push
