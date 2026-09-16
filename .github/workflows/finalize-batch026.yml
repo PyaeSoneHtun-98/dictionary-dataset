@@ -1,0 +1,188 @@
+name: Finalize Dictionary Batch 026
+
+on:
+  push:
+    paths:
+      - 'staging/batch026/FINALIZE'
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install language helpers
+        run: python -m pip install --quiet lemminflect eng-to-ipa
+      - name: Assemble and validate Batch 026
+        run: |
+          python - <<'PY'
+          import base64, hashlib, json, pathlib, re, zlib
+          from lemminflect import getInflection
+          import eng_to_ipa as e2i
+
+          root = pathlib.Path('.')
+          manifest_path = root / 'dictionary_manifest.json'
+          lookup_path = root / 'lookup' / 'used_keys_current.zlib.b64'
+          manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+          assert manifest['nextBatch'] == 26, manifest['nextBatch']
+          assert manifest['latestBatch'] == 25
+          assert manifest['totalHeadwords'] == 12500
+
+          encoded = lookup_path.read_text(encoding='ascii').strip()
+          old_bytes = zlib.decompress(base64.b64decode(encoded))
+          old_text = old_bytes.decode('utf-8')
+          prior = {x for x in old_text.splitlines() if x}
+          assert len(prior) == manifest['lookup']['uniqueLookupKeys'], (len(prior), manifest['lookup']['uniqueLookupKeys'])
+          assert hashlib.sha256(old_bytes).hexdigest() == manifest['lookup']['sha256']
+
+          def read_source(pattern):
+              rows=[]
+              for p in sorted(root.glob(pattern)):
+                  for raw in p.read_text(encoding='utf-8').splitlines():
+                      if not raw.strip(): continue
+                      word,pos,phones,definition = raw.split('\t',3)
+                      rows.append({'word':word.strip(),'sourcePos':pos.strip(),'phones':phones.strip(),'definition':definition.strip()})
+              return rows
+
+          selected = read_source('staging/batch026/selected_v2/selected_*.tsv')
+          reserve = read_source('staging/batch026/selected_v2/reserve_*.tsv')
+          assert len(selected) == 500, len(selected)
+
+          denied = {
+              'macintosh','murphy','teeth','bobby','jeep','donna','beth','batman',
+              'thrown','sally','griffin','chevy','brent','molly','napa','superman'
+          }
+          replacement_words = [
+              'onset','assay','slam','plaque','scenery','proliferation','trilogy','brightness',
+              'enjoyment','correspond','robotics','vibrant','propagation','purification','hardback','tote'
+          ]
+          reserve_by_word={r['word']:r for r in reserve}
+          assert all(w in reserve_by_word for w in replacement_words)
+          final_source=[r for r in selected if r['word'] not in denied] + [reserve_by_word[w] for w in replacement_words]
+          assert len(final_source) == 500, len(final_source)
+          words=[r['word'] for r in final_source]
+          assert len(set(words)) == 500
+          assert not (set(words) & prior), sorted(set(words)&prior)[:20]
+          assert all(w.isalpha() and w.isascii() and w==w.lower() and '-' not in w for w in words)
+
+          translations={}
+          for p in sorted((root/'staging'/'batch026'/'translations').glob('*.tsv')):
+              for raw in p.read_text(encoding='utf-8').splitlines():
+                  if not raw.strip(): continue
+                  word,pos,gloss_blob=raw.split('\t',2)
+                  word=word.strip(); pos=pos.strip(); glosses=[g.strip() for g in gloss_blob.split('|') if g.strip()]
+                  if word in translations: raise AssertionError(f'duplicate translation: {word}')
+                  translations[word]=(pos,glosses)
+          assert len(translations) == 500, len(translations)
+          assert set(translations) == set(words), {'missing': sorted(set(words)-set(translations))[:20], 'extra': sorted(set(translations)-set(words))[:20]}
+
+          allowed={'noun','verb','adjective','adverb','pronoun','preposition','conjunction','interjection','determiner','modal','auxiliary'}
+          latin=re.compile(r'[A-Za-z]')
+          for word,(pos,glosses) in translations.items():
+              assert pos in allowed, (word,pos)
+              assert 1 <= len(glosses) <= 3, (word,glosses)
+              for gloss in glosses:
+                  assert gloss and not latin.search(gloss), (word,gloss)
+
+          def fallback_ipa(phones):
+              cmap={'B':'b','CH':'tʃ','D':'d','DH':'ð','F':'f','G':'ɡ','HH':'h','JH':'dʒ','K':'k','L':'l','M':'m','N':'n','NG':'ŋ','P':'p','R':'r','S':'s','SH':'ʃ','T':'t','TH':'θ','V':'v','W':'w','Y':'j','Z':'z','ZH':'ʒ'}
+              vmap={'AA':'ɑ','AE':'æ','AO':'ɔ','AW':'aʊ','AY':'aɪ','EH':'ɛ','EY':'eɪ','IH':'ɪ','IY':'i','OW':'oʊ','OY':'ɔɪ','UH':'ʊ','UW':'u'}
+              out=[]
+              for tok in phones.split():
+                  m=re.match(r'^([A-Z]+)([012])?$',tok)
+                  base=m.group(1); stress=m.group(2)
+                  if base=='AH': sym='ə' if stress=='0' else 'ʌ'
+                  elif base=='ER': sym='ɚ' if stress=='0' else 'ɝ'
+                  elif base in vmap: sym=vmap[base]
+                  else: sym=cmap.get(base,base.lower())
+                  if stress=='1' and base in set(vmap)|{'AH','ER'}: sym='ˈ'+sym
+                  elif stress=='2' and base in set(vmap)|{'AH','ER'}: sym='ˌ'+sym
+                  out.append(sym)
+              return ''.join(out)
+
+          headset=set(words)
+          used_forms=set()
+          entries=[]
+          source_by_word={r['word']:r for r in final_source}
+          for word in words:
+              row=source_by_word[word]
+              pos,glosses=translations[word]
+              ipa=e2i.convert(word, stress_marks='both')
+              if not ipa or '*' in ipa or re.search(r'[A-Za-z]',ipa): ipa=fallback_ipa(row['phones'])
+              ipa=ipa.strip().replace('/', '')
+              assert ipa and not re.search(r'[A-Za-z]',ipa), (word,ipa)
+              forms=[]
+              if pos=='verb':
+                  candidates=[]
+                  for tag in ('VBZ','VBD','VBN','VBG'):
+                      candidates += list(getInflection(word, tag=tag) or ())
+                  for f in candidates:
+                      f=f.lower().strip()
+                      if not f or f==word or f in prior or f in headset or f in used_forms or f in forms: continue
+                      if not f.isalpha() or not f.isascii(): continue
+                      forms.append(f); used_forms.add(f)
+              entry={
+                  'word':word,
+                  'pronunciation':f'/{ipa}/',
+                  'forms':forms,
+                  'meanings':[{'partOfSpeech':pos,'burmese':glosses}],
+              }
+              entries.append(entry)
+
+          assert len(entries)==500
+          assert len({e['word'] for e in entries})==500
+          new_forms=[f for e in entries for f in e['forms']]
+          assert not (set(new_forms)&prior)
+          assert not (set(new_forms)&headset)
+          assert len(new_forms)==len(set(new_forms))
+
+          batch={'version':1,'batch':26,'entries':entries}
+          out_path=root/'Batches'/'dictionary_batch_026.json'
+          assert not out_path.exists(), 'Batch 026 already exists'
+          out_path.write_text(json.dumps(batch,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+
+          all_keys=prior|headset|set(new_forms)
+          new_text='\n'.join(sorted(all_keys))
+          new_bytes=new_text.encode('utf-8')
+          lookup_path.write_text(base64.b64encode(zlib.compress(new_bytes,9)).decode('ascii')+'\n',encoding='ascii')
+
+          manifest['latestBatch']=26
+          manifest['nextBatch']=27
+          manifest['batchCount']=26
+          manifest['totalHeadwords']=13000
+          manifest['lookup']['throughBatch']=26
+          manifest['lookup']['uniqueLookupKeys']=len(all_keys)
+          manifest['lookup']['uniqueHeadwords']=13000
+          manifest['lookup']['uniqueStoredForms']=manifest['lookup']['uniqueStoredForms']+len(new_forms)
+          manifest['lookup']['sha256']=hashlib.sha256(new_bytes).hexdigest()
+          manifest['batchFilenamePattern']='Batches/dictionary_batch_XXX.json'
+          manifest_path.write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+
+          # Final schema/content validation against the pre-update prior set.
+          assert manifest['totalHeadwords'] == manifest['batchCount'] * 500
+          for e in entries:
+              assert e['word'] not in prior
+              assert e['pronunciation'].startswith('/') and e['pronunciation'].endswith('/')
+              assert e['meanings'] and sum(len(m['burmese']) for m in e['meanings']) <= 3
+              for m in e['meanings']:
+                  assert m['partOfSpeech'] in allowed
+                  assert all(not latin.search(g) for g in m['burmese'])
+          report={
+              'batch':26,'entries':500,'priorLookupKeys':len(prior),'newForms':len(new_forms),
+              'newLookupKeys':len(all_keys),'totalHeadwords':13000,'nextBatch':27,
+              'lookupSha256':manifest['lookup']['sha256']
+          }
+          (root/'staging'/'batch026'/'FINAL_REPORT.json').write_text(json.dumps(report,indent=2)+'\n',encoding='utf-8')
+          print(json.dumps(report,indent=2))
+          PY
+      - name: Commit final Batch 026 atomically
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add Batches/dictionary_batch_026.json lookup/used_keys_current.zlib.b64 dictionary_manifest.json staging/batch026/FINAL_REPORT.json
+          git commit -m 'Add dictionary Batch 026'
+          git push
