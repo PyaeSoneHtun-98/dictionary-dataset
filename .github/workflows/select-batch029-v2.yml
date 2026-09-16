@@ -1,0 +1,94 @@
+name: Select Batch 029 Candidates V2
+on:
+  push:
+    paths:
+      - staging/batch029/SELECT_V2
+permissions:
+  contents: write
+jobs:
+  select:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install lexical resources
+        run: |
+          python -m pip install --quiet nltk wordfreq cmudict
+          python - <<'PY'
+          import nltk
+          for x in ('wordnet','names'): nltk.download(x, quiet=True)
+          PY
+      - name: Build strict candidate pool
+        run: |
+          python - <<'PY'
+          import base64,json,pathlib,re,zlib
+          from nltk.corpus import wordnet as wn, names
+          from wordfreq import top_n_list, zipf_frequency
+          import cmudict
+          root=pathlib.Path('.')
+          m=json.loads((root/'dictionary_manifest.json').read_text())
+          assert m['latestBatch']==28 and m['nextBatch']==29
+          prior=set(zlib.decompress(base64.b64decode((root/'lookup'/'used_keys_current.zlib.b64').read_text().strip())).decode().splitlines())
+          assert len(prior)==26432
+          pron=cmudict.dict(); name_set={x.lower() for x in names.words()}
+          poslist=[('noun',wn.NOUN),('verb',wn.VERB),('adjective',wn.ADJ),('adverb',wn.ADV)]
+          hard=set('''catalan libyan papua peruvian torah amir zionist islamist malay monsieur oceanic blanc corona decker greenwood riff pascal deco natal sherry whisky nicotine opium morphine dildo blowjob porno faggot retard tart dyke butch jihad pagan baptism evangelical papal ecclesiastical diocese ordination voodoo'''.split())
+          def baddef(d):
+            dl=d.lower()
+            if re.search(r'\b[A-Z][a-z]{2,}\b', d): return True
+            if re.search(r'\b[A-Z]{2,}\b', d): return True
+            pats=['trademark','native or inhabitant','official language','language of','language spoken','genus of','dynasty','comparative of','superlative of','position 1','street name','federal department','religion','church','muslim','christian','jewish','hindu','buddhist','country of','state of ','province of ']
+            return any(p in dl for p in pats)
+          def obvious_inflection(w):
+            if w.endswith('s') and not w.endswith(('ss','us','is')): return True
+            if w.endswith('ies'): return True
+            if w.endswith('est'): return True
+            if w.endswith('er') and len(w)>5:
+              # only reject when an adjective base is recognized
+              for base in (w[:-2], w[:-1]):
+                if wn.synsets(base,pos=wn.ADJ): return True
+            if w.endswith('ed') and len(w)>5:
+              for base in (w[:-2],w[:-1],w[:-3]+'y'):
+                if wn.synsets(base,pos=wn.VERB): return True
+            if w.endswith('ing') and len(w)>6:
+              for base in (w[:-3],w[:-3]+'e',w[:-4]):
+                if wn.synsets(base,pos=wn.VERB): return True
+            return False
+          rows=[]; seen=set()
+          for w in top_n_list('en',120000):
+            w=w.lower().strip()
+            if len(rows)>=850: break
+            if not re.fullmatch(r'[a-z]{4,16}',w): continue
+            if w in seen or w in prior or w in hard or w in name_set: continue
+            if obvious_inflection(w): continue
+            z=zipf_frequency(w,'en')
+            if not (2.55<=z<=3.38): continue
+            if w not in pron: continue
+            chosen=None
+            for label,p in poslist:
+              # exact canonical lemma only
+              if wn.morphy(w,p)!=w: continue
+              for s in wn.synsets(w,pos=p):
+                if not any(l.name().lower()==w for l in s.lemmas()): continue
+                if s.instance_hypernyms(): continue
+                d=s.definition().strip()
+                if baddef(d): continue
+                chosen=(label,d,pron[w][0]); break
+              if chosen: break
+            if not chosen: continue
+            label,d,phones=chosen
+            seen.add(w); rows.append((w,label,f'{z:.2f}',' '.join(phones),d.replace('\t',' ').replace('\n',' ')))
+          assert len(rows)>=700,len(rows)
+          out=root/'staging'/'batch029'/'candidates_v2'; out.mkdir(parents=True,exist_ok=True)
+          for i in range(0,len(rows),50):
+            (out/f'candidates_{i//50+1:02d}.tsv').write_text('\n'.join('\t'.join(r) for r in rows[i:i+50])+'\n',encoding='utf-8')
+          (out/'SUMMARY.txt').write_text(f'candidates={len(rows)}\nprior_keys={len(prior)}\n',encoding='utf-8')
+          PY
+      - name: Commit candidates
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch029/candidates_v2
+          git commit -m "Stage stricter Batch 029 candidates"
+          git push
