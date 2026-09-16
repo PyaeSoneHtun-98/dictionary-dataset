@@ -1,0 +1,182 @@
+name: Finalize Dictionary Batch 031
+
+on:
+  push:
+    paths:
+      - 'staging/batch031/FINALIZE'
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install pronunciation helper
+        run: python -m pip install --quiet eng-to-ipa
+      - name: Assemble and validate Batch 031
+        run: |
+          python - <<'PY'
+          import base64, hashlib, json, pathlib, re, shutil, zlib
+          import eng_to_ipa as e2i
+
+          root=pathlib.Path('.')
+          manifest_path=root/'dictionary_manifest.json'
+          lookup_path=root/'lookup'/'used_keys_current.zlib.b64'
+          manifest=json.loads(manifest_path.read_text(encoding='utf-8'))
+          assert manifest['latestBatch']==30 and manifest['nextBatch']==31
+          assert manifest['batchCount']==30 and manifest['totalHeadwords']==15000
+          assert manifest['lookup']['throughBatch']==30
+          assert manifest['lookup']['uniqueLookupKeys']==27562
+          assert manifest['lookup']['uniqueStoredForms']==12608
+
+          encoded=lookup_path.read_text(encoding='ascii').strip()
+          assert hashlib.sha256(encoded.encode('ascii')).hexdigest()==manifest['lookup']['sha256']
+          assert manifest['lookup']['sha256']=='859de75b40df91aabebee813e9943d7760ec21ff344c43bf846515649330c0e8'
+          prior=set(zlib.decompress(base64.b64decode(encoded)).decode('utf-8').splitlines())
+          assert len(prior)==27562
+
+          rows=[]
+          for raw in (root/'staging/batch031/final_selection.tsv').read_text(encoding='utf-8').splitlines():
+              if raw.strip():
+                  w,pos,freq,phones,definition=raw.split('\t',4)
+                  rows.append({'word':w.strip(),'sourcePos':pos.strip(),'phones':phones.strip(),'definition':definition.strip()})
+          words=[r['word'] for r in rows]; headset=set(words); source_by={r['word']:r for r in rows}
+          assert len(rows)==500 and len(headset)==500
+          assert all(w.isascii() and w.isalpha() and w==w.lower() and ' ' not in w and '-' not in w for w in words)
+          assert not (headset & prior)
+          assert 'tubs' not in headset and 'handout' in headset
+
+          translations={}
+          for p in sorted((root/'staging/batch031/translations').glob('part*.tsv')):
+              for raw in p.read_text(encoding='utf-8').splitlines():
+                  if not raw.strip(): continue
+                  parts=raw.split('\t',2); assert len(parts)==3,(p.name,raw)
+                  w,pos,blob=(x.strip() for x in parts)
+                  glosses=[x.strip() for x in blob.split('|') if x.strip()]
+                  assert w not in translations,w
+                  translations[w]=(pos,glosses)
+          assert len(translations)==500 and set(translations)==headset
+          allowed={'noun','verb','adjective','adverb','pronoun','preposition','conjunction','interjection','determiner','modal','auxiliary'}
+          latin=re.compile(r'[A-Za-z]')
+          for w,(pos,g) in translations.items():
+              assert pos in allowed and 1<=len(g)<=3
+              assert all(x and not latin.search(x) for x in g),(w,g)
+
+          staged=json.loads((root/'staging/batch031/TRANSLATION_VALIDATION.json').read_text(encoding='utf-8'))
+          assert staged['finalWords']==500 and staged['uniqueWords']==500 and staged['translations']==500
+          assert not staged['priorCollisions'] and not staged['malformed'] and not staged['duplicates'] and not staged['missing'] and not staged['extra'] and not staged['badGlossOrPos']
+
+          reviewed_forms={
+            'morph':['morphs','morphed','morphing'],
+            'mainline':['mainlines','mainlined','mainlining'],
+            'regroup':['regroups','regrouped','regrouping'],
+            'reinvent':['reinvents','reinvented','reinventing'],
+            'resurrect':['resurrects','resurrected','resurrecting'],
+            'stow':['stows','stowed','stowing'],
+            'sympathize':['sympathizes','sympathized','sympathizing'],
+            'desist':['desists','desisted','desisting'],
+            'symbolize':['symbolizes','symbolized','symbolizing'],
+            'modernize':['modernizes','modernized','modernizing'],
+            'preclude':['precludes','precluded','precluding'],
+            'inflate':['inflates','inflating'],
+            'legislate':['legislates','legislated','legislating'],
+            'outperform':['outperforms','outperformed','outperforming'],
+            'reappear':['reappears','reappeared','reappearing'],
+            'skew':['skews','skewed','skewing']
+          }
+          verb_words={w for w,(pos,_) in translations.items() if pos=='verb'}
+          assert verb_words==set(reviewed_forms),(sorted(verb_words),sorted(reviewed_forms))
+          dry=json.loads((root/'staging/batch031/ASSEMBLY_DRYRUN.json').read_text(encoding='utf-8'))
+          assert dry['entries']==500 and dry['priorLookupKeys']==27562
+          assert dry['verbForms']==reviewed_forms and dry['proposedFormCount']==47 and dry['verbCount']==16
+
+          all_reviewed_forms=[f for w in words for f in reviewed_forms.get(w,[])]
+          assert len(all_reviewed_forms)==47 and len(set(all_reviewed_forms))==47
+          assert not (set(all_reviewed_forms)&prior) and not (set(all_reviewed_forms)&headset)
+          assert all(f.isascii() and f.isalpha() and f==f.lower() for f in all_reviewed_forms)
+          assert 'inflated' in prior and 'inflated' not in all_reviewed_forms
+
+          def fallback_ipa(phones):
+              cmap={'B':'b','CH':'tʃ','D':'d','DH':'ð','F':'f','G':'ɡ','HH':'h','JH':'dʒ','K':'k','L':'l','M':'m','N':'n','NG':'ŋ','P':'p','R':'r','S':'s','SH':'ʃ','T':'t','TH':'θ','V':'v','W':'w','Y':'j','Z':'z','ZH':'ʒ'}
+              vmap={'AA':'ɑ','AE':'æ','AO':'ɔ','AW':'aʊ','AY':'aɪ','EH':'ɛ','EY':'eɪ','IH':'ɪ','IY':'i','OW':'oʊ','OY':'ɔɪ','UH':'ʊ','UW':'u'}
+              vowels=set(vmap)|{'AH','ER'}
+              out=[]
+              for tok in phones.split():
+                  mm=re.match(r'^([A-Z]+)([012])?$',tok); assert mm,(phones,tok)
+                  base,stress=mm.group(1),mm.group(2)
+                  if base=='AH': sym='ə' if stress=='0' else 'ʌ'
+                  elif base=='ER': sym='ɚ' if stress=='0' else 'ɝ'
+                  elif base in vmap: sym=vmap[base]
+                  else: sym=cmap[base]
+                  if stress=='1' and base in vowels: sym='ˈ'+sym
+                  elif stress=='2' and base in vowels: sym='ˌ'+sym
+                  out.append(sym)
+              return ''.join(out)
+
+          entries=[]; fallback_words=[]
+          for word in words:
+              pos,glosses=translations[word]
+              ipa=e2i.convert(word,stress_marks='both').strip()
+              if not ipa or '*' in ipa or ipa.lower()==word.lower():
+                  ipa=fallback_ipa(source_by[word]['phones']); fallback_words.append(word)
+              ipa=ipa.replace('/','').strip()
+              assert ipa and '*' not in ipa and '\n' not in ipa
+              forms=list(reviewed_forms.get(word,[]))
+              entries.append({'word':word,'pronunciation':f'/{ipa}/','forms':forms,'meanings':[{'partOfSpeech':pos,'burmese':glosses}]})
+
+          assert len(entries)==500 and len({e['word'] for e in entries})==500
+          assert fallback_words==dry['ipaFallbackWords'],(fallback_words,dry['ipaFallbackWords'])
+          assert fallback_words==['taxonomy','oxidative','extracellular','subunit','genealogical','dynamically','jailbreak','tensor','intracellular','synaptic','landline']
+          for e in entries:
+              assert e['word'] not in e['forms'] and len(e['forms'])==len(set(e['forms']))
+              assert e['pronunciation'].startswith('/') and e['pronunciation'].endswith('/') and len(e['pronunciation'])>2
+              assert 1<=sum(len(m['burmese']) for m in e['meanings'])<=3
+
+          out=root/'Batches'/'dictionary_batch_031.json'
+          assert not out.exists(),'Batch 031 already exists'
+          out.write_text(json.dumps({'version':1,'batch':31,'entries':entries},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+
+          all_keys=prior|headset|set(all_reviewed_forms)
+          assert len(all_keys)==27562+500+47
+          plain=('\n'.join(sorted(all_keys))+'\n').encode('utf-8')
+          lookup_encoded=base64.b64encode(zlib.compress(plain,9)).decode('ascii')
+          lookup_path.write_text(lookup_encoded,encoding='ascii')
+
+          manifest['latestBatch']=31; manifest['nextBatch']=32; manifest['batchCount']=31; manifest['totalHeadwords']=15500
+          manifest['lookup']['throughBatch']=31
+          manifest['lookup']['uniqueLookupKeys']=len(all_keys)
+          manifest['lookup']['uniqueHeadwords']=15500
+          manifest['lookup']['uniqueStoredForms']=12608+len(all_reviewed_forms)
+          manifest['lookup']['sha256']=hashlib.sha256(lookup_encoded.encode('ascii')).hexdigest()
+          manifest['batchFilenamePattern']='Batches/dictionary_batch_XXX.json'
+          assert manifest['totalHeadwords']==manifest['batchCount']*500
+          manifest_path.write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+
+          readme_path=root/'README.md'
+          readme=readme_path.read_text(encoding='utf-8')
+          old='Batches 001–030 have been generated: **15,000 unique headwords**.'
+          new='Batches 001–031 have been generated: **15,500 unique headwords**.'
+          assert old in readme
+          readme_path.write_text(readme.replace(old,new),encoding='utf-8')
+
+          report={'batch':31,'entries':500,'newForms':len(all_reviewed_forms),'priorLookupKeys':len(prior),'uniqueLookupKeys':len(all_keys),'totalHeadwords':15500,'nextBatch':32,'ipaFallbackCount':len(fallback_words),'ipaFallbackWords':fallback_words,'lookupSha256':manifest['lookup']['sha256'],'formsReviewed':True}
+          (root/'batch031_validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+
+          # Remove Batch 031-only staging and temporary workflow machinery in the same atomic commit.
+          shutil.rmtree(root/'staging'/'batch031')
+          for name in ['select-batch031.yml','freeze-batch031.yml','repair-batch031-selection.yml','fix-batch031-translation-key.yml','validate-batch031.yml','dryrun-batch031.yml','finalize-batch031.yml']:
+              p=root/'.github'/'workflows'/name
+              if p.exists(): p.unlink()
+          print(json.dumps(report,ensure_ascii=False,indent=2))
+          PY
+      - name: Commit Batch 031 atomically
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add -A
+          git commit -m 'Add dictionary Batch 031'
+          git push
