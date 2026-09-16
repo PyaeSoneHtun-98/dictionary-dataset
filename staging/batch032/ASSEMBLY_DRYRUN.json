@@ -1,0 +1,169 @@
+{
+  "batch": 32,
+  "entries": 500,
+  "priorLookupKeys": 28109,
+  "ipaFallbackCount": 13,
+  "ipaFallbackWords": [
+    "metastatic",
+    "synchronous",
+    "dielectric",
+    "eponymous",
+    "molar",
+    "neolithic",
+    "reflux",
+    "quadratic",
+    "recombination",
+    "solubility",
+    "wanker",
+    "ocular",
+    "somatic"
+  ],
+  "verbCount": 29,
+  "proposedFormCount": 86,
+  "verbForms": {
+    "normalize": [
+      "normalizes",
+      "normalized",
+      "normalizing"
+    ],
+    "reread": [
+      "rereads",
+      "rereading"
+    ],
+    "detach": [
+      "detaches",
+      "detaching"
+    ],
+    "incarnate": [
+      "incarnates",
+      "incarnated",
+      "incarnating"
+    ],
+    "nestle": [
+      "nestles",
+      "nestled",
+      "nestling"
+    ],
+    "solidify": [
+      "solidifies",
+      "solidified",
+      "solidifying"
+    ],
+    "stonewall": [
+      "stonewalls",
+      "stonewalled",
+      "stonewalling"
+    ],
+    "flatten": [
+      "flattens",
+      "flattened",
+      "flattening"
+    ],
+    "negate": [
+      "negates",
+      "negated",
+      "negating"
+    ],
+    "outnumber": [
+      "outnumbers",
+      "outnumbered",
+      "outnumbering"
+    ],
+    "parse": [
+      "parses",
+      "parsed",
+      "parsing"
+    ],
+    "recoup": [
+      "recoups",
+      "recouped",
+      "recouping"
+    ],
+    "pounce": [
+      "pounces",
+      "pounced",
+      "pouncing"
+    ],
+    "scour": [
+      "scours",
+      "scoured",
+      "scouring"
+    ],
+    "remodel": [
+      "remodels",
+      "remodeled",
+      "remodelled",
+      "remodeling",
+      "remodelling"
+    ],
+    "cull": [
+      "culls",
+      "culled",
+      "culling"
+    ],
+    "misread": [
+      "misreads",
+      "misreading"
+    ],
+    "outrun": [
+      "outruns",
+      "outran",
+      "outrunning"
+    ],
+    "profane": [
+      "profanes",
+      "profaned",
+      "profaning"
+    ],
+    "reprise": [
+      "reprises",
+      "reprised",
+      "reprising"
+    ],
+    "encode": [
+      "encodes",
+      "encoded",
+      "encoding"
+    ],
+    "subvert": [
+      "subverts",
+      "subverted",
+      "subverting"
+    ],
+    "profess": [
+      "professes",
+      "professed",
+      "professing"
+    ],
+    "recast": [
+      "recasts",
+      "recasted",
+      "recasting"
+    ],
+    "synthesize": [
+      "synthesizes",
+      "synthesized",
+      "synthesizing"
+    ],
+    "wreak": [
+      "wreaks",
+      "wreaked",
+      "wreaking"
+    ],
+    "hasten": [
+      "hastens",
+      "hastened",
+      "hastening"
+    ],
+    "resell": [
+      "resells",
+      "resold",
+      "reselling"
+    ],
+    "congregate": [
+      "congregates",
+      "congregated",
+      "congregating"
+    ]
+  }
+}
