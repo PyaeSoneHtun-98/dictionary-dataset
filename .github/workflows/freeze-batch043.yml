@@ -1,0 +1,48 @@
+name: Freeze Batch 043 Selection
+
+on:
+  push:
+    paths:
+      - 'staging/batch043/FREEZE'
+
+permissions:
+  contents: write
+
+jobs:
+  freeze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Freeze reviewed 500
+        run: |
+          python - <<'PY'
+          import pathlib
+          root=pathlib.Path('.')
+          cdir=root/'staging'/'batch043'/'candidates'
+          rows=[]
+          for i in range(1,21):
+              rows += [x for x in (cdir/f'candidates_{i:02d}.tsv').read_text(encoding='utf-8').splitlines() if x.strip()]
+          parsed={r.split('\t',1)[0]:r for r in rows}
+          first=[]
+          for i in range(1,6): first += [x for x in (cdir/f'candidates_{i:02d}.tsv').read_text(encoding='utf-8').splitlines() if x.strip()]
+          reject=set('''dail glace quebecois romany bunce camorra gallus iditarod iou mislaid muharram negus parttime pyrrhic romanoff arbour carmelite chablis conestoga disa glengarry cimarron hegelian luddite anaesthetist galliano graven guarani honourably luba lysol pinner vara amharic bundesbank freon gorgonzola kail luminal molle redskin bellis brule gordian hanoverian methuselah mickle'''.split())
+          replacements='''tuneful typeset unicellular wariness watchword wrack amidships apatite aver bookman brassard capacious cheapness cockiness croon decant displease efferent elastomer eviscerate gaily gimlet gladden goldfield granitic harpist illegitimacy impracticable inaccessibility inadvisable incongruity inheritor intemperate lanolin lecithin legalism llano loggia matrilineal meltwater misanthrope misleadingly mortician northeastward palfrey peptic pigeonhole'''.split()
+          assert len(first)==500 and len(reject)==47 and len(replacements)==47
+          first_words=[r.split('\t',1)[0] for r in first]
+          assert reject <= set(first_words), sorted(reject-set(first_words))
+          assert all(w in parsed for w in replacements)
+          assert not (set(replacements)&set(first_words))
+          kept=[r for r in first if r.split('\t',1)[0] not in reject]
+          final=kept+[parsed[w] for w in replacements]
+          words=[r.split('\t',1)[0] for r in final]
+          assert len(kept)==453 and len(final)==500 and len(set(words))==500
+          (root/'staging'/'batch043'/'final_selection.tsv').write_text('\n'.join(final)+'\n',encoding='utf-8')
+          (root/'staging'/'batch043'/'SELECTION_SUMMARY.txt').write_text('retained=453\nreplacements=47\nfinal=500\n',encoding='utf-8')
+          PY
+      - name: Commit selection
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch043/final_selection.tsv staging/batch043/SELECTION_SUMMARY.txt
+          git commit -m 'Freeze Batch 043 selection'
+          git push
