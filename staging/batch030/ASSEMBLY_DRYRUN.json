@@ -1,0 +1,122 @@
+{
+  "batch": 30,
+  "entries": 500,
+  "priorLookupKeys": 26999,
+  "ipaFallbackCount": 5,
+  "ipaFallbackWords": [
+    "singularity",
+    "eyeshadow",
+    "observational",
+    "folio",
+    "thermodynamics"
+  ],
+  "verbCount": 21,
+  "proposedFormCount": 63,
+  "verbForms": {
+    "rename": [
+      "renames",
+      "renamed",
+      "renaming"
+    ],
+    "ret": [
+      "rets",
+      "retted",
+      "retting"
+    ],
+    "hone": [
+      "hones",
+      "honed",
+      "honing"
+    ],
+    "skim": [
+      "skims",
+      "skimmed",
+      "skimming"
+    ],
+    "propel": [
+      "propels",
+      "propelled",
+      "propelling"
+    ],
+    "diss": [
+      "disses",
+      "dissed",
+      "dissing"
+    ],
+    "stoop": [
+      "stoops",
+      "stooped",
+      "stooping"
+    ],
+    "innovate": [
+      "innovates",
+      "innovated",
+      "innovating"
+    ],
+    "nab": [
+      "nabs",
+      "nabbed",
+      "nabbing"
+    ],
+    "discontinue": [
+      "discontinues",
+      "discontinued",
+      "discontinuing"
+    ],
+    "mow": [
+      "mows",
+      "mowed",
+      "mown",
+      "mowing"
+    ],
+    "rouse": [
+      "rouses",
+      "roused",
+      "rousing"
+    ],
+    "subtract": [
+      "subtracts",
+      "subtracted",
+      "subtracting"
+    ],
+    "undercut": [
+      "undercuts",
+      "undercutting"
+    ],
+    "deduct": [
+      "deducts",
+      "deducted",
+      "deducting"
+    ],
+    "impart": [
+      "imparts",
+      "imparted",
+      "imparting"
+    ],
+    "lug": [
+      "lugs",
+      "lugged",
+      "lugging"
+    ],
+    "propagate": [
+      "propagates",
+      "propagated",
+      "propagating"
+    ],
+    "redefine": [
+      "redefines",
+      "redefined",
+      "redefining"
+    ],
+    "reinstate": [
+      "reinstates",
+      "reinstated",
+      "reinstating"
+    ],
+    "retrograde": [
+      "retrogrades",
+      "retrograded",
+      "retrograding"
+    ]
+  }
+}
