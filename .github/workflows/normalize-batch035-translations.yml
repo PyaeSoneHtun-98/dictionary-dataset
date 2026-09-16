@@ -1,0 +1,42 @@
+name: Normalize Batch 035 Translations
+
+on:
+  push:
+    paths:
+      - 'staging/batch035/NORMALIZE'
+
+permissions:
+  contents: write
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Normalize translation TSV files
+        run: |
+          python - <<'PY'
+          import pathlib
+          root=pathlib.Path('staging/batch035/translations')
+          aliases={'the transference':'transference'}
+          total=0
+          for p in sorted(root.glob('part*.tsv')):
+              out=[]
+              for raw in p.read_text(encoding='utf-8').splitlines():
+                  if not raw.strip(): continue
+                  parts=[x.strip() for x in raw.split('\t')]
+                  assert len(parts)==3,(p,raw)
+                  parts[0]=aliases.get(parts[0],parts[0])
+                  out.append('\t'.join(parts))
+              assert len(out)==100,(p,len(out))
+              p.write_text('\n'.join(out)+'\n',encoding='utf-8')
+              total += len(out)
+          assert total==500,total
+          PY
+      - name: Commit normalized translations
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch035/translations
+          git commit -m 'Normalize Batch 035 translations'
+          git push
