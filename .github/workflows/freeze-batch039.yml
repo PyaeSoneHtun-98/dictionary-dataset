@@ -27,11 +27,13 @@ jobs:
           for i in range(1,11):
               first += [x for x in (cdir/f'candidates_{i:02d}.tsv').read_text(encoding='utf-8').splitlines() if x.strip()]
           reject=set('''aarhus balthazar cocos onondaga suharto daedalus hosea montmartre nicosia riesling socratic southerner wyeth aeneas americanism dionysius ozawa pallas puritanical lally retaking croat kabbalah leander moravian negev readying evert gobi ido nihon salerno snafu venturi alaric berra garuda ishtar kuomintang orestes ozarks rankine ritalin shekels sigurd tammany timur tokio urals zoloft ashkenazi boyne bruin doric herculean journeying machiavellian manx antigone eck frankish hasidic knut mississippian montezuma pizarro preakness ramses kwai ane fain gripes zaman jakes duce miler spiller'''.split())
-          replacements='''sympathetically tacking tadpole theologically travail uneasiness unfailing unfavorably unknowing venter wiry anatomic angiogenesis bioscience boatman boney bonito braiding canonization coot cornstarch decimate deform discontinuity disquiet downbeat endearment fatten fizzle gerontology glaciation heckling hypothesize interferometer irreparably jaunty knave lakefront laminar logbook looper mange matey monopolistic monotheism nanna narcolepsy nunnery ostensible overactive peculiarity peridot phylogeny pica pineal planking prelim questioner regretfully remarriage revelry rime rotisserie sceptic seductively sheepskin sherbet snobbish strider teat techie teleprompter testa trundle uncoordinated unstuck unsuited'''.split()
+          replacements='''sympathetically tacking tadpole theologically travail uneasiness unfailing unfavorably unknowing venter wiry anatomic angiogenesis bioscience boatman boney bonito braiding canonization coot cornstarch decimate deform discontinuity disquiet downbeat endearment fatten fizzle gerontology glaciation heckling hypothesize interferometer irreparably jaunty knave lakefront laminar logbook looper mange matey monopolistic monotheism nanna narcolepsy nunnery ostensible overactive peculiarity peridot phylogeny pica pineal planking prelim questioner regretfully remarriage revelry rime rotisserie sceptic seductively sheepskin sherbet snobbish strider teat techie teleprompter testa trundle uncoordinated unstuck'''.split()
           assert len(first)==500
-          assert len(reject)==77 and len(replacements)==77
+          assert len(reject)==77 and len(replacements)==76
+          first_words={r.split('\t',1)[0] for r in first}
+          assert len(reject & first_words)==76
           kept=[r for r in first if r.split('\t',1)[0] not in reject]
-          assert len(kept)==423,len(kept)
+          assert len(kept)==424,len(kept)
           assert all(w in parsed for w in replacements)
           final=kept+[parsed[w] for w in replacements]
           words=[r.split('\t',1)[0] for r in final]
