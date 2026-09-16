@@ -38,7 +38,7 @@ jobs:
           cmu=cmudict.dict(); name_set={x.lower() for x in names.words()}
           deny=set('''
           coptic garibaldi honduran pacs pentecostal sodom zimbabwean aramaic chicano hellenic hellenistic landau pollack pounder slung underpaid vips briton foretold gaba holstein malacca spas tagalog fermi gauss haydn mayflower minis salespeople toed wields axed jags mpeg narrates nicaraguan overdone pelham usmc afrikaans bedouin bolivar geordie teflon asgard cossack hani mennonite nist organics pease brahman brahmin pentecost chara cates cortland hansard hessian leninism jacobite druze pythagorean scsi anova sids pees thins esperanto lisle goldilocks gorgon wicca wiccan capra caesarean babbitt angora rottweiler pomeranian moslem mulatto hutu tutsi romani turkic fulani masai angolan calvinist tabasco superfund wedgwood etna kodiak iras aced exudes hewn sirs tans ailes
-          ''').split()
+          '''.split())
           bad_def=re.compile(r'\b(?:surname|given name|capital of|city in|town in|village in|county in|state in|river in|mountain in|island in|province in|district in|region in|language of|native of|inhabitant of|member of a people|breed named|trademark|brand name|genus of|family of plants|family of animals)\b',re.I)
           demonym_suffix=('ian','ese','ish','ite')
           def clean_word(w): return w.isascii() and w.isalpha() and w==w.lower() and 3<=len(w)<=18
@@ -62,9 +62,7 @@ jobs:
               if len(w)<=3 and z<2.48: continue
               defs=' '.join(s.definition() for s in syns[:3])
               if bad_def.search(defs): continue
-              # reject obvious ordinary inflections/nonlemmas; later manual audit handles lexicalized exceptions
               if is_inflected(w): continue
-              # high-risk proper-derived identity labels
               if w.endswith(demonym_suffix) and any(k in defs.lower() for k in ('inhabitant','language','religion','ethnic','nationality','country')): continue
               syn=syns[0]; pos={'n':'noun','v':'verb','a':'adjective','s':'adjective','r':'adverb'}.get(syn.pos())
               if not pos: continue
