@@ -1,0 +1,94 @@
+name: Select Batch 028 Candidates
+
+on:
+  push:
+    paths:
+      - 'staging/batch028/SELECT'
+
+permissions:
+  contents: write
+
+jobs:
+  select:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install lexical resources
+        run: |
+          python -m pip install --quiet wordfreq nltk lemminflect cmudict
+          python - <<'PY'
+          import nltk
+          nltk.download('wordnet', quiet=True)
+          PY
+      - name: Build candidate pool
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, re, zlib
+          from wordfreq import top_n_list, zipf_frequency
+          from nltk.corpus import wordnet as wn
+          from lemminflect import getAllLemmas
+          import cmudict
+
+          root=pathlib.Path('.')
+          manifest=json.loads((root/'dictionary_manifest.json').read_text(encoding='utf-8'))
+          assert manifest['latestBatch']==27 and manifest['nextBatch']==28
+          encoded=(root/'lookup'/'used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          prior=set(zlib.decompress(base64.b64decode(encoded)).decode('utf-8').splitlines())
+          assert len(prior)==manifest['lookup']['uniqueLookupKeys']==25849
+          cmu=cmudict.dict()
+
+          hard_exclude=set('adult edition healthy extremely indeed apart gift dear horse stick beauty edge forever blog sport afternoon flat mail pair proper quarter upper anywhere fantastic hundred joint museum rain warm suit native originally supreme user yellow exercise planet soft sugar entry golden pool hole pack cute numerous properly besides chicken meat mode zero cream giant kingdom theme unfortunately usual alcohol medium unable wing newspaper reserve dollar gender instance mile universe flag cheese diet item parent tight weekly tool attend circle concert noise panel somewhat worldwide bike cake peak portion ultimate fantasy paint pink theatre comedy defence plastic semi shoulder colour inch tone topic auto guitar pocket audio everyday extent killer lesson mount thin fort math photography legend mini rank helpful naked rear afterwards alright belt comic newly racist sexy suck aspect sheet string forum reverse seed regard strip tube breast exit luxury instant reader teen ongoing purple underground mouse piano symbol cape slide loop bass dual globe parallel classical clip menu powder export grandfather graphic outdoor ultra folk dish holder nonsense wealthy developer poster uncomfortable grid identification metro suite beloved icon vertical grandmother hurry plug disc iconic jewelry reminder unfortunate babe canon generic grandma handful happily nowadays throne nutrition rental unlimited cafe meter cartoon glorious micro toll trainer unbelievable underneath nationwide nest optical supporter adorable compact demo halfway unhappy bout comeback majesty penis shooter someday static backwards meantime recreation shitty buyer navigation sentiment liar pending subscribe utterly disk insert massage seller stark upside void whip wipe jerk kindly nude cluster dancer goddamn sore weigh cart hardcore portable succession sweep countless offence preview rapper toast tricky wreck documentation quarterback anal dull neighbourhood postal risky vibe desktop dial revival thankful heroin luckily recognise tenth coordinator meme terribly toss transgender champ ditch dope unemployed bastard fond specialty haul header node pointless sadness shiny undoubtedly extensively repeal rubbish uncommon upstairs congressman dough fictional fringe judgement legion mindset thrust builder feminism secondly spit heroic paperwork tasty afterward shave sickness zoom scent worthless masterpiece spoil temper eternity explode font grandpa hairy ounce performer predominantly righteous thankfully unpleasant unrelated loudly pitcher stall trillion bodily traction bravo immortal literal maternal softly theological duchess heavenly mentality metre newsletter reckon rover stainless turf twitch armour conception deed dwarf flagship internally maths mesh noticeable remotely specification splendid unsure upwards comfortably exceptionally homosexuality jewellery overweight palette policeman psycho rainy singular systemic unchanged understandable firstly flavour longtime null regain solitary stoke unpaid deluxe downstairs hulk insanity knot philosopher thrill disadvantage lump masculine outdoors respectable routinely salute scum vogue wildly creed hustle pottery prank aide chalk councillor entirety flock footballer hemisphere lastly neighbour persona realism scrub shale sophomore tinder countdown investigative obese perimeter sushi turnout commercially gladly honourable irresponsible rant apologise crunch'.split())
+          basic=set('the and is are was were be been being a an to of in on at for from with without by as or but if then than this that these those i you he she it we they me him her us them my your his its our their mine yours ours theirs yes no hello good bad okay ok maybe very really just only also now there here have has had do does did get got make made know think want need like love time year day people person thing things one two three four five first last most much many more less little big small new old right wrong well too before after why who what when where how can could would should will shall may might must'.split())
+          posmap={wn.NOUN:'noun',wn.VERB:'verb',wn.ADJ:'adjective',wn.ADV:'adverb'}
+
+          def clean(w):
+              return w.isascii() and w.isalpha() and w==w.lower() and 3<=len(w)<=18 and w not in prior and w not in basic and w not in hard_exclude
+
+          def canonical(w):
+              lemmas=getAllLemmas(w, upos=None)
+              bases=set()
+              for vals in lemmas.values(): bases.update(x.lower() for x in vals)
+              # If any common morphological analysis points to a different alphabetic lemma, reject.
+              if any(b!=w and b.isalpha() for b in bases):
+                  return False
+              syns=wn.synsets(w)
+              if not syns: return False
+              # Reject WordNet proper-name instances / geographic named instances.
+              if any(s.instance_hypernyms() for s in syns): return False
+              return True
+
+          rows=[]
+          seen=set()
+          for w in top_n_list('en', 100000):
+              w=w.lower().strip()
+              if w in seen or not clean(w): continue
+              f=zipf_frequency(w,'en')
+              if f>3.85 or f<2.85: continue
+              if not canonical(w): continue
+              syns=wn.synsets(w)
+              # Pick the first common WordNet POS available, preferring noun/verb/adj/adv.
+              s=next((s for s in syns if s.pos() in posmap),None)
+              if not s: continue
+              pos=posmap[s.pos()]
+              phones=' '.join(cmu.get(w,[[]])[0])
+              if not phones: continue
+              definition=s.definition().replace('\t',' ').replace('\n',' ')
+              rows.append((w,pos,f,phones,definition)); seen.add(w)
+              if len(rows)>=900: break
+          assert len(rows)>=750, len(rows)
+          out=root/'staging'/'batch028'/'candidates'
+          out.mkdir(parents=True,exist_ok=True)
+          for i in range(0,900,50):
+              chunk=rows[i:i+50]
+              (out/f'candidates_{i//50+1:02d}.tsv').write_text('\n'.join(f'{w}\t{p}\t{f:.2f}\t{ph}\t{d}' for w,p,f,ph,d in chunk)+'\n',encoding='utf-8')
+          (out/'SUMMARY.json').write_text(json.dumps({'count':len(rows),'priorKeys':len(prior),'first':rows[0][0],'last':rows[-1][0]},indent=2)+'\n',encoding='utf-8')
+          PY
+      - name: Commit candidates
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch028/candidates
+          git commit -m 'Stage Batch 028 candidate pool'
+          git push
