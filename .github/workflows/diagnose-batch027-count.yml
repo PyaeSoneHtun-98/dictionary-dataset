@@ -1,0 +1,39 @@
+name: Diagnose Batch 027 Count
+
+on:
+  push:
+    paths:
+      - 'staging/batch027/DIAGNOSE_COUNT'
+
+permissions:
+  contents: write
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Diagnose selection count
+        run: |
+          python - <<'PY'
+          import json, pathlib
+          root=pathlib.Path('.')
+          rows=[]
+          for i in range(1,11):
+              p=root/'staging'/'batch027'/'candidates_v3'/f'candidates_{i:02d}.tsv'
+              rows += [r.split('\t',1)[0].strip() for r in p.read_text(encoding='utf-8').splitlines() if r.strip()]
+          denied={'smaller','greatest','bigger','arts','humans','communications','teeth','tons','woods','lowest','fewer','corp','transactions','graphics','proceedings','teens','earliest','neuro','prof','classics','calif','healthier','deeds','flats','heavens','jeep','haired'}
+          replacements=['chalk','councillor','entirety','flock','footballer','hemisphere','lastly','neighbour','persona','realism','scrub','shale','sophomore','tinder','countdown','investigative','obese','perimeter','sushi','turnout','commercially','gladly','honourable','irresponsible','rant','apologise','crunch']
+          found=sorted(set(rows)&denied)
+          final=[w for w in rows if w not in denied]+replacements
+          report={'rows':len(rows),'uniqueRows':len(set(rows)),'foundDeniedCount':len(found),'foundDenied':found,'missingDenied':sorted(denied-set(rows)),'replacementOverlapWithRows':sorted(set(replacements)&set(rows)),'finalCount':len(final),'finalUnique':len(set(final)),'duplicates':[w for w in set(final) if final.count(w)>1]}
+          (root/'staging'/'batch027'/'COUNT_DIAGNOSTIC.json').write_text(json.dumps(report,indent=2)+'\n',encoding='utf-8')
+          print(json.dumps(report,indent=2))
+          PY
+      - name: Commit diagnostic
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch027/COUNT_DIAGNOSTIC.json
+          git commit -m 'Diagnose Batch 027 selection count'
+          git push
