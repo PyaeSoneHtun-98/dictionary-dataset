@@ -1,0 +1,54 @@
+name: Review Batch 040 Forms
+
+on:
+  push:
+    paths:
+      - 'staging/batch040/FORMS'
+
+permissions:
+  contents: write
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Freeze manually reviewed forms
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, zlib
+          root=pathlib.Path('.')
+          m=json.loads((root/'dictionary_manifest.json').read_text())
+          assert m['latestBatch']==39 and m['nextBatch']==40 and m['lookup']['uniqueLookupKeys']==32946
+          prior=set(zlib.decompress(base64.b64decode((root/'lookup/used_keys_current.zlib.b64').read_text().strip())).decode().splitlines())
+          assert len(prior)==32946
+          sel=[x for x in (root/'staging/batch040/final_selection.tsv').read_text(encoding='utf-8').splitlines() if x.strip()]
+          headset={x.split('\t',1)[0].strip() for x in sel}; assert len(headset)==500
+          dry=json.loads((root/'staging/batch040/ASSEMBLY_DRYRUN.json').read_text(encoding='utf-8'))
+          assert dry['batch']==40 and dry['verbCount']==48 and dry['proposedFormCount']==147
+          forms={k:list(v) for k,v in dry['verbForms'].items()}
+          assert forms['envelop']==['envelops','enveloped','envelopped','enveloping','envelopping']
+          forms['envelop']=['envelops','enveloped','enveloping']
+          assert forms['overwrite']==['overwrites','overwrote','overwritten','overwriting']
+          assert forms['belie']==['belies','belied','belying']
+          assert forms['tarry']==['tarries','tarried','tarrying']
+          assert forms['spay']==['spays','spayed','spaying']
+          flat=[]
+          for w,vals in forms.items():
+              assert w in headset and len(vals)==len(set(vals))
+              for f in vals:
+                  assert f.isascii() and f.isalpha() and f==f.lower()
+                  assert f!=w and f not in prior and f not in headset
+                  flat.append(f)
+          assert len(flat)==145 and len(set(flat))==145
+          report={'batch':40,'verbCount':len(forms),'reviewedFormCount':len(flat),'corrections':{'envelop':{'removed':['envelopped','envelopping'],'kept':['envelops','enveloped','enveloping']}},'verbForms':forms,'formsReviewed':True}
+          (root/'staging/batch040/REVIEWED_FORMS.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print(json.dumps({'verbCount':len(forms),'reviewedFormCount':len(flat),'corrections':report['corrections']},indent=2))
+          PY
+      - name: Commit reviewed forms
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch040/REVIEWED_FORMS.json
+          git commit -m 'Review Batch 040 forms'
+          git push
