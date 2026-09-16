@@ -1,0 +1,43 @@
+{
+  "batch": 40,
+  "entries": 500,
+  "newForms": 145,
+  "priorLookupKeys": 32946,
+  "uniqueLookupKeys": 33591,
+  "totalHeadwords": 20000,
+  "nextBatch": 41,
+  "ipaFallbackCount": 12,
+  "ipaFallbackWords": [
+    "neigh",
+    "satiety",
+    "psychopathology",
+    "bibliographical",
+    "marzipan",
+    "preoperative",
+    "adrenergic",
+    "amide",
+    "gerbil",
+    "physiologic",
+    "radiographic",
+    "lymphoid"
+  ],
+  "lookupSha256": "74b0ec35a49b03ab42765b5dd87704d4245cec7625e36aad3eeb5f6761568916",
+  "formsReviewed": true,
+  "selectionReview": {
+    "retained": 447,
+    "replacements": 53
+  },
+  "formCorrections": {
+    "envelop": {
+      "removed": [
+        "envelopped",
+        "envelopping"
+      ],
+      "kept": [
+        "envelops",
+        "enveloped",
+        "enveloping"
+      ]
+    }
+  }
+}
