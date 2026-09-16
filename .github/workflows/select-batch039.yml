@@ -1,0 +1,87 @@
+name: Select Batch 039 Candidates
+
+on:
+  push:
+    paths:
+      - 'staging/batch039/SELECT'
+
+permissions:
+  contents: write
+
+jobs:
+  select:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install lexical resources
+        run: |
+          python -m pip install --quiet wordfreq nltk cmudict lemminflect
+      - name: Build strict candidate pool
+        run: |
+          python - <<'PY'
+          import base64, hashlib, json, pathlib, re, zlib
+          from wordfreq import iter_wordlist, zipf_frequency
+          import cmudict
+          import nltk
+          from nltk.corpus import wordnet as wn, names
+          from lemminflect import getLemma
+          root=pathlib.Path('.')
+          m=json.loads((root/'dictionary_manifest.json').read_text(encoding='utf-8'))
+          assert m['latestBatch']==38 and m['nextBatch']==39 and m['batchCount']==38 and m['totalHeadwords']==19000
+          assert m['lookup']['throughBatch']==38 and m['lookup']['uniqueLookupKeys']==32348 and m['lookup']['uniqueHeadwords']==19000 and m['lookup']['uniqueStoredForms']==13394
+          enc=(root/'lookup/used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          assert hashlib.sha256(enc.encode('ascii')).hexdigest()==m['lookup']['sha256']=='1197644a8dc78666c0082892998ae6c5569a859e82e34dd3528f61f5096876e8'
+          prior=set(zlib.decompress(base64.b64decode(enc)).decode('utf-8').splitlines()); assert len(prior)==32348
+          nltk.download('wordnet',quiet=True); nltk.download('names',quiet=True)
+          cmu=cmudict.dict(); name_set={x.lower() for x in names.words()}
+          deny=set('''
+          coptic garibaldi honduran pacs pentecostal sodom zimbabwean aramaic chicano hellenic hellenistic landau pollack pounder slung underpaid vips briton foretold gaba holstein malacca spas tagalog fermi gauss haydn mayflower minis salespeople toed wields axed jags mpeg narrates nicaraguan overdone pelham usmc afrikaans bedouin bolivar geordie teflon asgard cossack hani mennonite nist organics pease brahman brahmin pentecost chara cates cortland hansard hessian leninism jacobite druze pythagorean scsi anova sids pees thins esperanto lisle goldilocks gorgon wicca wiccan capra caesarean babbitt angora rottweiler pomeranian moslem mulatto hutu tutsi romani turkic fulani masai angolan calvinist tabasco superfund wedgwood etna kodiak iras aced exudes hewn sirs tans ailes
+          ''').split()
+          bad_def=re.compile(r'\b(?:surname|given name|capital of|city in|town in|village in|county in|state in|river in|mountain in|island in|province in|district in|region in|language of|native of|inhabitant of|member of a people|breed named|trademark|brand name|genus of|family of plants|family of animals)\b',re.I)
+          demonym_suffix=('ian','ese','ish','ite')
+          def clean_word(w): return w.isascii() and w.isalpha() and w==w.lower() and 3<=len(w)<=18
+          def best_synsets(w): return wn.synsets(w)
+          def is_inflected(w):
+              lemmas=set()
+              for upos in ('NOUN','VERB','ADJ'):
+                  try:
+                      for x in (getLemma(w,upos=upos) or ()): lemmas.add(x.lower())
+                  except Exception: pass
+              return bool(lemmas and w not in lemmas and any(x!=w for x in lemmas))
+          rows=[]; seen=set()
+          for w in iter_wordlist('en'):
+              w=w.lower().strip()
+              if len(rows)>=1600: break
+              if not clean_word(w) or w in prior or w in seen or w in deny or w in name_set: continue
+              z=zipf_frequency(w,'en')
+              if z>2.62 or z<2.35: continue
+              syns=best_synsets(w)
+              if not syns or w not in cmu: continue
+              if len(w)<=3 and z<2.48: continue
+              defs=' '.join(s.definition() for s in syns[:3])
+              if bad_def.search(defs): continue
+              # reject obvious ordinary inflections/nonlemmas; later manual audit handles lexicalized exceptions
+              if is_inflected(w): continue
+              # high-risk proper-derived identity labels
+              if w.endswith(demonym_suffix) and any(k in defs.lower() for k in ('inhabitant','language','religion','ethnic','nationality','country')): continue
+              syn=syns[0]; pos={'n':'noun','v':'verb','a':'adjective','s':'adjective','r':'adverb'}.get(syn.pos())
+              if not pos: continue
+              phones=' '.join(cmu[w][0])
+              rows.append((w,pos,z,phones,syn.definition().replace('\t',' '))); seen.add(w)
+          assert len(rows)==1600,len(rows)
+          out=root/'staging'/'batch039'/'candidates'; out.mkdir(parents=True,exist_ok=True)
+          for i in range(0,1600,50):
+              p=out/f'candidates_{i//50+1:02d}.tsv'
+              p.write_text('\n'.join(f'{w}\t{pos}\t{z:.2f}\t{phones}\t{definition}' for w,pos,z,phones,definition in rows[i:i+50])+'\n',encoding='utf-8')
+          (root/'staging'/'batch039'/'SELECTION_META.json').write_text(json.dumps({'batch':39,'priorLookupKeys':len(prior),'candidateCount':len(rows),'zipfMin':min(x[2] for x in rows),'zipfMax':max(x[2] for x in rows)},indent=2)+'\n')
+          print('selected',len(rows),'range',rows[0][2],rows[-1][2])
+          PY
+      - name: Commit candidates
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch039/candidates staging/batch039/SELECTION_META.json
+          git commit -m 'Generate Batch 039 candidates'
+          git push
