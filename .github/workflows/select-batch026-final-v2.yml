@@ -1,0 +1,78 @@
+name: Select Batch 026 Final Headwords V2
+
+on:
+  push:
+    paths:
+      - 'staging/batch026/SELECT_FINAL_V2'
+
+permissions:
+  contents: write
+
+jobs:
+  select:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install lexical resources
+        run: |
+          python -m pip install --quiet nltk cmudict lemminflect
+          python - <<'PY'
+          import nltk
+          nltk.download('wordnet', quiet=True)
+          PY
+      - name: Select canonical headwords
+        run: |
+          python - <<'PY'
+          import base64, pathlib, urllib.request, zlib, re
+          from nltk.corpus import wordnet as wn
+          from lemminflect import getLemma
+          import cmudict
+          root=pathlib.Path('.')
+          raw=(root/'lookup'/'used_keys_current.zlib.b64').read_text().strip()
+          prior=set(zlib.decompress(base64.b64decode(raw)).decode().splitlines())
+          words=urllib.request.urlopen('https://raw.githubusercontent.com/first20hours/google-10000-english/master/20k.txt').read().decode().splitlines()
+          cmu=cmudict.dict()
+          blacklist={'dildo','porn','porno','milf','pussy','cock','incest','phentermine','corp','ltd','shareware','anna','telecom','camcorder','billy','rick','behaviour','defence','marc','graham','jimmy','collins'}
+          rows=[]; seen=set()
+          for rank,w in enumerate(words,1):
+              w=w.strip().lower()
+              if rank<4500 or w in seen or w in prior or w in blacklist: continue
+              seen.add(w)
+              if not w.isalpha() or not w.isascii() or len(w)<4 or len(w)>16 or w not in cmu: continue
+              if any(s.instance_hypernyms() or any(l.name()[:1].isupper() and l.name().lower()==w for l in s.lemmas()) for s in wn.synsets(w)): continue
+              # Cross-POS morphology: reject inflected participles/plurals/comparatives even if WordNet has a lexicalized sense.
+              v=(getLemma(w,'VERB') or ())
+              n=(getLemma(w,'NOUN') or ())
+              a=(getLemma(w,'ADJ') or ())
+              if v and v[0].lower()!=w and (w.endswith(('ing','ed','en')) or w in {'grown','laid','told','known','seen','gone','done','born','worn'}): continue
+              if n and n[0].lower()!=w and w.endswith('s') and not w.endswith(('ss','us','is')): continue
+              if a and a[0].lower()!=w and w.endswith(('er','est')): continue
+              chosen=None
+              for pos,pname in [(wn.NOUN,'noun'),(wn.VERB,'verb'),(wn.ADJ,'adjective'),(wn.ADV,'adverb')]:
+                  syns=wn.synsets(w,pos=pos)
+                  if not syns: continue
+                  # Prefer an exact lemma and first common sense for that POS.
+                  syn=next((s for s in syns if any(l.name().lower()==w for l in s.lemmas())),None)
+                  if syn:
+                      chosen=(pname,syn.definition()); break
+              if not chosen: continue
+              pname,definition=chosen
+              # Low-value web/file artifacts.
+              if w in {'blog','blogs','webpage','website','websites','paypal','ebay','yahoo','google','microsoft','sony','nokia','samsung','facebook','twitter','instagram','youtube','amazon','wordpress','download','downloads','upload','uploads','html','http','https','jpeg','jpg','gif','php','dvd','dvds','mp3','ipod','xbox','linux','unix','ascii','isbn'}: continue
+              rows.append((w,pname,' '.join(cmu[w][0]),definition.replace('\t',' ').replace('\n',' ')))
+              if len(rows)>=600: break
+          assert len(rows)>=550, len(rows)
+          out=root/'staging'/'batch026'/'selected_v2'; out.mkdir(parents=True,exist_ok=True)
+          for p in out.glob('*'): p.unlink()
+          for label,data in [('selected',rows[:500]),('reserve',rows[500:600])]:
+              for i in range(0,len(data),50):
+                  (out/f'{label}_{i//50+1:02d}.tsv').write_text('\n'.join('\t'.join(x) for x in data[i:i+50])+'\n',encoding='utf-8')
+          (out/'SUMMARY.txt').write_text(f'selected=500\nreserve=100\nfirst={rows[0][0]}\nlast={rows[499][0]}\n',encoding='utf-8')
+          PY
+      - name: Commit selection
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch026/selected_v2
+          git commit -m 'Select Batch 026 final headwords v2'
+          git push
