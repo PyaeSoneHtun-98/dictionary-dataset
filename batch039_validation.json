@@ -1,0 +1,33 @@
+{
+  "batch": 39,
+  "entries": 500,
+  "newForms": 98,
+  "priorLookupKeys": 32348,
+  "uniqueLookupKeys": 32946,
+  "totalHeadwords": 19500,
+  "nextBatch": 40,
+  "ipaFallbackCount": 14,
+  "ipaFallbackWords": [
+    "geodetic",
+    "peyote",
+    "pleural",
+    "calender",
+    "prosciutto",
+    "subroutine",
+    "vestibular",
+    "mandibular",
+    "peritoneal",
+    "thither",
+    "balaclava",
+    "anatomic",
+    "rime",
+    "sceptic"
+  ],
+  "lookupSha256": "08e1d114cb57c69ea265ce5b8c9408dcede1912136b9b396c6d7c46228961b14",
+  "formsReviewed": true,
+  "selectionReview": {
+    "retained": 424,
+    "replacements": 76
+  },
+  "formCorrections": {}
+}
