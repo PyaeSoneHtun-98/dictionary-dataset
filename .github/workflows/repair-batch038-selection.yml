@@ -1,0 +1,45 @@
+name: Repair Batch 038 Selection
+
+on:
+  push:
+    paths:
+      - 'staging/batch038/REPAIR_SELECTION'
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Replace inflected headword
+        run: |
+          python - <<'PY'
+          import pathlib
+          root=pathlib.Path('.')
+          path=root/'staging'/'batch038'/'final_selection.tsv'
+          rows=[x for x in path.read_text(encoding='utf-8').splitlines() if x.strip()]
+          assert len(rows)==500
+          words=[r.split('\t',1)[0] for r in rows]
+          assert words.count('thins')==1 and 'glazer' not in words
+          repl=None
+          for i in range(11,31):
+              for r in (root/'staging'/'batch038'/'candidates'/f'candidates_{i:02d}.tsv').read_text(encoding='utf-8').splitlines():
+                  if r.startswith('glazer\t'):
+                      repl=r; break
+              if repl: break
+          assert repl
+          rows=[repl if r.split('\t',1)[0]=='thins' else r for r in rows]
+          words=[r.split('\t',1)[0] for r in rows]
+          assert len(words)==500 and len(set(words))==500 and 'thins' not in words and 'glazer' in words
+          path.write_text('\n'.join(rows)+'\n',encoding='utf-8')
+          (root/'staging'/'batch038'/'SELECTION_REPAIR.txt').write_text('dropped=thins\nadded=glazer\nfinal=500\n',encoding='utf-8')
+          PY
+      - name: Commit repair
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch038/final_selection.tsv staging/batch038/SELECTION_REPAIR.txt
+          git commit -m 'Repair Batch 038 selection'
+          git push
