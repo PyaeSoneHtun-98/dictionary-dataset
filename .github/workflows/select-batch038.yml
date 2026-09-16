@@ -1,0 +1,102 @@
+name: Select Batch 038 Candidates
+
+on:
+  push:
+    paths:
+      - 'staging/batch038/SELECT'
+
+permissions:
+  contents: write
+
+jobs:
+  select:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install lexical resources
+        run: python -m pip install --quiet wordfreq nltk cmudict lemminflect
+      - name: Build strict candidate pool
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, zlib
+          from wordfreq import iter_wordlist, zipf_frequency
+          import nltk, cmudict
+          from nltk.corpus import wordnet as wn, names
+          from nltk.stem import WordNetLemmatizer
+          from lemminflect import getLemma
+          nltk.download('wordnet', quiet=True); nltk.download('omw-1.4', quiet=True); nltk.download('names', quiet=True)
+          root=pathlib.Path('.')
+          m=json.loads((root/'dictionary_manifest.json').read_text())
+          assert m['latestBatch']==37 and m['nextBatch']==38 and m['totalHeadwords']==18500
+          assert m['lookup']['uniqueLookupKeys']==31745 and m['lookup']['uniqueStoredForms']==13291
+          assert m['lookup']['sha256']=='0839bda7c94d26b023ddc1662805440bac9517094bfb38b0f50935ee68c368d0'
+          enc=(root/'lookup/used_keys_current.zlib.b64').read_text().strip()
+          prior=set(zlib.decompress(base64.b64decode(enc)).decode().splitlines()); assert len(prior)==31745
+          cmu=cmudict.dict(); lem=WordNetLemmatizer(); name_set={x.lower() for x in names.words()}
+          deny=set('''fao dss ddt velcro mossad ascii polaroid firestone xerox kleenex lego google facebook instagram twitter netflix tesla rolex disney marvel pokemon xanax botox interpol opec nafta gestapo
+          coptic garibaldi honduran pacs zimbabwean aramaic chicano fermi gauss haydn mayflower tagalog afrikaans briton bedouin bolivar brahman brahmin geordie teflon asgard cossack hani mennonite pentecost chara
+          usmc darpa styrofoam hellenic hellenistic hausa azerbaijani tajik shona israelite stalinist atticus chippewa neapolitan gallic hanukkah sind teutonic benedictine cochin christendom darwinism freemasonry sunnis eritrean
+          organics pease hawes parkes adrenalin cockney knesset sputnik stanhope agua airforce stank debs mormonism fora jewry campion delft okey primus prozac psychics pygmy quin raines stadia stetson bahraini dewar dink ephesus gees hmong inlaid mujahideen rubicon scape taos vats anas awol berber bowes cots fads rorschach salvadoran septa somalis downes electrics hypo leger lowes permeates publically reis unsaid xhosa bade canfield eldorado elysium eons kegs sacra saddens thais toda virginian trig
+          romani turkic farsi slav fulani masai angolan calvinist hoosier lhasa ohms reit tics awed cyrillic hutu luger superfund tabasco shinto tutsi aced chink confucianism exudes habsburg listeria miro senor chiron cialis levis malayan martinis olympiad paschal presidio saran'''.split())
+          nonlemmas=set('''hewn sirs tans wags ailes elaborates obscures generics begets hued overlaid formulae twos sacs firs urls coos beaux opts pled deepens thickens hallows'''.split())
+          bad_defs=('trademark','trade name','a city in','a town in','capital of','country in','inhabitant of','native of','people of','language spoken','official language','dialect of','currency of','basic unit of money','surname','family name','given name','king of','queen of','president of','dynasty','worshipped especially','roman procurator','government agency','a member of a people','a member of the','genus of','a genus of','tribe living','ethnic group','jewish holiday','christian holiday','muslim holiday','royal family','state of the united states','native or resident of')
+          posmap={'n':'noun','v':'verb','a':'adjective','s':'adjective','r':'adverb'}
+          irregular_plurals={'men','women','children','teeth','feet','geese','mice','lice','oxen','criteria','phenomena','data','media','indices','vertices','matrices','appendices','curricula','antennae','larvae','ova','sera','people','formulae','beaux','loci','stadia'}
+          def bad_morph(w):
+              if w in nonlemmas or w in irregular_plurals: return True
+              if w.endswith('ies') and len(w)>4: return True
+              if w.endswith('ves') and len(w)>4: return True
+              if w.endswith('men') and len(w)>5: return True
+              if w.endswith('s') and len(w)>4 and not w.endswith(('ss','us','is','ous','ics','ness')) and lem.lemmatize(w,'n')!=w: return True
+              if w.endswith('est') and len(w)>5 and lem.lemmatize(w,'a')!=w: return True
+              if w.endswith('er') and len(w)>4 and lem.lemmatize(w,'a')!=w: return True
+              if w.endswith('ing') and len(w)>5:
+                  gl=getLemma(w,'VERB') or ()
+                  if lem.lemmatize(w,'v')!=w or (gl and gl[0]!=w): return True
+              if w.endswith(('ed','en')) and len(w)>4:
+                  gl=getLemma(w,'VERB') or ()
+                  if lem.lemmatize(w,'v')!=w or (gl and gl[0]!=w): return True
+              return False
+          rows=[]; seen=set()
+          for w in iter_wordlist('en',wordlist='best'):
+              w=w.lower().strip()
+              if len(rows)>=1500: break
+              if w in seen or w in prior or w in deny or w in name_set: continue
+              if not (w.isascii() and w.isalpha() and w==w.lower() and 3<=len(w)<=18): continue
+              z=zipf_frequency(w,'en')
+              if z>2.62 or z<1.90: continue
+              if bad_morph(w): continue
+              syns=wn.synsets(w)
+              if not syns or w not in cmu: continue
+              usable=[]
+              for s in syns:
+                  p=posmap.get(s.pos())
+                  if not p or s.instance_hypernyms(): continue
+                  d=s.definition().strip(); dl=d.lower()
+                  if any(x in dl for x in bad_defs): continue
+                  usable.append((p,d))
+              if not usable: continue
+              defs=' '.join(d.lower() for _,d in usable)
+              if w.endswith(('ian','ese','ite','ic')) and any(x in defs for x in ('people','country','language','culture','ethnic','religious group','of or relating to')): continue
+              if w.endswith('ish') and any(x in defs for x in ('people','country','language','culture','relating to')): continue
+              if len(w)<=3 and w not in {'yak','yen','yew','yaw','jot','cur','oar','asp','gnu','ebb','hap','nit','nib','keg','lug','sod','wad'}: continue
+              rank={'noun':0,'verb':1,'adjective':2,'adverb':3}
+              usable.sort(key=lambda x:rank[x[0]])
+              p,d=usable[0]
+              rows.append((w,p,z,' '.join(cmu[w][0]),d)); seen.add(w)
+          assert len(rows)==1500,len(rows)
+          out=root/'staging'/'batch038'/'candidates'; out.mkdir(parents=True,exist_ok=True)
+          for i in range(30):
+              chunk=rows[i*50:(i+1)*50]
+              (out/f'candidates_{i+1:02d}.tsv').write_text('\n'.join(f'{w}\t{p}\t{z:.2f}\t{ph}\t{d}' for w,p,z,ph,d in chunk)+'\n',encoding='utf-8')
+          (out/'SUMMARY.txt').write_text(f'candidates={len(rows)}\nprior_keys={len(prior)}\nzipf=1.90..2.62\n',encoding='utf-8')
+          PY
+      - name: Commit candidates
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch038/candidates
+          git commit -m 'Stage Batch 038 candidates'
+          git push
