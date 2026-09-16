@@ -1,0 +1,338 @@
+{
+  "batch": 43,
+  "verbCount": 64,
+  "reviewedFormCount": 188,
+  "corrections": {
+    "overspend": {
+      "removed": [
+        "overspended"
+      ],
+      "added": [
+        "overspent"
+      ],
+      "kept": [
+        "overspends",
+        "overspending"
+      ]
+    }
+  },
+  "verbForms": {
+    "boggle": [
+      "boggles",
+      "boggled",
+      "boggling"
+    ],
+    "disentangle": [
+      "disentangles",
+      "disentangled",
+      "disentangling"
+    ],
+    "evangelize": [
+      "evangelizes",
+      "evangelized",
+      "evangelizing"
+    ],
+    "expunge": [
+      "expunges",
+      "expunged",
+      "expunging"
+    ],
+    "regale": [
+      "regales",
+      "regaled",
+      "regaling"
+    ],
+    "reintegrate": [
+      "reintegrates",
+      "reintegrated",
+      "reintegrating"
+    ],
+    "resound": [
+      "resounds",
+      "resounded"
+    ],
+    "subdivide": [
+      "subdivides",
+      "subdivided",
+      "subdividing"
+    ],
+    "unsettle": [
+      "unsettles",
+      "unsettled"
+    ],
+    "circumnavigate": [
+      "circumnavigates",
+      "circumnavigated",
+      "circumnavigating"
+    ],
+    "deign": [
+      "deigns",
+      "deigned",
+      "deigning"
+    ],
+    "electrocute": [
+      "electrocutes",
+      "electrocuted",
+      "electrocuting"
+    ],
+    "redouble": [
+      "redoubles",
+      "redoubled",
+      "redoubling"
+    ],
+    "reinterpret": [
+      "reinterprets",
+      "reinterpreted",
+      "reinterpreting"
+    ],
+    "renege": [
+      "reneges",
+      "reneged",
+      "reneging"
+    ],
+    "unroll": [
+      "unrolls",
+      "unrolled",
+      "unrolling"
+    ],
+    "cronk": [
+      "cronks",
+      "cronked",
+      "cronking"
+    ],
+    "flout": [
+      "flouts",
+      "flouted",
+      "flouting"
+    ],
+    "glisten": [
+      "glistens",
+      "glistened",
+      "glistening"
+    ],
+    "induct": [
+      "inducts",
+      "inducted",
+      "inducting"
+    ],
+    "loll": [
+      "lolls",
+      "lolled",
+      "lolling"
+    ],
+    "moisten": [
+      "moistens",
+      "moistened",
+      "moistening"
+    ],
+    "mope": [
+      "mopes",
+      "moping"
+    ],
+    "nuzzle": [
+      "nuzzles",
+      "nuzzled",
+      "nuzzling"
+    ],
+    "outflank": [
+      "outflanks",
+      "outflanked",
+      "outflanking"
+    ],
+    "polarize": [
+      "polarizes",
+      "polarized",
+      "polarizing"
+    ],
+    "politicize": [
+      "politicizes",
+      "politicized",
+      "politicizing"
+    ],
+    "retell": [
+      "retells",
+      "retold",
+      "retelling"
+    ],
+    "rumple": [
+      "rumples",
+      "rumpled",
+      "rumpling"
+    ],
+    "sunbathe": [
+      "sunbathes",
+      "sunbathed",
+      "sunbathing"
+    ],
+    "truncate": [
+      "truncates",
+      "truncated",
+      "truncating"
+    ],
+    "verbalize": [
+      "verbalizes",
+      "verbalized",
+      "verbalizing"
+    ],
+    "victimize": [
+      "victimizes",
+      "victimized",
+      "victimizing"
+    ],
+    "weatherproof": [
+      "weatherproofs",
+      "weatherproofed",
+      "weatherproofing"
+    ],
+    "writhe": [
+      "writhes",
+      "writhed",
+      "writhing"
+    ],
+    "declassify": [
+      "declassifies",
+      "declassified",
+      "declassifying"
+    ],
+    "dote": [
+      "dotes",
+      "doted",
+      "doting"
+    ],
+    "exhort": [
+      "exhorts",
+      "exhorted",
+      "exhorting"
+    ],
+    "lave": [
+      "laves",
+      "laved",
+      "laving"
+    ],
+    "overspend": [
+      "overspends",
+      "overspent",
+      "overspending"
+    ],
+    "philander": [
+      "philanders",
+      "philandered",
+      "philandering"
+    ],
+    "slather": [
+      "slathers",
+      "slathered",
+      "slathering"
+    ],
+    "unfurl": [
+      "unfurls",
+      "unfurled",
+      "unfurling"
+    ],
+    "clamber": [
+      "clambers",
+      "clambered",
+      "clambering"
+    ],
+    "divvy": [
+      "divvies",
+      "divvied",
+      "divvying"
+    ],
+    "gird": [
+      "girds",
+      "girded",
+      "girt",
+      "girding"
+    ],
+    "impale": [
+      "impales",
+      "impaled",
+      "impaling"
+    ],
+    "reclassify": [
+      "reclassifies",
+      "reclassified",
+      "reclassifying"
+    ],
+    "retool": [
+      "retools",
+      "retooled",
+      "retooling"
+    ],
+    "sputter": [
+      "sputters",
+      "sputtered",
+      "sputtering"
+    ],
+    "stigmatize": [
+      "stigmatizes",
+      "stigmatized",
+      "stigmatizing"
+    ],
+    "televise": [
+      "televises",
+      "televised",
+      "televising"
+    ],
+    "commiserate": [
+      "commiserates",
+      "commiserated",
+      "commiserating"
+    ],
+    "personify": [
+      "personifies",
+      "personified",
+      "personifying"
+    ],
+    "recommit": [
+      "recommits",
+      "recommitted",
+      "recommitting"
+    ],
+    "repossess": [
+      "repossesses",
+      "repossessed",
+      "repossessing"
+    ],
+    "surmount": [
+      "surmounts",
+      "surmounted",
+      "surmounting"
+    ],
+    "typeset": [
+      "typesets"
+    ],
+    "aver": [
+      "avers",
+      "averred",
+      "averring"
+    ],
+    "croon": [
+      "croons",
+      "crooned",
+      "crooning"
+    ],
+    "decant": [
+      "decants",
+      "decanted",
+      "decanting"
+    ],
+    "displease": [
+      "displeases",
+      "displeased",
+      "displeasing"
+    ],
+    "eviscerate": [
+      "eviscerates",
+      "eviscerated",
+      "eviscerating"
+    ],
+    "gladden": [
+      "gladdens",
+      "gladdened",
+      "gladdening"
+    ]
+  },
+  "formsReviewed": true
+}
