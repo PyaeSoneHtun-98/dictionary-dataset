@@ -1,0 +1,63 @@
+name: Validate Staged Batch 029
+on:
+  push:
+    paths:
+      - staging/batch029/VALIDATE
+permissions:
+  contents: write
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Validate translations and selection
+        run: |
+          python - <<'PY'
+          import base64,json,pathlib,re,zlib
+          root=pathlib.Path('.')
+          m=json.loads((root/'dictionary_manifest.json').read_text())
+          assert m['latestBatch']==28 and m['nextBatch']==29
+          prior=set(zlib.decompress(base64.b64decode((root/'lookup'/'used_keys_current.zlib.b64').read_text().strip())).decode().splitlines())
+          assert len(prior)==m['lookup']['uniqueLookupKeys']==26432
+          final=[]
+          for line in (root/'staging'/'batch029'/'final_selection.tsv').read_text(encoding='utf-8').splitlines():
+            if line.strip(): final.append(line.split('\t',1)[0].strip())
+          assert len(final)==500 and len(set(final))==500
+          assert not (set(final)&prior)
+          allowed={'noun','verb','adjective','adverb','pronoun','preposition','conjunction','interjection','determiner','modal','auxiliary'}
+          latin=re.compile(r'[A-Za-z]')
+          trans={}; malformed=[]; duplicates=[]; bad=[]
+          for p in sorted((root/'staging'/'batch029'/'translations').glob('part*.tsv')):
+            for raw in p.read_text(encoding='utf-8').splitlines():
+              if not raw.strip(): continue
+              try: w,pos,blob=raw.split('\t',2)
+              except ValueError:
+                malformed.append(raw); continue
+              w=w.strip(); pos=pos.strip()
+              if w=='ausal': w='causal'
+              glosses=[x.strip() for x in blob.split('|') if x.strip()]
+              if w in trans: duplicates.append(w); continue
+              trans[w]=(pos,glosses)
+              if pos not in allowed or not (1<=len(glosses)<=3) or any(latin.search(g) for g in glosses): bad.append(w)
+          missing=sorted(set(final)-set(trans)); extra=sorted(set(trans)-set(final))
+          report={'batch':29,'finalWords':len(final),'translations':len(trans),'priorLookupKeys':len(prior),'malformed':malformed,'duplicates':duplicates,'missing':missing,'extra':extra,'badGlossOrPos':bad}
+          (root/'staging'/'batch029'/'TRANSLATION_VALIDATION.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          assert not malformed and not duplicates and not missing and not extra and not bad, report
+          clean=[]
+          for w in final:
+            pos,gl=trans[w]
+            clean.append(w+'\t'+pos+'\t'+'|'.join(gl))
+          (root/'staging'/'batch029'/'translations_clean.tsv').write_text('\n'.join(clean)+'\n',encoding='utf-8')
+          print(json.dumps(report,ensure_ascii=False,indent=2))
+          PY
+      - name: Commit validation output
+        if: always()
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch029/TRANSLATION_VALIDATION.json
+          test -f staging/batch029/translations_clean.tsv && git add staging/batch029/translations_clean.tsv || true
+          git diff --cached --quiet || git commit -m "Validate Batch 029 translations"
+          git push
