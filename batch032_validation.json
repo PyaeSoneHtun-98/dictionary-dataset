@@ -1,0 +1,30 @@
+{
+  "batch": 32,
+  "entries": 500,
+  "newForms": 85,
+  "priorLookupKeys": 28109,
+  "uniqueLookupKeys": 28694,
+  "totalHeadwords": 16000,
+  "nextBatch": 33,
+  "ipaFallbackCount": 13,
+  "ipaFallbackWords": [
+    "metastatic",
+    "synchronous",
+    "dielectric",
+    "eponymous",
+    "molar",
+    "neolithic",
+    "reflux",
+    "quadratic",
+    "recombination",
+    "solubility",
+    "wanker",
+    "ocular",
+    "somatic"
+  ],
+  "lookupSha256": "6bcf9a4279cb63b88d4ab6d6a03deaf3cc6e4e1565737c85bbbe3a34d97b12ac",
+  "formsReviewed": true,
+  "droppedProposedForms": [
+    "recasted"
+  ]
+}
