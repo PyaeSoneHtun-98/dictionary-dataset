@@ -1,0 +1,48 @@
+name: Freeze Batch 034 Selection
+
+on:
+  push:
+    paths:
+      - 'staging/batch034/FREEZE'
+
+permissions:
+  contents: write
+
+jobs:
+  freeze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Freeze reviewed 500
+        run: |
+          python - <<'PY'
+          import pathlib
+          root=pathlib.Path('.')
+          cdir=root/'staging'/'batch034'/'candidates'
+          rows=[]
+          for i in range(1,23):
+              rows += [x for x in (cdir/f'candidates_{i:02d}.tsv').read_text(encoding='utf-8').splitlines() if x.strip()]
+          parsed={r.split('\t',1)[0]:r for r in rows}
+          first=[]
+          for i in range(1,11):
+              first += [x for x in (cdir/f'candidates_{i:02d}.tsv').read_text(encoding='utf-8').splitlines() if x.strip()]
+          reject=set('coptic garibaldi honduran pacs pentecostal sodom zimbabwean aramaic chicano hellenic hellenistic landau pollack pounder slung underpaid vips briton foretold gaba holstein malacca spas tagalog fermi gauss haydn mayflower minis salespeople toed wields axed jags mpeg narrates nicaraguan overdone pelham usmc afrikaans bedouin bolivar geordie teflon asgard cossack hani mennonite nist organics pease brahman brahmin'.split())
+          replacements='preemptive pretender proletarian prong prosthesis prosthetics radium rancid recoverable rediscover reorganize royalist selectivity sloop snoopy spotter squint stenosis suffocation tenfold thrall throng togetherness tongs trite vocally wadi wallow wily amine bantam barrack batty bitty blurb buttercup candlestick carcinogenic cation chiffon coaxial conch conveyance crankshaft demarcation desalination dimly discernment disrepair easement extraneous familiarize ferrous gatekeeper'.split()
+          assert len(reject)==54 and len(replacements)==54
+          kept=[r for r in first if r.split('\t',1)[0] not in reject]
+          assert len(kept)==446,len(kept)
+          assert all(w in parsed for w in replacements)
+          final=kept+[parsed[w] for w in replacements]
+          words=[r.split('\t',1)[0] for r in final]
+          assert len(final)==500 and len(set(words))==500
+          assert not (set(words)&reject)
+          (root/'staging'/'batch034'/'final_selection.tsv').write_text('\n'.join(final)+'\n',encoding='utf-8')
+          (root/'staging'/'batch034'/'SELECTION_SUMMARY.txt').write_text(f'kept={len(kept)}\nreplacements={len(replacements)}\nfinal={len(final)}\n',encoding='utf-8')
+          PY
+      - name: Commit selection
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch034/final_selection.tsv staging/batch034/SELECTION_SUMMARY.txt
+          git commit -m 'Freeze Batch 034 selection'
+          git push
