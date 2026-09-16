@@ -1,0 +1,24 @@
+{
+  "batch": 35,
+  "entries": 500,
+  "newForms": 116,
+  "priorLookupKeys": 29859,
+  "uniqueLookupKeys": 30475,
+  "totalHeadwords": 17500,
+  "nextBatch": 36,
+  "ipaFallbackCount": 10,
+  "ipaFallbackWords": [
+    "resection",
+    "wherefore",
+    "associative",
+    "interstitial",
+    "esophageal",
+    "sphincter",
+    "stratification",
+    "modulus",
+    "balsamic",
+    "epithelium"
+  ],
+  "lookupSha256": "7c4134b96c5d11d8bb8f58293d107f3e7efde402dc4500fb2c071f8c3afbe88b",
+  "formsReviewed": true
+}
