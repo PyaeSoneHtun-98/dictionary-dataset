@@ -1,0 +1,663 @@
+[
+  {
+    "rank": 5005,
+    "word": "worry",
+    "partOfSpeech": "noun",
+    "definition": "something or someone that causes anxiety; a source of unhappiness",
+    "cmu": [
+      "W",
+      "ER1",
+      "IY0"
+    ]
+  },
+  {
+    "rank": 5009,
+    "word": "carter",
+    "partOfSpeech": "noun",
+    "definition": "someone whose work is driving carts",
+    "cmu": [
+      "K",
+      "AA1",
+      "R",
+      "T",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 5011,
+    "word": "marc",
+    "partOfSpeech": "noun",
+    "definition": "made from residue of grapes or apples after pressing",
+    "cmu": [
+      "M",
+      "AA1",
+      "R",
+      "K"
+    ]
+  },
+  {
+    "rank": 5022,
+    "word": "paradise",
+    "partOfSpeech": "noun",
+    "definition": "any place of complete bliss and delight and peace",
+    "cmu": [
+      "P",
+      "EH1",
+      "R",
+      "AH0",
+      "D",
+      "AY2",
+      "S"
+    ]
+  },
+  {
+    "rank": 5023,
+    "word": "hybrid",
+    "partOfSpeech": "noun",
+    "definition": "a word that is composed of parts from different languages (e.g., `monolingual' has a Greek prefix and a Latin root)",
+    "cmu": [
+      "HH",
+      "AY1",
+      "B",
+      "R",
+      "AH0",
+      "D"
+    ]
+  },
+  {
+    "rank": 5026,
+    "word": "intermediate",
+    "partOfSpeech": "noun",
+    "definition": "a substance formed during a chemical process before the desired product is obtained",
+    "cmu": [
+      "IH2",
+      "N",
+      "T",
+      "ER0",
+      "M",
+      "IY1",
+      "D",
+      "IY0",
+      "IH0",
+      "T"
+    ]
+  },
+  {
+    "rank": 5029,
+    "word": "leaf",
+    "partOfSpeech": "noun",
+    "definition": "the main organ of photosynthesis and transpiration in higher plants",
+    "cmu": [
+      "L",
+      "IY1",
+      "F"
+    ]
+  },
+  {
+    "rank": 5031,
+    "word": "glory",
+    "partOfSpeech": "noun",
+    "definition": "a state of high honor",
+    "cmu": [
+      "G",
+      "L",
+      "AO1",
+      "R",
+      "IY0"
+    ]
+  },
+  {
+    "rank": 5034,
+    "word": "bigger",
+    "partOfSpeech": "adjective",
+    "definition": "large or big relative to something else",
+    "cmu": [
+      "B",
+      "IH1",
+      "G",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 5039,
+    "word": "overnight",
+    "partOfSpeech": "adjective",
+    "definition": "lasting, open, or operating through the whole night",
+    "cmu": [
+      "OW1",
+      "V",
+      "ER0",
+      "N",
+      "AY1",
+      "T"
+    ]
+  },
+  {
+    "rank": 5040,
+    "word": "geographic",
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to the science of geography",
+    "cmu": [
+      "JH",
+      "IY2",
+      "AH0",
+      "G",
+      "R",
+      "AE1",
+      "F",
+      "IH0",
+      "K"
+    ]
+  },
+  {
+    "rank": 5059,
+    "word": "romantic",
+    "partOfSpeech": "noun",
+    "definition": "a soulful or amorous idealist",
+    "cmu": [
+      "R",
+      "OW0",
+      "M",
+      "AE1",
+      "N",
+      "T",
+      "IH0",
+      "K"
+    ]
+  },
+  {
+    "rank": 5065,
+    "word": "jimmy",
+    "partOfSpeech": "noun",
+    "definition": "a short crowbar",
+    "cmu": [
+      "JH",
+      "IH1",
+      "M",
+      "IY0"
+    ]
+  },
+  {
+    "rank": 5066,
+    "word": "graham",
+    "partOfSpeech": "noun",
+    "definition": "flour made by grinding the entire wheat berry including the bran; (`whole meal flour' is British usage)",
+    "cmu": [
+      "G",
+      "R",
+      "EY1",
+      "AH0",
+      "M"
+    ]
+  },
+  {
+    "rank": 5074,
+    "word": "slowly",
+    "partOfSpeech": "adverb",
+    "definition": "without speed (`slow' is sometimes used informally for `slowly')",
+    "cmu": [
+      "S",
+      "L",
+      "OW1",
+      "L",
+      "IY0"
+    ]
+  },
+  {
+    "rank": 5087,
+    "word": "grounds",
+    "partOfSpeech": "noun",
+    "definition": "your basis for belief or disbelief; knowledge on which to base belief",
+    "cmu": [
+      "G",
+      "R",
+      "AW1",
+      "N",
+      "D",
+      "Z"
+    ]
+  },
+  {
+    "rank": 5091,
+    "word": "meal",
+    "partOfSpeech": "noun",
+    "definition": "the food served and eaten at one time",
+    "cmu": [
+      "M",
+      "IY1",
+      "L"
+    ]
+  },
+  {
+    "rank": 5096,
+    "word": "unlike",
+    "partOfSpeech": "adjective",
+    "definition": "marked by dissimilarity",
+    "cmu": [
+      "AH0",
+      "N",
+      "L",
+      "AY1",
+      "K"
+    ]
+  },
+  {
+    "rank": 5102,
+    "word": "wright",
+    "partOfSpeech": "noun",
+    "definition": "someone who makes or repairs something (usually used in combination)",
+    "cmu": [
+      "R",
+      "AY1",
+      "T"
+    ]
+  },
+  {
+    "rank": 5109,
+    "word": "warren",
+    "partOfSpeech": "noun",
+    "definition": "a series of connected underground tunnels occupied by rabbits",
+    "cmu": [
+      "W",
+      "AO1",
+      "R",
+      "AH0",
+      "N"
+    ]
+  },
+  {
+    "rank": 5112,
+    "word": "reviewer",
+    "partOfSpeech": "noun",
+    "definition": "someone who reads manuscripts and judges their suitability for publication",
+    "cmu": [
+      "R",
+      "IY0",
+      "V",
+      "Y",
+      "UW1",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 5114,
+    "word": "quarterly",
+    "partOfSpeech": "noun",
+    "definition": "a periodical that is published every quarter (or four issues per year)",
+    "cmu": [
+      "K",
+      "W",
+      "AO1",
+      "R",
+      "T",
+      "ER0",
+      "L",
+      "IY0"
+    ]
+  },
+  {
+    "rank": 5116,
+    "word": "profits",
+    "partOfSpeech": "noun",
+    "definition": "the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)",
+    "cmu": [
+      "P",
+      "R",
+      "AA1",
+      "F",
+      "IH0",
+      "T",
+      "S"
+    ]
+  },
+  {
+    "rank": 5117,
+    "word": "devil",
+    "partOfSpeech": "noun",
+    "definition": "an evil supernatural being",
+    "cmu": [
+      "D",
+      "EH1",
+      "V",
+      "AH0",
+      "L"
+    ]
+  },
+  {
+    "rank": 5118,
+    "word": "grass",
+    "partOfSpeech": "noun",
+    "definition": "narrow-leaved green herbage: grown as lawns; used as pasture for grazing animals; cut and dried as hay",
+    "cmu": [
+      "G",
+      "R",
+      "AE1",
+      "S"
+    ]
+  },
+  {
+    "rank": 5124,
+    "word": "continental",
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to or concerning the American colonies during and immediately after the American Revolutionary War",
+    "cmu": [
+      "K",
+      "AA2",
+      "N",
+      "T",
+      "AH0",
+      "N",
+      "EH1",
+      "N",
+      "T",
+      "AH0",
+      "L"
+    ]
+  },
+  {
+    "rank": 5162,
+    "word": "swing",
+    "partOfSpeech": "noun",
+    "definition": "a state of steady vigorous action that is characteristic of an activity",
+    "cmu": [
+      "S",
+      "W",
+      "IH1",
+      "NG"
+    ]
+  },
+  {
+    "rank": 5166,
+    "word": "humans",
+    "partOfSpeech": "noun",
+    "definition": "all of the living human inhabitants of the earth",
+    "cmu": [
+      "HH",
+      "Y",
+      "UW1",
+      "M",
+      "AH0",
+      "N",
+      "Z"
+    ]
+  },
+  {
+    "rank": 5170,
+    "word": "talent",
+    "partOfSpeech": "noun",
+    "definition": "natural abilities or qualities",
+    "cmu": [
+      "T",
+      "AE1",
+      "L",
+      "AH0",
+      "N",
+      "T"
+    ]
+  },
+  {
+    "rank": 5173,
+    "word": "seeker",
+    "partOfSpeech": "noun",
+    "definition": "someone making a search or inquiry",
+    "cmu": [
+      "S",
+      "IY1",
+      "K",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 5179,
+    "word": "offset",
+    "partOfSpeech": "noun",
+    "definition": "the time at which something is supposed to begin",
+    "cmu": [
+      "AO0",
+      "F",
+      "S",
+      "EH1",
+      "T"
+    ]
+  },
+  {
+    "rank": 5180,
+    "word": "payday",
+    "partOfSpeech": "noun",
+    "definition": "the day on which you receive pay for your work",
+    "cmu": [
+      "P",
+      "EY1",
+      "D",
+      "EY2"
+    ]
+  },
+  {
+    "rank": 5182,
+    "word": "elite",
+    "partOfSpeech": "noun",
+    "definition": "a group or class of persons enjoying superior intellectual or social or economic status",
+    "cmu": [
+      "IH0",
+      "L",
+      "IY1",
+      "T"
+    ]
+  },
+  {
+    "rank": 5184,
+    "word": "spin",
+    "partOfSpeech": "noun",
+    "definition": "a swift whirling motion (usually of a missile)",
+    "cmu": [
+      "S",
+      "P",
+      "IH1",
+      "N"
+    ]
+  },
+  {
+    "rank": 5194,
+    "word": "collins",
+    "partOfSpeech": "noun",
+    "definition": "tall iced drink of liquor (usually gin) with fruit juice",
+    "cmu": [
+      "K",
+      "AA1",
+      "L",
+      "IH0",
+      "N",
+      "Z"
+    ]
+  },
+  {
+    "rank": 5200,
+    "word": "powder",
+    "partOfSpeech": "noun",
+    "definition": "a solid substance in the form of tiny loose particles; a solid that has been pulverized",
+    "cmu": [
+      "P",
+      "AW1",
+      "D",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 5204,
+    "word": "wash",
+    "partOfSpeech": "noun",
+    "definition": "a thin coat of water-base paint",
+    "cmu": [
+      "W",
+      "AA1",
+      "SH"
+    ]
+  },
+  {
+    "rank": 5208,
+    "word": "gnome",
+    "partOfSpeech": "noun",
+    "definition": "a legendary creature resembling a tiny old man; lives in the depths of the earth and guards buried treasure",
+    "cmu": [
+      "N",
+      "OW1",
+      "M"
+    ]
+  },
+  {
+    "rank": 5225,
+    "word": "knight",
+    "partOfSpeech": "noun",
+    "definition": "originally a person of noble birth trained to arms and chivalry; today in Great Britain a person honored by the sovereign for personal merit",
+    "cmu": [
+      "N",
+      "AY1",
+      "T"
+    ]
+  },
+  {
+    "rank": 5238,
+    "word": "southeast",
+    "partOfSpeech": "noun",
+    "definition": "the compass point midway between south and east; at 135 degrees",
+    "cmu": [
+      "S",
+      "AW2",
+      "TH",
+      "IY1",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "rank": 5242,
+    "word": "pending",
+    "partOfSpeech": "adjective",
+    "definition": "awaiting conclusion or confirmation",
+    "cmu": [
+      "P",
+      "EH1",
+      "N",
+      "D",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "rank": 5246,
+    "word": "corp",
+    "partOfSpeech": "noun",
+    "definition": "a business firm whose articles of incorporation have been approved in some state",
+    "cmu": [
+      "K",
+      "AO1",
+      "R",
+      "P"
+    ]
+  },
+  {
+    "rank": 5252,
+    "word": "teenage",
+    "partOfSpeech": "adjective",
+    "definition": "being of the age 13 through 19",
+    "cmu": [
+      "T",
+      "IY1",
+      "N",
+      "EY2",
+      "JH"
+    ]
+  },
+  {
+    "rank": 5253,
+    "word": "soap",
+    "partOfSpeech": "noun",
+    "definition": "a cleansing agent made from the salts of vegetable or animal fats",
+    "cmu": [
+      "S",
+      "OW1",
+      "P"
+    ]
+  },
+  {
+    "rank": 5255,
+    "word": "triple",
+    "partOfSpeech": "noun",
+    "definition": "a base hit at which the batter stops safely at third base",
+    "cmu": [
+      "T",
+      "R",
+      "IH1",
+      "P",
+      "AH0",
+      "L"
+    ]
+  },
+  {
+    "rank": 5256,
+    "word": "cooper",
+    "partOfSpeech": "noun",
+    "definition": "a craftsman who makes or repairs wooden barrels or tubs",
+    "cmu": [
+      "K",
+      "UW1",
+      "P",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 5271,
+    "word": "basically",
+    "partOfSpeech": "adverb",
+    "definition": "in essence; at bottom or by one's (or its) very nature",
+    "cmu": [
+      "B",
+      "EY1",
+      "S",
+      "IH0",
+      "K",
+      "L",
+      "IY0"
+    ]
+  },
+  {
+    "rank": 5283,
+    "word": "median",
+    "partOfSpeech": "noun",
+    "definition": "the value below which 50% of the cases fall",
+    "cmu": [
+      "M",
+      "IY1",
+      "D",
+      "IY0",
+      "AH0",
+      "N"
+    ]
+  },
+  {
+    "rank": 5286,
+    "word": "herein",
+    "partOfSpeech": "adverb",
+    "definition": "in this place or thing or document",
+    "cmu": [
+      "HH",
+      "IH0",
+      "R",
+      "IH1",
+      "N"
+    ]
+  },
+  {
+    "rank": 5289,
+    "word": "horny",
+    "partOfSpeech": "adjective",
+    "definition": "feeling great sexual desire",
+    "cmu": [
+      "HH",
+      "AO1",
+      "R",
+      "N",
+      "IY0"
+    ]
+  }
+]
