@@ -1,0 +1,46 @@
+{
+  "batch": 38,
+  "entries": 500,
+  "newForms": 103,
+  "priorLookupKeys": 31745,
+  "uniqueLookupKeys": 32348,
+  "totalHeadwords": 19000,
+  "nextBatch": 39,
+  "ipaFallbackCount": 15,
+  "ipaFallbackWords": [
+    "magus",
+    "siesta",
+    "conceptualize",
+    "ganglion",
+    "moiety",
+    "tachycardia",
+    "brut",
+    "chatroom",
+    "naan",
+    "poetical",
+    "solute",
+    "southpaw",
+    "covariance",
+    "maxillary",
+    "portmanteau"
+  ],
+  "lookupSha256": "1197644a8dc78666c0082892998ae6c5569a859e82e34dd3528f61f5096876e8",
+  "formsReviewed": true,
+  "selectionRepair": {
+    "dropped": "thins",
+    "added": "glazer"
+  },
+  "formCorrections": {
+    "redevelop": {
+      "dropped": [
+        "redevelopped",
+        "redevelopping"
+      ],
+      "kept": [
+        "redevelops",
+        "redeveloped",
+        "redeveloping"
+      ]
+    }
+  }
+}

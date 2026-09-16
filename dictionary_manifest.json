@@ -4,10 +4,10 @@
   "targetHeadwords": 30000,
   "targetBatches": 60,
   "entriesPerBatch": 500,
-  "latestBatch": 37,
-  "nextBatch": 38,
-  "batchCount": 37,
-  "totalHeadwords": 18500,
+  "latestBatch": 38,
+  "nextBatch": 39,
+  "batchCount": 38,
+  "totalHeadwords": 19000,
   "repositoryBatchesStartAt": 24,
   "historicalBatches": {
     "from": 1,
@@ -18,11 +18,11 @@
   "lookup": {
     "path": "lookup/used_keys_current.zlib.b64",
     "encoding": "base64(zlib(utf8 newline-separated keys))",
-    "throughBatch": 37,
-    "uniqueLookupKeys": 31745,
-    "uniqueHeadwords": 18500,
-    "uniqueStoredForms": 13291,
-    "sha256": "0839bda7c94d26b023ddc1662805440bac9517094bfb38b0f50935ee68c368d0"
+    "throughBatch": 38,
+    "uniqueLookupKeys": 32348,
+    "uniqueHeadwords": 19000,
+    "uniqueStoredForms": 13394,
+    "sha256": "1197644a8dc78666c0082892998ae6c5569a859e82e34dd3528f61f5096876e8"
   },
   "batchFilenamePattern": "Batches/dictionary_batch_XXX.json",
   "status": "active"
