@@ -1,0 +1,112 @@
+name: Select Batch 041 Candidates
+
+on:
+  push:
+    paths:
+      - 'staging/batch041/SELECT'
+
+permissions:
+  contents: write
+
+jobs:
+  select:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install lexical resources
+        run: |
+          python -m pip install --quiet wordfreq nltk cmudict lemminflect
+          python - <<'PY'
+          import nltk
+          nltk.download('wordnet', quiet=True)
+          nltk.download('names', quiet=True)
+          PY
+      - name: Build strict candidate pool
+        run: |
+          python - <<'PY'
+          import base64, hashlib, json, pathlib, re, zlib
+          from wordfreq import iter_wordlist, zipf_frequency
+          from nltk.corpus import wordnet as wn, names
+          import cmudict
+          from lemminflect import getLemma
+
+          root=pathlib.Path('.')
+          m=json.loads((root/'dictionary_manifest.json').read_text(encoding='utf-8'))
+          assert m['latestBatch']==40 and m['nextBatch']==41 and m['batchCount']==40 and m['totalHeadwords']==20000
+          assert m['lookup']['throughBatch']==40 and m['lookup']['uniqueLookupKeys']==33591 and m['lookup']['uniqueHeadwords']==20000 and m['lookup']['uniqueStoredForms']==13637
+          enc=(root/'lookup/used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          assert hashlib.sha256(enc.encode()).hexdigest()==m['lookup']['sha256']=='74b0ec35a49b03ab42765b5dd87704d4245cec7625e36aad3eeb5f6761568916'
+          prior=set(zlib.decompress(base64.b64decode(enc)).decode('utf-8').splitlines()); assert len(prior)==33591
+          pronunciations=cmudict.dict()
+          person_names={x.lower() for x in names.words()}
+
+          deny=set('''altair managua hondo kissimmee andalusian livonia moldovan charlottetown corsican aqaba arapahoe sidon suva cobol humvee lasik joule freemason stalinism purim taoiseach zippo minuteman blackfoot somalian chippendale genovese hippocratic bernoulli curacao espana rask gehrig shylock taoism anatolian clydesdale precambrian
+          organics pease hawes parkes adrenalin cockney knesset sputnik stanhope agua airforce stank debs mormonism fora jewry campion delft prozac bahraini ephesus mujahideen taos rorschach salvadoran xhosa eldorado elysium pentecostal sodom hellenic hellenistic landau gaba holstein malacca usmc hausa sputnik israelite stalinist azerbaijani neapolitan sind styrofoam teutonic benedictine cochin shona tajik bahraini hmong
+          esperanto lisle caesarean jacobite druze pythagorean leninism rankine hutu tutsi cortland capra hansard superfund tabasco croat moravian ashkenazi manx fulani masai romani turkic ritalin'''.split())
+          bad_exact=set('''gass ruf soli trine emporia consortia memoranda herdsmen fila gild shew begat'''.split())
+          bad_defs=('capital of ','largest city','city in ','river of ','island of ','born ','died ','baseball player','genus ','family of ','native or resident','member of a people','language spoken','official language','currency of ','monetary unit','brand name','trademark','surname','given name','a terrorist group','militiaman prior to')
+          properish=re.compile(r'\b[A-Z][a-z]+(?:\s+[A-Z][a-z]+)+\b')
+
+          def clean_word(w):
+              return 3<=len(w)<=18 and w.isascii() and w.isalpha() and w==w.lower() and w not in prior and w not in deny and w not in bad_exact and w not in person_names
+          def source(w):
+              syns=wn.synsets(w)
+              if not syns: return None
+              # Prefer a synset whose lemma exactly matches and an ordinary lexical POS.
+              for s in syns:
+                  pos={'n':'noun','v':'verb','a':'adjective','s':'adjective','r':'adverb'}.get(s.pos())
+                  if not pos: continue
+                  lemmas={l.name().lower().replace('_','') for l in s.lemmas()}
+                  if w not in lemmas: continue
+                  d=s.definition()
+                  dl=d.lower()
+                  if any(x in dl for x in bad_defs): continue
+                  if properish.search(d) and ('named after' in dl or 'city' in dl or 'river' in dl or 'island' in dl): continue
+                  return pos,d
+              return None
+          def obvious_inflection(w,pos):
+              # Reject common finite/plural forms when lemminflect identifies another base lemma.
+              tagmap={'noun':['NNS'],'verb':['VBZ','VBD','VBN','VBG']}
+              for tag in tagmap.get(pos,[]):
+                  ls=getLemma(w,upos='NOUN' if pos=='noun' else 'VERB') or ()
+                  if any(x.lower()!=w and x.lower() in wn.words() for x in ls):
+                      return True
+              if pos=='noun' and w.endswith('s') and not w.endswith(('ss','us','is')):
+                  ls=getLemma(w,upos='NOUN') or ()
+                  if any(x.lower()!=w for x in ls): return True
+              return False
+
+          out=[]; seen=set()
+          for w in iter_wordlist('en'):
+              w=w.lower().strip()
+              if w in seen or not clean_word(w): continue
+              z=zipf_frequency(w,'en')
+              if z>2.49: continue
+              if z<1.80: break
+              if w not in pronunciations: continue
+              src=source(w)
+              if not src: continue
+              pos,d=src
+              if obvious_inflection(w,pos): continue
+              # extra suffix screen for obvious derived finite forms at this depth
+              if pos!='noun' and w.endswith(('ing','ed')):
+                  ls=getLemma(w,upos='VERB') or ()
+                  if any(x.lower()!=w for x in ls): continue
+              phones=' '.join(pronunciations[w][0])
+              out.append((w,pos,z,phones,d)); seen.add(w)
+              if len(out)>=1900: break
+          assert len(out)==1900,len(out)
+          cdir=root/'staging'/'batch041'/'candidates'; cdir.mkdir(parents=True,exist_ok=True)
+          for i in range(0,len(out),50):
+              chunk=out[i:i+50]
+              (cdir/f'candidates_{i//50+1:02d}.tsv').write_text('\n'.join(f'{w}\t{p}\t{z:.2f}\t{ph}\t{d}' for w,p,z,ph,d in chunk)+'\n',encoding='utf-8')
+          (root/'staging'/'batch041'/'CANDIDATE_SUMMARY.json').write_text(json.dumps({'batch':41,'priorLookupKeys':len(prior),'candidateCount':len(out),'zipfMax':out[0][2],'zipfMin':out[-1][2]},indent=2)+'\n')
+          print('generated',len(out),out[0][2],out[-1][2])
+          PY
+      - name: Commit candidates
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch041/candidates staging/batch041/CANDIDATE_SUMMARY.json
+          git commit -m 'Stage Batch 041 candidates'
+          git push
