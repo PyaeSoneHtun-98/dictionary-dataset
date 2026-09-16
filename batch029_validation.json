@@ -1,0 +1,15 @@
+{
+  "batch": 29,
+  "entries": 500,
+  "newForms": 67,
+  "priorLookupKeys": 26432,
+  "uniqueLookupKeys": 26999,
+  "totalHeadwords": 14500,
+  "nextBatch": 30,
+  "ipaFallbackCount": 2,
+  "ipaFallbackWords": [
+    "anon",
+    "twat"
+  ],
+  "lookupSha256": "2d322e24c05b3999c758f13c802fc2dc9b198a804fb8ef3151258ffaf584ad4a"
+}
