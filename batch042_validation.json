@@ -1,0 +1,61 @@
+{
+  "batch": 42,
+  "entries": 500,
+  "newForms": 181,
+  "priorLookupKeys": 34175,
+  "uniqueLookupKeys": 34856,
+  "totalHeadwords": 21000,
+  "nextBatch": 43,
+  "ipaFallbackCount": 8,
+  "ipaFallbackWords": [
+    "speakerphone",
+    "wintergreen",
+    "charcuterie",
+    "patois",
+    "demesne",
+    "hydrocephalus",
+    "strudel",
+    "declension"
+  ],
+  "lookupSha256": "71da023f8e769f4181873bd57c6ffa8a506f7eb3e3b039a8ad12923a5df174cf",
+  "formsReviewed": true,
+  "selectionReview": {
+    "retained": 454,
+    "replacements": 46,
+    "secondSweepReplacements": 4
+  },
+  "formCorrections": {
+    "imperil": {
+      "removed": [
+        "imperilled",
+        "imperilling"
+      ],
+      "kept": [
+        "imperils",
+        "imperiled",
+        "imperiling"
+      ]
+    },
+    "pummel": {
+      "removed": [
+        "pummelled",
+        "pummelling"
+      ],
+      "kept": [
+        "pummels",
+        "pummeled",
+        "pummeling"
+      ]
+    },
+    "rebroadcast": {
+      "removed": [
+        "rebroadcasted"
+      ],
+      "kept": [
+        "rebroadcasts",
+        "rebroadcasting"
+      ],
+      "note": "past and past participle use the unchanged headword and are not stored as forms"
+    }
+  }
+}
