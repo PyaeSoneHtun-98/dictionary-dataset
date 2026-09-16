@@ -1,0 +1,67 @@
+name: Diagnose Batch 026 Finalizer
+
+on:
+  push:
+    paths:
+      - 'staging/batch026/DIAGNOSE_FINAL'
+
+permissions:
+  contents: write
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install helpers
+        run: python -m pip install --quiet lemminflect eng-to-ipa
+      - name: Diagnose
+        run: |
+          python - <<'PY'
+          import base64, hashlib, json, pathlib, traceback, zlib, re
+          import eng_to_ipa as e2i
+          root=pathlib.Path('.')
+          out=[]
+          try:
+              manifest=json.loads((root/'dictionary_manifest.json').read_text())
+              enc=(root/'lookup'/'used_keys_current.zlib.b64').read_text().strip()
+              old=zlib.decompress(base64.b64decode(enc)); prior=set(old.decode().splitlines())
+              out.append(f"manifest_next={manifest['nextBatch']}")
+              out.append(f"prior={len(prior)} manifest={manifest['lookup']['uniqueLookupKeys']}")
+              out.append(f"sha_actual={hashlib.sha256(old).hexdigest()}")
+              out.append(f"sha_manifest={manifest['lookup']['sha256']}")
+              selected=[]; reserve=[]
+              for kind,target in [('selected',selected),('reserve',reserve)]:
+                  for p in sorted(root.glob(f'staging/batch026/selected_v2/{kind}_*.tsv')):
+                      for line in p.read_text().splitlines():
+                          if line.strip(): target.append(line.split('\t',1)[0].strip())
+              out.append(f'selected={len(selected)} reserve={len(reserve)}')
+              denied={'macintosh','murphy','teeth','bobby','jeep','donna','beth','batman','thrown','sally','griffin','chevy','brent','molly','napa','superman'}
+              repl=['onset','assay','slam','plaque','scenery','proliferation','trilogy','brightness','enjoyment','correspond','robotics','vibrant','propagation','purification','hardback','tote']
+              final=[w for w in selected if w not in denied]+repl
+              out.append(f'final={len(final)} unique={len(set(final))} denied_found={len(set(selected)&denied)}')
+              trans={}; duplicates=[]
+              for p in sorted((root/'staging'/'batch026'/'translations').glob('*.tsv')):
+                  for line in p.read_text().splitlines():
+                      if not line.strip(): continue
+                      w=line.split('\t',1)[0].strip()
+                      if w in trans: duplicates.append(w)
+                      trans[w]=str(p)
+              out.append(f'translations={len(trans)} duplicate_translations={duplicates}')
+              out.append(f'missing={sorted(set(final)-set(trans))}')
+              out.append(f'extra={sorted(set(trans)-set(final))}')
+              for test in ['inter','mall','correspond']:
+                  try: out.append(f'ipa_{test}={e2i.convert(test, stress_marks="both")}')
+                  except Exception as e: out.append(f'ipa_error_{test}={type(e).__name__}:{e}')
+          except Exception:
+              out.append(traceback.format_exc())
+          (root/'staging'/'batch026'/'FINAL_DIAGNOSTIC.txt').write_text('\n'.join(out)+'\n')
+          print('\n'.join(out))
+          PY
+      - name: Commit diagnostic
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch026/FINAL_DIAGNOSTIC.txt
+          git commit -m 'Diagnose Batch 026 finalizer'
+          git push
