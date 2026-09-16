@@ -1,0 +1,25 @@
+{
+  "batch": 31,
+  "entries": 500,
+  "newForms": 47,
+  "priorLookupKeys": 27562,
+  "uniqueLookupKeys": 28109,
+  "totalHeadwords": 15500,
+  "nextBatch": 32,
+  "ipaFallbackCount": 11,
+  "ipaFallbackWords": [
+    "taxonomy",
+    "oxidative",
+    "extracellular",
+    "subunit",
+    "genealogical",
+    "dynamically",
+    "jailbreak",
+    "tensor",
+    "intracellular",
+    "synaptic",
+    "landline"
+  ],
+  "lookupSha256": "94ae95ef65c217ff1d5e2667198a53dd0036f92fda22b6172ede7a8ce7530882",
+  "formsReviewed": true
+}
