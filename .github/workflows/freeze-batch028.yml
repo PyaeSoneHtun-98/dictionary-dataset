@@ -1,0 +1,54 @@
+name: Freeze Batch 028 Selection
+
+on:
+  push:
+    paths:
+      - 'staging/batch028/FREEZE'
+
+permissions:
+  contents: write
+
+jobs:
+  freeze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Freeze exact 500 words
+        run: |
+          python - <<'PY'
+          import pathlib, json
+          root=pathlib.Path('.')
+          src=root/'staging'/'batch028'/'candidates_v2'
+          rows=[]
+          for i in range(1,11):
+              for raw in (src/f'candidates_{i:02d}.tsv').read_text(encoding='utf-8').splitlines():
+                  if raw.strip():
+                      parts=raw.split('\t',4); rows.append(parts)
+          denied=set('haired brent dell toby kris sonny dicks malik reps tabs ness jasper baba springer demographics erica milo veronica amelia dealings dolly kylie sawyer specs chevy rappers fellas haters legged marcel bodied raptors mater veggies bowman slater underwood mens wally flavored fuckers wrought dirk pharma blanc boomers bots deco amir greenwood sherry hobbit'.split())
+          replacements='cleric directional divergent downright expansive fife infancy plainly rumour sixteenth spawn suffrage surrogate treatise waltz butch contour decidedly douche futuristic inclination inward launcher lessen lifespan longitudinal loosen masculinity midday morphine pelvic pigment racially saturation tart ting transformer centennial cosmopolitan deductible diagonal felicity fodder hump incest legitimately magically materially modernization noticeably overrun porno'.split()
+          reserve={}
+          for i in range(11,21):
+              p=src/f'candidates_{i:02d}.tsv'
+              if not p.exists(): continue
+              for raw in p.read_text(encoding='utf-8').splitlines():
+                  if raw.strip():
+                      parts=raw.split('\t',4); reserve[parts[0]]=parts
+          assert len(rows)==500
+          assert len(denied)==52 and len(replacements)==52
+          assert all(w in reserve for w in replacements)
+          final=[r for r in rows if r[0] not in denied]+[reserve[w] for w in replacements]
+          words=[r[0] for r in final]
+          assert len(final)==500 and len(set(words))==500, (len(final),len(set(words)))
+          out=root/'staging'/'batch028'/'selected'; out.mkdir(parents=True,exist_ok=True)
+          for i in range(0,500,50):
+              ch=final[i:i+50]
+              (out/f'selected_{i//50+1:02d}.tsv').write_text('\n'.join('\t'.join(x) for x in ch)+'\n',encoding='utf-8')
+          (out/'SUMMARY.json').write_text(json.dumps({'count':500,'denied':sorted(denied),'replacements':replacements},indent=2)+'\n',encoding='utf-8')
+          PY
+      - name: Commit final selection
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch028/selected
+          git commit -m 'Freeze Batch 028 headword selection'
+          git push
