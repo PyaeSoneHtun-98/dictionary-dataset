@@ -1,0 +1,111 @@
+name: Select Batch 026 Final Headwords
+
+on:
+  push:
+    paths:
+      - 'staging/batch026/SELECT_FINAL'
+
+permissions:
+  contents: write
+
+jobs:
+  select:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install lexical resources
+        run: |
+          python -m pip install --quiet nltk cmudict lemminflect
+          python - <<'PY'
+          import nltk
+          nltk.download('wordnet', quiet=True)
+          PY
+      - name: Select final unused canonical headwords
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, urllib.request, zlib, re
+          from nltk.corpus import wordnet as wn
+          from lemminflect import getLemma
+          import cmudict
+
+          root=pathlib.Path('.')
+          lookup=(root/'lookup'/'used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          prior={x for x in zlib.decompress(base64.b64decode(lookup)).decode('utf-8').splitlines() if x}
+          words=urllib.request.urlopen('https://raw.githubusercontent.com/first20hours/google-10000-english/master/20k.txt',timeout=30).read().decode().splitlines()
+          cmu=cmudict.dict()
+          pos_order=[wn.NOUN,wn.VERB,wn.ADJ,wn.ADV]
+          pos_name={wn.NOUN:'noun',wn.VERB:'verb',wn.ADJ:'adjective',wn.ADV:'adverb'}
+          upos={wn.NOUN:'NOUN',wn.VERB:'VERB',wn.ADJ:'ADJ',wn.ADV:'ADV'}
+          blacklist={
+            'dildo','porn','porno','milf','pussy','cock','incest','phentermine','corp','ltd','inc','www','email','emails',
+            'html','http','https','jpeg','jpg','gif','php','dvd','dvds','mp3','ipod','xbox','linux','unix','ascii','isbn',
+            'blog','blogs','webpage','website','websites','paypal','ebay','yahoo','google','microsoft','sony','nokia','samsung',
+            'facebook','twitter','instagram','youtube','amazon','wordpress','download','downloads','upload','uploads',
+            'marc','graham','jimmy','collins'
+          }
+
+          def is_named_anywhere(w):
+              for syn in wn.synsets(w):
+                  if syn.instance_hypernyms(): return True
+                  for l in syn.lemmas():
+                      if l.name().lower()==w and l.name()[:1].isupper(): return True
+              return False
+
+          rows=[]; seen=set()
+          for rank,w in enumerate(words,1):
+              w=w.strip().lower()
+              if rank < 4500 or w in seen or w in prior or w in blacklist: continue
+              seen.add(w)
+              if not w.isascii() or not w.isalpha() or len(w)<4 or len(w)>16 or w not in cmu: continue
+              if is_named_anywhere(w): continue
+              chosen=None
+              for pos in pos_order:
+                  syns=wn.synsets(w,pos=pos)
+                  if not syns: continue
+                  lemmas=getLemma(w,upos[pos]) or ()
+                  if lemmas and lemmas[0].lower()!=w: continue
+                  # Reject obvious inflected nouns/adjectives even when lexical resources list them independently.
+                  if pos==wn.NOUN and w.endswith('s') and not w.endswith(('ss','us','is')):
+                      sg=(getLemma(w,'NOUN') or (w,))[0].lower()
+                      if sg!=w: continue
+                  if pos==wn.ADJ and (w.endswith('er') or w.endswith('est')):
+                      base=(getLemma(w,'ADJ') or (w,))[0].lower()
+                      if base!=w: continue
+                  exact_syn=None
+                  for syn in syns:
+                      if any(l.name().lower()==w for l in syn.lemmas()):
+                          exact_syn=syn; break
+                  if exact_syn:
+                      chosen=(pos,exact_syn); break
+              if not chosen: continue
+              pos,syn=chosen
+              # Filter obvious URL/file/code artifacts and tokens that look abbreviated.
+              if re.search(r'(ware|soft|online|hosting|server|domain|forum|toolbar)$',w) and rank>9000: continue
+              rows.append({'rank':rank,'word':w,'partOfSpeech':pos_name[pos],'definition':syn.definition(),'cmu':cmu[w][0]})
+              if len(rows)>=600: break
+
+          assert len(rows)>=550, len(rows)
+          selected=rows[:500]
+          reserve=rows[500:600]
+          outdir=root/'staging'/'batch026'/'selected'
+          outdir.mkdir(parents=True,exist_ok=True)
+          for p in outdir.glob('*'): p.unlink()
+          for label,data in [('selected',selected),('reserve',reserve)]:
+              for i in range(0,len(data),50):
+                  part=data[i:i+50]
+                  lines=[]
+                  for r in part:
+                      phones=' '.join(r['cmu'])
+                      definition=r['definition'].replace('\t',' ').replace('\n',' ')
+                      lines.append(f"{r['word']}\t{r['partOfSpeech']}\t{phones}\t{definition}")
+                  (outdir/f'{label}_{i//50+1:02d}.tsv').write_text('\n'.join(lines)+'\n',encoding='utf-8')
+          (outdir/'SUMMARY.txt').write_text(f'selected={len(selected)}\nreserve={len(reserve)}\nfirst={selected[0]["word"]}\nlast={selected[-1]["word"]}\n',encoding='utf-8')
+          print('selected',len(selected),'reserve',len(reserve))
+          PY
+      - name: Commit selection
+        run: |
+          git config user.name "dictionary-dataset-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add staging/batch026/selected
+          git commit -m "Select final Batch 026 headwords"
+          git push
