@@ -1,0 +1,69 @@
+name: Review Batch 042 Forms
+
+on:
+  push:
+    paths:
+      - 'staging/batch042/FORMS'
+
+permissions:
+  contents: write
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Freeze manually reviewed forms
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, zlib
+          root=pathlib.Path('.')
+          m=json.loads((root/'dictionary_manifest.json').read_text())
+          assert m['latestBatch']==41 and m['nextBatch']==42 and m['lookup']['uniqueLookupKeys']==34175
+          prior=set(zlib.decompress(base64.b64decode((root/'lookup/used_keys_current.zlib.b64').read_text().strip())).decode().splitlines())
+          assert len(prior)==34175
+          sel=[x for x in (root/'staging/batch042/final_selection.tsv').read_text(encoding='utf-8').splitlines() if x.strip()]
+          headset={x.split('\t',1)[0].strip() for x in sel}; assert len(headset)==500
+          dry=json.loads((root/'staging/batch042/ASSEMBLY_DRYRUN.json').read_text(encoding='utf-8'))
+          assert dry['batch']==42 and dry['verbCount']==62 and dry['proposedFormCount']==186
+          forms={k:list(v) for k,v in dry['verbForms'].items()}
+
+          assert forms['imperil']==['imperils','imperiled','imperilled','imperiling','imperilling']
+          forms['imperil']=['imperils','imperiled','imperiling']
+          assert forms['pummel']==['pummels','pummeled','pummelled','pummeling','pummelling']
+          forms['pummel']=['pummels','pummeled','pummeling']
+          assert forms['rebroadcast']==['rebroadcasts','rebroadcasted','rebroadcasting']
+          forms['rebroadcast']=['rebroadcasts','rebroadcasting']
+          assert forms['typecast']==['typecasts','typecasting']
+          assert forms['foretell']==['foretells','foretold','foretelling']
+
+          flat=[]
+          for w,vals in forms.items():
+              assert w in headset and len(vals)==len(set(vals))
+              for f in vals:
+                  assert f.isascii() and f.isalpha() and f==f.lower()
+                  assert f!=w and f not in prior and f not in headset
+                  flat.append(f)
+          assert len(flat)==181 and len(set(flat))==181
+          report={
+            'batch':42,
+            'verbCount':len(forms),
+            'reviewedFormCount':len(flat),
+            'corrections':{
+              'imperil':{'removed':['imperilled','imperilling'],'kept':['imperils','imperiled','imperiling']},
+              'pummel':{'removed':['pummelled','pummelling'],'kept':['pummels','pummeled','pummeling']},
+              'rebroadcast':{'removed':['rebroadcasted'],'kept':['rebroadcasts','rebroadcasting'],'note':'past and past participle use the unchanged headword and are not stored as forms'}
+            },
+            'verbForms':forms,
+            'formsReviewed':True
+          }
+          (root/'staging/batch042/REVIEWED_FORMS.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print(json.dumps({'verbCount':len(forms),'reviewedFormCount':len(flat),'corrections':report['corrections']},indent=2))
+          PY
+      - name: Commit reviewed forms
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch042/REVIEWED_FORMS.json
+          git commit -m 'Review Batch 042 forms'
+          git push
