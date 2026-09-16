@@ -1,0 +1,49 @@
+name: Freeze Batch 031 Selection
+
+on:
+  push:
+    paths:
+      - 'staging/batch031/FREEZE'
+
+permissions:
+  contents: write
+
+jobs:
+  freeze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Freeze reviewed 500
+        run: |
+          python - <<'PY'
+          import pathlib
+          root=pathlib.Path('.')
+          cdir=root/'staging'/'batch031'/'candidates'
+          rows=[]
+          for i in range(1,20):
+              rows += [x for x in (cdir/f'candidates_{i:02d}.tsv').read_text(encoding='utf-8').splitlines() if x.strip()]
+          parsed={r.split('\t',1)[0]:r for r in rows}
+          first=[]
+          for i in range(1,11):
+              first += [x for x in (cdir/f'candidates_{i:02d}.tsv').read_text(encoding='utf-8').splitlines() if x.strip()]
+          reject=set('aztec medusa ares asiatic jain lis pinot brie guernsey mulligan rus bos cantonese coon creole exes gaines gan musa yiddish ais breton equates hues inks inns leto mahatma semis argus ayrshire dulles leapt mags qin wesleyan anzac bowles curricula draco fema kos macs sus symbolizes bantu boos elizabethan ensues hove mays nmr pertains suvs welles yugoslav chechen cree cus gaul hawkes longs tuscan antennae ccs'.split())
+          replacements='crusty cumin deciduous dissection dissimilar distillation drab experimentally financier foreplay gangsta garb granular greenish headless hibernation hula immunization implantation infield inflate innovator irreplaceable landline legislate lingo mouthful mutton neoliberal ohm outfielder outflow outperform overture parr passively pox reappear reissue roux rune schism sharpness shipper skew snappy solitaire stanza swimwear typography ukulele unforgivable untenable backer blockage bugger colorectal commendation doggie duchy episodic expiry extremity foxy gestation'.split()
+          assert len(reject)==65 and len(replacements)==65
+          kept=[r for r in first if r.split('\t',1)[0] not in reject]
+          assert len(kept)==435, len(kept)
+          assert all(w in parsed for w in replacements)
+          final=kept+[parsed[w] for w in replacements]
+          words=[r.split('\t',1)[0] for r in final]
+          assert len(final)==500 and len(set(words))==500
+          assert not (set(words)&reject)
+          out=root/'staging'/'batch031'/'final_selection.tsv'
+          out.write_text('\n'.join(final)+'\n',encoding='utf-8')
+          (root/'staging'/'batch031'/'SELECTION_SUMMARY.txt').write_text(f'kept={len(kept)}\nreplacements={len(replacements)}\nfinal={len(final)}\n',encoding='utf-8')
+          PY
+      - name: Commit selection
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch031/final_selection.tsv staging/batch031/SELECTION_SUMMARY.txt
+          git commit -m 'Freeze Batch 031 selection'
+          git push
