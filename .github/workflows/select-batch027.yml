@@ -1,0 +1,108 @@
+name: Select Batch 027 Candidates
+
+on:
+  push:
+    paths:
+      - 'staging/batch027/SELECT'
+
+permissions:
+  contents: write
+
+jobs:
+  select:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install lexical resources
+        run: |
+          python -m pip install --quiet wordfreq nltk lemminflect pronouncing
+      - name: Select candidates
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, re, shutil, zlib
+          from wordfreq import top_n_list, zipf_frequency
+          import nltk
+          nltk.download('wordnet', quiet=True)
+          nltk.download('omw-1.4', quiet=True)
+          nltk.download('names', quiet=True)
+          from nltk.corpus import wordnet as wn, names
+
+          root = pathlib.Path('.')
+          manifest = json.loads((root/'dictionary_manifest.json').read_text(encoding='utf-8'))
+          assert manifest['nextBatch'] == 27
+          enc = (root/'lookup'/'used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          prior = set(zlib.decompress(base64.b64decode(enc)).decode('utf-8').splitlines())
+          assert len(prior) == manifest['lookup']['uniqueLookupKeys'] == 25275
+
+          human_names = {x.lower() for x in names.words()}
+          reject = {
+            'batman','superman','spiderman','pokemon','google','facebook','instagram','youtube','tiktok','microsoft','apple',
+            'amazon','netflix','disney','marvel','tesla','twitter','reddit','whatsapp','telegram','spotify','adidas','nike',
+            'germany','france','italy','spain','china','japan','korea','india','russia','canada','mexico','brazil','africa',
+            'europe','asia','america','london','paris','berlin','tokyo','moscow','rome','sydney','singapore','myanmar','burma'
+          }
+          allowed_pos = {'n':'noun','v':'verb','a':'adjective','s':'adjective','r':'adverb'}
+
+          def properish(word, synsets):
+              if word in human_names or word in reject:
+                  return True
+              for syn in synsets:
+                  for lem in syn.lemmas():
+                      nm = lem.name().replace('_',' ')
+                      if nm.lower() == word and nm[:1].isupper():
+                          return True
+              return False
+
+          rows=[]
+          seen=set()
+          for w in top_n_list('en', 90000):
+              w=w.lower().strip()
+              if w in seen or w in prior: continue
+              if not re.fullmatch(r'[a-z]{3,18}', w): continue
+              if zipf_frequency(w,'en') < 3.2: continue
+              synsets=wn.synsets(w)
+              if not synsets: continue
+              if properish(w,synsets): continue
+              # Require canonical lemma in at least one lexical POS.
+              canonical=False
+              for p in (wn.NOUN, wn.VERB, wn.ADJ, wn.ADV):
+                  m=wn.morphy(w,p)
+                  if m == w:
+                      canonical=True
+                      break
+              if not canonical: continue
+              # Reject if the word is clearly an inflection in every available POS.
+              bad_all=True
+              for syn in synsets:
+                  p=syn.pos()
+                  if p in allowed_pos and wn.morphy(w, {'n':wn.NOUN,'v':wn.VERB,'a':wn.ADJ,'s':wn.ADJ,'r':wn.ADV}[p]) == w:
+                      bad_all=False; break
+              if bad_all: continue
+
+              # Choose the first common lexical sense; translation is manually reviewed later.
+              syn=next((s for s in synsets if s.pos() in allowed_pos), None)
+              if not syn: continue
+              pos=allowed_pos[syn.pos()]
+              rows.append((w,pos,zipf_frequency(w,'en'),syn.definition()))
+              seen.add(w)
+              if len(rows) >= 750: break
+
+          assert len(rows) == 750
+          stage=root/'staging'/'batch027'/'candidates'
+          shutil.rmtree(stage, ignore_errors=True)
+          stage.mkdir(parents=True, exist_ok=True)
+          for i in range(15):
+              part=rows[i*50:(i+1)*50]
+              text=''.join(f'{w}\t{p}\t{freq:.2f}\t{d}\n' for w,p,freq,d in part)
+              (stage/f'candidates_{i+1:02d}.tsv').write_text(text,encoding='utf-8')
+          (stage/'SUMMARY.txt').write_text(f'candidates={len(rows)}\nfirst={rows[0][0]}\nlast={rows[-1][0]}\n',encoding='utf-8')
+          PY
+      - name: Commit candidates
+        run: |
+          git config user.name "dictionary-dataset-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add staging/batch027/candidates
+          git commit -m "Select Batch 027 candidates"
+          git push
