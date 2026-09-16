@@ -1,0 +1,108 @@
+name: Finalize Dictionary Batch 029
+on:
+  push:
+    paths:
+      - staging/batch029/FINALIZE
+permissions:
+  contents: write
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install language helpers
+        run: python -m pip install --quiet lemminflect eng-to-ipa
+      - name: Assemble and validate Batch 029
+        run: |
+          python - <<'PY'
+          import base64,hashlib,json,pathlib,re,zlib
+          from lemminflect import getInflection
+          import eng_to_ipa as e2i
+          root=pathlib.Path('.')
+          manifest_path=root/'dictionary_manifest.json'; lookup_path=root/'lookup'/'used_keys_current.zlib.b64'
+          m=json.loads(manifest_path.read_text(encoding='utf-8'))
+          assert m['latestBatch']==28 and m['nextBatch']==29 and m['batchCount']==28 and m['totalHeadwords']==14000
+          assert m['lookup']['throughBatch']==28 and m['lookup']['uniqueLookupKeys']==26432
+          encoded=lookup_path.read_text(encoding='ascii').strip()
+          assert hashlib.sha256(encoded.encode('ascii')).hexdigest()==m['lookup']['sha256']
+          prior=set(zlib.decompress(base64.b64decode(encoded)).decode('utf-8').splitlines())
+          assert len(prior)==26432
+          source=[]
+          for raw in (root/'staging'/'batch029'/'final_selection.tsv').read_text(encoding='utf-8').splitlines():
+              if not raw.strip(): continue
+              w,srcpos,freq,phones,definition=raw.split('\t',4)
+              source.append({'word':w.strip(),'phones':phones.strip()})
+          assert len(source)==500 and len({x['word'] for x in source})==500
+          words=[x['word'] for x in source]; headset=set(words); source_by={x['word']:x for x in source}
+          assert not (headset&prior)
+          trans={}
+          for raw in (root/'staging'/'batch029'/'translations_clean.tsv').read_text(encoding='utf-8').splitlines():
+              if not raw.strip(): continue
+              w,pos,blob=raw.split('\t',2); w=w.strip(); pos=pos.strip(); gl=[x.strip() for x in blob.split('|') if x.strip()]
+              assert w not in trans; trans[w]=(pos,gl)
+          assert len(trans)==500 and set(trans)==headset
+          allowed={'noun','verb','adjective','adverb','pronoun','preposition','conjunction','interjection','determiner','modal','auxiliary'}
+          latin=re.compile(r'[A-Za-z]')
+          for w,(pos,gl) in trans.items():
+              assert pos in allowed and 1<=len(gl)<=3 and all(g and not latin.search(g) for g in gl)
+          def fallback_ipa(phones):
+              cmap={'B':'b','CH':'tʃ','D':'d','DH':'ð','F':'f','G':'ɡ','HH':'h','JH':'dʒ','K':'k','L':'l','M':'m','N':'n','NG':'ŋ','P':'p','R':'r','S':'s','SH':'ʃ','T':'t','TH':'θ','V':'v','W':'w','Y':'j','Z':'z','ZH':'ʒ'}
+              vmap={'AA':'ɑ','AE':'æ','AO':'ɔ','AW':'aʊ','AY':'aɪ','EH':'ɛ','EY':'eɪ','IH':'ɪ','IY':'i','OW':'oʊ','OY':'ɔɪ','UH':'ʊ','UW':'u'}
+              out=[]
+              for tok in phones.split():
+                  mm=re.match(r'^([A-Z]+)([012])?$',tok); assert mm,(phones,tok)
+                  b=mm.group(1); s=mm.group(2)
+                  if b=='AH': sym='ə' if s=='0' else 'ʌ'
+                  elif b=='ER': sym='ɚ' if s=='0' else 'ɝ'
+                  elif b in vmap: sym=vmap[b]
+                  else: sym=cmap[b]
+                  if s=='1' and b in set(vmap)|{'AH','ER'}: sym='ˈ'+sym
+                  elif s=='2' and b in set(vmap)|{'AH','ER'}: sym='ˌ'+sym
+                  out.append(sym)
+              return ''.join(out)
+          used_forms=set(); entries=[]; fallback=[]
+          for w in words:
+              pos,gl=trans[w]
+              ipa=e2i.convert(w,stress_marks='both').strip().replace('/','')
+              if not ipa or '*' in ipa or ipa.lower()==w.lower():
+                  ipa=fallback_ipa(source_by[w]['phones']); fallback.append(w)
+              assert ipa and '*' not in ipa and '\n' not in ipa
+              forms=[]
+              if pos=='verb':
+                  for tag in ('VBZ','VBD','VBN','VBG'):
+                      for f in getInflection(w,tag=tag) or ():
+                          f=f.lower().strip()
+                          if not f or f==w or not f.isascii() or not f.isalpha(): continue
+                          if f in prior or f in headset or f in used_forms or f in forms: continue
+                          forms.append(f); used_forms.add(f)
+              entries.append({'word':w,'pronunciation':f'/{ipa}/','forms':forms,'meanings':[{'partOfSpeech':pos,'burmese':gl}]})
+          new_forms=[f for e in entries for f in e['forms']]
+          assert len(entries)==500 and len(new_forms)==len(set(new_forms))
+          assert not(set(new_forms)&prior) and not(set(new_forms)&headset)
+          out=root/'Batches'/'dictionary_batch_029.json'; assert not out.exists()
+          out.write_text(json.dumps({'version':1,'batch':29,'entries':entries},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          all_keys=prior|headset|set(new_forms)
+          plain=('\n'.join(sorted(all_keys))+'\n').encode('utf-8')
+          new_enc=base64.b64encode(zlib.compress(plain,9)).decode('ascii'); lookup_path.write_text(new_enc,encoding='ascii')
+          m['latestBatch']=29; m['nextBatch']=30; m['batchCount']=29; m['totalHeadwords']=14500
+          m['lookup']['throughBatch']=29; m['lookup']['uniqueLookupKeys']=len(all_keys); m['lookup']['uniqueHeadwords']=14500
+          m['lookup']['uniqueStoredForms']=m['lookup']['uniqueStoredForms']+len(new_forms)
+          m['lookup']['sha256']=hashlib.sha256(new_enc.encode('ascii')).hexdigest(); m['batchFilenamePattern']='Batches/dictionary_batch_XXX.json'
+          assert m['totalHeadwords']==m['batchCount']*500
+          manifest_path.write_text(json.dumps(m,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          rp=root/'README.md'; txt=rp.read_text(encoding='utf-8')
+          txt=re.sub(r'Batches 001–028 have been generated: \*\*14,000 unique headwords\*\*\.', 'Batches 001–029 have been generated: **14,500 unique headwords**.', txt)
+          rp.write_text(txt,encoding='utf-8')
+          report={'batch':29,'entries':500,'newForms':len(new_forms),'priorLookupKeys':len(prior),'uniqueLookupKeys':len(all_keys),'totalHeadwords':14500,'nextBatch':30,'ipaFallbackCount':len(fallback),'ipaFallbackWords':fallback,'lookupSha256':m['lookup']['sha256']}
+          (root/'batch029_validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print(json.dumps(report,ensure_ascii=False,indent=2))
+          PY
+      - name: Commit Batch 029 atomically
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add Batches/dictionary_batch_029.json lookup/used_keys_current.zlib.b64 dictionary_manifest.json README.md batch029_validation.json
+          git commit -m 'Add dictionary Batch 029'
+          git push
