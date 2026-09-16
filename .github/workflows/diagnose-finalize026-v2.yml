@@ -1,0 +1,78 @@
+name: Diagnose Batch 026 Finalizer V2
+
+on:
+  push:
+    paths:
+      - 'staging/batch026/DIAGNOSE_FINAL2'
+
+permissions:
+  contents: write
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python -m pip install --quiet lemminflect eng-to-ipa
+      - name: Full dry-run diagnostic
+        run: |
+          python - <<'PY'
+          import base64,hashlib,json,pathlib,re,traceback,zlib
+          from lemminflect import getInflection
+          import eng_to_ipa as e2i
+          root=pathlib.Path('.'); lines=[]; checkpoint='start'
+          try:
+              manifest=json.loads((root/'dictionary_manifest.json').read_text())
+              encoded=(root/'lookup'/'used_keys_current.zlib.b64').read_text().strip()
+              assert hashlib.sha256(encoded.encode()).hexdigest()==manifest['lookup']['sha256']
+              prior=set(zlib.decompress(base64.b64decode(encoded)).decode().splitlines()); checkpoint='lookup'
+              def read(pattern):
+                  rows=[]
+                  for p in sorted(root.glob(pattern)):
+                      for raw in p.read_text().splitlines():
+                          if raw.strip():
+                              w,pos,phones,d=raw.split('\t',3); rows.append({'word':w.strip(),'phones':phones.strip()})
+                  return rows
+              selected=read('staging/batch026/selected_v2/selected_*.tsv'); reserve=read('staging/batch026/selected_v2/reserve_*.tsv')
+              denied={'macintosh','murphy','teeth','bobby','jeep','donna','beth','batman','thrown','sally','griffin','chevy','brent','molly','napa','superman'}
+              repl=['onset','assay','slam','plaque','scenery','proliferation','trilogy','brightness','enjoyment','correspond','robotics','vibrant','propagation','purification','hardback','tote']
+              rb={r['word']:r for r in reserve}; source=[r for r in selected if r['word'] not in denied]+[rb[w] for w in repl]; words=[r['word'] for r in source]; headset=set(words); checkpoint='source'
+              trans={}
+              for p in sorted((root/'staging/batch026/translations').glob('*.tsv')):
+                  for raw in p.read_text().splitlines():
+                      if raw.strip():
+                          w,pos,blob=raw.split('\t',2); trans[w.strip()]=(pos.strip(),[g.strip() for g in blob.split('|') if g.strip()])
+              checkpoint='translations'
+              allowed={'noun','verb','adjective','adverb','pronoun','preposition','conjunction','interjection','determiner','modal','auxiliary'}; latin=re.compile('[A-Za-z]')
+              bad=[]
+              for w,(pos,glosses) in trans.items():
+                  if pos not in allowed or not 1<=len(glosses)<=3 or any(latin.search(g) for g in glosses): bad.append((w,pos,glosses))
+              lines.append('bad_glosses='+repr(bad[:20])); assert not bad; checkpoint='glosses'
+              source_by={r['word']:r for r in source}; used=set(); ipa_bad=[]; form_notes=[]
+              for i,w in enumerate(words):
+                  pos,_=trans[w]
+                  ipa=e2i.convert(w,stress_marks='both').strip()
+                  if not ipa or '*' in ipa or re.search('[A-Za-z]',ipa): ipa_bad.append((w,ipa,source_by[w]['phones']))
+                  if pos=='verb':
+                      vals=[]
+                      for tag in ('VBZ','VBD','VBN','VBG'):
+                          vals.extend(getInflection(w,tag=tag) or ())
+                      accepted=[]
+                      for f in vals:
+                          f=f.lower().strip()
+                          if f and f!=w and f not in prior and f not in headset and f not in used and f not in accepted and f.isascii() and f.isalpha(): accepted.append(f); used.add(f)
+                      form_notes.append((w,accepted))
+              lines.append('ipa_bad_count='+str(len(ipa_bad))); lines.append('ipa_bad_first='+repr(ipa_bad[:30])); lines.append('verbs='+str(len(form_notes))); lines.append('forms='+str(sum(len(x[1]) for x in form_notes))); checkpoint='ipa_forms'
+          except Exception:
+              lines.append('FAILED_AT='+checkpoint); lines.append(traceback.format_exc())
+          else:
+              lines.append('SUCCESS_AT='+checkpoint)
+          (root/'staging/batch026/FINAL_DIAGNOSTIC2.txt').write_text('\n'.join(lines)+'\n')
+          PY
+      - name: Commit diagnostic
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch026/FINAL_DIAGNOSTIC2.txt
+          git commit -m 'Diagnose Batch 026 finalizer stage 2'
+          git push
