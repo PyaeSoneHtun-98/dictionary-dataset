@@ -1,0 +1,90 @@
+name: Validate Staged Batch 027 V2
+
+on:
+  push:
+    paths:
+      - 'staging/batch027/VALIDATE_V2'
+
+permissions:
+  contents: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install helpers
+        run: python -m pip install --quiet lemminflect eng-to-ipa
+      - name: Validate staged data
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, re, zlib
+          from lemminflect import getInflection
+          import eng_to_ipa as e2i
+          root=pathlib.Path('.')
+          manifest=json.loads((root/'dictionary_manifest.json').read_text(encoding='utf-8'))
+          assert manifest['latestBatch']==26 and manifest['nextBatch']==27
+          encoded=(root/'lookup'/'used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          prior=set(zlib.decompress(base64.b64decode(encoded)).decode('utf-8').splitlines())
+          assert len(prior)==manifest['lookup']['uniqueLookupKeys']==25275
+
+          rows=[]
+          for i in range(1,11):
+              p=root/'staging'/'batch027'/'candidates_v3'/f'candidates_{i:02d}.tsv'
+              for raw in p.read_text(encoding='utf-8').splitlines():
+                  if raw.strip():
+                      w,pos,freq,definition=raw.split('\t',3)
+                      rows.append((w.strip(),definition.strip()))
+          assert len(rows)==500
+          denied={'smaller','greatest','bigger','arts','humans','communications','teeth','tons','woods','lowest','fewer','corp','transactions','graphics','proceedings','teens','earliest','neuro','prof','classics','calif','healthier','deeds','flats','heavens','jeep','haired'}
+          replacements=['chalk','councillor','entirety','flock','footballer','hemisphere','lastly','neighbour','persona','realism','scrub','shale','sophomore','tinder','countdown','investigative','obese','perimeter','sushi','turnout','commercially','gladly','honourable','irresponsible','rant','apologise','crunch']
+          reserve=[r.split('\t',1)[0].strip() for r in (root/'staging'/'batch027'/'candidates_v3'/'candidates_11.tsv').read_text(encoding='utf-8').splitlines() if r.strip()]
+          assert all(w in reserve for w in replacements)
+          words=[w for w,d in rows if w not in denied and 'basic monetary unit of most members of the European Union' not in d]+replacements
+          assert len(words)==500 and len(set(words))==500, (len(words),len(set(words)))
+          assert not (set(words)&prior)
+
+          translations={}
+          for p in sorted((root/'staging'/'batch027'/'translations').glob('*.tsv')):
+              for raw in p.read_text(encoding='utf-8').splitlines():
+                  if not raw.strip(): continue
+                  w,pos,blob=raw.split('\t',2); w=w.strip(); pos=pos.strip()
+                  glosses=[x.strip() for x in blob.split('|') if x.strip()]
+                  assert w not in translations, w
+                  translations[w]=(pos,glosses)
+          assert len(translations)==500, len(translations)
+          assert set(translations)==set(words), {'missing':sorted(set(words)-set(translations)),'extra':sorted(set(translations)-set(words))}
+          allowed={'noun','verb','adjective','adverb','pronoun','preposition','conjunction','interjection','determiner','modal','auxiliary'}
+          latin=re.compile(r'[A-Za-z]')
+          bad=[]
+          for w,(pos,glosses) in translations.items():
+              if pos not in allowed or not (1<=len(glosses)<=3) or any((not g or latin.search(g)) for g in glosses): bad.append(w)
+          assert not bad, bad
+
+          missing_ipa=[]
+          headset=set(words); used_forms=set(); collisions=[]; new_forms=[]
+          for w in words:
+              ipa=e2i.convert(w,stress_marks='both').strip().replace('/','')
+              if not ipa or '*' in ipa or ipa.lower()==w.lower(): missing_ipa.append(w)
+              if translations[w][0]=='verb':
+                  for tag in ('VBZ','VBD','VBN','VBG'):
+                      for f in getInflection(w,tag=tag) or ():
+                          f=f.lower().strip()
+                          if not f or f==w or not f.isascii() or not f.isalpha(): continue
+                          if f in prior or f in headset or f in used_forms:
+                              collisions.append((w,f)); continue
+                          used_forms.add(f); new_forms.append(f)
+          report={'batch':27,'sourceWords':len(words),'translations':len(translations),'priorLookupKeys':len(prior),'missingIpa':missing_ipa,'verbEntries':sum(1 for w in words if translations[w][0]=='verb'),'newForms':len(new_forms),'formCollisionsSkipped':collisions}
+          (root/'staging'/'batch027'/'VALIDATION_REPORT_V2.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print(json.dumps(report,ensure_ascii=False,indent=2))
+          assert not missing_ipa, missing_ipa
+          PY
+      - name: Commit validation report
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch027/VALIDATION_REPORT_V2.json
+          git commit -m 'Validate staged Batch 027 V2'
+          git push
