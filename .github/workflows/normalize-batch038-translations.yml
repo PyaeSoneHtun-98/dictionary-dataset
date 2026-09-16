@@ -1,0 +1,45 @@
+name: Normalize Batch 038 Translations
+
+on:
+  push:
+    paths:
+      - 'staging/batch038/NORMALIZE'
+
+permissions:
+  contents: write
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Normalize exact TSV rows
+        run: |
+          python - <<'PY'
+          import pathlib
+          root=pathlib.Path('.')
+          tdir=root/'staging'/'batch038'/'translations'
+          total=0
+          for i in range(1,6):
+              p=tdir/f'part{i:02d}.tsv'
+              lines=[x for x in p.read_text(encoding='utf-8').splitlines() if x.strip()]
+              assert len(lines)==100,(p,len(lines))
+              out=[]
+              for n,line in enumerate(lines,1):
+                  parts=line.split('\t')
+                  assert len(parts)==3,(p,n,line)
+                  w,pos,g=(x.strip() for x in parts)
+                  assert w and pos and g
+                  out.append(f'{w}\t{pos}\t{g}')
+              p.write_text('\n'.join(out)+'\n',encoding='utf-8')
+              total += len(out)
+          assert total==500
+          (root/'staging'/'batch038'/'NORMALIZATION_SUMMARY.txt').write_text('parts=5\nrows_per_part=100\ntotal=500\n',encoding='utf-8')
+          PY
+      - name: Commit normalization
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch038/translations staging/batch038/NORMALIZATION_SUMMARY.txt
+          git commit -m 'Normalize Batch 038 translations'
+          git push
