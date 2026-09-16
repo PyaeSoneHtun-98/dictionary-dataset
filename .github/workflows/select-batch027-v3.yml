@@ -1,0 +1,89 @@
+name: Select Batch 027 Candidates V3
+
+on:
+  push:
+    paths:
+      - 'staging/batch027/SELECT_V3'
+
+permissions:
+  contents: write
+
+jobs:
+  select:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install lexical resources
+        run: python -m pip install --quiet wordfreq nltk
+      - name: Select intermediate-frequency candidates
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, re, shutil, zlib
+          from wordfreq import top_n_list, zipf_frequency
+          import nltk
+          for corpus in ('wordnet','omw-1.4','names','stopwords'):
+              nltk.download(corpus, quiet=True)
+          from nltk.corpus import wordnet as wn, names, stopwords
+
+          root=pathlib.Path('.')
+          manifest=json.loads((root/'dictionary_manifest.json').read_text(encoding='utf-8'))
+          assert manifest['nextBatch']==27
+          enc=(root/'lookup'/'used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          prior=set(zlib.decompress(base64.b64decode(enc)).decode('utf-8').splitlines())
+          assert len(prior)==25275
+
+          human_names={x.lower() for x in names.words()}
+          reject=set(stopwords.words('english'))|human_names|{
+            'okay','yeah','yep','nope','hello','thanks','thank','goodbye','maybe','health','least','able','early','talk','food','pay','wrong','pretty','human','ask','late','leave','million','morning','stay','age','buy','soon','third','turn','check','child','easy','front','list','large','short','close','past','hours','minutes','almost','quite','rather','several','either','within','often','half','along','fuck','shit','damn',
+            'batman','superman','spiderman','pokemon','google','facebook','instagram','youtube','tiktok','microsoft','apple','amazon','netflix','disney','marvel','tesla','twitter','reddit','whatsapp','telegram','spotify','adidas','nike',
+            'germany','france','italy','spain','china','japan','korea','india','russia','canada','mexico','brazil','africa','europe','asia','america','london','paris','berlin','tokyo','moscow','rome','sydney','singapore','myanmar','burma'
+          }
+          posmap={'n':wn.NOUN,'v':wn.VERB,'a':wn.ADJ,'s':wn.ADJ,'r':wn.ADV}
+          outpos={'n':'noun','v':'verb','a':'adjective','s':'adjective','r':'adverb'}
+
+          def properish(w,synsets):
+              if w in reject: return True
+              for syn in synsets:
+                  for lem in syn.lemmas():
+                      nm=lem.name().replace('_',' ')
+                      if nm.lower()==w and nm[:1].isupper(): return True
+              return False
+
+          rows=[]; seen=set()
+          for w in top_n_list('en',160000):
+              w=w.lower().strip(); freq=zipf_frequency(w,'en')
+              if w in seen or w in prior or w in reject: continue
+              if not re.fullmatch(r'[a-z]{4,18}',w): continue
+              if not (3.30 <= freq <= 4.80): continue
+              synsets=[s for s in wn.synsets(w) if s.pos() in outpos]
+              if not synsets or properish(w,synsets): continue
+              primary=synsets[0]; pp=primary.pos()
+              if wn.morphy(w,posmap[pp]) != w: continue
+              # Reject any word that is an inflection in a lexical category it actually has.
+              inflected=False
+              for p in (wn.NOUN,wn.VERB,wn.ADJ):
+                  if wn.synsets(w,pos=p):
+                      m=wn.morphy(w,p)
+                      if m and m!=w: inflected=True; break
+              if inflected: continue
+              rows.append((w,outpos[pp],freq,primary.definition()))
+              seen.add(w)
+              if len(rows)>=850: break
+
+          assert len(rows)==850
+          stage=root/'staging'/'batch027'/'candidates_v3'
+          shutil.rmtree(stage,ignore_errors=True); stage.mkdir(parents=True,exist_ok=True)
+          for i in range(17):
+              part=rows[i*50:(i+1)*50]
+              (stage/f'candidates_{i+1:02d}.tsv').write_text(''.join(f'{w}\t{p}\t{f:.2f}\t{d}\n' for w,p,f,d in part),encoding='utf-8')
+          (stage/'SUMMARY.txt').write_text(f'candidates=850\nfirst={rows[0][0]}\nlast={rows[-1][0]}\n',encoding='utf-8')
+          PY
+      - name: Commit candidates
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch027/candidates_v3
+          git commit -m 'Select Batch 027 intermediate candidates'
+          git push
