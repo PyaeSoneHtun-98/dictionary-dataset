@@ -1,0 +1,40 @@
+{
+  "batch": 41,
+  "entries": 500,
+  "newForms": 84,
+  "priorLookupKeys": 33591,
+  "uniqueLookupKeys": 34175,
+  "totalHeadwords": 20500,
+  "nextBatch": 42,
+  "ipaFallbackCount": 9,
+  "ipaFallbackWords": [
+    "aubergine",
+    "readmission",
+    "frizz",
+    "pathologic",
+    "toluene",
+    "diddle",
+    "thankfulness",
+    "educative",
+    "gouache"
+  ],
+  "lookupSha256": "7147ffc00cf2f4245cf64e54afc1ec424f1d9d02c12b3ea1f91396d00f128503",
+  "formsReviewed": true,
+  "selectionReview": {
+    "retained": 452,
+    "replacements": 48
+  },
+  "formCorrections": {
+    "shrivel": {
+      "removed": [
+        "shrivelled",
+        "shrivelling"
+      ],
+      "kept": [
+        "shrivels",
+        "shriveled",
+        "shriveling"
+      ]
+    }
+  }
+}
