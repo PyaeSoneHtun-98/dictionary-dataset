@@ -1,0 +1,69 @@
+name: Validate Staged Batch 032
+
+on:
+  push:
+    paths:
+      - 'staging/batch032/VALIDATE'
+
+permissions:
+  contents: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Validate translations and selection
+        run: |
+          python - <<'PY'
+          import base64, hashlib, json, pathlib, re, zlib
+          root=pathlib.Path('.')
+          m=json.loads((root/'dictionary_manifest.json').read_text(encoding='utf-8'))
+          assert m['latestBatch']==31 and m['nextBatch']==32 and m['batchCount']==31 and m['totalHeadwords']==15500
+          enc=(root/'lookup/used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          assert hashlib.sha256(enc.encode('ascii')).hexdigest()==m['lookup']['sha256']
+          prior=set(zlib.decompress(base64.b64decode(enc)).decode('utf-8').splitlines())
+          assert len(prior)==28109
+
+          sel_lines=[x for x in (root/'staging'/'batch032'/'final_selection.tsv').read_text(encoding='utf-8').splitlines() if x.strip()]
+          words=[]; malformed=[]
+          for i,line in enumerate(sel_lines,1):
+              parts=line.split('\t')
+              if len(parts)<5:
+                  malformed.append(f'selection:{i}')
+                  continue
+              w=parts[0].strip()
+              words.append(w)
+              if not (w.isascii() and w.isalpha() and w==w.lower() and ' ' not in w and '-' not in w): malformed.append(f'word:{w}')
+          wordset=set(words); dup_words=sorted({w for w in words if words.count(w)>1}); prior_collisions=sorted(wordset&prior)
+
+          allowed={'noun','verb','adjective','adverb','pronoun','preposition','conjunction','interjection','determiner','modal','auxiliary'}
+          translations={}; duplicates=[]; bad=[]
+          for p in sorted((root/'staging'/'batch032'/'translations').glob('part*.tsv')):
+              for i,line in enumerate(p.read_text(encoding='utf-8').splitlines(),1):
+                  if not line.strip(): continue
+                  parts=line.split('\t')
+                  if len(parts)!=3:
+                      malformed.append(f'{p.name}:{i}'); continue
+                  w,pos,glossraw=(x.strip() for x in parts)
+                  if w in translations: duplicates.append(w)
+                  glosses=[g.strip() for g in glossraw.split('|') if g.strip()]
+                  translations[w]=(pos,glosses)
+                  if pos not in allowed or not (1<=len(glosses)<=3) or any(re.search(r'[A-Za-z]',g) for g in glosses): bad.append(w)
+          transset=set(translations); missing=sorted(wordset-transset); extra=sorted(transset-wordset)
+          report={'batch':32,'finalWords':len(words),'uniqueWords':len(wordset),'translations':len(translations),'priorLookupKeys':len(prior),'priorCollisions':prior_collisions,'malformed':malformed,'duplicates':sorted(set(duplicates+dup_words)),'missing':missing,'extra':extra,'badGlossOrPos':sorted(set(bad))}
+          (root/'staging'/'batch032'/'TRANSLATION_VALIDATION.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print(json.dumps(report,ensure_ascii=False,indent=2))
+          ok=(len(words)==500 and len(wordset)==500 and len(translations)==500 and not prior_collisions and not malformed and not dup_words and not duplicates and not missing and not extra and not bad)
+          if not ok: raise SystemExit(1)
+          PY
+      - name: Commit validation output
+        if: always()
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch032/TRANSLATION_VALIDATION.json
+          git diff --cached --quiet || git commit -m 'Validate Batch 032 translations'
+          git push
