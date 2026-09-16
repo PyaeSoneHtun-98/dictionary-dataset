@@ -1,0 +1,50 @@
+name: Review Batch 038 Forms
+
+on:
+  push:
+    paths:
+      - 'staging/batch038/FORMS'
+
+permissions:
+  contents: write
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Freeze manually reviewed forms
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, zlib
+          root=pathlib.Path('.')
+          m=json.loads((root/'dictionary_manifest.json').read_text())
+          assert m['latestBatch']==37 and m['nextBatch']==38 and m['lookup']['uniqueLookupKeys']==31745
+          prior=set(zlib.decompress(base64.b64decode((root/'lookup/used_keys_current.zlib.b64').read_text().strip())).decode().splitlines())
+          sel=[x for x in (root/'staging/batch038/final_selection.tsv').read_text(encoding='utf-8').splitlines() if x.strip()]
+          headset={x.split('\t',1)[0].strip() for x in sel}; assert len(headset)==500
+          dry=json.loads((root/'staging/batch038/ASSEMBLY_DRYRUN.json').read_text(encoding='utf-8'))
+          assert dry['verbCount']==35 and dry['proposedFormCount']==105
+          forms={k:list(v) for k,v in dry['verbForms'].items()}
+          assert forms['redevelop']==['redevelops','redeveloped','redevelopped','redeveloping','redevelopping']
+          forms['redevelop']=['redevelops','redeveloped','redeveloping']
+          flat=[]
+          for w,vals in forms.items():
+              assert w in headset
+              assert len(vals)==len(set(vals))
+              for f in vals:
+                  assert f.isascii() and f.isalpha() and f==f.lower()
+                  assert f!=w and f not in prior and f not in headset
+                  flat.append(f)
+          assert len(flat)==103 and len(set(flat))==103
+          report={'batch':38,'verbCount':len(forms),'reviewedFormCount':len(flat),'corrections':{'redevelop':{'dropped':['redevelopped','redevelopping'],'kept':['redevelops','redeveloped','redeveloping']}},'verbForms':forms,'formsReviewed':True}
+          (root/'staging/batch038/REVIEWED_FORMS.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print(json.dumps({'verbCount':len(forms),'reviewedFormCount':len(flat),'redevelop':forms['redevelop']},indent=2))
+          PY
+      - name: Commit reviewed forms
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch038/REVIEWED_FORMS.json
+          git commit -m 'Review Batch 038 forms'
+          git push
