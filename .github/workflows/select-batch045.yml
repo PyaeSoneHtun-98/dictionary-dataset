@@ -85,8 +85,8 @@ jobs:
               if w.endswith(('ian','ese','ite','ic')) and any(x in dl for x in ('people','country','region','language','religion','church','inhabitant','member of')): continue
               phones=' '.join(pronunciations[w][0])
               out.append((w,pos,z,phones,d)); seen.add(w)
-              if len(out)>=2300: break
-          assert len(out)==2300,len(out)
+              if len(out)>=2000: break
+          assert len(out)==2000,len(out)
           cdir=root/'staging'/'batch045'/'candidates'; cdir.mkdir(parents=True,exist_ok=True)
           for i in range(0,len(out),100):
               chunk=out[i:i+100]
