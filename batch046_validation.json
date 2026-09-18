@@ -1,0 +1,32 @@
+{
+  "batch": 46,
+  "entries": 500,
+  "newForms": 0,
+  "priorLookupKeys": 36891,
+  "uniqueLookupKeys": 37391,
+  "totalHeadwords": 23000,
+  "nextBatch": 47,
+  "ipaFallbackCount": 5,
+  "ipaFallbackWords": [
+    "dubiously",
+    "jocose",
+    "daintily",
+    "frizzled",
+    "fusty"
+  ],
+  "lookupSha256": "6208bfdf52464613a3484b4c73ccbd0861fb2be9aec1725266d9fadb975233ad",
+  "partCounts": {
+    "part01.tsv": 100,
+    "part02.tsv": 100,
+    "part03.tsv": 100,
+    "part04.tsv": 100,
+    "part05.tsv": 100
+  },
+  "formsReviewed": true,
+  "validation": {
+    "priorCollisions": 0,
+    "duplicateHeadwords": 0,
+    "badHeadwords": 0,
+    "badGlosses": 0
+  }
+}
