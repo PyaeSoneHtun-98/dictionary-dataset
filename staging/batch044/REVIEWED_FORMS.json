@@ -1,0 +1,375 @@
+{
+  "batch": 44,
+  "verbCount": 63,
+  "reviewedFormCount": 189,
+  "corrections": {
+    "chide": {
+      "removed": [
+        "chidded"
+      ],
+      "kept": [
+        "chides",
+        "chided",
+        "chid",
+        "chidden",
+        "chiding"
+      ]
+    },
+    "outsell": {
+      "removed": [
+        "outselled"
+      ],
+      "added": [
+        "outsold"
+      ],
+      "skippedCollision": [],
+      "kept": [
+        "outsells",
+        "outselling"
+      ]
+    },
+    "surveil": {
+      "removed": [
+        "surveiled",
+        "surveiling"
+      ],
+      "added": [
+        "surveilled",
+        "surveilling"
+      ],
+      "skippedCollision": [],
+      "kept": [
+        "surveils"
+      ]
+    },
+    "lade": {
+      "added": [],
+      "skippedCollision": [
+        "laden"
+      ],
+      "kept": [
+        "lades",
+        "laded",
+        "lading"
+      ]
+    }
+  },
+  "verbForms": {
+    "chide": [
+      "chides",
+      "chided",
+      "chid",
+      "chidden",
+      "chiding"
+    ],
+    "copulate": [
+      "copulates",
+      "copulated",
+      "copulating"
+    ],
+    "decamp": [
+      "decamps",
+      "decamped",
+      "decamping"
+    ],
+    "decommission": [
+      "decommissions",
+      "decommissioned",
+      "decommissioning"
+    ],
+    "discolor": [
+      "discolors",
+      "discolored",
+      "discoloring"
+    ],
+    "inactivate": [
+      "inactivates",
+      "inactivated",
+      "inactivating"
+    ],
+    "liquefy": [
+      "liquefies",
+      "liquefied",
+      "liquefying"
+    ],
+    "mosey": [
+      "moseys",
+      "moseyed",
+      "moseying"
+    ],
+    "reorient": [
+      "reorients",
+      "reoriented",
+      "reorienting"
+    ],
+    "seethe": [
+      "seethes",
+      "seethed"
+    ],
+    "enunciate": [
+      "enunciates",
+      "enunciated",
+      "enunciating"
+    ],
+    "excommunicate": [
+      "excommunicates",
+      "excommunicated",
+      "excommunicating"
+    ],
+    "flunk": [
+      "flunks",
+      "flunked",
+      "flunking"
+    ],
+    "pervade": [
+      "pervades",
+      "pervaded",
+      "pervading"
+    ],
+    "ruminate": [
+      "ruminates",
+      "ruminated",
+      "ruminating"
+    ],
+    "guzzle": [
+      "guzzles",
+      "guzzled",
+      "guzzling"
+    ],
+    "preen": [
+      "preens",
+      "preened",
+      "preening"
+    ],
+    "recalculate": [
+      "recalculates",
+      "recalculated",
+      "recalculating"
+    ],
+    "stymie": [
+      "stymies",
+      "stymied",
+      "stymieing"
+    ],
+    "dehumanize": [
+      "dehumanizes",
+      "dehumanized",
+      "dehumanizing"
+    ],
+    "demystify": [
+      "demystifies",
+      "demystified",
+      "demystifying"
+    ],
+    "juxtapose": [
+      "juxtaposes",
+      "juxtaposed",
+      "juxtaposing"
+    ],
+    "liberalize": [
+      "liberalizes",
+      "liberalized",
+      "liberalizing"
+    ],
+    "percolate": [
+      "percolates",
+      "percolated",
+      "percolating"
+    ],
+    "totter": [
+      "totters",
+      "tottered",
+      "tottering"
+    ],
+    "unbutton": [
+      "unbuttons",
+      "unbuttoned",
+      "unbuttoning"
+    ],
+    "dicker": [
+      "dickers",
+      "dickered",
+      "dickering"
+    ],
+    "foist": [
+      "foists",
+      "foisted",
+      "foisting"
+    ],
+    "institutionalize": [
+      "institutionalizes",
+      "institutionalized",
+      "institutionalizing"
+    ],
+    "jeer": [
+      "jeers",
+      "jeered",
+      "jeering"
+    ],
+    "natter": [
+      "natters",
+      "nattered",
+      "nattering"
+    ],
+    "portend": [
+      "portends",
+      "portended",
+      "portending"
+    ],
+    "rearm": [
+      "rearms",
+      "rearmed",
+      "rearming"
+    ],
+    "cosponsor": [
+      "cosponsors",
+      "cosponsored",
+      "cosponsoring"
+    ],
+    "decouple": [
+      "decouples",
+      "decoupled",
+      "decoupling"
+    ],
+    "democratize": [
+      "democratizes",
+      "democratized",
+      "democratizing"
+    ],
+    "detoxify": [
+      "detoxifies",
+      "detoxified",
+      "detoxifying"
+    ],
+    "horrify": [
+      "horrifies",
+      "horrifying"
+    ],
+    "nitpick": [
+      "nitpicks",
+      "nitpicked",
+      "nitpicking"
+    ],
+    "outsell": [
+      "outsells",
+      "outsold",
+      "outselling"
+    ],
+    "overstay": [
+      "overstays",
+      "overstayed",
+      "overstaying"
+    ],
+    "cremate": [
+      "cremates",
+      "cremated",
+      "cremating"
+    ],
+    "deforest": [
+      "deforests",
+      "deforested",
+      "deforesting"
+    ],
+    "frap": [
+      "fraps",
+      "frapped",
+      "frapping"
+    ],
+    "pulverize": [
+      "pulverizes",
+      "pulverized",
+      "pulverizing"
+    ],
+    "salivate": [
+      "salivates",
+      "salivated",
+      "salivating"
+    ],
+    "snog": [
+      "snogs",
+      "snogged",
+      "snogging"
+    ],
+    "twiddle": [
+      "twiddles",
+      "twiddled",
+      "twiddling"
+    ],
+    "wend": [
+      "wends",
+      "wended",
+      "wending"
+    ],
+    "chortle": [
+      "chortles",
+      "chortled",
+      "chortling"
+    ],
+    "comport": [
+      "comports",
+      "comported",
+      "comporting"
+    ],
+    "dither": [
+      "dithers",
+      "dithered",
+      "dithering"
+    ],
+    "doff": [
+      "doffs",
+      "doffed",
+      "doffing"
+    ],
+    "impugn": [
+      "impugns",
+      "impugned",
+      "impugning"
+    ],
+    "obviate": [
+      "obviates",
+      "obviated",
+      "obviating"
+    ],
+    "remediate": [
+      "remediates",
+      "remediated",
+      "remediating"
+    ],
+    "surveil": [
+      "surveils",
+      "surveilled",
+      "surveilling"
+    ],
+    "underrate": [
+      "underrates",
+      "underrated",
+      "underrating"
+    ],
+    "cannibalize": [
+      "cannibalizes",
+      "cannibalized",
+      "cannibalizing"
+    ],
+    "compartmentalize": [
+      "compartmentalizes",
+      "compartmentalized",
+      "compartmentalizing"
+    ],
+    "expropriate": [
+      "expropriates",
+      "expropriated",
+      "expropriating"
+    ],
+    "intermingle": [
+      "intermingles",
+      "intermingled",
+      "intermingling"
+    ],
+    "lade": [
+      "lades",
+      "laded",
+      "lading"
+    ]
+  },
+  "formsReviewed": true
+}
