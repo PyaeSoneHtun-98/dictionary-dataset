@@ -1,0 +1,46 @@
+{
+  "batch": 45,
+  "entries": 500,
+  "newForms": 158,
+  "priorLookupKeys": 36233,
+  "uniqueLookupKeys": 36891,
+  "totalHeadwords": 22500,
+  "nextBatch": 46,
+  "ipaFallbackCount": 12,
+  "ipaFallbackWords": [
+    "daikon",
+    "palimpsest",
+    "gerund",
+    "counterstrike",
+    "unbox",
+    "blabber",
+    "manumission",
+    "barbel",
+    "americium",
+    "quahog",
+    "intrepidity",
+    "piton"
+  ],
+  "lookupSha256": "f0d89f714330c000c4e7e8f3326e6e7b1af3c74ce33b5f134bd43279df70bef1",
+  "formsReviewed": true,
+  "selectionReview": {
+    "retained": 458,
+    "replacements": 42,
+    "secondSweepReplacements": 4
+  },
+  "formCorrections": {
+    "counterstrike": {
+      "removed": [
+        "counterstriked"
+      ],
+      "added": [
+        "counterstruck"
+      ],
+      "skippedCollision": [],
+      "kept": [
+        "counterstrikes",
+        "counterstriking"
+      ]
+    }
+  }
+}
