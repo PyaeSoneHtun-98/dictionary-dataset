@@ -1,0 +1,103 @@
+name: Select Batch 045 Candidates
+
+on:
+  push:
+    paths:
+      - 'staging/batch045/SELECT'
+
+permissions:
+  contents: write
+
+jobs:
+  select:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install lexical resources
+        run: |
+          python -m pip install --quiet wordfreq nltk cmudict lemminflect
+          python - <<'PY'
+          import nltk
+          nltk.download('wordnet', quiet=True)
+          nltk.download('names', quiet=True)
+          PY
+      - name: Build strict candidate pool
+        run: |
+          python - <<'PY'
+          import base64, hashlib, json, pathlib, re, zlib
+          from wordfreq import iter_wordlist, zipf_frequency
+          from nltk.corpus import wordnet as wn, names
+          import cmudict
+          from lemminflect import getLemma
+
+          root=pathlib.Path('.')
+          m=json.loads((root/'dictionary_manifest.json').read_text(encoding='utf-8'))
+          assert m['latestBatch']==44 and m['nextBatch']==45 and m['batchCount']==44 and m['totalHeadwords']==22000
+          assert m['lookup']['throughBatch']==44 and m['lookup']['uniqueLookupKeys']==36233 and m['lookup']['uniqueHeadwords']==22000 and m['lookup']['uniqueStoredForms']==14279
+          enc=(root/'lookup/used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          assert hashlib.sha256(enc.encode()).hexdigest()==m['lookup']['sha256']=='7b5319ffe8ccd028219c4607a8bc02e3767abfac1b138198ff4969be2bfffb6e'
+          prior=set(zlib.decompress(base64.b64decode(enc)).decode('utf-8').splitlines()); assert len(prior)==36233
+          pronunciations=cmudict.dict(); person_names={x.lower() for x in names.words()}
+
+          deny=set('''arapaho dickensian peavy stander strayer aerie americanization aneurism astrakhan bostonian fauntleroy hapsburg oklahoman pasteurization sunglass anasazi blest bourn lucite swart sixtieth stuffer unfrozen vernier westernization yagi cheviot copernican egyptology spic atheneum campana carolinian dunker jacksonian occident paiute boule greaser homburg jynx kwanzaa loth maser moulder neighbourly poinsettia strategical wagnerian aborigine bougainvillea chukchi dictaphone groat dail glace quebecois romany bunce camorra gallus iditarod iou mislaid muharram negus parttime pyrrhic romanoff arbour carmelite chablis conestoga disa glengarry cimarron hegelian luddite anaesthetist galliano graven guarani honourably luba lysol pinner vara amharic bundesbank freon gorgonzola kail luminal molle redskin bellis brule gordian hanoverian methuselah mickle'''.split())
+          bad_exact=set('''gass ruf soli trine emporia consortia memoranda herdsmen fila shew begat'''.split())
+          bad_defs=('capital of ','largest city','city in ','port town','river of ','island of ','region of ','mountain peak','basic unit of money','unit of money','currency of ','monetary unit','native or inhabitant','native of ','ethnic group','member of an ancient people','member of the north american','member of the muskhogean','member of a seafaring group','language spoken','official language','brand name','trademark','surname','given name','united states writer','united states statesman','french composer','french painter','german mathematician','german arms manufacturer','italian filmmaker','english printer','english scientist','austrian writer','roman emperor','greek mythology','hinduism) a sacred epic','national god','customs union comprising','type genus of','genus of','a family of','a member of the house of','an important dogsled race','the central bank of','a native or resident of')
+          yearpat=re.compile(r'\((?:c\.?\s*)?\d{3,4}[?]?[-–]\d{0,4}[?]?\)')
+
+          def clean_word(w):
+              return 3<=len(w)<=18 and w.isascii() and w.isalpha() and w==w.lower() and w not in prior and w not in deny and w not in bad_exact and w not in person_names
+
+          def source(w):
+              for s in wn.synsets(w):
+                  pos={'n':'noun','v':'verb','a':'adjective','s':'adjective','r':'adverb'}.get(s.pos())
+                  if not pos: continue
+                  lemmas={l.name().lower().replace('_','') for l in s.lemmas()}
+                  if w not in lemmas: continue
+                  if s.instance_hypernyms(): continue
+                  d=s.definition(); dl=d.lower()
+                  if any(x in dl for x in bad_defs) or yearpat.search(d): continue
+                  if dl.startswith(('a native or inhabitant','a member of an ethnic','a member of a people','a white native of')): continue
+                  return pos,d
+              return None
+
+          def obvious_inflection(w,pos):
+              if pos=='noun' and w.endswith('s') and not w.endswith(('ss','us','is','ics')):
+                  ls=getLemma(w,upos='NOUN') or ()
+                  if any(x.lower()!=w for x in ls): return True
+              if pos=='verb' or w.endswith(('ing','ed')):
+                  ls=getLemma(w,upos='VERB') or ()
+                  if any(x.lower()!=w for x in ls): return True
+              return False
+
+          out=[]; seen=set()
+          for w in iter_wordlist('en'):
+              w=w.lower().strip()
+              if w in seen or not clean_word(w): continue
+              z=zipf_frequency(w,'en')
+              if z>2.05: continue
+              if z<1.55: break
+              if w not in pronunciations: continue
+              src=source(w)
+              if not src: continue
+              pos,d=src
+              if obvious_inflection(w,pos): continue
+              dl=d.lower()
+              if w.endswith(('ian','ese','ite','ic')) and any(x in dl for x in ('people','country','region','language','religion','church','inhabitant','member of')): continue
+              phones=' '.join(pronunciations[w][0])
+              out.append((w,pos,z,phones,d)); seen.add(w)
+              if len(out)>=2300: break
+          assert len(out)==2300,len(out)
+          cdir=root/'staging'/'batch045'/'candidates'; cdir.mkdir(parents=True,exist_ok=True)
+          for i in range(0,len(out),100):
+              chunk=out[i:i+100]
+              (cdir/f'candidates_{i//100+1:02d}.tsv').write_text('\n'.join(f'{w}\t{p}\t{z:.2f}\t{ph}\t{d}' for w,p,z,ph,d in chunk)+'\n',encoding='utf-8')
+          (root/'staging'/'batch045'/'CANDIDATE_SUMMARY.json').write_text(json.dumps({'batch':45,'priorLookupKeys':len(prior),'candidateCount':len(out),'zipfMax':out[0][2],'zipfMin':out[-1][2]},indent=2)+'\n')
+          print('generated',len(out),out[0][2],out[-1][2])
+          PY
+      - name: Commit candidates
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch045/candidates staging/batch045/CANDIDATE_SUMMARY.json
+          git commit -m 'Stage Batch 045 candidates'
+          git push
