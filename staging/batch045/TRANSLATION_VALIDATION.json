@@ -1,0 +1,25 @@
+{
+  "batch": 45,
+  "finalWords": 500,
+  "uniqueWords": 500,
+  "translations": 500,
+  "partCounts": {
+    "part01.tsv": 100,
+    "part02.tsv": 100,
+    "part03.tsv": 100,
+    "part04.tsv": 100,
+    "part05.tsv": 100
+  },
+  "priorLookupKeys": 36233,
+  "priorCollisions": [],
+  "malformed": [],
+  "duplicates": [],
+  "missing": [],
+  "extra": [],
+  "badGlossOrPos": [],
+  "selectionReview": {
+    "retained": 458,
+    "replacements": 42,
+    "secondSweepReplacements": 4
+  }
+}
