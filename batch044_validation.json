@@ -1,0 +1,83 @@
+{
+  "batch": 44,
+  "entries": 500,
+  "newForms": 189,
+  "priorLookupKeys": 35544,
+  "uniqueLookupKeys": 36233,
+  "totalHeadwords": 22000,
+  "nextBatch": 45,
+  "ipaFallbackCount": 12,
+  "ipaFallbackWords": [
+    "brigantine",
+    "velveteen",
+    "gourmand",
+    "turbid",
+    "cero",
+    "factoid",
+    "indifferently",
+    "sophistry",
+    "cutlet",
+    "pedant",
+    "samosa",
+    "snog"
+  ],
+  "lookupSha256": "7b5319ffe8ccd028219c4607a8bc02e3767abfac1b138198ff4969be2bfffb6e",
+  "formsReviewed": true,
+  "selectionReview": {
+    "retained": 446,
+    "replacements": 54,
+    "secondSweepReplacements": 0
+  },
+  "formCorrections": {
+    "chide": {
+      "removed": [
+        "chidded"
+      ],
+      "kept": [
+        "chides",
+        "chided",
+        "chid",
+        "chidden",
+        "chiding"
+      ]
+    },
+    "outsell": {
+      "removed": [
+        "outselled"
+      ],
+      "added": [
+        "outsold"
+      ],
+      "skippedCollision": [],
+      "kept": [
+        "outsells",
+        "outselling"
+      ]
+    },
+    "surveil": {
+      "removed": [
+        "surveiled",
+        "surveiling"
+      ],
+      "added": [
+        "surveilled",
+        "surveilling"
+      ],
+      "skippedCollision": [],
+      "kept": [
+        "surveils"
+      ]
+    },
+    "lade": {
+      "added": [],
+      "skippedCollision": [
+        "laden"
+      ],
+      "kept": [
+        "lades",
+        "laded",
+        "lading"
+      ]
+    }
+  }
+}
