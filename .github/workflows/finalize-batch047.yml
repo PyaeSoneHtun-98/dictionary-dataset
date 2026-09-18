@@ -1,0 +1,126 @@
+name: Finalize Dictionary Batch 047
+
+on:
+  push:
+    paths:
+      - 'staging/batch047/FINALIZE'
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Assemble, validate, and finalize Batch 047
+        run: |
+          python - <<'PY'
+          import base64, hashlib, json, pathlib, re, shutil, zlib
+
+          root = pathlib.Path('.')
+          manifest_path = root / 'dictionary_manifest.json'
+          lookup_path = root / 'lookup' / 'used_keys_current.zlib.b64'
+          stage = root / 'staging' / 'batch047'
+          out = root / 'Batches' / 'dictionary_batch_047.json'
+
+          manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+          assert manifest['latestBatch'] == 46
+          assert manifest['nextBatch'] == 47
+          assert manifest['batchCount'] == 46
+          assert manifest['totalHeadwords'] == 23000
+          assert manifest['lookup']['throughBatch'] == 46
+          assert manifest['lookup']['uniqueLookupKeys'] == 37391
+          assert manifest['lookup']['uniqueHeadwords'] == 23000
+          assert manifest['lookup']['uniqueStoredForms'] == 14437
+
+          encoded = lookup_path.read_text(encoding='ascii').strip()
+          assert hashlib.sha256(encoded.encode('ascii')).hexdigest() == manifest['lookup']['sha256']
+          prior = set(zlib.decompress(base64.b64decode(encoded)).decode('utf-8').splitlines())
+          assert len(prior) == 37391
+
+          rows = []
+          for part in sorted(stage.glob('part*.tsv')):
+              for raw in part.read_text(encoding='utf-8').splitlines():
+                  if not raw.strip():
+                      continue
+                  fields = raw.split('\t')
+                  assert len(fields) == 4, (part, raw)
+                  word, pos, ipa, gloss = (x.strip() for x in fields)
+                  rows.append((word, pos, ipa, gloss))
+
+          assert len(rows) == 500, len(rows)
+          words = [r[0] for r in rows]
+          wordset = set(words)
+          assert len(wordset) == 500
+          assert not (wordset & prior), sorted(wordset & prior)[:20]
+          assert not out.exists()
+
+          allowed = {'adjective', 'adverb'}
+          latin = re.compile(r'[A-Za-z]')
+          entries = []
+          for word, pos, ipa, gloss in rows:
+              assert word.isascii() and word.isalpha() and word == word.lower(), word
+              assert pos in allowed, (word, pos)
+              assert ipa.startswith('/') and ipa.endswith('/') and len(ipa) > 2, (word, ipa)
+              assert gloss and not latin.search(gloss), (word, gloss)
+              entries.append({
+                  'word': word,
+                  'pronunciation': ipa,
+                  'forms': [],
+                  'meanings': [{'partOfSpeech': pos, 'burmese': [gloss]}],
+              })
+
+          out.parent.mkdir(parents=True, exist_ok=True)
+          out.write_text(
+              json.dumps({'version': 1, 'batch': 47, 'entries': entries}, ensure_ascii=False, indent=2) + '\n',
+              encoding='utf-8',
+          )
+
+          newkeys = prior | wordset
+          assert len(newkeys) == 37891
+          payload = '\n'.join(sorted(newkeys)).encode('utf-8')
+          new_encoded = base64.b64encode(zlib.compress(payload, 9)).decode('ascii')
+          lookup_path.write_text(new_encoded + '\n', encoding='ascii')
+
+          manifest['latestBatch'] = 47
+          manifest['nextBatch'] = 48
+          manifest['batchCount'] = 47
+          manifest['totalHeadwords'] = 23500
+          manifest['lookup']['throughBatch'] = 47
+          manifest['lookup']['uniqueLookupKeys'] = len(newkeys)
+          manifest['lookup']['uniqueHeadwords'] = 23500
+          manifest['lookup']['uniqueStoredForms'] = 14437
+          manifest['lookup']['sha256'] = hashlib.sha256(new_encoded.encode('ascii')).hexdigest()
+          assert manifest['totalHeadwords'] == manifest['batchCount'] * 500
+          manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+
+          readme = root / 'README.md'
+          text = readme.read_text(encoding='utf-8')
+          old = 'Batches 001–046 have been generated: **23,000 unique headwords**.'
+          new = 'Batches 001–047 have been generated: **23,500 unique headwords**.'
+          assert old in text
+          readme.write_text(text.replace(old, new, 1), encoding='utf-8')
+
+          shutil.rmtree(stage)
+          workflow = root / '.github' / 'workflows' / 'finalize-batch047.yml'
+          if workflow.exists():
+              workflow.unlink()
+
+          print('VALID')
+          print('entries:', len(entries))
+          print('prior_lookup_keys:', len(prior))
+          print('new_lookup_keys:', len(newkeys))
+          print('total_headwords:', manifest['totalHeadwords'])
+          PY
+
+      - name: Commit Batch 047
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add -A
+          git commit -m "Add dictionary Batch 047"
+          git push
