@@ -1,0 +1,6506 @@
+{
+  "version": 1,
+  "batch": 50,
+  "entries": [
+    {
+      "word": "under",
+      "pronunciation": "/ˈʌndɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အောက်ဘက်ရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "instead",
+      "pronunciation": "/ɪnstˈɛd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အစားထိုး၍"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multiple",
+      "pronunciation": "/mˈʌltɪpə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အများအပြားပါဝင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "atlantic",
+      "pronunciation": "/ɐtlˈæntɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အတ္တလန္တိတ်သမုဒ္ဒရာနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "interior",
+      "pronunciation": "/ɪntˈɪɹiɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အတွင်းပိုင်းဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "olympic",
+      "pronunciation": "/əlˈɪmpɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အိုလံပစ်ပြိုင်ပွဲနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "oriental",
+      "pronunciation": "/ˌoːɹɪˈɛntə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အရှေ့တိုင်းနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "protestant",
+      "pronunciation": "/pɹˈɑːɾɪstənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပရိုတက်စတင့်ဘာသာရေးနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "celtic",
+      "pronunciation": "/kˈɛltɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဆဲလ်တစ်လူမျိုးနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "baltic",
+      "pronunciation": "/bˈɔltɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဘော်လ်တစ်ဒေသနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gaelic",
+      "pronunciation": "/ɡˈe‍ɪlɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဂေးလစ်ဘာသာစကားနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jurassic",
+      "pronunciation": "/d‍ʒjʊ‍ɹɹˈæsɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဂျူရာဆစ်ခေတ်နှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cornish",
+      "pronunciation": "/kˈɔː‍ɹnɪʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကော်ဝေါဒေသနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cockney",
+      "pronunciation": "/kˈɑːkni/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လန်ဒန်အရှေ့ပိုင်းစကားသံနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "malay",
+      "pronunciation": "/məlˈe‍ɪ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မလေးလူမျိုးနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dickey",
+      "pronunciation": "/dˈɪki/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အားနည်းမကောင်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mislaid",
+      "pronunciation": "/mɪslˈe‍ɪd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မှားယွင်းထားမိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "halal",
+      "pronunciation": "/hˈælə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အစ္စလာမ်စည်းမျဉ်းအရ ခွင့်ပြုထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "underhand",
+      "pronunciation": "/ˌʌndɚhˈænd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မရိုးသားလျှို့ဝှက်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "subclavian",
+      "pronunciation": "/sʌbklˈævi‍ən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ညှပ်ရိုးအောက်ပိုင်းနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incan",
+      "pronunciation": "/ˈɪŋkæn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အင်ကာယဉ်ကျေးမှုနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unlit",
+      "pronunciation": "/ʌnlˈɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မီးမထွန်းထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unclad",
+      "pronunciation": "/ʌŋklˈæd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အဝတ်မဝတ်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unfirm",
+      "pronunciation": "/ʌnfˈɜːm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မခိုင်မာသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unfree",
+      "pronunciation": "/ʌnfɹˈiː/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လွတ်လပ်မှုမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unhewn",
+      "pronunciation": "/ʌnhjˈuːn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မခုတ်မဖြတ်ရသေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unkept",
+      "pronunciation": "/ʌŋkˈɛpt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မထိန်းသိမ်းထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unmown",
+      "pronunciation": "/ʌnmˈo‍ʊn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မြက်မရိတ်ရသေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unripe",
+      "pronunciation": "/ʌnɹˈa‍ɪp/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မမှည့်သေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unshod",
+      "pronunciation": "/ʌnʃˈɑːd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဖိနပ်မစီးထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unsown",
+      "pronunciation": "/ʌnsˈo‍ʊn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မစိုက်မပျိုးရသေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "untrod",
+      "pronunciation": "/ʌntɹˈɑːd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မနင်းမလျှောက်ရသေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unalert",
+      "pronunciation": "/ʌnɐlˈɜːt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မသတိရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unalike",
+      "pronunciation": "/jˈuːnəlˌa‍ɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မတူညီသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uncivil",
+      "pronunciation": "/ʌnsˈɪvə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မယဉ်ကျေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "undrawn",
+      "pronunciation": "/ʌndɹˈɔːn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မဆွဲထုတ်ရသေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unerect",
+      "pronunciation": "/ʌnɪɹˈɛkt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မထောင်မတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unhuman",
+      "pronunciation": "/ʌnhjˈuːmən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လူမဆန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unquiet",
+      "pronunciation": "/ʌŋkwˈa‍ɪ‍ət/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မငြိမ်သက်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unshorn",
+      "pronunciation": "/ʌnʃˈɔː‍ɹn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မရိတ်မဖြတ်ရသေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unsweet",
+      "pronunciation": "/ʌnswˈiːt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မချိုသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unswept",
+      "pronunciation": "/ʌnswˈɛpt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မလှည်းရသေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unsworn",
+      "pronunciation": "/ʌnswˈoː‍ɹn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကျမ်းမကျိန်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unchaste",
+      "pronunciation": "/ʌnt‍ʃˈe‍ɪst/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သီလစောင့်ထိန်းမှုမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "undreamt",
+      "pronunciation": "/ʌndɹˈɛmpt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မစိတ်ကူးဖူးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "undulate",
+      "pronunciation": "/ˈʌnd‍ʒuːlˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လှိုင်းပုံစံရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ungentle",
+      "pronunciation": "/ʌnd‍ʒˈɛntə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မနူးညံ့သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ungulate",
+      "pronunciation": "/ˈʌŋɡjʊlˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ခွာပါသောတိရစ္ဆာန်နှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unifilar",
+      "pronunciation": "/jˈuːnɪfˌɪlɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကြိုးမျှင်တစ်ချောင်းတည်းပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unipolar",
+      "pronunciation": "/jˌuːnɪpˈo‍ʊlɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဝင်ရိုးတစ်ဖက်တည်းရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "univalve",
+      "pronunciation": "/jˈuːnɪvˌælv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အခွံတစ်ဖက်တည်းရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unsmooth",
+      "pronunciation": "/ʌnsmˈuːð/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မချောမွေ့သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unsought",
+      "pronunciation": "/ʌnsˈɔːt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မရှာဖွေထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unspoilt",
+      "pronunciation": "/ʌnspˈɔ‍ɪlt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မပျက်စီးသေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unstrung",
+      "pronunciation": "/ʌnstɹˈʌŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကြိုးမတပ်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "untaught",
+      "pronunciation": "/ʌntˈɔːt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မသင်ကြားရသေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unbeknown",
+      "pronunciation": "/ʌnbᵻnˈo‍ʊn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မသိရှိထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "underdone",
+      "pronunciation": "/ˌʌndɚdˈʌn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မကျက်သေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "underhung",
+      "pronunciation": "/ˌʌndɚhˈʌŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အောက်ဘက်သို့ တွဲလောင်းကျသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "undershot",
+      "pronunciation": "/ˌʌndɚʃˈɑːt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အောက်ဘက်ပိုထွက်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "undersize",
+      "pronunciation": "/ˌʌndɚsˈa‍ɪz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပုံမှန်အရွယ်ထက်သေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unfertile",
+      "pronunciation": "/ʌnfˈɜːɾə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မျိုးပွားနိုင်စွမ်းမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unicuspid",
+      "pronunciation": "/jˈuːnɪkˌʌspɪd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ထိပ်တစ်ခုတည်းပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uniovular",
+      "pronunciation": "/jˌuːnɪˈɑːvjʊlɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဥတစ်လုံးတည်းမှ ဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unmanlike",
+      "pronunciation": "/ʌnmˈænla‍ɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ယောက်ျားပီသမှုမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unservile",
+      "pronunciation": "/ʌnsˈɜːva‍ɪl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကျွန်ဆန်မှုမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unsoluble",
+      "pronunciation": "/ʌnsˈɑːljuːbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မပျော်ဝင်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unthought",
+      "pronunciation": "/ʌnθˈɔːt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မစဉ်းစားထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uncomplete",
+      "pronunciation": "/ʌŋkəmplˈiːt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မပြည့်စုံသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "underslung",
+      "pronunciation": "/ˌʌndɚslˈʌŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အောက်ဘက်တွင် တပ်ဆင်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unfeminine",
+      "pronunciation": "/ʌnfˈɛmᵻnˌɪn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မိန်းမဆန်မှုမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unifoliate",
+      "pronunciation": "/jˌuːnɪfˈo‍ʊlɪˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရွက်တစ်ရွက်တည်းပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uninitiate",
+      "pronunciation": "/ˌʌnɪnˈɪʃɪˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မစတင်သေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uniovulate",
+      "pronunciation": "/jˌuːnɪˈɑːvjʊlˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဥတစ်လုံးတည်းပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unladylike",
+      "pronunciation": "/ʌnlˈe‍ɪdilˌa‍ɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အမျိုးသမီးပီသမှုမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unlifelike",
+      "pronunciation": "/ʌnlˈa‍ɪfla‍ɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အသက်ဝင်သလိုမထင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unparallel",
+      "pronunciation": "/ʌnpˈæɹəlˌɛl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပြိုင်တန်းမဟုတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unelaborate",
+      "pronunciation": "/ʌnᵻlˈæbɚɹˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မရှုပ်ထွေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unguiculate",
+      "pronunciation": "/ʌŋɡwˈɪkjʊlˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လက်သည်းသဏ္ဌာန်ရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uninucleate",
+      "pronunciation": "/ˌʌnɪnˈʌkliːˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နျူကလိယတစ်ခုတည်းရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unsectarian",
+      "pronunciation": "/ʌnsɛktˈɛɹi‍ən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဂိုဏ်းခွဲမလိုက်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unwholesome",
+      "pronunciation": "/ʌnhˈo‍ʊlsʌm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကျန်းမာရေးနှင့်မညီသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unarticulate",
+      "pronunciation": "/ʌnɑː‍ɹtˈɪkjʊlˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မရှင်းလင်းမပြတ်သားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unchristlike",
+      "pronunciation": "/ʌŋkɹˈa‍ɪstla‍ɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ခရစ်တော်၏ သဘောထားနှင့်မတူသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unconformist",
+      "pronunciation": "/ʌŋkənfˈoː‍ɹmɪst/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စံနှုန်းမလိုက်နာသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "universalist",
+      "pronunciation": "/jˌuːnɪvˈɜːsəlˌɪst/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အားလုံးနှင့်သက်ဆိုင်သည်ဟု ယူဆသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unregenerate",
+      "pronunciation": "/ˌʌnɹiːd‍ʒˈɛnɚɹˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မပြုပြင်မပြောင်းလဲသေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unseamanlike",
+      "pronunciation": "/ʌnsˈiːmənlˌa‍ɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သင်္ဘောသားမပီသသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ununderstood",
+      "pronunciation": "/ʌnˌʌndɚstˈʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နားမလည်ရသေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unpicturesque",
+      "pronunciation": "/ʌnpˌɪkt‍ʃɚɹˈɛsk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မလှပသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unworkmanlike",
+      "pronunciation": "/ʌnwˈɜːkmənlˌa‍ɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လက်ရာမကျသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unaffectionate",
+      "pronunciation": "/ʌnɐfˈɛkʃənət/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ချစ်ခင်မှုမပြသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uncompassionate",
+      "pronunciation": "/ʌŋkəmpˈæʃənət/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စာနာမှုမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ungentlemanlike",
+      "pronunciation": "/ʌnd‍ʒˈɛntə‍lmənlˌa‍ɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လူကြီးလူကောင်းမဆန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unstatesmanlike",
+      "pronunciation": "/ʌnstˈe‍ɪtsmənlˌa‍ɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နိုင်ငံ့ခေါင်းဆောင်မဆန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unappreciatively",
+      "pronunciation": "/ʌnɐpɹˈiːʃi‍ətˌɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "တန်ဖိုးမထားဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uncomprehensible",
+      "pronunciation": "/ʌŋkˌɑːmpɹihˈɛnsᵻbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နားမလည်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uncompromisingly",
+      "pronunciation": "/ʌŋkˈɑːmpɹəmˌa‍ɪzɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "လျှော့မပေးဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unconventionally",
+      "pronunciation": "/ʌŋkənvˈɛnʃənə‍li/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "သမားရိုးကျမဟုတ်ဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "undemocratically",
+      "pronunciation": "/ˌʌndˌɛməkɹˈæɾɪkli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ဒီမိုကရေစီနည်းမကျဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "undenominational",
+      "pronunciation": "/ˌʌndᵻnˌɑːmᵻnˈe‍ɪʃənə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဘာသာရေးဂိုဏ်းခွဲတစ်ခုတည်းနှင့်မဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "undiplomatically",
+      "pronunciation": "/ʌndˌɪpləmˈæɾɪkli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "သံတမန်နည်းမကျစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unforethoughtful",
+      "pronunciation": "/ʌnfˈɔː‍ɹθɔːtfə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကြိုတင်မစဉ်းစားတတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unimpressionable",
+      "pronunciation": "/ˌʌnɪmpɹˈɛʃənəbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလွယ်တကူ သြဇာမခံသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unrepresentative",
+      "pronunciation": "/ˌʌnɹˌɛpɹᵻzˈɛntətˌɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကိုယ်စားမပြုနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unsatisfactorily",
+      "pronunciation": "/ʌnsˌæɾɪsfˈæktɚɹəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မကျေနပ်ဖွယ်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unscientifically",
+      "pronunciation": "/ʌnsa‍ɪ‍əntˈɪfɪkli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "သိပ္ပံနည်းမကျစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unsystematically",
+      "pronunciation": "/ʌnsˌɪstəmˈæɾɪkli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "စနစ်မကျဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ununderstandably",
+      "pronunciation": "/ʌnˌʌndɚstˈændəbli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "နားမလည်နိုင်အောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonskid",
+      "pronunciation": "/nˌɑːnskˈɪd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ချော်မသွားစေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonslip",
+      "pronunciation": "/nˌɑːnslˈɪp/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မချော်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonuple",
+      "pronunciation": "/nˌɑːnˈʌpə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကိုးဆဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonpolar",
+      "pronunciation": "/nˌɑːnpˈo‍ʊlɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဝင်ရိုးသဘောမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonrigid",
+      "pronunciation": "/nˌɑːnɹˈɪd‍ʒɪd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မတင်းမမာသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonstick",
+      "pronunciation": "/nˌɑːnstˈɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မကပ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonsweet",
+      "pronunciation": "/nˌɑːnswˈiːt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မချိုသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonexempt",
+      "pronunciation": "/nˌɑːnɛɡzˈɛmpt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကင်းလွတ်ခွင့်မရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonimmune",
+      "pronunciation": "/nˌɑːnɪmjˈuːn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကိုယ်ခံအားမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonmodern",
+      "pronunciation": "/nˌɑːnmˈɑːdɚn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ခေတ်မီမဟုတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonmotile",
+      "pronunciation": "/nˌɑːnmˈo‍ʊɾa‍ɪl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မလှုပ်ရှားနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonpareil",
+      "pronunciation": "/nˌɑːnpˈɛɹɪl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ယှဉ်ပြိုင်သူမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonracist",
+      "pronunciation": "/nˌɑːnɹˈe‍ɪsɪst/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လူမျိုးရေးခွဲခြားမှုမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonrandom",
+      "pronunciation": "/nˌɑːnɹˈændəm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကျပန်းမဟုတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonviscid",
+      "pronunciation": "/nˌɑːnvˈɪsɪd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မစေးကပ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonfissile",
+      "pronunciation": "/nˌɑːnfˈɪsa‍ɪl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နျူကလီးယားကွဲထွက်မနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonuniform",
+      "pronunciation": "/nˌɑːnjˈuːnɪfˌɔː‍ɹm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တစ်ပြေးညီမဟုတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "noncellular",
+      "pronunciation": "/nˌɑːnsˈɛljʊlɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဆဲလ်ဖွဲ့စည်းပုံမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nongranular",
+      "pronunciation": "/nˌɑːŋɡɹˈænjʊlɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အမှုန်အဖုသဏ္ဌာန်မရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonliterate",
+      "pronunciation": "/nˌɑːnlˈɪɾɚɹət/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စာတတ်မြောက်မှုမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonparallel",
+      "pronunciation": "/nˌɑːnpˈæɹəlˌɛl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပြိုင်တန်းမဟုတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonvolatile",
+      "pronunciation": "/nˌɑːnvˈɑːlɐɾə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လွယ်လွယ်မငွေ့ပျံသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonagenarian",
+      "pronunciation": "/nˌɑːnˌe‍ɪd‍ʒənˈɛɹi‍ən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အသက်ကိုးဆယ်ကျော်သူနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonextensile",
+      "pronunciation": "/nˌɑːnɛkstˈɛnsa‍ɪl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဆန့်ထုတ်၍မရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonpasserine",
+      "pronunciation": "/nˌɑːnpˈæsɚɹˌiːn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ငှက်ကလေးမျိုးစုတွင်မပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonsovereign",
+      "pronunciation": "/nˌɑːnsˈɑːvɚɹˌɪn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အချုပ်အခြာအာဏာမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonprehensile",
+      "pronunciation": "/nˌɑːnpɹɪhˈɛnsa‍ɪl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဆုပ်ကိုင်နိုင်စွမ်းမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonreticulate",
+      "pronunciation": "/nˌɑːnɹɛtˈɪkjʊlˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကွန်ယက်ပုံစံမဟုတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonretractile",
+      "pronunciation": "/nˌɑːnɹᵻtɹˈækta‍ɪl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပြန်ရုပ်သိမ်း၍မရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "noncrystalline",
+      "pronunciation": "/nˌɑːŋkɹˈɪstɐlˌa‍ɪn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပုံဆောင်ခဲဖွဲ့စည်းပုံမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonparticulate",
+      "pronunciation": "/nˌɑːnpɚtˈɪkjʊlˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အမှုန်ပုံစံမဟုတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonprotractile",
+      "pronunciation": "/nˌɑːnpɹətɹˈækta‍ɪl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရှေ့သို့ဆန့်ထုတ်၍မရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nonprescription",
+      "pronunciation": "/nˌɑːnpɹɪskɹˈɪpʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဆေးစာမလိုသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "noncompetitively",
+      "pronunciation": "/nˌɑːŋkəmpˈɛɾᵻtˌɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ယှဉ်ပြိုင်မှုမရှိဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "noncomprehensive",
+      "pronunciation": "/nˌɑːŋkˌɑːmpɹihˈɛnsɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မပြည့်စုံမခြုံငုံသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "noncontroversial",
+      "pronunciation": "/nˌɑːŋkˌɑːntɹəvˈɜːʃə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အငြင်းပွားစရာမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "noninstitutional",
+      "pronunciation": "/nˌɑːnˌɪnstɪtˈuːʃənə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အဖွဲ့အစည်းဆိုင်ရာမဟုတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nontranslational",
+      "pronunciation": "/nˌɑːntɹænslˈe‍ɪʃənə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နေရာရွှေ့ပြောင်းမှုဆိုင်ရာမဟုတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nontransmissible",
+      "pronunciation": "/nˌɑːntɹænsmˈɪsᵻbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကူးစက် သို့မဟုတ် ပို့လွှတ်၍မရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inlaid",
+      "pronunciation": "/ˈɪnle‍ɪd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အတွင်းထည့်အလှဆင်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inmost",
+      "pronunciation": "/ˈɪnmo‍ʊst/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အတွင်းဆုံးဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "distaff",
+      "pronunciation": "/dɪstˈæf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အမျိုးသမီးဘက်ဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "implike",
+      "pronunciation": "/ɪmplˈa‍ɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နတ်ဆိုးကလေးဆန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inbuilt",
+      "pronunciation": "/ˈɪnbɪlt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မူလကတည်းက ထည့်သွင်းပါရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "indrawn",
+      "pronunciation": "/ɪndɹˈɔːn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အတွင်းသို့ဆုတ်ဝင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ingrown",
+      "pronunciation": "/ˈɪŋɡɹo‍ʊn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အတွင်းဘက်သို့ ကြီးထွားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inutile",
+      "pronunciation": "/ɪnjˈuːɾa‍ɪl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အသုံးမဝင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disclike",
+      "pronunciation": "/dɪsklˈa‍ɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဝိုင်းပြားချပ်ပုံရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disjunct",
+      "pronunciation": "/dɪsd‍ʒˈʌŋkt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကွဲကွာမဆက်စပ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disklike",
+      "pronunciation": "/dɪsklˈa‍ɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဝိုင်းပြားချပ်ပုံရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "distrait",
+      "pronunciation": "/dɪstɹˈe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အာရုံပျံ့လွင့်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "immotile",
+      "pronunciation": "/ɪmˈɑːɾa‍ɪl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မလှုပ်ရှားနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inchoate",
+      "pronunciation": "/ˈɪnt‍ʃo‍ʊt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အစပျိုးအဆင့်သာရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "indocile",
+      "pronunciation": "/ɪndˈɑːsə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ထိန်းရခက် မနာခံသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "indurate",
+      "pronunciation": "/ɪndˈʊ‍ɹɹe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မာကျောလာသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inexpert",
+      "pronunciation": "/ˌɪnˈɛkspɜːt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မကျွမ်းကျင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "insectan",
+      "pronunciation": "/ˌɪnsˈɛktən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အင်းဆက်နှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "insomuch",
+      "pronunciation": "/ˈɪnsəmˌʌt‍ʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ထိုမျှအထိ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "involute",
+      "pronunciation": "/ɪnvˈɑːluːt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အတွင်းသို့လိပ်ဝင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ironlike",
+      "pronunciation": "/ˈa‍ɪ‍ɚnla‍ɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သံကဲ့သို့မာကျောသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ironshod",
+      "pronunciation": "/ˈa‍ɪ‍ɚnʃɑːd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သံဖုံးတပ်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "misbegot",
+      "pronunciation": "/mɪsbᵻɡˈɑːt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မကောင်းစွာ ဖန်တီးဖြစ်ပေါ်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disciform",
+      "pronunciation": "/dɪssˈɪfɔː‍ɹm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဝိုင်းပြားပုံရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dissolute",
+      "pronunciation": "/dˈɪsəlˌuːt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အကျင့်စာရိတ္တပျက်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "imbricate",
+      "pronunciation": "/ɪmbɹᵻkˈe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလွှာလို ထပ်ဆင့်တင်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incertain",
+      "pronunciation": "/ɪnsˈɜːʔn̩/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မသေချာသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incorrupt",
+      "pronunciation": "/ɪŋkɚɹˈʌpt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လာဘ်မစား မဖောက်ပြန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incurvate",
+      "pronunciation": "/ɪŋkˈɜːve‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အတွင်းဘက်သို့ကွေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "insatiate",
+      "pronunciation": "/ɪnsˈe‍ɪʃɪˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မတင်းတိမ်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "insensate",
+      "pronunciation": "/ɪnsˈɛnse‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ခံစားသိရှိမှုမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intestate",
+      "pronunciation": "/ɪntˈɛste‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အမွေစာတမ်းမထားခဲ့သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inwrought",
+      "pronunciation": "/ɪnɹˈɔːt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အတွင်းထဲတွင် ရောနှောယက်ထည့်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dissoluble",
+      "pronunciation": "/dˈɪsəlˌʌbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပျော်ဝင်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "immoderate",
+      "pronunciation": "/ɪmˈɑːdɚɹət/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလွန်အကျွံဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inapposite",
+      "pronunciation": "/ɪnɐpˈɑːzɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မသင့်လျော်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "indiscrete",
+      "pronunciation": "/ˌɪndɪskɹˈiːt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အစိတ်အပိုင်းမခွဲထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inexplicit",
+      "pronunciation": "/ˌɪnɛksplˈɪsɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မရှင်းလင်းမတိကျသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "infrahuman",
+      "pronunciation": "/ˌɪnfɹəhjˈuːmən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လူသားအဆင့်အောက်ရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "innumerate",
+      "pronunciation": "/ɪnˈuːmɚɹˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဂဏန်းတွက်ချက်မှုမကျွမ်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intragroup",
+      "pronunciation": "/ˈɪntɹəɡɹˌuːp/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အုပ်စုအတွင်းဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "discalceate",
+      "pronunciation": "/dɪskˈælsiːˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ခြေဗလာဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "imperforate",
+      "pronunciation": "/ɪmpˈɜːfɚɹˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အပေါက်မပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "importunate",
+      "pronunciation": "/ˌɪmpoː‍ɹtˈuːne‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မရပ်မနားတောင်းဆိုတတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inelaborate",
+      "pronunciation": "/ɪnᵻlˈæbɚɹˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မရှုပ်ထွေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "interchurch",
+      "pronunciation": "/ˌɪntɚt‍ʃˈɜːt‍ʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဘုရားကျောင်းအဖွဲ့များအကြားဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "interlinear",
+      "pronunciation": "/ˌɪntɚlˈɪnɪ‍ɹ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စာကြောင်းများအကြားရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internecine",
+      "pronunciation": "/ˌɪntɚnˈɛsiːn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အချင်းချင်းဖျက်ဆီးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "interschool",
+      "pronunciation": "/ˌɪntɚskˈuːl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကျောင်းများအကြားဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "involucrate",
+      "pronunciation": "/ɪnvˈɑːləkɹˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အပြင်ဖုံးရွက်ပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disconsolate",
+      "pronunciation": "/dɪskˈɑːnsələt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နှစ်သိမ့်၍မရအောင် ဝမ်းနည်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "discorporate",
+      "pronunciation": "/dɪskˈoː‍ɹpɚɹˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရုပ်ခန္ဓာမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "indissoluble",
+      "pronunciation": "/ˌɪndˈɪsəlˌʌbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မပျော်ဝင် မခွဲဖျက်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "interlobular",
+      "pronunciation": "/ˌɪntɚlˈɑːbjʊlɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အမြှေးငယ်များအကြားရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "interspecies",
+      "pronunciation": "/ˌɪntɚspˈiːsiːz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မျိုးစိတ်များအကြားဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intralobular",
+      "pronunciation": "/ˌɪntɹəlˈɑːbjʊlɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အမြှေးငယ်တစ်ခုအတွင်းရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intraspecies",
+      "pronunciation": "/ˈɪntɹəspˌiːsiːz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မျိုးစိတ်တစ်မျိုးအတွင်းဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intuitionist",
+      "pronunciation": "/ɪntuːˈɪʃənˌɪst/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အတွင်းသိအယူအဆနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "misfortunate",
+      "pronunciation": "/mɪsfˈɔː‍ɹt‍ʃənət/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကံမကောင်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disobediently",
+      "pronunciation": "/dɪso‍ʊbˈiːdi‍əntli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မနာခံဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disparagingly",
+      "pronunciation": "/dɪspˈæɹɪd‍ʒɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အထင်သေးရှုတ်ချစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "displeasingly",
+      "pronunciation": "/dɪsplˈiːzɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မနှစ်မြို့ဖွယ်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disquietingly",
+      "pronunciation": "/dɪskwˈa‍ɪ‍əɾɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "စိတ်မငြိမ်မသက်ဖြစ်စေစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disseminative",
+      "pronunciation": "/dɪsˈɛmɪnətˌɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဖြန့်ဝေပြန့်ပွားစေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dissimulative",
+      "pronunciation": "/dɪsˈɪmjʊlətˌɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အမှန်ကိုဖုံးကွယ်ဟန်ဆောင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "distastefully",
+      "pronunciation": "/dɪstˈe‍ɪstfəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မနှစ်မြို့ဖွယ်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "distressfully",
+      "pronunciation": "/dɪstɹˈɛsfəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ဒုက္ခပေး နာကျင်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "distrustfully",
+      "pronunciation": "/dɪstɹˈʌstfəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မယုံသင်္ကာဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "imparipinnate",
+      "pronunciation": "/ɪmpˈæɹɪpˌɪne‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အဆုံးရွက်တစ်ရွက်ပါသော အမွေးပုံရွက်ဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "imperfectible",
+      "pronunciation": "/ɪmpˈɜːfɛktᵻbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပြည့်စုံကောင်းမွန်အောင် မလုပ်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "impermissibly",
+      "pronunciation": "/ɪmpɚmˈɪsᵻbli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ခွင့်မပြုနိုင်လောက်အောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "impertinently",
+      "pronunciation": "/ɪmpˈɜːtɪnəntli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ရိုင်းပြစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "implicational",
+      "pronunciation": "/ˌɪmplɪkˈe‍ɪʃənə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သွယ်ဝိုက်အဓိပ္ပာယ်ဆက်နွယ်မှုနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "importunately",
+      "pronunciation": "/ˌɪmpoː‍ɹtˈuːne‍ɪtli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မရပ်မနားတောင်းဆိုစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "impracticably",
+      "pronunciation": "/ɪmpɹˈæktɪkəbli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "လက်တွေ့မဖြစ်နိုင်လောက်အောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "improvidently",
+      "pronunciation": "/ɪmpɹˈɑːvɪdəntli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အနာဂတ်ကို မစီမံဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "imputrescible",
+      "pronunciation": "/ɪmpˈʌtɹɪsəbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မပုပ်သိုးနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inappreciable",
+      "pronunciation": "/ɪnɐpɹˈiːʃiəbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သိသာမထင်ရှားလောက်အောင် သေးငယ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inattentively",
+      "pronunciation": "/ɪnɐtˈɛntɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အာရုံမစိုက်ဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incognoscible",
+      "pronunciation": "/ɪŋkˈɑːɡnəsəbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မသိမြင်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incombustible",
+      "pronunciation": "/ɪŋkəmbˈʌstᵻbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မီးမလောင်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incommunicado",
+      "pronunciation": "/ɪŋkəmjˌuːnɪkˈɑːdo‍ʊ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပြင်ပနှင့် ဆက်သွယ်ခွင့်မရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inconceivably",
+      "pronunciation": "/ɪŋkənsˈiːvəbli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "စိတ်ကူးမယဉ်နိုင်လောက်အောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incontestible",
+      "pronunciation": "/ɪŋkəntˈɛstᵻbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ငြင်းခုံ၍မရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inconvertible",
+      "pronunciation": "/ɪŋkənvˈɜːɾᵻbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပြောင်းလဲ၍မရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incorporative",
+      "pronunciation": "/ɪŋkˈoː‍ɹpɹətˌɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပေါင်းစည်းထည့်သွင်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incriminatory",
+      "pronunciation": "/ɪŋkɹˈɪmɪnətˌoːɹi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အပြစ်ရှိကြောင်း သက်သေပြသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "indefatigably",
+      "pronunciation": "/ˌɪndᵻfˈæɾɪɡəbli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မပင်ပန်းမနားဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "indescribably",
+      "pronunciation": "/ˌɪndᵻskɹˈa‍ɪbəbli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ဖော်ပြမရလောက်အောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "indiscernible",
+      "pronunciation": "/ˌɪndɪsˈɜːnᵻbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ခွဲခြားမသိနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "industriously",
+      "pronunciation": "/ɪndˈʌstɹi‍əsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ကြိုးစားပမ်းစား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ineffectively",
+      "pronunciation": "/ɪnɪfˈɛktɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ထိရောက်မှုမရှိစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ineffectually",
+      "pronunciation": "/ɪnɪfˈɛkt‍ʃuːə‍li/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အကျိုးမဖြစ်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inefficacious",
+      "pronunciation": "/ɪnˌɛfɪkˈe‍ɪʃəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အာနိသင်မရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inexhaustibly",
+      "pronunciation": "/ˌɪnɛɡzˈɔːstᵻbli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ကုန်ခမ်းမသွားနိုင်အောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inexpediently",
+      "pronunciation": "/ˌɪnɛkspˈiːdi‍əntli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အခြေအနေနှင့်မသင့်လျော်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inexpungeable",
+      "pronunciation": "/ˌɪnɛkspˈʌnd‍ʒəbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဖျက်ပယ်၍မရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "influentially",
+      "pronunciation": "/ˌɪnfluːˈɛnʃə‍li/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "သြဇာရှိစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "informatively",
+      "pronunciation": "/ɪnfˈɔː‍ɹmətˌɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အချက်အလက်ပြည့်စုံစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inhomogeneous",
+      "pronunciation": "/ɪnhəmˈo‍ʊd‍ʒni‍əs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တစ်သားတည်းမဟုတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "injudiciously",
+      "pronunciation": "/ɪnd‍ʒuːdˈɪʃəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မဆင်မခြင်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inoffensively",
+      "pronunciation": "/ɪnəfˈɛnsɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မထိခိုက်မစော်ကားဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inopportunely",
+      "pronunciation": "/ɪnɑːpɚtˈuːnli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အချိန်မသင့်ဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inorganically",
+      "pronunciation": "/ˌɪnoː‍ɹɡˈænɪkli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အော်ဂဲနစ်မဟုတ်သောနည်းဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inquisitively",
+      "pronunciation": "/ɪŋkwˈɪzᵻtˌɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "စူးစမ်းလိုစိတ်ဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inquisitorial",
+      "pronunciation": "/ˌɪŋkwɪsɪtˈoːɹɪəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စစ်ကြောမေးမြန်းသည့်သဘောရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inscriptively",
+      "pronunciation": "/ɪnskɹˈɪptɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ကမ္ပည်းရေးထိုးသည့်ပုံစံဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "insensitively",
+      "pronunciation": "/ɪnsˈɛnsᵻtˌɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ခံစားချက်မထားဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "insinuatingly",
+      "pronunciation": "/ɪnsˈɪnjuːˌe‍ɪɾɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "သွယ်ဝိုက်အရိပ်အမြွက်ဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "instructively",
+      "pronunciation": "/ɪnstɹˈʌktɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "သင်ခန်းစာရစေစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "insusceptible",
+      "pronunciation": "/ɪnsəsˈɛptᵻbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ထိခိုက်ခံရလွယ်မှုမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "integumentary",
+      "pronunciation": "/ˌɪntɪɡjuːmˈɛntɚɹi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ခန္ဓာကိုယ်အပြင်ဖုံးအလွှာနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intemperately",
+      "pronunciation": "/ɪntˈɛmpɚɹətli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အလွန်အကျွံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "interactional",
+      "pronunciation": "/ˌɪntɚɹˈækʃənə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အပြန်အလှန်ဆက်သွယ်မှုနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "interlocutory",
+      "pronunciation": "/ˌɪntɚlˈo‍ʊkjuːtˌoːɹi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကြားဖြတ်ဆုံးဖြတ်ချက်နှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "interoceptive",
+      "pronunciation": "/ˌɪntɚɹˈo‍ʊsptɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ခန္ဓာကိုယ်အတွင်းအခြေအနေကို အာရုံခံသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "interoperable",
+      "pronunciation": "/ˌɪntɚɹˈɑːpɚɹəbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စနစ်အချင်းချင်း တွဲဖက်အသုံးပြုနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "interpretable",
+      "pronunciation": "/ɪntˈɜːpɹɪɾəbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အဓိပ္ပာယ်ဖွင့်ဆိုနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "interracially",
+      "pronunciation": "/ˌɪntɚɹˈe‍ɪʃə‍li/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "လူမျိုးကွဲများအကြား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "interrogatory",
+      "pronunciation": "/ɪntɪɹˈɑːɡətˌoːɹi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မေးမြန်းစစ်ဆေးသည့်သဘောရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "interspecific",
+      "pronunciation": "/ˌɪntɚspəsˈɪfɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မျိုးစိတ်ကွဲများအကြားဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intracerebral",
+      "pronunciation": "/ˈɪntɹəsɚɹˌɛbɹə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဦးနှောက်အတွင်းရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intradermally",
+      "pronunciation": "/ˌɪntɹədˈɜːmə‍li/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အရေပြားအတွင်းသို့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intramuscular",
+      "pronunciation": "/ˌɪntɹəmˈʌskjʊlɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကြွက်သားအတွင်းဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intraspecific",
+      "pronunciation": "/ˌɪntɹəspɪsˈɪfɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မျိုးစိတ်တစ်မျိုးအတွင်းဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "irreclaimable",
+      "pronunciation": "/ɪɹᵻklˈe‍ɪməbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပြန်လည်ရယူ သို့မဟုတ် ပြုပြင်၍မရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "irrecoverable",
+      "pronunciation": "/ɪɹᵻkˈʌvɚɹəbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပြန်လည်ရယူ၍မရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "irretrievable",
+      "pronunciation": "/ɪɹᵻtɹˈiːvəbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပြန်ဆယ်ယူ၍မရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mischievously",
+      "pronunciation": "/mˈɪst‍ʃɪvəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ဆိုးနွဲ့စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mistrustfully",
+      "pronunciation": "/mɪstɹˈʌstfəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မယုံသင်္ကာဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disappointedly",
+      "pronunciation": "/dˌɪsɐpˈɔ‍ɪntᵻdli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "စိတ်ပျက်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disbelievingly",
+      "pronunciation": "/dˌɪsbᵻlˈiːvɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မယုံသလို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disconsolately",
+      "pronunciation": "/dɪskˈɑːnsələtli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "နှစ်သိမ့်မရအောင် ဝမ်းနည်းစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "discontentedly",
+      "pronunciation": "/dɪskəntˈɛntᵻdli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မကျေနပ်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "discouragingly",
+      "pronunciation": "/dɪskˈɜːɹɪd‍ʒɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အားလျော့စေစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "discourteously",
+      "pronunciation": "/dɪskˈɜːɾi‍əsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မယဉ်ကျေးစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disingenuously",
+      "pronunciation": "/dˌɪsɪnd‍ʒˈɛnjuːəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မရိုးမသား ဟန်ဆောင်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disintegrative",
+      "pronunciation": "/dˌɪsˈɪntᵻɡɹətˌɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပြိုကွဲစေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disputatiously",
+      "pronunciation": "/dɪspjuːtˈe‍ɪʃəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အငြင်းပွားတတ်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "distributional",
+      "pronunciation": "/dˌɪstɹɪbjˈuːʃənə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဖြန့်ဝေမှုနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "distributively",
+      "pronunciation": "/dɪstɹˈɪbjuːtˌɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ခွဲဝေဖြန့်ကျက်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "immunochemical",
+      "pronunciation": "/ɪmjˌuːnəkˈɛmɪkə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကိုယ်ခံအားဆိုင်ရာ ဓာတုဗေဒနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inarticulately",
+      "pronunciation": "/ɪnɑː‍ɹtˈɪkjʊlˌe‍ɪtli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မရှင်းမလင်းစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incommensurate",
+      "pronunciation": "/ɪŋkəmˈɛnsɚɹət/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အချိုးမညီ မနှိုင်းယှဉ်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inconsequently",
+      "pronunciation": "/ɪŋkˈɑːnsɪkwəntli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အကြောင်းအကျိုးမဆီလျော်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inconsistently",
+      "pronunciation": "/ɪŋkənsˈɪstəntli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "တစ်သမတ်တည်းမရှိစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "indecipherable",
+      "pronunciation": "/ˌɪndᵻsˈa‍ɪfɚɹəbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဖတ်ရှုအဓိပ္ပာယ်ဖော်၍မရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "indeterminable",
+      "pronunciation": "/ˌɪndɪtˈɜːmɪnəbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သတ်မှတ်ဆုံးဖြတ်၍မရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "indeterminably",
+      "pronunciation": "/ˌɪndɪtˈɜːmɪnəbli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "သတ်မှတ်၍မရအောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inexpressively",
+      "pronunciation": "/ˌɪnɛkspɹˈɛsɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ခံစားချက်မဖော်ပြဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inexterminable",
+      "pronunciation": "/ˌɪnɛkstˈɜːmɪnəbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အမြစ်ပြတ်ဖယ်ရှား၍မရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "infelicitously",
+      "pronunciation": "/ɪnfɛlˈɪsɪɾəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မသင့်လျော် မကောင်းမွန်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inframaxillary",
+      "pronunciation": "/ˌɪnfɹəmˈæksɪlɚɹi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အပေါ်မေးရိုးအောက်ဘက်နှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ingratiatingly",
+      "pronunciation": "/ɪŋɡɹˈe‍ɪʃɪˌe‍ɪɾɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အကြိုက်ဆောင်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "insecticidally",
+      "pronunciation": "/ˌɪnsˌɛktɪsˈa‍ɪdə‍li/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ပိုးသတ်ဆေးအာနိသင်ဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "insurrectional",
+      "pronunciation": "/ɪnsɚɹˈɛkʃənə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပုန်ကန်ထကြွမှုနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intermediately",
+      "pronunciation": "/ˌɪntɚmˈiːdi‍ətli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အလယ်အလတ်အဆင့်ဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "interpretative",
+      "pronunciation": "/ɪntˈɜːpɹɪɾətˌɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အဓိပ္ပာယ်ဖွင့်ဆိုမှုနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intervertebral",
+      "pronunciation": "/ˌɪntɚvˈɜːɾɪbɹə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကျောရိုးဆစ်များအကြားရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intracutaneous",
+      "pronunciation": "/ˌɪntɹəkjuːtˈe‍ɪni‍əs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အရေပြားအတွင်းရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intramolecular",
+      "pronunciation": "/ˌɪntɹəməlˈɛkjʊlɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မော်လီကျူးတစ်ခုအတွင်းဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intransitively",
+      "pronunciation": "/ɪntɹˈænsᵻtˌɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ကံပုဒ်မယူဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intrapulmonary",
+      "pronunciation": "/ˈɪntɹəpˌʌlmənˌɛɹi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အဆုတ်အတွင်းရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "irreproachable",
+      "pronunciation": "/ɪɹᵻpɹˈo‍ʊt‍ʃəbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အပြစ်တင်စရာမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "irreproachably",
+      "pronunciation": "/ɪɹᵻpɹˈo‍ʊt‍ʃəbli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အပြစ်တင်စရာမရှိအောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "irreproducible",
+      "pronunciation": "/ɪɹᵻpɹədˈuːsᵻbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပြန်လည်ထုတ်လုပ်၍မရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "misanthropical",
+      "pronunciation": "/mɪsænθɹˈɑːpɪkə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လူသားများကို မုန်းတီးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disconcertingly",
+      "pronunciation": "/dɪskənsˈɜːɾɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "စိတ်ရှုပ်ထွေးမသက်မသာဖြစ်စေစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disinterestedly",
+      "pronunciation": "/dˌɪsˈɪntɹɪstᵻdli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ဘက်မလိုက်ဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disproportional",
+      "pronunciation": "/dˌɪspɹəpˈoː‍ɹʃənə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အချိုးမညီသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disrespectfully",
+      "pronunciation": "/dˌɪsɹɪspˈɛktfəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မရိုမသေစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dissatisfactory",
+      "pronunciation": "/dɪsˌæɾɪsfˈæktɚɹi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မကျေနပ်ဖွယ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "immunocompetent",
+      "pronunciation": "/ɪmjˈuːnəkˌɑːmpɪtənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကိုယ်ခံအားတုံ့ပြန်နိုင်စွမ်းရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "immunodeficient",
+      "pronunciation": "/ɪmjˈuːno‍ʊdfˌɪʃənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကိုယ်ခံအားချို့တဲ့သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "immunologically",
+      "pronunciation": "/ɪmjˌuːnəlˈɑːd‍ʒɪkli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ကိုယ်ခံအားဗေဒအရ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incommensurable",
+      "pronunciation": "/ɪŋkəmˈɛnʒɚɹəbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တူညီသောအတိုင်းအတာဖြင့် မနှိုင်းယှဉ်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incommunicative",
+      "pronunciation": "/ɪŋkəmjˈuːnɪkətˌɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စကားပြောဆက်သွယ်မှုနည်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incomprehensive",
+      "pronunciation": "/ɪŋkˌɑːmpɹihˈɛnsɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မခြုံငုံ မပြည့်စုံသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inconsiderately",
+      "pronunciation": "/ɪŋkənsˈɪdɚɹətli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "သူတစ်ပါးကို မစဉ်းစားဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incriminatingly",
+      "pronunciation": "/ɪŋkɹˈɪmᵻnˌe‍ɪɾɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အပြစ်ရှိကြောင်း ထင်ရှားစေစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inefficaciously",
+      "pronunciation": "/ɪnˌɛfɪkˈe‍ɪʃəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အာနိသင်မရှိစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "insignificantly",
+      "pronunciation": "/ˌɪnsɪɡnˈɪfɪkəntli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အရေးမပါလောက်အောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inspirationally",
+      "pronunciation": "/ˌɪnspɚɹˈe‍ɪʃənə‍li/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အားတက်စေသည့်ပုံစံဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "insubstantially",
+      "pronunciation": "/ˈɪnsəbstˌænʃə‍li/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မခိုင်မာ မသိသာစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "insurrectionary",
+      "pronunciation": "/ɪnsɚɹˈɛkʃənˌɛɹi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပုန်ကန်ထကြွမှုကို ထောက်ခံသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "interrogatively",
+      "pronunciation": "/ɪntˈɛɹəɡətˌɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မေးခွန်းထုတ်သလို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intralinguistic",
+      "pronunciation": "/ˌɪntɹəlɪŋɡwˈɪstɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဘာသာစကားတစ်ခုအတွင်းဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intramuscularly",
+      "pronunciation": "/ˌɪntɹəmˈʌskjʊlɚli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ကြွက်သားအတွင်းသို့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intrasentential",
+      "pronunciation": "/ˌɪntɹəzəntˈɛnʃə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဝါကျတစ်ခုအတွင်းဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "incontrovertibly",
+      "pronunciation": "/ɪŋkˌɑːntɹəvˈɜːɾᵻbli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ငြင်းမရအောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inextinguishable",
+      "pronunciation": "/ˌɪnɛkstˈɪŋɡwɪʃəbə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ငြိမ်းသတ်၍မရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "intraventricular",
+      "pronunciation": "/ˌɪntɹəvəntɹˈɪkjʊlɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အခန်းပေါက်အတွင်းရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overage",
+      "pronunciation": "/ˈo‍ʊvɚɹˌe‍ɪd‍ʒ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သတ်မှတ်အသက်ထက် ကျော်လွန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overarm",
+      "pronunciation": "/ˌo‍ʊvɚɹˈɑː‍ɹm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လက်ကိုအပေါ်မှ လွှဲပစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overbold",
+      "pronunciation": "/ˌo‍ʊvɚbˈo‍ʊld/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရဲတင်းလွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overbusy",
+      "pronunciation": "/ˌo‍ʊvɚbˈɪzi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလုပ်များလွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overfond",
+      "pronunciation": "/ˌo‍ʊvɚfˈɑːnd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလွန်ချစ်ခင်စွဲလမ်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overfull",
+      "pronunciation": "/ˌo‍ʊvɚfˈʊl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပြည့်လျှံလွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overhand",
+      "pronunciation": "/ˌo‍ʊvɚhˈænd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အပေါ်ဘက်မှ လက်လွှဲသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overleaf",
+      "pronunciation": "/ˌo‍ʊvɚlˈiːf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "နောက်စာမျက်နှာတွင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overmuch",
+      "pronunciation": "/ˌo‍ʊvɚmˈʌt‍ʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလွန်အကျွံများသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overnice",
+      "pronunciation": "/ˌo‍ʊvɚnˈa‍ɪs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရွေးချယ်လွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overripe",
+      "pronunciation": "/ˌo‍ʊvɚɹˈa‍ɪp/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မှည့်လွန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "oversewn",
+      "pronunciation": "/ˌo‍ʊvɚsˈo‍ʊn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလွန်အကျွံချုပ်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overside",
+      "pronunciation": "/ˌo‍ʊvɚsˈa‍ɪd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ဘေးနံရံကျော်၍"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multiform",
+      "pronunciation": "/mˈʌltifˌɔː‍ɹm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပုံစံမျိုးစုံရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multilane",
+      "pronunciation": "/mˌʌltɪlˈe‍ɪn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လမ်းကြောများစွာပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overhasty",
+      "pronunciation": "/ˌo‍ʊvɚhˈe‍ɪsti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလျင်စလိုလွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overlarge",
+      "pronunciation": "/ˌo‍ʊvɚlˈɑː‍ɹd‍ʒ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အရွယ်အစားကြီးလွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overproud",
+      "pronunciation": "/ˌo‍ʊvɚpɹˈa‍ʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မာနကြီးလွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multiphase",
+      "pronunciation": "/mˌʌltɪfˈe‍ɪz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အဆင့်များစွာပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multistory",
+      "pronunciation": "/mˌʌltɪstˈoːɹi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အထပ်များစွာပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overgreedy",
+      "pronunciation": "/ˌo‍ʊvɚɡɹˈiːdi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လောဘကြီးလွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overstrung",
+      "pronunciation": "/ˌo‍ʊvɚstɹˈʌŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စိတ်တင်းကျပ်လွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multicolour",
+      "pronunciation": "/mˌʌltɪkˈʌlɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အရောင်မျိုးစုံပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multiethnic",
+      "pronunciation": "/mˌʌltɪˈɛθnɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လူမျိုးစုမျိုးစုံပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multinomial",
+      "pronunciation": "/mˌʌltɪnˈo‍ʊmɪəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကိန်းဂဏန်းအသုံးအနှုန်းများစွာပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multiparous",
+      "pronunciation": "/mˌʌltɪpˈæɹəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တစ်ကြိမ်လျှင် သားများစွာမွေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multipotent",
+      "pronunciation": "/mˌʌltɪpˈo‍ʊtənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဆဲလ်အမျိုးအစားများစွာ ဖြစ်ပေါ်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multistorey",
+      "pronunciation": "/mˌʌltɪstˈoːɹi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အထပ်များစွာပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multivalent",
+      "pronunciation": "/mˌʌltɪvˈe‍ɪlənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တန်ဖိုး သို့မဟုတ် စွမ်းရည်မျိုးစုံရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overanxious",
+      "pronunciation": "/ˌo‍ʊvɚɹˈæŋʃəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စိုးရိမ်လွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overcareful",
+      "pronunciation": "/ˌo‍ʊvɚkˈɛ‍ɹfə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သတိထားလွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overcurious",
+      "pronunciation": "/ˌo‍ʊvɚkjˈʊ‍ɹɹi‍əs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စပ်စုလွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overjealous",
+      "pronunciation": "/ˌo‍ʊvɚd‍ʒˈɛləs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မနာလိုလွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overserious",
+      "pronunciation": "/ˌo‍ʊvɚsˈɪɹiəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလေးအနက်ထားလွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overvaliant",
+      "pronunciation": "/ˌo‍ʊvɚvˈæli‍ənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရဲရင့်လွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multifarious",
+      "pronunciation": "/mˌʌltɪfˈɛɹi‍əs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အမျိုးမျိုးကွဲပြားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multipartite",
+      "pronunciation": "/mˌʌltɪpˈɑː‍ɹɾa‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အစိတ်အပိုင်းများစွာ ခွဲထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overabundant",
+      "pronunciation": "/ˌo‍ʊvɚɹɐbˈʌndənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလွန်များပြားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overcautious",
+      "pronunciation": "/ˌo‍ʊvɚkˈɔːʃəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သတိကြီးလွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overcritical",
+      "pronunciation": "/ˌo‍ʊvɚkɹˈɪɾɪkə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဝေဖန်လွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overdelicate",
+      "pronunciation": "/ˌo‍ʊvɚdˈɛlᵻkət/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နူးညံ့လွယ်လွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overfamiliar",
+      "pronunciation": "/ˌo‍ʊvɚfəmˈɪlɪ‍ɹ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရင်းနှီးလွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overgenerous",
+      "pronunciation": "/ˌo‍ʊvɚd‍ʒˈɛnɚɹəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရက်ရောလွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multicellular",
+      "pronunciation": "/mˌʌltɪsˈɛljʊlɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဆဲလ်များစွာပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multinucleate",
+      "pronunciation": "/mˌʌltɪnˈuːklɪˌe‍ɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နျူကလိယများစွာပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overambitious",
+      "pronunciation": "/ˌo‍ʊvɚɹæmbˈɪʃəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရည်မှန်းချက်ကြီးလွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overbearingly",
+      "pronunciation": "/ˌo‍ʊvɚbˈɛɹɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အာဏာရှင်ဆန်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overcredulous",
+      "pronunciation": "/ˌo‍ʊvɚkɹˈɛd‍ʒuːləs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ယုံလွယ်လွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overemotional",
+      "pronunciation": "/ˌo‍ʊvɚɹɪmˈo‍ʊʃənə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ခံစားချက်လွန်ကဲသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overindulgent",
+      "pronunciation": "/ˌo‍ʊvɚɹɪndˈʌld‍ʒənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလိုလိုက်လွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multifactorial",
+      "pronunciation": "/mˌʌltɪfæktˈoːɹɪəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အကြောင်းရင်းများစွာကြောင့်ဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multifariously",
+      "pronunciation": "/mˌʌltɪfˈɛɹi‍əsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အမျိုးမျိုးကွဲပြားစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multilaterally",
+      "pronunciation": "/mˌʌltɪlˈæɾɚɹə‍li/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ဘက်ပေါင်းစုံမှ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multiplicative",
+      "pronunciation": "/mˌʌltɪplˈɪkətˌɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မြှောက်ပွားသည့်သဘောရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overpoweringly",
+      "pronunciation": "/ˌo‍ʊvɚpˈa‍ʊɚɹɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အလွန်ပြင်းထန်ဆွဲဆောင်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "oversolicitous",
+      "pronunciation": "/ˌo‍ʊvɚsəlˈɪsɪɾəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စိုးရိမ်ဂရုစိုက်လွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multidimensional",
+      "pronunciation": "/mˌʌltɪdᵻmˈɛnʃənə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အတိုင်းအတာများစွာရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multiplicatively",
+      "pronunciation": "/mˌʌltɪplˈɪkətˌɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မြှောက်ပွားသည့်နည်းဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overenthusiastic",
+      "pronunciation": "/ˌo‍ʊvɚɹɛnθˌuːziˈæstɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စိတ်အားထက်သန်လွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "alary",
+      "pronunciation": "/ɐlˈɑː‍ɹɹi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တောင်ပံနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "amnic",
+      "pronunciation": "/ˈæmnɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သန္ဓေသားရေမွှာအိတ်နှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "apish",
+      "pronunciation": "/ˈe‍ɪpɪʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မျောက်ကဲ့သို့ တုပတတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "areal",
+      "pronunciation": "/ˈɛɹi‍əl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဧရိယာနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "auric",
+      "pronunciation": "/ˈɔːɹɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရွှေဓာတ်နှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "azoic",
+      "pronunciation": "/æzˈo‍ʊɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အသက်ရှိအရာမရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "balky",
+      "pronunciation": "/bˈɔːki/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ခေါင်းမာ၍ မလုပ်လိုသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "baric",
+      "pronunciation": "/bˈæɹɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဖိအား သို့မဟုတ် အလေးချိန်နှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "barky",
+      "pronunciation": "/bˈɑː‍ɹki/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သစ်ခေါက်ကဲ့သို့သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "beamy",
+      "pronunciation": "/bˈiːmi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တောက်ပကျယ်ပြန့်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bilgy",
+      "pronunciation": "/bˈɪld‍ʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သင်္ဘောအောက်ခန်းအနံ့ဆိုးကဲ့သို့သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "blowy",
+      "pronunciation": "/blˈo‍ʊi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လေတိုက်များသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "boggy",
+      "pronunciation": "/bˈɑːɡi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရွှံ့နွံထူသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bosky",
+      "pronunciation": "/bˈɑːski/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သစ်ပင်ထူထပ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "braky",
+      "pronunciation": "/bɹˈe‍ɪki/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဖန်ပင်များထူထပ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bulgy",
+      "pronunciation": "/bˈʌld‍ʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဖောင်းကားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "burry",
+      "pronunciation": "/bˈɜːɹi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဆူးသီးများပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cecal",
+      "pronunciation": "/sˈɛkə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အူမကြီးအစပိုင်းနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ceric",
+      "pronunciation": "/sˈɛɹɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စီရီယမ်ဓာတ်နှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "choky",
+      "pronunciation": "/t‍ʃˈo‍ʊki/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အသက်ရှူကြပ်စေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "comal",
+      "pronunciation": "/kˈo‍ʊmə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အမွေးစုကဲ့သို့သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "doric",
+      "pronunciation": "/dˈoːɹɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဒေါရစ်ဗိသုကာပုံစံနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dormy",
+      "pronunciation": "/dˈoː‍ɹmi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အိပ်ငိုက်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "drily",
+      "pronunciation": "/dɹˈa‍ɪli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ခြောက်သွေ့တင်းမာစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dully",
+      "pronunciation": "/dˈʌli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မတောက်ပ မစိတ်ဝင်စားဖွယ်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dural",
+      "pronunciation": "/dˈʊ‍ɹɹə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဦးနှောက်အပြင်ဆုံးအမြှေးနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "faddy",
+      "pronunciation": "/fˈædi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ခေတ်စားမှုနောက်လိုက်လွယ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ferny",
+      "pronunciation": "/fˈɜːni/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဖန်ပင်များပေါက်နေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fitly",
+      "pronunciation": "/fˈɪtli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "သင့်တော်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fluky",
+      "pronunciation": "/flˈʌki/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကံတရားပေါ်မူတည်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fugal",
+      "pronunciation": "/fjˈuːɡə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဖျူးဂ်ဂီတပုံစံနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fuggy",
+      "pronunciation": "/fˈʌɡi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လေမဝင်မထွက် ပူလောင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gamey",
+      "pronunciation": "/ɡˈe‍ɪmi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တောသားအနံ့အရသာပြင်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gauzy",
+      "pronunciation": "/ɡˈɔːzi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပါးလွှာဖောက်မြင်ရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gayly",
+      "pronunciation": "/ɡˈe‍ɪli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ပျော်ရွှင်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "genic",
+      "pronunciation": "/d‍ʒˈɛnɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဖြစ်ပေါ်စေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "germy",
+      "pronunciation": "/d‍ʒˈɜːmi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပိုးမွှားများသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "glary",
+      "pronunciation": "/ɡlˈɛɹi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မျက်စိကျိန်းအောင် တောက်ပသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "glial",
+      "pronunciation": "/ɡlˈa‍ɪəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အာရုံကြောထောက်ပံ့ဆဲလ်နှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gluey",
+      "pronunciation": "/ɡlˈuːi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကော်ကဲ့သို့ စေးကပ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "goosy",
+      "pronunciation": "/ɡˈuːsi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ငန်းကဲ့သို့သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gouty",
+      "pronunciation": "/ɡˈa‍ʊɾi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဂေါက်ရောဂါနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "grapy",
+      "pronunciation": "/ɡɹˈe‍ɪpi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စပျစ်သီးကဲ့သို့သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gushy",
+      "pronunciation": "/ɡˈʌʃi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ခံစားချက်ဖော်ပြလွန်ကဲသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gyral",
+      "pronunciation": "/d‍ʒˈa‍ɪɹə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဦးနှောက်အခေါက်ကွေးများနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hadal",
+      "pronunciation": "/hˈædə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သမုဒ္ဒရာအနက်ဆုံးပိုင်းနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "haply",
+      "pronunciation": "/hˈæpli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ဖြစ်ချင်တော့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hemal",
+      "pronunciation": "/hˈɛmə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သွေးနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hemic",
+      "pronunciation": "/hˈɛmɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သွေးနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hoary",
+      "pronunciation": "/hˈoːɹi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဆံပင်ဖြူရင့်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "holey",
+      "pronunciation": "/hˈo‍ʊli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အပေါက်များပြားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hulky",
+      "pronunciation": "/hˈʌlki/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကိုယ်ထည်ကြီးမားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "humic",
+      "pronunciation": "/hjˈuːmɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မြေဆွေးဓာတ်နှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "icily",
+      "pronunciation": "/ˈa‍ɪsili/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အေးစက်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ictal",
+      "pronunciation": "/ˈa‍ɪktə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တက်ရောဂါဖြစ်ချိန်နှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ictic",
+      "pronunciation": "/ˈa‍ɪktɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တက်ခြင်းနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jaggy",
+      "pronunciation": "/d‍ʒˈæɡi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ချွန်ထက်မညီညာသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jolty",
+      "pronunciation": "/d‍ʒˈo‍ʊlti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တုန်လှုပ်တုန်ခါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jural",
+      "pronunciation": "/d‍ʒjˈʊ‍ɹɹə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "laxly",
+      "pronunciation": "/lˈæksli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "လျော့ရဲစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lossy",
+      "pronunciation": "/lˈɔsi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဒေတာဆုံးရှုံးမှုရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lotic",
+      "pronunciation": "/lˈo‍ʊɾɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စီးဆင်းနေသောရေနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "manky",
+      "pronunciation": "/mˈæŋki/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ညစ်ပတ်မနှစ်မြို့ဖွယ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mesic",
+      "pronunciation": "/mˈɛzɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အစိုဓာတ်အလယ်အလတ်ရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mingy",
+      "pronunciation": "/mˈɪnd‍ʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကပ်စေးနည်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mirky",
+      "pronunciation": "/mˈɜːki/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မှောင်မိုက်မရှင်းလင်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "molal",
+      "pronunciation": "/mˈo‍ʊlə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မော်လယ်အာရုံစူးစိုက်မှုနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "moony",
+      "pronunciation": "/mˈuːni/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လကဲ့သို့ သို့မဟုတ် အိပ်မက်ဆန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mothy",
+      "pronunciation": "/mˈɑːθi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပိုးဖလံစားထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mussy",
+      "pronunciation": "/mˈʌsi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရှုပ်ပွနေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "newsy",
+      "pronunciation": "/nˈuːzwa‍ɪ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သတင်းများစွာပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "niffy",
+      "pronunciation": "/nˈɪfi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အနံ့မကောင်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nubby",
+      "pronunciation": "/nˈʌbi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အဖုအထစ်များသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "octal",
+      "pronunciation": "/ˈɑːktə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရှစ်အခြေဂဏန်းစနစ်နှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ohmic",
+      "pronunciation": "/ˈo‍ʊmɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လျှပ်စစ်ခုခံအားနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "palmy",
+      "pronunciation": "/pˈɑːmi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အောင်မြင်စည်ပင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "parky",
+      "pronunciation": "/pˈɑː‍ɹki/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အေးစိမ့်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pawky",
+      "pronunciation": "/pˈɔːki/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပါးနပ်ပြီး ဟာသခြောက်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "peaty",
+      "pronunciation": "/pˈiːɾi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သစ်ဆွေးပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "plumy",
+      "pronunciation": "/plˈʌmi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အမွေးတောင်ကဲ့သို့သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "podgy",
+      "pronunciation": "/pˈɑːd‍ʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဝဝဖိုင့်ဖိုင့်ဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pricy",
+      "pronunciation": "/pɹˈa‍ɪsi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စျေးကြီးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "prosy",
+      "pronunciation": "/pɹˈo‍ʊzi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သာမန်ပျင်းရိဖွယ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pulpy",
+      "pronunciation": "/pˈʌlpi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပျော့ဖတ်ကဲ့သို့သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "punic",
+      "pronunciation": "/pjˈuːnɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကာသေ့ဂျ်ယဉ်ကျေးမှုနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pupal",
+      "pronunciation": "/pjˈuːpə‍l/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပိုးရုပ်ဖုံးအဆင့်နှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pursy",
+      "pronunciation": "/pˈɜːsi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အသက်ရှူမဝဖြစ်လွယ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rangy",
+      "pronunciation": "/ɹˈæŋi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အရပ်ရှည်သွယ်လျသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "redly",
+      "pronunciation": "/ɹˈɛdli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အနီရောင်ဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reefy",
+      "pronunciation": "/ɹˈiːfi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကျောက်တန်းများသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "riant",
+      "pronunciation": "/ɹˈa‍ɪənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပျော်ရွှင်ပြုံးရွှင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "roily",
+      "pronunciation": "/ɹˈɔ‍ɪli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နောက်ကျိလှုပ်ရှားနေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ropey",
+      "pronunciation": "/ɹˈo‍ʊpi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကြိုးကဲ့သို့သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "runic",
+      "pronunciation": "/ɹˈuːnɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရူးန်အက္ခရာနှင့်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "runty",
+      "pronunciation": "/ɹˈʌnti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အရွယ်သေးညှက်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rushy",
+      "pronunciation": "/ɹˈʌʃi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကျူပင်များထူထပ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rutty",
+      "pronunciation": "/ɹˈʌɾi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဘီးရာချိုင့်များသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "seamy",
+      "pronunciation": "/sˈiːmi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ညစ်နွမ်းမနှစ်မြို့ဖွယ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sedgy",
+      "pronunciation": "/sˈɛd‍ʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မြက်ချွန်ပင်များထူထပ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "silty",
+      "pronunciation": "/sˈɪlti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နုန်းအနှစ်များသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "slaty",
+      "pronunciation": "/slˈe‍ɪɾi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကျောက်သင်ပုန်းကဲ့သို့သော"
+          ]
+        }
+      ]
+    }
+  ]
+}

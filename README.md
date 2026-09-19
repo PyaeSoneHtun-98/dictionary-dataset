@@ -12,7 +12,7 @@ English → Burmese dictionary data for **Subtitle Bridge**, a subtitle/movie lo
 
 ## Current progress
 
-Batches 001–049 have been generated: **24,500 unique headwords**.
+Batches 001–050 have been generated: **25,000 unique headwords**.
 
 The repository is the source of truth for all work from Batch 024 onward. The historical lookup keys from Batches 001–023 are stored in `lookup/legacy_used_keys_001_023.zlib.b64` so new batches can be checked against all prior headwords and inflected forms even before the older batch JSON files are mirrored here.
 
