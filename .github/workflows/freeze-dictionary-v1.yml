@@ -1,0 +1,98 @@
+name: Freeze dictionary v1.0
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/freeze-dictionary-v1.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  freeze:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout dataset
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Install morphology audit dependency
+        run: python -m pip install --disable-pip-version-check lemminflect==0.2.3
+
+      - name: Fetch current Subtitle Bridge legacy fallback
+        run: |
+          curl -fsSL \
+            https://raw.githubusercontent.com/PyaeSoneHtun-98/stremio_dictionary/master/src/main/translation/legacyDictionary.ts \
+            -o /tmp/legacyDictionary.ts
+
+      - name: Build and validate final candidate
+        run: |
+          python scripts/finalize_v1.py \
+            --legacy-ts /tmp/legacyDictionary.ts \
+            --report-json finalization_report.json \
+            --report-md finalization_report.md \
+            --candidate dictionary_v1_candidate.json
+
+      - name: Verify intentional residual verb exceptions
+        run: |
+          python scripts/audit_verb_forms.py \
+            --output verb_form_audit_final.json
+
+      - name: Freeze v1.0 artifact and metadata
+        run: |
+          python scripts/freeze_v1.py \
+            --candidate dictionary_v1_candidate.json \
+            --audit finalization_report.json \
+            --verb-audit verb_form_audit_final.json \
+            --manifest dictionary_manifest.json \
+            --output dist/dictionary_v1.json \
+            --summary FINALIZATION.md \
+            --source-commit "$GITHUB_SHA"
+
+      - name: Verify frozen artifact
+        run: |
+          python - <<'PY'
+          import hashlib
+          import json
+          from pathlib import Path
+
+          manifest = json.loads(Path("dictionary_manifest.json").read_text(encoding="utf-8"))
+          artifact = Path(manifest["release"]["artifact"])
+          actual = hashlib.sha256(artifact.read_bytes()).hexdigest()
+          expected = manifest["release"]["artifactSha256"]
+          if actual != expected:
+              raise SystemExit(f"artifact SHA mismatch: {actual} != {expected}")
+          doc = json.loads(artifact.read_text(encoding="utf-8"))
+          if doc.get("version") != 1 or len(doc.get("entries", [])) != 30000:
+              raise SystemExit("frozen artifact does not contain exactly 30,000 v1 entries")
+          print("Frozen artifact verification: PASS")
+          print("Entries:", len(doc["entries"]))
+          print("SHA-256:", actual)
+          PY
+
+      - name: Check generated diff
+        run: |
+          git diff --check
+          git status --short
+          git diff --stat
+
+      - name: Commit frozen v1.0 release
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/dictionary_v1.json dictionary_manifest.json FINALIZATION.md
+          git commit -m "Freeze Subtitle Bridge Dictionary v1.0"
+          git push origin HEAD:master
+
+      - name: Upload final release audit
+        uses: actions/upload-artifact@v4
+        with:
+          name: subtitle-bridge-dictionary-v1.0-audit
+          path: |
+            FINALIZATION.md
+            finalization_report.json
+            verb_form_audit_final.json
+            dist/dictionary_v1.json
