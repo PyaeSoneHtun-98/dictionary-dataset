@@ -1,0 +1,122 @@
+name: Rank Dictionary Batch 059 Candidates
+
+on:
+  push:
+    paths:
+      - 'staging/batch059/RANK'
+
+permissions:
+  contents: write
+
+jobs:
+  rank:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: pip -q install wordfreq
+      - name: Rank unused WordNet lemmas
+        run: |
+          python - <<'PY'
+          import base64, io, pathlib, re, urllib.request, zipfile, zlib
+          from wordfreq import zipf_frequency
+
+          root=pathlib.Path('.')
+          stage=root/'staging'/'batch059'
+          stage.mkdir(parents=True,exist_ok=True)
+          used=set(zlib.decompress(base64.b64decode(
+              (root/'lookup'/'used_keys_current.zlib.b64').read_text().strip()
+          )).decode().splitlines())
+
+          def raw(url):
+              with urllib.request.urlopen(url,timeout=40) as r:return r.read()
+          def text(url):return raw(url).decode('utf-8')
+
+          wn='https://raw.githubusercontent.com/evllabs/JGAAP/master/src/com/jgaap/resources/wordnet/'
+          source={}; alllex=set()
+          for pos,file in [('noun','index.noun'),('verb','index.verb'),('adjective','index.adj'),('adverb','index.adv')]:
+              s=set()
+              for line in text(wn+file).splitlines():
+                  if not line or line.startswith(' '):continue
+                  w=line.split()[0].lower()
+                  if re.fullmatch(r'[a-z]{4,19}',w):
+                      s.add(w); alllex.add(w)
+              source[pos]=s
+
+          names=set()
+          try:
+              z=zipfile.ZipFile(io.BytesIO(raw('https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/names.zip')))
+              for fn in z.namelist():
+                  if fn.endswith(('male.txt','female.txt')):
+                      names.update(x.strip().lower() for x in z.read(fn).decode().splitlines() if x.strip().isalpha())
+          except Exception: pass
+
+          bad_sem=set()
+          for line in text(wn+'data.noun').splitlines():
+              if not line or line.startswith(' '):continue
+              left=line.split('|',1)[0].split()
+              if len(left)<5:continue
+              try:
+                  lexnum=int(left[1]); wc=int(left[3],16)
+              except:continue
+              if lexnum not in (15,18):continue
+              j=4
+              for _ in range(wc):
+                  if j+1>=len(left):break
+                  w=left[j].lower()
+                  if '_' not in w and re.fullmatch(r'[a-z]{4,19}',w):bad_sem.add(w)
+                  j+=2
+
+          banned=set('''monday tuesday wednesday thursday friday saturday sunday january february march april may june july august september october november december
+          american english french german chinese british spanish russian japanese indian italian christian jewish greek catholic soviet irish korean mexican african nazi asian swedish arabic turkish canadian thai egyptian scottish australian vietnamese portuguese danish brazilian israeli hebrew hungarian islamic norwegian buddhist hindu czech iraqi iranian indonesian dutch cuban swiss muslim arab
+          america england france germany china japan india italy russia mexico canada spain britain europe africa asia texas california chicago paris london rome washington hollywood israel tokyo berlin boston florida miami scotland korea moscow australia vietnam egypt iraq brazil georgia hawaii manhattan seattle houston dallas cuba venice milan switzerland poland vienna seoul ireland jerusalem greece delhi mumbai arizona oxford ohio shanghai sweden holland denver madrid thailand pakistan philadelphia alaska carolina colorado iran baltimore amsterdam mississippi portugal norway manchester prague indiana denmark santiago michigan portland singapore taiwan athens geneva argentina beijing babylon nevada austria dubai columbia richmond istanbul toronto kentucky warsaw barcelona bangkok oregon munich belgium stockholm connecticut orlando columbus pittsburgh tennessee cambridge salem dakota alabama louisiana brussels illinois montreal syria oklahoma maine osaka cairo memphis peru kyoto baghdad chile copenhagen
+          nasa fbi cia nsa kgb nato interpol gestapo taliban vatican google twitter cisco disney beatles viagra ipod pepsi xerox lego nissan amazon linux unix html http jpeg reddit facebook instagram tiktok
+          quran koran torah bible allah buddha satan zeus krishna shiva ramadan hanukkah passover
+          '''.split())|names|bad_sem
+
+          irregular=set('''been gone done made said seen taken given known shown written driven broken spoken chosen thrown grown drawn flown worn born fallen hidden eaten forgotten begun sung rung sunk drank drunk swum ran came went saw felt heard held kept left lost paid sold told thought brought bought caught taught fought found built sent spent sat stood lay led read meant met put cut hit hurt let set shut cost cast burst split spread bet beat struck stuck fed bled bred fled hung dug spun won lost'''.split())
+
+          def canonical(w):
+              if w in banned or w in irregular:return False
+              if w.endswith('ies') and w[:-3]+'y' in alllex:return False
+              if w.endswith('es') and w[:-2] in alllex:return False
+              if w.endswith('s') and w[:-1] in alllex:return False
+              if w.endswith('ing'):
+                  s=w[:-3]
+                  if s in alllex or s+'e' in alllex or (len(s)>2 and s[-1]==s[-2] and s[:-1] in alllex):return False
+              if w.endswith('ed'):
+                  s=w[:-2]
+                  if s in alllex or s+'e' in alllex or (len(s)>2 and s[-1]==s[-2] and s[:-1] in alllex):return False
+              if w.endswith('er') and w[:-2] in source['adjective']:return False
+              if w.endswith('est') and w[:-3] in source['adjective']:return False
+              return True
+
+          rows=[]
+          for w in alllex:
+              if w in used or not canonical(w):continue
+              z=zipf_frequency(w,'en')
+              if z<1.0:continue
+              if w in source['verb']:pos='verb'
+              elif w in source['noun']:pos='noun'
+              elif w in source['adjective']:pos='adjective'
+              else:pos='adverb'
+              rows.append((-z,len(w),w,pos,z))
+          rows.sort()
+          rows=rows[:2600]
+          assert len(rows)>=1100,len(rows)
+          (stage/'ranked.tsv').write_text(
+              ''.join(f'{w}\t{p}\t{z:.2f}\n' for _,_,w,p,z in rows),encoding='utf-8'
+          )
+          (stage/'RANK').unlink(missing_ok=True)
+          wf=root/'.github'/'workflows'/'rank-batch059.yml'
+          if wf.exists(): wf.unlink()
+          print('ranked',len(rows))
+          PY
+      - name: Commit ranked reserve
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add -A
+          git commit -m "Rank Batch 059 candidate reserve"
+          git push
