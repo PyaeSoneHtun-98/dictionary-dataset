@@ -1,0 +1,112 @@
+name: Select Dictionary Batch 051
+
+on:
+  push:
+    paths:
+      - 'staging/batch051/SELECT'
+
+permissions:
+  contents: write
+
+jobs:
+  select:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Select 500 unused words
+        run: |
+          python - <<'PY'
+          import base64, pathlib, re, urllib.request, zlib
+
+          root = pathlib.Path('.')
+          stage = root / 'staging' / 'batch051'
+          stage.mkdir(parents=True, exist_ok=True)
+
+          encoded = (root/'lookup'/'used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          used = set(zlib.decompress(base64.b64decode(encoded)).decode('utf-8').splitlines())
+
+          def get(url):
+              with urllib.request.urlopen(url, timeout=30) as r:
+                  return r.read().decode('utf-8')
+
+          base='https://raw.githubusercontent.com/evllabs/JGAAP/master/src/com/jgaap/resources/wordnet/'
+          noun=get(base+'index.noun')
+          verb=get(base+'index.verb')
+          adj=get(base+'index.adj')
+          adv=get(base+'index.adv')
+          freq_txt=get('https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/en/en_50k.txt')
+
+          def parse(txt, pos):
+              out={}
+              for line in txt.splitlines():
+                  if not line or line.startswith(' '):
+                      continue
+                  w=line.split()[0].lower()
+                  if re.fullmatch(r'[a-z]{3,18}', w):
+                      out[w]=pos
+              return out
+
+          # Prefer dialogue/action-friendly POS when a word belongs to several classes.
+          lex={}
+          for txt,pos in [(verb,'verb'),(noun,'noun'),(adj,'adjective'),(adv,'adverb')]:
+              for w,p in parse(txt,pos).items():
+                  lex.setdefault(w,p)
+
+          freq={}
+          for i,line in enumerate(freq_txt.splitlines(),1):
+              parts=line.split()
+              if parts and parts[0] not in freq:
+                  freq[parts[0]]=i
+
+          banned=set('''american english french german chinese british spanish russian japanese indian italian christian hollywood jewish greek catholic soviet irish korean mexican african nazi asian swedish arabic turkish canadian thai egyptian scottish australian vietnamese portuguese danish brazilian israeli hebrew hungarian islamic norwegian buddhist hindu czech iraqi iranian indonesian latin dutch european swiss cuban hawaiian persian armenian filipino venetian siamese argentine dominican mongol sikh athenian sumerian genovese sudanese babylonian argentinian manchurian californian olympian polynesian tuscan corsican milanese elizabethan macedonian slav appalachian dalmatian carthaginian phoenician yugoslavian columbian andean minoan homeric jungian rumanian hegelian victorian parisian sicilian scandinavian florentine aegean guatemalan grecian hellenic'''.split())
+          reject=set('''cetera bianco coste corne cul dea diff doble doo ell entre epsom fait ken mano par russe stein centum centrex darlin derring gentlelady goverment jakes klieg knott kraut krona kroner lima linage lobo lookit lulu majeure markkaa mealynose millon'''.split())
+
+          # Exclude likely inflections and low-value morphological clutter.
+          suffix_bad=re.compile(r'(?:ingly|edly)$')
+          candidates=[]
+          for w,pos in lex.items():
+              if w in used or w in banned or w in reject:
+                  continue
+              if suffix_bad.search(w):
+                  continue
+              r=freq.get(w,999999)
+              # Prefer real frequency-listed vocabulary. Technical fallback is allowed later.
+              score=(r if r<999999 else 200000) + len(w)*35
+              if pos=='verb': score-=300
+              elif pos=='noun': score-=150
+              if re.match(r'^(non|anti|counter|inter|intra|multi|pre|post|sub|super|hyper|hypo)', w):
+                  score+=2500
+              candidates.append((score,r,w,pos))
+
+          candidates.sort(key=lambda x:(x[0],x[2]))
+          selected=[]
+          seen=set()
+          for score,r,w,pos in candidates:
+              if w in seen:
+                  continue
+              seen.add(w)
+              selected.append((w,pos))
+              if len(selected)==500:
+                  break
+
+          assert len(selected)==500
+          assert len({w for w,_ in selected})==500
+          assert not ({w for w,_ in selected} & used)
+          (stage/'selection.tsv').write_text(''.join(f'{w}\t{p}\n' for w,p in selected),encoding='utf-8')
+          (stage/'SELECT').unlink(missing_ok=True)
+          wf=root/'.github'/'workflows'/'select-batch051.yml'
+          if wf.exists():
+              wf.unlink()
+          print('selected',len(selected))
+          PY
+
+      - name: Commit selection
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add -A
+          git commit -m "Freeze Batch 051 selection"
+          git push
