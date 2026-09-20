@@ -1,0 +1,46 @@
+name: Finalize dictionary v1
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "Batches/**"
+      - "dictionary_manifest.json"
+      - "scripts/finalize_v1.py"
+      - ".github/workflows/finalize-dictionary-v1.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout dataset
+        uses: actions/checkout@v4
+
+      - name: Fetch current Subtitle Bridge legacy fallback
+        run: |
+          curl -fsSL \
+            https://raw.githubusercontent.com/PyaeSoneHtun-98/stremio_dictionary/master/src/main/translation/legacyDictionary.ts \
+            -o /tmp/legacyDictionary.ts
+
+      - name: Run whole-corpus audit
+        run: |
+          python scripts/finalize_v1.py \
+            --legacy-ts /tmp/legacyDictionary.ts \
+            --report-json finalization_report.json \
+            --report-md finalization_report.md \
+            --candidate dictionary_v1_candidate.json
+
+      - name: Upload finalization audit
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dictionary-v1-finalization-audit
+          if-no-files-found: warn
+          path: |
+            finalization_report.json
+            finalization_report.md
+            dictionary_v1_candidate.json
