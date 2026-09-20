@@ -1,0 +1,79 @@
+name: Apply dictionary v1 verb repairs
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/apply-dictionary-v1-verb-repairs.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout dataset
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Install morphology dependency
+        run: python -m pip install --disable-pip-version-check lemminflect==0.2.3
+
+      - name: Apply conservative zero-form verb repairs
+        run: |
+          python scripts/apply_safe_verb_form_repairs.py \
+            --report verb_form_repair_applied.json
+
+      - name: Rebuild cumulative lookup index
+        run: python scripts/rebuild_lookup.py
+
+      - name: Fetch current Subtitle Bridge legacy fallback
+        run: |
+          curl -fsSL \
+            https://raw.githubusercontent.com/PyaeSoneHtun-98/stremio_dictionary/master/src/main/translation/legacyDictionary.ts \
+            -o /tmp/legacyDictionary.ts
+
+      - name: Run full v1 structural audit
+        run: |
+          python scripts/finalize_v1.py \
+            --legacy-ts /tmp/legacyDictionary.ts \
+            --report-json finalization_report.json \
+            --report-md finalization_report.md \
+            --candidate dictionary_v1_candidate.json
+
+      - name: Re-run verb morphology audit
+        run: python scripts/audit_verb_forms.py --output verb_form_audit_after_repair.json
+
+      - name: Check generated diff
+        run: |
+          git diff --check
+          git status --short
+          git diff --stat
+
+      - name: Commit repaired dictionary data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Batches lookup/used_keys_current.zlib.b64 dictionary_manifest.json
+          if git diff --cached --quiet; then
+            echo "No dictionary data changes to commit."
+          else
+            git commit -m "Repair missing v1 verb forms"
+            git push origin HEAD:master
+          fi
+
+      - name: Upload repair audit artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dictionary-v1-verb-repair-audit
+          if-no-files-found: warn
+          path: |
+            verb_form_repair_applied.json
+            verb_form_audit_after_repair.json
+            finalization_report.json
+            finalization_report.md
+            dictionary_v1_candidate.json
