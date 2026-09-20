@@ -1,0 +1,31 @@
+name: Audit likely form typos
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "scripts/audit_form_typos.py"
+      - ".github/workflows/audit-form-typos.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout dataset
+        uses: actions/checkout@v4
+
+      - name: Install audit dependencies
+        run: python -m pip install --disable-pip-version-check lemminflect==0.2.3 wordfreq==3.1.1
+
+      - name: Audit likely form typos
+        run: python scripts/audit_form_typos.py --output form_typo_audit.json
+
+      - name: Upload typo audit
+        uses: actions/upload-artifact@v4
+        with:
+          name: form-typo-audit
+          path: form_typo_audit.json
