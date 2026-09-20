@@ -14,7 +14,7 @@ English → Burmese dictionary data for **Subtitle Bridge**, a subtitle/movie lo
 
 Batches 001–060 have been generated: **30,000 unique headwords**. The Version 1 dataset target is complete.
 
-The repository is the source of truth for all work from Batch 024 onward. The historical lookup keys from Batches 001–023 are stored in `lookup/legacy_used_keys_001_023.zlib.b64` so new batches can be checked against all prior headwords and inflected forms even before the older batch JSON files are mirrored here.
+The repository now contains the complete Version 1 source dataset: Batches 001–060 are mirrored under `Batches/`. The cumulative lookup index under `lookup/` covers all headwords and stored forms through Batch 060.
 
 ## Layout
 
