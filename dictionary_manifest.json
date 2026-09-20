@@ -21,8 +21,8 @@
     "throughBatch": 60,
     "uniqueLookupKeys": 45678,
     "uniqueHeadwords": 30000,
-    "uniqueStoredForms": 15724,
-    "sha256": "9083b60c39c32fcadd23bec182e07f1902089a7132387c5dc5819e754b996dd6",
+    "uniqueStoredForms": 15725,
+    "sha256": "adb53345784079c4cdb5bb0cc3c7f2f012f52793bac4f54971dd3943a0fa770a",
     "sha256Scope": "base64-trimmed"
   },
   "batchFilenamePattern": "Batches/dictionary_batch_XXX.json",
