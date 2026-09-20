@@ -8,11 +8,11 @@
   "nextBatch": null,
   "batchCount": 60,
   "totalHeadwords": 30000,
-  "repositoryBatchesStartAt": 24,
+  "repositoryBatchesStartAt": 1,
   "historicalBatches": {
     "from": 1,
     "through": 23,
-    "mirroredAsJson": false,
+    "mirroredAsJson": true,
     "representedInLookupIndex": true
   },
   "lookup": {
