@@ -1,0 +1,31 @@
+name: Audit verb forms
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "scripts/audit_verb_forms.py"
+      - ".github/workflows/audit-verb-forms.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout dataset
+        uses: actions/checkout@v4
+
+      - name: Install morphology audit dependency
+        run: python -m pip install --disable-pip-version-check lemminflect==0.2.3
+
+      - name: Audit verb forms
+        run: python scripts/audit_verb_forms.py --output verb_form_audit.json
+
+      - name: Upload verb-form audit
+        uses: actions/upload-artifact@v4
+        with:
+          name: verb-form-audit
+          path: verb_form_audit.json
