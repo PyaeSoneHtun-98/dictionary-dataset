@@ -8,6 +8,7 @@ import hashlib
 import json
 import re
 import sys
+import unicodedata
 from collections import defaultdict
 from pathlib import Path
 from typing import Any
@@ -114,6 +115,10 @@ def main() -> int:
                 or not re.fullmatch(r"/.+/", pronunciation.strip())
             ):
                 blocking.append(f"{loc} {word!r}: pronunciation must be slash-delimited IPA")
+            elif any(unicodedata.category(ch) == "Cf" for ch in pronunciation):
+                blocking.append(
+                    f"{loc} {word!r}: pronunciation contains invisible Unicode format characters"
+                )
 
             forms = entry.get("forms")
             if not isinstance(forms, list):
