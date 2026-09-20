@@ -19,10 +19,11 @@
     "path": "lookup/used_keys_current.zlib.b64",
     "encoding": "base64(zlib(utf8 newline-separated keys))",
     "throughBatch": 60,
-    "uniqueLookupKeys": 44391,
+    "uniqueLookupKeys": 45678,
     "uniqueHeadwords": 30000,
-    "uniqueStoredForms": 14437,
-    "sha256": "3ea43fcb244d4477689956c764beac9984e104e7dc73d05a1eb720f4695e098c"
+    "uniqueStoredForms": 15724,
+    "sha256": "9083b60c39c32fcadd23bec182e07f1902089a7132387c5dc5819e754b996dd6",
+    "sha256Scope": "base64-trimmed"
   },
   "batchFilenamePattern": "Batches/dictionary_batch_XXX.json",
   "status": "complete"

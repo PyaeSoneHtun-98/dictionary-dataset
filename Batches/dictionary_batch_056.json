@@ -96,7 +96,11 @@
     {
       "word": "bring",
       "pronunciation": "/bɹˈɪŋ/",
-      "forms": [],
+      "forms": [
+        "brings",
+        "brought",
+        "bringing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -161,7 +165,11 @@
     {
       "word": "learn",
       "pronunciation": "/lˈɜːn/",
-      "forms": [],
+      "forms": [
+        "learns",
+        "learned",
+        "learning"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -200,7 +208,11 @@
     {
       "word": "drive",
       "pronunciation": "/dɹˈa‍ɪv/",
-      "forms": [],
+      "forms": [
+        "drives",
+        "driven",
+        "driving"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -213,7 +225,11 @@
     {
       "word": "lower",
       "pronunciation": "/lˈo‍ʊɚ/",
-      "forms": [],
+      "forms": [
+        "lowers",
+        "lowered",
+        "lowering"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -252,7 +268,11 @@
     {
       "word": "pass",
       "pronunciation": "/pˈæs/",
-      "forms": [],
+      "forms": [
+        "passes",
+        "passed",
+        "passing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -278,7 +298,12 @@
     {
       "word": "write",
       "pronunciation": "/ɹˈa‍ɪt/",
-      "forms": [],
+      "forms": [
+        "writes",
+        "wrote",
+        "written",
+        "writing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -330,7 +355,11 @@
     {
       "word": "dance",
       "pronunciation": "/dˈæns/",
-      "forms": [],
+      "forms": [
+        "dances",
+        "danced",
+        "dancing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -343,7 +372,11 @@
     {
       "word": "touch",
       "pronunciation": "/tˈʌt‍ʃ/",
-      "forms": [],
+      "forms": [
+        "touches",
+        "touched",
+        "touching"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -395,7 +428,12 @@
     {
       "word": "throw",
       "pronunciation": "/θɹˈo‍ʊ/",
-      "forms": [],
+      "forms": [
+        "throws",
+        "threw",
+        "thrown",
+        "throwing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -408,7 +446,11 @@
     {
       "word": "pull",
       "pronunciation": "/pˈʊl/",
-      "forms": [],
+      "forms": [
+        "pulls",
+        "pulled",
+        "pulling"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -447,7 +489,11 @@
     {
       "word": "maximise",
       "pronunciation": "/mˈæksɪmˌa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "maximises",
+        "maximised",
+        "maximising"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -486,7 +532,11 @@
     {
       "word": "shortlist",
       "pronunciation": "/ʃˈɔː‍ɹtlɪst/",
-      "forms": [],
+      "forms": [
+        "shortlists",
+        "shortlisted",
+        "shortlisting"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -616,7 +666,11 @@
     {
       "word": "utilise",
       "pronunciation": "/jˈuːɾəlˌa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "utilises",
+        "utilised",
+        "utilising"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -733,7 +787,11 @@
     {
       "word": "incase",
       "pronunciation": "/ɪŋkˈe‍ɪs/",
-      "forms": [],
+      "forms": [
+        "incases",
+        "incased",
+        "incasing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -915,7 +973,11 @@
     {
       "word": "resize",
       "pronunciation": "/ɹᵻsˈa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "resizes",
+        "resized",
+        "resizing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1396,7 +1458,11 @@
     {
       "word": "emote",
       "pronunciation": "/ɪmˈo‍ʊt/",
-      "forms": [],
+      "forms": [
+        "emotes",
+        "emoted",
+        "emoting"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1773,7 +1839,11 @@
     {
       "word": "prise",
       "pronunciation": "/pɹˈa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "prises",
+        "prised",
+        "prising"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1838,7 +1908,12 @@
     {
       "word": "unlearn",
       "pronunciation": "/ʌnlˈɜːn/",
-      "forms": [],
+      "forms": [
+        "unlearns",
+        "unlearned",
+        "unlearnt",
+        "unlearning"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1890,7 +1965,11 @@
     {
       "word": "finalise",
       "pronunciation": "/fˈa‍ɪnəlˌa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "finalises",
+        "finalised",
+        "finalising"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2085,7 +2164,12 @@
     {
       "word": "regrow",
       "pronunciation": "/ɹᵻɡɹˈo‍ʊ/",
-      "forms": [],
+      "forms": [
+        "regrows",
+        "regrew",
+        "regrown",
+        "regrowing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2228,7 +2312,11 @@
     {
       "word": "customise",
       "pronunciation": "/kˈʌstəmˌa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "customises",
+        "customised",
+        "customising"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2488,7 +2576,11 @@
     {
       "word": "legalise",
       "pronunciation": "/lˈiːɡəlˌa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "legalises",
+        "legalised",
+        "legalising"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2501,7 +2593,11 @@
     {
       "word": "empathise",
       "pronunciation": "/ˈɛmpəθˌa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "empathises",
+        "empathised",
+        "empathising"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2514,7 +2610,10 @@
     {
       "word": "fundraise",
       "pronunciation": "/fʌndɹˈe‍ɪz/",
-      "forms": [],
+      "forms": [
+        "fundraises",
+        "fundraised"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -3138,7 +3237,11 @@
     {
       "word": "dropkick",
       "pronunciation": "/dɹˈɑːpkɪk/",
-      "forms": [],
+      "forms": [
+        "dropkicks",
+        "dropkicked",
+        "dropkicking"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -4269,7 +4372,11 @@
     {
       "word": "publicise",
       "pronunciation": "/pˈʌblɪsˌa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "publicises",
+        "publicised",
+        "publicising"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5205,7 +5312,11 @@
     {
       "word": "subsidise",
       "pronunciation": "/sˈʌbsɪdˌa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "subsidises",
+        "subsidised",
+        "subsidising"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5374,7 +5485,11 @@
     {
       "word": "rationalise",
       "pronunciation": "/ɹˈæʃənəlˌa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "rationalises",
+        "rationalised",
+        "rationalising"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5413,7 +5528,11 @@
     {
       "word": "revolutionise",
       "pronunciation": "/ɹˌɛvəlˈuːʃənˌa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "revolutionises",
+        "revolutionised",
+        "revolutionising"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -6271,7 +6390,11 @@
     {
       "word": "unclog",
       "pronunciation": "/ʌŋklˈɑːɡ/",
-      "forms": [],
+      "forms": [
+        "unclogs",
+        "unclogged",
+        "unclogging"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",

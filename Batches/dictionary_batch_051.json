@@ -31,7 +31,11 @@
     {
       "word": "join",
       "pronunciation": "/d‍ʒˈɔ‍ɪn/",
-      "forms": [],
+      "forms": [
+        "joins",
+        "joined",
+        "joining"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -44,7 +48,10 @@
     {
       "word": "spend",
       "pronunciation": "/spˈɛnd/",
-      "forms": [],
+      "forms": [
+        "spends",
+        "spending"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -96,7 +103,11 @@
     {
       "word": "enjoy",
       "pronunciation": "/ɛnd‍ʒˈɔ‍ɪ/",
-      "forms": [],
+      "forms": [
+        "enjoys",
+        "enjoyed",
+        "enjoying"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -135,7 +146,11 @@
     {
       "word": "agree",
       "pronunciation": "/ɐɡɹˈiː/",
-      "forms": [],
+      "forms": [
+        "agrees",
+        "agreed",
+        "agreeing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -161,7 +176,11 @@
     {
       "word": "cry",
       "pronunciation": "/kɹˈa‍ɪ/",
-      "forms": [],
+      "forms": [
+        "cries",
+        "cried",
+        "crying"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -187,7 +206,11 @@
     {
       "word": "visit",
       "pronunciation": "/vˈɪzɪt/",
-      "forms": [],
+      "forms": [
+        "visits",
+        "visited",
+        "visiting"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -213,7 +236,11 @@
     {
       "word": "carry",
       "pronunciation": "/kˈæɹi/",
-      "forms": [],
+      "forms": [
+        "carries",
+        "carried",
+        "carrying"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -226,7 +253,11 @@
     {
       "word": "push",
       "pronunciation": "/pˈʊʃ/",
-      "forms": [],
+      "forms": [
+        "pushes",
+        "pushed",
+        "pushing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -304,7 +335,12 @@
     {
       "word": "grow",
       "pronunciation": "/ɡɹˈo‍ʊ/",
-      "forms": [],
+      "forms": [
+        "grows",
+        "grew",
+        "grown",
+        "growing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -369,7 +405,12 @@
     {
       "word": "choose",
       "pronunciation": "/t‍ʃˈuːz/",
-      "forms": [],
+      "forms": [
+        "chooses",
+        "chose",
+        "chosen",
+        "choosing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -395,7 +436,11 @@
     {
       "word": "allow",
       "pronunciation": "/ɐlˈa‍ʊ/",
-      "forms": [],
+      "forms": [
+        "allows",
+        "allowed",
+        "allowing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -460,7 +505,10 @@
     {
       "word": "build",
       "pronunciation": "/bˈɪld/",
-      "forms": [],
+      "forms": [
+        "builds",
+        "built"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -499,7 +547,11 @@
     {
       "word": "lay",
       "pronunciation": "/lˈe‍ɪ/",
-      "forms": [],
+      "forms": [
+        "lays",
+        "laid",
+        "laying"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -642,7 +694,11 @@
     {
       "word": "serve",
       "pronunciation": "/sˈɜːv/",
-      "forms": [],
+      "forms": [
+        "serves",
+        "served",
+        "serving"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -681,7 +737,11 @@
     {
       "word": "travel",
       "pronunciation": "/tɹˈævə‍l/",
-      "forms": [],
+      "forms": [
+        "travels",
+        "traveled",
+        "traveling"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -720,7 +780,10 @@
     {
       "word": "tie",
       "pronunciation": "/tˈa‍ɪ/",
-      "forms": [],
+      "forms": [
+        "ties",
+        "tied"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -746,7 +809,11 @@
     {
       "word": "add",
       "pronunciation": "/ˈæd/",
-      "forms": [],
+      "forms": [
+        "adds",
+        "added",
+        "adding"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -785,7 +852,11 @@
     {
       "word": "enter",
       "pronunciation": "/ˈɛntɚ/",
-      "forms": [],
+      "forms": [
+        "enters",
+        "entered",
+        "entering"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -889,7 +960,11 @@
     {
       "word": "rise",
       "pronunciation": "/ɹˈa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "rises",
+        "risen",
+        "rising"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1162,7 +1237,11 @@
     {
       "word": "pee",
       "pronunciation": "/pˈiː/",
-      "forms": [],
+      "forms": [
+        "pees",
+        "peed",
+        "peeing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1175,7 +1254,10 @@
     {
       "word": "mix",
       "pronunciation": "/mˈɪks/",
-      "forms": [],
+      "forms": [
+        "mixes",
+        "mixed"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1253,7 +1335,11 @@
     {
       "word": "gain",
       "pronunciation": "/ɡˈe‍ɪn/",
-      "forms": [],
+      "forms": [
+        "gains",
+        "gained",
+        "gaining"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1305,7 +1391,10 @@
     {
       "word": "hop",
       "pronunciation": "/hˈɑːp/",
-      "forms": [],
+      "forms": [
+        "hopped",
+        "hopping"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1396,7 +1485,10 @@
     {
       "word": "rub",
       "pronunciation": "/ɹˈʌb/",
-      "forms": [],
+      "forms": [
+        "rubs",
+        "rubbed"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1409,7 +1501,10 @@
     {
       "word": "polish",
       "pronunciation": "/pˈɑːlɪʃ/",
-      "forms": [],
+      "forms": [
+        "polishes",
+        "polishing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1461,7 +1556,11 @@
     {
       "word": "click",
       "pronunciation": "/klˈɪk/",
-      "forms": [],
+      "forms": [
+        "clicks",
+        "clicked",
+        "clicking"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1539,7 +1638,10 @@
     {
       "word": "rap",
       "pronunciation": "/ɹˈæp/",
-      "forms": [],
+      "forms": [
+        "raps",
+        "rapped"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1695,7 +1797,9 @@
     {
       "word": "tan",
       "pronunciation": "/tˈæn/",
-      "forms": [],
+      "forms": [
+        "tans"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1903,7 +2007,11 @@
     {
       "word": "zip",
       "pronunciation": "/zˈɪp/",
-      "forms": [],
+      "forms": [
+        "zips",
+        "zipped",
+        "zipping"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1994,7 +2102,11 @@
     {
       "word": "trump",
       "pronunciation": "/tɹˈʌmp/",
-      "forms": [],
+      "forms": [
+        "trumps",
+        "trumped",
+        "trumping"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2072,7 +2184,11 @@
     {
       "word": "ping",
       "pronunciation": "/pˈɪŋ/",
-      "forms": [],
+      "forms": [
+        "pings",
+        "pinged",
+        "pinging"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2085,7 +2201,11 @@
     {
       "word": "sew",
       "pronunciation": "/sˈo‍ʊ/",
-      "forms": [],
+      "forms": [
+        "sews",
+        "sewed",
+        "sewn"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2124,7 +2244,11 @@
     {
       "word": "tow",
       "pronunciation": "/tˈo‍ʊ/",
-      "forms": [],
+      "forms": [
+        "tows",
+        "towed",
+        "towing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2163,7 +2287,11 @@
     {
       "word": "whoop",
       "pronunciation": "/wˈuːp/",
-      "forms": [],
+      "forms": [
+        "whoops",
+        "whooped",
+        "whooping"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2280,7 +2408,11 @@
     {
       "word": "wilt",
       "pronunciation": "/wˈɪlt/",
-      "forms": [],
+      "forms": [
+        "wilts",
+        "wilted",
+        "wilting"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2423,7 +2555,10 @@
     {
       "word": "redo",
       "pronunciation": "/ɹˈiːduː/",
-      "forms": [],
+      "forms": [
+        "redid",
+        "redoing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2449,7 +2584,11 @@
     {
       "word": "plow",
       "pronunciation": "/plˈa‍ʊ/",
-      "forms": [],
+      "forms": [
+        "plows",
+        "plowed",
+        "plowing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2514,7 +2653,11 @@
     {
       "word": "mar",
       "pronunciation": "/mˈɑː‍ɹ/",
-      "forms": [],
+      "forms": [
+        "mars",
+        "marred",
+        "marring"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2605,7 +2748,11 @@
     {
       "word": "swoop",
       "pronunciation": "/swˈuːp/",
-      "forms": [],
+      "forms": [
+        "swoops",
+        "swooped",
+        "swooping"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2774,7 +2921,10 @@
     {
       "word": "dip",
       "pronunciation": "/dˈɪp/",
-      "forms": [],
+      "forms": [
+        "dips",
+        "dipping"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2930,7 +3080,11 @@
     {
       "word": "rejoin",
       "pronunciation": "/ɹᵻd‍ʒˈɔ‍ɪn/",
-      "forms": [],
+      "forms": [
+        "rejoins",
+        "rejoined",
+        "rejoining"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -3229,7 +3383,11 @@
     {
       "word": "stanch",
       "pronunciation": "/stˈænt‍ʃ/",
-      "forms": [],
+      "forms": [
+        "stanches",
+        "stanched",
+        "stanching"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -4529,7 +4687,11 @@
     {
       "word": "internationalize",
       "pronunciation": "/ˌɪntɚnˈæʃənə‍lˌa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "internationalizes",
+        "internationalized",
+        "internationalizing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -4698,7 +4860,11 @@
     {
       "word": "lacerate",
       "pronunciation": "/lˈæsɚɹˌe‍ɪt/",
-      "forms": [],
+      "forms": [
+        "lacerates",
+        "lacerated",
+        "lacerating"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -4711,7 +4877,11 @@
     {
       "word": "lambaste",
       "pronunciation": "/lˈæmbæst/",
-      "forms": [],
+      "forms": [
+        "lambastes",
+        "lambasted",
+        "lambasting"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5101,7 +5271,11 @@
     {
       "word": "matriculate",
       "pronunciation": "/mætɹˈɪkjʊlˌe‍ɪt/",
-      "forms": [],
+      "forms": [
+        "matriculates",
+        "matriculated",
+        "matriculating"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5218,7 +5392,11 @@
     {
       "word": "micromanage",
       "pronunciation": "/mˌa‍ɪkɹo‍ʊmˈænɪd‍ʒ/",
-      "forms": [],
+      "forms": [
+        "micromanages",
+        "micromanaged",
+        "micromanaging"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5309,7 +5487,11 @@
     {
       "word": "militate",
       "pronunciation": "/mˈɪlᵻtˌe‍ɪt/",
-      "forms": [],
+      "forms": [
+        "militates",
+        "militated",
+        "militating"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5426,7 +5608,11 @@
     {
       "word": "misplace",
       "pronunciation": "/mɪsplˈe‍ɪs/",
-      "forms": [],
+      "forms": [
+        "misplaces",
+        "misplaced",
+        "misplacing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5439,7 +5625,11 @@
     {
       "word": "mollycoddle",
       "pronunciation": "/mˈɑːlɪkˌɑːdə‍l/",
-      "forms": [],
+      "forms": [
+        "mollycoddles",
+        "mollycoddled",
+        "mollycoddling"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5699,7 +5889,11 @@
     {
       "word": "nationalize",
       "pronunciation": "/nˈæʃənə‍lˌa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "nationalizes",
+        "nationalized",
+        "nationalizing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5972,7 +6166,11 @@
     {
       "word": "obfuscate",
       "pronunciation": "/ˈɑːbfəskˌe‍ɪt/",
-      "forms": [],
+      "forms": [
+        "obfuscates",
+        "obfuscated",
+        "obfuscating"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -6128,7 +6326,11 @@
     {
       "word": "outfox",
       "pronunciation": "/a‍ʊtfˈɑːks/",
-      "forms": [],
+      "forms": [
+        "outfoxes",
+        "outfoxed",
+        "outfoxing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -6141,7 +6343,11 @@
     {
       "word": "outguess",
       "pronunciation": "/a‍ʊtɡˈɛs/",
-      "forms": [],
+      "forms": [
+        "outguesses",
+        "outguessed",
+        "outguessing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -6271,7 +6477,12 @@
     {
       "word": "overdraw",
       "pronunciation": "/ˈo‍ʊvɚdɹˌɔː/",
-      "forms": [],
+      "forms": [
+        "overdraws",
+        "overdrew",
+        "overdrawn",
+        "overdrawing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -6297,7 +6508,11 @@
     {
       "word": "overemphasize",
       "pronunciation": "/ˌo‍ʊvɚɹˈɛmfɐsˌa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "overemphasizes",
+        "overemphasized",
+        "overemphasizing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -6323,7 +6538,11 @@
     {
       "word": "overexpose",
       "pronunciation": "/ˌo‍ʊvɚɹɛkspˈo‍ʊz/",
-      "forms": [],
+      "forms": [
+        "overexposes",
+        "overexposed",
+        "overexposing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -6336,7 +6555,11 @@
     {
       "word": "overfeed",
       "pronunciation": "/ˌo‍ʊvɚfˈiːd/",
-      "forms": [],
+      "forms": [
+        "overfeeds",
+        "overfed",
+        "overfeeding"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -6349,7 +6572,11 @@
     {
       "word": "overfill",
       "pronunciation": "/ˌo‍ʊvɚfˈɪl/",
-      "forms": [],
+      "forms": [
+        "overfills",
+        "overfilled",
+        "overfilling"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -6388,7 +6615,11 @@
     {
       "word": "overpay",
       "pronunciation": "/ˌo‍ʊvɚpˈe‍ɪ/",
-      "forms": [],
+      "forms": [
+        "overpays",
+        "overpaid",
+        "overpaying"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -6401,7 +6632,11 @@
     {
       "word": "overproduce",
       "pronunciation": "/ˌo‍ʊvɚpɹədˈuːs/",
-      "forms": [],
+      "forms": [
+        "overproduces",
+        "overproduced",
+        "overproducing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -6440,7 +6675,11 @@
     {
       "word": "overstaff",
       "pronunciation": "/ˌo‍ʊvɚstˈæf/",
-      "forms": [],
+      "forms": [
+        "overstaffs",
+        "overstaffed",
+        "overstaffing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",

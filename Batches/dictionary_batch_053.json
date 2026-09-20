@@ -5,7 +5,11 @@
     {
       "word": "have",
       "pronunciation": "/hˈæv/",
-      "forms": [],
+      "forms": [
+        "has",
+        "had",
+        "having"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -18,7 +22,12 @@
     {
       "word": "know",
       "pronunciation": "/nˈo‍ʊ/",
-      "forms": [],
+      "forms": [
+        "knows",
+        "knew",
+        "known",
+        "knowing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -96,7 +105,11 @@
     {
       "word": "come",
       "pronunciation": "/kˈʌm/",
-      "forms": [],
+      "forms": [
+        "comes",
+        "came",
+        "coming"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -135,7 +148,10 @@
     {
       "word": "want",
       "pronunciation": "/wˈɔnt/",
-      "forms": [],
+      "forms": [
+        "wants",
+        "wanting"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -148,7 +164,10 @@
     {
       "word": "think",
       "pronunciation": "/θˈɪŋk/",
-      "forms": [],
+      "forms": [
+        "thinks",
+        "thinking"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -200,7 +219,11 @@
     {
       "word": "look",
       "pronunciation": "/lˈʊk/",
-      "forms": [],
+      "forms": [
+        "looks",
+        "looked",
+        "looking"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -213,7 +236,12 @@
     {
       "word": "take",
       "pronunciation": "/tˈe‍ɪk/",
-      "forms": [],
+      "forms": [
+        "takes",
+        "took",
+        "taken",
+        "taking"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -239,7 +267,11 @@
     {
       "word": "tell",
       "pronunciation": "/tˈɛl/",
-      "forms": [],
+      "forms": [
+        "tells",
+        "told",
+        "telling"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -291,7 +323,11 @@
     {
       "word": "make",
       "pronunciation": "/mˈe‍ɪk/",
-      "forms": [],
+      "forms": [
+        "makes",
+        "made",
+        "making"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -395,7 +431,12 @@
     {
       "word": "give",
       "pronunciation": "/ɡˈɪv/",
-      "forms": [],
+      "forms": [
+        "gives",
+        "gave",
+        "given",
+        "giving"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -408,7 +449,11 @@
     {
       "word": "thank",
       "pronunciation": "/θˈæŋk/",
-      "forms": [],
+      "forms": [
+        "thanks",
+        "thanked",
+        "thanking"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -460,7 +505,11 @@
     {
       "word": "help",
       "pronunciation": "/hˈɛlp/",
-      "forms": [],
+      "forms": [
+        "helps",
+        "helped",
+        "helping"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -499,7 +548,9 @@
     {
       "word": "find",
       "pronunciation": "/fˈa‍ɪnd/",
-      "forms": [],
+      "forms": [
+        "finds"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -512,7 +563,11 @@
     {
       "word": "work",
       "pronunciation": "/wˈɜːk/",
-      "forms": [],
+      "forms": [
+        "works",
+        "worked",
+        "working"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -577,7 +632,11 @@
     {
       "word": "stop",
       "pronunciation": "/stˈɑːp/",
-      "forms": [],
+      "forms": [
+        "stops",
+        "stopped",
+        "stopping"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -603,7 +662,11 @@
     {
       "word": "talk",
       "pronunciation": "/tˈɔːk/",
-      "forms": [],
+      "forms": [
+        "talks",
+        "talked",
+        "talking"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -681,7 +744,11 @@
     {
       "word": "keep",
       "pronunciation": "/kˈiːp/",
-      "forms": [],
+      "forms": [
+        "keeps",
+        "kept",
+        "keeping"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -707,7 +774,10 @@
     {
       "word": "leave",
       "pronunciation": "/lˈiːv/",
-      "forms": [],
+      "forms": [
+        "leaves",
+        "leaving"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -746,7 +816,10 @@
     {
       "word": "feel",
       "pronunciation": "/fˈiːl/",
-      "forms": [],
+      "forms": [
+        "feels",
+        "felt"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -837,7 +910,11 @@
     {
       "word": "stay",
       "pronunciation": "/stˈe‍ɪ/",
-      "forms": [],
+      "forms": [
+        "stays",
+        "stayed",
+        "staying"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -915,7 +992,11 @@
     {
       "word": "listen",
       "pronunciation": "/lˈɪsən/",
-      "forms": [],
+      "forms": [
+        "listens",
+        "listened",
+        "listening"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -941,7 +1022,10 @@
     {
       "word": "hear",
       "pronunciation": "/hˈɪ‍ɹ/",
-      "forms": [],
+      "forms": [
+        "hears",
+        "heard"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -967,7 +1051,12 @@
     {
       "word": "show",
       "pronunciation": "/ʃˈo‍ʊ/",
-      "forms": [],
+      "forms": [
+        "shows",
+        "showed",
+        "shown",
+        "showing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -980,7 +1069,11 @@
     {
       "word": "kill",
       "pronunciation": "/kˈɪl/",
-      "forms": [],
+      "forms": [
+        "kills",
+        "killed",
+        "killing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1097,7 +1190,10 @@
     {
       "word": "live",
       "pronunciation": "/lˈa‍ɪv/",
-      "forms": [],
+      "forms": [
+        "lived",
+        "living"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1136,7 +1232,11 @@
     {
       "word": "hold",
       "pronunciation": "/hˈo‍ʊld/",
-      "forms": [],
+      "forms": [
+        "holds",
+        "held",
+        "holding"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1162,7 +1262,11 @@
     {
       "word": "fuck",
       "pronunciation": "/fˈʌk/",
-      "forms": [],
+      "forms": [
+        "fucks",
+        "fucked",
+        "fucking"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1214,7 +1318,11 @@
     {
       "word": "start",
       "pronunciation": "/stˈɑː‍ɹt/",
-      "forms": [],
+      "forms": [
+        "starts",
+        "started",
+        "starting"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1266,7 +1374,10 @@
     {
       "word": "meet",
       "pronunciation": "/mˈiːt/",
-      "forms": [],
+      "forms": [
+        "meets",
+        "met"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1305,7 +1416,11 @@
     {
       "word": "play",
       "pronunciation": "/plˈe‍ɪ/",
-      "forms": [],
+      "forms": [
+        "plays",
+        "played",
+        "playing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1318,7 +1433,11 @@
     {
       "word": "open",
       "pronunciation": "/ˈo‍ʊpən/",
-      "forms": [],
+      "forms": [
+        "opens",
+        "opened",
+        "opening"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1331,7 +1450,11 @@
     {
       "word": "turn",
       "pronunciation": "/tˈɜːn/",
-      "forms": [],
+      "forms": [
+        "turns",
+        "turned",
+        "turning"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1487,7 +1610,12 @@
     {
       "word": "forget",
       "pronunciation": "/fɚɡˈɛt/",
-      "forms": [],
+      "forms": [
+        "forgets",
+        "forgot",
+        "forgotten",
+        "forgetting"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1500,7 +1628,11 @@
     {
       "word": "happen",
       "pronunciation": "/hˈæpən/",
-      "forms": [],
+      "forms": [
+        "happens",
+        "happened",
+        "happening"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1513,7 +1645,11 @@
     {
       "word": "drink",
       "pronunciation": "/dɹˈɪŋk/",
-      "forms": [],
+      "forms": [
+        "drinks",
+        "drank",
+        "drinking"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1552,7 +1688,11 @@
     {
       "word": "check",
       "pronunciation": "/t‍ʃˈɛk/",
-      "forms": [],
+      "forms": [
+        "checks",
+        "checked",
+        "checking"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1578,7 +1718,11 @@
     {
       "word": "sleep",
       "pronunciation": "/slˈiːp/",
-      "forms": [],
+      "forms": [
+        "sleeps",
+        "slept",
+        "sleeping"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1604,7 +1748,10 @@
     {
       "word": "close",
       "pronunciation": "/klˈo‍ʊs/",
-      "forms": [],
+      "forms": [
+        "closes",
+        "closing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1656,7 +1803,11 @@
     {
       "word": "wish",
       "pronunciation": "/wˈɪʃ/",
-      "forms": [],
+      "forms": [
+        "wishes",
+        "wished",
+        "wishing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1747,7 +1898,11 @@
     {
       "word": "stand",
       "pronunciation": "/stˈænd/",
-      "forms": [],
+      "forms": [
+        "stands",
+        "stood",
+        "standing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1760,7 +1915,10 @@
     {
       "word": "read",
       "pronunciation": "/ɹˈiːd/",
-      "forms": [],
+      "forms": [
+        "reads",
+        "reading"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1825,7 +1983,11 @@
     {
       "word": "speak",
       "pronunciation": "/spˈiːk/",
-      "forms": [],
+      "forms": [
+        "speaks",
+        "spoken",
+        "speaking"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1877,7 +2039,10 @@
     {
       "word": "break",
       "pronunciation": "/bɹˈe‍ɪk/",
-      "forms": [],
+      "forms": [
+        "breaks",
+        "breaking"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -1890,7 +2055,11 @@
     {
       "word": "walk",
       "pronunciation": "/wˈɔːk/",
-      "forms": [],
+      "forms": [
+        "walks",
+        "walked",
+        "walking"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2007,7 +2176,11 @@
     {
       "word": "send",
       "pronunciation": "/sˈɛnd/",
-      "forms": [],
+      "forms": [
+        "sends",
+        "sent",
+        "sending"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2085,7 +2258,11 @@
     {
       "word": "pick",
       "pronunciation": "/pˈɪk/",
-      "forms": [],
+      "forms": [
+        "picks",
+        "picked",
+        "picking"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2098,7 +2275,10 @@
     {
       "word": "lose",
       "pronunciation": "/lˈuːz/",
-      "forms": [],
+      "forms": [
+        "loses",
+        "losing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2124,7 +2304,11 @@
     {
       "word": "finish",
       "pronunciation": "/fˈɪnɪʃ/",
-      "forms": [],
+      "forms": [
+        "finishes",
+        "finished",
+        "finishing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2137,7 +2321,11 @@
     {
       "word": "sell",
       "pronunciation": "/sˈɛl/",
-      "forms": [],
+      "forms": [
+        "sells",
+        "sold",
+        "selling"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2163,7 +2351,12 @@
     {
       "word": "ride",
       "pronunciation": "/ɹˈa‍ɪd/",
-      "forms": [],
+      "forms": [
+        "rides",
+        "rode",
+        "ridden",
+        "riding"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2189,7 +2382,12 @@
     {
       "word": "wear",
       "pronunciation": "/wˈɛ‍ɹ/",
-      "forms": [],
+      "forms": [
+        "wears",
+        "wore",
+        "worn",
+        "wearing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2254,7 +2452,11 @@
     {
       "word": "count",
       "pronunciation": "/kˈa‍ʊnt/",
-      "forms": [],
+      "forms": [
+        "counts",
+        "counted",
+        "counting"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2332,7 +2534,11 @@
     {
       "word": "teach",
       "pronunciation": "/tˈiːt‍ʃ/",
-      "forms": [],
+      "forms": [
+        "teaches",
+        "taught",
+        "teaching"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2384,7 +2590,11 @@
     {
       "word": "reach",
       "pronunciation": "/ɹˈiːt‍ʃ/",
-      "forms": [],
+      "forms": [
+        "reaches",
+        "reached",
+        "reaching"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2436,7 +2646,12 @@
     {
       "word": "begin",
       "pronunciation": "/bɪɡˈɪn/",
-      "forms": [],
+      "forms": [
+        "begins",
+        "began",
+        "begun",
+        "beginning"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2475,7 +2690,11 @@
     {
       "word": "study",
       "pronunciation": "/stˈʌdi/",
-      "forms": [],
+      "forms": [
+        "studies",
+        "studied",
+        "studying"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -2540,7 +2759,9 @@
     {
       "word": "cook",
       "pronunciation": "/kˈʊk/",
-      "forms": [],
+      "forms": [
+        "cooks"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -3073,7 +3294,11 @@
     {
       "word": "unhook",
       "pronunciation": "/ʌnhˈʊk/",
-      "forms": [],
+      "forms": [
+        "unhooks",
+        "unhooked",
+        "unhooking"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -3099,7 +3324,11 @@
     {
       "word": "smite",
       "pronunciation": "/smˈa‍ɪt/",
-      "forms": [],
+      "forms": [
+        "smites",
+        "smote",
+        "smiting"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -3112,7 +3341,11 @@
     {
       "word": "triangulate",
       "pronunciation": "/tɹa‍ɪˈæŋɡjʊlˌe‍ɪt/",
-      "forms": [],
+      "forms": [
+        "triangulates",
+        "triangulated",
+        "triangulating"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -3216,7 +3449,11 @@
     {
       "word": "punt",
       "pronunciation": "/pˈʌnt/",
-      "forms": [],
+      "forms": [
+        "punts",
+        "punted",
+        "punting"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -3255,7 +3492,11 @@
     {
       "word": "skedaddle",
       "pronunciation": "/skˈɛdædə‍l/",
-      "forms": [],
+      "forms": [
+        "skedaddles",
+        "skedaddled",
+        "skedaddling"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -3294,7 +3535,11 @@
     {
       "word": "exorcise",
       "pronunciation": "/ˈɛksɚsˌa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "exorcises",
+        "exorcised",
+        "exorcising"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -3398,7 +3643,11 @@
     {
       "word": "defile",
       "pronunciation": "/dᵻfˈa‍ɪl/",
-      "forms": [],
+      "forms": [
+        "defiles",
+        "defiled",
+        "defiling"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -3411,7 +3660,11 @@
     {
       "word": "slink",
       "pronunciation": "/slˈɪŋk/",
-      "forms": [],
+      "forms": [
+        "slinks",
+        "slunk",
+        "slinking"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -3515,7 +3768,11 @@
     {
       "word": "criticise",
       "pronunciation": "/kɹˈɪɾɪsˌa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "criticises",
+        "criticised",
+        "criticising"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -4360,7 +4617,11 @@
     {
       "word": "jeopardise",
       "pronunciation": "/d‍ʒˈɛpɚdˌa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "jeopardises",
+        "jeopardised",
+        "jeopardising"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -4464,7 +4725,11 @@
     {
       "word": "resonate",
       "pronunciation": "/ɹˈɛzənˌe‍ɪt/",
-      "forms": [],
+      "forms": [
+        "resonates",
+        "resonated",
+        "resonating"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -4477,7 +4742,11 @@
     {
       "word": "muss",
       "pronunciation": "/mˈʌs/",
-      "forms": [],
+      "forms": [
+        "musses",
+        "mussed",
+        "mussing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -4516,7 +4785,11 @@
     {
       "word": "sympathise",
       "pronunciation": "/sˈɪmpəθˌa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "sympathises",
+        "sympathised",
+        "sympathising"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -4542,7 +4815,11 @@
     {
       "word": "savour",
       "pronunciation": "/sˈe‍ɪvɚ/",
-      "forms": [],
+      "forms": [
+        "savours",
+        "savoured",
+        "savouring"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -4594,7 +4871,11 @@
     {
       "word": "harken",
       "pronunciation": "/hˈɑː‍ɹkən/",
-      "forms": [],
+      "forms": [
+        "harkens",
+        "harkened",
+        "harkening"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -4789,7 +5070,11 @@
     {
       "word": "sugarcoat",
       "pronunciation": "/ʃˈʊɡɚkˌo‍ʊt/",
-      "forms": [],
+      "forms": [
+        "sugarcoats",
+        "sugarcoated",
+        "sugarcoating"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -4932,7 +5217,11 @@
     {
       "word": "decompress",
       "pronunciation": "/dˌiːkəmpɹˈɛs/",
-      "forms": [],
+      "forms": [
+        "decompresses",
+        "decompressed",
+        "decompressing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5114,7 +5403,11 @@
     {
       "word": "unscrew",
       "pronunciation": "/ʌnskɹˈuː/",
-      "forms": [],
+      "forms": [
+        "unscrews",
+        "unscrewed",
+        "unscrewing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5140,7 +5433,11 @@
     {
       "word": "specialise",
       "pronunciation": "/spˈɛʃə‍lˌa‍ɪz/",
-      "forms": [],
+      "forms": [
+        "specialises",
+        "specialised",
+        "specialising"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5322,7 +5619,11 @@
     {
       "word": "blaspheme",
       "pronunciation": "/blæsfˈiːm/",
-      "forms": [],
+      "forms": [
+        "blasphemes",
+        "blasphemed",
+        "blaspheming"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5374,7 +5675,11 @@
     {
       "word": "hightail",
       "pronunciation": "/hˈa‍ɪɾe‍ɪl/",
-      "forms": [],
+      "forms": [
+        "hightails",
+        "hightailed",
+        "hightailing"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5413,7 +5718,11 @@
     {
       "word": "jabber",
       "pronunciation": "/d‍ʒˈæbɚ/",
-      "forms": [],
+      "forms": [
+        "jabbers",
+        "jabbered",
+        "jabbering"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5439,7 +5748,10 @@
     {
       "word": "breastfeed",
       "pronunciation": "/bɹˈɛstfiːd/",
-      "forms": [],
+      "forms": [
+        "breastfeeds",
+        "breastfed"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5491,7 +5803,11 @@
     {
       "word": "bleat",
       "pronunciation": "/blˈiːt/",
-      "forms": [],
+      "forms": [
+        "bleats",
+        "bleated",
+        "bleating"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5543,7 +5859,11 @@
     {
       "word": "prophesy",
       "pronunciation": "/pɹˈɑːfəsi/",
-      "forms": [],
+      "forms": [
+        "prophesies",
+        "prophesied",
+        "prophesying"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5569,7 +5889,11 @@
     {
       "word": "liaise",
       "pronunciation": "/liːˈe‍ɪz/",
-      "forms": [],
+      "forms": [
+        "liaises",
+        "liaised",
+        "liaising"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -5686,7 +6010,11 @@
     {
       "word": "equate",
       "pronunciation": "/ɪkwˈe‍ɪt/",
-      "forms": [],
+      "forms": [
+        "equates",
+        "equated",
+        "equating"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
@@ -6271,7 +6599,11 @@
     {
       "word": "wield",
       "pronunciation": "/wˈiːld/",
-      "forms": [],
+      "forms": [
+        "wields",
+        "wielded",
+        "wielding"
+      ],
       "meanings": [
         {
           "partOfSpeech": "verb",
