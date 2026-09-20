@@ -1,0 +1,116 @@
+name: Semantic Select Dictionary Batch 051
+
+on:
+  push:
+    paths:
+      - 'staging/batch051/SELECT3'
+
+permissions:
+  contents: write
+
+jobs:
+  select:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Select 500 semantic-filtered unused words
+        run: |
+          python - <<'PY'
+          import base64, pathlib, re, urllib.request, zlib
+          root=pathlib.Path('.'); stage=root/'staging'/'batch051'
+          encoded=(root/'lookup'/'used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          used=set(zlib.decompress(base64.b64decode(encoded)).decode('utf-8').splitlines())
+          def get(url):
+              with urllib.request.urlopen(url,timeout=40) as r: return r.read().decode('utf-8')
+          base='https://raw.githubusercontent.com/evllabs/JGAAP/master/src/com/jgaap/resources/wordnet/'
+          source={}; alllex=set()
+          for pos,file in [('verb','index.verb'),('noun','index.noun'),('adjective','index.adj'),('adverb','index.adv')]:
+              s=set()
+              for line in get(base+file).splitlines():
+                  if not line or line.startswith(' '): continue
+                  w=line.split()[0].lower()
+                  if re.fullmatch(r'[a-z]{3,18}',w): s.add(w); alllex.add(w)
+              source[pos]=s
+
+          # Exclude any noun lemma that WordNet places in noun.location (15) or noun.person (18).
+          person_location=set()
+          for line in get(base+'data.noun').splitlines():
+              if not line or line.startswith(' '): continue
+              left=line.split('|',1)[0].split()
+              if len(left)<4: continue
+              try: lexnum=int(left[1]); wc=int(left[3],16)
+              except: continue
+              if lexnum not in (15,18): continue
+              idx=4
+              for _ in range(wc):
+                  if idx+1>=len(left): break
+                  w=left[idx].lower().replace('_','')
+                  if re.fullmatch(r'[a-z]{3,18}',w): person_location.add(w)
+                  idx+=2
+
+          freq={}
+          for i,line in enumerate(get('https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/en/en_50k.txt').splitlines(),1):
+              p=line.split()
+              if p and p[0] not in freq: freq[p[0]]=i
+
+          banned=set('''the and yes no hello okay yeah please who why here there then now one two three four five six seven eight nine ten
+          can will may must are isn ain won mrs ago ooh aah wow gotta till not but all very only some any much more
+          good bad nice great sir god hell dad mom mama baby boy girl man woman men lady lord guy kid
+          christ christmas jesus america europe africa england france germany china japan india rome paris london washington hollywood
+          sunday monday tuesday wednesday thursday friday saturday january february march april may june july august september october november december
+          fuckin mrs mum mommy mister santa
+          '''.split())
+          reject=set('''cetera bianco coste corne cul dea diff doble doo ell entre epsom fait ken mano par russe stein centum centrex darlin derring gentlelady goverment jakes klieg knott kraut krona kroner lima linage lobo lookit lulu majeure markkaa mealynose millon
+          saw felt made said gone heard used taken tried born written built held sold ate sat led grown forgotten kept paid finished stopped liked turned loved
+          thing things years days times words works lots someone whatever nothing being going coming talking getting taking looking saying working playing living waiting telling running giving speaking using happening sitting crying wearing killing standing dying walking starting eating driving holding beginning drinking listening helping keeping acting
+          '''.split())
+
+          def canonical(w):
+              if w in banned or w in reject or w in person_location: return False
+              if w.endswith('ies') and len(w)>4 and w[:-3]+'y' in alllex: return False
+              if w.endswith('es') and len(w)>4 and w[:-2] in alllex: return False
+              if w.endswith('s') and len(w)>3 and w[:-1] in alllex: return False
+              if w.endswith('ing') and len(w)>5:
+                  stem=w[:-3]
+                  if stem in alllex or stem+'e' in alllex or (len(stem)>2 and stem[-1]==stem[-2] and stem[:-1] in alllex): return False
+              if w.endswith('ed') and len(w)>4:
+                  stem=w[:-2]
+                  if stem in alllex or stem+'e' in alllex or (len(stem)>2 and stem[-1]==stem[-2] and stem[:-1] in alllex): return False
+              if w.endswith('er') and len(w)>4 and w[:-2] in source['adjective']: return False
+              if w.endswith('est') and len(w)>5 and w[:-3] in source['adjective']: return False
+              return True
+
+          rows=[]
+          for w in alllex:
+              if w in used or not canonical(w): continue
+              r=freq.get(w,999999)
+              if r<800: continue
+              if w in source['verb']: pos='verb'
+              elif w in source['noun']: pos='noun'
+              elif w in source['adjective']: pos='adjective'
+              else: pos='adverb'
+              score=(r if r<999999 else 200000)+len(w)*32
+              if pos=='verb': score-=220
+              elif pos=='noun': score-=100
+              if re.match(r'^(non|anti|counter|inter|intra|multi|pre|post|sub|super|hyper|hypo)',w): score+=1600
+              rows.append((score,w,pos))
+          rows.sort(key=lambda x:(x[0],x[1]))
+          selected=[(w,p) for _,w,p in rows[:500]]
+          assert len(selected)==500 and len({w for w,_ in selected})==500
+          assert not ({w for w,_ in selected}&used)
+          assert all(w not in person_location and canonical(w) for w,_ in selected)
+          (stage/'selection.tsv').write_text(''.join(f'{w}\t{p}\n' for w,p in selected),encoding='utf-8')
+          (stage/'SELECT3').unlink(missing_ok=True)
+          wf=root/'.github'/'workflows'/'select3-batch051.yml'
+          if wf.exists(): wf.unlink()
+          print('selected',len(selected))
+          PY
+      - name: Commit semantic selection
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add -A
+          git commit -m "Freeze semantic Batch 051 selection"
+          git push
