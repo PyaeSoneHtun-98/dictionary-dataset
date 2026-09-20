@@ -1,0 +1,145 @@
+name: Finalize Dictionary Batch 060
+
+on:
+  push:
+    paths:
+      - 'staging/batch060/FINALIZE'
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install pronunciation engine
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq espeak-ng
+
+      - name: Assemble, validate, and complete project
+        run: |
+          python - <<'PY'
+          import base64, hashlib, json, pathlib, re, shutil, subprocess, zlib
+
+          root=pathlib.Path('.')
+          manifest_path=root/'dictionary_manifest.json'
+          lookup_path=root/'lookup'/'used_keys_current.zlib.b64'
+          stage=root/'staging'/'batch060'
+          out=root/'Batches'/'dictionary_batch_060.json'
+
+          manifest=json.loads(manifest_path.read_text(encoding='utf-8'))
+          assert manifest['latestBatch']==59
+          assert manifest['nextBatch']==60
+          assert manifest['batchCount']==59
+          assert manifest['totalHeadwords']==29500
+          assert manifest['targetHeadwords']==30000
+          assert manifest['targetBatches']==60
+          assert manifest['lookup']['throughBatch']==59
+          assert manifest['lookup']['uniqueLookupKeys']==43891
+          assert manifest['lookup']['uniqueHeadwords']==29500
+          assert manifest['lookup']['uniqueStoredForms']==14437
+          assert manifest['lookup']['sha256']=='1207d09f212490edcae68e3bdc24af9ff92572a550320286bb916c94335e2992'
+
+          encoded=lookup_path.read_text(encoding='ascii').strip()
+          assert hashlib.sha256(encoded.encode('ascii')).hexdigest()==manifest['lookup']['sha256']
+          prior=set(zlib.decompress(base64.b64decode(encoded)).decode('utf-8').splitlines())
+          assert len(prior)==43891
+
+          selection=[x.strip() for x in (stage/'selection.txt').read_text(encoding='utf-8').splitlines() if x.strip()]
+          assert len(selection)==500
+          assert len(set(selection))==500
+
+          rows=[]
+          parts=sorted(stage.glob('part*.tsv'))
+          assert [p.name for p in parts]==[f'part{i:02d}.tsv' for i in range(1,6)]
+          for part in parts:
+              lines=[x for x in part.read_text(encoding='utf-8').splitlines() if x.strip()]
+              assert len(lines)==100,(part,len(lines))
+              for raw in lines:
+                  fields=raw.split('\t')
+                  assert len(fields)==3,(part,raw)
+                  rows.append(tuple(x.strip() for x in fields))
+
+          assert len(rows)==500
+          assert [w for w,_,_ in rows]==selection
+          wordset={w for w,_,_ in rows}
+          assert len(wordset)==500
+          collisions=sorted(wordset & prior)
+          assert not collisions,collisions[:30]
+          assert not out.exists()
+
+          allowed={'noun','verb','adjective','adverb','pronoun','preposition','conjunction','interjection','determiner','modal','auxiliary'}
+          latin=re.compile(r'[A-Za-z]')
+          entries=[]
+          for word,pos,gloss in rows:
+              assert word.isascii() and word.isalpha() and word==word.lower(),word
+              assert pos in allowed,(word,pos)
+              assert gloss and not latin.search(gloss),(word,gloss)
+              ipa=subprocess.run(
+                  ['espeak-ng','-q','--ipa=3','-v','en-us',word],
+                  check=True,capture_output=True,text=True
+              ).stdout.strip()
+              ipa=re.sub(r'\s+','',ipa).replace('/','')
+              assert ipa,word
+              entries.append({
+                  'word':word,
+                  'pronunciation':f'/{ipa}/',
+                  'forms':[],
+                  'meanings':[{'partOfSpeech':pos,'burmese':[gloss]}],
+              })
+
+          out.parent.mkdir(parents=True,exist_ok=True)
+          out.write_text(
+              json.dumps({'version':1,'batch':60,'entries':entries},ensure_ascii=False,indent=2)+'\n',
+              encoding='utf-8'
+          )
+
+          newkeys=prior|wordset
+          assert len(newkeys)==44391
+          payload='\n'.join(sorted(newkeys)).encode('utf-8')
+          new_encoded=base64.b64encode(zlib.compress(payload,9)).decode('ascii')
+          lookup_path.write_text(new_encoded+'\n',encoding='ascii')
+
+          manifest['latestBatch']=60
+          manifest['nextBatch']=None
+          manifest['batchCount']=60
+          manifest['totalHeadwords']=30000
+          manifest['lookup']['throughBatch']=60
+          manifest['lookup']['uniqueLookupKeys']=len(newkeys)
+          manifest['lookup']['uniqueHeadwords']=30000
+          manifest['lookup']['uniqueStoredForms']=14437
+          manifest['lookup']['sha256']=hashlib.sha256(new_encoded.encode('ascii')).hexdigest()
+          manifest['status']='complete'
+          assert manifest['totalHeadwords']==manifest['batchCount']*500
+          assert manifest['totalHeadwords']==manifest['targetHeadwords']
+          assert manifest['batchCount']==manifest['targetBatches']
+          manifest_path.write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+
+          readme=root/'README.md'
+          text=readme.read_text(encoding='utf-8')
+          old='Batches 001–059 have been generated: **29,500 unique headwords**.'
+          new='Batches 001–060 have been generated: **30,000 unique headwords**. The Version 1 dataset target is complete.'
+          assert old in text
+          readme.write_text(text.replace(old,new,1),encoding='utf-8')
+
+          shutil.rmtree(stage)
+          wf=root/'.github'/'workflows'/'finalize-batch060.yml'
+          if wf.exists(): wf.unlink()
+
+          print('VALID')
+          print('entries:',len(entries))
+          print('new_lookup_keys:',len(newkeys))
+          print('total_headwords:',manifest['totalHeadwords'])
+          print('status:',manifest['status'])
+          PY
+
+      - name: Commit Batch 060 and complete dataset
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add -A
+          git commit -m "Add dictionary Batch 060 and complete dataset"
+          git push
