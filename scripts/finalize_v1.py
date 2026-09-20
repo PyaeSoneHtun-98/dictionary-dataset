@@ -266,6 +266,12 @@ def main() -> int:
             "Manifest historicalBatches.mirroredAsJson is stale: batch JSON files 001-023 are present."
         )
 
+    for item in manifest_mismatches:
+        blocking.append(
+            f"Manifest mismatch {item['field']}: expected {item['expected']!r}, "
+            f"actual {item['actual']!r}"
+        )
+
     legacy_headwords = load_legacy_headwords(args.legacy_ts)
     missing_legacy = sorted(set(legacy_headwords) - headword_keys)
     if missing_legacy:
@@ -276,6 +282,38 @@ def main() -> int:
     candidate = {"version": 1, "entries": sorted(entries, key=lambda e: e["word"])}
     candidate_text = json.dumps(candidate, ensure_ascii=False, indent=2) + "\n"
     candidate_sha256 = hashlib.sha256(candidate_text.encode("utf-8")).hexdigest()
+
+    release = manifest.get("release")
+    if release is not None:
+        if not isinstance(release, dict):
+            blocking.append("Manifest release metadata must be an object.")
+        else:
+            if release.get("version") != "1.0.0":
+                blocking.append(
+                    f"Frozen release version must be '1.0.0', found {release.get('version')!r}."
+                )
+            if release.get("status") != "frozen":
+                blocking.append(
+                    f"Frozen release status must be 'frozen', found {release.get('status')!r}."
+                )
+            artifact_value = release.get("artifact")
+            if not isinstance(artifact_value, str) or not artifact_value:
+                blocking.append("Frozen release artifact path is missing.")
+            else:
+                artifact_path = Path(artifact_value)
+                if not artifact_path.exists():
+                    blocking.append(f"Frozen release artifact is missing: {artifact_value}.")
+                else:
+                    artifact_sha = hashlib.sha256(artifact_path.read_bytes()).hexdigest()
+                    if artifact_sha != release.get("artifactSha256"):
+                        blocking.append(
+                            "Frozen release artifact SHA-256 does not match manifest metadata."
+                        )
+                    if artifact_sha != candidate_sha256:
+                        blocking.append(
+                            "Frozen release artifact does not match the deterministic batch build."
+                        )
+
     if not blocking:
         args.candidate.write_text(candidate_text, encoding="utf-8")
 
