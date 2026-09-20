@@ -1,0 +1,129 @@
+name: Select Dictionary Batch 052
+
+on:
+  push:
+    paths:
+      - 'staging/batch052/SELECT'
+
+permissions:
+  contents: write
+
+jobs:
+  select:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Select 650 unused candidates
+        run: |
+          python - <<'PY'
+          import base64, pathlib, re, urllib.request, zlib
+
+          root=pathlib.Path('.')
+          stage=root/'staging'/'batch052'
+          stage.mkdir(parents=True, exist_ok=True)
+          encoded=(root/'lookup'/'used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          used=set(zlib.decompress(base64.b64decode(encoded)).decode('utf-8').splitlines())
+
+          def get(url):
+              with urllib.request.urlopen(url, timeout=40) as r:
+                  return r.read().decode('utf-8')
+
+          wn='https://raw.githubusercontent.com/evllabs/JGAAP/master/src/com/jgaap/resources/wordnet/'
+          source={}; alllex=set()
+          for pos,file in [('verb','index.verb'),('noun','index.noun'),('adjective','index.adj'),('adverb','index.adv')]:
+              s=set()
+              for line in get(wn+file).splitlines():
+                  if not line or line.startswith(' '): continue
+                  w=line.split()[0].lower()
+                  if re.fullmatch(r'[a-z]{4,18}',w):
+                      s.add(w); alllex.add(w)
+              source[pos]=s
+
+          # First-name exclusion from NLTK corpus.
+          names=set()
+          for url in [
+              'https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/names.zip'
+          ]:
+              pass
+          for url in [
+              'https://raw.githubusercontent.com/philipperemy/name-dataset/master/names_dataset/v3/first_names.txt'
+          ]:
+              try:
+                  for x in get(url).splitlines():
+                      x=x.strip().lower()
+                      if x.isalpha(): names.add(x)
+              except Exception:
+                  pass
+
+          freq={}
+          txt=get('https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/en/en_50k.txt')
+          for i,line in enumerate(txt.splitlines(),1):
+              p=line.split()
+              if p and p[0] not in freq: freq[p[0]]=i
+
+          banned=set('''america american england english france french germany german china chinese japan japanese india indian italy italian
+          russia russian mexico mexican canada canadian spain spanish britain british europe european africa african asia asian
+          texas california chicago york paris london rome washington hollywood israel israeli islam islamic christian christianity jewish
+          sunday monday tuesday wednesday thursday friday saturday january february march april may june july august september october november december
+          john james michael david robert william richard joseph thomas charles christopher daniel matthew anthony mark donald steven paul andrew joshua kenneth kevin brian george edward ronald timothy jason jeffrey ryan jacob gary nicholas eric stephen jonathan larry justin scott brandon benjamin samuel gregory frank alexander raymond patrick jack dennis jerry tyler aaron jose adam henry nathan douglas zachary peter kyle noah ethan jeremy walter christian keith roger terry gerald harold sean austin carl arthur lawrence dylan jesse jordan bryan billy bruce albert willie gabriel logan alan juan wayne roy ralph randy eugene vincent russell louis philip bobby johnny bradley
+          mary patricia jennifer linda elizabeth barbara susan jessica sarah karen lisa nancy betty margaret sandra ashley kimberly emily donna michelle carol amanda dorothy melissa deborah stephanie rebecca sharon laura cynthia kathleen amy shirley angela helen anna brenda pamela nicole emma samantha katherine christine debra rachel carolyn janet maria catherine heather diane olivia julie joyce victoria ruth virginia lauren kelly christina joan evelyn judith megan cheryl andrea hannah martha jacqueline frances gloria ann teresa kathryn sara janice jean alice madison doris abigail julia judy grace denise amber marilyn beverly danielle theresa sophia marie diana brittany natalie isabella charlotte rose alexis kayla lori
+          nasa fbi cia nsa kgb nato interpol gestapo taliban vatican google twitter cisco beatles viagra ipod
+          '''.split()) | names
+
+          reject=set('''cetera bianco coste corne cul dea diff doble doo ell entre epsom fait ken mano par russe stein centum centrex darlin derring gentlelady goverment jakes klieg knott kraut krona kroner lima linage lobo lookit lulu majeure markkaa mealynose millon
+          saw felt made said gone heard used taken tried born written built held sold ate sat led grown forgotten kept paid finished stopped liked turned loved
+          things years days times words works lots being going coming talking getting taking looking saying working playing living waiting telling running giving speaking using happening sitting crying wearing killing standing dying walking starting eating driving holding beginning drinking listening helping keeping acting
+          '''.split())
+
+          def canonical(w):
+              if w in banned or w in reject: return False
+              if w.endswith('ies') and w[:-3]+'y' in alllex: return False
+              if w.endswith('es') and w[:-2] in alllex: return False
+              if w.endswith('s') and w[:-1] in alllex: return False
+              if w.endswith('ing'):
+                  s=w[:-3]
+                  if s in alllex or s+'e' in alllex or (len(s)>2 and s[-1]==s[-2] and s[:-1] in alllex): return False
+              if w.endswith('ed'):
+                  s=w[:-2]
+                  if s in alllex or s+'e' in alllex or (len(s)>2 and s[-1]==s[-2] and s[:-1] in alllex): return False
+              if w.endswith('er') and w[:-2] in source['adjective']: return False
+              if w.endswith('est') and w[:-3] in source['adjective']: return False
+              return True
+
+          rows=[]
+          for w in alllex:
+              if w in used or not canonical(w): continue
+              r=freq.get(w,999999)
+              if r < 3000: continue
+              if w in source['noun']: pos='noun'
+              elif w in source['verb']: pos='verb'
+              elif w in source['adjective']: pos='adjective'
+              else: pos='adverb'
+              score=(r if r<999999 else 180000)+len(w)*30
+              # Mildly prefer base verbs/common nouns; penalize heavily prefixed morphology.
+              if pos=='verb': score-=120
+              if re.match(r'^(non|anti|counter|inter|intra|multi|pre|post|sub|super|hyper|hypo|over)',w): score+=1700
+              rows.append((score,w,pos))
+          rows.sort(key=lambda x:(x[0],x[1]))
+
+          selected=[(w,p) for _,w,p in rows[:650]]
+          assert len(selected)==650
+          assert len({w for w,_ in selected})==650
+          assert not ({w for w,_ in selected}&used)
+          (stage/'candidates.tsv').write_text(''.join(f'{w}\t{p}\n' for w,p in selected),encoding='utf-8')
+          (stage/'SELECT').unlink(missing_ok=True)
+          wf=root/'.github'/'workflows'/'select-batch052.yml'
+          if wf.exists(): wf.unlink()
+          print('candidates',len(selected))
+          PY
+
+      - name: Commit candidates
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add -A
+          git commit -m "Generate Batch 052 candidates"
+          git push
