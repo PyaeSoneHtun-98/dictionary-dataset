@@ -1,0 +1,31 @@
+name: Propose verb form repairs
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "scripts/propose_verb_form_repairs.py"
+      - ".github/workflows/propose-verb-form-repairs.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  propose:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout dataset
+        uses: actions/checkout@v4
+
+      - name: Install morphology dependency
+        run: python -m pip install --disable-pip-version-check lemminflect==0.2.3
+
+      - name: Build repair proposal
+        run: python scripts/propose_verb_form_repairs.py --output verb_form_repair_proposal.json
+
+      - name: Upload repair proposal
+        uses: actions/upload-artifact@v4
+        with:
+          name: verb-form-repair-proposal
+          path: verb_form_repair_proposal.json
