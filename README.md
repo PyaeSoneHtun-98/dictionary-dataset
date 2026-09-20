@@ -12,9 +12,22 @@ English → Burmese dictionary data for **Subtitle Bridge**, a subtitle/movie lo
 
 ## Current progress
 
-Batches 001–060 have been generated: **30,000 unique headwords**. The Version 1 dataset target is complete.
+Batches 001–060 have been generated: **30,000 unique headwords**. Dictionary **v1.0.0 is frozen**.
 
 The repository now contains the complete Version 1 source dataset: Batches 001–060 are mirrored under `Batches/`. The cumulative lookup index under `lookup/` covers all headwords and stored forms through Batch 060.
+
+## Frozen v1.0 release
+
+- Final artifact: `dist/dictionary_v1.json`
+- Finalization record: `FINALIZATION.md`
+- Headwords: 30,000
+- Stored forms: 15,864
+- Burmese semantic meanings: 38,001
+- Unique lookup keys: 45,817
+- Form-to-form collisions: 0
+- Artifact SHA-256: `fcdb26986ed62bfaa130732ed0e88cc2e30bbc7f964b4b16de47f809783ed325`
+
+The 60 files under `Batches/` remain the source dataset. The frozen artifact is generated deterministically from those batches.
 
 ## Layout
 
