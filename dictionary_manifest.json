@@ -26,5 +26,21 @@
     "sha256Scope": "base64-trimmed"
   },
   "batchFilenamePattern": "Batches/dictionary_batch_XXX.json",
-  "status": "complete"
+  "status": "complete",
+  "release": {
+    "version": "1.0.0",
+    "status": "frozen",
+    "sourceCommit": "630e0a1d10f5b5505734295dc44e6edde2a022d1",
+    "artifact": "dist/dictionary_v1.json",
+    "artifactSha256": "fcdb26986ed62bfaa130732ed0e88cc2e30bbc7f964b4b16de47f809783ed325",
+    "batchCount": 60,
+    "headwords": 30000,
+    "storedForms": 15864,
+    "burmeseMeanings": 38001,
+    "lookupKeys": 45817,
+    "headwordFormOverlaps": 47,
+    "formFormCollisions": 0,
+    "intentionalZeroFormVerbs": 30,
+    "legacyOnlyHeadwords": 16
+  }
 }
