@@ -1,0 +1,77 @@
+name: Apply residual dictionary v1 verb forms
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/apply-residual-v1-verb-forms.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout dataset
+        uses: actions/checkout@v4
+
+      - name: Install morphology dependency
+        run: python -m pip install --disable-pip-version-check lemminflect==0.2.3
+
+      - name: Apply reviewed residual verb forms
+        run: |
+          python scripts/apply_safe_verb_form_repairs.py \
+            --report residual_verb_form_repair.json
+
+      - name: Rebuild cumulative lookup index
+        run: python scripts/rebuild_lookup.py
+
+      - name: Fetch current Subtitle Bridge legacy fallback
+        run: |
+          curl -fsSL \
+            https://raw.githubusercontent.com/PyaeSoneHtun-98/stremio_dictionary/master/src/main/translation/legacyDictionary.ts \
+            -o /tmp/legacyDictionary.ts
+
+      - name: Run full v1 structural audit
+        run: |
+          python scripts/finalize_v1.py \
+            --legacy-ts /tmp/legacyDictionary.ts \
+            --report-json finalization_report.json \
+            --report-md finalization_report.md \
+            --candidate dictionary_v1_candidate.json
+
+      - name: Re-run verb morphology audit
+        run: python scripts/audit_verb_forms.py --output verb_form_audit_after_residual.json
+
+      - name: Check diff
+        run: |
+          git diff --check
+          git status --short
+          git diff --stat
+
+      - name: Commit residual repairs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Batches lookup/used_keys_current.zlib.b64 dictionary_manifest.json
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Complete reviewed v1 verb forms"
+            git push origin HEAD:master
+          fi
+
+      - name: Upload residual repair audit
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dictionary-v1-residual-verb-audit
+          if-no-files-found: warn
+          path: |
+            residual_verb_form_repair.json
+            verb_form_audit_after_residual.json
+            finalization_report.json
+            finalization_report.md
+            dictionary_v1_candidate.json
