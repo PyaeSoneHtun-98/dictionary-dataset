@@ -1,0 +1,118 @@
+name: Refine Dictionary Batch 051
+
+on:
+  push:
+    paths:
+      - 'staging/batch051/REFINE'
+
+permissions:
+  contents: write
+
+jobs:
+  refine:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Reselect 500 canonical unused words
+        run: |
+          python - <<'PY'
+          import base64, pathlib, re, urllib.request, zlib
+
+          root=pathlib.Path('.')
+          stage=root/'staging'/'batch051'
+          encoded=(root/'lookup'/'used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          used=set(zlib.decompress(base64.b64decode(encoded)).decode('utf-8').splitlines())
+
+          def get(url):
+              with urllib.request.urlopen(url, timeout=30) as r:
+                  return r.read().decode('utf-8')
+
+          base='https://raw.githubusercontent.com/evllabs/JGAAP/master/src/com/jgaap/resources/wordnet/'
+          sources=[('verb',get(base+'index.verb')),('noun',get(base+'index.noun')),
+                   ('adjective',get(base+'index.adj')),('adverb',get(base+'index.adv'))]
+
+          bypos={}
+          alllex=set()
+          for pos,txt in sources:
+              d=set()
+              for line in txt.splitlines():
+                  if not line or line.startswith(' '): continue
+                  w=line.split()[0].lower()
+                  if re.fullmatch(r'[a-z]{3,18}',w):
+                      d.add(w); alllex.add(w)
+              bypos[pos]=d
+
+          lex={}
+          for pos in ('verb','noun','adjective','adverb'):
+              for w in bypos[pos]:
+                  lex.setdefault(w,pos)
+
+          freq_txt=get('https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/en/en_50k.txt')
+          freq={}
+          for i,line in enumerate(freq_txt.splitlines(),1):
+              p=line.split()
+              if p and p[0] not in freq: freq[p[0]]=i
+
+          banned=set('''the and yes no hello good bad okay yeah please who why here there then now one two three four five six seven eight nine ten don isn ain won are mrs ago ooh aah wow gotta
+          john sam jesus york david tom mike george michael ben paul mary peter james jimmy henry sarah billy adam harry bob nick lee america paris london christmas
+          hollywood american english french german chinese british spanish russian japanese indian italian christian jewish greek catholic soviet irish korean mexican african nazi asian swedish arabic turkish canadian thai egyptian scottish australian vietnamese portuguese danish brazilian israeli hebrew hungarian islamic norwegian buddhist hindu czech iraqi iranian indonesian
+          latin dutch european swiss cuban hawaiian persian armenian filipino venetian siamese argentine dominican mongol sikh athenian sumerian genovese sudanese babylonian argentinian manchurian californian olympian polynesian tuscan corsican milanese elizabethan macedonian slav appalachian dalmatian carthaginian phoenician yugoslavian columbian andean minoan homeric jungian rumanian hegelian
+          caroline julian norman dexter august scotch muslim beta mediterranean hindi scots saxon spartan latino arabian tudor bolshevik alaskan florentine westside chechen texan catalan neapolitan jesuit eastside midwestern olympian samoan shona algonquin newtonian jacksonian wilsonian
+          '''.split())
+
+          reject=set('''cetera bianco coste corne cul dea diff doble doo ell entre epsom fait ken mano par russe stein centum centrex darlin derring gentlelady goverment jakes klieg knott kraut krona kroner lima linage lobo lookit lulu majeure markkaa mealynose millon
+          thing things years days times words works lots someone whatever nothing being going coming talking getting taking looking saying working playing living waiting telling running giving speaking using happening sitting crying wearing killing standing dying walking starting eating driving holding beginning drinking listening helping keeping acting
+          fuckin ass mrs mum mommy
+          '''.split())
+
+          def inflected(w):
+              if w.endswith('ies') and len(w)>4 and w[:-3]+'y' in alllex: return True
+              if w.endswith('es') and len(w)>4 and w[:-2] in alllex: return True
+              if w.endswith('s') and len(w)>3 and w[:-1] in alllex: return True
+              if w.endswith('ing') and len(w)>5:
+                  stem=w[:-3]
+                  if stem in alllex or stem+'e' in alllex or (len(stem)>2 and stem[-1]==stem[-2] and stem[:-1] in alllex): return True
+              if w.endswith('ed') and len(w)>4:
+                  stem=w[:-2]
+                  if stem in alllex or stem+'e' in alllex or (len(stem)>2 and stem[-1]==stem[-2] and stem[:-1] in alllex): return True
+              return False
+
+          candidates=[]
+          for w,pos in lex.items():
+              if w in used or w in banned or w in reject or inflected(w): continue
+              r=freq.get(w,999999)
+              score=(r if r<999999 else 180000)+len(w)*30
+              if pos=='verb': score-=500
+              elif pos=='noun': score-=250
+              if re.match(r'^(non|anti|counter|inter|intra|multi|pre|post|sub|super|hyper|hypo)',w):
+                  score+=1800
+              candidates.append((score,r,w,pos))
+
+          candidates.sort(key=lambda x:(x[0],x[2]))
+          selected=[]
+          for _,_,w,pos in candidates:
+              selected.append((w,pos))
+              if len(selected)==500: break
+
+          assert len(selected)==500
+          words=[w for w,_ in selected]
+          assert len(set(words))==500
+          assert not (set(words)&used)
+          assert not any(w in banned or w in reject or inflected(w) for w in words)
+          (stage/'selection.tsv').write_text(''.join(f'{w}\t{p}\n' for w,p in selected),encoding='utf-8')
+          (stage/'REFINE').unlink(missing_ok=True)
+          wf=root/'.github'/'workflows'/'refine-batch051.yml'
+          if wf.exists(): wf.unlink()
+          print('selected',len(selected))
+          PY
+
+      - name: Commit refined selection
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add -A
+          git commit -m "Refine Batch 051 canonical selection"
+          git push
