@@ -1,0 +1,45 @@
+name: Validate Phrase Dictionary
+
+on:
+  push:
+    paths:
+      - "PhraseBatches/**"
+      - "phrase_manifest.json"
+      - "phrase_lookup/**"
+      - "scripts/phrase_*.py"
+      - "scripts/validate_phrase_batch.py"
+      - "scripts/rebuild_phrase_lookup.py"
+      - "scripts/finalize_phrases_v1.py"
+      - "tests/test_phrase_dictionary.py"
+      - ".github/workflows/validate-phrase-dictionary.yml"
+  pull_request:
+    paths:
+      - "PhraseBatches/**"
+      - "phrase_manifest.json"
+      - "phrase_lookup/**"
+      - "scripts/phrase_*.py"
+      - "scripts/validate_phrase_batch.py"
+      - "scripts/rebuild_phrase_lookup.py"
+      - "scripts/finalize_phrases_v1.py"
+      - "tests/test_phrase_dictionary.py"
+      - ".github/workflows/validate-phrase-dictionary.yml"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Unit tests
+        run: python -m unittest tests/test_phrase_dictionary.py
+      - name: Validate committed phrase batches
+        shell: bash
+        run: |
+          shopt -s nullglob
+          for batch in PhraseBatches/phrase_batch_*.json; do
+            python scripts/validate_phrase_batch.py "$batch" --no-manifest-check
+          done
+      - name: Verify cumulative phrase dataset
+        run: python scripts/rebuild_phrase_lookup.py
