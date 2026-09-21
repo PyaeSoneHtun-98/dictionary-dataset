@@ -1,0 +1,3011 @@
+{
+  "version": 1,
+  "batch": 2,
+  "entries": [
+    {
+      "phrase": "put on",
+      "type": "phrasal_verb",
+      "forms": [
+        "puts on",
+        "putting on"
+      ],
+      "burmese": [
+        "ဝတ်သည်",
+        "ဖွင့်သည်",
+        "ဟန်ဆောင်သည်"
+      ]
+    },
+    {
+      "phrase": "put down",
+      "type": "phrasal_verb",
+      "forms": [
+        "puts down",
+        "putting down"
+      ],
+      "burmese": [
+        "ချထားသည်",
+        "နှိမ့်ချပြောသည်",
+        "သတ်ပစ်သည်"
+      ]
+    },
+    {
+      "phrase": "put off",
+      "type": "phrasal_verb",
+      "forms": [
+        "puts off",
+        "putting off"
+      ],
+      "burmese": [
+        "ရွှေ့ဆိုင်းသည်",
+        "စိတ်ပျက်စေသည်"
+      ]
+    },
+    {
+      "phrase": "put back",
+      "type": "phrasal_verb",
+      "forms": [
+        "puts back",
+        "putting back"
+      ],
+      "burmese": [
+        "ပြန်ထားသည်",
+        "နောက်ကျစေသည်"
+      ]
+    },
+    {
+      "phrase": "put out",
+      "type": "phrasal_verb",
+      "forms": [
+        "puts out",
+        "putting out"
+      ],
+      "burmese": [
+        "မီးငြှိမ်းသည်",
+        "အနှောင့်အယှက်ဖြစ်စေသည်"
+      ]
+    },
+    {
+      "phrase": "put together",
+      "type": "phrasal_verb",
+      "forms": [
+        "puts together",
+        "putting together"
+      ],
+      "burmese": [
+        "စုစည်းသည်",
+        "တပ်ဆင်သည်"
+      ]
+    },
+    {
+      "phrase": "put aside",
+      "type": "phrasal_verb",
+      "forms": [
+        "puts aside",
+        "putting aside"
+      ],
+      "burmese": [
+        "ဘေးဖယ်ထားသည်",
+        "ငွေစုထားသည်"
+      ]
+    },
+    {
+      "phrase": "put through",
+      "type": "phrasal_verb",
+      "forms": [
+        "puts through",
+        "putting through"
+      ],
+      "burmese": [
+        "ဒုက္ခခံစေသည်",
+        "ဖုန်းဆက်သွယ်ပေးသည်"
+      ]
+    },
+    {
+      "phrase": "put forward",
+      "type": "phrasal_verb",
+      "forms": [
+        "puts forward",
+        "putting forward"
+      ],
+      "burmese": [
+        "အကြံတင်ပြသည်",
+        "အဆိုပြုသည်"
+      ]
+    },
+    {
+      "phrase": "put in",
+      "type": "phrasal_verb",
+      "forms": [
+        "puts in",
+        "putting in"
+      ],
+      "burmese": [
+        "ထည့်သွင်းသည်",
+        "အချိန်အားထုတ်သည်"
+      ]
+    },
+    {
+      "phrase": "take on",
+      "type": "phrasal_verb",
+      "forms": [
+        "takes on",
+        "took on",
+        "taken on",
+        "taking on"
+      ],
+      "burmese": [
+        "တာဝန်ယူသည်",
+        "ယှဉ်ပြိုင်ရင်ဆိုင်သည်"
+      ]
+    },
+    {
+      "phrase": "take up",
+      "type": "phrasal_verb",
+      "forms": [
+        "takes up",
+        "took up",
+        "taken up",
+        "taking up"
+      ],
+      "burmese": [
+        "စတင်လုပ်ကိုင်သည်",
+        "နေရာယူသည်",
+        "အချိန်ယူသည်"
+      ]
+    },
+    {
+      "phrase": "take apart",
+      "type": "phrasal_verb",
+      "forms": [
+        "takes apart",
+        "took apart",
+        "taken apart",
+        "taking apart"
+      ],
+      "burmese": [
+        "ဖြုတ်ခွဲသည်",
+        "ခွဲခြမ်းစိတ်ဖြာသည်"
+      ]
+    },
+    {
+      "phrase": "take after",
+      "type": "phrasal_verb",
+      "forms": [
+        "takes after",
+        "took after",
+        "taken after",
+        "taking after"
+      ],
+      "burmese": [
+        "တူသည်",
+        "မိဘလို ဖြစ်သည်"
+      ]
+    },
+    {
+      "phrase": "take aside",
+      "type": "phrasal_verb",
+      "forms": [
+        "takes aside",
+        "took aside",
+        "taken aside",
+        "taking aside"
+      ],
+      "burmese": [
+        "ဘေးခေါ်ပြီး ပြောသည်"
+      ]
+    },
+    {
+      "phrase": "take along",
+      "type": "phrasal_verb",
+      "forms": [
+        "takes along",
+        "took along",
+        "taken along",
+        "taking along"
+      ],
+      "burmese": [
+        "အတူခေါ်သွားသည်",
+        "ယူသွားသည်"
+      ]
+    },
+    {
+      "phrase": "bring in",
+      "type": "phrasal_verb",
+      "forms": [
+        "brings in",
+        "brought in",
+        "bringing in"
+      ],
+      "burmese": [
+        "ခေါ်သွင်းသည်",
+        "ဝင်ငွေ ရှာပေးသည်"
+      ]
+    },
+    {
+      "phrase": "bring out",
+      "type": "phrasal_verb",
+      "forms": [
+        "brings out",
+        "brought out",
+        "bringing out"
+      ],
+      "burmese": [
+        "ထုတ်ဖော်ပြသည်",
+        "ပိုမိုပေါ်လွင်စေသည်"
+      ]
+    },
+    {
+      "phrase": "bring over",
+      "type": "phrasal_verb",
+      "forms": [
+        "brings over",
+        "brought over",
+        "bringing over"
+      ],
+      "burmese": [
+        "ယူလာသည်",
+        "ခေါ်လာသည်"
+      ]
+    },
+    {
+      "phrase": "bring along",
+      "type": "phrasal_verb",
+      "forms": [
+        "brings along",
+        "brought along",
+        "bringing along"
+      ],
+      "burmese": [
+        "အတူခေါ်လာသည်",
+        "ယူလာသည်"
+      ]
+    },
+    {
+      "phrase": "bring together",
+      "type": "phrasal_verb",
+      "forms": [
+        "brings together",
+        "brought together",
+        "bringing together"
+      ],
+      "burmese": [
+        "စုစည်းပေးသည်",
+        "ပေါင်းစည်းစေသည်"
+      ]
+    },
+    {
+      "phrase": "bring forward",
+      "type": "phrasal_verb",
+      "forms": [
+        "brings forward",
+        "brought forward",
+        "bringing forward"
+      ],
+      "burmese": [
+        "ရှေ့တင်သည်",
+        "ရက်စောစေသည်"
+      ]
+    },
+    {
+      "phrase": "call in",
+      "type": "phrasal_verb",
+      "forms": [
+        "calls in",
+        "called in",
+        "calling in"
+      ],
+      "burmese": [
+        "ခေါ်ယူသည်",
+        "ဖုန်းဆက်အကြောင်းကြားသည်"
+      ]
+    },
+    {
+      "phrase": "call out",
+      "type": "phrasal_verb",
+      "forms": [
+        "calls out",
+        "called out",
+        "calling out"
+      ],
+      "burmese": [
+        "အော်ခေါ်သည်",
+        "အမှားကို လူသိရှင်ကြား ထောက်ပြသည်"
+      ]
+    },
+    {
+      "phrase": "call up",
+      "type": "phrasal_verb",
+      "forms": [
+        "calls up",
+        "called up",
+        "calling up"
+      ],
+      "burmese": [
+        "ဖုန်းခေါ်သည်",
+        "တာဝန်ထမ်းဆောင်ရန် ခေါ်ယူသည်"
+      ]
+    },
+    {
+      "phrase": "call for",
+      "type": "phrasal_verb",
+      "forms": [
+        "calls for",
+        "called for",
+        "calling for"
+      ],
+      "burmese": [
+        "လိုအပ်သည်",
+        "တောင်းဆိုသည်"
+      ]
+    },
+    {
+      "phrase": "call on",
+      "type": "phrasal_verb",
+      "forms": [
+        "calls on",
+        "called on",
+        "calling on"
+      ],
+      "burmese": [
+        "တောင်းဆိုသည်",
+        "သွားရောက်တွေ့ဆုံသည်"
+      ]
+    },
+    {
+      "phrase": "carry out",
+      "type": "phrasal_verb",
+      "forms": [
+        "carries out",
+        "carried out",
+        "carrying out"
+      ],
+      "burmese": [
+        "အကောင်အထည်ဖော်သည်",
+        "ဆောင်ရွက်သည်"
+      ]
+    },
+    {
+      "phrase": "carry over",
+      "type": "phrasal_verb",
+      "forms": [
+        "carries over",
+        "carried over",
+        "carrying over"
+      ],
+      "burmese": [
+        "နောက်ကာလသို့ ဆက်ပါသွားသည်",
+        "ဆက်လက်သက်ရောက်သည်"
+      ]
+    },
+    {
+      "phrase": "carry away",
+      "type": "phrasal_verb",
+      "forms": [
+        "carries away",
+        "carried away",
+        "carrying away"
+      ],
+      "burmese": [
+        "သယ်ယူသွားသည်",
+        "စိတ်လွန်သွားစေသည်"
+      ]
+    },
+    {
+      "phrase": "come down",
+      "type": "phrasal_verb",
+      "forms": [
+        "comes down",
+        "came down",
+        "coming down"
+      ],
+      "burmese": [
+        "အောက်ဆင်းလာသည်",
+        "ကျဆင်းလာသည်"
+      ]
+    },
+    {
+      "phrase": "come down with",
+      "type": "phrasal_verb",
+      "forms": [
+        "comes down with",
+        "came down with",
+        "coming down with"
+      ],
+      "burmese": [
+        "ရောဂါစဖြစ်လာသည်"
+      ]
+    },
+    {
+      "phrase": "come from",
+      "type": "phrasal_verb",
+      "forms": [
+        "comes from",
+        "came from",
+        "coming from"
+      ],
+      "burmese": [
+        "မှ လာသည်",
+        "အရင်းအမြစ် ဖြစ်သည်"
+      ]
+    },
+    {
+      "phrase": "come off",
+      "type": "phrasal_verb",
+      "forms": [
+        "comes off",
+        "came off",
+        "coming off"
+      ],
+      "burmese": [
+        "ကျွတ်ထွက်သည်",
+        "အောင်မြင်သွားသည်"
+      ]
+    },
+    {
+      "phrase": "come under",
+      "type": "phrasal_verb",
+      "forms": [
+        "comes under",
+        "came under",
+        "coming under"
+      ],
+      "burmese": [
+        "လက်အောက်ကျသည်",
+        "အမျိုးအစားတစ်ခုထဲ ပါဝင်သည်"
+      ]
+    },
+    {
+      "phrase": "come between",
+      "type": "phrasal_verb",
+      "forms": [
+        "comes between",
+        "came between",
+        "coming between"
+      ],
+      "burmese": [
+        "ကြားဝင်ဖျက်ဆီးသည်",
+        "ကြားခွဲသည်"
+      ]
+    },
+    {
+      "phrase": "come before",
+      "type": "phrasal_verb",
+      "forms": [
+        "comes before",
+        "came before",
+        "coming before"
+      ],
+      "burmese": [
+        "အရင်လာသည်",
+        "ရှေ့မှောက်တင်ပြရသည်"
+      ]
+    },
+    {
+      "phrase": "come after",
+      "type": "phrasal_verb",
+      "forms": [
+        "comes after",
+        "came after",
+        "coming after"
+      ],
+      "burmese": [
+        "နောက်မှလိုက်သည်",
+        "လိုက်လံရှာဖွေသည်"
+      ]
+    },
+    {
+      "phrase": "get up",
+      "type": "phrasal_verb",
+      "forms": [
+        "gets up",
+        "got up",
+        "getting up"
+      ],
+      "burmese": [
+        "ထသည်",
+        "အိပ်ရာထသည်"
+      ]
+    },
+    {
+      "phrase": "get down",
+      "type": "phrasal_verb",
+      "forms": [
+        "gets down",
+        "got down",
+        "getting down"
+      ],
+      "burmese": [
+        "အောက်ဆင်းသည်",
+        "စိတ်ညစ်စေသည်"
+      ]
+    },
+    {
+      "phrase": "get into",
+      "type": "phrasal_verb",
+      "forms": [
+        "gets into",
+        "got into",
+        "gotten into",
+        "getting into"
+      ],
+      "burmese": [
+        "ဝင်ရောက်သည်",
+        "စိတ်ဝင်စားလာသည်",
+        "ပြဿနာထဲ ကျရောက်သည်"
+      ]
+    },
+    {
+      "phrase": "get on",
+      "type": "phrasal_verb",
+      "forms": [
+        "gets on",
+        "got on",
+        "gotten on",
+        "getting on"
+      ],
+      "burmese": [
+        "ယာဉ်ပေါ်တက်သည်",
+        "ဆက်လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "get on with",
+      "type": "phrasal_verb",
+      "forms": [
+        "gets on with",
+        "got on with",
+        "gotten on with",
+        "getting on with"
+      ],
+      "burmese": [
+        "ဆက်လုပ်သည်",
+        "အဆင်ပြေပြေ ပေါင်းသင်းသည်"
+      ]
+    },
+    {
+      "phrase": "get around",
+      "type": "phrasal_verb",
+      "forms": [
+        "gets around",
+        "got around",
+        "gotten around",
+        "getting around"
+      ],
+      "burmese": [
+        "သွားလာသည်",
+        "နည်းလမ်းရှာကျော်ဖြတ်သည်"
+      ]
+    },
+    {
+      "phrase": "get around to",
+      "type": "phrasal_verb",
+      "forms": [
+        "gets around to",
+        "got around to",
+        "gotten around to",
+        "getting around to"
+      ],
+      "burmese": [
+        "နောက်ဆုံး အချိန်ရလို့ လုပ်ဖြစ်သည်"
+      ]
+    },
+    {
+      "phrase": "get ahead",
+      "type": "phrasal_verb",
+      "forms": [
+        "gets ahead",
+        "got ahead",
+        "gotten ahead",
+        "getting ahead"
+      ],
+      "burmese": [
+        "ရှေ့တိုးအောင်မြင်သည်",
+        "အသာရသည်"
+      ]
+    },
+    {
+      "phrase": "get ahead of",
+      "type": "phrasal_verb",
+      "forms": [
+        "gets ahead of",
+        "got ahead of",
+        "gotten ahead of",
+        "getting ahead of"
+      ],
+      "burmese": [
+        "ထက် ရှေ့ရောက်သွားသည်",
+        "အသာရသွားသည်"
+      ]
+    },
+    {
+      "phrase": "get behind",
+      "type": "phrasal_verb",
+      "forms": [
+        "gets behind",
+        "got behind",
+        "gotten behind",
+        "getting behind"
+      ],
+      "burmese": [
+        "နောက်ကျကျန်သည်",
+        "ထောက်ခံသည်"
+      ]
+    },
+    {
+      "phrase": "get rid of",
+      "type": "phrasal_verb",
+      "forms": [
+        "gets rid of",
+        "got rid of",
+        "gotten rid of",
+        "getting rid of"
+      ],
+      "burmese": [
+        "ဖယ်ရှားပစ်သည်",
+        "လွတ်မြောက်အောင် လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "get used to",
+      "type": "phrasal_verb",
+      "forms": [
+        "gets used to",
+        "got used to",
+        "getting used to"
+      ],
+      "burmese": [
+        "အကျင့်ရလာသည်",
+        "အသားကျလာသည်"
+      ]
+    },
+    {
+      "phrase": "get to",
+      "type": "phrasal_verb",
+      "forms": [
+        "gets to",
+        "got to",
+        "getting to"
+      ],
+      "burmese": [
+        "ရောက်သည်",
+        "လုပ်ခွင့်ရသည်",
+        "စိတ်ထိခိုက်စေသည်"
+      ]
+    },
+    {
+      "phrase": "get at",
+      "type": "phrasal_verb",
+      "forms": [
+        "gets at",
+        "got at",
+        "getting at"
+      ],
+      "burmese": [
+        "ဆိုလိုသည်",
+        "ရောက်ယူနိုင်သည်"
+      ]
+    },
+    {
+      "phrase": "get across",
+      "type": "phrasal_verb",
+      "forms": [
+        "gets across",
+        "got across",
+        "getting across"
+      ],
+      "burmese": [
+        "နားလည်အောင် ရှင်းပြသည်",
+        "တစ်ဖက်သို့ ကူးသည်"
+      ]
+    },
+    {
+      "phrase": "get back to",
+      "type": "phrasal_verb",
+      "forms": [
+        "gets back to",
+        "got back to",
+        "getting back to"
+      ],
+      "burmese": [
+        "ပြန်ဆက်သွယ်သည်",
+        "ပြန်လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "go ahead",
+      "type": "phrasal_verb",
+      "forms": [
+        "goes ahead",
+        "went ahead",
+        "gone ahead",
+        "going ahead"
+      ],
+      "burmese": [
+        "ရှေ့ဆက်လုပ်သည်",
+        "ဆက်လုပ်ခွင့်ပေးသည်"
+      ]
+    },
+    {
+      "phrase": "go ahead with",
+      "type": "phrasal_verb",
+      "forms": [
+        "goes ahead with",
+        "went ahead with",
+        "gone ahead with",
+        "going ahead with"
+      ],
+      "burmese": [
+        "စီစဉ်ထားတာကို ဆက်လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "go after",
+      "type": "phrasal_verb",
+      "forms": [
+        "goes after",
+        "went after",
+        "gone after",
+        "going after"
+      ],
+      "burmese": [
+        "လိုက်လံဖမ်းသည်",
+        "ရယူဖို့ ကြိုးစားသည်"
+      ]
+    },
+    {
+      "phrase": "go against",
+      "type": "phrasal_verb",
+      "forms": [
+        "goes against",
+        "went against",
+        "gone against",
+        "going against"
+      ],
+      "burmese": [
+        "ဆန့်ကျင်သည်",
+        "မကိုက်ညီသည်"
+      ]
+    },
+    {
+      "phrase": "go around",
+      "type": "phrasal_verb",
+      "forms": [
+        "goes around",
+        "went around",
+        "gone around",
+        "going around"
+      ],
+      "burmese": [
+        "လှည့်ပတ်သွားသည်",
+        "ပျံ့နှံ့သည်"
+      ]
+    },
+    {
+      "phrase": "go down",
+      "type": "phrasal_verb",
+      "forms": [
+        "goes down",
+        "went down",
+        "gone down",
+        "going down"
+      ],
+      "burmese": [
+        "ကျဆင်းသည်",
+        "ဖြစ်ပွားသည်",
+        "ရှုံးနိမ့်သည်"
+      ]
+    },
+    {
+      "phrase": "go in",
+      "type": "phrasal_verb",
+      "forms": [
+        "goes in",
+        "went in",
+        "gone in",
+        "going in"
+      ],
+      "burmese": [
+        "ဝင်သွားသည်"
+      ]
+    },
+    {
+      "phrase": "go off",
+      "type": "phrasal_verb",
+      "forms": [
+        "goes off",
+        "went off",
+        "gone off",
+        "going off"
+      ],
+      "burmese": [
+        "ပေါက်ကွဲသည်",
+        "မြည်လာသည်",
+        "ပျက်သွားသည်"
+      ]
+    },
+    {
+      "phrase": "go with",
+      "type": "phrasal_verb",
+      "forms": [
+        "goes with",
+        "went with",
+        "gone with",
+        "going with"
+      ],
+      "burmese": [
+        "နဲ့ လိုက်ဖက်သည်",
+        "ကို ရွေးချယ်သည်"
+      ]
+    },
+    {
+      "phrase": "go without",
+      "type": "phrasal_verb",
+      "forms": [
+        "goes without",
+        "went without",
+        "gone without",
+        "going without"
+      ],
+      "burmese": [
+        "မရှိဘဲ နေသည်",
+        "မသုံးဘဲ နေသည်"
+      ]
+    },
+    {
+      "phrase": "go up",
+      "type": "phrasal_verb",
+      "forms": [
+        "goes up",
+        "went up",
+        "gone up",
+        "going up"
+      ],
+      "burmese": [
+        "တက်သည်",
+        "တိုးမြင့်သည်"
+      ]
+    },
+    {
+      "phrase": "go under",
+      "type": "phrasal_verb",
+      "forms": [
+        "goes under",
+        "went under",
+        "gone under",
+        "going under"
+      ],
+      "burmese": [
+        "နစ်မြုပ်သည်",
+        "စီးပွားပျက်သည်"
+      ]
+    },
+    {
+      "phrase": "go together",
+      "type": "phrasal_verb",
+      "forms": [
+        "goes together",
+        "went together",
+        "gone together",
+        "going together"
+      ],
+      "burmese": [
+        "လိုက်ဖက်သည်",
+        "အတူတကွ ဆက်စပ်သည်"
+      ]
+    },
+    {
+      "phrase": "keep from",
+      "type": "phrasal_verb",
+      "forms": [
+        "keeps from",
+        "kept from",
+        "keeping from"
+      ],
+      "burmese": [
+        "မလုပ်နိုင်အောင် တားသည်",
+        "ရှောင်သည်"
+      ]
+    },
+    {
+      "phrase": "keep in",
+      "type": "phrasal_verb",
+      "forms": [
+        "keeps in",
+        "kept in",
+        "keeping in"
+      ],
+      "burmese": [
+        "အတွင်းမှာ ထားသည်",
+        "စိတ်ထဲ ထိန်းထားသည်"
+      ]
+    },
+    {
+      "phrase": "keep out",
+      "type": "phrasal_verb",
+      "forms": [
+        "keeps out",
+        "kept out",
+        "keeping out"
+      ],
+      "burmese": [
+        "အပြင်မှာ ထားသည်",
+        "ဝင်မလာအောင် တားသည်"
+      ]
+    },
+    {
+      "phrase": "keep down",
+      "type": "phrasal_verb",
+      "forms": [
+        "keeps down",
+        "kept down",
+        "keeping down"
+      ],
+      "burmese": [
+        "နိမ့်အောင် ထိန်းသည်",
+        "ဖိနှိပ်ထားသည်"
+      ]
+    },
+    {
+      "phrase": "keep back",
+      "type": "phrasal_verb",
+      "forms": [
+        "keeps back",
+        "kept back",
+        "keeping back"
+      ],
+      "burmese": [
+        "နောက်မှာ ထားသည်",
+        "ဖုံးကွယ်ထားသည်"
+      ]
+    },
+    {
+      "phrase": "keep going",
+      "type": "expression",
+      "forms": [
+        "keeps going",
+        "kept going"
+      ],
+      "burmese": [
+        "ဆက်လုပ်နေသည်",
+        "မရပ်ဘဲ ဆက်သွားသည်"
+      ]
+    },
+    {
+      "phrase": "look back",
+      "type": "phrasal_verb",
+      "forms": [
+        "looks back",
+        "looked back",
+        "looking back"
+      ],
+      "burmese": [
+        "နောက်ပြန်ကြည့်သည်",
+        "အတိတ်ကို ပြန်တွေးသည်"
+      ]
+    },
+    {
+      "phrase": "look down on",
+      "type": "phrasal_verb",
+      "forms": [
+        "looks down on",
+        "looked down on",
+        "looking down on"
+      ],
+      "burmese": [
+        "အထင်သေးသည်"
+      ]
+    },
+    {
+      "phrase": "look up to",
+      "type": "phrasal_verb",
+      "forms": [
+        "looks up to",
+        "looked up to",
+        "looking up to"
+      ],
+      "burmese": [
+        "လေးစားအားကျသည်"
+      ]
+    },
+    {
+      "phrase": "look ahead",
+      "type": "phrasal_verb",
+      "forms": [
+        "looks ahead",
+        "looked ahead",
+        "looking ahead"
+      ],
+      "burmese": [
+        "အနာဂတ်ကို ကြိုစဉ်းစားသည်"
+      ]
+    },
+    {
+      "phrase": "look away",
+      "type": "phrasal_verb",
+      "forms": [
+        "looks away",
+        "looked away",
+        "looking away"
+      ],
+      "burmese": [
+        "မျက်နှာလွှဲသည်",
+        "မကြည့်ဘဲ ရှောင်သည်"
+      ]
+    },
+    {
+      "phrase": "look through",
+      "type": "phrasal_verb",
+      "forms": [
+        "looks through",
+        "looked through",
+        "looking through"
+      ],
+      "burmese": [
+        "လှန်လှောကြည့်သည်",
+        "စစ်ကြည့်သည်"
+      ]
+    },
+    {
+      "phrase": "make for",
+      "type": "phrasal_verb",
+      "forms": [
+        "makes for",
+        "made for",
+        "making for"
+      ],
+      "burmese": [
+        "ဦးတည်သွားသည်",
+        "ဖြစ်စေသည်"
+      ]
+    },
+    {
+      "phrase": "make do",
+      "type": "phrasal_verb",
+      "forms": [
+        "makes do",
+        "made do",
+        "making do"
+      ],
+      "burmese": [
+        "ရှိတာနဲ့ ဖြစ်အောင် နေသည်"
+      ]
+    },
+    {
+      "phrase": "make do with",
+      "type": "phrasal_verb",
+      "forms": [
+        "makes do with",
+        "made do with",
+        "making do with"
+      ],
+      "burmese": [
+        "ရှိတာနဲ့ ဖြစ်အောင် သုံးသည်"
+      ]
+    },
+    {
+      "phrase": "make off",
+      "type": "phrasal_verb",
+      "forms": [
+        "makes off",
+        "made off",
+        "making off"
+      ],
+      "burmese": [
+        "အလျင်အမြန် ထွက်ပြေးသည်"
+      ]
+    },
+    {
+      "phrase": "make over",
+      "type": "phrasal_verb",
+      "forms": [
+        "makes over",
+        "made over",
+        "making over"
+      ],
+      "burmese": [
+        "ပုံစံပြောင်းပြင်သည်",
+        "လွှဲပြောင်းပေးသည်"
+      ]
+    },
+    {
+      "phrase": "make into",
+      "type": "phrasal_verb",
+      "forms": [
+        "makes into",
+        "made into",
+        "making into"
+      ],
+      "burmese": [
+        "အဖြစ် ပြောင်းလဲသည်"
+      ]
+    },
+    {
+      "phrase": "pass away",
+      "type": "phrasal_verb",
+      "forms": [
+        "passes away",
+        "passed away",
+        "passing away"
+      ],
+      "burmese": [
+        "ကွယ်လွန်သည်"
+      ]
+    },
+    {
+      "phrase": "pass on",
+      "type": "phrasal_verb",
+      "forms": [
+        "passes on",
+        "passed on",
+        "passing on"
+      ],
+      "burmese": [
+        "လက်ဆင့်ကမ်းသည်",
+        "ကွယ်လွန်သည်"
+      ]
+    },
+    {
+      "phrase": "pass up",
+      "type": "phrasal_verb",
+      "forms": [
+        "passes up",
+        "passed up",
+        "passing up"
+      ],
+      "burmese": [
+        "အခွင့်အရေးကို လက်လွှတ်သည်"
+      ]
+    },
+    {
+      "phrase": "pass along",
+      "type": "phrasal_verb",
+      "forms": [
+        "passes along",
+        "passed along",
+        "passing along"
+      ],
+      "burmese": [
+        "လက်ဆင့်ကမ်းသည်",
+        "ပြောပေးသည်"
+      ]
+    },
+    {
+      "phrase": "pass by",
+      "type": "phrasal_verb",
+      "forms": [
+        "passes by",
+        "passed by",
+        "passing by"
+      ],
+      "burmese": [
+        "ဖြတ်သွားသည်",
+        "မသိမသာ လွန်သွားသည်"
+      ]
+    },
+    {
+      "phrase": "pull back",
+      "type": "phrasal_verb",
+      "forms": [
+        "pulls back",
+        "pulled back",
+        "pulling back"
+      ],
+      "burmese": [
+        "နောက်ဆုတ်သည်",
+        "ပြန်ရုပ်သိမ်းသည်"
+      ]
+    },
+    {
+      "phrase": "pull away",
+      "type": "phrasal_verb",
+      "forms": [
+        "pulls away",
+        "pulled away",
+        "pulling away"
+      ],
+      "burmese": [
+        "ခွာထွက်သည်",
+        "အကွာအဝေး ပိုဝေးသွားသည်"
+      ]
+    },
+    {
+      "phrase": "pull out",
+      "type": "phrasal_verb",
+      "forms": [
+        "pulls out",
+        "pulled out",
+        "pulling out"
+      ],
+      "burmese": [
+        "ဆွဲထုတ်သည်",
+        "နုတ်ထွက်သည်"
+      ]
+    },
+    {
+      "phrase": "pull off",
+      "type": "phrasal_verb",
+      "forms": [
+        "pulls off",
+        "pulled off",
+        "pulling off"
+      ],
+      "burmese": [
+        "အောင်မြင်အောင် လုပ်နိုင်သည်",
+        "ဆွဲဖြုတ်သည်"
+      ]
+    },
+    {
+      "phrase": "pull apart",
+      "type": "phrasal_verb",
+      "forms": [
+        "pulls apart",
+        "pulled apart",
+        "pulling apart"
+      ],
+      "burmese": [
+        "ခွဲထုတ်သည်",
+        "ကွဲကွာစေသည်"
+      ]
+    },
+    {
+      "phrase": "pull together",
+      "type": "phrasal_verb",
+      "forms": [
+        "pulls together",
+        "pulled together",
+        "pulling together"
+      ],
+      "burmese": [
+        "အတူတကွ ပူးပေါင်းသည်",
+        "စိတ်ကို ထိန်းစုသည်"
+      ]
+    },
+    {
+      "phrase": "push back",
+      "type": "phrasal_verb",
+      "forms": [
+        "pushes back",
+        "pushed back",
+        "pushing back"
+      ],
+      "burmese": [
+        "နောက်ဆုတ်အောင် တွန်းသည်",
+        "ရွှေ့ဆိုင်းသည်",
+        "ပြန်လည်ဆန့်ကျင်သည်"
+      ]
+    },
+    {
+      "phrase": "push ahead",
+      "type": "phrasal_verb",
+      "forms": [
+        "pushes ahead",
+        "pushed ahead",
+        "pushing ahead"
+      ],
+      "burmese": [
+        "အခက်အခဲရှိလည်း ရှေ့ဆက်လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "push through",
+      "type": "phrasal_verb",
+      "forms": [
+        "pushes through",
+        "pushed through",
+        "pushing through"
+      ],
+      "burmese": [
+        "အတင်းအကျပ် အတည်ပြုဖြတ်သန်းစေသည်",
+        "အခက်အခဲကို ရင်ဆိုင်ပြီး ဆက်သွားသည်"
+      ]
+    },
+    {
+      "phrase": "push away",
+      "type": "phrasal_verb",
+      "forms": [
+        "pushes away",
+        "pushed away",
+        "pushing away"
+      ],
+      "burmese": [
+        "တွန်းထုတ်သည်",
+        "ဝေးကွာအောင် လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "run down",
+      "type": "phrasal_verb",
+      "forms": [
+        "runs down",
+        "ran down",
+        "running down"
+      ],
+      "burmese": [
+        "တိုက်ချသည်",
+        "ဝေဖန်ချိုးနှိမ်သည်",
+        "အခြေအနေကျဆင်းသည်"
+      ]
+    },
+    {
+      "phrase": "run over",
+      "type": "phrasal_verb",
+      "forms": [
+        "runs over",
+        "ran over",
+        "running over"
+      ],
+      "burmese": [
+        "ကားနဲ့ တိုက်မိသည်",
+        "အချိန်ကျော်သွားသည်",
+        "ပြန်သုံးသပ်သည်"
+      ]
+    },
+    {
+      "phrase": "run through",
+      "type": "phrasal_verb",
+      "forms": [
+        "runs through",
+        "ran through",
+        "running through"
+      ],
+      "burmese": [
+        "မြန်မြန် ပြန်လေ့လာသည်",
+        "ဖြတ်သန်းသည်"
+      ]
+    },
+    {
+      "phrase": "run across",
+      "type": "phrasal_verb",
+      "forms": [
+        "runs across",
+        "ran across",
+        "running across"
+      ],
+      "burmese": [
+        "မတော်တဆ တွေ့မိသည်"
+      ]
+    },
+    {
+      "phrase": "run after",
+      "type": "phrasal_verb",
+      "forms": [
+        "runs after",
+        "ran after",
+        "running after"
+      ],
+      "burmese": [
+        "လိုက်ပြေးသည်",
+        "လိုက်လံကြိုးစားသည်"
+      ]
+    },
+    {
+      "phrase": "run by",
+      "type": "phrasal_verb",
+      "forms": [
+        "runs by",
+        "ran by",
+        "running by"
+      ],
+      "burmese": [
+        "အကြံတစ်ခုကို အရင်တင်ပြမေးသည်"
+      ]
+    },
+    {
+      "phrase": "set off",
+      "type": "phrasal_verb",
+      "forms": [
+        "sets off",
+        "setting off"
+      ],
+      "burmese": [
+        "ခရီးစထွက်သည်",
+        "ဖောက်ခွဲစေသည်",
+        "ဖြစ်ပေါ်စေသည်"
+      ]
+    },
+    {
+      "phrase": "set out",
+      "type": "phrasal_verb",
+      "forms": [
+        "sets out",
+        "setting out"
+      ],
+      "burmese": [
+        "ခရီးစထွက်သည်",
+        "ရည်ရွယ်ချက်နဲ့ စတင်လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "set aside",
+      "type": "phrasal_verb",
+      "forms": [
+        "sets aside",
+        "setting aside"
+      ],
+      "burmese": [
+        "ဘေးဖယ်ထားသည်",
+        "သီးသန့်ထားသည်"
+      ]
+    },
+    {
+      "phrase": "set back",
+      "type": "phrasal_verb",
+      "forms": [
+        "sets back",
+        "setting back"
+      ],
+      "burmese": [
+        "နှောင့်နှေးစေသည်",
+        "ငွေကုန်စေသည်"
+      ]
+    },
+    {
+      "phrase": "set down",
+      "type": "phrasal_verb",
+      "forms": [
+        "sets down",
+        "setting down"
+      ],
+      "burmese": [
+        "ချထားသည်",
+        "ရေးမှတ်သည်"
+      ]
+    },
+    {
+      "phrase": "set in",
+      "type": "phrasal_verb",
+      "forms": [
+        "sets in",
+        "setting in"
+      ],
+      "burmese": [
+        "စတင်ပြီး တည်မြဲလာသည်"
+      ]
+    },
+    {
+      "phrase": "show off",
+      "type": "phrasal_verb",
+      "forms": [
+        "shows off",
+        "showed off",
+        "shown off",
+        "showing off"
+      ],
+      "burmese": [
+        "ကြွားဝါသည်",
+        "ပြသကြွားသည်"
+      ]
+    },
+    {
+      "phrase": "show around",
+      "type": "phrasal_verb",
+      "forms": [
+        "shows around",
+        "showed around",
+        "shown around",
+        "showing around"
+      ],
+      "burmese": [
+        "နေရာကို လိုက်ပြသည်"
+      ]
+    },
+    {
+      "phrase": "show in",
+      "type": "phrasal_verb",
+      "forms": [
+        "shows in",
+        "showed in",
+        "shown in",
+        "showing in"
+      ],
+      "burmese": [
+        "အထဲသို့ လိုက်ပို့သည်"
+      ]
+    },
+    {
+      "phrase": "show out",
+      "type": "phrasal_verb",
+      "forms": [
+        "shows out",
+        "showed out",
+        "shown out",
+        "showing out"
+      ],
+      "burmese": [
+        "အပြင်သို့ လိုက်ပို့သည်"
+      ]
+    },
+    {
+      "phrase": "turn on",
+      "type": "phrasal_verb",
+      "forms": [
+        "turns on",
+        "turned on",
+        "turning on"
+      ],
+      "burmese": [
+        "ဖွင့်သည်",
+        "ရုတ်တရက် ရန်မူသည်"
+      ]
+    },
+    {
+      "phrase": "turn off",
+      "type": "phrasal_verb",
+      "forms": [
+        "turns off",
+        "turned off",
+        "turning off"
+      ],
+      "burmese": [
+        "ပိတ်သည်",
+        "စိတ်ပျက်စေသည်"
+      ]
+    },
+    {
+      "phrase": "turn up",
+      "type": "phrasal_verb",
+      "forms": [
+        "turns up",
+        "turned up",
+        "turning up"
+      ],
+      "burmese": [
+        "ရောက်လာသည်",
+        "အသံမြှင့်သည်",
+        "ရှာတွေ့လာသည်"
+      ]
+    },
+    {
+      "phrase": "turn over",
+      "type": "phrasal_verb",
+      "forms": [
+        "turns over",
+        "turned over",
+        "turning over"
+      ],
+      "burmese": [
+        "လှန်သည်",
+        "လွှဲပေးသည်"
+      ]
+    },
+    {
+      "phrase": "turn back",
+      "type": "phrasal_verb",
+      "forms": [
+        "turns back",
+        "turned back",
+        "turning back"
+      ],
+      "burmese": [
+        "နောက်ပြန်လှည့်သည်"
+      ]
+    },
+    {
+      "phrase": "turn against",
+      "type": "phrasal_verb",
+      "forms": [
+        "turns against",
+        "turned against",
+        "turning against"
+      ],
+      "burmese": [
+        "ဆန့်ကျင်ဘက် ပြောင်းသွားသည်"
+      ]
+    },
+    {
+      "phrase": "turn into",
+      "type": "phrasal_verb",
+      "forms": [
+        "turns into",
+        "turned into",
+        "turning into"
+      ],
+      "burmese": [
+        "အဖြစ် ပြောင်းလဲသွားသည်"
+      ]
+    },
+    {
+      "phrase": "turn to",
+      "type": "phrasal_verb",
+      "forms": [
+        "turns to",
+        "turned to",
+        "turning to"
+      ],
+      "burmese": [
+        "အကူအညီတောင်းရန် အားကိုးသည်",
+        "ဘက်သို့ လှည့်သည်"
+      ]
+    },
+    {
+      "phrase": "work on",
+      "type": "phrasal_verb",
+      "forms": [
+        "works on",
+        "worked on",
+        "working on"
+      ],
+      "burmese": [
+        "အပေါ် အလုပ်လုပ်သည်",
+        "တိုးတက်အောင် ကြိုးစားသည်"
+      ]
+    },
+    {
+      "phrase": "work through",
+      "type": "phrasal_verb",
+      "forms": [
+        "works through",
+        "worked through",
+        "working through"
+      ],
+      "burmese": [
+        "တစ်ဆင့်ချင်း ဖြေရှင်းသည်"
+      ]
+    },
+    {
+      "phrase": "work towards",
+      "type": "phrasal_verb",
+      "forms": [
+        "works towards",
+        "worked towards",
+        "working towards"
+      ],
+      "burmese": [
+        "ရည်မှန်းချက်ဆီ ကြိုးစားသည်"
+      ]
+    },
+    {
+      "phrase": "work up",
+      "type": "phrasal_verb",
+      "forms": [
+        "works up",
+        "worked up",
+        "working up"
+      ],
+      "burmese": [
+        "တဖြည်းဖြည်း တိုးတက်အောင် လုပ်သည်",
+        "စိတ်လှုပ်ရှားလာစေသည်"
+      ]
+    },
+    {
+      "phrase": "work around",
+      "type": "phrasal_verb",
+      "forms": [
+        "works around",
+        "worked around",
+        "working around"
+      ],
+      "burmese": [
+        "ပြဿနာကို အခြားနည်းနဲ့ ကျော်လွှားသည်"
+      ]
+    },
+    {
+      "phrase": "write down",
+      "type": "phrasal_verb",
+      "forms": [
+        "writes down",
+        "wrote down",
+        "written down",
+        "writing down"
+      ],
+      "burmese": [
+        "ရေးမှတ်သည်"
+      ]
+    },
+    {
+      "phrase": "write up",
+      "type": "phrasal_verb",
+      "forms": [
+        "writes up",
+        "wrote up",
+        "written up",
+        "writing up"
+      ],
+      "burmese": [
+        "စာအဖြစ် ရေးသားတင်ပြသည်",
+        "အရေးယူမှတ်တမ်း ရေးသည်"
+      ]
+    },
+    {
+      "phrase": "read over",
+      "type": "phrasal_verb",
+      "forms": [
+        "reads over",
+        "reading over"
+      ],
+      "burmese": [
+        "ပြန်ဖတ်စစ်သည်"
+      ]
+    },
+    {
+      "phrase": "read through",
+      "type": "phrasal_verb",
+      "forms": [
+        "reads through",
+        "reading through"
+      ],
+      "burmese": [
+        "အစအဆုံး ဖတ်ကြည့်သည်"
+      ]
+    },
+    {
+      "phrase": "check up on",
+      "type": "phrasal_verb",
+      "forms": [
+        "checks up on",
+        "checked up on",
+        "checking up on"
+      ],
+      "burmese": [
+        "အခြေအနေကို စစ်ကြည့်သည်",
+        "စောင့်ကြည့်သည်"
+      ]
+    },
+    {
+      "phrase": "ask for",
+      "type": "phrasal_verb",
+      "forms": [
+        "asks for",
+        "asked for",
+        "asking for"
+      ],
+      "burmese": [
+        "တောင်းသည်",
+        "တောင်းဆိုသည်"
+      ]
+    },
+    {
+      "phrase": "ask about",
+      "type": "phrasal_verb",
+      "forms": [
+        "asks about",
+        "asked about",
+        "asking about"
+      ],
+      "burmese": [
+        "အကြောင်း မေးသည်"
+      ]
+    },
+    {
+      "phrase": "hear from",
+      "type": "phrasal_verb",
+      "forms": [
+        "hears from",
+        "heard from",
+        "hearing from"
+      ],
+      "burmese": [
+        "ထံမှ သတင်းရသည်",
+        "ဆက်သွယ်မှု ရသည်"
+      ]
+    },
+    {
+      "phrase": "hear about",
+      "type": "phrasal_verb",
+      "forms": [
+        "hears about",
+        "heard about",
+        "hearing about"
+      ],
+      "burmese": [
+        "အကြောင်း ကြားသိသည်"
+      ]
+    },
+    {
+      "phrase": "hear of",
+      "type": "phrasal_verb",
+      "forms": [
+        "hears of",
+        "heard of",
+        "hearing of"
+      ],
+      "burmese": [
+        "အကြောင်း ကြားဖူးသည်"
+      ]
+    },
+    {
+      "phrase": "think about",
+      "type": "phrasal_verb",
+      "forms": [
+        "thinks about",
+        "thought about",
+        "thinking about"
+      ],
+      "burmese": [
+        "အကြောင်း စဉ်းစားသည်"
+      ]
+    },
+    {
+      "phrase": "think of",
+      "type": "phrasal_verb",
+      "forms": [
+        "thinks of",
+        "thought of",
+        "thinking of"
+      ],
+      "burmese": [
+        "စဉ်းစားမိသည်",
+        "အမြင်ထားသည်"
+      ]
+    },
+    {
+      "phrase": "think up",
+      "type": "phrasal_verb",
+      "forms": [
+        "thinks up",
+        "thought up",
+        "thinking up"
+      ],
+      "burmese": [
+        "စိတ်ကူးထုတ်သည်"
+      ]
+    },
+    {
+      "phrase": "talk about",
+      "type": "phrasal_verb",
+      "forms": [
+        "talks about",
+        "talked about",
+        "talking about"
+      ],
+      "burmese": [
+        "အကြောင်း ပြောသည်"
+      ]
+    },
+    {
+      "phrase": "talk into",
+      "type": "phrasal_verb",
+      "forms": [
+        "talks into",
+        "talked into",
+        "talking into"
+      ],
+      "burmese": [
+        "စကားနဲ့ နားချပြီး လုပ်စေသည်"
+      ]
+    },
+    {
+      "phrase": "talk out of",
+      "type": "phrasal_verb",
+      "forms": [
+        "talks out of",
+        "talked out of",
+        "talking out of"
+      ],
+      "burmese": [
+        "စကားနဲ့ နားချပြီး မလုပ်အောင် တားသည်"
+      ]
+    },
+    {
+      "phrase": "talk back",
+      "type": "phrasal_verb",
+      "forms": [
+        "talks back",
+        "talked back",
+        "talking back"
+      ],
+      "burmese": [
+        "ပြန်ခံပြောသည်"
+      ]
+    },
+    {
+      "phrase": "talk down to",
+      "type": "phrasal_verb",
+      "forms": [
+        "talks down to",
+        "talked down to",
+        "talking down to"
+      ],
+      "burmese": [
+        "အထင်သေးသလို ပြောသည်"
+      ]
+    },
+    {
+      "phrase": "talk through",
+      "type": "phrasal_verb",
+      "forms": [
+        "talks through",
+        "talked through",
+        "talking through"
+      ],
+      "burmese": [
+        "အသေးစိတ် ဆွေးနွေးရှင်းပြသည်"
+      ]
+    },
+    {
+      "phrase": "speak up",
+      "type": "phrasal_verb",
+      "forms": [
+        "speaks up",
+        "spoke up",
+        "spoken up",
+        "speaking up"
+      ],
+      "burmese": [
+        "အသံကျယ်ကျယ် ပြောသည်",
+        "ထုတ်ဖော်ပြောဆိုသည်"
+      ]
+    },
+    {
+      "phrase": "speak out",
+      "type": "phrasal_verb",
+      "forms": [
+        "speaks out",
+        "spoke out",
+        "spoken out",
+        "speaking out"
+      ],
+      "burmese": [
+        "ထင်မြင်ချက်ကို ရဲရဲ ပြောသည်"
+      ]
+    },
+    {
+      "phrase": "speak for",
+      "type": "phrasal_verb",
+      "forms": [
+        "speaks for",
+        "spoke for",
+        "spoken for",
+        "speaking for"
+      ],
+      "burmese": [
+        "ကိုယ်စား ပြောသည်",
+        "ကို သက်သေပြသည်"
+      ]
+    },
+    {
+      "phrase": "tell apart",
+      "type": "phrasal_verb",
+      "forms": [
+        "tells apart",
+        "told apart",
+        "telling apart"
+      ],
+      "burmese": [
+        "ခွဲခြားသိသည်"
+      ]
+    },
+    {
+      "phrase": "lay down",
+      "type": "phrasal_verb",
+      "forms": [
+        "lays down",
+        "laid down",
+        "laying down"
+      ],
+      "burmese": [
+        "ချထားသည်",
+        "စည်းမျဉ်း သတ်မှတ်သည်"
+      ]
+    },
+    {
+      "phrase": "lay off",
+      "type": "phrasal_verb",
+      "forms": [
+        "lays off",
+        "laid off",
+        "laying off"
+      ],
+      "burmese": [
+        "အလုပ်ဖြုတ်သည်",
+        "ရပ်ထားသည်"
+      ]
+    },
+    {
+      "phrase": "lay out",
+      "type": "phrasal_verb",
+      "forms": [
+        "lays out",
+        "laid out",
+        "laying out"
+      ],
+      "burmese": [
+        "အစီအစဉ်တကျ ခင်းကျင်းသည်",
+        "ရှင်းလင်းတင်ပြသည်"
+      ]
+    },
+    {
+      "phrase": "lay aside",
+      "type": "phrasal_verb",
+      "forms": [
+        "lays aside",
+        "laid aside",
+        "laying aside"
+      ],
+      "burmese": [
+        "ဘေးဖယ်ထားသည်"
+      ]
+    },
+    {
+      "phrase": "hold up",
+      "type": "phrasal_verb",
+      "forms": [
+        "holds up",
+        "held up",
+        "holding up"
+      ],
+      "burmese": [
+        "နှောင့်နှေးစေသည်",
+        "လုယက်သည်",
+        "ထိန်းထားနိုင်သည်"
+      ]
+    },
+    {
+      "phrase": "hold out",
+      "type": "phrasal_verb",
+      "forms": [
+        "holds out",
+        "held out",
+        "holding out"
+      ],
+      "burmese": [
+        "တောင့်ခံသည်",
+        "ကမ်းပေးသည်"
+      ]
+    },
+    {
+      "phrase": "hold off",
+      "type": "phrasal_verb",
+      "forms": [
+        "holds off",
+        "held off",
+        "holding off"
+      ],
+      "burmese": [
+        "ခဏဆိုင်းထားသည်",
+        "တားဆီးထားသည်"
+      ]
+    },
+    {
+      "phrase": "hold onto",
+      "type": "phrasal_verb",
+      "forms": [
+        "holds onto",
+        "held onto",
+        "holding onto"
+      ],
+      "burmese": [
+        "မလွှတ်ဘဲ ကိုင်ထားသည်",
+        "ဆက်ထိန်းသိမ်းထားသည်"
+      ]
+    },
+    {
+      "phrase": "hold against",
+      "type": "phrasal_verb",
+      "forms": [
+        "holds against",
+        "held against",
+        "holding against"
+      ],
+      "burmese": [
+        "အပြစ်တစ်ခုကို စိတ်ထဲမမေ့ဘဲ ထားသည်"
+      ]
+    },
+    {
+      "phrase": "back down",
+      "type": "phrasal_verb",
+      "forms": [
+        "backs down",
+        "backed down",
+        "backing down"
+      ],
+      "burmese": [
+        "အလျှော့ပေးနောက်ဆုတ်သည်"
+      ]
+    },
+    {
+      "phrase": "back out",
+      "type": "phrasal_verb",
+      "forms": [
+        "backs out",
+        "backed out",
+        "backing out"
+      ],
+      "burmese": [
+        "ကတိကနေ ပြန်နုတ်ထွက်သည်"
+      ]
+    },
+    {
+      "phrase": "back away",
+      "type": "phrasal_verb",
+      "forms": [
+        "backs away",
+        "backed away",
+        "backing away"
+      ],
+      "burmese": [
+        "နောက်သို့ တဖြည်းဖြည်း ဆုတ်သည်"
+      ]
+    },
+    {
+      "phrase": "break away",
+      "type": "phrasal_verb",
+      "forms": [
+        "breaks away",
+        "broke away",
+        "broken away",
+        "breaking away"
+      ],
+      "burmese": [
+        "ခွဲထွက်သည်",
+        "လွတ်မြောက်သွားသည်"
+      ]
+    },
+    {
+      "phrase": "break in",
+      "type": "phrasal_verb",
+      "forms": [
+        "breaks in",
+        "broke in",
+        "broken in",
+        "breaking in"
+      ],
+      "burmese": [
+        "ဖောက်ထွင်းဝင်သည်",
+        "စကားဖြတ်ဝင်သည်"
+      ]
+    },
+    {
+      "phrase": "break off",
+      "type": "phrasal_verb",
+      "forms": [
+        "breaks off",
+        "broke off",
+        "broken off",
+        "breaking off"
+      ],
+      "burmese": [
+        "ရုတ်တရက် ရပ်သည်",
+        "ဖြတ်တောက်ခွဲသည်"
+      ]
+    },
+    {
+      "phrase": "break through",
+      "type": "phrasal_verb",
+      "forms": [
+        "breaks through",
+        "broke through",
+        "broken through",
+        "breaking through"
+      ],
+      "burmese": [
+        "အတားအဆီးကို ဖောက်ကျော်သည်",
+        "အောင်မြင်မှုကြီး ရသည်"
+      ]
+    },
+    {
+      "phrase": "cut back",
+      "type": "phrasal_verb",
+      "forms": [
+        "cuts back",
+        "cutting back"
+      ],
+      "burmese": [
+        "လျှော့ချသည်"
+      ]
+    },
+    {
+      "phrase": "cut in",
+      "type": "phrasal_verb",
+      "forms": [
+        "cuts in",
+        "cutting in"
+      ],
+      "burmese": [
+        "စကားဖြတ်ဝင်သည်",
+        "ယာဉ်ကြား ဖြတ်ဝင်သည်"
+      ]
+    },
+    {
+      "phrase": "cut through",
+      "type": "phrasal_verb",
+      "forms": [
+        "cuts through",
+        "cutting through"
+      ],
+      "burmese": [
+        "ဖြတ်သန်းသွားသည်",
+        "ရှုပ်ထွေးမှုကို တိုက်ရိုက်ကျော်သည်"
+      ]
+    },
+    {
+      "phrase": "cut across",
+      "type": "phrasal_verb",
+      "forms": [
+        "cuts across",
+        "cutting across"
+      ],
+      "burmese": [
+        "ဖြတ်ကျော်သွားသည်",
+        "အုပ်စုများစွာကို သက်ရောက်သည်"
+      ]
+    },
+    {
+      "phrase": "drop in",
+      "type": "phrasal_verb",
+      "forms": [
+        "drops in",
+        "dropped in",
+        "dropping in"
+      ],
+      "burmese": [
+        "မကြိုပြောဘဲ ခဏဝင်လည်သည်"
+      ]
+    },
+    {
+      "phrase": "drop back",
+      "type": "phrasal_verb",
+      "forms": [
+        "drops back",
+        "dropped back",
+        "dropping back"
+      ],
+      "burmese": [
+        "နောက်ကျကျန်သွားသည်",
+        "နောက်ဆုတ်သည်"
+      ]
+    },
+    {
+      "phrase": "face up to",
+      "type": "phrasal_verb",
+      "forms": [
+        "faces up to",
+        "faced up to",
+        "facing up to"
+      ],
+      "burmese": [
+        "အမှန်တရားကို ရင်ဆိုင်လက်ခံသည်"
+      ]
+    },
+    {
+      "phrase": "fill up",
+      "type": "phrasal_verb",
+      "forms": [
+        "fills up",
+        "filled up",
+        "filling up"
+      ],
+      "burmese": [
+        "ပြည့်အောင် ဖြည့်သည်",
+        "ပြည့်လာသည်"
+      ]
+    },
+    {
+      "phrase": "finish off",
+      "type": "phrasal_verb",
+      "forms": [
+        "finishes off",
+        "finished off",
+        "finishing off"
+      ],
+      "burmese": [
+        "အဆုံးသတ်ပြီးစီးသည်",
+        "အပြီးသတ်ဖယ်ရှားသည်"
+      ]
+    },
+    {
+      "phrase": "follow up",
+      "type": "phrasal_verb",
+      "forms": [
+        "follows up",
+        "followed up",
+        "following up"
+      ],
+      "burmese": [
+        "နောက်ဆက်တွဲ လိုက်လုပ်သည်",
+        "ထပ်မံစစ်ဆေးသည်"
+      ]
+    },
+    {
+      "phrase": "hand out",
+      "type": "phrasal_verb",
+      "forms": [
+        "hands out",
+        "handed out",
+        "handing out"
+      ],
+      "burmese": [
+        "ဝေငှသည်"
+      ]
+    },
+    {
+      "phrase": "hand back",
+      "type": "phrasal_verb",
+      "forms": [
+        "hands back",
+        "handed back",
+        "handing back"
+      ],
+      "burmese": [
+        "ပြန်ပေးသည်"
+      ]
+    },
+    {
+      "phrase": "kick out",
+      "type": "phrasal_verb",
+      "forms": [
+        "kicks out",
+        "kicked out",
+        "kicking out"
+      ],
+      "burmese": [
+        "နှင်ထုတ်သည်",
+        "အဖွဲ့ထဲက ထုတ်ပယ်သည်"
+      ]
+    },
+    {
+      "phrase": "keep quiet",
+      "type": "expression",
+      "forms": [
+        "keeps quiet",
+        "kept quiet"
+      ],
+      "burmese": [
+        "တိတ်တိတ်နေသည်",
+        "လျှို့ဝှက်ထားသည်"
+      ]
+    },
+    {
+      "phrase": "go too far",
+      "type": "expression",
+      "forms": [
+        "goes too far",
+        "went too far",
+        "gone too far",
+        "going too far"
+      ],
+      "burmese": [
+        "လွန်လွန်ကျူးကျူး လုပ်သည်",
+        "အတိုင်းအတာ ကျော်လွန်သည်"
+      ]
+    },
+    {
+      "phrase": "take part in",
+      "type": "expression",
+      "forms": [
+        "takes part in",
+        "took part in",
+        "taken part in",
+        "taking part in"
+      ],
+      "burmese": [
+        "ပါဝင်သည်"
+      ]
+    },
+    {
+      "phrase": "about to",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "တော့မလို့",
+        "မကြာခင် လုပ်တော့မည်"
+      ]
+    },
+    {
+      "phrase": "used to",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "အရင်က လုပ်လေ့ရှိသည်",
+        "အရင်က ဖြစ်ခဲ့သည်"
+      ]
+    },
+    {
+      "phrase": "supposed to",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "လုပ်ရမည့်အရာ ဖြစ်သည်",
+        "လုပ်ဖို့ သတ်မှတ်ထားသည်"
+      ]
+    },
+    {
+      "phrase": "have got to",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "မဖြစ်မနေ လုပ်ရမည်"
+      ]
+    },
+    {
+      "phrase": "had better",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "လုပ်တာ ပိုကောင်းမည်",
+        "လုပ်သင့်သည်"
+      ]
+    },
+    {
+      "phrase": "would rather",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ပိုပြီး လုပ်ချင်သည်",
+        "ပိုနှစ်သက်သည်"
+      ]
+    },
+    {
+      "phrase": "even if",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ဖြစ်ရင်တောင်",
+        "တောင်မှ"
+      ]
+    },
+    {
+      "phrase": "even though",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ဖြစ်သော်လည်း",
+        "ပေမယ့်လည်း"
+      ]
+    },
+    {
+      "phrase": "as long as",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "နေသရွေ့",
+        "ဆိုရင်"
+      ]
+    },
+    {
+      "phrase": "as far as",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "အထိ",
+        "သိသလောက်"
+      ]
+    },
+    {
+      "phrase": "in order to",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ရန်အတွက်"
+      ]
+    },
+    {
+      "phrase": "in front of",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ရှေ့မှာ"
+      ]
+    },
+    {
+      "phrase": "instead of",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "အစား"
+      ]
+    },
+    {
+      "phrase": "according to",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "အဆိုအရ",
+        "အရ"
+      ]
+    },
+    {
+      "phrase": "due to",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ကြောင့်"
+      ]
+    },
+    {
+      "phrase": "because of",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ကြောင့်"
+      ]
+    },
+    {
+      "phrase": "apart from",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "မှလွဲ၍",
+        "အပြင်"
+      ]
+    },
+    {
+      "phrase": "rather than",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "အစား",
+        "ထက်စာရင်"
+      ]
+    },
+    {
+      "phrase": "as well as",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "အပြင်",
+        "နဲ့အတူ"
+      ]
+    },
+    {
+      "phrase": "as a result",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "အကျိုးဆက်အနေနဲ့",
+        "ဒါကြောင့်"
+      ]
+    },
+    {
+      "phrase": "in addition",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ထို့အပြင်",
+        "နောက်ထပ်"
+      ]
+    },
+    {
+      "phrase": "in advance",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ကြိုတင်ပြီး"
+      ]
+    },
+    {
+      "phrase": "in general",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ယေဘုယျအားဖြင့်"
+      ]
+    },
+    {
+      "phrase": "in particular",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "အထူးသဖြင့်"
+      ]
+    },
+    {
+      "phrase": "in return",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "အပြန်အလှန်အနေနဲ့",
+        "အစားပြန်"
+      ]
+    },
+    {
+      "phrase": "in common",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "တူညီတာ ရှိသည်",
+        "အများတူ"
+      ]
+    },
+    {
+      "phrase": "in charge of",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "တာဝန်ယူထားသည်",
+        "ကြီးကြပ်ထားသည်"
+      ]
+    },
+    {
+      "phrase": "in favor of",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ထောက်ခံပြီး",
+        "ဘက်က"
+      ]
+    },
+    {
+      "phrase": "in spite of",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ရှိပေမယ့်လည်း",
+        "မမှုဘဲ"
+      ]
+    },
+    {
+      "phrase": "on behalf of",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ကိုယ်စား"
+      ]
+    },
+    {
+      "phrase": "on time",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "အချိန်မီ",
+        "သတ်မှတ်ချိန်အတိုင်း"
+      ]
+    },
+    {
+      "phrase": "in time",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "မီအောင်",
+        "အချိန်မလွန်ခင်"
+      ]
+    },
+    {
+      "phrase": "at once",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ချက်ချင်း",
+        "တစ်ပြိုင်နက်တည်း"
+      ]
+    },
+    {
+      "phrase": "at all",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "လုံးဝ",
+        "တစ်စက်ကလေးတောင်"
+      ]
+    },
+    {
+      "phrase": "at any rate",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ဘယ်လိုပဲဖြစ်ဖြစ်",
+        "အနည်းဆုံးတော့"
+      ]
+    },
+    {
+      "phrase": "for sure",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "သေချာပေါက်",
+        "အမှန်ပဲ"
+      ]
+    },
+    {
+      "phrase": "once in a blue moon",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "ဖြစ်ခဲခဲ",
+        "အလွန်ရှားရှားပါးပါး"
+      ]
+    },
+    {
+      "phrase": "a blessing in disguise",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "မကောင်းသလိုထင်ပေမယ့် နောက်ဆုံးကောင်းကျိုးဖြစ်လာတဲ့အရာ"
+      ]
+    },
+    {
+      "phrase": "a dime a dozen",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "ပေါများလွန်းပြီး မထူးခြားတဲ့အရာ"
+      ]
+    },
+    {
+      "phrase": "add fuel to fire",
+      "type": "idiom",
+      "forms": [
+        "adds fuel to fire",
+        "added fuel to fire",
+        "adding fuel to fire"
+      ],
+      "burmese": [
+        "ပြဿနာကို ပိုဆိုးအောင် လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "beat around the bush",
+      "type": "idiom",
+      "forms": [
+        "beats around the bush",
+        "beating around the bush"
+      ],
+      "burmese": [
+        "လိုရင်းမပြောဘဲ ဝေ့လည်ကြောင်ပတ် ပြောသည်"
+      ]
+    },
+    {
+      "phrase": "bend over backwards",
+      "type": "idiom",
+      "forms": [
+        "bends over backwards",
+        "bent over backwards",
+        "bending over backwards"
+      ],
+      "burmese": [
+        "အလွန်အမင်း ကြိုးစားကူညီသည်"
+      ]
+    },
+    {
+      "phrase": "best of both worlds",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "နှစ်ဖက်စလုံးရဲ့ ကောင်းကျိုးကို တစ်ပြိုင်နက် ရသည်"
+      ]
+    },
+    {
+      "phrase": "burn bridges",
+      "type": "idiom",
+      "forms": [
+        "burns bridges",
+        "burned bridges",
+        "burnt bridges",
+        "burning bridges"
+      ],
+      "burmese": [
+        "ပြန်လည်ဆက်ဆံဖို့လမ်းကို ကိုယ်တိုင်ပိတ်ပစ်သည်"
+      ]
+    },
+    {
+      "phrase": "cry over spilled milk",
+      "type": "idiom",
+      "forms": [
+        "cries over spilled milk",
+        "cried over spilled milk",
+        "crying over spilled milk"
+      ],
+      "burmese": [
+        "ဖြစ်ပြီးသားအတွက် နောင်တရနေသည်"
+      ]
+    },
+    {
+      "phrase": "cut corners",
+      "type": "idiom",
+      "forms": [
+        "cuts corners",
+        "cutting corners"
+      ],
+      "burmese": [
+        "လွယ်လမ်းလိုက်ပြီး စံချိန်လျှော့လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "easy does it",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "ဖြည်းဖြည်း သတိထားလုပ်",
+        "အလျင်မလိုနဲ့"
+      ]
+    },
+    {
+      "phrase": "get cold feet",
+      "type": "idiom",
+      "forms": [
+        "gets cold feet",
+        "got cold feet",
+        "getting cold feet"
+      ],
+      "burmese": [
+        "နောက်ဆုံးခဏမှ ကြောက်ပြီး နောက်ဆုတ်ချင်လာသည်"
+      ]
+    },
+    {
+      "phrase": "get the hang of it",
+      "type": "idiom",
+      "forms": [
+        "gets the hang of it",
+        "got the hang of it",
+        "getting the hang of it"
+      ],
+      "burmese": [
+        "လုပ်နည်းကို နားလည်ကျွမ်းကျင်လာသည်"
+      ]
+    },
+    {
+      "phrase": "hit rock bottom",
+      "type": "idiom",
+      "forms": [
+        "hits rock bottom",
+        "hitting rock bottom"
+      ],
+      "burmese": [
+        "အဆိုးဆုံးအခြေအနေထိ ကျသွားသည်"
+      ]
+    },
+    {
+      "phrase": "jump to conclusions",
+      "type": "idiom",
+      "forms": [
+        "jumps to conclusions",
+        "jumped to conclusions",
+        "jumping to conclusions"
+      ],
+      "burmese": [
+        "အချက်အလက်မပြည့်စုံဘဲ အလျင်အမြန် ဆုံးဖြတ်သည်"
+      ]
+    },
+    {
+      "phrase": "keep your chin up",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "စိတ်မလျှော့နဲ့",
+        "အားတင်းထား"
+      ]
+    },
+    {
+      "phrase": "leave no stone unturned",
+      "type": "idiom",
+      "forms": [
+        "leaves no stone unturned",
+        "left no stone unturned",
+        "leaving no stone unturned"
+      ],
+      "burmese": [
+        "နည်းလမ်းအားလုံး မကျန် စမ်းကြည့်သည်"
+      ]
+    },
+    {
+      "phrase": "make ends meet",
+      "type": "idiom",
+      "forms": [
+        "makes ends meet",
+        "made ends meet",
+        "making ends meet"
+      ],
+      "burmese": [
+        "ဝင်ငွေနဲ့ အသုံးစရိတ် မျှတအောင် နေသည်"
+      ]
+    },
+    {
+      "phrase": "on cloud nine",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "အရမ်းပျော်နေသည်"
+      ]
+    },
+    {
+      "phrase": "over my dead body",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "ငါမသေမချင်း လုံးဝမဖြစ်စေရဘူး",
+        "လုံးဝခွင့်မပြုဘူး"
+      ]
+    },
+    {
+      "phrase": "play it by ear",
+      "type": "idiom",
+      "forms": [
+        "plays it by ear",
+        "played it by ear",
+        "playing it by ear"
+      ],
+      "burmese": [
+        "အခြေအနေကြည့်ပြီး လိုက်လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "read between the lines",
+      "type": "idiom",
+      "forms": [
+        "reads between the lines",
+        "reading between the lines"
+      ],
+      "burmese": [
+        "မပြောထားတဲ့ အဓိပ္ပာယ်ကို ဖတ်ယူသည်"
+      ]
+    },
+    {
+      "phrase": "ring a bell",
+      "type": "idiom",
+      "forms": [
+        "rings a bell",
+        "rang a bell",
+        "rung a bell",
+        "ringing a bell"
+      ],
+      "burmese": [
+        "မှတ်မိသလို ဖြစ်စေသည်",
+        "ရင်းနှီးသလို ခံစားရသည်"
+      ]
+    },
+    {
+      "phrase": "rule of thumb",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "အတွေ့အကြုံပေါ် အခြေခံတဲ့ လွယ်ကူသော စည်းကမ်းသဘော"
+      ]
+    },
+    {
+      "phrase": "see eye to eye",
+      "type": "idiom",
+      "forms": [
+        "sees eye to eye",
+        "saw eye to eye",
+        "seen eye to eye",
+        "seeing eye to eye"
+      ],
+      "burmese": [
+        "သဘောထားတူသည်"
+      ]
+    },
+    {
+      "phrase": "sit on the fence",
+      "type": "idiom",
+      "forms": [
+        "sits on the fence",
+        "sat on the fence",
+        "sitting on the fence"
+      ],
+      "burmese": [
+        "ဘက်မရွေးဘဲ ဆုံးဖြတ်မရ ဖြစ်နေသည်"
+      ]
+    },
+    {
+      "phrase": "take it easy",
+      "type": "idiom",
+      "forms": [
+        "takes it easy",
+        "took it easy",
+        "taken it easy",
+        "taking it easy"
+      ],
+      "burmese": [
+        "အေးအေးဆေးဆေး နေသည်",
+        "စိတ်လျှော့ထားသည်"
+      ]
+    },
+    {
+      "phrase": "through thick and thin",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "ကောင်းဆိုးမရွေး အတူရှိပြီး",
+        "အခက်အခဲကောင်းကျိုး မရွေး"
+      ]
+    },
+    {
+      "phrase": "when pigs fly",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "ဘယ်တော့မှ မဖြစ်နိုင်ဘူး",
+        "မဖြစ်နိုင်တဲ့အချိန်မှ"
+      ]
+    },
+    {
+      "phrase": "break a leg",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "အောင်မြင်ပါစေ",
+        "ကံကောင်းပါစေ"
+      ]
+    }
+  ]
+}
