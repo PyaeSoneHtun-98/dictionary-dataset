@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "project": "Subtitle Bridge English-Burmese Phrase Dictionary",
+  "targetPhrases": 3000,
+  "targetBatches": 12,
+  "entriesPerBatch": 250,
+  "latestBatch": 0,
+  "nextBatch": 1,
+  "batchCount": 0,
+  "totalPhrases": 0,
+  "lookup": {
+    "path": "phrase_lookup/used_phrase_keys_current.zlib.b64",
+    "encoding": "base64(zlib(utf8 newline-separated keys))",
+    "throughBatch": 0,
+    "uniqueLookupKeys": 0,
+    "canonicalPhrases": 0,
+    "storedForms": 0
+  },
+  "typeCounts": {
+    "phrasal_verb": 0,
+    "idiom": 0,
+    "expression": 0
+  },
+  "batchFilenamePattern": "PhraseBatches/phrase_batch_XXX.json",
+  "status": "in_progress"
+}
