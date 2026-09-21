@@ -4,22 +4,24 @@
   "targetPhrases": 3000,
   "targetBatches": 12,
   "entriesPerBatch": 250,
-  "latestBatch": 0,
-  "nextBatch": 1,
-  "batchCount": 0,
-  "totalPhrases": 0,
+  "latestBatch": 1,
+  "nextBatch": 2,
+  "batchCount": 1,
+  "totalPhrases": 250,
   "lookup": {
     "path": "phrase_lookup/used_phrase_keys_current.zlib.b64",
     "encoding": "base64(zlib(utf8 newline-separated keys))",
-    "throughBatch": 0,
-    "uniqueLookupKeys": 0,
-    "canonicalPhrases": 0,
-    "storedForms": 0
+    "throughBatch": 1,
+    "uniqueLookupKeys": 928,
+    "canonicalPhrases": 250,
+    "storedForms": 678,
+    "sha256": "5dfc0415079f507874ea7a5930d7323e438ba93ebe712725d6cf6df48e9f1e10",
+    "sha256Scope": "base64-trimmed"
   },
   "typeCounts": {
-    "phrasal_verb": 0,
-    "idiom": 0,
-    "expression": 0
+    "phrasal_verb": 200,
+    "idiom": 20,
+    "expression": 30
   },
   "batchFilenamePattern": "PhraseBatches/phrase_batch_XXX.json",
   "status": "in_progress"
