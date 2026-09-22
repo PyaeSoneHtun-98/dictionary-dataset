@@ -41,17 +41,11 @@
       ]
     },
     {
-      "phrase": "blow up in",
-      "type": "phrasal_verb",
-      "forms": [
-        "blows up in",
-        "blew up in",
-        "blown up in",
-        "blowing up in"
-      ],
+      "phrase": "my bad",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "အတွင်းမှာ ပေါက်ကွဲသည်",
-        "အစီအစဉ် ပြန်ထိခိုက်စေသည်"
+        "ငါ့အမှားပါ"
       ]
     },
     {
@@ -67,16 +61,12 @@
       ]
     },
     {
-      "phrase": "break back into",
-      "type": "phrasal_verb",
-      "forms": [
-        "breaks back into",
-        "broke back into",
-        "broken back into",
-        "breaking back into"
-      ],
+      "phrase": "there you go",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ပြန်ဖောက်ဝင်သည်"
+        "အဲဒါပဲ",
+        "ရပြီလေ"
       ]
     },
     {
@@ -106,28 +96,20 @@
       ]
     },
     {
-      "phrase": "bring in on",
-      "type": "phrasal_verb",
-      "forms": [
-        "brings in on",
-        "brought in on",
-        "bringing in on"
-      ],
+      "phrase": "so be it",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ကို ကိစ္စထဲ ပါဝင်စေသည်"
+        "ဒီအတိုင်းပဲ ဖြစ်ပါစေ"
       ]
     },
     {
-      "phrase": "bring out of",
-      "type": "phrasal_verb",
-      "forms": [
-        "brings out of",
-        "brought out of",
-        "bringing out of"
-      ],
+      "phrase": "say no more",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ကနေ ဆွဲထုတ်သည်",
-        "အခြေအနေကနေ လွတ်စေသည်"
+        "ထပ်မပြောနဲ့တော့",
+        "နားလည်ပြီ"
       ]
     },
     {
@@ -167,16 +149,12 @@
       ]
     },
     {
-      "phrase": "carry into",
-      "type": "phrasal_verb",
-      "forms": [
-        "carries into",
-        "carried into",
-        "carrying into"
-      ],
+      "phrase": "that figures",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ထဲကို ဆက်သယ်ယူသည်",
-        "အကျိုးသက်ရောက်မှု ဆက်သွားသည်"
+        "ထင်ထားတဲ့အတိုင်းပဲ",
+        "ဒါဆို နားလည်ရပြီ"
       ]
     },
     {
@@ -467,15 +445,12 @@
       ]
     },
     {
-      "phrase": "get down from",
-      "type": "phrasal_verb",
-      "forms": [
-        "gets down from",
-        "got down from",
-        "getting down from"
-      ],
+      "phrase": "you wish",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ကနေ ဆင်းသည်"
+        "မင်းစိတ်ကူးယဉ်နေတာပါ",
+        "ဖြစ်မလာပါဘူး"
       ]
     },
     {
@@ -491,15 +466,12 @@
       ]
     },
     {
-      "phrase": "get off at",
-      "type": "phrasal_verb",
-      "forms": [
-        "gets off at",
-        "got off at",
-        "getting off at"
-      ],
+      "phrase": "what the hell",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "မှာ ဆင်းသည်"
+        "ဘာတွေ ဖြစ်နေတာလဲ",
+        "ဒါဘာလဲ"
       ]
     },
     {
@@ -582,16 +554,12 @@
       ]
     },
     {
-      "phrase": "go out into",
-      "type": "phrasal_verb",
-      "forms": [
-        "goes out into",
-        "went out into",
-        "gone out into",
-        "going out into"
-      ],
+      "phrase": "what the heck",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ထဲကို အပြင်ထွက်သွားသည်"
+        "ဘာတွေ ဖြစ်နေတာလဲ",
+        "ဒါဘာလဲ"
       ]
     },
     {
@@ -905,27 +873,21 @@
       ]
     },
     {
-      "phrase": "run down to",
-      "type": "phrasal_verb",
-      "forms": [
-        "runs down to",
-        "ran down to",
-        "running down to"
-      ],
+      "phrase": "who cares",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ဆီ အမြန်ပြေးသွားသည်"
+        "ဘယ်သူက ဂရုစိုက်မှာလဲ",
+        "ဂရုစိုက်စရာ မလိုဘူး"
       ]
     },
     {
-      "phrase": "send back to",
-      "type": "phrasal_verb",
-      "forms": [
-        "sends back to",
-        "sent back to",
-        "sending back to"
-      ],
+      "phrase": "you got me",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ဆီ ပြန်ပို့သည်"
+        "ငါလည်း မသိဘူး",
+        "မင်းဖမ်းမိပြီ"
       ]
     },
     {
@@ -990,11 +952,12 @@
       ]
     },
     {
-      "phrase": "at the same place",
+      "phrase": "your loss",
       "type": "expression",
       "forms": [],
       "burmese": [
-        "တစ်နေရာတည်းမှာ"
+        "မင်းပဲ နစ်နာမှာ",
+        "မင်းအရှုံးပဲ"
       ]
     },
     {

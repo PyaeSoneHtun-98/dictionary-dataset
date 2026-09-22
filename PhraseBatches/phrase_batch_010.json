@@ -15,47 +15,37 @@
       ]
     },
     {
-      "phrase": "ask in",
-      "type": "phrasal_verb",
-      "forms": [
-        "asks in",
-        "asked in",
-        "asking in"
-      ],
-      "burmese": [
-        "အထဲဝင်ဖို့ ဖိတ်ခေါ်သည်"
-      ]
-    },
-    {
-      "phrase": "ask over",
-      "type": "phrasal_verb",
-      "forms": [
-        "asks over",
-        "asked over",
-        "asking over"
-      ],
-      "burmese": [
-        "အိမ်လာဖို့ ဖိတ်ခေါ်သည်"
-      ]
-    },
-    {
-      "phrase": "back away slowly",
+      "phrase": "the last thing i need",
       "type": "expression",
       "forms": [],
       "burmese": [
-        "ဖြည်းဖြည်း နောက်ဆုတ်သည်"
+        "ငါအခု လုံးဝမလိုချင်ဆုံးအရာ"
       ]
     },
     {
-      "phrase": "back up to",
-      "type": "phrasal_verb",
-      "forms": [
-        "backs up to",
-        "backed up to",
-        "backing up to"
-      ],
+      "phrase": "not so fast",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "နောက်ဆုတ်ပြီး အနားကပ်သည်"
+        "အလျင်မလုပ်နဲ့",
+        "ခဏစောင့်ဦး"
+      ]
+    },
+    {
+      "phrase": "tell you what",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ဒီလိုလုပ်မယ်",
+        "ပြောမယ်နော်"
+      ]
+    },
+    {
+      "phrase": "what's going on",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ဘာဖြစ်နေတာလဲ"
       ]
     },
     {
@@ -96,11 +86,12 @@
       ]
     },
     {
-      "phrase": "catch up fast",
+      "phrase": "what's the matter",
       "type": "expression",
       "forms": [],
       "burmese": [
-        "အမြန်လိုက်မီလာသည်"
+        "ဘာဖြစ်တာလဲ",
+        "ဘာပြဿနာရှိလဲ"
       ]
     },
     {
@@ -116,11 +107,11 @@
       ]
     },
     {
-      "phrase": "do over again",
+      "phrase": "what's wrong with you",
       "type": "expression",
       "forms": [],
       "burmese": [
-        "အစကနေ ပြန်လုပ်သည်"
+        "မင်းဘာဖြစ်နေတာလဲ"
       ]
     },
     {
@@ -170,15 +161,11 @@
       ]
     },
     {
-      "phrase": "knock together",
-      "type": "phrasal_verb",
-      "forms": [
-        "knocks together",
-        "knocked together",
-        "knocking together"
-      ],
+      "phrase": "you've got this",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "အလျင်အမြန် စုပေါင်းလုပ်သည်"
+        "မင်းလုပ်နိုင်တယ်"
       ]
     },
     {
@@ -219,15 +206,11 @@
       ]
     },
     {
-      "phrase": "move back out",
-      "type": "phrasal_verb",
-      "forms": [
-        "moves back out",
-        "moved back out",
-        "moving back out"
-      ],
+      "phrase": "i mean it",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ပြန်ပြောင်းထွက်သည်"
+        "ငါတကယ်ပြောတာ"
       ]
     },
     {
@@ -341,15 +324,12 @@
       ]
     },
     {
-      "phrase": "stay behind with",
-      "type": "phrasal_verb",
-      "forms": [
-        "stays behind with",
-        "stayed behind with",
-        "staying behind with"
-      ],
+      "phrase": "i don't buy it",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "နဲ့အတူ နောက်မှာ ကျန်နေသည်"
+        "ငါမယုံဘူး",
+        "ဒီအကြောင်းပြချက်ကို မယုံဘူး"
       ]
     },
     {
@@ -377,16 +357,11 @@
       ]
     },
     {
-      "phrase": "take off from",
-      "type": "phrasal_verb",
-      "forms": [
-        "takes off from",
-        "took off from",
-        "taken off from",
-        "taking off from"
-      ],
+      "phrase": "i don't get it",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ကနေ ထွက်ခွာပျံသန်းသည်"
+        "ငါနားမလည်ဘူး"
       ]
     },
     {
@@ -962,15 +937,11 @@
       ]
     },
     {
-      "phrase": "drop back to",
-      "type": "phrasal_verb",
-      "forms": [
-        "drops back to",
-        "dropped back to",
-        "dropping back to"
-      ],
+      "phrase": "i knew it",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "နောက်ကို ပြန်ကျသွားသည်"
+        "ငါသိသားပဲ"
       ]
     },
     {

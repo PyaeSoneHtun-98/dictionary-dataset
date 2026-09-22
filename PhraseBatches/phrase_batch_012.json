@@ -446,11 +446,11 @@
       ]
     },
     {
-      "phrase": "throw your hat in",
+      "phrase": "over your head",
       "type": "idiom",
       "forms": [],
       "burmese": [
-        "ပြိုင်ပွဲ သို့မဟုတ် ရွေးချယ်မှုထဲ ပါဝင်သည်"
+        "နားလည်နိုင်စွမ်းထက် ကျော်လွန်သည်"
       ]
     },
     {
@@ -581,11 +581,16 @@
       ]
     },
     {
-      "phrase": "give me the benefit",
-      "type": "expression",
-      "forms": [],
+      "phrase": "lose your mind",
+      "type": "idiom",
+      "forms": [
+        "loses your mind",
+        "lost your mind",
+        "losing your mind"
+      ],
       "burmese": [
-        "ကောင်းတဲ့ဘက်က ယူဆပေးပါ"
+        "စိတ်မထိန်းနိုင် ဖြစ်သည်",
+        "ရူးသလို ဖြစ်သည်"
       ]
     },
     {
@@ -621,11 +626,17 @@
       ]
     },
     {
-      "phrase": "take the words right out",
+      "phrase": "take your breath away",
       "type": "idiom",
-      "forms": [],
+      "forms": [
+        "takes your breath away",
+        "took your breath away",
+        "taken your breath away",
+        "taking your breath away"
+      ],
       "burmese": [
-        "ငါပြောချင်တာကို တိတိကျကျ ပြောသွားသည်"
+        "အံ့ဩလွန်းလို့ အသက်ရှူမေ့စေသည်",
+        "အရမ်းလှလို့ မှင်တက်စေသည်"
       ]
     },
     {
@@ -1726,14 +1737,11 @@
       ]
     },
     {
-      "phrase": "put through to",
-      "type": "phrasal_verb",
-      "forms": [
-        "puts through to",
-        "putting through to"
-      ],
+      "phrase": "over the edge",
+      "type": "idiom",
+      "forms": [],
       "burmese": [
-        "ဖုန်းလိုင်းကနေ ဆက်ပေးသည်"
+        "စိတ်မထိန်းနိုင်တဲ့ အခြေအနေကျော်သွားသည်"
       ]
     },
     {

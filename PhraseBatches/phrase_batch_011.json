@@ -3,17 +3,11 @@
   "batch": 11,
   "entries": [
     {
-      "phrase": "break back out",
-      "type": "phrasal_verb",
-      "forms": [
-        "breaks back out",
-        "broke back out",
-        "broken back out",
-        "breaking back out"
-      ],
+      "phrase": "i owe you one",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ပြန်ဖောက်ထွက်သည်",
-        "ပြန်လွတ်ထွက်သည်"
+        "ငါမင်းကို ကျေးဇူးပြန်ဆပ်ရမယ်"
       ]
     },
     {
@@ -108,28 +102,20 @@
       ]
     },
     {
-      "phrase": "call in for",
-      "type": "phrasal_verb",
-      "forms": [
-        "calls in for",
-        "called in for",
-        "calling in for"
-      ],
+      "phrase": "i'll take it",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "အတွက် ဝင်လာသည်",
-        "ရယူဖို့ ဝင်သည်"
+        "ငါယူမယ်"
       ]
     },
     {
-      "phrase": "call on for",
-      "type": "phrasal_verb",
-      "forms": [
-        "calls on for",
-        "called on for",
-        "calling on for"
-      ],
+      "phrase": "it's up to you",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ကို တောင်းဆိုသည်"
+        "မင်းသဘောပဲ",
+        "မင်းဆုံးဖြတ်ရမယ်"
       ]
     },
     {
@@ -161,15 +147,12 @@
       ]
     },
     {
-      "phrase": "close back up",
-      "type": "phrasal_verb",
-      "forms": [
-        "closes back up",
-        "closed back up",
-        "closing back up"
-      ],
+      "phrase": "in the mood",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ပြန်ပိတ်သည်"
+        "စိတ်ပါနေသည်",
+        "လုပ်ချင်စိတ်ရှိနေသည်"
       ]
     },
     {
@@ -846,75 +829,75 @@
       ]
     },
     {
-      "phrase": "bring around to",
-      "type": "phrasal_verb",
-      "forms": [
-        "brings around to",
-        "brought around to",
-        "bringing around to"
-      ],
+      "phrase": "under suspicion",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "အမြင်တစ်ခုကို လက်ခံလာအောင် စည်းရုံးသည်"
+        "သံသယခံနေရသည်"
       ]
     },
     {
-      "phrase": "bring down on",
-      "type": "phrasal_verb",
+      "phrase": "lose your touch",
+      "type": "idiom",
       "forms": [
-        "brings down on",
-        "brought down on",
-        "bringing down on"
+        "loses your touch",
+        "lost your touch",
+        "losing your touch"
       ],
       "burmese": [
-        "အပေါ် ပြဿနာ သို့မဟုတ် အပြစ်ဒဏ် ဖြစ်စေသည်"
+        "အရင်ကလို ကျွမ်းကျင်မှု မရှိတော့သည်"
       ]
     },
     {
-      "phrase": "bring up with",
-      "type": "phrasal_verb",
+      "phrase": "pay the price",
+      "type": "idiom",
       "forms": [
-        "brings up with",
-        "brought up with",
-        "bringing up with"
+        "pays the price",
+        "paid the price",
+        "paying the price"
       ],
       "burmese": [
-        "နဲ့ အကြောင်းတစ်ခုကို ဆွေးနွေးတင်ပြသည်"
+        "အကျိုးဆက်ကို ခံရသည်",
+        "တန်ဖိုးပေးဆပ်ရသည်"
       ]
     },
     {
-      "phrase": "call around to",
-      "type": "phrasal_verb",
+      "phrase": "steal the show",
+      "type": "idiom",
       "forms": [
-        "calls around to",
-        "called around to",
-        "calling around to"
+        "steals the show",
+        "stole the show",
+        "stolen the show",
+        "stealing the show"
       ],
       "burmese": [
-        "ဆီ ခဏဝင်လည်သည်"
+        "အားလုံးရဲ့ အာရုံကို သိမ်းပိုက်သည်",
+        "အထင်ရှားဆုံး ဖြစ်သွားသည်"
       ]
     },
     {
-      "phrase": "call back for",
-      "type": "phrasal_verb",
+      "phrase": "bring home the bacon",
+      "type": "idiom",
       "forms": [
-        "calls back for",
-        "called back for",
-        "calling back for"
+        "brings home the bacon",
+        "brought home the bacon",
+        "bringing home the bacon"
       ],
       "burmese": [
-        "ကို ပြန်ယူဖို့ ပြန်လာသည်"
+        "မိသားစုအတွက် ဝင်ငွေရှာသည်"
       ]
     },
     {
-      "phrase": "carry back into",
-      "type": "phrasal_verb",
+      "phrase": "change hands",
+      "type": "idiom",
       "forms": [
-        "carries back into",
-        "carried back into",
-        "carrying back into"
+        "changes hands",
+        "changed hands",
+        "changing hands"
       ],
       "burmese": [
-        "ထဲကို ပြန်သယ်ဝင်သည်"
+        "ပိုင်ရှင်ပြောင်းသည်",
+        "လက်လွှဲသွားသည်"
       ]
     },
     {
@@ -977,27 +960,29 @@
       ]
     },
     {
-      "phrase": "come in through",
-      "type": "phrasal_verb",
+      "phrase": "get even",
+      "type": "idiom",
       "forms": [
-        "comes in through",
-        "came in through",
-        "coming in through"
+        "gets even",
+        "got even",
+        "getting even"
       ],
       "burmese": [
-        "ကနေ ဝင်လာသည်"
+        "လက်စားချေသည်",
+        "အကြွေးချင်းကျေသည်"
       ]
     },
     {
-      "phrase": "come out on",
-      "type": "phrasal_verb",
+      "phrase": "give it your best shot",
+      "type": "idiom",
       "forms": [
-        "comes out on",
-        "came out on",
-        "coming out on"
+        "gives it your best shot",
+        "gave it your best shot",
+        "given it your best shot",
+        "giving it your best shot"
       ],
       "burmese": [
-        "အပေါ် ရလဒ်တစ်မျိုးနဲ့ အဆုံးသတ်သည်"
+        "အကောင်းဆုံး ကြိုးစားကြည့်ပါ"
       ]
     },
     {
@@ -1013,37 +998,42 @@
       ]
     },
     {
-      "phrase": "come up from",
-      "type": "phrasal_verb",
+      "phrase": "hold your fire",
+      "type": "idiom",
       "forms": [
-        "comes up from",
-        "came up from",
-        "coming up from"
+        "holds your fire",
+        "held your fire",
+        "holding your fire"
       ],
       "burmese": [
-        "ကနေ အပေါ်တက်လာသည်"
+        "မပစ်သေးနဲ့",
+        "တိုက်ခိုက်တာ ခဏရပ်ထား"
       ]
     },
     {
-      "phrase": "cut back into",
-      "type": "phrasal_verb",
+      "phrase": "lose face",
+      "type": "idiom",
       "forms": [
-        "cuts back into",
-        "cutting back into"
+        "loses face",
+        "lost face",
+        "losing face"
       ],
       "burmese": [
-        "ထဲကို ပြန်ဖြတ်ဝင်သည်"
+        "အရှက်ကွဲသည်",
+        "ဂုဏ်သိက္ခာကျသည်"
       ]
     },
     {
-      "phrase": "cut off at",
-      "type": "phrasal_verb",
+      "phrase": "make waves",
+      "type": "idiom",
       "forms": [
-        "cuts off at",
-        "cutting off at"
+        "makes waves",
+        "made waves",
+        "making waves"
       ],
       "burmese": [
-        "နေရာ သို့မဟုတ် အချိန်မှာ ဖြတ်တောက်သည်"
+        "ဂယက်ထစေသည်",
+        "ပြဿနာဖြစ်အောင် လှုပ်ရှားသည်"
       ]
     },
     {
@@ -1060,15 +1050,16 @@
       ]
     },
     {
-      "phrase": "drag back out",
-      "type": "phrasal_verb",
+      "phrase": "meet halfway",
+      "type": "idiom",
       "forms": [
-        "drags back out",
-        "dragged back out",
-        "dragging back out"
+        "meets halfway",
+        "met halfway",
+        "meeting halfway"
       ],
       "burmese": [
-        "အပြင်ကို ပြန်ဆွဲထုတ်သည်"
+        "အလယ်အလတ်မှာ အပေးအယူလုပ်သည်",
+        "နှစ်ဖက်စလုံး လိုက်လျောသည်"
       ]
     },
     {
@@ -1086,17 +1077,15 @@
       ]
     },
     {
-      "phrase": "draw out of",
-      "type": "phrasal_verb",
+      "phrase": "pull strings",
+      "type": "idiom",
       "forms": [
-        "draws out of",
-        "drew out of",
-        "drawn out of",
-        "drawing out of"
+        "pulls strings",
+        "pulled strings",
+        "pulling strings"
       ],
       "burmese": [
-        "ကနေ ဆွဲထုတ်သည်",
-        "စကားပြောလာအောင် လှုံ့ဆော်သည်"
+        "အဆက်အသွယ်သုံးပြီး အကူအညီရယူသည်"
       ]
     },
     {
@@ -1184,69 +1173,73 @@
         "following back"
       ],
       "burmese": [
-        "နောက်ကို ပြန်လိုက်သည်",
-        "လူမှုကွန်ရက်မှာ ပြန် follow လုပ်သည်"
+        "လူမှုကွန်ရက်မှာ တစ်ဖက်လူရဲ့ အကောင့်ကို ပြန်စောင့်ကြည့်သည်"
       ]
     },
     {
-      "phrase": "get back around",
-      "type": "phrasal_verb",
+      "phrase": "shake things up",
+      "type": "idiom",
       "forms": [
-        "gets back around",
-        "got back around",
-        "getting back around"
+        "shakes things up",
+        "shook things up",
+        "shaken things up",
+        "shaking things up"
       ],
       "burmese": [
-        "ပြန်လှည့်လာသည်"
+        "အခြေအနေကို အပြောင်းအလဲကြီး လုပ်သည်"
       ]
     },
     {
-      "phrase": "get down into",
-      "type": "phrasal_verb",
+      "phrase": "take the bait",
+      "type": "idiom",
       "forms": [
-        "gets down into",
-        "got down into",
-        "getting down into"
+        "takes the bait",
+        "took the bait",
+        "taken the bait",
+        "taking the bait"
       ],
       "burmese": [
-        "အောက်ထဲကို ဆင်းဝင်သည်"
+        "လှည့်ကွက်ထဲ ဝင်မိသည်",
+        "ချထားတဲ့အစာကို ကိုက်မိသည်"
       ]
     },
     {
-      "phrase": "get in behind",
-      "type": "phrasal_verb",
+      "phrase": "take the hint",
+      "type": "idiom",
       "forms": [
-        "gets in behind",
-        "got in behind",
-        "getting in behind"
+        "takes the hint",
+        "took the hint",
+        "taken the hint",
+        "taking the hint"
       ],
       "burmese": [
-        "နောက်ဘက်ကို ဝင်ရောက်နေရာယူသည်"
+        "အရိပ်အမြွက်ကို နားလည်သည်"
       ]
     },
     {
-      "phrase": "get off from",
-      "type": "phrasal_verb",
+      "phrase": "throw a fit",
+      "type": "idiom",
       "forms": [
-        "gets off from",
-        "got off from",
-        "getting off from"
+        "throws a fit",
+        "threw a fit",
+        "thrown a fit",
+        "throwing a fit"
       ],
       "burmese": [
-        "ကနေ ဆင်းသည်",
-        "ကနေ လွတ်သည်"
+        "စိတ်ဆိုးပေါက်ကွဲသည်"
       ]
     },
     {
-      "phrase": "get out from",
-      "type": "phrasal_verb",
+      "phrase": "throw a tantrum",
+      "type": "idiom",
       "forms": [
-        "gets out from",
-        "got out from",
-        "getting out from"
+        "throws a tantrum",
+        "threw a tantrum",
+        "thrown a tantrum",
+        "throwing a tantrum"
       ],
       "burmese": [
-        "ကနေ ထွက်လာသည်"
+        "ဒေါသတကြီး ငိုယိုပေါက်ကွဲသည်"
       ]
     },
     {
@@ -1262,42 +1255,37 @@
       ]
     },
     {
-      "phrase": "give back over",
-      "type": "phrasal_verb",
+      "phrase": "touch a nerve",
+      "type": "idiom",
       "forms": [
-        "gives back over",
-        "gave back over",
-        "given back over",
-        "giving back over"
+        "touches a nerve",
+        "touched a nerve",
+        "touching a nerve"
       ],
       "burmese": [
-        "ပြန်လွှဲပေးသည်"
+        "နာကျင်တဲ့အချက်ကို ထိမိသည်",
+        "စိတ်ထိခိုက်စေသည်"
       ]
     },
     {
-      "phrase": "go back over to",
-      "type": "phrasal_verb",
+      "phrase": "win hands down",
+      "type": "idiom",
       "forms": [
-        "goes back over to",
-        "went back over to",
-        "gone back over to",
-        "going back over to"
+        "wins hands down",
+        "won hands down",
+        "winning hands down"
       ],
       "burmese": [
-        "ဆီ ပြန်သွားသည်"
+        "အလွယ်တကူ အနိုင်ရသည်"
       ]
     },
     {
-      "phrase": "go down into",
-      "type": "phrasal_verb",
-      "forms": [
-        "goes down into",
-        "went down into",
-        "gone down into",
-        "going down into"
-      ],
+      "phrase": "at your fingertips",
+      "type": "idiom",
+      "forms": [],
       "burmese": [
-        "အောက်ထဲကို ဆင်းသွားသည်"
+        "အလွယ်တကူ ရနိုင်သည်",
+        "လက်လှမ်းမီနေသည်"
       ]
     },
     {
@@ -1314,16 +1302,12 @@
       ]
     },
     {
-      "phrase": "go out through",
-      "type": "phrasal_verb",
-      "forms": [
-        "goes out through",
-        "went out through",
-        "gone out through",
-        "going out through"
-      ],
+      "phrase": "between the lines",
+      "type": "idiom",
+      "forms": [],
       "burmese": [
-        "ကနေ အပြင်ထွက်သွားသည်"
+        "မပြောထားတဲ့ အဓိပ္ပာယ်ထဲမှာ",
+        "စာကြားအဓိပ္ပာယ်မှာ"
       ]
     },
     {
@@ -1340,15 +1324,11 @@
       ]
     },
     {
-      "phrase": "hand back over",
-      "type": "phrasal_verb",
-      "forms": [
-        "hands back over",
-        "handed back over",
-        "handing back over"
-      ],
+      "phrase": "beyond doubt",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ပြန်လွှဲပေးသည်"
+        "သံသယမရှိအောင် သေချာသည်"
       ]
     },
     {
@@ -1389,15 +1369,12 @@
       ]
     },
     {
-      "phrase": "keep out from",
-      "type": "phrasal_verb",
-      "forms": [
-        "keeps out from",
-        "kept out from",
-        "keeping out from"
-      ],
+      "phrase": "in the bag",
+      "type": "idiom",
+      "forms": [],
       "burmese": [
-        "ကနေ အပြင်မှာ ထားသည်"
+        "သေချာပေါက် ရမယ့်အနေအထားမှာ",
+        "အောင်မြင်ဖို့ သေချာနေသည်"
       ]
     },
     {
@@ -1461,27 +1438,20 @@
       ]
     },
     {
-      "phrase": "open back out",
-      "type": "phrasal_verb",
-      "forms": [
-        "opens back out",
-        "opened back out",
-        "opening back out"
-      ],
+      "phrase": "out of spite",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ပြန်ဖြန့်ဖွင့်သည်"
+        "မနာလိုစိတ်နဲ့",
+        "အငြိုးနဲ့"
       ]
     },
     {
-      "phrase": "pass back over",
-      "type": "phrasal_verb",
-      "forms": [
-        "passes back over",
-        "passed back over",
-        "passing back over"
-      ],
+      "phrase": "under wraps",
+      "type": "idiom",
+      "forms": [],
       "burmese": [
-        "ပြန်လက်ဆင့်ကမ်းသည်"
+        "လျှို့ဝှက်ထားသည်"
       ]
     },
     {
@@ -2355,29 +2325,19 @@
       ]
     },
     {
-      "phrase": "talk over with",
-      "type": "phrasal_verb",
-      "forms": [
-        "talks over with",
-        "talked over with",
-        "talking over with"
-      ],
+      "phrase": "within reason",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "နဲ့ အတူ ဆွေးနွေးသည်"
+        "သင့်တင့်မျှတတဲ့ အတိုင်းအတာအတွင်း"
       ]
     },
     {
-      "phrase": "throw back at",
-      "type": "phrasal_verb",
-      "forms": [
-        "throws back at",
-        "threw back at",
-        "thrown back at",
-        "throwing back at"
-      ],
+      "phrase": "in the middle of nowhere",
+      "type": "idiom",
+      "forms": [],
       "burmese": [
-        "ကို ပြန်ပစ်ပေးသည်",
-        "စကားကို ပြန်ထိုးပြောသည်"
+        "လူသူမရှိတဲ့ ဝေးလံခေါင်သီနေရာမှာ"
       ]
     },
     {
@@ -2431,29 +2391,28 @@
       ]
     },
     {
-      "phrase": "work out with",
-      "type": "phrasal_verb",
+      "phrase": "watch your step",
+      "type": "idiom",
       "forms": [
-        "works out with",
-        "worked out with",
-        "working out with"
+        "watches your step",
+        "watched your step",
+        "watching your step"
       ],
       "burmese": [
-        "နဲ့ အတူ လေ့ကျင့်သည်",
-        "နဲ့ အဆင်ပြေအောင် ဖြေရှင်းသည်"
+        "ခြေလှမ်းသတိထား",
+        "အပြုအမူ သတိထား"
       ]
     },
     {
-      "phrase": "write back about",
-      "type": "phrasal_verb",
+      "phrase": "cross your mind",
+      "type": "idiom",
       "forms": [
-        "writes back about",
-        "wrote back about",
-        "written back about",
-        "writing back about"
+        "crosses your mind",
+        "crossed your mind",
+        "crossing your mind"
       ],
       "burmese": [
-        "အကြောင်း စာပြန်ရေးသည်"
+        "စိတ်ထဲ ဖြတ်သန်းပေါ်လာသည်"
       ]
     },
     {
@@ -2590,14 +2549,16 @@
       ]
     },
     {
-      "phrase": "put across to",
-      "type": "phrasal_verb",
+      "phrase": "change your mind",
+      "type": "idiom",
       "forms": [
-        "puts across to",
-        "putting across to"
+        "changes your mind",
+        "changed your mind",
+        "changing your mind"
       ],
       "burmese": [
-        "နားလည်အောင် ရှင်းပြသည်"
+        "စိတ်ပြောင်းသည်",
+        "ဆုံးဖြတ်ချက်ပြောင်းသည်"
       ]
     }
   ]
