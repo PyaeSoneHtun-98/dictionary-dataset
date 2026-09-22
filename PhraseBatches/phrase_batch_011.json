@@ -50,15 +50,12 @@
       ]
     },
     {
-      "phrase": "bring back in",
-      "type": "phrasal_verb",
-      "forms": [
-        "brings back in",
-        "brought back in",
-        "bringing back in"
-      ],
+      "phrase": "not on your life",
+      "type": "idiom",
+      "forms": [],
       "burmese": [
-        "အထဲကို ပြန်ခေါ်လာသည်"
+        "လုံးဝ မဖြစ်နိုင်ဘူး",
+        "သေချာပေါက် မလုပ်ဘူး"
       ]
     },
     {
@@ -225,17 +222,11 @@
       ]
     },
     {
-      "phrase": "fall flat on",
-      "type": "phrasal_verb",
-      "forms": [
-        "falls flat on",
-        "fell flat on",
-        "fallen flat on",
-        "falling flat on"
-      ],
+      "phrase": "over the limit",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "မျက်နှာချင်းဆိုင် လဲကျသည်",
-        "လုံးဝ မအောင်မြင်ဘူး"
+        "သတ်မှတ်အကန့်အသတ် ကျော်နေသည်"
       ]
     },
     {
@@ -1089,15 +1080,12 @@
       ]
     },
     {
-      "phrase": "drop back from",
-      "type": "phrasal_verb",
-      "forms": [
-        "drops back from",
-        "dropped back from",
-        "dropping back from"
-      ],
+      "phrase": "out of hand",
+      "type": "idiom",
+      "forms": [],
       "burmese": [
-        "ကနေ နောက်ကျန်သည်"
+        "မထိန်းနိုင်အောင် ဖြစ်သွားသည်",
+        "ချက်ချင်း ငြင်းပယ်သည်"
       ]
     },
     {
@@ -1113,16 +1101,12 @@
       ]
     },
     {
-      "phrase": "fall back from",
-      "type": "phrasal_verb",
-      "forms": [
-        "falls back from",
-        "fell back from",
-        "fallen back from",
-        "falling back from"
-      ],
+      "phrase": "out of service",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ကနေ နောက်ဆုတ်သည်"
+        "အသုံးမပြုနိုင်ဘူး",
+        "ပျက်နေသည်"
       ]
     },
     {
@@ -1243,15 +1227,12 @@
       ]
     },
     {
-      "phrase": "get over to",
-      "type": "phrasal_verb",
-      "forms": [
-        "gets over to",
-        "got over to",
-        "getting over to"
-      ],
+      "phrase": "on the wrong track",
+      "type": "idiom",
+      "forms": [],
       "burmese": [
-        "ဆီ သွားရောက်သည်"
+        "လမ်းကြောင်းမှားနေသည်",
+        "အယူအဆမှားဘက် သွားနေသည်"
       ]
     },
     {
@@ -1289,16 +1270,11 @@
       ]
     },
     {
-      "phrase": "go off at",
-      "type": "phrasal_verb",
-      "forms": [
-        "goes off at",
-        "went off at",
-        "gone off at",
-        "going off at"
-      ],
+      "phrase": "on the move",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "အချိန်မှာ ပေါက်ကွဲ သို့မဟုတ် မြည်သည်"
+        "လှုပ်ရှားသွားလာနေသည်"
       ]
     },
     {
@@ -1332,15 +1308,12 @@
       ]
     },
     {
-      "phrase": "head back inside",
-      "type": "phrasal_verb",
-      "forms": [
-        "heads back inside",
-        "headed back inside",
-        "heading back inside"
-      ],
+      "phrase": "in good shape",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "အထဲကို ပြန်ဦးတည်ဝင်သည်"
+        "အခြေအနေကောင်းသည်",
+        "ကိုယ်ခန္ဓာကြံ့ခိုင်သည်"
       ]
     },
     {
@@ -1357,15 +1330,11 @@
       ]
     },
     {
-      "phrase": "keep back from",
-      "type": "phrasal_verb",
-      "forms": [
-        "keeps back from",
-        "kept back from",
-        "keeping back from"
-      ],
+      "phrase": "in bad shape",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ကနေ ဝေးဝေးထားသည်"
+        "အခြေအနေဆိုးနေသည်"
       ]
     },
     {
@@ -1378,63 +1347,45 @@
       ]
     },
     {
-      "phrase": "look back over",
-      "type": "phrasal_verb",
-      "forms": [
-        "looks back over",
-        "looked back over",
-        "looking back over"
-      ],
+      "phrase": "in your face",
+      "type": "idiom",
+      "forms": [],
       "burmese": [
-        "အတိတ်ကို ပြန်လည်သုံးသပ်သည်"
+        "မျက်နှာချင်းဆိုင် တိုက်ရိုက်",
+        "အတိအလင်း"
       ]
     },
     {
-      "phrase": "look out from",
-      "type": "phrasal_verb",
-      "forms": [
-        "looks out from",
-        "looked out from",
-        "looking out from"
-      ],
+      "phrase": "at all times",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ကနေ အပြင်ကို လှမ်းကြည့်သည်"
+        "အချိန်တိုင်း"
       ]
     },
     {
-      "phrase": "move back over",
-      "type": "phrasal_verb",
-      "forms": [
-        "moves back over",
-        "moved back over",
-        "moving back over"
-      ],
+      "phrase": "by hand",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ပြန်ဘက်ရွှေ့သည်"
+        "လက်နဲ့ ကိုယ်တိုင်"
       ]
     },
     {
-      "phrase": "move down to",
-      "type": "phrasal_verb",
-      "forms": [
-        "moves down to",
-        "moved down to",
-        "moving down to"
-      ],
+      "phrase": "by surprise",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ကို ဆင်းပြောင်းသည်"
+        "အလစ်အငိုက်မှာ",
+        "မမျှော်လင့်ဘဲ"
       ]
     },
     {
-      "phrase": "move over to",
-      "type": "phrasal_verb",
-      "forms": [
-        "moves over to",
-        "moved over to",
-        "moving over to"
-      ],
+      "phrase": "for good reason",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ဆီ ရွှေ့သွားသည်"
+        "အကြောင်းကောင်းကောင်း ရှိလို့"
       ]
     },
     {
@@ -1455,16 +1406,11 @@
       ]
     },
     {
-      "phrase": "pull back out",
-      "type": "phrasal_verb",
-      "forms": [
-        "pulls back out",
-        "pulled back out",
-        "pulling back out"
-      ],
+      "phrase": "for your own good",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ပြန်နုတ်ထွက်သည်",
-        "ပြန်ဆွဲထုတ်သည်"
+        "မင်းအကျိုးအတွက်"
       ]
     },
     {
@@ -2019,42 +1965,28 @@
       ]
     },
     {
-      "phrase": "drop off at",
-      "type": "phrasal_verb",
-      "forms": [
-        "drops off at",
-        "dropped off at",
-        "dropping off at"
-      ],
+      "phrase": "up and running",
+      "type": "idiom",
+      "forms": [],
       "burmese": [
-        "မှာ ချပေးခဲ့သည်"
+        "ပုံမှန် လည်ပတ်နေပြီ",
+        "အလုပ်လုပ်နေပြီ"
       ]
     },
     {
-      "phrase": "fall down on",
-      "type": "phrasal_verb",
-      "forms": [
-        "falls down on",
-        "fell down on",
-        "fallen down on",
-        "falling down on"
-      ],
+      "phrase": "up for it",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "တာဝန် သို့မဟုတ် အလုပ်မှာ မအောင်မြင်သည်"
+        "လုပ်ဖို့ စိတ်ပါနေသည်"
       ]
     },
     {
-      "phrase": "fall in behind",
-      "type": "phrasal_verb",
-      "forms": [
-        "falls in behind",
-        "fell in behind",
-        "fallen in behind",
-        "falling in behind"
-      ],
+      "phrase": "up to something",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "နောက်မှာ လိုက်သည်",
-        "ထောက်ခံလိုက်သည်"
+        "တစ်ခုခု ကြံစည်နေသည်"
       ]
     },
     {
@@ -2109,16 +2041,12 @@
       ]
     },
     {
-      "phrase": "go in with",
-      "type": "phrasal_verb",
-      "forms": [
-        "goes in with",
-        "went in with",
-        "gone in with",
-        "going in with"
-      ],
+      "phrase": "off the table",
+      "type": "idiom",
+      "forms": [],
       "burmese": [
-        "နဲ့ ပူးပေါင်းပါဝင်သည်"
+        "စဉ်းစားစရာထဲ မပါတော့ဘူး",
+        "မဖြစ်နိုင်တော့ဘူး"
       ]
     },
     {
@@ -2135,17 +2063,11 @@
       ]
     },
     {
-      "phrase": "go over to",
-      "type": "phrasal_verb",
-      "forms": [
-        "goes over to",
-        "went over to",
-        "gone over to",
-        "going over to"
-      ],
+      "phrase": "off the charts",
+      "type": "idiom",
+      "forms": [],
       "burmese": [
-        "ဆီ သွားသည်",
-        "တစ်ဖက်ကို ပြောင်းသည်"
+        "ပုံမှန်အတိုင်းအတာထက် အလွန်ကျော်လွန်သည်"
       ]
     },
     {
@@ -2162,15 +2084,12 @@
       ]
     },
     {
-      "phrase": "head out to",
-      "type": "phrasal_verb",
-      "forms": [
-        "heads out to",
-        "headed out to",
-        "heading out to"
-      ],
+      "phrase": "off the grid",
+      "type": "idiom",
+      "forms": [],
       "burmese": [
-        "ဆီ ထွက်သွားသည်"
+        "ဆက်သွယ်ရေးစနစ်အပြင်ဘက်မှာ နေသည်",
+        "ခြေရာမခံနိုင်အောင် နေသည်"
       ]
     },
     {
@@ -2312,16 +2231,12 @@
       ]
     },
     {
-      "phrase": "take back from",
-      "type": "phrasal_verb",
-      "forms": [
-        "takes back from",
-        "took back from",
-        "taken back from",
-        "taking back from"
-      ],
+      "phrase": "off guard",
+      "type": "idiom",
+      "forms": [],
       "burmese": [
-        "ထံမှ ပြန်ယူသည်"
+        "သတိမထားမိချိန်မှာ",
+        "အလစ်အငိုက်မှာ"
       ]
     },
     {
@@ -2379,15 +2294,12 @@
       ]
     },
     {
-      "phrase": "work back through",
-      "type": "phrasal_verb",
-      "forms": [
-        "works back through",
-        "worked back through",
-        "working back through"
-      ],
+      "phrase": "off balance",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "နောက်ဆုံးကနေ ပြန်လည်စစ်ဆေးသည်"
+        "ဟန်ချက်ပျက်နေသည်",
+        "စိတ်မတည်မငြိမ် ဖြစ်နေသည်"
       ]
     },
     {
@@ -2443,15 +2355,11 @@
       ]
     },
     {
-      "phrase": "call round for",
-      "type": "phrasal_verb",
-      "forms": [
-        "calls round for",
-        "called round for",
-        "calling round for"
-      ],
+      "phrase": "off course",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "ကို လာယူဖို့ ခဏဝင်သည်"
+        "လမ်းကြောင်းလွဲနေသည်"
       ]
     },
     {
@@ -2513,15 +2421,11 @@
       ]
     },
     {
-      "phrase": "look on as",
-      "type": "phrasal_verb",
-      "forms": [
-        "looks on as",
-        "looked on as",
-        "looking on as"
-      ],
+      "phrase": "off duty",
+      "type": "expression",
+      "forms": [],
       "burmese": [
-        "အဖြစ် သတ်မှတ်မြင်သည်"
+        "တာဝန်ချိန်ပြင်ပမှာ"
       ]
     },
     {
