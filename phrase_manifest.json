@@ -24,5 +24,22 @@
     "expression": 880
   },
   "batchFilenamePattern": "PhraseBatches/phrase_batch_XXX.json",
-  "status": "complete"
+  "status": "complete",
+  "release": {
+    "version": "1.0.0",
+    "status": "frozen",
+    "sourceCommit": "a0d374f1fd1d6233b2ded6f98a17c877a88f0e08",
+    "artifact": "dist/phrases_v1.json",
+    "artifactSha256": "951a8bbe54824cf76728393791607798f878a062b19eca63e572278ba8f62926",
+    "canonicalPhrases": 3000,
+    "storedForms": 4827,
+    "burmeseMeanings": 4092,
+    "lookupKeys": 7827,
+    "typeCounts": {
+      "phrasal_verb": 1185,
+      "idiom": 935,
+      "expression": 880
+    },
+    "editorialReplacements": 96
+  }
 }
