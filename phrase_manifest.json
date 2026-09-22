@@ -12,16 +12,16 @@
     "path": "phrase_lookup/used_phrase_keys_current.zlib.b64",
     "encoding": "base64(zlib(utf8 newline-separated keys))",
     "throughBatch": 12,
-    "uniqueLookupKeys": 7943,
+    "uniqueLookupKeys": 7827,
     "canonicalPhrases": 3000,
-    "storedForms": 4943,
-    "sha256": "f0b80f38bf0baac2058f83cb7982c7956821b4d9a8fe88a471e41684b2f35c8e",
+    "storedForms": 4827,
+    "sha256": "1cf44c0c7f1c7968ca7dcf79ae4c61069bbbe4be7a60fed54c5ed81e36fa0807",
     "sha256Scope": "base64-trimmed"
   },
   "typeCounts": {
-    "phrasal_verb": 1220,
-    "idiom": 925,
-    "expression": 855
+    "phrasal_verb": 1185,
+    "idiom": 935,
+    "expression": 880
   },
   "batchFilenamePattern": "PhraseBatches/phrase_batch_XXX.json",
   "status": "complete"
