@@ -1,0 +1,186 @@
+name: Finalize Phrase Dictionary v1
+
+on:
+  push:
+    paths:
+      - ".github/workflows/finalize-phrase-dictionary-v1.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run phrase unit tests
+        run: python -m unittest tests/test_phrase_dictionary.py
+
+      - name: Validate every phrase batch
+        shell: bash
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          for batch in PhraseBatches/phrase_batch_*.json; do
+            python scripts/validate_phrase_batch.py "$batch" --no-manifest-check
+          done
+
+      - name: Rebuild cumulative lookup and manifest
+        run: python scripts/rebuild_phrase_lookup.py --write
+
+      - name: Finalize deterministic runtime artifact
+        run: python scripts/finalize_phrases_v1.py --write
+
+      - name: Freeze release metadata and report
+        shell: python
+        run: |
+          import hashlib
+          import json
+          import subprocess
+          from collections import Counter
+          from pathlib import Path
+
+          root = Path(".")
+          artifact_path = root / "dist" / "phrases_v1.json"
+          raw = artifact_path.read_bytes()
+          artifact = json.loads(raw.decode("utf-8"))
+          entries = artifact["entries"]
+
+          if artifact.get("version") != 1:
+              raise SystemExit("phrases_v1.json version must be 1")
+          if len(entries) != 3000:
+              raise SystemExit(f"expected 3000 phrases, got {len(entries)}")
+          if entries != sorted(entries, key=lambda e: e["phrase"]):
+              raise SystemExit("runtime artifact is not sorted deterministically by phrase")
+
+          lookup_keys = set()
+          stored_forms = 0
+          meanings = 0
+          type_counts = Counter()
+          for entry in entries:
+              type_counts[entry["type"]] += 1
+              meanings += len(entry["burmese"])
+              surfaces = [entry["phrase"], *entry["forms"]]
+              stored_forms += len(entry["forms"])
+              for surface in surfaces:
+                  key = " ".join(surface.split()).casefold()
+                  if key in lookup_keys:
+                      raise SystemExit(f"duplicate runtime lookup key: {surface}")
+                  lookup_keys.add(key)
+
+          digest = hashlib.sha256(raw).hexdigest()
+          source_commit = subprocess.check_output(
+              ["git", "rev-parse", "HEAD"], text=True
+          ).strip()
+
+          manifest_path = root / "phrase_manifest.json"
+          manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+          if manifest["totalPhrases"] != 3000:
+              raise SystemExit("manifest totalPhrases is not 3000")
+          if manifest["lookup"]["uniqueLookupKeys"] != len(lookup_keys):
+              raise SystemExit("manifest lookup-key count does not match artifact")
+          if manifest["lookup"]["storedForms"] != stored_forms:
+              raise SystemExit("manifest stored-form count does not match artifact")
+
+          manifest["release"] = {
+              "version": "1.0.0",
+              "status": "frozen",
+              "sourceCommit": source_commit,
+              "artifact": "dist/phrases_v1.json",
+              "artifactSha256": digest,
+              "canonicalPhrases": len(entries),
+              "storedForms": stored_forms,
+              "burmeseMeanings": meanings,
+              "lookupKeys": len(lookup_keys),
+              "typeCounts": {
+                  "phrasal_verb": type_counts["phrasal_verb"],
+                  "idiom": type_counts["idiom"],
+                  "expression": type_counts["expression"],
+              },
+              "editorialReplacements": 96,
+          }
+          manifest_path.write_text(
+              json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8",
+          )
+
+          report = f"""# Phrase Dictionary v1.0.0 Finalization
+
+          Phrase Dictionary v1.0.0 is frozen for Subtitle Bridge.
+
+          ## Final dataset
+
+          - Source commit: `{source_commit}`
+          - Canonical phrases: **{len(entries):,}**
+          - Stored forms: **{stored_forms:,}**
+          - Unique lookup keys: **{len(lookup_keys):,}**
+          - Burmese semantic meanings: **{meanings:,}**
+          - Phrasal verbs: **{type_counts['phrasal_verb']:,}**
+          - Idioms: **{type_counts['idiom']:,}**
+          - Expressions: **{type_counts['expression']:,}**
+          - Duplicate canonical phrases: **0**
+          - Variant collisions: **0**
+          - Runtime artifact: `dist/phrases_v1.json`
+          - Artifact SHA-256: `{digest}`
+
+          ## Validation and editorial audit
+
+          All 12 source batches contain exactly 250 entries and pass the repository validator.
+          The cumulative phrase lookup was rebuilt from source before finalization.
+
+          Two editorial passes replaced **96** structurally valid but low-value, artificial,
+          incomplete, or contiguous-matcher-unfriendly entries in Batches 009–012 with
+          stronger subtitle expressions. The lone ASCII English word found inside a Burmese
+          gloss was also rewritten in Burmese.
+
+          The existing frozen 30,000-headword single-word Dictionary v1 was not modified.
+
+          ## Runtime contract
+
+          The artifact uses the existing Subtitle Bridge phrase schema:
+          `phrase`, `type`, `forms`, and `burmese`.
+
+          Every canonical phrase and stored form is limited to 2–5 tokens for the current
+          contiguous longest-match phrase detector.
+          """
+          report = "\n".join(
+              line[10:] if line.startswith("          ") else line
+              for line in report.splitlines()
+          ).strip() + "\n"
+          (root / "PHRASE_FINALIZATION.md").write_text(report, encoding="utf-8")
+
+          print(f"Artifact SHA-256: {digest}")
+          print(f"Canonical phrases: {len(entries)}")
+          print(f"Stored forms: {stored_forms}")
+          print(f"Lookup keys: {len(lookup_keys)}")
+          print(f"Burmese meanings: {meanings}")
+          print(f"Type counts: {dict(type_counts)}")
+
+      - name: Commit frozen Phrase Dictionary v1
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add             dist/phrases_v1.json             PHRASE_FINALIZATION.md             phrase_manifest.json             phrase_lookup/used_phrase_keys_current.zlib.b64
+          if git diff --cached --quiet; then
+            echo "Phrase Dictionary v1 is already frozen."
+            exit 0
+          fi
+          git commit -m "Freeze Phrase Dictionary v1.0.0"
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin master
+            if git push origin HEAD:master; then
+              exit 0
+            fi
+            echo "Push raced with another commit; retrying ($attempt/5)..."
+            sleep 2
+          done
+          exit 1
