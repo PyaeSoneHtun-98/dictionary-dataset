@@ -38,7 +38,7 @@ jobs:
       - name: Commit plain lookup mirror
         shell: bash
         run: |
-          if git diff --quiet -- extension_lookup/base_v1_keys.txt; then
+          if ! git status --porcelain -- extension_lookup/base_v1_keys.txt | grep -q .; then
             echo "Plain lookup mirror already current."
             exit 0
           fi
