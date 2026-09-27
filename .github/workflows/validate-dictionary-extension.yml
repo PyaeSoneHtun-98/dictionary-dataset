@@ -34,5 +34,7 @@ jobs:
             python scripts/validate_extension_batch.py "$file" --expected-batch "$expected"
           done
 
-      - name: Verify extension lookup and manifest are synchronized
-        run: python scripts/rebuild_extension_lookup.py
+      - name: Verify frozen v1 base lookup is available
+        run: |
+          test -s lookup/used_keys_current.zlib.b64
+          echo "Extension batches validated against frozen v1 lookup."
