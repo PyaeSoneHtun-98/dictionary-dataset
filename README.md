@@ -29,13 +29,28 @@ The repository now contains the complete Version 1 source dataset: Batches 001â€
 
 The 60 files under `Batches/` remain the source dataset. The frozen artifact is generated deterministically from those batches.
 
+
+## Active dictionary extension
+
+Dictionary v1.0.0 remains frozen and unchanged. New single-word vocabulary continues separately from **Batch 061** in `DictionaryExtensionBatches/`.
+
+- Active manifest: `dictionary_extension_manifest.json`
+- Next batch: **061**
+- Batch size: **500 headwords**
+- Extension lookup: `extension_lookup/used_keys_current.zlib.b64`
+- The extension exclusion namespace starts with all **45,817** frozen v1 lookup keys, so new headwords/forms cannot duplicate the released 30k corpus.
+- No new extension batch modifies `Batches/`, `lookup/`, `dictionary_manifest.json`, or `dist/dictionary_v1.json`.
+
 ## Layout
 
 ```text
 AGENTS.md                     permanent generation rules
 dictionary_manifest.json      project progress / next batch
 Batches/                      generated batch JSON files
-lookup/                       prior lookup-key indexes
+lookup/                       frozen v1 lookup-key index
+DictionaryExtensionBatches/   Batch 061+ source files (created as batches are added)
+dictionary_extension_manifest.json  active extension progress
+extension_lookup/             v1 + extension cumulative lookup index
 scripts/                      validation and index utilities
 ```
 
