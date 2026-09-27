@@ -2,7 +2,7 @@
 
 This file is the authoritative instruction set for generating and maintaining the English → Burmese Subtitle Bridge dictionary dataset.
 
-## Project objective
+## Frozen Dictionary v1 objective
 
 Create **30,000 unique English headwords** in **60 batches**, with **exactly 500 entries per batch**.
 
@@ -10,9 +10,11 @@ The dictionary is for a Windows movie/subtitle application. A user clicks an unf
 
 The Burmese translation quality is the highest priority.
 
-## Automatic batch workflow
+## Frozen v1 batch workflow (historical)
 
-When the user says `next batch`:
+This workflow describes how Batches 001–060 were produced. **Do not use it for new single-word batches after the v1.0.0 freeze.**
+
+When generating the historical v1 batches, `next batch` meant:
 
 1. Read `dictionary_manifest.json`.
 2. Use its `nextBatch` value. Never ask for the batch number if the manifest resolves it.
@@ -207,6 +209,64 @@ Every batch must satisfy all of the following:
 Batches 001–023 were generated before this repository workflow was initialized. Their complete lookup keys are represented in the cumulative lookup index. Batch 024 onward should be committed directly under `Batches/`.
 
 If historical batch JSON files are later mirrored into the repo, do not alter their data merely to make them fit a new generation rule; validate and document any corrections explicitly.
+
+---
+
+# Single-word Dictionary Extension — active continuation after v1.0.0
+
+Dictionary v1.0.0 is frozen at **30,000 headwords / 60 batches**. New single-word vocabulary continues in a separate extension layer beginning with **Batch 061**.
+
+## Frozen assets — never modify for extension work
+
+Do not alter, regenerate, reorganize, or rebuild new extension data into:
+
+- `Batches/`
+- `lookup/`
+- `dictionary_manifest.json`
+- `dist/dictionary_v1.json`
+- `FINALIZATION.md`
+
+Those files remain the immutable Dictionary v1.0.0 release source/artifact.
+
+## Extension state
+
+Use:
+
+- `dictionary_extension_manifest.json` — active progress / next batch
+- `DictionaryExtensionBatches/dictionary_batch_XXX.json` — Batch 061 onward
+- `extension_lookup/used_keys_current.zlib.b64` — cumulative exclusion namespace containing frozen v1 keys plus extension keys
+- `scripts/validate_extension_batch.py` — extension batch validator
+- `scripts/rebuild_extension_lookup.py` — deterministic extension lookup/manifest rebuild
+
+The extension is intentionally open-ended until a later total-headword target is chosen. Keep **exactly 500 entries per batch**.
+
+## Automatic extension workflow
+
+When the active task is the single-word dictionary extension and the user says `next batch`:
+
+1. Read `dictionary_extension_manifest.json`.
+2. Use its `nextBatch`; never ask for the batch number when the manifest resolves it.
+3. Treat **every frozen v1 headword/form plus every earlier extension headword/form as excluded**.
+4. Build a candidate pool larger than 500 and prioritize genuine subtitle usefulness over obscure dictionary coverage.
+5. Curate exactly 500 new canonical single-word English headwords.
+6. Use the same entry schema, General American IPA rules, forms rules, POS list, Burmese quality standard, and max-three-meaning rule as Dictionary v1.
+7. Run `python scripts/validate_extension_batch.py DictionaryExtensionBatches/dictionary_batch_XXX.json --expected-batch XXX`.
+8. Commit the validated batch as `DictionaryExtensionBatches/dictionary_batch_XXX.json`.
+9. Rebuild/sync with `python scripts/rebuild_extension_lookup.py --write` or let the `Sync Dictionary Extension` workflow do it automatically.
+10. Confirm `dictionary_extension_manifest.json` advanced to the next batch and report entry/form/lookup totals.
+
+Use direct commits unless the user explicitly requests a pull request workflow.
+
+## Extension vocabulary policy
+
+All original single-word quality rules remain in force. In addition:
+
+- Do not add obscure words merely because the first 30,000 already cover common vocabulary.
+- Prefer missing words that realistically appear in films, TV, novels, news, documentaries, conversation, crime/legal/security contexts, medicine/science, technology, business, emotion, relationships, and modern descriptive language.
+- Reject a proposed headword if it already exists as **either a frozen v1 lookup key or any earlier extension lookup key**.
+- Quality is more important than racing toward a new round-number total.
+
+The extension validator reconstructs prior ownership from the frozen base lookup plus earlier extension batches, so validation does not depend solely on a mutable current index.
 
 ---
 
