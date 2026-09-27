@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "project": "Subtitle Bridge English-Burmese Dictionary Extension",
+  "baseRelease": {
+    "version": "1.0.0",
+    "artifact": "dist/dictionary_v1.json",
+    "artifactSha256": "fcdb26986ed62bfaa130732ed0e88cc2e30bbc7f964b4b16de47f809783ed325",
+    "headwords": 30000,
+    "storedForms": 15864,
+    "lookupKeys": 45817
+  },
+  "entriesPerBatch": 500,
+  "latestBatch": 60,
+  "nextBatch": 61,
+  "extensionBatchCount": 0,
+  "extensionHeadwords": 0,
+  "totalHeadwords": 30000,
+  "batchFilenamePattern": "DictionaryExtensionBatches/dictionary_batch_XXX.json",
+  "lookup": {
+    "path": "extension_lookup/used_keys_current.zlib.b64",
+    "encoding": "base64(zlib(utf8 newline-separated keys))",
+    "baseLookup": "lookup/used_keys_current.zlib.b64",
+    "throughBatch": 60,
+    "uniqueLookupKeys": 45817,
+    "uniqueHeadwords": 30000,
+    "uniqueStoredForms": 15864,
+    "sha256": "cc0e5f6e5c8e0825a961b29de689051c15ac370e7328653fcf8a0075c0859917",
+    "sha256Scope": "base64-trimmed"
+  },
+  "status": "in_progress"
+}
