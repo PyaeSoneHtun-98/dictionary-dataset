@@ -1,0 +1,60 @@
+name: Sync Dictionary Extension
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "DictionaryExtensionBatches/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout dataset
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Validate extension batches
+        shell: bash
+        run: |
+          shopt -s nullglob
+          files=(DictionaryExtensionBatches/dictionary_batch_*.json)
+          for file in "${files[@]}"; do
+            number="${file##*_}"
+            number="${number%.json}"
+            expected=$((10#$number))
+            python scripts/validate_extension_batch.py "$file" --expected-batch "$expected"
+          done
+
+      - name: Rebuild extension lookup and manifest
+        run: python scripts/rebuild_extension_lookup.py --write
+
+      - name: Commit synchronized extension state
+        shell: bash
+        run: |
+          if git diff --quiet -- dictionary_extension_manifest.json extension_lookup/used_keys_current.zlib.b64; then
+            echo "Extension state already synchronized."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dictionary_extension_manifest.json extension_lookup/used_keys_current.zlib.b64
+          git commit -m "Sync dictionary extension state"
+
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin master
+            if git push origin HEAD:master; then
+              exit 0
+            fi
+            echo "Push raced with another commit; retrying ($attempt/5)..."
+            sleep 2
+          done
+
+          echo "Unable to push extension state after retries."
+          exit 1
