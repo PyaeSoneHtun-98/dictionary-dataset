@@ -1,0 +1,51 @@
+name: Materialize Frozen v1 Lookup
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/materialize-v1-lookup.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  materialize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout dataset
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Decode frozen v1 lookup
+        run: |
+          python - <<'PY'
+          import base64, zlib
+          from pathlib import Path
+
+          source = Path("lookup/used_keys_current.zlib.b64")
+          target = Path("extension_lookup/base_v1_keys.txt")
+          encoded = source.read_text(encoding="ascii").strip()
+          logical = zlib.decompress(base64.b64decode(encoded)).decode("utf-8")
+          keys = sorted({line.strip().casefold() for line in logical.splitlines() if line.strip()})
+          target.parent.mkdir(parents=True, exist_ok=True)
+          target.write_text("\n".join(keys) + "\n", encoding="utf-8")
+          print(f"wrote {len(keys)} frozen v1 lookup keys")
+          PY
+
+      - name: Commit plain lookup mirror
+        shell: bash
+        run: |
+          if git diff --quiet -- extension_lookup/base_v1_keys.txt; then
+            echo "Plain lookup mirror already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add extension_lookup/base_v1_keys.txt
+          git commit -m "Materialize frozen v1 lookup keys"
+          git pull --rebase origin master
+          git push origin HEAD:master
