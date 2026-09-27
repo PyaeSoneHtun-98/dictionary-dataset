@@ -1,0 +1,38 @@
+name: Validate Dictionary Extension
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "DictionaryExtensionBatches/**"
+      - "dictionary_extension_manifest.json"
+      - "extension_lookup/**"
+      - "scripts/validate_extension_batch.py"
+      - "scripts/rebuild_extension_lookup.py"
+      - ".github/workflows/validate-dictionary-extension.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout dataset
+        uses: actions/checkout@v4
+
+      - name: Validate extension batches
+        shell: bash
+        run: |
+          shopt -s nullglob
+          files=(DictionaryExtensionBatches/dictionary_batch_*.json)
+          for file in "${files[@]}"; do
+            number="${file##*_}"
+            number="${number%.json}"
+            expected=$((10#$number))
+            python scripts/validate_extension_batch.py "$file" --expected-batch "$expected"
+          done
+
+      - name: Verify extension lookup and manifest are synchronized
+        run: python scripts/rebuild_extension_lookup.py
