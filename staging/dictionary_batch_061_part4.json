@@ -1,0 +1,1408 @@
+[
+  {
+    "word": "startup",
+    "pronunciation": "/ˈstɑːrtˌʌp/",
+    "forms": [
+      "startups"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အသစ်စတင်တည်ထောင်ထားသော လုပ်ငန်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "incubator",
+    "pronunciation": "/ˈɪŋkjəˌbeɪtɚ/",
+    "forms": [
+      "incubators"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "လုပ်ငန်းအသစ်များကို အရင်းအမြစ်နှင့် အကြံပေးမှု ပံ့ပိုးသည့် အဖွဲ့"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "accelerator",
+    "pronunciation": "/ækˈsɛləˌreɪtɚ/",
+    "forms": [
+      "accelerators"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "လုပ်ငန်းအသစ်ကို အမြန်တိုးတက်အောင် ပံ့ပိုးသည့် အစီအစဉ်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "crowdfund",
+    "pronunciation": "/ˈkraʊdˌfʌnd/",
+    "forms": [
+      "crowdfunds",
+      "crowdfunded",
+      "crowdfunding"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "burmese": [
+          "လူအများထံမှ ငွေအနည်းငယ်စီ စုဆောင်း၍ ရန်ပုံငွေရှာသည်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "monetize",
+    "pronunciation": "/ˈmɑːnəˌtaɪz/",
+    "forms": [
+      "monetizes",
+      "monetized",
+      "monetizing"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "burmese": [
+          "အရာတစ်ခုကို ဝင်ငွေရအောင် ပြောင်းလဲသည်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "scalability",
+    "pronunciation": "/ˌskeɪləˈbɪləti/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "လိုအပ်ချက်ကြီးလာသလို စနစ်ကို တိုးချဲ့နိုင်စွမ်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "insourcing",
+    "pronunciation": "/ˈɪnˌsɔːrsɪŋ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ပြင်ပမအပ်ဘဲ အဖွဲ့အစည်းအတွင်း ပြန်လုပ်ခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "downsizing",
+    "pronunciation": "/ˈdaʊnˌsaɪzɪŋ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ကုမ္ပဏီအရွယ် သို့မဟုတ် ဝန်ထမ်းအရေအတွက် လျှော့ချခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "layoff",
+    "pronunciation": "/ˈleɪˌɔːf/",
+    "forms": [
+      "layoffs"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အလုပ်မရှိခြင်း သို့မဟုတ် ကုန်ကျစရိတ်လျှော့ရန် ဝန်ထမ်းဖြုတ်ခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "redundancy",
+    "pronunciation": "/rɪˈdʌndənsi/",
+    "forms": [
+      "redundancies"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အလုပ်ရာထူး မလိုအပ်တော့ခြင်းကြောင့် အလုပ်ဆုံးရှုံးမှု"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "severance",
+    "pronunciation": "/ˈsɛvərəns/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အလုပ်ရပ်စဲချိန် ပေးသည့် လျော်ကြေး သို့မဟုတ် ခွဲခွာမှု"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "onboarding",
+    "pronunciation": "/ˈɑːnˌbɔːrdɪŋ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဝန်ထမ်းအသစ်ကို အလုပ်နှင့် စနစ်များ မိတ်ဆက်ပေးသည့် လုပ်ငန်းစဉ်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "stakeholder",
+    "pronunciation": "/ˈsteɪkˌhoʊldɚ/",
+    "forms": [
+      "stakeholders"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "လုပ်ငန်းတစ်ခု၏ ရလဒ်အပေါ် အကျိုးစီးပွားရှိသူ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shareholder",
+    "pronunciation": "/ˈʃɛrˌhoʊldɚ/",
+    "forms": [
+      "shareholders"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ကုမ္ပဏီရှယ်ယာ ပိုင်ဆိုင်သူ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "valuation",
+    "pronunciation": "/ˌvæljuˈeɪʃən/",
+    "forms": [
+      "valuations"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "လုပ်ငန်း သို့မဟုတ် ပိုင်ဆိုင်မှု၏ တန်ဖိုးသတ်မှတ်ချက်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "acquisition",
+    "pronunciation": "/ˌækwəˈzɪʃən/",
+    "forms": [
+      "acquisitions"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ကုမ္ပဏီ သို့မဟုတ် ပိုင်ဆိုင်မှု ဝယ်ယူရယူခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "buyout",
+    "pronunciation": "/ˈbaɪˌaʊt/",
+    "forms": [
+      "buyouts"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ကုမ္ပဏီ သို့မဟုတ် ရှယ်ယာပိုင်ဆိုင်မှုကို အပြည့်အဝ ဝယ်ယူခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "spinoff",
+    "pronunciation": "/ˈspɪnˌɔːf/",
+    "forms": [
+      "spinoffs"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "မူလလုပ်ငန်းမှ ခွဲထွက်တည်ထောင်သည့် လုပ်ငန်း သို့မဟုတ် ဆက်လက်ဖန်တီးထားသည့် ဇာတ်လမ်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "licensor",
+    "pronunciation": "/ˈlaɪsənsɚ/",
+    "forms": [
+      "licensors"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အသုံးပြုခွင့် လိုင်စင်ပေးသူ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "licensee",
+    "pronunciation": "/ˌlaɪsənˈsiː/",
+    "forms": [
+      "licensees"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အသုံးပြုခွင့် လိုင်စင်ရသူ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "noncompliant",
+    "pronunciation": "/ˌnɑːnkəmˈplaɪənt/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "စည်းမျဉ်း သို့မဟုတ် သတ်မှတ်ချက် မလိုက်နာသော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "deregulation",
+    "pronunciation": "/diːˌrɛɡjəˈleɪʃən/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အစိုးရစည်းမျဉ်းများ လျှော့ချခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "metric",
+    "pronunciation": "/ˈmɛtrɪk/",
+    "forms": [
+      "metrics"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "စွမ်းဆောင်ရည် တိုင်းတာသည့် အချက်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "forecasting",
+    "pronunciation": "/ˈfɔːrˌkæstɪŋ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အနာဂတ်ရလဒ်ကို ဒေတာအပေါ်မူတည် ခန့်မှန်းခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "projection",
+    "pronunciation": "/prəˈdʒɛkʃən/",
+    "forms": [
+      "projections"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အနာဂတ်ပမာဏ ခန့်မှန်းချက်",
+          "ပုံရိပ်တင်ပြမှု"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "backlog",
+    "pronunciation": "/ˈbækˌlɔːɡ/",
+    "forms": [
+      "backlogs"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "မပြီးသေးဘဲ စုပုံကျန်နေသော အလုပ်များ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "workflow",
+    "pronunciation": "/ˈwɝːkˌfloʊ/",
+    "forms": [
+      "workflows"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အလုပ်တစ်ခု ပြီးမြောက်အောင် လုပ်ဆောင်သည့် အဆင့်စဉ်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "heatwave",
+    "pronunciation": "/ˈhiːtˌweɪv/",
+    "forms": [
+      "heatwaves"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အပူချိန်အလွန်မြင့်သော ရက်များဆက်တိုက်ကာလ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "megafire",
+    "pronunciation": "/ˈmɛɡəˌfaɪɚ/",
+    "forms": [
+      "megafires"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အလွန်ကျယ်ပြန့်ပြင်းထန်သော တောမီး"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "floodplain",
+    "pronunciation": "/ˈflʌdˌpleɪn/",
+    "forms": [
+      "floodplains"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ရေကြီးလွယ်သော မြစ်ဘေးမြေပြန့်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "flashflood",
+    "pronunciation": "/ˈflæʃˌflʌd/",
+    "forms": [
+      "flashfloods"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ရုတ်တရက် လျင်မြန်စွာ ဖြစ်ပေါ်သော ရေကြီးမှု"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mudslide",
+    "pronunciation": "/ˈmʌdˌslaɪd/",
+    "forms": [
+      "mudslides"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ရွှံ့မြေ အစုလိုက် အောက်သို့ လျှောကျမှု"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sinkhole",
+    "pronunciation": "/ˈsɪŋkˌhoʊl/",
+    "forms": [
+      "sinkholes"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "မြေပြင်ပြိုကျပြီး ဖြစ်ပေါ်သော အပေါက်ကြီး"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "stormsurge",
+    "pronunciation": "/ˈstɔːrmˌsɝːdʒ/",
+    "forms": [
+      "stormsurges"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "မုန်တိုင်းကြောင့် ပင်လယ်ရေ ရုတ်တရက် မြင့်တက်မှု"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "carbonneutral",
+    "pronunciation": "/ˌkɑːrbənˈnuːtrəl/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "ထုတ်လွှတ်သည့် ကာဗွန်ပမာဏကို အပြည့်အဝ ပြန်လည်ချိန်ညှိထားသော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "decarbonize",
+    "pronunciation": "/diːˈkɑːrbəˌnaɪz/",
+    "forms": [
+      "decarbonizes",
+      "decarbonized",
+      "decarbonizing"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "burmese": [
+          "ကာဗွန်ထုတ်လွှတ်မှုကို လျှော့ချသည်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "decarbonization",
+    "pronunciation": "/diːˌkɑːrbənəˈzeɪʃən/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ကာဗွန်ထုတ်လွှတ်မှု လျှော့ချသည့် လုပ်ငန်းစဉ်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "windfarm",
+    "pronunciation": "/ˈwɪndˌfɑːrm/",
+    "forms": [
+      "windfarms"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "လေစွမ်းအင်ထုတ်လုပ်သည့် လေတာဘိုင်အစုအဝေး"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hydropower",
+    "pronunciation": "/ˈhaɪdroʊˌpaʊɚ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ရေစီးအားဖြင့် ထုတ်လုပ်သည့် လျှပ်စစ်စွမ်းအင်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "biofuel",
+    "pronunciation": "/ˈbaɪoʊˌfjuːəl/",
+    "forms": [
+      "biofuels"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အပင် သို့မဟုတ် ဇီဝပစ္စည်းမှ ထုတ်လုပ်သည့် လောင်စာ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "compostable",
+    "pronunciation": "/kəmˈpoʊstəbəl/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "မြေဆွေးအဖြစ် ပျက်စီးပြောင်းလဲနိုင်သော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "microplastic",
+    "pronunciation": "/ˌmaɪkroʊˈplæstɪk/",
+    "forms": [
+      "microplastics"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အလွန်သေးငယ်သော ပလတ်စတစ်အမှုန်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "contaminant",
+    "pronunciation": "/kənˈtæmənənt/",
+    "forms": [
+      "contaminants"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အရာတစ်ခုကို ညစ်ညမ်းစေသည့် ပစ္စည်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "toxicology",
+    "pronunciation": "/ˌtɑːksəˈkɑːlədʒi/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အဆိပ်နှင့် ကိုယ်ခန္ဓာအပေါ် သက်ရောက်မှုကို လေ့လာသည့် ပညာ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "herbicide",
+    "pronunciation": "/ˈhɝːbəˌsaɪd/",
+    "forms": [
+      "herbicides"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ပေါင်းပင်သတ်ဆေး"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "insecticide",
+    "pronunciation": "/ɪnˈsɛktəˌsaɪd/",
+    "forms": [
+      "insecticides"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ပိုးသတ်ဆေး"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "biodiversity",
+    "pronunciation": "/ˌbaɪoʊdaɪˈvɝːsəti/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "သက်ရှိမျိုးစိတ် အမျိုးမျိုးကွဲပြားမှု"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "reforestation",
+    "pronunciation": "/riːˌfɔːrəˈsteɪʃən/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "တောပျက်နေရာတွင် သစ်တော ပြန်လည်စိုက်ပျိုးခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "afforestation",
+    "pronunciation": "/əˌfɔːrəˈsteɪʃən/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "တောမရှိခဲ့သည့်နေရာတွင် သစ်တောအသစ် စိုက်ပျိုးခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "conservationist",
+    "pronunciation": "/ˌkɑːnsɚˈveɪʃənɪst/",
+    "forms": [
+      "conservationists"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "သဘာဝနှင့် တောရိုင်းတိရစ္ဆာန် ထိန်းသိမ်းရေး လုပ်သူ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "poacher",
+    "pronunciation": "/ˈpoʊtʃɚ/",
+    "forms": [
+      "poachers"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "တောရိုင်းတိရစ္ဆာန်ကို တရားမဝင် ဖမ်းဆီးသတ်ဖြတ်သူ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "overfishing",
+    "pronunciation": "/ˌoʊvɚˈfɪʃɪŋ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ငါးအလွန်အကျွံ ဖမ်းခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aquaculture",
+    "pronunciation": "/ˈækwəˌkʌltʃɚ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ငါးနှင့် ရေသတ္တဝါ စိုက်ပျိုးမွေးမြူရေး"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "permafrost",
+    "pronunciation": "/ˈpɝːməˌfrɔːst/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "နှစ်ရှည်လုံးဝ အေးခဲနေသော မြေသား"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "seaice",
+    "pronunciation": "/ˈsiːˌaɪs/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ပင်လယ်ရေ အေးခဲဖြစ်ပေါ်သည့် ရေခဲ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "genomic",
+    "pronunciation": "/dʒəˈnoʊmɪk/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "မျိုးရိုးဗီဇစုစုပေါင်းနှင့် သက်ဆိုင်သော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "genomics",
+    "pronunciation": "/dʒəˈnoʊmɪks/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "မျိုးရိုးဗီဇစုစုပေါင်းကို လေ့လာသည့် ပညာ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "geneediting",
+    "pronunciation": "/ˈdʒiːnˌɛdɪtɪŋ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "မျိုးရိုးဗီဇကို ရည်ရွယ်ချက်ရှိစွာ ပြင်ဆင်ခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "neurotransmitter",
+    "pronunciation": "/ˌnʊroʊtrænzˈmɪtɚ/",
+    "forms": [
+      "neurotransmitters"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အာရုံကြောဆဲလ်များကြား သတင်းပို့သည့် ဓာတုပစ္စည်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dopamine",
+    "pronunciation": "/ˈdoʊpəˌmiːn/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဦးနှောက်တွင် လှုပ်ရှားမှု၊ ဆုလာဘ်ခံစားမှုတို့နှင့် ဆိုင်သော ဓာတုပစ္စည်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "serotonin",
+    "pronunciation": "/ˌsɛrəˈtoʊnɪn/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "စိတ်ခံစားမှုနှင့် အိပ်စက်မှုတို့ကို သက်ရောက်စေသော ဓာတုပစ္စည်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cortisol",
+    "pronunciation": "/ˈkɔːrtəˌsɔːl/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "စိတ်ဖိစီးမှုတုံ့ပြန်မှုနှင့် ဆိုင်သော ဟော်မုန်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "stemcell",
+    "pronunciation": "/ˈstɛmˌsɛl/",
+    "forms": [
+      "stemcells"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဆဲလ်အမျိုးမျိုးအဖြစ် ပြောင်းလဲနိုင်သော မူလဆဲလ်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "postnatal",
+    "pronunciation": "/poʊstˈneɪtəl/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "ကလေးမွေးပြီးနောက် ကာလနှင့် ဆိုင်သော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "neonatal",
+    "pronunciation": "/ˌniːoʊˈneɪtəl/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "မွေးကင်းစကလေးကာလနှင့် ဆိုင်သော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "epidemiologist",
+    "pronunciation": "/ˌɛpəˌdiːmiˈɑːlədʒɪst/",
+    "forms": [
+      "epidemiologists"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ရောဂါပြန့်ပွားပုံကို လေ့လာသည့် အထူးပညာရှင်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zoonotic",
+    "pronunciation": "/ˌzoʊəˈnɑːtɪk/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "တိရစ္ဆာန်မှ လူသို့ ကူးစက်နိုင်သော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "transmissible",
+    "pronunciation": "/trænzˈmɪsəbəl/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "တစ်ဦးမှ တစ်ဦးသို့ ကူးစက်နိုင်သော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "immunize",
+    "pronunciation": "/ˈɪmjəˌnaɪz/",
+    "forms": [
+      "immunizes",
+      "immunized",
+      "immunizing"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "burmese": [
+          "ကာကွယ်ဆေးဖြင့် ကိုယ်ခံအား ဖြစ်စေသည်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "quantumcomputing",
+    "pronunciation": "/ˈkwɑːntəm kəmˌpjuːtɪŋ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ကွမ်တမ်သဘောတရားကို အသုံးပြုသည့် တွက်ချက်နည်းပညာ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nanotech",
+    "pronunciation": "/ˈnænoʊˌtɛk/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အလွန်သေးငယ်သော အရွယ်အစားအဆင့်တွင် အသုံးချသည့် နည်းပညာ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "semiconductor",
+    "pronunciation": "/ˌsɛmɪkənˈdʌktɚ/",
+    "forms": [
+      "semiconductors"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "လျှပ်စစ်စီးဆင်းမှုကို ထိန်းညှိနိုင်သော ပစ္စည်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "microchip",
+    "pronunciation": "/ˈmaɪkroʊˌtʃɪp/",
+    "forms": [
+      "microchips"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အလွန်သေးငယ်သော အီလက်ထရွန်နစ် ဆားကစ်ပြား"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "chipset",
+    "pronunciation": "/ˈtʃɪpˌsɛt/",
+    "forms": [
+      "chipsets"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ကွန်ပျူတာလုပ်ဆောင်မှုကို ထိန်းညှိသော ချစ်ပ်အစု"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "machinelearning",
+    "pronunciation": "/məˈʃiːnˌlɝːnɪŋ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဒေတာမှ ပုံစံများကို သင်ယူစေသည့် ကွန်ပျူတာနည်းပညာ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "neuralnetwork",
+    "pronunciation": "/ˈnʊrəlˌnɛtˌwɝːk/",
+    "forms": [
+      "neuralnetworks"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဦးနှောက်ဆဲလ်ဆက်သွယ်ပုံကို တုပ၍ သင်ယူသည့် ကွန်ပျူတာပုံစံ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lidar",
+    "pronunciation": "/ˈlaɪˌdɑːr/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "လေဆာအလင်းဖြင့် အကွာအဝေးနှင့် ပုံသဏ္ဌာန် တိုင်းတာသည့် နည်းပညာ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "exoplanet",
+    "pronunciation": "/ˈɛksoʊˌplænət/",
+    "forms": [
+      "exoplanets"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "နေရောင်စနစ်ပြင်ပရှိ ဂြိုဟ်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "blackhole",
+    "pronunciation": "/ˈblækˌhoʊl/",
+    "forms": [
+      "blackholes"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အလင်းတောင် မလွတ်နိုင်အောင် ဆွဲငင်အားပြင်းသော အာကာသဒေသ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "supernova",
+    "pronunciation": "/ˌsuːpɚˈnoʊvə/",
+    "forms": [
+      "supernovas"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ကြယ်တစ်လုံး၏ အလွန်ကြီးမားသော ပေါက်ကွဲမှု"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "astrophysics",
+    "pronunciation": "/ˌæstroʊˈfɪzɪks/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ကြယ်နှင့် အာကာသအရာများ၏ ရုပ်ပိုင်းဆိုင်ရာကို လေ့လာသည့် ပညာ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "launchpad",
+    "pronunciation": "/ˈlɔːntʃˌpæd/",
+    "forms": [
+      "launchpads"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဒုံးပျံလွှတ်တင်သည့် စင် သို့မဟုတ် နေရာ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "payload",
+    "pronunciation": "/ˈpeɪˌloʊd/",
+    "forms": [
+      "payloads"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ယာဉ် သို့မဟုတ် ဒုံးပျံက သယ်ဆောင်သည့် အသုံးဝင်ပစ္စည်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "thruster",
+    "pronunciation": "/ˈθrʌstɚ/",
+    "forms": [
+      "thrusters"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ယာဉ် သို့မဟုတ် အာကာသယာဉ်ကို တွန်းအားပေးသည့် အင်ဂျင်ငယ်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "robotics",
+    "pronunciation": "/roʊˈbɑːtɪks/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "စက်ရုပ် ဒီဇိုင်း၊ တည်ဆောက်မှုနှင့် ထိန်းချုပ်မှု ပညာရပ်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "autonomous",
+    "pronunciation": "/ɔːˈtɑːnəməs/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "လူတိုက်ရိုက်မထိန်းဘဲ ကိုယ်တိုင် လုပ်ဆောင်နိုင်သော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sensor",
+    "pronunciation": "/ˈsɛnsɚ/",
+    "forms": [
+      "sensors"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အပူ၊ လှုပ်ရှားမှု စသည့် အခြေအနေကို ခံယူတိုင်းတာသည့် ကိရိယာ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "serverfarm",
+    "pronunciation": "/ˈsɝːvɚˌfɑːrm/",
+    "forms": [
+      "serverfarms"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဆာဗာကွန်ပျူတာများ အများအပြား စုထားသော နေရာ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cloudnative",
+    "pronunciation": "/ˈklaʊdˌneɪtɪv/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "ကလောက်ပတ်ဝန်းကျင်အတွက် မူလကတည်းက ဒီဇိုင်းပြုလုပ်ထားသော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "decarbonized",
+    "pronunciation": "/diːˈkɑːrbəˌnaɪzd/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "ကာဗွန်ထုတ်လွှတ်မှု လျှော့ချထားသော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "recyclability",
+    "pronunciation": "/riːˌsaɪkləˈbɪləti/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ပြန်လည်အသုံးချနိုင်စွမ်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "greenwashing",
+    "pronunciation": "/ˈɡriːnˌwɑːʃɪŋ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အမှန်တကယ်မဟုတ်ဘဲ ပတ်ဝန်းကျင်ကောင်းကျိုးလုပ်သလို ပုံဖော်ကြော်ငြာခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "upcycling",
+    "pronunciation": "/ˈʌpˌsaɪklɪŋ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "စွန့်ပစ်ပစ္စည်းကို တန်ဖိုးပိုမြင့်သော ပစ္စည်းအဖြစ် ပြန်လုပ်ခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "downcycling",
+    "pronunciation": "/ˈdaʊnˌsaɪklɪŋ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "စွန့်ပစ်ပစ္စည်းကို တန်ဖိုးနည်းသော်လည်း အသုံးဝင်သည့် ပစ္စည်းအဖြစ် ပြန်လုပ်ခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "biosecurity",
+    "pronunciation": "/ˌbaɪoʊsɪˈkjʊrəti/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ကူးစက်ရောဂါ သို့မဟုတ် အန္တရာယ်ရှိ ဇီဝပစ္စည်း ပြန့်ပွားမှု တားဆီးရေး"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "telemedicine",
+    "pronunciation": "/ˌtɛləˈmɛdəsən/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အဝေးမှ ဆက်သွယ်ရေးနည်းပညာဖြင့် ဆေးကုသပေးခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wearable",
+    "pronunciation": "/ˈwɛrəbəl/",
+    "forms": [
+      "wearables"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ကိုယ်ပေါ်ဝတ်ဆင်သုံးနိုင်သော စမတ်ကိရိယာ"
+        ]
+      },
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "ဝတ်ဆင်နိုင်သော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "contactless",
+    "pronunciation": "/ˈkɑːntæktləs/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "ထိတွေ့စရာမလိုဘဲ လုပ်ဆောင်နိုင်သော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cashless",
+    "pronunciation": "/ˈkæʃləs/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "ငွေသားမသုံးသော"
+        ]
+      }
+    ]
+  }
+]
