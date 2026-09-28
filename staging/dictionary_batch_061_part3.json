@@ -1,0 +1,1408 @@
+[
+  {
+    "word": "speedrunner",
+    "pronunciation": "/ˈspidˌrʌnɚ/",
+    "forms": [
+      "speedrunners"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဂိမ်းကို အမြန်ဆုံးပြီးအောင် ကစားယှဉ်ပြိုင်သူ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "playthrough",
+    "pronunciation": "/ˈpleɪˌθru/",
+    "forms": [
+      "playthroughs"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဂိမ်းတစ်ခုကို အစကနေ အဆုံးထိ ကစားပြထားတဲ့ မှတ်တမ်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "walkthrough",
+    "pronunciation": "/ˈwɔkˌθru/",
+    "forms": [
+      "walkthroughs"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဂိမ်း သို့မဟုတ် လုပ်ငန်းတစ်ခုကို အဆင့်ဆင့် လမ်းညွှန်ချက်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "modding",
+    "pronunciation": "/ˈmɑdɪŋ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဂိမ်း သို့မဟုတ် ဆော့ဖ်ဝဲကို အသုံးပြုသူဘက်က ပြင်ဆင်တိုးချဲ့ခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "modder",
+    "pronunciation": "/ˈmɑdɚ/",
+    "forms": [
+      "modders"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဂိမ်း သို့မဟုတ် ဆော့ဖ်ဝဲကို ပြင်ဆင်တိုးချဲ့သူ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hotfix",
+    "pronunciation": "/ˈhɑtˌfɪks/",
+    "forms": [
+      "hotfixes"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အရေးပေါ်အမှားပြင်ဆင်ချက်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nerf",
+    "pronunciation": "/nɝf/",
+    "forms": [
+      "nerfs",
+      "nerfed",
+      "nerfing"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "burmese": [
+          "ဂိမ်းထဲက အရာတစ်ခုရဲ့ စွမ်းအားကို လျှော့ချသည်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "respawn",
+    "pronunciation": "/riˈspɔn/",
+    "forms": [
+      "respawns",
+      "respawned",
+      "respawning"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "burmese": [
+          "ဂိမ်းထဲမှာ သေပြီးနောက် နေရာတစ်ခုမှာ ပြန်ပေါ်လာသည်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hitbox",
+    "pronunciation": "/ˈhɪtˌbɑks/",
+    "forms": [
+      "hitboxes"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဂိမ်းထဲမှာ တိုက်ခိုက်မှု ထိမှန်မမှန် သတ်မှတ်ပေးတဲ့ မမြင်ရသောဧရိယာ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "savepoint",
+    "pronunciation": "/ˈseɪvˌpɔɪnt/",
+    "forms": [
+      "savepoints"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဂိမ်းအခြေအနေကို သိမ်းဆည်းနိုင်တဲ့ နေရာ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "autosave",
+    "pronunciation": "/ˈɔtoʊˌseɪv/",
+    "forms": [
+      "autosaves"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အလိုအလျောက် သိမ်းဆည်းပေးတဲ့ စနစ်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "quicksave",
+    "pronunciation": "/ˈkwɪkˌseɪv/",
+    "forms": [
+      "quicksaves"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ချက်ချင်း သိမ်းဆည်းတဲ့ လုပ်ဆောင်ချက်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "quickload",
+    "pronunciation": "/ˈkwɪkˌloʊd/",
+    "forms": [
+      "quickloads"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "မကြာသေးခင် သိမ်းထားတာကို ချက်ချင်း ပြန်ဖွင့်တဲ့ လုပ်ဆောင်ချက်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bitrate",
+    "pronunciation": "/ˈbɪtˌreɪt/",
+    "forms": [
+      "bitrates"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အသံ သို့မဟုတ် ဗီဒီယိုဒေတာ တစ်စက္ကန့်လျှင် ပို့တဲ့ ပမာဏ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "laggy",
+    "pronunciation": "/ˈlæɡi/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "တုံ့ပြန်မှု နောက်ကျနေလို့ မချောမွေ့သော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "glitchy",
+    "pronunciation": "/ˈɡlɪtʃi/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "နည်းပညာအမှား သေးသေးလေးတွေ မကြာခဏ ဖြစ်တတ်သော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "glitchless",
+    "pronunciation": "/ˈɡlɪtʃləs/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "နည်းပညာအမှားမဖြစ်ဘဲ ချောမွေ့သော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "stuttery",
+    "pronunciation": "/ˈstʌtɚi/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "အသံ သို့မဟုတ် ဗီဒီယို တုန်တုန်ပြတ်ပြတ် ဖြစ်သော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shader",
+    "pronunciation": "/ˈʃeɪdɚ/",
+    "forms": [
+      "shaders"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ပုံရိပ်ရဲ့ အလင်း အရိပ် အရောင်ကို တွက်ချက်ပေးတဲ့ ဂရပ်ဖစ်ပရိုဂရမ်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "upscaling",
+    "pronunciation": "/ˈʌpˌskeɪlɪŋ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ပုံရိပ်အရည်အသွေးကို ပိုမြင့်တဲ့ အရွယ်အစားသို့ ပြောင်းတိုးခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "supersampling",
+    "pronunciation": "/ˈsupɚˌsæmplɪŋ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ပုံရိပ်ကို ပိုမြင့်တဲ့ အရည်အသွေးနဲ့ တွက်ပြီး ပြန်လျှော့ပြသတဲ့ နည်းလမ်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "antialiasing",
+    "pronunciation": "/ˌæntiˈeɪliəsɪŋ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ပုံရိပ်အနားသတ် ချွန်ထစ်မှုကို ချောမွေ့စေတဲ့ နည်းပညာ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pixelate",
+    "pronunciation": "/ˈpɪksəˌleɪt/",
+    "forms": [
+      "pixelates",
+      "pixelated",
+      "pixelating"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "burmese": [
+          "ပုံကို စတုရန်းပစ်ဇယ်ကြီးတွေ ပေါ်လာအောင် ပြောင်းသည်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "photorealistic",
+    "pronunciation": "/ˌfoʊtoʊriəˈlɪstɪk/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "ဓာတ်ပုံအစစ်လို အလွန်လက်တွေ့ကျသော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "photorealism",
+    "pronunciation": "/ˌfoʊtoʊˈriəˌlɪzəm/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဓာတ်ပုံလို လက်တွေ့ကျအောင် ဖန်တီးတဲ့ အနုပညာပုံစံ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mocap",
+    "pronunciation": "/ˈmoʊˌkæp/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "လူရဲ့ လှုပ်ရှားမှုကို ဒစ်ဂျစ်တယ်အချက်အလက်အဖြစ် မှတ်ယူတဲ့ နည်းပညာ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "subtitling",
+    "pronunciation": "/ˈsʌbˌtaɪtəlɪŋ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဗီဒီယို သို့မဟုတ် ရုပ်ရှင်အတွက် စာတန်းထိုးပြုလုပ်ခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "showrunner",
+    "pronunciation": "/ˈʃoʊˌrʌnɚ/",
+    "forms": [
+      "showrunners"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "တီဗီဇာတ်လမ်းတွဲရဲ့ အဓိက ဖန်တီးရေးနဲ့ ထုတ်လုပ်ရေးကို ဦးဆောင်သူ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "animatic",
+    "pronunciation": "/ˌænəˈmætɪk/",
+    "forms": [
+      "animatics"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ပုံကြမ်းဇာတ်ကွက်တွေကို အချိန်နဲ့အသံ ထည့်ပြီး လှုပ်ရှားသလို ပြထားတဲ့ မူကြမ်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "machinima",
+    "pronunciation": "/məˈʃɪnəmə/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဂိမ်းအင်ဂျင်သုံးပြီး ဖန်တီးထားတဲ့ ကာတွန်း သို့မဟုတ် ဗီဒီယို"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mockumentary",
+    "pronunciation": "/ˌmɑkjəˈmɛntəri/",
+    "forms": [
+      "mockumentaries"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "မှတ်တမ်းရုပ်ရှင်ပုံစံနဲ့ ဖန်တီးထားတဲ့ ဟာသ သို့မဟုတ် ဇာတ်လမ်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "docudrama",
+    "pronunciation": "/ˈdɑkjuˌdrɑmə/",
+    "forms": [
+      "docudramas"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဖြစ်ရပ်မှန်ကို သရုပ်ဆောင်ပြီး ပြန်ဖန်တီးထားတဲ့ ဇာတ်လမ်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "biopic",
+    "pronunciation": "/ˈbaɪoʊˌpɪk/",
+    "forms": [
+      "biopics"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "လူတစ်ဦးရဲ့ ဘဝအကြောင်း ရိုက်ကူးထားတဲ့ ရုပ်ရှင်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "miniseries",
+    "pronunciation": "/ˈmɪniˌsɪriz/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အပိုင်းအရေအတွက်နည်းပြီး ဇာတ်လမ်းပြီးဆုံးတဲ့ တီဗီဇာတ်လမ်းတွဲ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "webseries",
+    "pronunciation": "/ˈwɛbˌsɪriz/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အင်တာနက်အတွက် အဓိက ထုတ်လုပ်ထားတဲ့ ဇာတ်လမ်းတွဲ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "webtoon",
+    "pronunciation": "/ˈwɛbˌtun/",
+    "forms": [
+      "webtoons"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အွန်လိုင်းဖတ်ဖို့ ဒီဇိုင်းလုပ်ထားတဲ့ ကာတွန်းဇာတ်လမ်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "webcomic",
+    "pronunciation": "/ˈwɛbˌkɑmɪk/",
+    "forms": [
+      "webcomics"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အွန်လိုင်းမှာ ထုတ်ဝေတဲ့ ကာတွန်းစာမျက်နှာ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fanfic",
+    "pronunciation": "/ˈfænˌfɪk/",
+    "forms": [
+      "fanfics"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ရှိပြီးသား ဇာတ်ကောင် သို့မဟုတ် ကမ္ဘာကို အသုံးပြုပြီး ပရိသတ်က ရေးတဲ့ ဇာတ်လမ်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fanart",
+    "pronunciation": "/ˈfænˌɑrt/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "နှစ်သက်ရာဇာတ်ကောင် သို့မဟုတ် အနုပညာရှင်အပေါ် ပရိသတ်က ဖန်တီးတဲ့ ပန်းချီပုံ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cosplay",
+    "pronunciation": "/ˈkɑzˌpleɪ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဇာတ်ကောင်တစ်ဦးလို အဝတ်အစားနဲ့ ပုံစံတူ ဝတ်ဆင်သရုပ်ဆောင်ခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cosplayer",
+    "pronunciation": "/ˈkɑzˌpleɪɚ/",
+    "forms": [
+      "cosplayers"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဇာတ်ကောင်တစ်ဦးလို ဝတ်ဆင်သရုပ်ဆောင်သူ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "headcanon",
+    "pronunciation": "/ˈhɛdˌkænən/",
+    "forms": [
+      "headcanons"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "တရားဝင်ဇာတ်လမ်းထဲ မပါပေမယ့် ပရိသတ်က ကိုယ်တိုင် ယုံကြည်ထားတဲ့ ဇာတ်လမ်းအယူအဆ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fanon",
+    "pronunciation": "/ˈfænən/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ပရိသတ်တွေကြား ကျယ်ကျယ်ပြန့်ပြန့် လက်ခံထားပေမယ့် တရားဝင်မဟုတ်တဲ့ ဇာတ်လမ်းအယူအဆ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "retcon",
+    "pronunciation": "/ˈrɛtˌkɑn/",
+    "forms": [
+      "retcons"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ရှိပြီးသား ဇာတ်လမ်းအချက်ကို နောက်မှ ပြန်ပြင်သတ်မှတ်ခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "remaster",
+    "pronunciation": "/riˈmæstɚ/",
+    "forms": [
+      "remasters",
+      "remastered",
+      "remastering"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "burmese": [
+          "အသံ သို့မဟုတ် ရုပ်ပုံအဟောင်းကို အရည်အသွေးမြင့်အောင် ပြန်ပြုပြင်ထုတ်ဝေသည်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rebootable",
+    "pronunciation": "/riˈbutəbəl/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "ပြန်စတင်နိုင်သော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sequelization",
+    "pronunciation": "/ˌsikwələˈzeɪʃən/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အောင်မြင်တဲ့ ဇာတ်လမ်းကို နောက်ဆက်တွဲတွေ ဆက်တိုက် ဖန်တီးသည့် လုပ်ငန်းစဉ်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "flashforward",
+    "pronunciation": "/ˈflæʃˌfɔrwɚd/",
+    "forms": [
+      "flashforwards"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဇာတ်လမ်းထဲက အနာဂတ်အချိန်ကို ခဏကြိုပြတဲ့ ဇာတ်ကွက်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "jumpcut",
+    "pronunciation": "/ˈdʒʌmpˌkʌt/",
+    "forms": [
+      "jumpcuts"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ရုပ်ရှင်မှာ အချိန် သို့မဟုတ် လှုပ်ရှားမှု ခုန်သွားသလို ဖြစ်စေတဲ့ ဖြတ်တောက်မှု"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "showreel",
+    "pronunciation": "/ˈʃoʊˌril/",
+    "forms": [
+      "showreels"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အနုပညာရှင်ရဲ့ အကောင်းဆုံးလက်ရာတွေ စုစည်းပြထားတဲ့ ဗီဒီယို"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "clapperboard",
+    "pronunciation": "/ˈklæpɚˌbɔrd/",
+    "forms": [
+      "clapperboards"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ရုပ်ရှင်ရိုက်ကူးရာမှာ ရိုက်ချက်အချက်အလက်နဲ့ အသံညှိဖို့ သုံးတဲ့ ဘုတ်ပြား"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bingeable",
+    "pronunciation": "/ˈbɪndʒəbəl/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "အပိုင်းများကို တစ်ဆက်တည်း ဆက်ကြည့်ချင်စရာကောင်းသော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rewatchable",
+    "pronunciation": "/riˈwɑtʃəbəl/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "ထပ်ခါထပ်ခါ ပြန်ကြည့်လို့ကောင်းသော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "streamable",
+    "pronunciation": "/ˈstriməbəl/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "အွန်လိုင်းကနေ တိုက်ရိုက်ဖွင့်ကြည့်နိုင်သော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bioinformatics",
+    "pronunciation": "/ˌbaɪoʊˌɪnfɚˈmætɪks/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဇီဝအချက်အလက်ကို ကွန်ပျူတာနဲ့ ခွဲခြမ်းလေ့လာတဲ့ ပညာရပ်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "biomaterial",
+    "pronunciation": "/ˌbaɪoʊməˈtɪriəl/",
+    "forms": [
+      "biomaterials"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ခန္ဓာကိုယ်နဲ့ ဆက်သွယ်အသုံးပြုဖို့ ဖန်တီးထားတဲ့ ပစ္စည်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "biohack",
+    "pronunciation": "/ˈbaɪoʊˌhæk/",
+    "forms": [
+      "biohacks",
+      "biohacked",
+      "biohacking"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "burmese": [
+          "ခန္ဓာကိုယ် သို့မဟုတ် ဇီဝလုပ်ဆောင်ချက်ကို ကိုယ်တိုင် စမ်းသပ်ပြင်ဆင်တိုးတက်စေသည်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "biohacker",
+    "pronunciation": "/ˈbaɪoʊˌhækɚ/",
+    "forms": [
+      "biohackers"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ကိုယ့်ခန္ဓာကိုယ် သို့မဟုတ် ဇီဝနည်းပညာကို ကိုယ်တိုင် စမ်းသပ်ပြင်ဆင်သူ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "neurotech",
+    "pronunciation": "/ˈnʊroʊˌtɛk/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဦးနှောက်နဲ့ အာရုံကြောစနစ်ကို တိုင်းတာ သို့မဟုတ် သက်ရောက်စေတဲ့ နည်းပညာ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "neurotechnology",
+    "pronunciation": "/ˌnʊroʊtɛkˈnɑlədʒi/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဦးနှောက်နဲ့ အာရုံကြောစနစ်ဆိုင်ရာ နည်းပညာပညာရပ်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "neuroplasticity",
+    "pronunciation": "/ˌnʊroʊplæˈstɪsəti/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဦးနှောက်က အတွေ့အကြုံအလိုက် ဆက်သွယ်ပုံ ပြန်လည်ပြောင်းလဲနိုင်စွမ်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "neurofeedback",
+    "pronunciation": "/ˈnʊroʊˌfidˌbæk/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဦးနှောက်လှုပ်ရှားမှုကို တိုင်းပြပြီး ကိုယ်တိုင် ထိန်းညှိလေ့ကျင့်တဲ့ နည်းလမ်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "neurostimulate",
+    "pronunciation": "/ˌnʊroʊˈstɪmjəˌleɪt/",
+    "forms": [
+      "neurostimulates",
+      "neurostimulated",
+      "neurostimulating"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "burmese": [
+          "အာရုံကြောစနစ်ကို လျှပ်စစ် သို့မဟုတ် အခြားနည်းနဲ့ လှုံ့ဆော်သည်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "neurostimulation",
+    "pronunciation": "/ˌnʊroʊˌstɪmjəˈleɪʃən/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အာရုံကြောစနစ်ကို လှုံ့ဆော်ကုသခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "neuroinflammation",
+    "pronunciation": "/ˌnʊroʊˌɪnfləˈmeɪʃən/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဦးနှောက် သို့မဟုတ် အာရုံကြောစနစ်အတွင်း ရောင်ရမ်းမှု"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "neurodegenerative",
+    "pronunciation": "/ˌnʊroʊdɪˈdʒɛnərətɪv/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "အာရုံကြောဆဲလ်တွေ တဖြည်းဖြည်း ပျက်စီးစေသော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "neurodevelopmental",
+    "pronunciation": "/ˌnʊroʊdɪˌvɛləpˈmɛntəl/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "ဦးနှောက်နဲ့ အာရုံကြောဖွံ့ဖြိုးမှုဆိုင်ရာ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "teletherapy",
+    "pronunciation": "/ˈtɛləˌθɛrəpi/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အင်တာနက် သို့မဟုတ် ဖုန်းကနေ အဝေးမှ ကုထုံးပေးခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "telepsychiatry",
+    "pronunciation": "/ˌtɛləsaɪˈkaɪətri/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အဝေးကနေ စိတ်ကျန်းမာရေးဆရာဝန်ဝန်ဆောင်မှု ပေးခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "telemedicine",
+    "pronunciation": "/ˈtɛləˌmɛdəsən/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဖုန်း သို့မဟုတ် အင်တာနက်ကနေ အဝေးမှ ဆေးကုသဝန်ဆောင်မှု"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "telehealth",
+    "pronunciation": "/ˈtɛləˌhɛlθ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အဝေးကနေ ပေးတဲ့ ကျန်းမာရေးဝန်ဆောင်မှုများ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "extubation",
+    "pronunciation": "/ˌɛkstuˈbeɪʃən/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "အသက်ရှူပိုက်ကို ခန္ဓာကိုယ်ကနေ ဖယ်ရှားခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "defibrillate",
+    "pronunciation": "/diˈfɪbrəˌleɪt/",
+    "forms": [
+      "defibrillates",
+      "defibrillated",
+      "defibrillating"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "burmese": [
+          "နှလုံးခုန်ပုံမှန်ပြန်ရအောင် လျှပ်စစ်ရှော့ ပေးသည်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "defibrillation",
+    "pronunciation": "/diˌfɪbrəˈleɪʃən/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "နှလုံးခုန်ပုံမှန်ပြန်ရအောင် လျှပ်စစ်ရှော့ပေးတဲ့ ကုသမှု"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bloodwork",
+    "pronunciation": "/ˈblʌdˌwɝk/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "သွေးစမ်းသပ်မှုများနဲ့ ရလာဒ်တွေ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bloodborne",
+    "pronunciation": "/ˈblʌdˌbɔrn/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "သွေးကနေ ကူးစက်ပျံ့နှံ့သော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "foodborne",
+    "pronunciation": "/ˈfudˌbɔrn/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "အစားအစာကနေ ကူးစက်လာသော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "infectivity",
+    "pronunciation": "/ˌɪnfɛkˈtɪvəti/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ရောဂါပိုးတစ်မျိုးရဲ့ ကူးစက်နိုင်စွမ်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "contagiousness",
+    "pronunciation": "/kənˈteɪdʒəsnəs/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ရောဂါတစ်ခု လူတစ်ဦးမှ တစ်ဦးသို့ ကူးစက်လွယ်မှု"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "presymptomatic",
+    "pronunciation": "/ˌpriˌsɪmptəˈmætɪk/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "ရောဂါလက္ခဏာ မပေါ်မီအဆင့်ရှိသော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "symptomless",
+    "pronunciation": "/ˈsɪmptəmləs/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "ရောဂါလက္ခဏာ မရှိသော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "comorbidity",
+    "pronunciation": "/ˌkoʊmɔrˈbɪdəti/",
+    "forms": [
+      "comorbidities"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "လူတစ်ယောက်မှာ တစ်ပြိုင်နက် ရှိနေတဲ့ နောက်ထပ်ရောဂါ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "comorbid",
+    "pronunciation": "/koʊˈmɔrbɪd/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "အခြားရောဂါတစ်ခုနဲ့ တစ်ပြိုင်နက် ရှိနေသော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "immunocompromised",
+    "pronunciation": "/ˌɪmjənoʊˈkɑmprəˌmaɪzd/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "ကိုယ်ခံအားစနစ် အားနည်းနေသော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "immunosuppressed",
+    "pronunciation": "/ˌɪmjənoʊsəˈprɛst/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "ကိုယ်ခံအားလုပ်ဆောင်မှု လျှော့ချခံထားရသော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "antivaxxer",
+    "pronunciation": "/ˌæntiˈvæksɚ/",
+    "forms": [
+      "antivaxxers"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ကာကွယ်ဆေးထိုးခြင်းကို ဆန့်ကျင်သူ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "reinfection",
+    "pronunciation": "/ˌriɪnˈfɛkʃən/",
+    "forms": [
+      "reinfections"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ရောဂါတစ်မျိုးနဲ့ ထပ်မံကူးစက်ခံရခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "reinfect",
+    "pronunciation": "/ˌriɪnˈfɛkt/",
+    "forms": [
+      "reinfects",
+      "reinfected",
+      "reinfecting"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "burmese": [
+          "ပြန်လည်ကူးစက်စေသည်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rehydrate",
+    "pronunciation": "/riˈhaɪˌdreɪt/",
+    "forms": [
+      "rehydrates",
+      "rehydrated",
+      "rehydrating"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "burmese": [
+          "ခန္ဓာကိုယ်ကို ရေဓာတ်ပြန်ဖြည့်သည်"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rehydration",
+    "pronunciation": "/riˌhaɪˈdreɪʃən/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ခန္ဓာကိုယ်ရေဓာတ် ပြန်ဖြည့်ခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prediabetic",
+    "pronunciation": "/ˌpridaɪəˈbɛtɪk/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "ဆီးချိုမဖြစ်သေးပေမယ့် သွေးချိုမြင့်နေသော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "embolic",
+    "pronunciation": "/ɛmˈbɑlɪk/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "သွေးကြောထဲ အတားအဆီးလွှင့်ဝင်မှုနဲ့ ဆိုင်သော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "thrombotic",
+    "pronunciation": "/θrɑmˈbɑtɪk/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "သွေးခဲဖြစ်ပေါ်မှုနဲ့ ဆိုင်သော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "radiograph",
+    "pronunciation": "/ˈreɪdiəˌɡræf/",
+    "forms": [
+      "radiographs"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "ဓာတ်မှန်ရောင်ခြည်နဲ့ ရိုက်ထားတဲ့ အတွင်းပိုင်းပုံ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "overstimulated",
+    "pronunciation": "/ˌoʊvɚˈstɪmjəˌleɪtɪd/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "အသံ အလင်း သို့မဟုတ် လှုံ့ဆော်မှုများလွန်းလို့ စိတ်နဲ့အာရုံ ပင်ပန်းနေသော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "underwhelmed",
+    "pronunciation": "/ˌʌndɚˈwɛlmd/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "မျှော်လင့်ထားသလောက် မကောင်းလို့ စိတ်မလှုပ်ရှားသော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "triggerable",
+    "pronunciation": "/ˈtrɪɡɚəbəl/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "ဖြစ်ရပ် သို့မဟုတ် တုံ့ပြန်မှုတစ်ခု အလွယ်တကူ စတင်ဖြစ်စေနိုင်သော"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "palpitation",
+    "pronunciation": "/ˌpælpəˈteɪʃən/",
+    "forms": [
+      "palpitations"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "နှလုံးခုန်တာကို ပုံမှန်ထက် သိသာပြင်းထန်စွာ ခံစားရခြင်း"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "opioid",
+    "pronunciation": "/ˈoʊpiˌɔɪd/",
+    "forms": [
+      "opioids"
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "burmese": [
+          "နာကျင်မှုသက်သာစေပြီး စွဲလမ်းနိုင်တဲ့ အားပြင်းဆေးအမျိုးအစား"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "painkilling",
+    "pronunciation": "/ˈpeɪnˌkɪlɪŋ/",
+    "forms": [],
+    "meanings": [
+      {
+        "partOfSpeech": "adjective",
+        "burmese": [
+          "နာကျင်မှုကို သက်သာစေသော"
+        ]
+      }
+    ]
+  }
+]
