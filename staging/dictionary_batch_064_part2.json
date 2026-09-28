@@ -1,0 +1,1372 @@
+{
+  "version": 1,
+  "batch": 64,
+  "entries": [
+    {
+      "word": "angiologist",
+      "pronunciation": "/ˌændʒiˈɑːlədʒɪst/",
+      "forms": [
+        "angiologists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သွေးကြောနှင့် လင်ဖ်ကြောရောဂါများကို အထူးလေ့လာကုသသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "audiometric",
+      "pronunciation": "/ˌɔːdioʊˈmɛtrɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နားကြားနိုင်စွမ်း တိုင်းတာစစ်ဆေးမှုနှင့် သက်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cardiotoxic",
+      "pronunciation": "/ˌkɑːrdioʊˈtɑːksɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နှလုံးကို အဆိပ်သက်ရောက်စေနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cardiotoxicity",
+      "pronunciation": "/ˌkɑːrdioʊtɑːkˈsɪsəti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေး သို့မဟုတ် ဓာတ်ပစ္စည်းကြောင့် နှလုံးထိခိုက်နိုင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chemoresistant",
+      "pronunciation": "/ˌkiːmoʊrɪˈzɪstənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဓာတုကုထုံးဆေးများကို မတုံ့ပြန်တော့သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chemoresistance",
+      "pronunciation": "/ˌkiːmoʊrɪˈzɪstəns/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကင်ဆာဆဲလ်များ ဓာတုကုထုံးဆေးကို မတုံ့ပြန်တော့သည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dermatopathology",
+      "pronunciation": "/ˌdɝːmətoʊpəˈθɑːlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေပြားရောဂါများကို အဏုကြည့်နှင့် ဓာတ်ခွဲစစ်ဆေးလေ့လာသည့် ပညာရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dysautonomia",
+      "pronunciation": "/ˌdɪsɔːtəˈnoʊmiə/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်တွင်းအလိုအလျောက် အာရုံကြောစနစ် ပုံမှန်မလုပ်သည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "echocardiogram",
+      "pronunciation": "/ˌɛkoʊˈkɑːrdioʊˌɡræm/",
+      "forms": [
+        "echocardiograms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသံလှိုင်းဖြင့် နှလုံးပုံရိပ်ဖော်စစ်ဆေးထားသည့် မှတ်တမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "electrophysiology",
+      "pronunciation": "/ɪˌlɛktroʊˌfɪziˈɑːlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်ခန္ဓာရှိ လျှပ်စစ်လှုပ်ရှားမှုများကို လေ့လာသည့် ပညာရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "embolization",
+      "pronunciation": "/ˌɛmbələˈzeɪʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သွေးကြောတစ်ခုကို ရည်ရွယ်ချက်ရှိရှိ ပိတ်ဆို့ကုသခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gastrologist",
+      "pronunciation": "/ɡæˈstrɑːlədʒɪst/",
+      "forms": [
+        "gastrologists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစာအိမ်နှင့် ဆိုင်သော ရောဂါများ လေ့လာကုသသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hepatologist",
+      "pronunciation": "/ˌhɛpəˈtɑːlədʒɪst/",
+      "forms": [
+        "hepatologists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသည်းရောဂါ အထူးကုဆရာဝန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hyperglycemic",
+      "pronunciation": "/ˌhaɪpərɡlaɪˈsiːmɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သွေးချိုဓာတ် ပုံမှန်ထက် မြင့်နေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "infusionline",
+      "pronunciation": "/ɪnˈfjuːʒənˌlaɪn/",
+      "forms": [
+        "infusionlines"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရည် သို့မဟုတ် အာဟာရရည်ကို ကိုယ်ထဲသွင်းရန် သုံးသည့် ပြွန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "insulinpump",
+      "pronunciation": "/ˈɪnsəlɪnˌpʌmp/",
+      "forms": [
+        "insulinpumps"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်ဆူလင်ကို အချိန်နှင့်ပမာဏအလိုက် ကိုယ်ထဲသို့ ပေးသည့် စက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "laparoscope",
+      "pronunciation": "/ˈlæpərəˌskoʊp/",
+      "forms": [
+        "laparoscopes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝမ်းဗိုက်အတွင်း ကြည့်ရှုရန် သုံးသည့် ကင်မရာပါပြွန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nephrologic",
+      "pronunciation": "/ˌnɛfrəˈlɑːdʒɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကျောက်ကပ်ရောဂါနှင့် သက်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "neuropsychologist",
+      "pronunciation": "/ˌnʊroʊsaɪˈkɑːlədʒɪst/",
+      "forms": [
+        "neuropsychologists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဦးနှောက်လုပ်ဆောင်မှုနှင့် အပြုအမူဆက်နွယ်မှုကို အထူးလေ့လာသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "otoscope",
+      "pronunciation": "/ˈoʊtəˌskoʊp/",
+      "forms": [
+        "otoscopes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နားအတွင်းကို ကြည့်စစ်ရန် သုံးသည့် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "radiologic",
+      "pronunciation": "/ˌreɪdioʊˈlɑːdʒɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဓာတ်မှန်နှင့် ဆေးဘက်ပုံရိပ်ဖော်စစ်ဆေးမှုနှင့် သက်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sonographic",
+      "pronunciation": "/ˌsɑːnəˈɡræfɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အသံလှိုင်းဖြင့် ပုံရိပ်ဖော်စစ်ဆေးမှုနှင့် သက်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spirometry",
+      "pronunciation": "/spaɪˈrɑːmətri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဆုတ်ဝင်ထွက်လေ ပမာဏနှင့် အင်အားကို တိုင်းတာစစ်ဆေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "telecardiology",
+      "pronunciation": "/ˌtɛlɪkɑːrdiˈɑːlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဝေးမှ နည်းပညာသုံး၍ နှလုံးရောဂါ စစ်ဆေးအကြံပေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "teledermatology",
+      "pronunciation": "/ˌtɛlɪdɝːməˈtɑːlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဝေးမှ နည်းပညာသုံး၍ အရေပြားရောဂါ စစ်ဆေးအကြံပေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "thrombectomy",
+      "pronunciation": "/θrɑːmˈbɛktəmi/",
+      "forms": [
+        "thrombectomies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သွေးကြောပိတ်နေသည့် သွေးခဲကို ခွဲစိတ်ဖယ်ရှားခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "thrombolysis",
+      "pronunciation": "/θrɑːmˈbɑːləsɪs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သွေးခဲကို ဆေးဖြင့် ပျော်ဝင်ဖျက်ဆီးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ultrasonographer",
+      "pronunciation": "/ˌʌltrəsəˈnɑːɡrəfər/",
+      "forms": [
+        "ultrasonographers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသံလှိုင်းပုံရိပ်စစ်ဆေးမှု ပြုလုပ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "urologic",
+      "pronunciation": "/ˌjʊrəˈlɑːdʒɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဆီးလမ်းကြောင်းနှင့် ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "virologic",
+      "pronunciation": "/ˌvaɪrəˈlɑːdʒɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဗိုင်းရပ်စ်လေ့လာမှုနှင့် သက်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "agroecology",
+      "pronunciation": "/ˌæɡroʊiˈkɑːlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စိုက်ပျိုးရေးစနစ်ကို ပတ်ဝန်းကျင်အခြေခံဖြင့် လေ့လာသည့် ပညာရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "agrometeorology",
+      "pronunciation": "/ˌæɡroʊˌmiːtiəˈrɑːlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရာသီဥတုနှင့် စိုက်ပျိုးရေးတို့၏ ဆက်နွယ်မှုကို လေ့လာသည့် ပညာရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "aquaponics",
+      "pronunciation": "/ˌækwəˈpɑːnɪks/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ငါးမွေးမြူမှုနှင့် ရေဖြင့်အပင်စိုက်ပျိုးမှုကို ပေါင်းစပ်ထားသည့် စနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "biochar",
+      "pronunciation": "/ˈbaɪoʊˌtʃɑːr/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အော်ဂဲနစ်ပစ္စည်းကို အောက်ဆီဂျင်နည်းနည်းဖြင့် မီးရှို့၍ ရသော မြေဩဇာသုံး ကာဗွန်ပစ္စည်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bioeconomy",
+      "pronunciation": "/ˌbaɪoʊɪˈkɑːnəmi/",
+      "forms": [
+        "bioeconomies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇီဝအရင်းအမြစ်များကို အသုံးပြုသော စီးပွားရေးစနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bioenergy",
+      "pronunciation": "/ˌbaɪoʊˈɛnərdʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပင်နှင့် အော်ဂဲနစ်ပစ္စည်းများမှ ထုတ်ယူသည့် စွမ်းအင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bioreactor",
+      "pronunciation": "/ˌbaɪoʊriˈæktər/",
+      "forms": [
+        "bioreactors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇီဝဓာတ်ပြုလုပ်ငန်းများကို ထိန်းချုပ်ဆောင်ရွက်သည့် အိုး သို့မဟုတ် စက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "carboncapture",
+      "pronunciation": "/ˈkɑːrbənˌkæptʃər/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေထုသို့ မထွက်မီ ကာဗွန်ဒိုင်အောက်ဆိုဒ်ကို ဖမ်းယူသိမ်းဆည်းခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "carbonnegative",
+      "pronunciation": "/ˈkɑːrbənˌnɛɡətɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ထုတ်လွှတ်သည့် ကာဗွန်ထက် ပိုများစွာ ဖယ်ရှားနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "climatologist",
+      "pronunciation": "/ˌklaɪməˈtɑːlədʒɪst/",
+      "forms": [
+        "climatologists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရာသီဥတုပုံစံနှင့် ရေရှည်ပြောင်းလဲမှုကို လေ့လာသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "foodforest",
+      "pronunciation": "/ˈfuːdˌfɔːrɪst/",
+      "forms": [
+        "foodforests"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တောစနစ်ကို အတုယူပြီး စားသုံးနိုင်သော အပင်များ စိုက်ထားသည့် နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "geoscience",
+      "pronunciation": "/ˈdʒiːoʊˌsaɪəns/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကမ္ဘာမြေ၏ ဖွဲ့စည်းပုံနှင့် ဖြစ်စဉ်များကို လေ့လာသည့် သိပ္ပံပညာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "geoscientist",
+      "pronunciation": "/ˌdʒiːoʊˈsaɪəntɪst/",
+      "forms": [
+        "geoscientists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကမ္ဘာမြေသိပ္ပံကို လေ့လာသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "greenbuilding",
+      "pronunciation": "/ˈɡriːnˌbɪldɪŋ/",
+      "forms": [
+        "greenbuildings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စွမ်းအင်နှင့် အရင်းအမြစ်အသုံးပြုမှု လျော့အောင် ဒီဇိုင်းလုပ်ထားသည့် အဆောက်အအုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "greenroof",
+      "pronunciation": "/ˈɡriːnˌruːf/",
+      "forms": [
+        "greenroofs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပင်များ စိုက်ထားသည့် အဆောက်အအုံမိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hydrologist",
+      "pronunciation": "/haɪˈdrɑːlədʒɪst/",
+      "forms": [
+        "hydrologists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေစီးဆင်းမှုနှင့် ရေအရင်းအမြစ်ကို လေ့လာသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "landcover",
+      "pronunciation": "/ˈlændˌkʌvər/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြေမျက်နှာပြင်ကို ဖုံးအုပ်ထားသော တော မြို့ ရေ သို့မဟုတ် စိုက်ခင်းစသည့် အမျိုးအစား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "landuse",
+      "pronunciation": "/ˈlændˌjuːs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြေကို မည်သည့်ရည်ရွယ်ချက်ဖြင့် အသုံးပြုထားသည့်ပုံစံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "microclimate",
+      "pronunciation": "/ˈmaɪkroʊˌklaɪmət/",
+      "forms": [
+        "microclimates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နေရာငယ်တစ်ခုတွင် ပတ်ဝန်းကျင်ထက် ကွာခြားသော ဒေသန္တရရာသီဥတု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "oceanographer",
+      "pronunciation": "/ˌoʊʃəˈnɑːɡrəfər/",
+      "forms": [
+        "oceanographers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပင်လယ်နှင့် သမုဒ္ဒရာများကို လေ့လာသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rainwaterharvesting",
+      "pronunciation": "/ˈreɪnˌwɔːtərˌhɑːrvɪstɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုးရေကို စုဆောင်းသိမ်းဆည်း၍ ပြန်အသုံးပြုခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "solarthermal",
+      "pronunciation": "/ˌsoʊlərˈθɝːməl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နေရောင်ခြည်၏ အပူကို စွမ်းအင်အဖြစ် အသုံးပြုသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stormwatermanagement",
+      "pronunciation": "/ˈstɔːrmˌwɔːtərˈmænɪdʒmənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုးသည်းထန်ချိန် စီးဆင်းရေကို စုဆောင်းနှင့် ထိန်းချုပ်စီမံခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sustainablehousing",
+      "pronunciation": "/səˈsteɪnəbəlˌhaʊzɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စွမ်းအင်နှင့် သဘာဝအရင်းအမြစ်ကို ထိရောက်စွာသုံးသည့် အိမ်ရာပုံစံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "urbanforest",
+      "pronunciation": "/ˈɝːbənˌfɔːrɪst/",
+      "forms": [
+        "urbanforests"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြို့အတွင်းရှိ သစ်ပင်နှင့် စိမ်းလန်းဧရိယာများ၏ စုစုပေါင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "waterquality",
+      "pronunciation": "/ˈwɔːtərˌkwɑːləti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေ၏ သန့်ရှင်းမှုနှင့် အသုံးပြုရန် သင့်တော်မှုအဆင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wildlifecorridor",
+      "pronunciation": "/ˈwaɪldlaɪfˌkɔːrədɔːr/",
+      "forms": [
+        "wildlifecorridors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တိရစ္ဆာန်များ နေရာတစ်ခုမှ တစ်ခုသို့ လုံခြုံစွာ ရွှေ့ပြောင်းနိုင်သည့် သဘာဝလမ်းကြောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "windpower",
+      "pronunciation": "/ˈwɪndˌpaʊər/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေတိုက်အားမှ ထုတ်လုပ်သော စွမ်းအင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "zerowaste",
+      "pronunciation": "/ˌzɪroʊˈweɪst/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အမှိုက်ထွက်မှုကို လုံးဝနီးပါး လျော့ချရန် ရည်ရွယ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "aerobiology",
+      "pronunciation": "/ˌeroʊbaɪˈɑːlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေထဲရှိ ပိုးမွှား အမှုန်နှင့် ဇီဝပစ္စည်းများကို လေ့လာသည့် ပညာရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cosmochemistry",
+      "pronunciation": "/ˌkɑːzmoʊˈkɛmɪstri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အာကာသအရာဝတ္ထုများ၏ ဓာတုဖွဲ့စည်းပုံကို လေ့လာသည့် ပညာရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "exobiology",
+      "pronunciation": "/ˌɛksoʊbaɪˈɑːlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကမ္ဘာပြင်ပရှိ ဖြစ်နိုင်သော အသက်ရှင်မှုကို လေ့လာသည့် ပညာရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "geobiology",
+      "pronunciation": "/ˌdʒiːoʊbaɪˈɑːlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကမ္ဘာမြေဖြစ်စဉ်များနှင့် သက်ရှိများ၏ ဆက်နွယ်မှုကို လေ့လာသည့် ပညာရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "geochemist",
+      "pronunciation": "/ˌdʒiːoʊˈkɛmɪst/",
+      "forms": [
+        "geochemists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကမ္ဘာမြေ၏ ဓာတုဖွဲ့စည်းမှုကို လေ့လာသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "geophysicist",
+      "pronunciation": "/ˌdʒiːoʊˈfɪzɪsɪst/",
+      "forms": [
+        "geophysicists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကမ္ဘာမြေ၏ ရုပ်ဗေဒဂုဏ်သတ္တိကို လေ့လာသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "glaciologist",
+      "pronunciation": "/ˌɡleɪsiˈɑːlədʒɪst/",
+      "forms": [
+        "glaciologists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေခဲမြစ်နှင့် ရေခဲအစုများကို လေ့လာသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "limnology",
+      "pronunciation": "/lɪmˈnɑːlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကန် မြစ်နှင့် အခြားအတွင်းပိုင်းရေအရင်းအမြစ်များကို လေ့လာသည့် ပညာရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "meteoritics",
+      "pronunciation": "/ˌmiːtiəˈrɪtɪks/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြယ်ကျောက်များကို လေ့လာသည့် သိပ္ပံပညာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "neuroengineering",
+      "pronunciation": "/ˌnʊroʊˌɛndʒəˈnɪrɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အာရုံကြောစနစ်နှင့် အင်ဂျင်နီယာနည်းပညာ ပေါင်းစပ်လေ့လာသည့် နယ်ပယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "photobiology",
+      "pronunciation": "/ˌfoʊtoʊbaɪˈɑːlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလင်းရောင်က သက်ရှိများအပေါ် သက်ရောက်မှုကို လေ့လာသည့် ပညာရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "quantumdot",
+      "pronunciation": "/ˈkwɑːntəmˌdɑːt/",
+      "forms": [
+        "quantumdots"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလွန်သေးငယ်ပြီး အထူးအလင်းဂုဏ်သတ္တိရှိသည့် နာနိုအမှုန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "telescopearray",
+      "pronunciation": "/ˈtɛləskoʊp əˌreɪ/",
+      "forms": [
+        "telescopearrays"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အတူတကွ လုပ်ဆောင်ရန် စီစဉ်ထားသည့် တယ်လီစကုပ်အစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "terraforming",
+      "pronunciation": "/ˈtɛrəˌfɔːrmɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခြားဂြိုဟ်တစ်ခုကို လူနေထိုင်နိုင်သည့် ပတ်ဝန်းကျင်အဖြစ် ပြောင်းလဲရန် ကြိုးပမ်းခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "thermochemistry",
+      "pronunciation": "/ˌθɝːmoʊˈkɛmɪstri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဓာတုတုံ့ပြန်မှုများတွင် အပူပြောင်းလဲမှုကို လေ့လာသည့် ပညာရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "volcanologist",
+      "pronunciation": "/ˌvɑːlkəˈnɑːlədʒɪst/",
+      "forms": [
+        "volcanologists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မီးတောင်နှင့် မီးတောင်ဖြစ်စဉ်များကို လေ့လာသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cytogenetics",
+      "pronunciation": "/ˌsaɪtoʊdʒəˈnɛtɪks/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရိုမိုဆိုမ်များနှင့် မျိုးဗီဇဆက်နွယ်မှုကို လေ့လာသည့် ပညာရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "microbiomics",
+      "pronunciation": "/ˌmaɪkroʊbaɪˈoʊmɪks/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်တွင်း သို့မဟုတ် ပတ်ဝန်းကျင်ရှိ ပိုးမွှားအသိုင်းအဝိုင်း၏ မျိုးဗီဇအချက်အလက်ကို လေ့လာခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "biosurveillance",
+      "pronunciation": "/ˌbaɪoʊsərˈveɪləns/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရောဂါနှင့် ဇီဝအန္တရာယ်များကို အချိန်နှင့်တပြေးညီ စောင့်ကြည့်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "geneexpression",
+      "pronunciation": "/ˈdʒiːn ɪkˌsprɛʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျိုးဗီဇတစ်ခု၏ အချက်အလက်ကို အသုံးပြုပြီး ပရိုတိန်း သို့မဟုတ် လုပ်ဆောင်ချက် ဖန်တီးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "genetherapy",
+      "pronunciation": "/ˈdʒiːnˌθɛrəpi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျိုးဗီဇကို ပြင်ဆင်ခြင်း သို့မဟုတ် ထည့်သွင်းခြင်းဖြင့် ရောဂါကုသသည့် နည်းလမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "genomeediting",
+      "pronunciation": "/ˈdʒiːnoʊmˌɛdɪtɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သက်ရှိတစ်ခု၏ မျိုးဗီဇစုထဲရှိ ဒီအင်န်အေကို ရည်ရွယ်ချက်ရှိရှိ ပြင်ဆင်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "molecularbiology",
+      "pronunciation": "/məˈlɛkjələr baɪˈɑːlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မော်လီကျူးအဆင့်တွင် သက်ရှိလုပ်ဆောင်ပုံကို လေ့လာသည့် ပညာရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "syntheticbiology",
+      "pronunciation": "/sɪnˈθɛtɪk baɪˈɑːlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇီဝစနစ်များကို ဒီဇိုင်းလုပ်နှင့် ပြန်လည်တည်ဆောက်သည့် သိပ္ပံနယ်ပယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "systemsbiology",
+      "pronunciation": "/ˈsɪstəmz baɪˈɑːlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သက်ရှိအတွင်း လုပ်ငန်းစဉ်များကို စနစ်တစ်ခုလုံးအဖြစ် လေ့လာသည့် ပညာရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "metagenomics",
+      "pronunciation": "/ˌmɛtədʒəˈnoʊmɪks/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပတ်ဝန်းကျင်နမူနာထဲရှိ သက်ရှိမျိုးစုံ၏ မျိုးဗီဇကို တစ်စုတစ်စည်း လေ့လာခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "metagenome",
+      "pronunciation": "/ˈmɛtəˌdʒiːnoʊm/",
+      "forms": [
+        "metagenomes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပတ်ဝန်းကျင်နမူနာတစ်ခုရှိ သက်ရှိအားလုံး၏ မျိုးဗီဇစုစုပေါင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "transcriptome",
+      "pronunciation": "/trænˈskrɪptoʊm/",
+      "forms": [
+        "transcriptomes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆဲလ်တစ်ခု သို့မဟုတ် အခြေအနေတစ်ခုတွင် ထုတ်လုပ်နေသော အာရ်အန်အေအစုစုပေါင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "epigenome",
+      "pronunciation": "/ɪˈpɪdʒəˌnoʊm/",
+      "forms": [
+        "epigenomes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒီအင်န်အေ စာလုံးစဉ်မပြောင်းဘဲ မျိုးဗီဇလုပ်ဆောင်မှုကို ထိန်းသည့် အမှတ်အသားစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "biomechatronics",
+      "pronunciation": "/ˌbaɪoʊˌmɛkəˈtrɑːnɪks/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇီဝကိုယ်ခန္ဓာနှင့် စက်မက်ကထရောနစ်စနစ်များကို ပေါင်းစပ်သည့် နယ်ပယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "biosensing",
+      "pronunciation": "/ˈbaɪoʊˌsɛnsɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇီဝအချက်ပြများကို အာရုံခံကိရိယာဖြင့် ရှာဖွေတိုင်းတာခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "biosensorics",
+      "pronunciation": "/ˌbaɪoʊsɛnˈsɔːrɪks/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇီဝအာရုံခံကိရိယာများ၏ ဒီဇိုင်းနှင့် အသုံးပြုမှုကို လေ့လာသည့် နယ်ပယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nanorobotics",
+      "pronunciation": "/ˌnænoʊroʊˈbɑːtɪks/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နာနိုအရွယ် စက်ရုပ်စနစ်များကို ဖန်တီးလေ့လာသည့် နယ်ပယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nanocomposite",
+      "pronunciation": "/ˌnænoʊkəmˈpɑːzɪt/",
+      "forms": [
+        "nanocomposites"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နာနိုအရွယ် ပစ္စည်းအစိတ်အပိုင်းများ ပေါင်းစပ်ထားသော ပစ္စည်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "photomedicine",
+      "pronunciation": "/ˌfoʊtoʊˈmɛdəsɪn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလင်းရောင်ကို စစ်ဆေးကုသမှုတွင် အသုံးပြုသည့် ဆေးပညာနယ်ပယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "theranostics",
+      "pronunciation": "/ˌθɛrəˈnɑːstɪks/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရောဂါစစ်ဆေးမှုနှင့် ကုသမှုကို တစ်ပြိုင်တည်းပေါင်းစပ်သည့် နည်းပညာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "radiomics",
+      "pronunciation": "/ˌreɪdiˈoʊmɪks/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ပုံရိပ်များမှ အချက်အလက်အများအပြား ထုတ်ယူခွဲခြမ်းသည့် နယ်ပယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pharmacogenetics",
+      "pronunciation": "/ˌfɑːrməkoʊdʒəˈnɛtɪks/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျိုးဗီဇက ဆေးဝါးတုံ့ပြန်မှုအပေါ် သက်ရောက်ပုံကို လေ့လာသည့် ပညာရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "immunogenomics",
+      "pronunciation": "/ˌɪmjənoʊdʒəˈnoʊmɪks/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်ခံအားစနစ်နှင့် မျိုးဗီဇဆက်နွယ်မှုကို လေ့လာသည့် နယ်ပယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "neuroprosthetics",
+      "pronunciation": "/ˌnʊroʊprɑːsˈθɛtɪks/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အာရုံကြောစနစ်နှင့် ချိတ်ဆက်အသုံးပြုသည့် အစားထိုးကိရိယာများဆိုင်ရာ နယ်ပယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "neurorehabilitation",
+      "pronunciation": "/ˌnʊroʊriːhəˌbɪləˈteɪʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဦးနှောက် သို့မဟုတ် အာရုံကြောဒဏ်ရာပြီးနောက် လုပ်ဆောင်နိုင်စွမ်း ပြန်လည်လေ့ကျင့်ကုသခြင်း"
+          ]
+        }
+      ]
+    }
+  ]
+}
