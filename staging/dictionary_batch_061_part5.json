@@ -721,14 +721,16 @@
     ]
   },
   {
-    "word": "doxxing",
-    "pronunciation": "/ˈdɑksɪŋ/",
-    "forms": [],
+    "word": "expungement",
+    "pronunciation": "/ɪkˈspʌndʒmənt/",
+    "forms": [
+      "expungements"
+    ],
     "meanings": [
       {
         "partOfSpeech": "noun",
         "burmese": [
-          "သူတစ်ပါးရဲ့ ကိုယ်ရေးအချက်အလက်ကို ခွင့်မရှိဘဲ အွန်လိုင်းမှာ ဖော်ထုတ်ခြင်း"
+          "တရားဝင်မှတ်တမ်းကနေ ပြစ်မှုမှတ်တမ်းကို ပယ်ဖျက်ရှင်းလင်းခြင်း"
         ]
       }
     ]
@@ -1290,8 +1292,7 @@
     "forms": [
       "whistleblows",
       "whistleblew",
-      "whistleblown",
-      "whistleblowing"
+      "whistleblown"
     ],
     "meanings": [
       {
