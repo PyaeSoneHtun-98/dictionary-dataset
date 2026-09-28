@@ -1,0 +1,1448 @@
+{
+  "version": 1,
+  "batch": 64,
+  "entries": [
+    {
+      "word": "autocompleter",
+      "pronunciation": "/ˌɔːtoʊkəmˈpliːtər/",
+      "forms": [
+        "autocompleters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာ သို့မဟုတ် ကုဒ်ရိုက်နေစဉ် ကျန်အပိုင်းကို အလိုအလျောက်ဖြည့်ပေးသည့် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deepfakeproof",
+      "pronunciation": "/ˈdiːpˌfeɪkˌpruːf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဉာဏ်ရည်တုဖြင့် အတုဖန်တီးမှုကို ခံနိုင်အောင် ကာကွယ်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "doomscrollable",
+      "pronunciation": "/ˈduːmˌskroʊləbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မကောင်းသတင်းများကို အဆုံးမဲ့ဆွဲကြည့်နိုင်သည့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fandomize",
+      "pronunciation": "/ˈfændəˌmaɪz/",
+      "forms": [
+        "fandomizes",
+        "fandomized",
+        "fandomizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အကြောင်းအရာတစ်ခုကို ပရိသတ်အသိုင်းအဝိုင်းပုံစံဖြင့် ဖွဲ့စည်းတင်ဆက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "livestreamable",
+      "pronunciation": "/ˈlaɪvˌstriːməbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အွန်လိုင်းမှ တိုက်ရိုက်ထုတ်လွှင့်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "podcastable",
+      "pronunciation": "/ˈpɑːdˌkæstəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အသံအစီအစဉ်အဖြစ် ထုတ်လွှင့်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spamproof",
+      "pronunciation": "/ˈspæmˌpruːf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အနှောင့်အယှက်စာများကို တားဆီးနိုင်အောင် ကာကွယ်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "textless",
+      "pronunciation": "/ˈtɛkstləs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စာသားမပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trackerless",
+      "pronunciation": "/ˈtrækərləs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အသုံးပြုသူကို ခြေရာခံသည့်စနစ် မပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wearabletech",
+      "pronunciation": "/ˈwerəbəlˌtɛk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်ပေါ်ဝတ်ဆင်နိုင်သည့် နည်းပညာကိရိယာများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "webstorefront",
+      "pronunciation": "/ˈwɛbˌstɔːrfrʌnt/",
+      "forms": [
+        "webstorefronts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းဆိုင်၏ ဖောက်သည်မြင်ရသည့် ရောင်းချရေးစာမျက်နှာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "creatorfund",
+      "pronunciation": "/kriˈeɪtərˌfʌnd/",
+      "forms": [
+        "creatorfunds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းအကြောင်းအရာဖန်တီးသူများကို ပံ့ပိုးပေးသည့် ရန်ပုံငွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "devtool",
+      "pronunciation": "/ˈdɛvˌtuːl/",
+      "forms": [
+        "devtools"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆော့ဖ်ဝဲဖန်တီးသူများ အသုံးပြုသည့် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "devkit",
+      "pronunciation": "/ˈdɛvˌkɪt/",
+      "forms": [
+        "devkits"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆော့ဖ်ဝဲ သို့မဟုတ် စက်ပစ္စည်း ဖန်တီးစမ်းသပ်ရန် ကိရိယာစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "devboard",
+      "pronunciation": "/ˈdɛvˌbɔːrd/",
+      "forms": [
+        "devboards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အီလက်ထရွန်နစ်စနစ် စမ်းသပ်ဖန်တီးရန် သုံးသည့် ဘုတ်ပြား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gamecaster",
+      "pronunciation": "/ˈɡeɪmˌkæstər/",
+      "forms": [
+        "gamecasters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂိမ်းကစားမှုကို တိုက်ရိုက်အသံနှင့်အတူ တင်ဆက်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gameengine",
+      "pronunciation": "/ˈɡeɪmˌɛndʒɪn/",
+      "forms": [
+        "gameengines"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဗီဒီယိုဂိမ်းဖန်တီးရန် အခြေခံလုပ်ဆောင်ချက်များ ပေးသည့် ဆော့ဖ်ဝဲစနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gamedev",
+      "pronunciation": "/ˈɡeɪmˌdɛv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဗီဒီယိုဂိမ်းဖန်တီးရေး လုပ်ငန်းနယ်ပယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "smartlock",
+      "pronunciation": "/ˈsmɑːrtˌlɑːk/",
+      "forms": [
+        "smartlocks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း သို့မဟုတ် ဒစ်ဂျစ်တယ်စနစ်ဖြင့် ထိန်းချုပ်နိုင်သည့် သော့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "smartthermostat",
+      "pronunciation": "/ˈsmɑːrtˌθɝːməˌstæt/",
+      "forms": [
+        "smartthermostats"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပူချိန်ကို အလိုအလျောက် ထိန်းချုပ်နိုင်သည့် စမတ်ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "subtweeting",
+      "pronunciation": "/ˈsʌbˌtwiːtɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နာမည်မဖော်ဘဲ တစ်ဦးဦးကို ရည်ညွှန်းဝေဖန်သည့် ပို့စ်တင်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "techwear",
+      "pronunciation": "/ˈtɛkˌwer/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နည်းပညာဆန်သော လုပ်ဆောင်ချက်နှင့် ဒီဇိုင်းပါသည့် အဝတ်အစားစတိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "textchat",
+      "pronunciation": "/ˈtɛkstˌtʃæt/",
+      "forms": [
+        "textchats"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာသားဖြင့် အွန်လိုင်းစကားပြောခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "videomessage",
+      "pronunciation": "/ˈvɪdioʊˌmɛsɪdʒ/",
+      "forms": [
+        "videomessages"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဗီဒီယိုဖြင့် ပို့ထားသော စာတိုအကြောင်းအရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "videoessay",
+      "pronunciation": "/ˈvɪdioʊˌɛseɪ/",
+      "forms": [
+        "videoessays"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဗီဒီယိုပုံစံဖြင့် ခွဲခြမ်းရှင်းလင်းတင်ပြထားသော ဆောင်းပါး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "videoessayist",
+      "pronunciation": "/ˈvɪdioʊˌɛseɪɪst/",
+      "forms": [
+        "videoessayists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဗီဒီယိုဆောင်းပါးများ ဖန်တီးတင်ဆက်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "voiceassistant",
+      "pronunciation": "/ˈvɔɪs əˌsɪstənt/",
+      "forms": [
+        "voiceassistants"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသံအမိန့်ကို နားလည်ပြီး တုံ့ပြန်လုပ်ဆောင်ပေးသည့် ဒစ်ဂျစ်တယ်အကူအညီစနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "voicebot",
+      "pronunciation": "/ˈvɔɪsˌbɑːt/",
+      "forms": [
+        "voicebots"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသံဖြင့် အလိုအလျောက် စကားပြောတုံ့ပြန်သည့် ပရိုဂရမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "webdrama",
+      "pronunciation": "/ˈwɛbˌdrɑːmə/",
+      "forms": [
+        "webdramas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းပေါ် အဓိကထုတ်လွှင့်သည့် ဇာတ်လမ်းတွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "webtoonist",
+      "pronunciation": "/ˈwɛbˌtuːnɪst/",
+      "forms": [
+        "webtoonists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းကာတွန်းဇာတ်လမ်းများ ရေးဆွဲဖန်တီးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hotspotting",
+      "pronunciation": "/ˈhɑːtˌspɑːtɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း သို့မဟုတ် စက်တစ်ခုမှ အင်တာနက်ချိတ်ဆက်မှုကို အခြားစက်များနှင့် မျှဝေခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cloudsave",
+      "pronunciation": "/ˈklaʊdˌseɪv/",
+      "forms": [
+        "cloudsaves"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိုင် သို့မဟုတ် ဂိမ်းတိုးတက်မှုကို အွန်လိုင်းဆာဗာတွင် သိမ်းထားခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cloudsync",
+      "pronunciation": "/ˈklaʊdˌsɪŋk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စက်များကြား ဒေတာကို အွန်လိုင်းမှ အလိုအလျောက် တူညီအောင်လုပ်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "geoquery",
+      "pronunciation": "/ˈdʒiːoʊˌkwɪri/",
+      "forms": [
+        "geoqueries"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တည်နေရာအခြေပြု အချက်အလက်ရှာဖွေမေးမြန်းမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mapless",
+      "pronunciation": "/ˈmæpləs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မြေပုံမလိုဘဲ လုပ်ဆောင်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "streamkey",
+      "pronunciation": "/ˈstriːmˌkiː/",
+      "forms": [
+        "streamkeys"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တိုက်ရိုက်ထုတ်လွှင့်မှုစနစ်နှင့် ချိတ်ဆက်ရန် သုံးသည့် လျှို့ဝှက်ကုဒ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "thumbnailer",
+      "pronunciation": "/ˈθʌmˌneɪlər/",
+      "forms": [
+        "thumbnailers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုံသေးများ ဖန်တီးသည့် ကိရိယာ သို့မဟုတ် လူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "clipmaker",
+      "pronunciation": "/ˈklɪpˌmeɪkər/",
+      "forms": [
+        "clipmakers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဗီဒီယိုအပိုင်းတိုများ ဖန်တီးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "contentcreator",
+      "pronunciation": "/ˈkɑːntɛnt kriˌeɪtər/",
+      "forms": [
+        "contentcreators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းအတွက် ဗီဒီယို စာ ပုံနှင့် အခြားအကြောင်းအရာများ ဖန်တီးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "contentfarm",
+      "pronunciation": "/ˈkɑːntɛntˌfɑːrm/",
+      "forms": [
+        "contentfarms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းကြည့်ရှုမှုရရန် အကြောင်းအရာအများအပြား ထုတ်လုပ်သည့် လုပ်ငန်း သို့မဟုတ် ကွန်ရက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "salestech",
+      "pronunciation": "/ˈseɪlzˌtɛk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရောင်းလုပ်ငန်းတွင် သုံးသည့် နည်းပညာနှင့် ဆော့ဖ်ဝဲများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "traveltech",
+      "pronunciation": "/ˈtrævəlˌtɛk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရီးသွားလုပ်ငန်းအတွက် ဖန်တီးထားသည့် နည်းပညာနှင့် ဆော့ဖ်ဝဲများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "airdropper",
+      "pronunciation": "/ˈerˌdrɑːpər/",
+      "forms": [
+        "airdroppers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိုင် သို့မဟုတ် ပစ္စည်းကို ကြိုးမဲ့စနစ်ဖြင့် တိုက်ရိုက်ပို့သူ သို့မဟုတ် ပို့သည့်ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hackback",
+      "pronunciation": "/ˈhækˌbæk/",
+      "forms": [
+        "hackbacks",
+        "hackbacked",
+        "hackbacking"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "မိမိကို ဟက်ခဲ့သည့်စနစ်ကို ပြန်လည်ဟက်တိုက်ခိုက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "downloadability",
+      "pronunciation": "/ˌdaʊnloʊdəˈbɪləti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိုင် သို့မဟုတ် အကြောင်းအရာကို ဒေါင်းလုပ်လုပ်နိုင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hashtagging",
+      "pronunciation": "/ˈhæʃˌtæɡɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပို့စ်တွင် အကြောင်းအရာခွဲခြားရန် ဟက်ရှ်အမှတ်ပါ စကားလုံးများ ထည့်သုံးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "appicon",
+      "pronunciation": "/ˈæpˌaɪkɑːn/",
+      "forms": [
+        "appicons"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အက်ပ်တစ်ခုကို ကိုယ်စားပြုသည့် ပုံသင်္ကေတ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "botmaster",
+      "pronunciation": "/ˈbɑːtˌmæstər/",
+      "forms": [
+        "botmasters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလိုအလျောက်အကောင့် သို့မဟုတ် ဘော့ကွန်ရက်ကို ထိန်းချုပ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cloudbackup",
+      "pronunciation": "/ˈklaʊdˌbækʌp/",
+      "forms": [
+        "cloudbackups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းဆာဗာပေါ် သိမ်းထားသော ဒေတာမိတ္တူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cloudstorage",
+      "pronunciation": "/ˈklaʊdˌstɔːrɪdʒ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိုင်များကို အွန်လိုင်းဆာဗာပေါ် သိမ်းဆည်းသည့် ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "codehost",
+      "pronunciation": "/ˈkoʊdˌhoʊst/",
+      "forms": [
+        "codehosts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပရိုဂရမ်ကုဒ်များကို အွန်လိုင်းသိမ်းဆည်းမျှဝေပေးသည့် ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "codehosting",
+      "pronunciation": "/ˈkoʊdˌhoʊstɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပရိုဂရမ်ကုဒ်များကို အွန်လိုင်းတွင် သိမ်းဆည်းပေးသည့် ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cyberrisk",
+      "pronunciation": "/ˈsaɪbərˌrɪsk/",
+      "forms": [
+        "cyberrisks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ်စနစ်များကြောင့် ဖြစ်နိုင်သော လုံခြုံရေးအန္တရာယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "databroker",
+      "pronunciation": "/ˈdeɪtəˌbroʊkər/",
+      "forms": [
+        "databrokers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူ သို့မဟုတ် လုပ်ငန်းများ၏ အချက်အလက်ကို စုဆောင်းရောင်းဝယ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "datapipeline",
+      "pronunciation": "/ˈdeɪtəˌpaɪplaɪn/",
+      "forms": [
+        "datapipelines"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချက်အလက်ကို အဆင့်ဆင့် ရွှေ့ပြောင်းပြင်ဆင်ပေးသည့် လုပ်ငန်းစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "datasharing",
+      "pronunciation": "/ˈdeɪtəˌʃerɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချက်အလက်ကို လူ သို့မဟုတ် စနစ်များကြား မျှဝေခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dataviz",
+      "pronunciation": "/ˈdeɪtəˌvɪz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချက်အလက်ကို ဇယားနှင့် ပုံများဖြင့် မြင်သာအောင် တင်ပြခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalasset",
+      "pronunciation": "/ˈdɪdʒɪtəlˌæsɛt/",
+      "forms": [
+        "digitalassets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ်ပုံစံဖြင့် ပိုင်ဆိုင်တန်ဖိုးရှိသော ဖိုင် သို့မဟုတ် ပစ္စည်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalidentity",
+      "pronunciation": "/ˈdɪdʒɪtəl aɪˈdɛntəti/",
+      "forms": [
+        "digitalidentities"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းတွင် လူ သို့မဟုတ် အဖွဲ့ကို ကိုယ်စားပြုသည့် အထောက်အထား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ebookstore",
+      "pronunciation": "/ˈiːˌbʊkˌstɔːr/",
+      "forms": [
+        "ebookstores"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အီလက်ထရွန်နစ်စာအုပ်များ ရောင်းချသည့် အွန်လိုင်းဆိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emailer",
+      "pronunciation": "/ˈiːˌmeɪlər/",
+      "forms": [
+        "emailers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အီးမေးလ်ပို့သည့် လူ သို့မဟုတ် ပရိုဂရမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emailfilter",
+      "pronunciation": "/ˈiːmeɪlˌfɪltər/",
+      "forms": [
+        "emailfilters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အီးမေးလ်များကို စည်းမျဉ်းအလိုက် ခွဲခြားပေးသည့် စနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "facefilter",
+      "pronunciation": "/ˈfeɪsˌfɪltər/",
+      "forms": [
+        "facefilters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဓာတ်ပုံ သို့မဟုတ် ဗီဒီယိုတွင် မျက်နှာပုံစံ ပြောင်းလဲအလှဆင်သည့် အကျိုးသက်ရောက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "filehost",
+      "pronunciation": "/ˈfaɪlˌhoʊst/",
+      "forms": [
+        "filehosts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိုင်များကို အွန်လိုင်းသိမ်းဆည်းဒေါင်းလုပ်ခွင့်ပေးသည့် ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "filehosting",
+      "pronunciation": "/ˈfaɪlˌhoʊstɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိုင်များကို အွန်လိုင်းတွင် သိမ်းဆည်းမျှဝေပေးသည့် ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gamestream",
+      "pronunciation": "/ˈɡeɪmˌstriːm/",
+      "forms": [
+        "gamestreams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂိမ်းကစားမှုကို အွန်လိုင်းမှ တိုက်ရိုက်ထုတ်လွှင့်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gamingchair",
+      "pronunciation": "/ˈɡeɪmɪŋˌtʃer/",
+      "forms": [
+        "gamingchairs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂိမ်းကစားရန် အဆင်ပြေအောင် ဒီဇိုင်းလုပ်ထားသော ထိုင်ခုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "imageboard",
+      "pronunciation": "/ˈɪmɪdʒˌbɔːrd/",
+      "forms": [
+        "imageboards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုံများကို အဓိကထား မျှဝေဆွေးနွေးသည့် အွန်လိုင်းဖိုရမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "imagehost",
+      "pronunciation": "/ˈɪmɪdʒˌhoʊst/",
+      "forms": [
+        "imagehosts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဓာတ်ပုံနှင့် ပုံဖိုင်များ အွန်လိုင်းသိမ်းဆည်းပေးသည့် ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "loginless",
+      "pronunciation": "/ˈlɔːɡɪnləs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အကောင့်ဝင်ရန် မလိုသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "logoutless",
+      "pronunciation": "/ˈlɔːɡaʊtləs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သီးခြားအကောင့်ထွက်လုပ်ဆောင်ချက် မလိုသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "photofilter",
+      "pronunciation": "/ˈfoʊtoʊˌfɪltər/",
+      "forms": [
+        "photofilters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဓာတ်ပုံ၏ အရောင်နှင့် ပုံစံ ပြောင်းလဲသည့် အကျိုးသက်ရောက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "podcastfeed",
+      "pronunciation": "/ˈpɑːdˌkæstˌfiːd/",
+      "forms": [
+        "podcastfeeds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသံအစီအစဉ်အပိုင်းအသစ်များကို အလိုအလျောက်ပေးသည့် ဖိဒ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "podcastplayer",
+      "pronunciation": "/ˈpɑːdˌkæstˌpleɪər/",
+      "forms": [
+        "podcastplayers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသံအစီအစဉ်များ နားထောင်ရန် အသုံးပြုသည့် အက်ပ် သို့မဟုတ် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "screencapper",
+      "pronunciation": "/ˈskriːnˌkæpər/",
+      "forms": [
+        "screencappers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျက်နှာပြင်ပုံ ဖမ်းယူသည့် ကိရိယာ သို့မဟုတ် လူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "screenrecord",
+      "pronunciation": "/ˈskriːn rɪˌkɔːrd/",
+      "forms": [
+        "screenrecords",
+        "screenrecorded",
+        "screenrecording"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "မျက်နှာပြင်ပေါ် ဖြစ်နေသမျှကို ဗီဒီယိုအဖြစ် မှတ်တမ်းတင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "smartcard",
+      "pronunciation": "/ˈsmɑːrtˌkɑːrd/",
+      "forms": [
+        "smartcards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချက်အလက်သိမ်းနိုင်သော ချစ်ပ်ပါ ကတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "smartdisplay",
+      "pronunciation": "/ˈsmɑːrt dɪˌspleɪ/",
+      "forms": [
+        "smartdisplays"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းချိတ်ဆက်မှုနှင့် အလိုအလျောက်အကူအညီ လုပ်ဆောင်ချက်ပါသော မျက်နှာပြင်ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialfeed",
+      "pronunciation": "/ˈsoʊʃəlˌfiːd/",
+      "forms": [
+        "socialfeeds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုကွန်ရက်ပေါ်က ပို့စ်အသစ်များ စဉ်ဆက်မပြတ်ပြသသည့် စာမျက်နှာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spamblocker",
+      "pronunciation": "/ˈspæmˌblɑːkər/",
+      "forms": [
+        "spamblockers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အနှောင့်အယှက်စာများကို ပိတ်ပင်သည့် စနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "streamingbox",
+      "pronunciation": "/ˈstriːmɪŋˌbɑːks/",
+      "forms": [
+        "streamingboxes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တီဗီပေါ် အွန်လိုင်းဗီဒီယိုများ ကြည့်ရန် ချိတ်ဆက်သည့် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "techsupport",
+      "pronunciation": "/ˈtɛk səˌpɔːrt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နည်းပညာပြဿနာများကို ဖြေရှင်းကူညီပေးသည့် ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "textmessage",
+      "pronunciation": "/ˈtɛkstˌmɛsɪdʒ/",
+      "forms": [
+        "textmessages"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်းမှ စာသားဖြင့် ပို့သည့် စာတို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "videofeed",
+      "pronunciation": "/ˈvɪdioʊˌfiːd/",
+      "forms": [
+        "videofeeds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကင်မရာ သို့မဟုတ် ကွန်ရက်မှ ဆက်တိုက်ရရှိသော ဗီဒီယိုပုံရိပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "videoplayer",
+      "pronunciation": "/ˈvɪdioʊˌpleɪər/",
+      "forms": [
+        "videoplayers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဗီဒီယိုဖိုင်များ ဖွင့်ကြည့်ရန် သုံးသည့် ဆော့ဖ်ဝဲ သို့မဟုတ် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "videostreamer",
+      "pronunciation": "/ˈvɪdioʊˌstriːmər/",
+      "forms": [
+        "videostreamers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဗီဒီယိုများကို အွန်လိုင်းမှ တိုက်ရိုက်ထုတ်လွှင့်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "voicechatting",
+      "pronunciation": "/ˈvɔɪsˌtʃætɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းမှ အသံဖြင့် အပြန်အလှန် စကားပြောခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "webforum",
+      "pronunciation": "/ˈwɛbˌfɔːrəm/",
+      "forms": [
+        "webforums"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းဆွေးနွေးရေးစာမျက်နှာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "webhost",
+      "pronunciation": "/ˈwɛbˌhoʊst/",
+      "forms": [
+        "webhosts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝဘ်ဆိုက်များကို ဆာဗာပေါ်ထားပေးသည့် ဝန်ဆောင်မှု သို့မဟုတ် လုပ်ငန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wirelesscharger",
+      "pronunciation": "/ˈwaɪərləsˌtʃɑːrdʒər/",
+      "forms": [
+        "wirelesschargers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြိုးမချိတ်ဘဲ လျှပ်စစ်အားသွင်းပေးသည့် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "blogware",
+      "pronunciation": "/ˈblɑːɡˌwer/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘလော့ဂ်ရေးနှင့် စီမံရန် အသုံးပြုသည့် ဆော့ဖ်ဝဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "datacleaning",
+      "pronunciation": "/ˈdeɪtəˌkliːnɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မှားယွင်း သို့မဟုတ် မလိုအပ်သည့် အချက်အလက်များကို ပြင်ဆင်ဖယ်ရှားခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "datamapping",
+      "pronunciation": "/ˈdeɪtəˌmæpɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စနစ်တစ်ခုရှိ အချက်အလက်ကို အခြားစနစ်ဖွဲ့စည်းပုံနှင့် ကိုက်ညီအောင် ချိတ်ဆက်သတ်မှတ်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "datasync",
+      "pronunciation": "/ˈdeɪtəˌsɪŋk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နေရာအမျိုးမျိုးရှိ အချက်အလက်ကို တူညီအောင် အလိုအလျောက်ညှိခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitallife",
+      "pronunciation": "/ˈdɪdʒɪtəlˌlaɪf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းနှင့် ဒစ်ဂျစ်တယ်စက်များအပေါ် အခြေခံသော နေ့စဉ်ဘဝ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitaltwin",
+      "pronunciation": "/ˈdɪdʒɪtəlˌtwɪn/",
+      "forms": [
+        "digitaltwins"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစစ်အမှန်စက် သို့မဟုတ် စနစ်တစ်ခုကို ဒစ်ဂျစ်တယ်ပုံစံဖြင့် တိတိကျကျ ကိုယ်စားပြုထားသော မော်ဒယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "smartdevice",
+      "pronunciation": "/ˈsmɑːrt dɪˌvaɪs/",
+      "forms": [
+        "smartdevices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းချိတ်ဆက်ပြီး အလိုအလျောက်လုပ်ဆောင်နိုင်သည့် အီလက်ထရွန်နစ်ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "webchat",
+      "pronunciation": "/ˈwɛbˌtʃæt/",
+      "forms": [
+        "webchats"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝဘ်စာမျက်နှာပေါ်မှ တိုက်ရိုက်စာသားစကားပြောခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "webclient",
+      "pronunciation": "/ˈwɛbˌklaɪənt/",
+      "forms": [
+        "webclients"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝဘ်ဆာဗာမှ အချက်အလက်တောင်းယူပြသသည့် အက်ပ် သို့မဟုတ် ပရိုဂရမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "webcrawler",
+      "pronunciation": "/ˈwɛbˌkrɔːlər/",
+      "forms": [
+        "webcrawlers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝဘ်စာမျက်နှာများကို အလိုအလျောက် လိုက်လံဖတ်ရှုစုဆောင်းသည့် ပရိုဂရမ်"
+          ]
+        }
+      ]
+    }
+  ]
+}
