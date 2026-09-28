@@ -1,0 +1,7337 @@
+{
+  "version": 1,
+  "batch": 66,
+  "entries": [
+    {
+      "word": "backtalk",
+      "pronunciation": "/ˈbækˌtɔːk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူကြီး သို့မဟုတ် အာဏာရှိသူကို ပြန်လည်ရိုင်းစိုင်းပြောဆိုခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "breakuptext",
+      "pronunciation": "/ˈbreɪkʌpˌtɛkst/",
+      "forms": [
+        "breakuptexts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးဖြတ်ရန် စာတိုဖြင့် ပို့သည့် မက်ဆေ့ချ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crushable",
+      "pronunciation": "/ˈkrʌʃəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အချစ်စိတ်ဝင်စားမိလွယ်အောင် ဆွဲဆောင်မှုရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "datemate",
+      "pronunciation": "/ˈdeɪtˌmeɪt/",
+      "forms": [
+        "datemates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးတွေ့ဆုံရန် အတူသွားသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "datinglife",
+      "pronunciation": "/ˈdeɪtɪŋˌlaɪf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချစ်သူရှာဖွေတွေ့ဆုံခြင်းနှင့် ဆိုင်သော ကိုယ်ပိုင်ဘဝပိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "exfriend",
+      "pronunciation": "/ˈɛksˌfrɛnd/",
+      "forms": [
+        "exfriends"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယခင်က မိတ်ဆွေဖြစ်ခဲ့သော်လည်း ယခုမရင်းနှီးတော့သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyfriend",
+      "pronunciation": "/ˈfæməliˌfrɛnd/",
+      "forms": [
+        "familyfriends"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုတစ်စုလုံးနှင့် ရင်းနှီးသည့် မိတ်ဆွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyhome",
+      "pronunciation": "/ˈfæməliˌhoʊm/",
+      "forms": [
+        "familyhomes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုအတူနေထိုင်သည့် အိမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyname",
+      "pronunciation": "/ˈfæməliˌneɪm/",
+      "forms": [
+        "familynames"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုဝင်များ အတူအသုံးပြုသည့် နောက်ဆုံးအမည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyroom",
+      "pronunciation": "/ˈfæməliˌruːm/",
+      "forms": [
+        "familyrooms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုဝင်များ အတူထိုင်နားရန် အသုံးပြုသည့် အခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familytree",
+      "pronunciation": "/ˈfæməliˌtriː/",
+      "forms": [
+        "familytrees"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုမျိုးဆက်ဆက်နွယ်မှုကို သစ်ပင်ပုံစံဖြင့် ပြထားသည့် ဇယား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fatherfigure",
+      "pronunciation": "/ˈfɑːðərˌfɪɡjər/",
+      "forms": [
+        "fatherfigures"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖခင်ကဲ့သို့ လမ်းညွှန်ကာကွယ်ပေးသည့် အမျိုးသား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fosterparent",
+      "pronunciation": "/ˈfɔːstərˌperənt/",
+      "forms": [
+        "fosterparents"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိမိကလေးမဟုတ်သူကို ယာယီမိဘအဖြစ် စောင့်ရှောက်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "godparent",
+      "pronunciation": "/ˈɡɑːdˌperənt/",
+      "forms": [
+        "godparents"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေး၏ ဘာသာရေး သို့မဟုတ် ကိုယ်ရေးလမ်းညွှန်မှုကို အထူးတာဝန်ယူရန် ရွေးချယ်ထားသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "grandparenthood",
+      "pronunciation": "/ˈɡrændˌperənthʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဘိုး သို့မဟုတ် အဘွားဖြစ်နေသည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "halfbrother",
+      "pronunciation": "/ˈhæfˌbrʌðər/",
+      "forms": [
+        "halfbrothers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိဘတစ်ဦးသာ တူသော အစ်ကို သို့မဟုတ် ညီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "halfsister",
+      "pronunciation": "/ˈhæfˌsɪstər/",
+      "forms": [
+        "halfsisters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိဘတစ်ဦးသာ တူသော အစ်မ သို့မဟုတ် ညီမ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "housematehood",
+      "pronunciation": "/ˈhaʊsˌmeɪthʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိမ်တစ်လုံးတည်း အတူမျှဝေနေထိုင်သူများ ဖြစ်နေသည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inlaw",
+      "pronunciation": "/ˈɪnˌlɔː/",
+      "forms": [
+        "inlaws"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်ထပ်ခြင်းကြောင့် ဆွေမျိုးဖြစ်လာသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "kisscam",
+      "pronunciation": "/ˈkɪsˌkæm/",
+      "forms": [
+        "kisscams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပွဲကြည့်စင်ရှိ စုံတွဲများကို ဖန်သားပြင်ပေါ်ပြပြီး အနမ်းပေးရန် အားပေးသည့် ကင်မရာအစီအစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lovelife",
+      "pronunciation": "/ˈlʌvˌlaɪf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူတစ်ဦး၏ အချစ်ရေးနှင့် ချစ်သူဆက်ဆံရေးပိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "loveletter",
+      "pronunciation": "/ˈlʌvˌlɛtər/",
+      "forms": [
+        "loveletters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချစ်ခင်စိတ်ကို ရေးသားဖော်ပြထားသည့် စာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lovenote",
+      "pronunciation": "/ˈlʌvˌnoʊt/",
+      "forms": [
+        "lovenotes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချစ်ခင်စိတ်ဖော်ပြသည့် စာတိုအသေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "loveinterest",
+      "pronunciation": "/ˈlʌvˌɪntrəst/",
+      "forms": [
+        "loveinterests"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇာတ်လမ်း သို့မဟုတ် လက်တွေ့ဘဝတွင် အချစ်ရေးစိတ်ဝင်စားသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lovetriangle",
+      "pronunciation": "/ˈlʌvˌtraɪæŋɡəl/",
+      "forms": [
+        "lovetriangles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူသုံးဦးကြား အချစ်ရေးရှုပ်ထွေးနေသည့် ဆက်ဆံရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "matchmakingapp",
+      "pronunciation": "/ˈmætʃˌmeɪkɪŋˌæp/",
+      "forms": [
+        "matchmakingapps"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးမိတ်ဖက် သို့မဟုတ် လက်ထပ်ဖော်ရှာရန် သုံးသည့် အက်ပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "motherfigure",
+      "pronunciation": "/ˈmʌðərˌfɪɡjər/",
+      "forms": [
+        "motherfigures"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိခင်ကဲ့သို့ စောင့်ရှောက်လမ်းညွှန်ပေးသည့် အမျိုးသမီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "parentteacher",
+      "pronunciation": "/ˈperəntˌtiːtʃər/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မိဘနှင့် ဆရာ ဆက်သွယ်ပူးပေါင်းမှုနှင့် သက်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "siblinghood",
+      "pronunciation": "/ˈsɪblɪŋˌhʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစ်ကို အစ်မ ညီ ညီမတို့အဖြစ် ဆက်နွယ်နေမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stepsibling",
+      "pronunciation": "/ˈstɛpˌsɪblɪŋ/",
+      "forms": [
+        "stepsiblings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိဘတစ်ဦး လက်ထပ်ခြင်းကြောင့် မောင်နှမဖြစ်လာသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stepparent",
+      "pronunciation": "/ˈstɛpˌperənt/",
+      "forms": [
+        "stepparents"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိဘတစ်ဦး၏ နောက်ထပ်အိမ်ထောင်ဖက်ဖြစ်ပြီး မိဘအဖြစ် ပါဝင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "talkingstage",
+      "pronunciation": "/ˈtɔːkɪŋˌsteɪdʒ/",
+      "forms": [
+        "talkingstages"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တရားဝင်ချစ်သူမဖြစ်မီ တစ်ယောက်နှင့်တစ်ယောက် စိတ်ဝင်စား၍ စကားပြောလေ့လာနေသည့် အဆင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "weddingparty",
+      "pronunciation": "/ˈwɛdɪŋˌpɑːrti/",
+      "forms": [
+        "weddingparties"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မင်္ဂလာပွဲတွင် သတို့သားသတို့သမီးနှင့် အနီးကပ်ပါဝင်ကူညီသည့် အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "weddingguest",
+      "pronunciation": "/ˈwɛdɪŋˌɡɛst/",
+      "forms": [
+        "weddingguests"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မင်္ဂလာပွဲသို့ ဖိတ်ကြားထားသည့် ဧည့်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "weddingplanner",
+      "pronunciation": "/ˈwɛdɪŋˌplænər/",
+      "forms": [
+        "weddingplanners"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မင်္ဂလာပွဲအတွက် နေရာ အစီအစဉ်နှင့် ဝန်ဆောင်မှုများ စီစဉ်ပေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "weddingvow",
+      "pronunciation": "/ˈwɛdɪŋˌvaʊ/",
+      "forms": [
+        "weddingvows"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မင်္ဂလာပွဲတွင် အိမ်ထောင်ဖက်နှစ်ဦး ပြုသော ကတိစကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bestfriend",
+      "pronunciation": "/ˌbɛstˈfrɛnd/",
+      "forms": [
+        "bestfriends"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလွန်ရင်းနှီးယုံကြည်ရသော မိတ်ဆွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "childhoodfriend",
+      "pronunciation": "/ˈtʃaɪldhʊdˌfrɛnd/",
+      "forms": [
+        "childhoodfriends"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေးဘဝကတည်းက ရင်းနှီးလာသည့် မိတ်ဆွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "friendgroup",
+      "pronunciation": "/ˈfrɛndˌɡruːp/",
+      "forms": [
+        "friendgroups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တစ်ဦးနှင့်တစ်ဦး ရင်းနှီးသည့် မိတ်ဆွေအစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "friendcircle",
+      "pronunciation": "/ˈfrɛndˌsɝːkəl/",
+      "forms": [
+        "friendcircles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူတစ်ဦးနှင့် နီးစပ်ရင်းနှီးသည့် မိတ်ဆွေများအစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "friendrequest",
+      "pronunciation": "/ˈfrɛnd rɪˌkwɛst/",
+      "forms": [
+        "friendrequests"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုကွန်ရက်တွင် မိတ်ဆွေအဖြစ် ချိတ်ဆက်ရန် ပို့သည့် တောင်းဆိုချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "friendlist",
+      "pronunciation": "/ˈfrɛndˌlɪst/",
+      "forms": [
+        "friendlists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အကောင့်တစ်ခုနှင့် ချိတ်ဆက်ထားသည့် မိတ်ဆွေများ စာရင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "friendchat",
+      "pronunciation": "/ˈfrɛndˌtʃæt/",
+      "forms": [
+        "friendchats"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိတ်ဆွေများအကြား စာတို သို့မဟုတ် အွန်လိုင်းစကားပြောခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "boyfriendmaterial",
+      "pronunciation": "/ˈbɔɪfrɛnd məˌtɪriəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ချစ်သူအဖြစ် တည်ငြိမ်စွာ တွဲဖက်သင့်သည်ဟု ထင်ရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "girlfriendmaterial",
+      "pronunciation": "/ˈɡɝːlfrɛnd məˌtɪriəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ချစ်သူအဖြစ် တည်ငြိမ်စွာ တွဲဖက်သင့်သည်ဟု ထင်ရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "newlysingle",
+      "pronunciation": "/ˌnuːliˈsɪŋɡəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မကြာသေးမီက အချစ်ရေး သို့မဟုတ် အိမ်ထောင်ရေး ပြတ်သွားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "singlehood",
+      "pronunciation": "/ˈsɪŋɡəlˌhʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချစ်သူ သို့မဟုတ် အိမ်ထောင်ဖက်မရှိဘဲ နေထိုင်နေသည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reboundrelationship",
+      "pronunciation": "/ˈriːbaʊnd rɪˌleɪʃənʃɪp/",
+      "forms": [
+        "reboundrelationships"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးတစ်ခု ပြတ်ပြီး မကြာမီ စတင်သည့် နောက်ထပ်ဆက်ဆံရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rebounddate",
+      "pronunciation": "/ˈriːbaʊndˌdeɪt/",
+      "forms": [
+        "rebounddates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးပြတ်ပြီး မကြာမီ နောက်တစ်ဦးနှင့် အချစ်ရေးတွေ့ဆုံခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "secretcrush",
+      "pronunciation": "/ˈsiːkrətˌkrʌʃ/",
+      "forms": [
+        "secretcrushes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မဖော်ပြသေးဘဲ လျှို့ဝှက်စွာ စိတ်ဝင်စားနေသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "secretadmirer",
+      "pronunciation": "/ˈsiːkrət ədˌmaɪrər/",
+      "forms": [
+        "secretadmirers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိမိအမည်မဖော်ဘဲ အခြားသူကို နှစ်သက်အားကျနေသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "secretlover",
+      "pronunciation": "/ˈsiːkrətˌlʌvər/",
+      "forms": [
+        "secretlovers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခြားသူများ မသိအောင် လျှို့ဝှက်ထားသည့် ချစ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "blinddate",
+      "pronunciation": "/ˈblaɪndˌdeɪt/",
+      "forms": [
+        "blinddates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မတွေ့ဖူးသေးသူနှစ်ဦးကို မိတ်ဆွေ သို့မဟုတ် အက်ပ်က စီစဉ်ပေးသည့် အချစ်ရေးတွေ့ဆုံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "doubledate",
+      "pronunciation": "/ˈdʌbəlˌdeɪt/",
+      "forms": [
+        "doubledates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စုံတွဲနှစ်တွဲ အတူသွားသည့် အချစ်ရေးတွေ့ဆုံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "firstdate",
+      "pronunciation": "/ˈfɝːstˌdeɪt/",
+      "forms": [
+        "firstdates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူနှစ်ဦး၏ ပထမဆုံးအချစ်ရေးတွေ့ဆုံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "seconddate",
+      "pronunciation": "/ˈsɛkəndˌdeɪt/",
+      "forms": [
+        "seconddates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပထမတွေ့ဆုံမှုနောက် ထပ်မံပြုလုပ်သည့် အချစ်ရေးတွေ့ဆုံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dateidea",
+      "pronunciation": "/ˈdeɪt aɪˌdiːə/",
+      "forms": [
+        "dateideas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချစ်သူနှစ်ဦး အတူလုပ်ရန် အကြံပြုသည့် လှုပ်ရှားမှု သို့မဟုတ် နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dateplan",
+      "pronunciation": "/ˈdeɪtˌplæn/",
+      "forms": [
+        "dateplans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးတွေ့ဆုံမှုအတွက် ကြိုတင်စီစဉ်ထားသည့် အစီအစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "breakupnote",
+      "pronunciation": "/ˈbreɪkʌpˌnoʊt/",
+      "forms": [
+        "breakupnotes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးဖြတ်ကြောင်း ရေးထားသည့် စာတို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "breakupcall",
+      "pronunciation": "/ˈbreɪkʌpˌkɔːl/",
+      "forms": [
+        "breakupcalls"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးဖြတ်ရန် ပြုလုပ်သည့် ဖုန်းခေါ်ဆိုမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "breakupmessage",
+      "pronunciation": "/ˈbreɪkʌpˌmɛsɪdʒ/",
+      "forms": [
+        "breakupmessages"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးဖြတ်ရန် ပို့သည့် မက်ဆေ့ချ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "breakupletter",
+      "pronunciation": "/ˈbreɪkʌpˌlɛtər/",
+      "forms": [
+        "breakupletters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးဖြတ်ကြောင်း ရေးထားသည့် စာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "closuretalk",
+      "pronunciation": "/ˈkloʊʒərˌtɔːk/",
+      "forms": [
+        "closuretalks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆက်ဆံရေးပြီးဆုံးပြီးနောက် အကြောင်းရင်းနှင့် ခံစားချက်များကို နောက်ဆုံးရှင်းလင်းပြောဆိုခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "relationshiptalk",
+      "pronunciation": "/rɪˈleɪʃənʃɪpˌtɔːk/",
+      "forms": [
+        "relationshiptalks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချစ်သူဆက်ဆံရေးအခြေအနေနှင့် အနာဂတ်ကို တိတိကျကျ ဆွေးနွေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "relationshipstatus",
+      "pronunciation": "/rɪˈleɪʃənʃɪpˌsteɪtəs/",
+      "forms": [
+        "relationshipstatuses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တစ်ယောက်၏ လက်ရှိအချစ်ရေး သို့မဟုတ် အိမ်ထောင်ရေး အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "relationshipadvice",
+      "pronunciation": "/rɪˈleɪʃənʃɪp ədˌvaɪs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးပြဿနာနှင့် ဆက်ဆံရေးကောင်းမွန်ရေးအတွက် ပေးသည့် အကြံဉာဏ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "relationshipgoal",
+      "pronunciation": "/rɪˈleɪʃənʃɪpˌɡoʊl/",
+      "forms": [
+        "relationshipgoals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချစ်သူ သို့မဟုတ် အိမ်ထောင်ရေးဆက်ဆံမှုတွင် ရရှိလိုသည့် ရည်မှန်းချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "longdistance",
+      "pronunciation": "/ˌlɔːŋˈdɪstəns/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဝေးကွာသည့် နေရာနှစ်ခုကြား ဆက်သွယ် သို့မဟုတ် ဆက်ဆံရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "longdistancerelationship",
+      "pronunciation": "/ˌlɔːŋdɪstəns rɪˈleɪʃənʃɪp/",
+      "forms": [
+        "longdistancerelationships"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နေရာဝေးကွာနေသူနှစ်ဦးကြား အချစ်ရေးဆက်ဆံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sharedcustody",
+      "pronunciation": "/ˈʃerdˌkʌstədi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိဘနှစ်ဦးက ကလေးစောင့်ရှောက်ခွင့်နှင့် တာဝန်ကို မျှဝေထားသည့် စနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "solecustody",
+      "pronunciation": "/ˈsoʊlˌkʌstədi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိဘတစ်ဦးတည်းတွင် ကလေး၏ အဓိကစောင့်ရှောက်ခွင့်ရှိသည့် စနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "childsupport",
+      "pronunciation": "/ˈtʃaɪld səˌpɔːrt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေးစောင့်ရှောက်ရေးအတွက် မိဘတစ်ဦးက ပေးရသည့် ငွေကြေးထောက်ပံ့မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spousalsupport",
+      "pronunciation": "/ˈspaʊzəl səˌpɔːrt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခွဲနေ သို့မဟုတ် ကွာရှင်းပြီးနောက် အိမ်ထောင်ဖက်တစ်ဦးကို ပေးရသည့် ငွေကြေးထောက်ပံ့မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "prenup",
+      "pronunciation": "/ˈpriːˌnʌp/",
+      "forms": [
+        "prenups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်ထပ်မီ ပိုင်ဆိုင်မှုနှင့် ငွေကြေးအခွင့်အရေးများ သတ်မှတ်ထားသည့် သဘောတူစာချုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "blendedfamily",
+      "pronunciation": "/ˈblɛndɪdˌfæməli/",
+      "forms": [
+        "blendedfamilies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယခင်အိမ်ထောင်များမှ ကလေးများနှင့် မိဘအသစ်များ ပေါင်းစည်းထားသည့် မိသားစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chosenfamily",
+      "pronunciation": "/ˈtʃoʊzənˌfæməli/",
+      "forms": [
+        "chosenfamilies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သွေးသားမဟုတ်သော်လည်း မိသားစုလို နီးစပ်ယုံကြည်ထားသည့် လူများအစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familybond",
+      "pronunciation": "/ˈfæməliˌbɑːnd/",
+      "forms": [
+        "familybonds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုဝင်များအကြား ခိုင်မာသည့် ချစ်ခင်ဆက်နွယ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familycircle",
+      "pronunciation": "/ˈfæməliˌsɝːkəl/",
+      "forms": [
+        "familycircles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နီးစပ်သည့် မိသားစုဝင်များ၏ အစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familydinner",
+      "pronunciation": "/ˈfæməliˌdɪnər/",
+      "forms": [
+        "familydinners"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုဝင်များ အတူစားသည့် ညစာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familygathering",
+      "pronunciation": "/ˈfæməliˌɡæðərɪŋ/",
+      "forms": [
+        "familygatherings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုဝင်များ စုပေါင်းတွေ့ဆုံသည့် အခမ်းအနား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familymember",
+      "pronunciation": "/ˈfæməliˌmɛmbər/",
+      "forms": [
+        "familymembers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုတစ်စုတွင် ပါဝင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familymeeting",
+      "pronunciation": "/ˈfæməliˌmiːtɪŋ/",
+      "forms": [
+        "familymeetings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုအရေးများ ဆွေးနွေးရန် စုဝေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyphoto",
+      "pronunciation": "/ˈfæməliˌfoʊtoʊ/",
+      "forms": [
+        "familyphotos"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုဝင်များ အတူရိုက်ထားသည့် ဓာတ်ပုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyreunion",
+      "pronunciation": "/ˈfæməli riˌjuːniən/",
+      "forms": [
+        "familyreunions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွဲနေသည့် မိသားစုဝင်များ ပြန်လည်တွေ့ဆုံသည့် အခမ်းအနား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyvacation",
+      "pronunciation": "/ˈfæməli veɪˌkeɪʃən/",
+      "forms": [
+        "familyvacations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုဝင်များ အတူသွားသည့် အပန်းဖြေခရီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fosterchild",
+      "pronunciation": "/ˈfɔːstərˌtʃaɪld/",
+      "forms": [
+        "fosterchildren"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မွေးမိဘမဟုတ်သည့် မိသားစုက ယာယီစောင့်ရှောက်ထားသည့် ကလေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fostercare",
+      "pronunciation": "/ˈfɔːstərˌker/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေးကို မွေးမိဘမဟုတ်သည့် မိသားစုက ယာယီစောင့်ရှောက်သည့် စနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fosterfamily",
+      "pronunciation": "/ˈfɔːstərˌfæməli/",
+      "forms": [
+        "fosterfamilies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခြားမိသားစုမှ ကလေးကို ယာယီစောင့်ရှောက်ပေးသည့် မိသားစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fosterhome",
+      "pronunciation": "/ˈfɔːstərˌhoʊm/",
+      "forms": [
+        "fosterhomes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေးကို ယာယီမိသားစုအဖြစ် လက်ခံစောင့်ရှောက်သည့် အိမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "goddaughter",
+      "pronunciation": "/ˈɡɑːdˌdɔːtər/",
+      "forms": [
+        "goddaughters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂေါ့ဒ်မိဘတစ်ဦး၏ အထူးစောင့်ရှောက်မှုနှင့် လမ်းညွှန်မှုရရှိသည့် မိန်းကလေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolfriend",
+      "pronunciation": "/ˈskuːlˌfrɛnd/",
+      "forms": [
+        "schoolfriends"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်းမှ သိကျွမ်းရင်းနှီးသည့် မိတ်ဆွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "workfriend",
+      "pronunciation": "/ˈwɝːkˌfrɛnd/",
+      "forms": [
+        "workfriends"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလုပ်နေရာတွင် ရင်းနှီးလာသည့် မိတ်ဆွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "oldfriend",
+      "pronunciation": "/ˈoʊldˌfrɛnd/",
+      "forms": [
+        "oldfriends"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နှစ်ပေါင်းများစွာ ရင်းနှီးလာသည့် မိတ်ဆွေဟောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mutualfriend",
+      "pronunciation": "/ˈmjuːtʃuəlˌfrɛnd/",
+      "forms": [
+        "mutualfriends"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူနှစ်ဦးစလုံးနှင့် ရင်းနှီးသည့် မိတ်ဆွေတစ်ဦး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "parentmeeting",
+      "pronunciation": "/ˈperəntˌmiːtɪŋ/",
+      "forms": [
+        "parentmeetings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိဘများနှင့် ကျောင်း သို့မဟုတ် အဖွဲ့အစည်း တွေ့ဆုံဆွေးနွေးသည့် အစည်းအဝေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "parentnight",
+      "pronunciation": "/ˈperəntˌnaɪt/",
+      "forms": [
+        "parentnights"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိဘများအတွက် ကျောင်းက သတ်မှတ်ပြုလုပ်သည့် တွေ့ဆုံဆွေးနွေးပွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "grandparentsday",
+      "pronunciation": "/ˈɡrændˌperəntsˌdeɪ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဘိုးအဘွားများကို ဂုဏ်ပြုရန် သတ်မှတ်ထားသည့် နေ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "housemateapp",
+      "pronunciation": "/ˈhaʊsˌmeɪtˌæp/",
+      "forms": [
+        "housemateapps"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိမ်အတူနေမည့်သူ ရှာရန် သို့မဟုတ် အိမ်တာဝန်များ စီမံရန် သုံးသည့် အက်ပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "godfatherhood",
+      "pronunciation": "/ˈɡɑːdˌfɑːðərhʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေးတစ်ဦး၏ ဂေါ့ဒ်ဖခင်အဖြစ် တာဝန်ယူနေသည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "godmotherhood",
+      "pronunciation": "/ˈɡɑːdˌmʌðərhʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေးတစ်ဦး၏ ဂေါ့ဒ်မိခင်အဖြစ် တာဝန်ယူနေသည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "angerissue",
+      "pronunciation": "/ˈæŋɡərˌɪʃuː/",
+      "forms": [
+        "angerissues"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒေါသကို ထိန်းချုပ်ရန် ခက်ခဲသည့် ပြဿနာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "angerproblem",
+      "pronunciation": "/ˈæŋɡərˌprɑːbləm/",
+      "forms": [
+        "angerproblems"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒေါသထွက်လွယ်ခြင်း သို့မဟုတ် ဒေါသထိန်းမရခြင်းဆိုင်ရာ ပြဿနာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "badattitude",
+      "pronunciation": "/ˌbædˈætətuːd/",
+      "forms": [
+        "badattitudes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မလေးစားသည့် သို့မဟုတ် အဆိုးမြင်သည့် အပြုအမူသဘောထား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "badbehavior",
+      "pronunciation": "/ˌbæd bɪˈheɪvjər/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မသင့်တော်သော သို့မဟုတ် စည်းကမ်းမလိုက်နာသော အပြုအမူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "badhabit",
+      "pronunciation": "/ˌbædˈhæbɪt/",
+      "forms": [
+        "badhabits"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မကောင်းသော ထပ်ခါတလဲလဲ အလေ့အထ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "badmood",
+      "pronunciation": "/ˌbædˈmuːd/",
+      "forms": [
+        "badmoods"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စိတ်မကြည်မလင် ဖြစ်နေသည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "badtemper",
+      "pronunciation": "/ˌbædˈtɛmpər/",
+      "forms": [
+        "badtempers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒေါသထွက်လွယ်သည့် စိတ်သဘော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "blamegame",
+      "pronunciation": "/ˈbleɪmˌɡeɪm/",
+      "forms": [
+        "blamegames"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြဿနာအတွက် တစ်ယောက်ကိုတစ်ယောက် အပြစ်တင်နေခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "blameshifting",
+      "pronunciation": "/ˈbleɪmˌʃɪftɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိမိတာဝန်ရှိမှုကို အခြားသူထံ လွှဲအပြစ်တင်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "breakupdrama",
+      "pronunciation": "/ˈbreɪkʌpˌdrɑːmə/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးပြတ်စဲချိန်တွင် ဖြစ်ပေါ်သည့် အငြင်းပွားမှုနှင့် ရှုပ်ထွေးမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "calloutpost",
+      "pronunciation": "/ˈkɔːlaʊtˌpoʊst/",
+      "forms": [
+        "calloutposts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းတွင် လူတစ်ဦး၏ လုပ်ရပ်ကို အများရှေ့ထုတ်ဖော်ဝေဖန်သည့် ပို့စ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "clapback",
+      "pronunciation": "/ˈklæpˌbæk/",
+      "forms": [
+        "clapbacks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝေဖန်မှု သို့မဟုတ် စော်ကားမှုကို လျင်မြန်ပြင်းထန်စွာ ပြန်လည်တုံ့ပြန်သည့် စကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "coldshoulder",
+      "pronunciation": "/ˈkoʊldˌʃoʊldər/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူတစ်ဦးကို တမင်လျစ်လျူရှု၍ အေးတိအေးစက် ဆက်ဆံခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dramaqueen",
+      "pronunciation": "/ˈdrɑːməˌkwiːn/",
+      "forms": [
+        "dramaqueens"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသေးအမွှားကိစ္စကို အလွန်အကျွံ ချဲ့ကားတုံ့ပြန်တတ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "eyeroll",
+      "pronunciation": "/ˈaɪˌroʊl/",
+      "forms": [
+        "eyerolls"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စိတ်ပျက် သို့မဟုတ် မယုံကြည်ကြောင်း ပြရန် မျက်လုံးလှန်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "faceoff",
+      "pronunciation": "/ˈfeɪsˌɔːf/",
+      "forms": [
+        "faceoffs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူနှစ်ဦး သို့မဟုတ် အဖွဲ့နှစ်ဖွဲ့ တိုက်ရိုက်ထိပ်တိုက်တွေ့မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "freakout",
+      "pronunciation": "/ˈfriːkˌaʊt/",
+      "forms": [
+        "freakouts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလွန်ကြောက်ရွံ့ စိတ်လှုပ်ရှား သို့မဟုတ် ထိန်းမရအောင် တုံ့ပြန်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hurtfeelings",
+      "pronunciation": "/ˌhɝːtˈfiːlɪŋz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စကား သို့မဟုတ် လုပ်ရပ်ကြောင့် စိတ်ထိခိုက်နာကျင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "insidejoke",
+      "pronunciation": "/ˈɪnsaɪdˌdʒoʊk/",
+      "forms": [
+        "insidejokes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အုပ်စုငယ်တစ်ခုအတွင်းက လူများသာ နားလည်သည့် ဟာသ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jealousstreak",
+      "pronunciation": "/ˈdʒɛləsˌstriːk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မကြာခဏ မနာလိုဖြစ်တတ်သည့် စိတ်သဘော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overreactor",
+      "pronunciation": "/ˌoʊvərriˈæktər/",
+      "forms": [
+        "overreactors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခြေအနေထက် ပိုမိုပြင်းထန်စွာ တုံ့ပြန်တတ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "putdown",
+      "pronunciation": "/ˈpʊtˌdaʊn/",
+      "forms": [
+        "putdowns"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခြားသူကို နှိမ့်ချစေသည့် စကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ranting",
+      "pronunciation": "/ˈræntɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒေါသဖြင့် ရှည်လျားပြင်းထန်စွာ ပြောဆိုဝေဖန်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "redflag",
+      "pronunciation": "/ˈrɛdˌflæɡ/",
+      "forms": [
+        "redflags"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အန္တရာယ် သို့မဟုတ် ပြဿနာရှိနိုင်ကြောင်း သတိပေးသည့် အချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "silenttreatment",
+      "pronunciation": "/ˈsaɪləntˌtriːtmənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒေါသ သို့မဟုတ် ဖိအားပေးရန် တစ်ယောက်ကို တမင်စကားမပြောဘဲ နေခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "temperswing",
+      "pronunciation": "/ˈtɛmpərˌswɪŋ/",
+      "forms": [
+        "temperswings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စိတ်နေစိတ်ထားနှင့် ဒေါသအဆင့် ရုတ်တရက် ပြောင်းလဲခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tensionbuilding",
+      "pronunciation": "/ˈtɛnʃənˌbɪldɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူများကြား အတင်းအကျပ်ခံစားမှု တဖြည်းဖြည်း ပိုလာခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trustissue",
+      "pronunciation": "/ˈtrʌstˌɪʃuː/",
+      "forms": [
+        "trustissues"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခြားသူကို ယုံကြည်ရန် ခက်ခဲသည့် ပြဿနာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "verbalabuse",
+      "pronunciation": "/ˈvɝːbəl əˌbjuːs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စကားဖြင့် ဆဲဆို နှိမ့်ချ သို့မဟုတ် ခြိမ်းခြောက်၍ စိတ်ထိခိုက်စေခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "verbalattack",
+      "pronunciation": "/ˈvɝːbəl əˌtæk/",
+      "forms": [
+        "verbalattacks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စကားဖြင့် ပြင်းပြင်းထန်ထန် ဝေဖန် သို့မဟုတ် တိုက်ခိုက်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "verbalfight",
+      "pronunciation": "/ˈvɝːbəlˌfaɪt/",
+      "forms": [
+        "verbalfights"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စကားဖြင့် ပြင်းထန်စွာ အငြင်းပွားရန်ဖြစ်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wordfight",
+      "pronunciation": "/ˈwɝːdˌfaɪt/",
+      "forms": [
+        "wordfights"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စကားများဖြင့် အပြန်အလှန် တိုက်ခိုက်အငြင်းပွားခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "yellingmatch",
+      "pronunciation": "/ˈjɛlɪŋˌmætʃ/",
+      "forms": [
+        "yellingmatches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူနှစ်ဦး သို့မဟုတ် ပိုများ အော်ဟစ်၍ အပြန်အလှန် ရန်ဖြစ်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shoutmatch",
+      "pronunciation": "/ˈʃaʊtˌmætʃ/",
+      "forms": [
+        "shoutmatches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တစ်ယောက်ကိုတစ်ယောက် အော်ဟစ်ပြောဆိုသည့် အငြင်းပွားမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "screamingmatch",
+      "pronunciation": "/ˈskriːmɪŋˌmætʃ/",
+      "forms": [
+        "screamingmatches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အော်ဟစ်ဆူညံစွာ ပြင်းထန်အငြင်းပွားမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trashtalk",
+      "pronunciation": "/ˈtræʃˌtɔːk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြိုင်ဘက်ကို စိတ်ပျက်စေရန် သို့မဟုတ် နှိမ့်ချရန် ပြောသည့် စကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "namecalling",
+      "pronunciation": "/ˈneɪmˌkɔːlɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူတစ်ဦးကို နှိမ့်ချသည့် အမည်များဖြင့် ခေါ်ဆိုစော်ကားခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "clinginess",
+      "pronunciation": "/ˈklɪŋinəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခြားသူကို အလွန်မကွာလိုဘဲ အမြဲနီးကပ်နေချင်သည့် အပြုအမူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "controlfreak",
+      "pronunciation": "/kənˈtroʊlˌfriːk/",
+      "forms": [
+        "controlfreaks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရာရာကို ကိုယ်တိုင်ထိန်းချုပ်လိုသည့် လူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "guilttripper",
+      "pronunciation": "/ˈɡɪltˌtrɪpər/",
+      "forms": [
+        "guilttrippers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခြားသူကို အပြစ်ရှိသလိုခံစားစေပြီး လိုချင်သည့်အရာရယူတတ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mindgame",
+      "pronunciation": "/ˈmaɪndˌɡeɪm/",
+      "forms": [
+        "mindgames"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခြားသူ၏ စိတ်ကို မရှင်းမလင်းဖြစ်စေရန် အသုံးပြုသည့် စိတ်ပိုင်းဆိုင်ရာလှည့်ကွက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mixedsignal",
+      "pronunciation": "/ˈmɪkstˌsɪɡnəl/",
+      "forms": [
+        "mixedsignals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဓိပ္ပာယ်မတူညီသလို ထင်ရစေသည့် မရှင်းလင်းသော အပြုအမူ သို့မဟုတ် စကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "oversharing",
+      "pronunciation": "/ˌoʊvərˈʃerɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို လိုတာထက် ပိုမိုပြောပြမျှဝေခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rejectionsensitivity",
+      "pronunciation": "/rɪˈdʒɛkʃən sɛnsəˌtɪvəti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ငြင်းပယ်ခံရမှုကို အလွန်ပြင်းထန်စွာ ခံစားတတ်သည့် စိတ်အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "selfdoubt",
+      "pronunciation": "/ˌsɛlfˈdaʊt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိမိစွမ်းရည် သို့မဟုတ် ဆုံးဖြတ်ချက်အပေါ် မယုံကြည်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "selfrespect",
+      "pronunciation": "/ˌsɛlfrɪˈspɛkt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိမိကိုယ်ကို တန်ဖိုးထားလေးစားမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialanxiety",
+      "pronunciation": "/ˈsoʊʃəl æŋˌzaɪəti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေးအခြေအနေများတွင် အလွန်စိုးရိမ်ကြောက်ရွံ့မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialawkwardness",
+      "pronunciation": "/ˈsoʊʃəlˌɔːkwərdnəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုဆက်ဆံရာတွင် မသက်မသာနှင့် မကျွမ်းကျင်သလို ဖြစ်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "toxicfriend",
+      "pronunciation": "/ˈtɑːksɪkˌfrɛnd/",
+      "forms": [
+        "toxicfriends"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စိတ်ပိုင်းဆိုင်ရာ ထိခိုက်စေသည့် အပြုအမူများ ရှိသော မိတ်ဆွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "toxicfriendship",
+      "pronunciation": "/ˈtɑːksɪkˌfrɛndʃɪp/",
+      "forms": [
+        "toxicfriendships"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တစ်ဖက် သို့မဟုတ် နှစ်ဖက်စလုံးကို ထိခိုက်စေသည့် မိတ်ဆွေဆက်ဆံရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trustproblem",
+      "pronunciation": "/ˈtrʌstˌprɑːbləm/",
+      "forms": [
+        "trustproblems"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူများကို ယုံကြည်ရန် ခက်ခဲခြင်းဆိုင်ရာ ပြဿနာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "untrusting",
+      "pronunciation": "/ʌnˈtrʌstɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အခြားသူကို လွယ်လွယ်မယုံသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "boundarysetting",
+      "pronunciation": "/ˈbaʊndəriˌsɛtɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်လက်ခံနိုင်သည့် အပြုအမူနှင့် ကန့်သတ်ချက်များကို ရှင်းလင်းသတ်မှတ်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "boundaryissue",
+      "pronunciation": "/ˈbaʊndəriˌɪʃuː/",
+      "forms": [
+        "boundaryissues"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်ရေးကန့်သတ်ချက်ကို မလေးစားခြင်း သို့မဟုတ် မရှင်းလင်းခြင်းဆိုင်ရာ ပြဿနာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "apologytext",
+      "pronunciation": "/əˈpɑːlədʒiˌtɛkst/",
+      "forms": [
+        "apologytexts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တောင်းပန်ရန် စာတိုဖြင့် ပို့သည့် မက်ဆေ့ချ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "apologycall",
+      "pronunciation": "/əˈpɑːlədʒiˌkɔːl/",
+      "forms": [
+        "apologycalls"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တောင်းပန်ရန် ပြုလုပ်သည့် ဖုန်းခေါ်ဆိုမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "apologyletter",
+      "pronunciation": "/əˈpɑːlədʒiˌlɛtər/",
+      "forms": [
+        "apologyletters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တောင်းပန်ချက် ရေးသားထားသည့် စာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "apologymessage",
+      "pronunciation": "/əˈpɑːlədʒiˌmɛsɪdʒ/",
+      "forms": [
+        "apologymessages"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တောင်းပန်ရန် ပို့သည့် မက်ဆေ့ချ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "grudgeholder",
+      "pronunciation": "/ˈɡrʌdʒˌhoʊldər/",
+      "forms": [
+        "grudgeholders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စိတ်နာမှုကို ကြာကြာမမေ့ဘဲ ထားတတ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "grudgeholding",
+      "pronunciation": "/ˈɡrʌdʒˌhoʊldɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တစ်ယောက်အပေါ် စိတ်နာမှုကို ကြာကြာထားခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "anxiousness",
+      "pronunciation": "/ˈæŋkʃəsnəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စိုးရိမ်ပူပန်နေသည့် စိတ်အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "anxietyattack",
+      "pronunciation": "/æŋˈzaɪəti əˌtæk/",
+      "forms": [
+        "anxietyattacks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုတ်တရက် စိုးရိမ်ကြောက်ရွံ့မှု အလွန်ပြင်းထန်လာသည့် ဖြစ်ရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "panicattack",
+      "pronunciation": "/ˈpænɪk əˌtæk/",
+      "forms": [
+        "panicattacks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုတ်တရက် ပြင်းထန်သော ကြောက်ရွံ့မှုနှင့် ကိုယ်ခန္ဓာလက္ခဏာများ ဖြစ်လာသည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "panicmode",
+      "pronunciation": "/ˈpænɪkˌmoʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလွန်စိုးရိမ်၍ အေးအေးဆေးဆေး မစဉ်းစားနိုင်တော့သည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stressout",
+      "pronunciation": "/ˈstrɛsˌaʊt/",
+      "forms": [
+        "stressouts",
+        "stressingout"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လူတစ်ဦးကို အလွန်ဖိအားပေးစိုးရိမ်စေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stressedout",
+      "pronunciation": "/ˌstrɛstˈaʊt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဖိအားနှင့် စိုးရိမ်မှုများကြောင့် အလွန်ပင်ပန်းနေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "burnedout",
+      "pronunciation": "/ˌbɝːndˈaʊt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကြာရှည်ဖိအားနှင့် အလုပ်များကြောင့် စိတ်အားနှင့် အင်အားကုန်ခမ်းနေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "comfortzone",
+      "pronunciation": "/ˈkʌmfərtˌzoʊn/",
+      "forms": [
+        "comfortzones"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိမိအတွက် ရင်းနှီးလုံခြုံပြီး ဖိအားနည်းသည့် အခြေအနေ သို့မဟုတ် နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "safeplace",
+      "pronunciation": "/ˈseɪfˌpleɪs/",
+      "forms": [
+        "safeplaces"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စိတ်ပိုင်း သို့မဟုတ် ကိုယ်ပိုင်းအရ လုံခြုံသည်ဟု ခံစားရသည့် နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "safespace",
+      "pronunciation": "/ˈseɪfˌspeɪs/",
+      "forms": [
+        "safespaces"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူများ မကြောက်မရွံ့ ပြောဆိုနေနိုင်ရန် လုံခြုံမှုနှင့် လေးစားမှုရှိသည့် နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "supportsystem",
+      "pronunciation": "/səˈpɔːrtˌsɪstəm/",
+      "forms": [
+        "supportsystems"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခက်အခဲတွင် အားပေးကူညီပေးသည့် လူများနှင့် အရင်းအမြစ်များ၏ အစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shouldercry",
+      "pronunciation": "/ˈʃoʊldərˌkraɪ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝမ်းနည်းချိန်တွင် အားထား၍ ပြောဆိုငိုကြွေးနိုင်သည့် လူ သို့မဟုတ် အကူအညီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cryingshoulder",
+      "pronunciation": "/ˈkraɪɪŋˌʃoʊldər/",
+      "forms": [
+        "cryingshoulders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝမ်းနည်းချိန်တွင် အားကိုး၍ ခံစားချက်ပြောနိုင်သည့် လူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "peptalk",
+      "pronunciation": "/ˈpɛpˌtɔːk/",
+      "forms": [
+        "peptalks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယုံကြည်မှုနှင့် စိတ်အားတက်ကြွစေရန် ပြောသည့် အားပေးစကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trustbuilding",
+      "pronunciation": "/ˈtrʌstˌbɪldɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူများကြား ယုံကြည်မှု တဖြည်းဖြည်းတည်ဆောက်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trustbreak",
+      "pronunciation": "/ˈtrʌstˌbreɪk/",
+      "forms": [
+        "trustbreaks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယုံကြည်မှု ပျက်စီးသွားစေသည့် ဖြစ်ရပ် သို့မဟုတ် လုပ်ရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trustrepair",
+      "pronunciation": "/ˈtrʌst rɪˌper/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပျက်စီးသွားသော ယုံကြည်မှုကို ပြန်လည်တည်ဆောက်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "peaceoffering",
+      "pronunciation": "/ˈpiːsˌɔːfərɪŋ/",
+      "forms": [
+        "peaceofferings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရန်ငြိုးပြေလည်စေရန် ပေးသည့် လက်ဆောင် သို့မဟုတ် အကျိုးပြုလုပ်ရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "makeupcall",
+      "pronunciation": "/ˈmeɪkʌpˌkɔːl/",
+      "forms": [
+        "makeupcalls"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရန်ဖြစ်ပြီးနောက် ပြန်လည်ပြေလည်ရန် ပြုလုပ်သည့် ဖုန်းခေါ်ဆိုမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "makeuptext",
+      "pronunciation": "/ˈmeɪkʌpˌtɛkst/",
+      "forms": [
+        "makeuptexts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရန်ဖြစ်ပြီးနောက် ပြန်လည်ပြေလည်ရန် ပို့သည့် စာတို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "conflictavoidant",
+      "pronunciation": "/ˈkɑːnflɪkt əˌvɔɪdənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အငြင်းပွားမှုကို ရှောင်ရှားရန် အလွန်ကြိုးစားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "conflictresolution",
+      "pronunciation": "/ˈkɑːnflɪktˌrɛzəluːʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အငြင်းပွားမှုကို ဖြေရှင်း၍ သဘောတူညီမှုရရှိစေသည့် လုပ်ငန်းစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "conflictmanagement",
+      "pronunciation": "/ˈkɑːnflɪktˌmænɪdʒmənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အငြင်းပွားမှုကို ထိန်းချုပ်၍ မဆိုးရွားအောင် စီမံခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cooldown",
+      "pronunciation": "/ˈkuːlˌdaʊn/",
+      "forms": [
+        "cooldowns"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒေါသ သို့မဟုတ် လှုပ်ရှားမှုကျစေရန် အနားယူသည့် ကာလ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "coolingoff",
+      "pronunciation": "/ˌkuːlɪŋˈɔːf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒေါသနှင့် တင်းမာမှု လျော့ကျစေရန် ခဏကွာနေသည့် အချိန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "copingmechanism",
+      "pronunciation": "/ˈkoʊpɪŋˌmɛkənɪzəm/",
+      "forms": [
+        "copingmechanisms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိအားနှင့် ခက်ခဲမှုကို ရင်ဆိုင်ရန် အသုံးပြုသည့် အတွေး သို့မဟုတ် အပြုအမူနည်းလမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "copingstrategy",
+      "pronunciation": "/ˈkoʊpɪŋˌstrætədʒi/",
+      "forms": [
+        "copingstrategies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စိတ်ဖိအားနှင့် ပြဿနာများကို ကိုင်တွယ်ရန် ကြိုတင်အသုံးပြုသည့် နည်းလမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "defensemechanism",
+      "pronunciation": "/dɪˈfɛnsˌmɛkənɪzəm/",
+      "forms": [
+        "defensemechanisms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စိတ်မချမ်းသာစေသည့် အတွေးနှင့် ခံစားချက်များမှ ကိုယ့်စိတ်ကို ကာကွယ်သည့် မသိစိတ်နည်းလမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emotionalwall",
+      "pronunciation": "/ɪˈmoʊʃənəlˌwɔːl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နာကျင်မှုမခံရစေရန် ခံစားချက်များကို အခြားသူနှင့် မမျှဝေဘဲ တားထားသည့် စိတ်ကာရံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emotionaldistance",
+      "pronunciation": "/ɪˈmoʊʃənəlˌdɪstəns/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူနှစ်ဦးကြား ခံစားချက်ပိုင်း နီးစပ်မှု နည်းပါးနေခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emotionalsupport",
+      "pronunciation": "/ɪˈmoʊʃənəl səˌpɔːrt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝမ်းနည်းမှုနှင့် ဖိအားချိန်တွင် နားထောင် အားပေးနှင့် နားလည်ပေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emotionalabuse",
+      "pronunciation": "/ɪˈmoʊʃənəl əˌbjuːs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စကားနှင့် အပြုအမူဖြင့် အခြားသူ၏ စိတ်ကို ထိခိုက် ထိန်းချုပ် သို့မဟုတ် နှိမ့်ချခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emotionaldamage",
+      "pronunciation": "/ɪˈmoʊʃənəlˌdæmɪdʒ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖြစ်ရပ် သို့မဟုတ် ဆက်ဆံရေးကြောင့် ဖြစ်ပေါ်သည့် ကြာရှည်စိတ်ထိခိုက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emotionalburden",
+      "pronunciation": "/ɪˈmoʊʃənəlˌbɝːdən/",
+      "forms": [
+        "emotionalburdens"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စိတ်ပိုင်းအရ အလွန်လေးလံပင်ပန်းစေသည့် တာဝန် သို့မဟုတ် ပြဿနာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emotionalbaggage",
+      "pronunciation": "/ɪˈmoʊʃənəlˌbæɡɪdʒ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အတိတ်အတွေ့အကြုံများမှ ကျန်ရှိလာသည့် စိတ်နာကျင်မှုနှင့် မဖြေရှင်းရသေးသော ခံစားချက်များ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emotionalbreakdown",
+      "pronunciation": "/ɪˈmoʊʃənəlˌbreɪkdaʊn/",
+      "forms": [
+        "emotionalbreakdowns"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိအားများလွန်း၍ ခံစားချက်ကို မထိန်းနိုင်တော့သည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emotionaloutburst",
+      "pronunciation": "/ɪˈmoʊʃənəlˌaʊtbɝːst/",
+      "forms": [
+        "emotionaloutbursts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒေါသ ဝမ်းနည်းမှု သို့မဟုတ် အခြားခံစားချက်ကို ရုတ်တရက် ပြင်းထန်စွာ ထုတ်ဖော်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emotionaltrigger",
+      "pronunciation": "/ɪˈmoʊʃənəlˌtrɪɡər/",
+      "forms": [
+        "emotionaltriggers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အတိတ်ခံစားချက် သို့မဟုတ် စိတ်ထိခိုက်မှုကို ပြင်းထန်စွာ ပြန်လည်နိုးထစေသည့် အရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "moodkiller",
+      "pronunciation": "/ˈmuːdˌkɪlər/",
+      "forms": [
+        "moodkillers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပျော်ရွှင်နေသည့် အခြေအနေကို ရုတ်တရက် ပျက်စေသည့် အရာ သို့မဟုတ် လူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "selfreflection",
+      "pronunciation": "/ˌsɛlfrɪˈflɛkʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိမိအတွေး အပြုအမူနှင့် အတွေ့အကြုံကို ပြန်လည်စဉ်းစားသုံးသပ်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ambushpoint",
+      "pronunciation": "/ˈæmbʊʃˌpɔɪnt/",
+      "forms": [
+        "ambushpoints"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချောင်းမြောင်းတိုက်ခိုက်ရန် သင့်တော်သည့် နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "armoryroom",
+      "pronunciation": "/ˈɑːrməriˌruːm/",
+      "forms": [
+        "armoryrooms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်နက်များ သိမ်းထားသည့် လုံခြုံအခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "arrestscene",
+      "pronunciation": "/əˈrɛstˌsiːn/",
+      "forms": [
+        "arrestscenes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖမ်းဆီးမှု ဖြစ်ပွားသည့် နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "attackroute",
+      "pronunciation": "/əˈtækˌruːt/",
+      "forms": [
+        "attackroutes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တိုက်ခိုက်ရန် ချဉ်းကပ်သည့် လမ်းကြောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "backalley",
+      "pronunciation": "/ˌbækˈæli/",
+      "forms": [
+        "backalleys"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဆောက်အအုံနောက်ဘက်ရှိ လမ်းကျဉ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "getawayscene",
+      "pronunciation": "/ˈɡɛtəweɪˌsiːn/",
+      "forms": [
+        "getawayscenes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရာဇဝတ်မှုအပြီး ထွက်ပြေးသည့် နေရာ သို့မဟုတ် မြင်ကွင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ganghideout",
+      "pronunciation": "/ˈɡæŋˌhaɪdaʊt/",
+      "forms": [
+        "ganghideouts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂိုဏ်းဝင်များ လျှို့ဝှက်နေထိုင် သို့မဟုတ် စုဝေးရာ နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gangwar",
+      "pronunciation": "/ˈɡæŋˌwɔːr/",
+      "forms": [
+        "gangwars"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂိုဏ်းနှစ်ဖွဲ့ သို့မဟုတ် ပိုများကြား အကြမ်းဖက်ပဋိပက္ခ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gangterritory",
+      "pronunciation": "/ˈɡæŋˌtɛrəˌtɔːri/",
+      "forms": [
+        "gangterritories"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂိုဏ်းတစ်ဖွဲ့က မိမိနယ်မြေဟု ယူဆထိန်းချုပ်သည့် ဒေသ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gangleader",
+      "pronunciation": "/ˈɡæŋˌliːdər/",
+      "forms": [
+        "gangleaders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရာဇဝတ်ဂိုဏ်းတစ်ဖွဲ့ကို ဦးဆောင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gangboss",
+      "pronunciation": "/ˈɡæŋˌbɔːs/",
+      "forms": [
+        "gangbosses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂိုဏ်း၏ အဓိကခေါင်းဆောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lookoutman",
+      "pronunciation": "/ˈlʊkaʊtˌmæn/",
+      "forms": [
+        "lookoutmen"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အန္တရာယ် သို့မဟုတ် ရဲလာမလာ စောင့်ကြည့်ပေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lookoutpost",
+      "pronunciation": "/ˈlʊkaʊtˌpoʊst/",
+      "forms": [
+        "lookoutposts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အန္တရာယ်နှင့် လှုပ်ရှားမှုကို စောင့်ကြည့်ရန် အသုံးပြုသည့် နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lookoutteam",
+      "pronunciation": "/ˈlʊkaʊtˌtiːm/",
+      "forms": [
+        "lookoutteams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပတ်ဝန်းကျင်ကို စောင့်ကြည့်ပြီး သတိပေးရန် တာဝန်ယူသည့် အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wheelman",
+      "pronunciation": "/ˈwiːlˌmæn/",
+      "forms": [
+        "wheelmen"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရာဇဝတ်မှုအပြီး ထွက်ပြေးယာဉ်ကို မောင်းသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hitlist",
+      "pronunciation": "/ˈhɪtˌlɪst/",
+      "forms": [
+        "hitlists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တိုက်ခိုက် သို့မဟုတ် သတ်ဖြတ်ရန် ပစ်မှတ်ထားသူများ စာရင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "targetlist",
+      "pronunciation": "/ˈtɑːrɡɪtˌlɪst/",
+      "forms": [
+        "targetlists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စောင့်ကြည့် တိုက်ခိုက် သို့မဟုတ် အရေးယူရန် သတ်မှတ်ထားသည့် ပစ်မှတ်စာရင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deadmanswitch",
+      "pronunciation": "/ˈdɛdˌmænˌswɪtʃ/",
+      "forms": [
+        "deadmanswitches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ထိန်းချုပ်သူ မတုံ့ပြန်တော့လျှင် အလိုအလျောက် လုပ်ဆောင်သည့် ဘေးကင်းရေးခလုတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deadletter",
+      "pronunciation": "/ˈdɛdˌlɛtər/",
+      "forms": [
+        "deadletters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပို့မရဘဲ လက်ခံသူထံ မရောက်သည့် စာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "burnernumber",
+      "pronunciation": "/ˈbɝːnərˌnʌmbər/",
+      "forms": [
+        "burnernumbers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချိန်တိုအသုံးပြုပြီး ဖျက်သိမ်းရန် ရည်ရွယ်ထားသည့် ဖုန်းနံပါတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "burneraccount",
+      "pronunciation": "/ˈbɝːnər əˌkaʊnt/",
+      "forms": [
+        "burneraccounts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချိန်တို သို့မဟုတ် အမည်ဖုံး အသုံးပြုရန် ဖန်တီးထားသည့် အကောင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "burnerwallet",
+      "pronunciation": "/ˈbɝːnərˌwɑːlɪt/",
+      "forms": [
+        "burnerwallets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချိန်တိုအသုံးပြုရန် ဖန်တီးထားသည့် ဒစ်ဂျစ်တယ်ငွေကြေးပိုက်ဆံအိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dropoffpoint",
+      "pronunciation": "/ˈdrɑːpɔːfˌpɔɪnt/",
+      "forms": [
+        "dropoffpoints"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပစ္စည်း သို့မဟုတ် လူကို လာချထားရန် သတ်မှတ်ထားသည့် နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pickuppoint",
+      "pronunciation": "/ˈpɪkʌpˌpɔɪnt/",
+      "forms": [
+        "pickuppoints"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူ သို့မဟုတ် ပစ္စည်းကို လာယူရန် သတ်မှတ်ထားသည့် နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "meetpoint",
+      "pronunciation": "/ˈmiːtˌpɔɪnt/",
+      "forms": [
+        "meetpoints"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူများ တွေ့ဆုံရန် သတ်မှတ်ထားသည့် နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "meetupspot",
+      "pronunciation": "/ˈmiːtʌpˌspɑːt/",
+      "forms": [
+        "meetupspots"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တွေ့ဆုံရန် သဘောတူထားသည့် နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rendezvouspoint",
+      "pronunciation": "/ˈrɑːndəvuːˌpɔɪnt/",
+      "forms": [
+        "rendezvouspoints"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူ သို့မဟုတ် အဖွဲ့များ လျှို့ဝှက် သို့မဟုတ် စီစဉ်ထားသည့်အတိုင်း တွေ့ဆုံရာ နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "handoffpoint",
+      "pronunciation": "/ˈhændɔːfˌpɔɪnt/",
+      "forms": [
+        "handoffpoints"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပစ္စည်း သို့မဟုတ် တာဝန်ကို တစ်ဖက်မှ တစ်ဖက် လွှဲပေးရာ နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dropzone",
+      "pronunciation": "/ˈdrɑːpˌzoʊn/",
+      "forms": [
+        "dropzones"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ်မှ လူ သို့မဟုတ် ပစ္စည်း ချရန် သတ်မှတ်ထားသည့် နယ်မြေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deadzone",
+      "pronunciation": "/ˈdɛdˌzoʊn/",
+      "forms": [
+        "deadzones"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း သို့မဟုတ် ရေဒီယိုအချက်ပြ မရသည့် နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "killzone",
+      "pronunciation": "/ˈkɪlˌzoʊn/",
+      "forms": [
+        "killzones"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပစ်ခတ်မှု သို့မဟုတ် တိုက်ခိုက်မှုအန္တရာယ် အလွန်မြင့်သည့် နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chokepoint",
+      "pronunciation": "/ˈtʃoʊkˌpɔɪnt/",
+      "forms": [
+        "chokepoints"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူ ယာဉ် သို့မဟုတ် ပစ္စည်းများ မဖြစ်မနေဖြတ်သန်းရသည့် လမ်းကျဉ်းနေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sniperpost",
+      "pronunciation": "/ˈsnaɪpərˌpoʊst/",
+      "forms": [
+        "sniperposts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဝေးပစ်သေနတ်သမား နေရာယူထားသည့် စောင့်ကြည့်ပစ်ခတ်ရာ နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sniperteam",
+      "pronunciation": "/ˈsnaɪpərˌtiːm/",
+      "forms": [
+        "sniperteams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဝေးပစ်သေနတ်သမားနှင့် ကူညီစောင့်ကြည့်သူ ပါဝင်သည့် အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sniperhide",
+      "pronunciation": "/ˈsnaɪpərˌhaɪd/",
+      "forms": [
+        "sniperhides"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဝေးပစ်သေနတ်သမား လျှို့ဝှက်နေရာယူသည့် အကာအကွယ်နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sniperscope",
+      "pronunciation": "/ˈsnaɪpərˌskoʊp/",
+      "forms": [
+        "sniperscopes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဝေးပစ်သေနတ်တွင် တပ်သည့် ပစ်မှတ်ကြည့်မှန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hostagetaker",
+      "pronunciation": "/ˈhɑːstɪdʒˌteɪkər/",
+      "forms": [
+        "hostagetakers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူတစ်ဦးကို ဓားစာခံအဖြစ် ဖမ်းထားသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hostagerescue",
+      "pronunciation": "/ˈhɑːstɪdʒˌrɛskjuː/",
+      "forms": [
+        "hostagerescues"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဓားစာခံများကို လွတ်မြောက်အောင် ကယ်ဆယ်သည့် လုပ်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hostagevideo",
+      "pronunciation": "/ˈhɑːstɪdʒˌvɪdioʊ/",
+      "forms": [
+        "hostagevideos"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဓားစာခံကို ပြသထားသည့် ဗီဒီယို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ransomcall",
+      "pronunciation": "/ˈrænsəmˌkɔːl/",
+      "forms": [
+        "ransomcalls"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြန်ပေးဆွဲသူက ငွေတောင်းရန် ပြုလုပ်သည့် ဖုန်းခေါ်ဆိုမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ransomdrop",
+      "pronunciation": "/ˈrænsəmˌdrɑːp/",
+      "forms": [
+        "ransomdrops"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြန်ပေးငွေကို သတ်မှတ်နေရာတွင် ချထားပေးခြင်း သို့မဟုတ် ထိုနေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ransomdemand",
+      "pronunciation": "/ˈrænsəm dɪˌmænd/",
+      "forms": [
+        "ransomdemands"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဓားစာခံလွှတ်ပေးရန် အစား ငွေ သို့မဟုတ် အခြားအရာ တောင်းဆိုချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ransomdeal",
+      "pronunciation": "/ˈrænsəmˌdiːl/",
+      "forms": [
+        "ransomdeals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဓားစာခံလွှတ်ပေးရေးနှင့် ပြန်ပေးငွေဆိုင်ရာ သဘောတူညီချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ransomdeadline",
+      "pronunciation": "/ˈrænsəmˌdɛdlaɪn/",
+      "forms": [
+        "ransomdeadlines"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြန်ပေးငွေ သို့မဟုတ် တောင်းဆိုချက် ဖြည့်ဆည်းရမည့် နောက်ဆုံးအချိန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "kidnappingcase",
+      "pronunciation": "/ˈkɪdnæpɪŋˌkeɪs/",
+      "forms": [
+        "kidnappingcases"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူပြန်ပေးဆွဲမှုနှင့် ဆိုင်သော ရဲ သို့မဟုတ် တရားရုံးအမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "kidnappingring",
+      "pronunciation": "/ˈkɪdnæpɪŋˌrɪŋ/",
+      "forms": [
+        "kidnappingrings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူပြန်ပေးဆွဲမှုများ အဖွဲ့လိုက်လုပ်သည့် ကွန်ရက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "abductioncase",
+      "pronunciation": "/æbˈdʌkʃənˌkeɪs/",
+      "forms": [
+        "abductioncases"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူတစ်ဦးကို အတင်းအဓမ္မ ခေါ်ဆောင်သွားမှုဆိုင်ရာ အမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "abductionteam",
+      "pronunciation": "/æbˈdʌkʃənˌtiːm/",
+      "forms": [
+        "abductionteams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူတစ်ဦးကို အတင်းခေါ်ဆောင်ရန် လုပ်ဆောင်သည့် အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "missingchild",
+      "pronunciation": "/ˈmɪsɪŋˌtʃaɪld/",
+      "forms": [
+        "missingchildren"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နေရာမသိ ပျောက်ဆုံးနေသော ကလေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "missingcase",
+      "pronunciation": "/ˈmɪsɪŋˌkeɪs/",
+      "forms": [
+        "missingcases"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူပျောက်မှုနှင့် ဆိုင်သော စုံစမ်းရေးအမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "missingposter",
+      "pronunciation": "/ˈmɪsɪŋˌpoʊstər/",
+      "forms": [
+        "missingposters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပျောက်ဆုံးသူကို ရှာဖွေရန် ဓာတ်ပုံနှင့် အချက်အလက်ပါ ကြေညာစာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "missingreport",
+      "pronunciation": "/ˈmɪsɪŋ rɪˌpɔːrt/",
+      "forms": [
+        "missingreports"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူတစ်ဦး ပျောက်ဆုံးကြောင်း ရဲထံ တိုင်ကြားမှတ်တမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "witnessprogram",
+      "pronunciation": "/ˈwɪtnəsˌproʊɡræm/",
+      "forms": [
+        "witnessprograms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အန္တရာယ်ရှိသည့် သက်သေများကို လုံခြုံရေးနှင့် အထောက်အပံ့ပေးသည့် အစီအစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "witnessidentity",
+      "pronunciation": "/ˈwɪtnəs aɪˌdɛntəti/",
+      "forms": [
+        "witnessidentities"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမှုတွင် ထွက်ဆိုမည့် သက်သေ၏ အမည်နှင့် ကိုယ်ရေးအထောက်အထား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "witnessrelocation",
+      "pronunciation": "/ˈwɪtnəsˌriːloʊkeɪʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သက်သေကို ကာကွယ်ရန် လျှို့ဝှက်နေရာအသစ်သို့ ပြောင်းရွှေ့ပေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bodydouble",
+      "pronunciation": "/ˈbɑːdiˌdʌbəl/",
+      "forms": [
+        "bodydoubles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုပ်ရှင်တွင် သရုပ်ဆောင်၏ ကိုယ်စား ကိုယ်ခန္ဓာပုံစံတူသူအဖြစ် ပါဝင်သည့် လူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securitydetail",
+      "pronunciation": "/sɪˈkjʊrətiˌdiːteɪl/",
+      "forms": [
+        "securitydetails"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူတစ်ဦး သို့မဟုတ် နေရာကို အနီးကပ်ကာကွယ်ရန် တာဝန်ပေးထားသည့် လုံခြုံရေးအဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securityescort",
+      "pronunciation": "/sɪˈkjʊrətiˌɛskɔːrt/",
+      "forms": [
+        "securityescorts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူ သို့မဟုတ် ပစ္စည်းကို လုံခြုံရေးပေး၍ လိုက်ပို့သည့် အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securityconvoy",
+      "pronunciation": "/sɪˈkjʊrətiˌkɑːnvɔɪ/",
+      "forms": [
+        "securityconvoys"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေးယာဉ်များ ပါဝင်ကာ အတူရွေ့လျားသည့် ယာဉ်တန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "armoredconvoy",
+      "pronunciation": "/ˈɑːrmərdˌkɑːnvɔɪ/",
+      "forms": [
+        "armoredconvoys"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကာကွယ်အားဖြည့်ထားသည့် ယာဉ်များ ပါဝင်သော ယာဉ်တန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "prisonvan",
+      "pronunciation": "/ˈprɪzənˌvæn/",
+      "forms": [
+        "prisonvans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အကျဉ်းသားများ သယ်ဆောင်ရန် အသုံးပြုသည့် ဗန်ကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policeescort",
+      "pronunciation": "/pəˈliːsˌɛskɔːrt/",
+      "forms": [
+        "policeescorts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲများက လုံခြုံရေးပေး၍ လိုက်ပို့ခြင်း သို့မဟုတ် အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "escortteam",
+      "pronunciation": "/ˈɛskɔːrtˌtiːm/",
+      "forms": [
+        "escortteams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူ သို့မဟုတ် ပစ္စည်းကို လုံခြုံစွာ လိုက်ပို့ရန် တာဝန်ယူသည့် အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "escortdetail",
+      "pronunciation": "/ˈɛskɔːrtˌdiːteɪl/",
+      "forms": [
+        "escortdetails"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးကြီးလူ သို့မဟုတ် ယာဉ်ကို လိုက်ပို့ကာကွယ်ရန် သတ်မှတ်ထားသည့် လုံခြုံရေးအဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trackingdevice",
+      "pronunciation": "/ˈtrækɪŋ dɪˌvaɪs/",
+      "forms": [
+        "trackingdevices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူ ယာဉ် သို့မဟုတ် ပစ္စည်း၏ တည်နေရာကို ခြေရာခံရန် သုံးသည့် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trackingtag",
+      "pronunciation": "/ˈtrækɪŋˌtæɡ/",
+      "forms": [
+        "trackingtags"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပစ္စည်း သို့မဟုတ် လူ၏ တည်နေရာ ခြေရာခံရန် တပ်ထားသည့် အီလက်ထရွန်နစ်တံဆိပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gpstracker",
+      "pronunciation": "/ˌdʒiːpiːˈɛsˌtrækər/",
+      "forms": [
+        "gpstrackers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂျီပီအက်စ်ဖြင့် တည်နေရာကို ခြေရာခံသည့် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "homingdevice",
+      "pronunciation": "/ˈhoʊmɪŋ dɪˌvaɪs/",
+      "forms": [
+        "homingdevices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပစ်မှတ် သို့မဟုတ် တည်နေရာကို ရှာဖွေလိုက်နိုင်ရန် အချက်ပြပေးသည့် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "listeningdevice",
+      "pronunciation": "/ˈlɪsənɪŋ dɪˌvaɪs/",
+      "forms": [
+        "listeningdevices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စကားပြောသံကို လျှို့ဝှက်နားထောင် သို့မဟုတ် မှတ်တမ်းတင်ရန် သုံးသည့် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hiddenmic",
+      "pronunciation": "/ˈhɪdənˌmaɪk/",
+      "forms": [
+        "hiddenmics"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မမြင်အောင် ဖွက်ထားသည့် အသံဖမ်းမိုက်ခရိုဖုန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hiddencamera",
+      "pronunciation": "/ˈhɪdənˌkæmərə/",
+      "forms": [
+        "hiddencameras"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မမြင်အောင် ဖွက်ထားသည့် ကင်မရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "surveillancecamera",
+      "pronunciation": "/sərˈveɪlənsˌkæmərə/",
+      "forms": [
+        "surveillancecameras"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နေရာ သို့မဟုတ် လူများကို စောင့်ကြည့်မှတ်တမ်းတင်ရန် တပ်ထားသည့် ကင်မရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spycam",
+      "pronunciation": "/ˈspaɪˌkæm/",
+      "forms": [
+        "spycams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လျှို့ဝှက်ရိုက်ကူးရန် သုံးသည့် ကင်မရာအသေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nightvision",
+      "pronunciation": "/ˈnaɪtˌvɪʒən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလင်းနည်းသည့် ညအချိန်တွင် မြင်နိုင်စေသည့် နည်းပညာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "thermalcamera",
+      "pronunciation": "/ˈθɝːməlˌkæmərə/",
+      "forms": [
+        "thermalcameras"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရာဝတ္ထုမှ ထွက်သည့် အပူကို ပုံရိပ်အဖြစ် ဖော်ပြသည့် ကင်မရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "thermalimaging",
+      "pronunciation": "/ˈθɝːməlˌɪmɪdʒɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပူချိန်ကွာခြားမှုကို ပုံရိပ်အဖြစ် ဖော်ပြသည့် နည်းပညာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "forensicteam",
+      "pronunciation": "/fəˈrɛnsɪkˌtiːm/",
+      "forms": [
+        "forensicteams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြစ်မှုသက်သေခံပစ္စည်းများကို သိပ္ပံနည်းဖြင့် စစ်ဆေးသည့် အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "forensicunit",
+      "pronunciation": "/fəˈrɛnsɪkˌjuːnɪt/",
+      "forms": [
+        "forensicunits"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သက်သေခံပစ္စည်းများကို သိပ္ပံနည်းဖြင့် စစ်ဆေးရန် ဖွဲ့ထားသည့် ဌာန"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "evidencekit",
+      "pronunciation": "/ˈɛvɪdənsˌkɪt/",
+      "forms": [
+        "evidencekits"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမှုသက်သေခံပစ္စည်း စုဆောင်းနှင့် သိမ်းဆည်းရန် သုံးသည့် ကိရိယာစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "evidencetag",
+      "pronunciation": "/ˈɛvɪdənsˌtæɡ/",
+      "forms": [
+        "evidencetags"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သက်သေခံပစ္စည်းကို အမှတ်အသားနှင့် အချက်အလက်ပေးထားသည့် တံဆိပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "evidencevideo",
+      "pronunciation": "/ˈɛvɪdənsˌvɪdioʊ/",
+      "forms": [
+        "evidencevideos"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမှုတွင် သက်သေအဖြစ် အသုံးပြုသည့် ဗီဒီယို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "scenephoto",
+      "pronunciation": "/ˈsiːnˌfoʊtoʊ/",
+      "forms": [
+        "scenephotos"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖြစ်ရပ် သို့မဟုတ် ပြစ်မှုနေရာကို မှတ်တမ်းတင်ရိုက်ထားသည့် ဓာတ်ပုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crimescene",
+      "pronunciation": "/ˈkraɪmˌsiːn/",
+      "forms": [
+        "crimescenes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြစ်မှုဖြစ်ပွားခဲ့သည့် နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crimesceneunit",
+      "pronunciation": "/ˈkraɪmˌsiːnˌjuːnɪt/",
+      "forms": [
+        "crimesceneunits"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြစ်မှုနေရာမှ သက်သေများ စုဆောင်းစစ်ဆေးသည့် အထူးအဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bloodtrail",
+      "pronunciation": "/ˈblʌdˌtreɪl/",
+      "forms": [
+        "bloodtrails"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒဏ်ရာရသူ သို့မဟုတ် သွေးထွက်သူ ရွေ့သွားရာလမ်းတွင် ကျန်သည့် သွေးအမှတ်အသား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bulletfragment",
+      "pronunciation": "/ˈbʊlɪtˌfræɡmənt/",
+      "forms": [
+        "bulletfragments"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပစ်ခတ်ပြီးနောက် ကျည်မှ ကွဲထွက်ကျန်ရစ်သည့် အစိတ်အပိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bulletmark",
+      "pronunciation": "/ˈbʊlɪtˌmɑːrk/",
+      "forms": [
+        "bulletmarks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျည်ထိမှန်မှုကြောင့် ကျန်ရစ်သည့် အမှတ်အသား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gunshotresidue",
+      "pronunciation": "/ˈɡʌnʃɑːtˌrɛzəduː/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သေနတ်ပစ်ပြီးနောက် လက် အဝတ် သို့မဟုတ် ပတ်ဝန်းကျင်တွင် ကျန်ရစ်သည့် အမှုန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "autopsyroom",
+      "pronunciation": "/ˈɔːtɑːpsiˌruːm/",
+      "forms": [
+        "autopsyrooms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သေဆုံးသူ၏ ကိုယ်ခန္ဓာကို ခွဲစိတ်စစ်ဆေးသည့် အခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "morguefile",
+      "pronunciation": "/ˈmɔːrɡˌfaɪl/",
+      "forms": [
+        "morguefiles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလောင်းနှင့် သေဆုံးမှုဆိုင်ရာ အချက်အလက်များ သိမ်းထားသည့် ဖိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deathreport",
+      "pronunciation": "/ˈdɛθ rɪˌpɔːrt/",
+      "forms": [
+        "deathreports"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သေဆုံးမှုနှင့် အကြောင်းရင်းဆိုင်ရာ အချက်အလက်များ ဖော်ပြထားသည့် အစီရင်ခံစာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "coronerreport",
+      "pronunciation": "/ˈkɔːrənər rɪˌpɔːrt/",
+      "forms": [
+        "coronerreports"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သေဆုံးမှု စစ်ဆေးသူက ထုတ်ပြန်သည့် သေဆုံးရခြင်းအကြောင်း အစီရင်ခံစာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "autopsyreport",
+      "pronunciation": "/ˈɔːtɑːpsi rɪˌpɔːrt/",
+      "forms": [
+        "autopsyreports"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလောင်းခွဲစိတ်စစ်ဆေးမှု ရလဒ်များ ဖော်ပြထားသည့် အစီရင်ခံစာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dnatest",
+      "pronunciation": "/ˌdiːɛnˈeɪˌtɛst/",
+      "forms": [
+        "dnatests"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျိုးဗီဇအချက်အလက်ကို စစ်ဆေးနှိုင်းယှဉ်သည့် စမ်းသပ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fingerprintscan",
+      "pronunciation": "/ˈfɪŋɡərprɪntˌskæn/",
+      "forms": [
+        "fingerprintscans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်ဗွေကို ဒစ်ဂျစ်တယ်စနစ်ဖြင့် ဖတ်ယူစစ်ဆေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "facematch",
+      "pronunciation": "/ˈfeɪsˌmætʃ/",
+      "forms": [
+        "facematches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျက်နှာပုံနှစ်ခု သို့မဟုတ် ပိုများကို တူညီသူဟုတ်မဟုတ် စစ်ဆေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "licenseplate",
+      "pronunciation": "/ˈlaɪsənsˌpleɪt/",
+      "forms": [
+        "licenseplates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယာဉ်အမှတ်စဉ် ဖော်ပြထားသည့် နံပါတ်ပြား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "platecheck",
+      "pronunciation": "/ˈpleɪtˌtʃɛk/",
+      "forms": [
+        "platechecks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယာဉ်နံပါတ်ပြားကို ဒေတာဘေ့စ်နှင့် တိုက်ဆိုင်စစ်ဆေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vehiclecheck",
+      "pronunciation": "/ˈviːəkəlˌtʃɛk/",
+      "forms": [
+        "vehiclechecks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယာဉ်၏ မှတ်ပုံတင် အခြေအနေ သို့မဟုတ် လုံခြုံရေးကို စစ်ဆေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "recordcheck",
+      "pronunciation": "/ˈrɛkərdˌtʃɛk/",
+      "forms": [
+        "recordchecks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူ သို့မဟုတ် အမှု၏ ယခင်မှတ်တမ်းများကို ဒေတာဘေ့စ်တွင် စစ်ဆေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accountlock",
+      "pronunciation": "/əˈkaʊntˌlɑːk/",
+      "forms": [
+        "accountlocks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အကောင့်ဝင်ရောက်မှုကို ယာယီ သို့မဟုတ် အမြဲပိတ်ထားသည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "accountrecovery",
+      "pronunciation": "/əˈkaʊnt rɪˌkʌvəri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မဝင်နိုင်တော့သည့် အကောင့်ကို ပြန်လည်ရယူသည့် လုပ်ငန်းစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adminpanel",
+      "pronunciation": "/ˈædmɪnˌpænəl/",
+      "forms": [
+        "adminpanels"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စနစ် သို့မဟုတ် ဝဘ်ဆိုက်ကို စီမံရန် အုပ်ချုပ်သူများ အသုံးပြုသည့် မျက်နှာပြင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "appbackup",
+      "pronunciation": "/ˈæpˌbækʌp/",
+      "forms": [
+        "appbackups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အက်ပ်ဒေတာနှင့် ဆက်တင်များကို မိတ္တူကူးသိမ်းထားခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "appcache",
+      "pronunciation": "/ˈæpˌkæʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အက်ပ်က ပိုမြန်ရန် ယာယီသိမ်းထားသည့် ဒေတာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "appdata",
+      "pronunciation": "/ˈæpˌdeɪtə/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အက်ပ်တစ်ခု အသုံးပြုစဉ် ဖန်တီး သို့မဟုတ် သိမ်းထားသည့် အချက်အလက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "appdrawer",
+      "pronunciation": "/ˈæpˌdrɔːr/",
+      "forms": [
+        "appdrawers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စက်ပေါ်ရှိ အက်ပ်များအားလုံး စုစည်းပြသသည့် မျက်နှာပြင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "appfolder",
+      "pronunciation": "/ˈæpˌfoʊldər/",
+      "forms": [
+        "appfolders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အက်ပ်များကို အုပ်စုလိုက် စုထားသည့် ဖိုလ်ဒါ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "appinstaller",
+      "pronunciation": "/ˈæp ɪnˌstɔːlər/",
+      "forms": [
+        "appinstallers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အက်ပ်ကို စက်ပေါ် ထည့်သွင်းပေးသည့် ပရိုဂရမ် သို့မဟုတ် ဖိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "applock",
+      "pronunciation": "/ˈæpˌlɑːk/",
+      "forms": [
+        "applocks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အက်ပ်တစ်ခုကို စကားဝှက် သို့မဟုတ် ဇီဝအချက်အလက်ဖြင့် ပိတ်ထားသည့် လုံခြုံရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "apppermission",
+      "pronunciation": "/ˈæp pərˌmɪʃən/",
+      "forms": [
+        "apppermissions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အက်ပ်တစ်ခုက ကင်မရာ ဖိုင် သို့မဟုတ် တည်နေရာသို့ ဝင်ရောက်ခွင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "appupdate",
+      "pronunciation": "/ˈæpˌʌpdeɪt/",
+      "forms": [
+        "appupdates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အက်ပ်ကို အင်္ဂါရပ်အသစ် သို့မဟုတ် အမှားပြင်ဆင်မှုပါသော ဗားရှင်းအသစ်သို့ မြှင့်တင်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "backgroundapp",
+      "pronunciation": "/ˈbækɡraʊndˌæp/",
+      "forms": [
+        "backgroundapps"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျက်နှာပြင်ပေါ် မဖွင့်ထားသော်လည်း နောက်ကွယ်တွင် ဆက်လက်လုပ်ဆောင်နေသည့် အက်ပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "backupcode",
+      "pronunciation": "/ˈbækʌpˌkoʊd/",
+      "forms": [
+        "backupcodes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုံမှန်အကောင့်ဝင်နည်း မရသည့်အခါ အသုံးပြုရန် ကြိုတင်ပေးထားသည့် အရေးပေါ်ကုဒ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "backupfile",
+      "pronunciation": "/ˈbækʌpˌfaɪl/",
+      "forms": [
+        "backupfiles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မူရင်းဒေတာပျက်လျှင် ပြန်ရယူရန် မိတ္တူထားသည့် ဖိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "batteryhealth",
+      "pronunciation": "/ˈbætəriˌhɛlθ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘက်ထရီ၏ လက်ရှိသိုလှောင်နိုင်စွမ်းနှင့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "browsercache",
+      "pronunciation": "/ˈbraʊzərˌkæʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝဘ်စာမျက်နှာများ ပိုမြန်စွာ ဖွင့်ရန် ဘရောက်ဇာက ယာယီသိမ်းထားသည့် ဖိုင်များ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "browserhistory",
+      "pronunciation": "/ˈbraʊzərˌhɪstəri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယခင် ဝင်ကြည့်ခဲ့သည့် ဝဘ်စာမျက်နှာများ၏ မှတ်တမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "browserprofile",
+      "pronunciation": "/ˈbraʊzərˌproʊfaɪl/",
+      "forms": [
+        "browserprofiles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘရောက်ဇာအတွင်း အသုံးပြုသူတစ်ဦး၏ ဆက်တင် စာမှတ်နှင့် မှတ်တမ်းများ စုထားသည့် ပရိုဖိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cachefile",
+      "pronunciation": "/ˈkæʃˌfaɪl/",
+      "forms": [
+        "cachefiles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုပ်ဆောင်မှုမြန်စေရန် ယာယီသိမ်းထားသည့် ဖိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cloudaccount",
+      "pronunciation": "/ˈklaʊd əˌkaʊnt/",
+      "forms": [
+        "cloudaccounts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းသိမ်းဆည်းမှုနှင့် ဝန်ဆောင်မှုများ အသုံးပြုရန် အကောင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cloudfolder",
+      "pronunciation": "/ˈklaʊdˌfoʊldər/",
+      "forms": [
+        "cloudfolders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းသိမ်းဆည်းမှုအတွင်း ဖိုင်များ စုထားသည့် ဖိုလ်ဒါ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cloudlink",
+      "pronunciation": "/ˈklaʊdˌlɪŋk/",
+      "forms": [
+        "cloudlinks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းသိမ်းထားသည့် ဖိုင် သို့မဟုတ် ဖိုလ်ဒါကို ဝင်ကြည့်နိုင်သည့် လင့်ခ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cloudphoto",
+      "pronunciation": "/ˈklaʊdˌfoʊtoʊ/",
+      "forms": [
+        "cloudphotos"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းသိုလှောင်မှုတွင် သိမ်းထားသည့် ဓာတ်ပုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cloudupload",
+      "pronunciation": "/ˈklaʊdˌʌploʊd/",
+      "forms": [
+        "clouduploads"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိုင်ကို အွန်လိုင်းသိုလှောင်မှုသို့ တင်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "codebranch",
+      "pronunciation": "/ˈkoʊdˌbræntʃ/",
+      "forms": [
+        "codebranches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပင်မကုဒ်မှ သီးခြားခွဲပြီး ဖွံ့ဖြိုးစမ်းသပ်ရန် အသုံးပြုသည့် ကုဒ်လိုင်းခွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "codecommit",
+      "pronunciation": "/ˈkoʊd kəˌmɪt/",
+      "forms": [
+        "codecommits"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကုဒ်ပြောင်းလဲမှုများကို ဗားရှင်းမှတ်တမ်းထဲ သိမ်းသွင်းထားသည့် အချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "codediff",
+      "pronunciation": "/ˈkoʊdˌdɪf/",
+      "forms": [
+        "codediffs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကုဒ်ဗားရှင်းနှစ်ခုကြား ပြောင်းလဲချက်များကို နှိုင်းယှဉ်ပြထားခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "codelinter",
+      "pronunciation": "/ˈkoʊdˌlɪntər/",
+      "forms": [
+        "codelinters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကုဒ်ပုံစံနှင့် ဖြစ်နိုင်သော အမှားများကို အလိုအလျောက် စစ်ဆေးသည့် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "codepatch",
+      "pronunciation": "/ˈkoʊdˌpætʃ/",
+      "forms": [
+        "codepatches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကုဒ်၏ သီးခြားပြောင်းလဲမှု သို့မဟုတ် အမှားပြင်ဆင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "codescan",
+      "pronunciation": "/ˈkoʊdˌskæn/",
+      "forms": [
+        "codescans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကုဒ်ထဲရှိ အမှား သို့မဟုတ် လုံခြုံရေးပြဿနာများကို အလိုအလျောက် စစ်ဆေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "codesmell",
+      "pronunciation": "/ˈkoʊdˌsmɛl/",
+      "forms": [
+        "codesmells"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချက်ချင်းအမှားမဟုတ်သော်လည်း ဒီဇိုင်းမကောင်းနိုင်ကြောင်း ပြသသည့် ကုဒ်ပုံစံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "compileerror",
+      "pronunciation": "/kəmˈpaɪlˌɛrər/",
+      "forms": [
+        "compileerrors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကုဒ်ကို အလုပ်လုပ်နိုင်သော ပရိုဂရမ်အဖြစ် ပြောင်းရာတွင် ဖြစ်သည့် အမှား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crashdump",
+      "pronunciation": "/ˈkræʃˌdʌmp/",
+      "forms": [
+        "crashdumps"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပရိုဂရမ်ပျက်သွားချိန် စနစ်အခြေအနေကို မှတ်တမ်းတင်ထားသည့် ဖိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crashlog",
+      "pronunciation": "/ˈkræʃˌlɔːɡ/",
+      "forms": [
+        "crashlogs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပရိုဂရမ်ပျက်သွားသည့် အကြောင်းနှင့် ဖြစ်စဉ်များ မှတ်တမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "databackup",
+      "pronunciation": "/ˈdeɪtəˌbækʌp/",
+      "forms": [
+        "databackups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒေတာပျက်လျှင် ပြန်ရယူရန် မိတ္တူကူးထားခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "datacache",
+      "pronunciation": "/ˈdeɪtəˌkæʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လျင်မြန်စွာ ပြန်သုံးရန် ယာယီသိမ်းထားသည့် ဒေတာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "datacopy",
+      "pronunciation": "/ˈdeɪtəˌkɑːpi/",
+      "forms": [
+        "datacopies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မူရင်းအချက်အလက်၏ မိတ္တူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "datadump",
+      "pronunciation": "/ˈdeɪtəˌdʌmp/",
+      "forms": [
+        "datadumps"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချက်အလက်အများအပြားကို တစ်ခါတည်း ထုတ်ယူသိမ်းထားသည့် ဖိုင် သို့မဟုတ် လုပ်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dataentry",
+      "pronunciation": "/ˈdeɪtəˌɛntri/",
+      "forms": [
+        "dataentries"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချက်အလက်များကို စနစ်ထဲ ရိုက်သွင်းမှတ်တမ်းတင်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dataexport",
+      "pronunciation": "/ˈdeɪtəˌɛkspɔːrt/",
+      "forms": [
+        "dataexports"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စနစ်တစ်ခုမှ အချက်အလက်ကို အခြားဖိုင် သို့မဟုတ် နေရာသို့ ထုတ်ယူခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dataimport",
+      "pronunciation": "/ˈdeɪtəˌɪmpɔːrt/",
+      "forms": [
+        "dataimports"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခြားဖိုင် သို့မဟုတ် စနစ်မှ အချက်အလက်ကို စနစ်ထဲ ထည့်သွင်းခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dataindex",
+      "pronunciation": "/ˈdeɪtəˌɪndɛks/",
+      "forms": [
+        "dataindexes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချက်အလက်ကို မြန်မြန်ရှာနိုင်ရန် စီထားသည့် အညွှန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "datamigration",
+      "pronunciation": "/ˈdeɪtə maɪˌɡreɪʃən/",
+      "forms": [
+        "datamigrations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒေတာကို စနစ်တစ်ခုမှ အခြားစနစ်သို့ ပြောင်းရွှေ့ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "datamirror",
+      "pronunciation": "/ˈdeɪtəˌmɪrər/",
+      "forms": [
+        "datamirrors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မူရင်းဒေတာနှင့် တူညီစွာ ထပ်တူသိမ်းထားသည့် မိတ္တူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dataplan",
+      "pronunciation": "/ˈdeɪtəˌplæn/",
+      "forms": [
+        "dataplans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း သို့မဟုတ် အင်တာနက်အတွက် သတ်မှတ်ထားသည့် ဒေတာအသုံးပြုမှုအစီအစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dataprocessor",
+      "pronunciation": "/ˈdeɪtəˌprɑːsɛsər/",
+      "forms": [
+        "dataprocessors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချက်အလက်ကို စီမံတွက်ချက်ပြောင်းလဲသည့် စနစ် သို့မဟုတ် လူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dataquery",
+      "pronunciation": "/ˈdeɪtəˌkwɪri/",
+      "forms": [
+        "dataqueries"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒေတာဘေ့စ်မှ အချက်အလက် ရယူရန် ပို့သည့် ရှာဖွေမေးမြန်းချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "datarestore",
+      "pronunciation": "/ˈdeɪtə rɪˌstɔːr/",
+      "forms": [
+        "datarestores"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိတ္တူမှ ဒေတာကို ပြန်လည်ထည့်သွင်းရယူခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "devicebackup",
+      "pronunciation": "/dɪˈvaɪsˌbækʌp/",
+      "forms": [
+        "devicebackups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စက်တစ်ခုရှိ အချက်အလက်နှင့် ဆက်တင်များကို မိတ္တူကူးထားခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "devicecode",
+      "pronunciation": "/dɪˈvaɪsˌkoʊd/",
+      "forms": [
+        "devicecodes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စက်တစ်ခုကို အတည်ပြု သို့မဟုတ် ချိတ်ဆက်ရန် အသုံးပြုသည့် ကုဒ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deviceid",
+      "pronunciation": "/dɪˈvaɪsˌaɪdiː/",
+      "forms": [
+        "deviceids"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စက်တစ်ခုကို သီးခြားခွဲခြားသတ်မှတ်သည့် အမှတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "devicemanager",
+      "pronunciation": "/dɪˈvaɪsˌmænɪdʒər/",
+      "forms": [
+        "devicemanagers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စက်နှင့် ဟာ့ဒ်ဝဲများကို ကြည့်ရှုစီမံသည့် စနစ်ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "devicepairing",
+      "pronunciation": "/dɪˈvaɪsˌperɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စက်နှစ်ခုကို ကြိုးမဲ့စနစ်ဖြင့် အချင်းချင်း ချိတ်ဆက်သတ်မှတ်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "devicepasscode",
+      "pronunciation": "/dɪˈvaɪsˌpæskoʊd/",
+      "forms": [
+        "devicepasscodes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စက်ကို ဖွင့်အသုံးပြုရန် ရိုက်ထည့်ရသည့် လျှို့ဝှက်နံပါတ် သို့မဟုတ် ကုဒ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deviceprofile",
+      "pronunciation": "/dɪˈvaɪsˌproʊfaɪl/",
+      "forms": [
+        "deviceprofiles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စက်တစ်ခု၏ ဆက်တင်နှင့် သတ်မှတ်ချက်များ စုထားသည့် ပရိုဖိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "devicelock",
+      "pronunciation": "/dɪˈvaɪsˌlɑːk/",
+      "forms": [
+        "devicelocks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စက်အသုံးပြုမှုကို စကားဝှက် သို့မဟုတ် ဇီဝအချက်အလက်ဖြင့် ပိတ်ထားသည့် လုံခြုံရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deviceunlock",
+      "pronunciation": "/dɪˈvaɪsˌʌnlɑːk/",
+      "forms": [
+        "deviceunlocks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပိတ်ထားသည့် စက်ကို အတည်ပြုချက်ဖြင့် ပြန်ဖွင့်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "downloadfolder",
+      "pronunciation": "/ˈdaʊnloʊdˌfoʊldər/",
+      "forms": [
+        "downloadfolders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒေါင်းလုပ်လုပ်ထားသည့် ဖိုင်များ အလိုအလျောက် သိမ်းရာ ဖိုလ်ဒါ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "downloadmanager",
+      "pronunciation": "/ˈdaʊnloʊdˌmænɪdʒər/",
+      "forms": [
+        "downloadmanagers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒေါင်းလုပ်များ စတင် ရပ် နှင့် စီမံရန် အသုံးပြုသည့် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "downloadqueue",
+      "pronunciation": "/ˈdaʊnloʊdˌkjuː/",
+      "forms": [
+        "downloadqueues"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒေါင်းလုပ်လုပ်ရန် စောင့်ဆိုင်းနေသည့် ဖိုင်များ စာရင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "errorcode",
+      "pronunciation": "/ˈɛrərˌkoʊd/",
+      "forms": [
+        "errorcodes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမှားအမျိုးအစားကို ခွဲခြားသတ်မှတ်ပေးသည့် ကုဒ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "errorlog",
+      "pronunciation": "/ˈɛrərˌlɔːɡ/",
+      "forms": [
+        "errorlogs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စနစ် သို့မဟုတ် ပရိုဂရမ်တွင် ဖြစ်သည့် အမှားများ မှတ်တမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "errorreport",
+      "pronunciation": "/ˈɛrər rɪˌpɔːrt/",
+      "forms": [
+        "errorreports"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမှားဖြစ်ပုံနှင့် အချက်အလက်များ ဖော်ပြထားသည့် အစီရင်ခံစာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "filebackup",
+      "pronunciation": "/ˈfaɪlˌbækʌp/",
+      "forms": [
+        "filebackups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မူရင်းဖိုင်ပျက်လျှင် ပြန်ရယူရန် ထားသည့် မိတ္တူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "filebrowser",
+      "pronunciation": "/ˈfaɪlˌbraʊzər/",
+      "forms": [
+        "filebrowsers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိုင်နှင့် ဖိုလ်ဒါများ ကြည့်ရှုရှာဖွေရန် သုံးသည့် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "filecache",
+      "pronunciation": "/ˈfaɪlˌkæʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမြန်ပြန်သုံးရန် ယာယီသိမ်းထားသည့် ဖိုင်များ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "filecopy",
+      "pronunciation": "/ˈfaɪlˌkɑːpi/",
+      "forms": [
+        "filecopies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မူရင်းဖိုင်၏ မိတ္တူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "filedownload",
+      "pronunciation": "/ˈfaɪlˌdaʊnloʊd/",
+      "forms": [
+        "filedownloads"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းမှ ဖိုင်ကို စက်ထဲ ရယူခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "filemanager",
+      "pronunciation": "/ˈfaɪlˌmænɪdʒər/",
+      "forms": [
+        "filemanagers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိုင်နှင့် ဖိုလ်ဒါများ ဖွင့် ရွှေ့ ဖျက်နှင့် စီမံသည့် အက်ပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "filemirror",
+      "pronunciation": "/ˈfaɪlˌmɪrər/",
+      "forms": [
+        "filemirrors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မူရင်းဖိုင် သို့မဟုတ် ဖိုင်အစုနှင့် တူညီစွာ သိမ်းထားသည့် မိတ္တူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "filepreview",
+      "pronunciation": "/ˈfaɪlˌpriːvjuː/",
+      "forms": [
+        "filepreviews"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိုင်ကို အပြည့်မဖွင့်ဘဲ အကြောင်းအရာအနည်းငယ် ကြိုကြည့်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "filerestore",
+      "pronunciation": "/ˈfaɪl rɪˌstɔːr/",
+      "forms": [
+        "filerestores"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖျက် သို့မဟုတ် ပျက်သွားသည့် ဖိုင်ကို မိတ္တူမှ ပြန်ယူခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "filescan",
+      "pronunciation": "/ˈfaɪlˌskæn/",
+      "forms": [
+        "filescans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိုင်ထဲရှိ ဗိုင်းရပ်စ် အမှား သို့မဟုတ် အချက်အလက်ကို စစ်ဆေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fileserver",
+      "pronunciation": "/ˈfaɪlˌsɝːvər/",
+      "forms": [
+        "fileservers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက်အတွင်း ဖိုင်များ သိမ်းဆည်းမျှဝေပေးသည့် ဆာဗာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "filetransfer",
+      "pronunciation": "/ˈfaɪlˌtrænsfɝːr/",
+      "forms": [
+        "filetransfers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိုင်ကို စက် သို့မဟုတ် နေရာတစ်ခုမှ အခြားတစ်ခုသို့ ပို့ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fileupload",
+      "pronunciation": "/ˈfaɪlˌʌploʊd/",
+      "forms": [
+        "fileuploads"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိုင်ကို အွန်လိုင်းစနစ် သို့မဟုတ် ဆာဗာသို့ တင်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "folderlock",
+      "pronunciation": "/ˈfoʊldərˌlɑːk/",
+      "forms": [
+        "folderlocks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိုလ်ဒါကို စကားဝှက် သို့မဟုတ် ခွင့်ပြုချက်ဖြင့် ပိတ်ထားသည့် လုံခြုံရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "folderview",
+      "pronunciation": "/ˈfoʊldərˌvjuː/",
+      "forms": [
+        "folderviews"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိုလ်ဒါများကို စာရင်း ပုံသေး သို့မဟုတ် အခြားပုံစံဖြင့် ပြသသည့် မြင်ကွင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "guestmode",
+      "pronunciation": "/ˈɡɛstˌmoʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်ပိုင်ဒေတာသို့ အပြည့်မဝင်ဘဲ အခြားသူ အသုံးပြုနိုင်သည့် စက်အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hotkey",
+      "pronunciation": "/ˈhɑːtˌkiː/",
+      "forms": [
+        "hotkeys"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုပ်ဆောင်ချက်တစ်ခုကို အမြန်လုပ်ရန် သတ်မှတ်ထားသည့် ကီးဘုတ်ခလုတ် သို့မဟုတ် ခလုတ်တွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "keyboardlayout",
+      "pronunciation": "/ˈkiːbɔːrdˌleɪaʊt/",
+      "forms": [
+        "keyboardlayouts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကီးဘုတ်ပေါ်ရှိ စာလုံးနှင့် ခလုတ်များ စီစဉ်ထားသည့် ပုံစံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "loginpage",
+      "pronunciation": "/ˈlɔːɡɪnˌpeɪdʒ/",
+      "forms": [
+        "loginpages"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အကောင့်အမည်နှင့် စကားဝှက် ရိုက်ဝင်သည့် စာမျက်နှာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "loginprompt",
+      "pronunciation": "/ˈlɔːɡɪnˌprɑːmpt/",
+      "forms": [
+        "loginprompts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အကောင့်ဝင်ရန် အချက်အလက်တောင်းသည့် စနစ်မက်ဆေ့ချ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "logoutbutton",
+      "pronunciation": "/ˈlɔːɡaʊtˌbʌtən/",
+      "forms": [
+        "logoutbuttons"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အကောင့်မှ ထွက်ရန် နှိပ်သည့် ခလုတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "passwordfield",
+      "pronunciation": "/ˈpæswɝːdˌfiːld/",
+      "forms": [
+        "passwordfields"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စကားဝှက် ရိုက်ထည့်ရန် သတ်မှတ်ထားသည့် စာသားကွက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "passwordhint",
+      "pronunciation": "/ˈpæswɝːdˌhɪnt/",
+      "forms": [
+        "passwordhints"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စကားဝှက်ကို သတိရစေရန် ပေးထားသည့် အရိပ်အမြွက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "passwordmanager",
+      "pronunciation": "/ˈpæswɝːdˌmænɪdʒər/",
+      "forms": [
+        "passwordmanagers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စကားဝှက်များကို လုံခြုံစွာ သိမ်းနှင့် အလိုအလျောက်ဖြည့်ပေးသည့် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "passwordreset",
+      "pronunciation": "/ˈpæswɝːdˌriːsɛt/",
+      "forms": [
+        "passwordresets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မေ့သွားသည့် စကားဝှက်ကို အသစ်ပြောင်းသတ်မှတ်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "passwordscreen",
+      "pronunciation": "/ˈpæswɝːdˌskriːn/",
+      "forms": [
+        "passwordscreens"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စကားဝှက်ထည့်ရန် သို့မဟုတ် ပြောင်းရန် ပြသသည့် မျက်နှာပြင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "screenlock",
+      "pronunciation": "/ˈskriːnˌlɑːk/",
+      "forms": [
+        "screenlocks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စက်မသုံးချိန် မျက်နှာပြင်ကို အတည်ပြုချက်မရှိဘဲ မဝင်နိုင်အောင် ပိတ်ထားခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "screenshottool",
+      "pronunciation": "/ˈskriːnʃɑːtˌtuːl/",
+      "forms": [
+        "screenshottools"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျက်နှာပြင်ပုံ ဖမ်းယူရန် အသုံးပြုသည့် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "searchbar",
+      "pronunciation": "/ˈsɝːtʃˌbɑːr/",
+      "forms": [
+        "searchbars"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရှာလိုသည့် စကားလုံး ရိုက်ထည့်ရန် မျက်နှာပြင်ပေါ်ရှိ ကွက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "searchbox",
+      "pronunciation": "/ˈsɝːtʃˌbɑːks/",
+      "forms": [
+        "searchboxes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချက်အလက်ရှာရန် စာသားရိုက်ထည့်သည့် ကွက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "searchfilter",
+      "pronunciation": "/ˈsɝːtʃˌfɪltər/",
+      "forms": [
+        "searchfilters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရှာဖွေမှုရလဒ်ကို အမျိုးအစား ရက်စွဲ သို့မဟုတ် အခြားအချက်ဖြင့် ကျဉ်းစေသည့် စနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "searchhistory",
+      "pronunciation": "/ˈsɝːtʃˌhɪstəri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယခင်ရှာဖွေခဲ့သည့် စကားလုံးနှင့် အကြောင်းအရာများ မှတ်တမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "settingmenu",
+      "pronunciation": "/ˈsɛtɪŋˌmɛnjuː/",
+      "forms": [
+        "settingmenus"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အက်ပ် သို့မဟုတ် စက်၏ ဆက်တင်များ ပြောင်းလဲရာ မီနူး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shortcutkey",
+      "pronunciation": "/ˈʃɔːrtkʌtˌkiː/",
+      "forms": [
+        "shortcutkeys"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုပ်ဆောင်ချက်တစ်ခုကို အမြန်ခေါ်ရန် သုံးသည့် ကီးဘုတ်ခလုတ် သို့မဟုတ် ခလုတ်တွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "statusbar",
+      "pronunciation": "/ˈsteɪtəsˌbɑːr/",
+      "forms": [
+        "statusbars"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စက် သို့မဟုတ် အက်ပ်၏ လက်ရှိအခြေအနေအချက်အလက်များ ပြသသည့် တန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "systemtray",
+      "pronunciation": "/ˈsɪstəmˌtreɪ/",
+      "forms": [
+        "systemtrays"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နောက်ကွယ်အက်ပ်နှင့် စနစ်အိုင်ကွန်များ ပြသသည့် ကွန်ပျူတာမျက်နှာပြင်အစိတ်အပိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "airportbus",
+      "pronunciation": "/ˈerpɔːrtˌbʌs/",
+      "forms": [
+        "airportbuses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေဆိပ်နှင့် မြို့ သို့မဟုတ် ဟိုတယ်ကြား ပြေးဆွဲသည့် ဘတ်စ်ကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "airporthotel",
+      "pronunciation": "/ˈerpɔːrt hoʊˌtɛl/",
+      "forms": [
+        "airporthotels"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေဆိပ်အနီးရှိ ခရီးသည်များအတွက် ဟိုတယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "airportlounge",
+      "pronunciation": "/ˈerpɔːrtˌlaʊndʒ/",
+      "forms": [
+        "airportlounges"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ်စောင့်ချိန်တွင် နားနေစားသောက်နိုင်သည့် လေဆိပ်ခန်းမ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "airportshuttle",
+      "pronunciation": "/ˈerpɔːrtˌʃʌtəl/",
+      "forms": [
+        "airportshuttles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေဆိပ်နှင့် ဟိုတယ် သို့မဟုတ် မြို့ကြား အကြိမ်ကြိမ်ပြေးဆွဲသည့် ယာဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "boardingarea",
+      "pronunciation": "/ˈbɔːrdɪŋˌeriə/",
+      "forms": [
+        "boardingareas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ် သို့မဟုတ် သင်္ဘောပေါ်တက်ရန် စောင့်သည့် နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "boardingline",
+      "pronunciation": "/ˈbɔːrdɪŋˌlaɪn/",
+      "forms": [
+        "boardinglines"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယာဉ်ပေါ်တက်ရန် စောင့်နေသည့် လူတန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "boardingpassless",
+      "pronunciation": "/ˈbɔːrdɪŋˌpæsləs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စက္ကူ သို့မဟုတ် သီးခြား လေယာဉ်တက်ခွင့်လက်မှတ် မလိုသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "baggagebelt",
+      "pronunciation": "/ˈbæɡɪdʒˌbɛlt/",
+      "forms": [
+        "baggagebelts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေဆိပ်တွင် ခရီးဆောင်အိတ်များ လှည့်ပတ်ပို့ပေးသည့် ကြိုးပတ်တန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "baggagecart",
+      "pronunciation": "/ˈbæɡɪdʒˌkɑːrt/",
+      "forms": [
+        "baggagecarts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရီးဆောင်အိတ်များ တင်ရွှေ့ရန် သုံးသည့် လှည်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "baggagehandler",
+      "pronunciation": "/ˈbæɡɪdʒˌhændlər/",
+      "forms": [
+        "baggagehandlers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေဆိပ်တွင် ခရီးဆောင်အိတ်များ တင်ချရွှေ့ပြောင်းသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "baggagetag",
+      "pronunciation": "/ˈbæɡɪdʒˌtæɡ/",
+      "forms": [
+        "baggagetags"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရီးဆောင်အိတ်ပိုင်ရှင်နှင့် ခရီးစဉ်အချက်အလက် ဖော်ပြထားသည့် တံဆိပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bagweight",
+      "pronunciation": "/ˈbæɡˌweɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရီးဆောင်အိတ်၏ အလေးချိန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cabinbag",
+      "pronunciation": "/ˈkæbɪnˌbæɡ/",
+      "forms": [
+        "cabinbags"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ်ခန်းထဲ ကိုယ်တိုင်ယူသွားနိုင်သည့် အိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "carryonbag",
+      "pronunciation": "/ˈkæriɑːnˌbæɡ/",
+      "forms": [
+        "carryonbags"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ်အတွင်း ကိုယ်တိုင်သယ်ယူသွားနိုင်သည့် အိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "checkin",
+      "pronunciation": "/ˈtʃɛkˌɪn/",
+      "forms": [
+        "checkins"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟိုတယ် သို့မဟုတ် လေယာဉ်ခရီးမစမီ မှတ်ပုံတင်ပြီး အတည်ပြုသည့် လုပ်ငန်းစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "checkincounter",
+      "pronunciation": "/ˈtʃɛkɪnˌkaʊntər/",
+      "forms": [
+        "checkincounters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ်ခရီးအတွက် စာရင်းသွင်းနှင့် အိတ်အပ်ရာ ကောင်တာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "citybreak",
+      "pronunciation": "/ˈsɪtiˌbreɪk/",
+      "forms": [
+        "citybreaks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြို့တစ်မြို့သို့ ရက်တိုအပန်းဖြေခရီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "citytour",
+      "pronunciation": "/ˈsɪtiˌtʊr/",
+      "forms": [
+        "citytours"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြို့၏ နာမည်ကြီးနေရာများ လှည့်လည်ကြည့်ရှုသည့် ခရီးစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "coachstation",
+      "pronunciation": "/ˈkoʊtʃˌsteɪʃən/",
+      "forms": [
+        "coachstations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဝေးပြေးဘတ်စ်ကားများ ထွက်ခွာနှင့် ရောက်ရှိရာ ဘူတာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "connectingflight",
+      "pronunciation": "/kəˈnɛktɪŋˌflaɪt/",
+      "forms": [
+        "connectingflights"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နောက်ထပ်ခရီးဆက်ရန် ပြောင်းစီးရသည့် လေယာဉ်ခရီးစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "connectiontime",
+      "pronunciation": "/kəˈnɛkʃənˌtaɪm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရီးဆက်ယာဉ်သို့ ပြောင်းရန် ရရှိသည့် အချိန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "departurehall",
+      "pronunciation": "/dɪˈpɑːrtʃərˌhɔːl/",
+      "forms": [
+        "departurehalls"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရီးသည်များ ထွက်ခွာမည့်အချိန် စောင့်ဆိုင်းသည့် လေဆိပ်ခန်းမ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "departurelounge",
+      "pronunciation": "/dɪˈpɑːrtʃərˌlaʊndʒ/",
+      "forms": [
+        "departurelounges"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ်ထွက်မီ ခရီးသည်များ နားနေရန် နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "flightdeck",
+      "pronunciation": "/ˈflaɪtˌdɛk/",
+      "forms": [
+        "flightdecks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ်မှူးများ လေယာဉ်ကို ထိန်းချုပ်မောင်းနှင်သည့် ရှေ့ခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "flightgate",
+      "pronunciation": "/ˈflaɪtˌɡeɪt/",
+      "forms": [
+        "flightgates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ်ပေါ်တက်ရန် သတ်မှတ်ထားသည့် ဂိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "flightinfo",
+      "pronunciation": "/ˈflaɪtˌɪnfoʊ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ်ခရီးစဉ်၏ အချိန် ဂိတ်နှင့် အခြေအနေအချက်အလက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "flightnumber",
+      "pronunciation": "/ˈflaɪtˌnʌmbər/",
+      "forms": [
+        "flightnumbers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ်ခရီးစဉ်တစ်ခုကို ခွဲခြားသတ်မှတ်သည့် နံပါတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "flightroute",
+      "pronunciation": "/ˈflaɪtˌruːt/",
+      "forms": [
+        "flightroutes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ်ခရီးစဉ်၏ ထွက်ခွာရာမှ ရောက်ရှိရာအထိ လမ်းကြောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "flightticket",
+      "pronunciation": "/ˈflaɪtˌtɪkɪt/",
+      "forms": [
+        "flighttickets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ်ခရီးစဉ်အတွက် ဝယ်ယူထားသည့် လက်မှတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gateagent",
+      "pronunciation": "/ˈɡeɪtˌeɪdʒənt/",
+      "forms": [
+        "gateagents"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေဆိပ်ဂိတ်တွင် ခရီးသည်တက်ခြင်းနှင့် စာရင်းစစ်ခြင်းကို စီမံသည့် ဝန်ထမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gatearea",
+      "pronunciation": "/ˈɡeɪtˌeriə/",
+      "forms": [
+        "gateareas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ်ဂိတ်အနီး ခရီးသည်များ စောင့်ဆိုင်းသည့် နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gateboard",
+      "pronunciation": "/ˈɡeɪtˌbɔːrd/",
+      "forms": [
+        "gateboards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂိတ်နံပါတ်နှင့် ခရီးစဉ်အချက်အလက် ပြသသည့် ဘုတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gatecheck",
+      "pronunciation": "/ˈɡeɪtˌtʃɛk/",
+      "forms": [
+        "gatechecks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂိတ်တွင် လက်မှတ် စာရွက်စာတမ်း သို့မဟုတ် အိတ်ကို စစ်ဆေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "handcarry",
+      "pronunciation": "/ˈhændˌkæri/",
+      "forms": [
+        "handcarries"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရီးသွားသူ ကိုယ်တိုင် လက်ဖြင့် ယူဆောင်သွားသည့် အိတ် သို့မဟုတ် ပစ္စည်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hostelbed",
+      "pronunciation": "/ˈhɑːstəlˌbɛd/",
+      "forms": [
+        "hostelbeds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရီးသွားအိပ်ဆောင်တွင် ငှားရမ်းအိပ်သည့် အိပ်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hostelguest",
+      "pronunciation": "/ˈhɑːstəlˌɡɛst/",
+      "forms": [
+        "hostelguests"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရီးသွားအိပ်ဆောင်တွင် တည်းခိုသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hotelguest",
+      "pronunciation": "/hoʊˈtɛlˌɡɛst/",
+      "forms": [
+        "hotelguests"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟိုတယ်တွင် တည်းခိုနေသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hotelkey",
+      "pronunciation": "/hoʊˈtɛlˌkiː/",
+      "forms": [
+        "hotelkeys"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟိုတယ်အခန်းတံခါး ဖွင့်ရန် ပေးသည့် သော့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hotelkeycard",
+      "pronunciation": "/hoʊˈtɛlˌkiːkɑːrd/",
+      "forms": [
+        "hotelkeycards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟိုတယ်အခန်းတံခါး ဖွင့်ရန် သုံးသည့် အီလက်ထရွန်နစ်ကတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hotelstaff",
+      "pronunciation": "/hoʊˈtɛlˌstæf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟိုတယ်တွင် အလုပ်လုပ်သည့် ဝန်ထမ်းများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hotelbooking",
+      "pronunciation": "/hoʊˈtɛlˌbʊkɪŋ/",
+      "forms": [
+        "hotelbookings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟိုတယ်အခန်းကို ကြိုတင်မှာယူထားခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hotelcheckin",
+      "pronunciation": "/hoʊˈtɛlˌtʃɛkɪn/",
+      "forms": [
+        "hotelcheckins"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟိုတယ်သို့ ရောက်ပြီး တည်းခိုမှု စတင်မှတ်ပုံတင်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hotelcheckout",
+      "pronunciation": "/hoʊˈtɛlˌtʃɛkaʊt/",
+      "forms": [
+        "hotelcheckouts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟိုတယ်မှ ထွက်ခွာရာတွင် အခန်းပြန်အပ်နှင့် ငွေရှင်းခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hotellobby",
+      "pronunciation": "/hoʊˈtɛlˌlɑːbi/",
+      "forms": [
+        "hotellobbies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟိုတယ်ဝင်ပေါက်ရှိ ဧည့်သည်လက်ခံနှင့် စောင့်ဆိုင်းရာ ခန်းမ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hotelpool",
+      "pronunciation": "/hoʊˈtɛlˌpuːl/",
+      "forms": [
+        "hotelpools"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဟိုတယ်အတွင်းရှိ ရေကူးကန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "motelguest",
+      "pronunciation": "/moʊˈtɛlˌɡɛst/",
+      "forms": [
+        "motelguests"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုတယ်တွင် တည်းခိုသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nightbus",
+      "pronunciation": "/ˈnaɪtˌbʌs/",
+      "forms": [
+        "nightbuses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ညပိုင်း သို့မဟုတ် ညအိပ်ခရီးစဉ် ပြေးဆွဲသည့် ဘတ်စ်ကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nighttrain",
+      "pronunciation": "/ˈnaɪtˌtreɪn/",
+      "forms": [
+        "nighttrains"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ညပိုင်း သို့မဟုတ် ညအိပ်ခရီးစဉ် ပြေးဆွဲသည့် ရထား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overnightflight",
+      "pronunciation": "/ˌoʊvərˈnaɪtˌflaɪt/",
+      "forms": [
+        "overnightflights"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ညအတွင်း အချိန်ကြာ ပျံသန်းသည့် လေယာဉ်ခရီးစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "passportcheck",
+      "pronunciation": "/ˈpæspɔːrtˌtʃɛk/",
+      "forms": [
+        "passportchecks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နိုင်ငံကူးလက်မှတ်ကို စစ်ဆေးအတည်ပြုခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "passportcontrol",
+      "pronunciation": "/ˈpæspɔːrt kənˌtroʊl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နိုင်ငံဝင်ထွက်ရာတွင် နိုင်ငံကူးလက်မှတ် စစ်ဆေးသည့် ဌာန"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "passportphoto",
+      "pronunciation": "/ˈpæspɔːrtˌfoʊtoʊ/",
+      "forms": [
+        "passportphotos"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နိုင်ငံကူးလက်မှတ်အတွက် သတ်မှတ်ပုံစံဖြင့် ရိုက်ထားသည့် ဓာတ်ပုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "passportscan",
+      "pronunciation": "/ˈpæspɔːrtˌskæn/",
+      "forms": [
+        "passportscans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နိုင်ငံကူးလက်မှတ်ကို စက်ဖြင့် ဖတ်ယူစစ်ဆေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "roadtripmate",
+      "pronunciation": "/ˈroʊdtrɪpˌmeɪt/",
+      "forms": [
+        "roadtripmates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကားဖြင့် ခရီးရှည်အတူသွားသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "roadsidehotel",
+      "pronunciation": "/ˈroʊdsaɪd hoʊˌtɛl/",
+      "forms": [
+        "roadsidehotels"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဝေးပြေးလမ်းဘေးတွင် ခရီးသည်များအတွက် ရှိသည့် ဟိုတယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sleepercoach",
+      "pronunciation": "/ˈsliːpərˌkoʊtʃ/",
+      "forms": [
+        "sleepercoaches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရီးသည်များ အိပ်နိုင်ရန် အိပ်စင်ပါသော ယာဉ် သို့မဟုတ် ရထားတွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sleeperberth",
+      "pronunciation": "/ˈsliːpərˌbɝːθ/",
+      "forms": [
+        "sleeperberths"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရထား သို့မဟုတ် သင်္ဘောတွင် အိပ်ရန် ပြုလုပ်ထားသည့် အိပ်စင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sleepercompartment",
+      "pronunciation": "/ˈsliːpər kəmˌpɑːrtmənt/",
+      "forms": [
+        "sleepercompartments"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရထားတွင် အိပ်စင်များ ပါသည့် သီးခြားခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trainpass",
+      "pronunciation": "/ˈtreɪnˌpæs/",
+      "forms": [
+        "trainpasses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရထားကို သတ်မှတ်ကာလအတွင်း အကြိမ်များစွာ စီးနိုင်သည့် လက်မှတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trainplatform",
+      "pronunciation": "/ˈtreɪnˌplætfɔːrm/",
+      "forms": [
+        "trainplatforms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရထားပေါ်တက်ဆင်းရန် ဘူတာတွင် ပြုလုပ်ထားသည့် စင်မြင့်လမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trainstation",
+      "pronunciation": "/ˈtreɪnˌsteɪʃən/",
+      "forms": [
+        "trainstations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရထားများ ရပ်နား၍ ခရီးသည်တက်ဆင်းရာ ဘူတာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "transitpass",
+      "pronunciation": "/ˈtrænzɪtˌpæs/",
+      "forms": [
+        "transitpasses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အများပြည်သူသယ်ယူပို့ဆောင်ရေးကို သတ်မှတ်ကာလအတွင်း အသုံးပြုနိုင်သည့် လက်မှတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "travelbuddy",
+      "pronunciation": "/ˈtrævəlˌbʌdi/",
+      "forms": [
+        "travelbuddies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရီးအတူသွားသည့် ရင်းနှီးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "travelcompanion",
+      "pronunciation": "/ˈtrævəl kəmˌpænjən/",
+      "forms": [
+        "travelcompanions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရီးတွင် အတူလိုက်ပါသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "travelgear",
+      "pronunciation": "/ˈtrævəlˌɡɪr/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရီးသွားရာတွင် အသုံးပြုသည့် အိတ် အဝတ်နှင့် ကိရိယာများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "travelkit",
+      "pronunciation": "/ˈtrævəlˌkɪt/",
+      "forms": [
+        "travelkits"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရီးသွားရန် လိုအပ်ပစ္စည်းများ စုထားသည့် အိတ် သို့မဟုတ် အစုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "travellight",
+      "pronunciation": "/ˌtrævəlˈlaɪt/",
+      "forms": [
+        "travelslight",
+        "traveledlight",
+        "travelinglight"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အိတ်နှင့် ပစ္စည်းအနည်းငယ်သာ ယူ၍ ခရီးသွားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "travelroute",
+      "pronunciation": "/ˈtrævəlˌruːt/",
+      "forms": [
+        "travelroutes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရီးသွားရာတွင် လိုက်မည့် လမ်းကြောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "traveltime",
+      "pronunciation": "/ˈtrævəlˌtaɪm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နေရာတစ်ခုမှ အခြားတစ်ခုသို့ သွားရန် ကြာသည့် အချိန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tripmate",
+      "pronunciation": "/ˈtrɪpˌmeɪt/",
+      "forms": [
+        "tripmates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရီးတစ်ခုတွင် အတူလိုက်ပါသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bathslipper",
+      "pronunciation": "/ˈbæθˌslɪpər/",
+      "forms": [
+        "bathslippers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေချိုးပြီးနောက် သို့မဟုတ် ရေချိုးခန်းတွင် ဝတ်သည့် ဖိနပ်ပေါ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bathroommirror",
+      "pronunciation": "/ˈbæθruːmˌmɪrər/",
+      "forms": [
+        "bathroommirrors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေချိုးခန်းတွင် တပ်ထားသည့် မှန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bedsidecabinet",
+      "pronunciation": "/ˈbɛdsaɪdˌkæbɪnət/",
+      "forms": [
+        "bedsidecabinets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိပ်ရာဘေးတွင် ထားသည့် အံဆွဲ သို့မဟုတ် သိုလှောင်ခန်းပါ စားပွဲငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bedsideclock",
+      "pronunciation": "/ˈbɛdsaɪdˌklɑːk/",
+      "forms": [
+        "bedsideclocks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိပ်ရာဘေးတွင် ထားသည့် နာရီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bedcoverlet",
+      "pronunciation": "/ˈbɛdˌkʌvərlət/",
+      "forms": [
+        "bedcoverlets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိပ်ရာပေါ် ဖုံးသည့် ပေါ့ပါးအလှဆင်စောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bedroomdoor",
+      "pronunciation": "/ˈbɛdruːmˌdɔːr/",
+      "forms": [
+        "bedroomdoors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိပ်ခန်း၏ တံခါး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bedroomwindow",
+      "pronunciation": "/ˈbɛdruːmˌwɪndoʊ/",
+      "forms": [
+        "bedroomwindows"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိပ်ခန်း၏ ပြတင်းပေါက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "blanketbox",
+      "pronunciation": "/ˈblæŋkɪtˌbɑːks/",
+      "forms": [
+        "blanketboxes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စောင်နှင့် အိပ်ရာခင်းများ သိမ်းရန် သေတ္တာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lampstand",
+      "pronunciation": "/ˈlæmpˌstænd/",
+      "forms": [
+        "lampstands"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မီးအိမ် တင်ထားရန် သုံးသည့် စင် သို့မဟုတ် ခြေတံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "laundrybasket",
+      "pronunciation": "/ˈlɔːndriˌbæskɪt/",
+      "forms": [
+        "laundrybaskets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လျှော်ရန် သို့မဟုတ် လျှော်ပြီးအဝတ်များ ထည့်သည့် ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "laundrybag",
+      "pronunciation": "/ˈlɔːndriˌbæɡ/",
+      "forms": [
+        "laundrybags"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဝတ်လျှော်ရန် အဝတ်များ ထည့်သည့် အိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "laundryroom",
+      "pronunciation": "/ˈlɔːndriˌruːm/",
+      "forms": [
+        "laundryrooms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဝတ်လျှော်နှင့် အခြောက်ခံရန် သတ်မှတ်ထားသည့် အခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "laundrysoap",
+      "pronunciation": "/ˈlɔːndriˌsoʊp/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဝတ်လျှော်ရန် သုံးသည့် ဆပ်ပြာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pillowcover",
+      "pronunciation": "/ˈpɪloʊˌkʌvər/",
+      "forms": [
+        "pillowcovers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခေါင်းအုံးကို ဖုံးထားသည့် အဖုံး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pillowprotector",
+      "pronunciation": "/ˈpɪloʊ prəˌtɛktər/",
+      "forms": [
+        "pillowprotectors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခေါင်းအုံးကို ဖုန်နှင့် အစိုဓာတ်မှ ကာကွယ်ရန် အတွင်းဖုံး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "showerdoor",
+      "pronunciation": "/ˈʃaʊərˌdɔːr/",
+      "forms": [
+        "showerdoors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေချိုးခန်း၏ ရေစိုဧရိယာကို ပိတ်ထားသည့် တံခါး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "showerglass",
+      "pronunciation": "/ˈʃaʊərˌɡlæs/",
+      "forms": [
+        "showerglasses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေချိုးနေရာကို ခွဲကာထားသည့် မှန်ပြား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "showermat",
+      "pronunciation": "/ˈʃaʊərˌmæt/",
+      "forms": [
+        "showermats"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေချိုးရာတွင် ချော်မကျရန် ခင်းသည့် ဖျာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "showerroom",
+      "pronunciation": "/ˈʃaʊərˌruːm/",
+      "forms": [
+        "showerrooms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေချိုးရန် သတ်မှတ်ထားသည့် အခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "toiletrycase",
+      "pronunciation": "/ˈtɔɪlətriˌkeɪs/",
+      "forms": [
+        "toiletrycases"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်ရေးသန့်ရှင်းရေးပစ္စည်းများ ထည့်သိမ်းရန် အိတ် သို့မဟုတ် ဘူး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "toothbrushholder",
+      "pronunciation": "/ˈtuːθbrʌʃˌhoʊldər/",
+      "forms": [
+        "toothbrushholders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သွားတိုက်တံများ ထည့်ထားရန် သုံးသည့် ခွက် သို့မဟုတ် စင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "towelholder",
+      "pronunciation": "/ˈtaʊəlˌhoʊldər/",
+      "forms": [
+        "towelholders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုဝါချိတ် သို့မဟုတ် တင်ထားရန် သုံးသည့် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "towelstand",
+      "pronunciation": "/ˈtaʊəlˌstænd/",
+      "forms": [
+        "towelstands"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုဝါများ ချိတ်ထားရန် သုံးသည့် စင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "washbag",
+      "pronunciation": "/ˈwɑːʃˌbæɡ/",
+      "forms": [
+        "washbags"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေချိုးခန်းသုံးနှင့် ကိုယ်ရေးသန့်ရှင်းရေးပစ္စည်းများ ထည့်သည့် အိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "albumcover",
+      "pronunciation": "/ˈælbəmˌkʌvər/",
+      "forms": [
+        "albumcovers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တေးအယ်လ်ဘမ်ကို ကိုယ်စားပြုသည့် အဖုံးပုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "backstagepass",
+      "pronunciation": "/ˈbæksteɪdʒˌpæs/",
+      "forms": [
+        "backstagepasses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖျော်ဖြေပွဲနောက်ကွယ်ဧရိယာသို့ ဝင်ခွင့်ပေးသည့် လက်မှတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fanclub",
+      "pronunciation": "/ˈfænˌklʌb/",
+      "forms": [
+        "fanclubs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အနုပညာရှင် အဖွဲ့ သို့မဟုတ် အကြောင်းအရာတစ်ခုကို အားပေးသူများ၏ အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "filmtrailer",
+      "pronunciation": "/ˈfɪlmˌtreɪlər/",
+      "forms": [
+        "filmtrailers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုပ်ရှင်မထွက်မီ ကြော်ငြာရန် ပြသသည့် ဗီဒီယိုအတို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "teasertrailer",
+      "pronunciation": "/ˈtiːzərˌtreɪlər/",
+      "forms": [
+        "teasertrailers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အကြောင်းအရာအနည်းငယ်သာ ဖော်ပြပြီး စိတ်ဝင်စားစေရန် ထုတ်သည့် ကြော်ငြာဗီဒီယိုအတို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sneakpeek",
+      "pronunciation": "/ˈsniːkˌpiːk/",
+      "forms": [
+        "sneakpeeks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မထုတ်ပြန်မီ အကြောင်းအရာအနည်းငယ်ကို ကြိုတင်ပြသခြင်း"
+          ]
+        }
+      ]
+    }
+  ]
+}
