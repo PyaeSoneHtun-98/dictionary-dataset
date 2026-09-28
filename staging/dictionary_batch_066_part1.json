@@ -1,0 +1,1462 @@
+{
+  "version": 1,
+  "batch": 66,
+  "entries": [
+    {
+      "word": "backtalk",
+      "pronunciation": "/ˈbækˌtɔːk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူကြီး သို့မဟုတ် အာဏာရှိသူကို ပြန်လည်ရိုင်းစိုင်းပြောဆိုခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "breakuptext",
+      "pronunciation": "/ˈbreɪkʌpˌtɛkst/",
+      "forms": [
+        "breakuptexts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးဖြတ်ရန် စာတိုဖြင့် ပို့သည့် မက်ဆေ့ချ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crushable",
+      "pronunciation": "/ˈkrʌʃəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အချစ်စိတ်ဝင်စားမိလွယ်အောင် ဆွဲဆောင်မှုရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "datemate",
+      "pronunciation": "/ˈdeɪtˌmeɪt/",
+      "forms": [
+        "datemates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးတွေ့ဆုံရန် အတူသွားသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "datinglife",
+      "pronunciation": "/ˈdeɪtɪŋˌlaɪf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချစ်သူရှာဖွေတွေ့ဆုံခြင်းနှင့် ဆိုင်သော ကိုယ်ပိုင်ဘဝပိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "exfriend",
+      "pronunciation": "/ˈɛksˌfrɛnd/",
+      "forms": [
+        "exfriends"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယခင်က မိတ်ဆွေဖြစ်ခဲ့သော်လည်း ယခုမရင်းနှီးတော့သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyfriend",
+      "pronunciation": "/ˈfæməliˌfrɛnd/",
+      "forms": [
+        "familyfriends"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုတစ်စုလုံးနှင့် ရင်းနှီးသည့် မိတ်ဆွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyhome",
+      "pronunciation": "/ˈfæməliˌhoʊm/",
+      "forms": [
+        "familyhomes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုအတူနေထိုင်သည့် အိမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyname",
+      "pronunciation": "/ˈfæməliˌneɪm/",
+      "forms": [
+        "familynames"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုဝင်များ အတူအသုံးပြုသည့် နောက်ဆုံးအမည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyroom",
+      "pronunciation": "/ˈfæməliˌruːm/",
+      "forms": [
+        "familyrooms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုဝင်များ အတူထိုင်နားရန် အသုံးပြုသည့် အခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familytree",
+      "pronunciation": "/ˈfæməliˌtriː/",
+      "forms": [
+        "familytrees"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုမျိုးဆက်ဆက်နွယ်မှုကို သစ်ပင်ပုံစံဖြင့် ပြထားသည့် ဇယား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fatherfigure",
+      "pronunciation": "/ˈfɑːðərˌfɪɡjər/",
+      "forms": [
+        "fatherfigures"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖခင်ကဲ့သို့ လမ်းညွှန်ကာကွယ်ပေးသည့် အမျိုးသား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fosterparent",
+      "pronunciation": "/ˈfɔːstərˌperənt/",
+      "forms": [
+        "fosterparents"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိမိကလေးမဟုတ်သူကို ယာယီမိဘအဖြစ် စောင့်ရှောက်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "godparent",
+      "pronunciation": "/ˈɡɑːdˌperənt/",
+      "forms": [
+        "godparents"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေး၏ ဘာသာရေး သို့မဟုတ် ကိုယ်ရေးလမ်းညွှန်မှုကို အထူးတာဝန်ယူရန် ရွေးချယ်ထားသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "grandparenthood",
+      "pronunciation": "/ˈɡrændˌperənthʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဘိုး သို့မဟုတ် အဘွားဖြစ်နေသည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "halfbrother",
+      "pronunciation": "/ˈhæfˌbrʌðər/",
+      "forms": [
+        "halfbrothers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိဘတစ်ဦးသာ တူသော အစ်ကို သို့မဟုတ် ညီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "halfsister",
+      "pronunciation": "/ˈhæfˌsɪstər/",
+      "forms": [
+        "halfsisters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိဘတစ်ဦးသာ တူသော အစ်မ သို့မဟုတ် ညီမ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "housematehood",
+      "pronunciation": "/ˈhaʊsˌmeɪthʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိမ်တစ်လုံးတည်း အတူမျှဝေနေထိုင်သူများ ဖြစ်နေသည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inlaw",
+      "pronunciation": "/ˈɪnˌlɔː/",
+      "forms": [
+        "inlaws"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်ထပ်ခြင်းကြောင့် ဆွေမျိုးဖြစ်လာသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "kisscam",
+      "pronunciation": "/ˈkɪsˌkæm/",
+      "forms": [
+        "kisscams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပွဲကြည့်စင်ရှိ စုံတွဲများကို ဖန်သားပြင်ပေါ်ပြပြီး အနမ်းပေးရန် အားပေးသည့် ကင်မရာအစီအစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lovelife",
+      "pronunciation": "/ˈlʌvˌlaɪf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူတစ်ဦး၏ အချစ်ရေးနှင့် ချစ်သူဆက်ဆံရေးပိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "loveletter",
+      "pronunciation": "/ˈlʌvˌlɛtər/",
+      "forms": [
+        "loveletters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချစ်ခင်စိတ်ကို ရေးသားဖော်ပြထားသည့် စာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lovenote",
+      "pronunciation": "/ˈlʌvˌnoʊt/",
+      "forms": [
+        "lovenotes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချစ်ခင်စိတ်ဖော်ပြသည့် စာတိုအသေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "loveinterest",
+      "pronunciation": "/ˈlʌvˌɪntrəst/",
+      "forms": [
+        "loveinterests"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇာတ်လမ်း သို့မဟုတ် လက်တွေ့ဘဝတွင် အချစ်ရေးစိတ်ဝင်စားသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lovetriangle",
+      "pronunciation": "/ˈlʌvˌtraɪæŋɡəl/",
+      "forms": [
+        "lovetriangles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူသုံးဦးကြား အချစ်ရေးရှုပ်ထွေးနေသည့် ဆက်ဆံရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "matchmakingapp",
+      "pronunciation": "/ˈmætʃˌmeɪkɪŋˌæp/",
+      "forms": [
+        "matchmakingapps"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးမိတ်ဖက် သို့မဟုတ် လက်ထပ်ဖော်ရှာရန် သုံးသည့် အက်ပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "motherfigure",
+      "pronunciation": "/ˈmʌðərˌfɪɡjər/",
+      "forms": [
+        "motherfigures"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိခင်ကဲ့သို့ စောင့်ရှောက်လမ်းညွှန်ပေးသည့် အမျိုးသမီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "parentteacher",
+      "pronunciation": "/ˈperəntˌtiːtʃər/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မိဘနှင့် ဆရာ ဆက်သွယ်ပူးပေါင်းမှုနှင့် သက်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "siblinghood",
+      "pronunciation": "/ˈsɪblɪŋˌhʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစ်ကို အစ်မ ညီ ညီမတို့အဖြစ် ဆက်နွယ်နေမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stepsibling",
+      "pronunciation": "/ˈstɛpˌsɪblɪŋ/",
+      "forms": [
+        "stepsiblings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိဘတစ်ဦး လက်ထပ်ခြင်းကြောင့် မောင်နှမဖြစ်လာသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stepparent",
+      "pronunciation": "/ˈstɛpˌperənt/",
+      "forms": [
+        "stepparents"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိဘတစ်ဦး၏ နောက်ထပ်အိမ်ထောင်ဖက်ဖြစ်ပြီး မိဘအဖြစ် ပါဝင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "talkingstage",
+      "pronunciation": "/ˈtɔːkɪŋˌsteɪdʒ/",
+      "forms": [
+        "talkingstages"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တရားဝင်ချစ်သူမဖြစ်မီ တစ်ယောက်နှင့်တစ်ယောက် စိတ်ဝင်စား၍ စကားပြောလေ့လာနေသည့် အဆင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "weddingparty",
+      "pronunciation": "/ˈwɛdɪŋˌpɑːrti/",
+      "forms": [
+        "weddingparties"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မင်္ဂလာပွဲတွင် သတို့သားသတို့သမီးနှင့် အနီးကပ်ပါဝင်ကူညီသည့် အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "weddingguest",
+      "pronunciation": "/ˈwɛdɪŋˌɡɛst/",
+      "forms": [
+        "weddingguests"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မင်္ဂလာပွဲသို့ ဖိတ်ကြားထားသည့် ဧည့်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "weddingplanner",
+      "pronunciation": "/ˈwɛdɪŋˌplænər/",
+      "forms": [
+        "weddingplanners"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မင်္ဂလာပွဲအတွက် နေရာ အစီအစဉ်နှင့် ဝန်ဆောင်မှုများ စီစဉ်ပေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "weddingvow",
+      "pronunciation": "/ˈwɛdɪŋˌvaʊ/",
+      "forms": [
+        "weddingvows"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မင်္ဂလာပွဲတွင် အိမ်ထောင်ဖက်နှစ်ဦး ပြုသော ကတိစကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bestfriend",
+      "pronunciation": "/ˌbɛstˈfrɛnd/",
+      "forms": [
+        "bestfriends"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလွန်ရင်းနှီးယုံကြည်ရသော မိတ်ဆွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "childhoodfriend",
+      "pronunciation": "/ˈtʃaɪldhʊdˌfrɛnd/",
+      "forms": [
+        "childhoodfriends"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေးဘဝကတည်းက ရင်းနှီးလာသည့် မိတ်ဆွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "friendgroup",
+      "pronunciation": "/ˈfrɛndˌɡruːp/",
+      "forms": [
+        "friendgroups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တစ်ဦးနှင့်တစ်ဦး ရင်းနှီးသည့် မိတ်ဆွေအစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "friendcircle",
+      "pronunciation": "/ˈfrɛndˌsɝːkəl/",
+      "forms": [
+        "friendcircles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူတစ်ဦးနှင့် နီးစပ်ရင်းနှီးသည့် မိတ်ဆွေများအစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "friendrequest",
+      "pronunciation": "/ˈfrɛnd rɪˌkwɛst/",
+      "forms": [
+        "friendrequests"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုကွန်ရက်တွင် မိတ်ဆွေအဖြစ် ချိတ်ဆက်ရန် ပို့သည့် တောင်းဆိုချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "friendlist",
+      "pronunciation": "/ˈfrɛndˌlɪst/",
+      "forms": [
+        "friendlists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အကောင့်တစ်ခုနှင့် ချိတ်ဆက်ထားသည့် မိတ်ဆွေများ စာရင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "friendchat",
+      "pronunciation": "/ˈfrɛndˌtʃæt/",
+      "forms": [
+        "friendchats"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိတ်ဆွေများအကြား စာတို သို့မဟုတ် အွန်လိုင်းစကားပြောခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "boyfriendmaterial",
+      "pronunciation": "/ˈbɔɪfrɛnd məˌtɪriəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ချစ်သူအဖြစ် တည်ငြိမ်စွာ တွဲဖက်သင့်သည်ဟု ထင်ရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "girlfriendmaterial",
+      "pronunciation": "/ˈɡɝːlfrɛnd məˌtɪriəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ချစ်သူအဖြစ် တည်ငြိမ်စွာ တွဲဖက်သင့်သည်ဟု ထင်ရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "newlysingle",
+      "pronunciation": "/ˌnuːliˈsɪŋɡəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မကြာသေးမီက အချစ်ရေး သို့မဟုတ် အိမ်ထောင်ရေး ပြတ်သွားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "singlehood",
+      "pronunciation": "/ˈsɪŋɡəlˌhʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချစ်သူ သို့မဟုတ် အိမ်ထောင်ဖက်မရှိဘဲ နေထိုင်နေသည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reboundrelationship",
+      "pronunciation": "/ˈriːbaʊnd rɪˌleɪʃənʃɪp/",
+      "forms": [
+        "reboundrelationships"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးတစ်ခု ပြတ်ပြီး မကြာမီ စတင်သည့် နောက်ထပ်ဆက်ဆံရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rebounddate",
+      "pronunciation": "/ˈriːbaʊndˌdeɪt/",
+      "forms": [
+        "rebounddates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးပြတ်ပြီး မကြာမီ နောက်တစ်ဦးနှင့် အချစ်ရေးတွေ့ဆုံခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "secretcrush",
+      "pronunciation": "/ˈsiːkrətˌkrʌʃ/",
+      "forms": [
+        "secretcrushes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မဖော်ပြသေးဘဲ လျှို့ဝှက်စွာ စိတ်ဝင်စားနေသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "secretadmirer",
+      "pronunciation": "/ˈsiːkrət ədˌmaɪrər/",
+      "forms": [
+        "secretadmirers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိမိအမည်မဖော်ဘဲ အခြားသူကို နှစ်သက်အားကျနေသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "secretlover",
+      "pronunciation": "/ˈsiːkrətˌlʌvər/",
+      "forms": [
+        "secretlovers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခြားသူများ မသိအောင် လျှို့ဝှက်ထားသည့် ချစ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "blinddate",
+      "pronunciation": "/ˈblaɪndˌdeɪt/",
+      "forms": [
+        "blinddates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မတွေ့ဖူးသေးသူနှစ်ဦးကို မိတ်ဆွေ သို့မဟုတ် အက်ပ်က စီစဉ်ပေးသည့် အချစ်ရေးတွေ့ဆုံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "doubledate",
+      "pronunciation": "/ˈdʌbəlˌdeɪt/",
+      "forms": [
+        "doubledates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စုံတွဲနှစ်တွဲ အတူသွားသည့် အချစ်ရေးတွေ့ဆုံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "firstdate",
+      "pronunciation": "/ˈfɝːstˌdeɪt/",
+      "forms": [
+        "firstdates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူနှစ်ဦး၏ ပထမဆုံးအချစ်ရေးတွေ့ဆုံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "seconddate",
+      "pronunciation": "/ˈsɛkəndˌdeɪt/",
+      "forms": [
+        "seconddates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပထမတွေ့ဆုံမှုနောက် ထပ်မံပြုလုပ်သည့် အချစ်ရေးတွေ့ဆုံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dateidea",
+      "pronunciation": "/ˈdeɪt aɪˌdiːə/",
+      "forms": [
+        "dateideas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချစ်သူနှစ်ဦး အတူလုပ်ရန် အကြံပြုသည့် လှုပ်ရှားမှု သို့မဟုတ် နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dateplan",
+      "pronunciation": "/ˈdeɪtˌplæn/",
+      "forms": [
+        "dateplans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးတွေ့ဆုံမှုအတွက် ကြိုတင်စီစဉ်ထားသည့် အစီအစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "breakupnote",
+      "pronunciation": "/ˈbreɪkʌpˌnoʊt/",
+      "forms": [
+        "breakupnotes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးဖြတ်ကြောင်း ရေးထားသည့် စာတို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "breakupcall",
+      "pronunciation": "/ˈbreɪkʌpˌkɔːl/",
+      "forms": [
+        "breakupcalls"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးဖြတ်ရန် ပြုလုပ်သည့် ဖုန်းခေါ်ဆိုမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "breakupmessage",
+      "pronunciation": "/ˈbreɪkʌpˌmɛsɪdʒ/",
+      "forms": [
+        "breakupmessages"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးဖြတ်ရန် ပို့သည့် မက်ဆေ့ချ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "breakupletter",
+      "pronunciation": "/ˈbreɪkʌpˌlɛtər/",
+      "forms": [
+        "breakupletters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးဖြတ်ကြောင်း ရေးထားသည့် စာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "closuretalk",
+      "pronunciation": "/ˈkloʊʒərˌtɔːk/",
+      "forms": [
+        "closuretalks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆက်ဆံရေးပြီးဆုံးပြီးနောက် အကြောင်းရင်းနှင့် ခံစားချက်များကို နောက်ဆုံးရှင်းလင်းပြောဆိုခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "relationshiptalk",
+      "pronunciation": "/rɪˈleɪʃənʃɪpˌtɔːk/",
+      "forms": [
+        "relationshiptalks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချစ်သူဆက်ဆံရေးအခြေအနေနှင့် အနာဂတ်ကို တိတိကျကျ ဆွေးနွေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "relationshipstatus",
+      "pronunciation": "/rɪˈleɪʃənʃɪpˌsteɪtəs/",
+      "forms": [
+        "relationshipstatuses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တစ်ယောက်၏ လက်ရှိအချစ်ရေး သို့မဟုတ် အိမ်ထောင်ရေး အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "relationshipadvice",
+      "pronunciation": "/rɪˈleɪʃənʃɪp ədˌvaɪs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချစ်ရေးပြဿနာနှင့် ဆက်ဆံရေးကောင်းမွန်ရေးအတွက် ပေးသည့် အကြံဉာဏ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "relationshipgoal",
+      "pronunciation": "/rɪˈleɪʃənʃɪpˌɡoʊl/",
+      "forms": [
+        "relationshipgoals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချစ်သူ သို့မဟုတ် အိမ်ထောင်ရေးဆက်ဆံမှုတွင် ရရှိလိုသည့် ရည်မှန်းချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "longdistance",
+      "pronunciation": "/ˌlɔːŋˈdɪstəns/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဝေးကွာသည့် နေရာနှစ်ခုကြား ဆက်သွယ် သို့မဟုတ် ဆက်ဆံရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "longdistancerelationship",
+      "pronunciation": "/ˌlɔːŋdɪstəns rɪˈleɪʃənʃɪp/",
+      "forms": [
+        "longdistancerelationships"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နေရာဝေးကွာနေသူနှစ်ဦးကြား အချစ်ရေးဆက်ဆံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sharedcustody",
+      "pronunciation": "/ˈʃerdˌkʌstədi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိဘနှစ်ဦးက ကလေးစောင့်ရှောက်ခွင့်နှင့် တာဝန်ကို မျှဝေထားသည့် စနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "solecustody",
+      "pronunciation": "/ˈsoʊlˌkʌstədi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိဘတစ်ဦးတည်းတွင် ကလေး၏ အဓိကစောင့်ရှောက်ခွင့်ရှိသည့် စနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "childsupport",
+      "pronunciation": "/ˈtʃaɪld səˌpɔːrt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေးစောင့်ရှောက်ရေးအတွက် မိဘတစ်ဦးက ပေးရသည့် ငွေကြေးထောက်ပံ့မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spousalsupport",
+      "pronunciation": "/ˈspaʊzəl səˌpɔːrt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခွဲနေ သို့မဟုတ် ကွာရှင်းပြီးနောက် အိမ်ထောင်ဖက်တစ်ဦးကို ပေးရသည့် ငွေကြေးထောက်ပံ့မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "prenup",
+      "pronunciation": "/ˈpriːˌnʌp/",
+      "forms": [
+        "prenups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်ထပ်မီ ပိုင်ဆိုင်မှုနှင့် ငွေကြေးအခွင့်အရေးများ သတ်မှတ်ထားသည့် သဘောတူစာချုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "blendedfamily",
+      "pronunciation": "/ˈblɛndɪdˌfæməli/",
+      "forms": [
+        "blendedfamilies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယခင်အိမ်ထောင်များမှ ကလေးများနှင့် မိဘအသစ်များ ပေါင်းစည်းထားသည့် မိသားစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chosenfamily",
+      "pronunciation": "/ˈtʃoʊzənˌfæməli/",
+      "forms": [
+        "chosenfamilies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သွေးသားမဟုတ်သော်လည်း မိသားစုလို နီးစပ်ယုံကြည်ထားသည့် လူများအစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familybond",
+      "pronunciation": "/ˈfæməliˌbɑːnd/",
+      "forms": [
+        "familybonds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုဝင်များအကြား ခိုင်မာသည့် ချစ်ခင်ဆက်နွယ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familycircle",
+      "pronunciation": "/ˈfæməliˌsɝːkəl/",
+      "forms": [
+        "familycircles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နီးစပ်သည့် မိသားစုဝင်များ၏ အစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familydinner",
+      "pronunciation": "/ˈfæməliˌdɪnər/",
+      "forms": [
+        "familydinners"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုဝင်များ အတူစားသည့် ညစာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familygathering",
+      "pronunciation": "/ˈfæməliˌɡæðərɪŋ/",
+      "forms": [
+        "familygatherings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုဝင်များ စုပေါင်းတွေ့ဆုံသည့် အခမ်းအနား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familymember",
+      "pronunciation": "/ˈfæməliˌmɛmbər/",
+      "forms": [
+        "familymembers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုတစ်စုတွင် ပါဝင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familymeeting",
+      "pronunciation": "/ˈfæməliˌmiːtɪŋ/",
+      "forms": [
+        "familymeetings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုအရေးများ ဆွေးနွေးရန် စုဝေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyphoto",
+      "pronunciation": "/ˈfæməliˌfoʊtoʊ/",
+      "forms": [
+        "familyphotos"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုဝင်များ အတူရိုက်ထားသည့် ဓာတ်ပုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyreunion",
+      "pronunciation": "/ˈfæməli riˌjuːniən/",
+      "forms": [
+        "familyreunions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွဲနေသည့် မိသားစုဝင်များ ပြန်လည်တွေ့ဆုံသည့် အခမ်းအနား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyvacation",
+      "pronunciation": "/ˈfæməli veɪˌkeɪʃən/",
+      "forms": [
+        "familyvacations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစုဝင်များ အတူသွားသည့် အပန်းဖြေခရီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fosterchild",
+      "pronunciation": "/ˈfɔːstərˌtʃaɪld/",
+      "forms": [
+        "fosterchildren"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မွေးမိဘမဟုတ်သည့် မိသားစုက ယာယီစောင့်ရှောက်ထားသည့် ကလေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fostercare",
+      "pronunciation": "/ˈfɔːstərˌker/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေးကို မွေးမိဘမဟုတ်သည့် မိသားစုက ယာယီစောင့်ရှောက်သည့် စနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fosterfamily",
+      "pronunciation": "/ˈfɔːstərˌfæməli/",
+      "forms": [
+        "fosterfamilies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခြားမိသားစုမှ ကလေးကို ယာယီစောင့်ရှောက်ပေးသည့် မိသားစု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fosterhome",
+      "pronunciation": "/ˈfɔːstərˌhoʊm/",
+      "forms": [
+        "fosterhomes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေးကို ယာယီမိသားစုအဖြစ် လက်ခံစောင့်ရှောက်သည့် အိမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "goddaughter",
+      "pronunciation": "/ˈɡɑːdˌdɔːtər/",
+      "forms": [
+        "goddaughters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂေါ့ဒ်မိဘတစ်ဦး၏ အထူးစောင့်ရှောက်မှုနှင့် လမ်းညွှန်မှုရရှိသည့် မိန်းကလေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolfriend",
+      "pronunciation": "/ˈskuːlˌfrɛnd/",
+      "forms": [
+        "schoolfriends"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်းမှ သိကျွမ်းရင်းနှီးသည့် မိတ်ဆွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "workfriend",
+      "pronunciation": "/ˈwɝːkˌfrɛnd/",
+      "forms": [
+        "workfriends"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလုပ်နေရာတွင် ရင်းနှီးလာသည့် မိတ်ဆွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "oldfriend",
+      "pronunciation": "/ˈoʊldˌfrɛnd/",
+      "forms": [
+        "oldfriends"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နှစ်ပေါင်းများစွာ ရင်းနှီးလာသည့် မိတ်ဆွေဟောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mutualfriend",
+      "pronunciation": "/ˈmjuːtʃuəlˌfrɛnd/",
+      "forms": [
+        "mutualfriends"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူနှစ်ဦးစလုံးနှင့် ရင်းနှီးသည့် မိတ်ဆွေတစ်ဦး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "parentmeeting",
+      "pronunciation": "/ˈperəntˌmiːtɪŋ/",
+      "forms": [
+        "parentmeetings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိဘများနှင့် ကျောင်း သို့မဟုတ် အဖွဲ့အစည်း တွေ့ဆုံဆွေးနွေးသည့် အစည်းအဝေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "parentnight",
+      "pronunciation": "/ˈperəntˌnaɪt/",
+      "forms": [
+        "parentnights"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိဘများအတွက် ကျောင်းက သတ်မှတ်ပြုလုပ်သည့် တွေ့ဆုံဆွေးနွေးပွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "grandparentsday",
+      "pronunciation": "/ˈɡrændˌperəntsˌdeɪ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဘိုးအဘွားများကို ဂုဏ်ပြုရန် သတ်မှတ်ထားသည့် နေ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "housemateapp",
+      "pronunciation": "/ˈhaʊsˌmeɪtˌæp/",
+      "forms": [
+        "housemateapps"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိမ်အတူနေမည့်သူ ရှာရန် သို့မဟုတ် အိမ်တာဝန်များ စီမံရန် သုံးသည့် အက်ပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "godfatherhood",
+      "pronunciation": "/ˈɡɑːdˌfɑːðərhʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေးတစ်ဦး၏ ဂေါ့ဒ်ဖခင်အဖြစ် တာဝန်ယူနေသည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "godmotherhood",
+      "pronunciation": "/ˈɡɑːdˌmʌðərhʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေးတစ်ဦး၏ ဂေါ့ဒ်မိခင်အဖြစ် တာဝန်ယူနေသည့် အခြေအနေ"
+          ]
+        }
+      ]
+    }
+  ]
+}
