@@ -1,0 +1,29 @@
+name: Filter Dictionary 061 Candidates
+on:
+  push:
+    branches: [master]
+    paths:
+      - "staging/dictionary_061_candidates.txt"
+      - "scripts/filter_dictionary_061_candidates.py"
+      - ".github/workflows/filter-dictionary-061-candidates.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  filter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: python scripts/filter_dictionary_061_candidates.py
+      - name: Commit survivor report
+        shell: bash
+        run: |
+          if git diff --quiet -- staging/dictionary_061_survivors.json; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add staging/dictionary_061_survivors.json
+          git commit -m "Filter dictionary batch 061 candidates"
+          git pull --rebase origin master
+          git push origin HEAD:master
