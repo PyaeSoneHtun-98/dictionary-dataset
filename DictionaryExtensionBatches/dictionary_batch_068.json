@@ -1,0 +1,7356 @@
+{
+  "version": 1,
+  "batch": 68,
+  "entries": [
+    {
+      "word": "medicalhistory",
+      "pronunciation": "/mɛdəkəl hɪstɚi/",
+      "forms": [
+        "medicalhistories"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ နောက်ခံမှတ်တမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalrecord",
+      "pronunciation": "/mɛdəkəl rəkɔrd/",
+      "forms": [
+        "medicalrecords"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ မှတ်တမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalbill",
+      "pronunciation": "/mɛdəkəl bɪl/",
+      "forms": [
+        "medicalbills"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ ငွေတောင်းခံလွှာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalstudent",
+      "pronunciation": "/mɛdəkəl studənt/",
+      "forms": [
+        "medicalstudents"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ ကျောင်းသား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalstaff",
+      "pronunciation": "/mɛdəkəl stæf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ ဝန်ထမ်းများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalteam",
+      "pronunciation": "/mɛdəkəl tim/",
+      "forms": [
+        "medicalteams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalcenter",
+      "pronunciation": "/mɛdəkəl sɛntɚ/",
+      "forms": [
+        "medicalcenters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ ဌာန"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalassistant",
+      "pronunciation": "/mɛdəkəl əsɪstənt/",
+      "forms": [
+        "medicalassistants"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ လက်ထောက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicaltreatment",
+      "pronunciation": "/mɛdəkəl tritmənt/",
+      "forms": [
+        "medicaltreatments"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ ကုသမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalprocedure",
+      "pronunciation": "/mɛdəkəl prəsidʒɚ/",
+      "forms": [
+        "medicalprocedures"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ လုပ်ထုံးလုပ်နည်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalcondition",
+      "pronunciation": "/mɛdəkəl kəndɪʃən/",
+      "forms": [
+        "medicalconditions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalcare",
+      "pronunciation": "/mɛdəkəl kɛr/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ စောင့်ရှောက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalservice",
+      "pronunciation": "/mɛdəkəl sɝvəs/",
+      "forms": [
+        "medicalservices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicaltraining",
+      "pronunciation": "/mɛdəkəl treɪnɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ လေ့ကျင့်သင်တန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalresearch",
+      "pronunciation": "/mɛdəkəl risɝtʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ သုတေသန"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalequipment",
+      "pronunciation": "/mɛdəkəl ɪkwɪpmənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ ပစ္စည်းကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalsupply",
+      "pronunciation": "/mɛdəkəl səplaɪ/",
+      "forms": [
+        "medicalsupplies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ ထောက်ပံ့ပစ္စည်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalcertificate",
+      "pronunciation": "/mɛdəkəl sɚtɪfɪkət/",
+      "forms": [
+        "medicalcertificates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ လက်မှတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicallicense",
+      "pronunciation": "/mɛdəkəl laɪsəns/",
+      "forms": [
+        "medicallicenses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ လိုင်စင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalspecialist",
+      "pronunciation": "/mɛdəkəl spɛʃələst/",
+      "forms": [
+        "medicalspecialists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ အထူးကု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalappointment",
+      "pronunciation": "/mɛdəkəl əpɔɪntmənt/",
+      "forms": [
+        "medicalappointments"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ ချိန်းဆိုမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalconsultation",
+      "pronunciation": "/mɛdəkəl kɑnsəlteɪʃən/",
+      "forms": [
+        "medicalconsultations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ တိုင်ပင်ဆွေးနွေးမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalinsurance",
+      "pronunciation": "/mɛdəkəl ɪnʃʊrəns/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ အာမခံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicaladvice",
+      "pronunciation": "/mɛdəkəl ædvaɪs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ အကြံဉာဏ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalfile",
+      "pronunciation": "/mɛdəkəl faɪl/",
+      "forms": [
+        "medicalfiles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ ဖိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalnote",
+      "pronunciation": "/mɛdəkəl noʊt/",
+      "forms": [
+        "medicalnotes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ မှတ်စု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalreport",
+      "pronunciation": "/mɛdəkəl ripɔrt/",
+      "forms": [
+        "medicalreports"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ အစီရင်ခံစာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalexaminer",
+      "pronunciation": "/mɛdəkəl ɪɡzæmənɚ/",
+      "forms": [
+        "medicalexaminers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ စစ်ဆေးရေးဆရာဝန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "medicalpractice",
+      "pronunciation": "/mɛdəkəl præktəs/",
+      "forms": [
+        "medicalpractices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဘက်ဆိုင်ရာ လုပ်ငန်း သို့မဟုတ် လေ့ကျင့်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalaction",
+      "pronunciation": "/liɡəl ækʃən/",
+      "forms": [
+        "legalactions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ လုပ်ဆောင်ချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legaladvice",
+      "pronunciation": "/liɡəl ædvaɪs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ အကြံဉာဏ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalaid",
+      "pronunciation": "/liɡəl eɪd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ အကူအညီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalclaim",
+      "pronunciation": "/liɡəl kleɪm/",
+      "forms": [
+        "legalclaims"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ တောင်းဆိုချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legaldocument",
+      "pronunciation": "/liɡəl dɑkjəmɛnt/",
+      "forms": [
+        "legaldocuments"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ စာရွက်စာတမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalfee",
+      "pronunciation": "/liɡəl fi/",
+      "forms": [
+        "legalfees"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ အခကြေးငွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalguardian",
+      "pronunciation": "/liɡəl ɡɑrdiən/",
+      "forms": [
+        "legalguardians"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ အုပ်ထိန်းသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalissue",
+      "pronunciation": "/liɡəl ɪʃu/",
+      "forms": [
+        "legalissues"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ ပြဿနာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalmatter",
+      "pronunciation": "/liɡəl mætɚ/",
+      "forms": [
+        "legalmatters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ ကိစ္စ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalprocess",
+      "pronunciation": "/liɡəl prɑsɛs/",
+      "forms": [
+        "legalprocesses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ လုပ်ငန်းစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalright",
+      "pronunciation": "/liɡəl raɪt/",
+      "forms": [
+        "legalrights"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ အခွင့်အရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalservice",
+      "pronunciation": "/liɡəl sɝvəs/",
+      "forms": [
+        "legalservices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalstatus",
+      "pronunciation": "/liɡəl stætəs/",
+      "forms": [
+        "legalstatuses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalteam",
+      "pronunciation": "/liɡəl tim/",
+      "forms": [
+        "legalteams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalcost",
+      "pronunciation": "/liɡəl kɑst/",
+      "forms": [
+        "legalcosts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ ကုန်ကျစရိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalprocedure",
+      "pronunciation": "/liɡəl prəsidʒɚ/",
+      "forms": [
+        "legalprocedures"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ လုပ်ထုံးလုပ်နည်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalsystem",
+      "pronunciation": "/liɡəl sɪstəm/",
+      "forms": [
+        "legalsystems"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ စနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalexpert",
+      "pronunciation": "/liɡəl ɛkspɚt/",
+      "forms": [
+        "legalexperts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ ကျွမ်းကျင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalwarning",
+      "pronunciation": "/liɡəl wɔrnɪŋ/",
+      "forms": [
+        "legalwarnings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ သတိပေးချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalagreement",
+      "pronunciation": "/liɡəl əɡrimənt/",
+      "forms": [
+        "legalagreements"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ သဘောတူညီချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legaldispute",
+      "pronunciation": "/liɡəl dɪspjut/",
+      "forms": [
+        "legaldisputes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ အငြင်းပွားမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalreview",
+      "pronunciation": "/liɡəl rivju/",
+      "forms": [
+        "legalreviews"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ ပြန်လည်သုံးသပ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalsupport",
+      "pronunciation": "/liɡəl səpɔrt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ အကူအညီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalrepresentative",
+      "pronunciation": "/liɡəl rɛprəzɛntətɪv/",
+      "forms": [
+        "legalrepresentatives"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ ကိုယ်စားလှယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legaldepartment",
+      "pronunciation": "/liɡəl dɪpɑrtmənt/",
+      "forms": [
+        "legaldepartments"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ ဌာန"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legaloffice",
+      "pronunciation": "/liɡəl ɔfɪs/",
+      "forms": [
+        "legaloffices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ ရုံး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalpractice",
+      "pronunciation": "/liɡəl præktəs/",
+      "forms": [
+        "legalpractices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ လုပ်ငန်း သို့မဟုတ် လေ့ကျင့်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legaldocumentary",
+      "pronunciation": "/liɡəl dɑkjəmɛntɚi/",
+      "forms": [
+        "legaldocumentaries"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ မှတ်တမ်းရုပ်ရှင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legalhistory",
+      "pronunciation": "/liɡəl hɪstɚi/",
+      "forms": [
+        "legalhistories"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေဆိုင်ရာ နောက်ခံမှတ်တမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securitycheck",
+      "pronunciation": "/sɪkjʊrəti tʃɛk/",
+      "forms": [
+        "securitychecks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး စစ်ဆေးမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securitycode",
+      "pronunciation": "/sɪkjʊrəti koʊd/",
+      "forms": [
+        "securitycodes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး ကုဒ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securitydoor",
+      "pronunciation": "/sɪkjʊrəti dɔr/",
+      "forms": [
+        "securitydoors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး တံခါး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securityguard",
+      "pronunciation": "/sɪkjʊrəti ɡɑrd/",
+      "forms": [
+        "securityguards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး အစောင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securitykey",
+      "pronunciation": "/sɪkjʊrəti ki/",
+      "forms": [
+        "securitykeys"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး သော့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securitylock",
+      "pronunciation": "/sɪkjʊrəti lɑk/",
+      "forms": [
+        "securitylocks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး သော့ခတ်ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securitysystem",
+      "pronunciation": "/sɪkjʊrəti sɪstəm/",
+      "forms": [
+        "securitysystems"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး စနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securityalarm",
+      "pronunciation": "/sɪkjʊrəti əlɑrm/",
+      "forms": [
+        "securityalarms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး သတိပေးစက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securitybadge",
+      "pronunciation": "/sɪkjʊrəti bædʒ/",
+      "forms": [
+        "securitybadges"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး အမှတ်တံဆိပ်ကတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securitypass",
+      "pronunciation": "/sɪkjʊrəti pæs/",
+      "forms": [
+        "securitypasses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး ဝင်ခွင့်ကတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securityscreen",
+      "pronunciation": "/sɪkjʊrəti skrin/",
+      "forms": [
+        "securityscreens"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး မျက်နှာပြင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securitywarning",
+      "pronunciation": "/sɪkjʊrəti wɔrnɪŋ/",
+      "forms": [
+        "securitywarnings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး သတိပေးချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securityservice",
+      "pronunciation": "/sɪkjʊrəti sɝvəs/",
+      "forms": [
+        "securityservices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securityrisk",
+      "pronunciation": "/sɪkjʊrəti rɪsk/",
+      "forms": [
+        "securityrisks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး အန္တရာယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securitybreach",
+      "pronunciation": "/sɪkjʊrəti britʃ/",
+      "forms": [
+        "securitybreaches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး ချိုးဖောက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securityclearance",
+      "pronunciation": "/sɪkjʊrəti klɪrəns/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး ခွင့်ပြုချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securityprotocol",
+      "pronunciation": "/sɪkjʊrəti proʊtəkɑl/",
+      "forms": [
+        "securityprotocols"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး လုပ်ထုံးစံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securityfeature",
+      "pronunciation": "/sɪkjʊrəti fitʃɚ/",
+      "forms": [
+        "securityfeatures"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး အင်္ဂါရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securitysetting",
+      "pronunciation": "/sɪkjʊrəti sɛtɪŋ/",
+      "forms": [
+        "securitysettings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး ဆက်တင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securityupdate",
+      "pronunciation": "/sɪkjʊrəti əpdeɪt/",
+      "forms": [
+        "securityupdates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး မွမ်းမံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securityteam",
+      "pronunciation": "/sɪkjʊrəti tim/",
+      "forms": [
+        "securityteams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securitystaff",
+      "pronunciation": "/sɪkjʊrəti stæf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး ဝန်ထမ်းများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securityoffice",
+      "pronunciation": "/sɪkjʊrəti ɔfɪs/",
+      "forms": [
+        "securityoffices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး ရုံး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securitycamera",
+      "pronunciation": "/sɪkjʊrəti kæmɚə/",
+      "forms": [
+        "securitycameras"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး ကင်မရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securitycheckpoint",
+      "pronunciation": "/sɪkjʊrəti tʃɛkpɔɪnt/",
+      "forms": [
+        "securitycheckpoints"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး စစ်ဆေးရေးဂိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securitygate",
+      "pronunciation": "/sɪkjʊrəti ɡeɪt/",
+      "forms": [
+        "securitygates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး ဂိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securitybarrier",
+      "pronunciation": "/sɪkjʊrəti bæriɚ/",
+      "forms": [
+        "securitybarriers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး တားဆီးကာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securitydevice",
+      "pronunciation": "/sɪkjʊrəti dɪvaɪs/",
+      "forms": [
+        "securitydevices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securityscan",
+      "pronunciation": "/sɪkjʊrəti skæn/",
+      "forms": [
+        "securityscans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး စကင်ဖတ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "securityalert",
+      "pronunciation": "/sɪkjʊrəti əlɝt/",
+      "forms": [
+        "securityalerts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လုံခြုံရေး သတိပေးချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencycall",
+      "pronunciation": "/ɪmɝdʒənsi kɔl/",
+      "forms": [
+        "emergencycalls"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် ဖုန်းခေါ်ဆိုမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencycontact",
+      "pronunciation": "/ɪmɝdʒənsi kɑntækt/",
+      "forms": [
+        "emergencycontacts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် ဆက်သွယ်ရန်အချက်အလက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencyexit",
+      "pronunciation": "/ɪmɝdʒənsi ɛɡzɪt/",
+      "forms": [
+        "emergencyexits"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် ထွက်ပေါက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencyservice",
+      "pronunciation": "/ɪmɝdʒənsi sɝvəs/",
+      "forms": [
+        "emergencyservices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencynumber",
+      "pronunciation": "/ɪmɝdʒənsi nʌmbɚ/",
+      "forms": [
+        "emergencynumbers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် နံပါတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencyplan",
+      "pronunciation": "/ɪmɝdʒənsi plæn/",
+      "forms": [
+        "emergencyplans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် အစီအစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencykit",
+      "pronunciation": "/ɪmɝdʒənsi kɪt/",
+      "forms": [
+        "emergencykits"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် ပစ္စည်းအစုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencybag",
+      "pronunciation": "/ɪmɝdʒənsi bæɡ/",
+      "forms": [
+        "emergencybags"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် အိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencyfund",
+      "pronunciation": "/ɪmɝdʒənsi fʌnd/",
+      "forms": [
+        "emergencyfunds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် ရန်ပုံငွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencylanding",
+      "pronunciation": "/ɪmɝdʒənsi lændɪŋ/",
+      "forms": [
+        "emergencylandings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် ဆင်းသက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencybroadcast",
+      "pronunciation": "/ɪmɝdʒənsi brɔdkæst/",
+      "forms": [
+        "emergencybroadcasts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် ထုတ်လွှင့်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencymeeting",
+      "pronunciation": "/ɪmɝdʒənsi mitɪŋ/",
+      "forms": [
+        "emergencymeetings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် အစည်းအဝေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencysurgery",
+      "pronunciation": "/ɪmɝdʒənsi sɝdʒɚi/",
+      "forms": [
+        "emergencysurgeries"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် ခွဲစိတ်ကုသမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencycare",
+      "pronunciation": "/ɪmɝdʒənsi kɛr/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် စောင့်ရှောက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencyresponse",
+      "pronunciation": "/ɪmɝdʒənsi rɪspɑns/",
+      "forms": [
+        "emergencyresponses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် တုံ့ပြန်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencyvehicle",
+      "pronunciation": "/ɪmɝdʒənsi vihɪkəl/",
+      "forms": [
+        "emergencyvehicles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် ယာဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencycrew",
+      "pronunciation": "/ɪmɝdʒənsi kru/",
+      "forms": [
+        "emergencycrews"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် အဖွဲ့သားများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencyteam",
+      "pronunciation": "/ɪmɝdʒənsi tim/",
+      "forms": [
+        "emergencyteams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencyworker",
+      "pronunciation": "/ɪmɝdʒənsi wɝkɚ/",
+      "forms": [
+        "emergencyworkers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် အလုပ်သမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencyshelter",
+      "pronunciation": "/ɪmɝdʒənsi ʃɛltɚ/",
+      "forms": [
+        "emergencyshelters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် ခိုလှုံရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencysupply",
+      "pronunciation": "/ɪmɝdʒənsi səplaɪ/",
+      "forms": [
+        "emergencysupplies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် ထောက်ပံ့ပစ္စည်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencydrill",
+      "pronunciation": "/ɪmɝdʒənsi drɪl/",
+      "forms": [
+        "emergencydrills"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် လေ့ကျင့်ခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencysignal",
+      "pronunciation": "/ɪmɝdʒənsi sɪɡnəl/",
+      "forms": [
+        "emergencysignals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် အချက်ပြမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencyalarm",
+      "pronunciation": "/ɪmɝdʒənsi əlɑrm/",
+      "forms": [
+        "emergencyalarms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် သတိပေးစက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencyprocedure",
+      "pronunciation": "/ɪmɝdʒənsi prəsidʒɚ/",
+      "forms": [
+        "emergencyprocedures"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် လုပ်ထုံးလုပ်နည်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencyequipment",
+      "pronunciation": "/ɪmɝdʒənsi ɪkwɪpmənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် ပစ္စည်းကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencygenerator",
+      "pronunciation": "/ɪmɝdʒənsi dʒɛnɚeɪtɚ/",
+      "forms": [
+        "emergencygenerators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် မီးစက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencytransport",
+      "pronunciation": "/ɪmɝdʒənsi trænspɔrt/",
+      "forms": [
+        "emergencytransports"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် သယ်ယူပို့ဆောင်ရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencyhelpline",
+      "pronunciation": "/ɪmɝdʒənsi hɛlp laɪn/",
+      "forms": [
+        "emergencyhelplines"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် အကူအညီဖုန်းလိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emergencystation",
+      "pronunciation": "/ɪmɝdʒənsi steɪʃən/",
+      "forms": [
+        "emergencystations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ် စခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policestation",
+      "pronunciation": "/pəlis steɪʃən/",
+      "forms": [
+        "policestations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ စခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policeofficer",
+      "pronunciation": "/pəlis ɔfəsɚ/",
+      "forms": [
+        "policeofficers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ အရာရှိ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policepatrol",
+      "pronunciation": "/pəlis pətroʊl/",
+      "forms": [
+        "policepatrols"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ ကင်းလှည့်အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policecar",
+      "pronunciation": "/pəlis kɑr/",
+      "forms": [
+        "policecars"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ ကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policeradio",
+      "pronunciation": "/pəlis reɪdioʊ/",
+      "forms": [
+        "policeradios"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ ရေဒီယို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policebadge",
+      "pronunciation": "/pəlis bædʒ/",
+      "forms": [
+        "policebadges"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ အမှတ်တံဆိပ်ကတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policereport",
+      "pronunciation": "/pəlis ripɔrt/",
+      "forms": [
+        "policereports"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ အစီရင်ခံစာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policeinvestigation",
+      "pronunciation": "/pəlis ɪnvɛstəɡeɪʃən/",
+      "forms": [
+        "policeinvestigations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ စုံစမ်းစစ်ဆေးမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policedepartment",
+      "pronunciation": "/pəlis dɪpɑrtmənt/",
+      "forms": [
+        "policedepartments"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ ဌာန"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policeheadquarters",
+      "pronunciation": "/pəlis hɛdkwɔrtɚz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ ဌာနချုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policevehicle",
+      "pronunciation": "/pəlis vihɪkəl/",
+      "forms": [
+        "policevehicles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ ယာဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policeuniform",
+      "pronunciation": "/pəlis junəfɔrm/",
+      "forms": [
+        "policeuniforms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ ယူနီဖောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policeacademy",
+      "pronunciation": "/pəlis əkædəmi/",
+      "forms": [
+        "policeacademies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ သင်တန်းကျောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policetraining",
+      "pronunciation": "/pəlis treɪnɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ လေ့ကျင့်သင်တန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policescanner",
+      "pronunciation": "/pəlis skænɚ/",
+      "forms": [
+        "policescanners"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ စကင်နာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policecheckpoint",
+      "pronunciation": "/pəlis tʃɛkpɔɪnt/",
+      "forms": [
+        "policecheckpoints"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ စစ်ဆေးရေးဂိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policedetail",
+      "pronunciation": "/pəlis dɪteɪl/",
+      "forms": [
+        "policedetails"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ အသေးစိတ်အချက်အလက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policeteam",
+      "pronunciation": "/pəlis tim/",
+      "forms": [
+        "policeteams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policeinterview",
+      "pronunciation": "/pəlis ɪntɚvju/",
+      "forms": [
+        "policeinterviews"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ မေးမြန်းတွေ့ဆုံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policestatement",
+      "pronunciation": "/pəlis steɪtmənt/",
+      "forms": [
+        "policestatements"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ ထွက်ဆိုချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policesearch",
+      "pronunciation": "/pəlis sɝtʃ/",
+      "forms": [
+        "policesearches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ ရှာဖွေမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policeoperation",
+      "pronunciation": "/pəlis ɑpɚeɪʃən/",
+      "forms": [
+        "policeoperations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ လုပ်ငန်းစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policeraid",
+      "pronunciation": "/pəlis reɪd/",
+      "forms": [
+        "policeraids"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ ဝင်ရောက်စီးနင်းမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policewarrant",
+      "pronunciation": "/pəlis wɔrənt/",
+      "forms": [
+        "policewarrants"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ ဝရမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "policeevidence",
+      "pronunciation": "/pəlis ɛvədəns/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရဲ သက်သေခံအထောက်အထား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalstaff",
+      "pronunciation": "/hɑspɪtəl stæf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ ဝန်ထမ်းများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalteam",
+      "pronunciation": "/hɑspɪtəl tim/",
+      "forms": [
+        "hospitalteams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalbed",
+      "pronunciation": "/hɑspɪtəl bɛd/",
+      "forms": [
+        "hospitalbeds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ အိပ်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalroom",
+      "pronunciation": "/hɑspɪtəl rum/",
+      "forms": [
+        "hospitalrooms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ အခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalward",
+      "pronunciation": "/hɑspɪtəl wɔrd/",
+      "forms": [
+        "hospitalwards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ လူနာဆောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitaladmission",
+      "pronunciation": "/hɑspɪtəl ædmɪʃən/",
+      "forms": [
+        "hospitaladmissions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ ဝင်ခွင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitaldischarge",
+      "pronunciation": "/hɑspɪtəl dɪstʃɑrdʒ/",
+      "forms": [
+        "hospitaldischarges"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ ဆေးရုံမှဆင်းခွင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalpatient",
+      "pronunciation": "/hɑspɪtəl peɪʃənt/",
+      "forms": [
+        "hospitalpatients"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ လူနာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalvisitor",
+      "pronunciation": "/hɑspɪtəl vɪzɪtɚ/",
+      "forms": [
+        "hospitalvisitors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ ဧည့်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalcare",
+      "pronunciation": "/hɑspɪtəl kɛr/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ စောင့်ရှောက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalservice",
+      "pronunciation": "/hɑspɪtəl sɝvəs/",
+      "forms": [
+        "hospitalservices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalbill",
+      "pronunciation": "/hɑspɪtəl bɪl/",
+      "forms": [
+        "hospitalbills"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ ငွေတောင်းခံလွှာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalrecord",
+      "pronunciation": "/hɑspɪtəl rəkɔrd/",
+      "forms": [
+        "hospitalrecords"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ မှတ်တမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalfile",
+      "pronunciation": "/hɑspɪtəl faɪl/",
+      "forms": [
+        "hospitalfiles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ ဖိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalappointment",
+      "pronunciation": "/hɑspɪtəl əpɔɪntmənt/",
+      "forms": [
+        "hospitalappointments"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ ချိန်းဆိုမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitaldepartment",
+      "pronunciation": "/hɑspɪtəl dɪpɑrtmənt/",
+      "forms": [
+        "hospitaldepartments"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ ဌာန"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalentrance",
+      "pronunciation": "/hɑspɪtəl ɛntrəns/",
+      "forms": [
+        "hospitalentrances"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ ဝင်ပေါက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalhallway",
+      "pronunciation": "/hɑspɪtəl hɔlweɪ/",
+      "forms": [
+        "hospitalhallways"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ လျှောက်လမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalpharmacy",
+      "pronunciation": "/hɑspɪtəl fɑrməsi/",
+      "forms": [
+        "hospitalpharmacies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ ဆေးဆိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalkitchen",
+      "pronunciation": "/hɑspɪtəl kɪtʃən/",
+      "forms": [
+        "hospitalkitchens"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ မီးဖိုခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalcafeteria",
+      "pronunciation": "/hɑspɪtəl kæfətɪriə/",
+      "forms": [
+        "hospitalcafeterias"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ စားသောက်ခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalparking",
+      "pronunciation": "/hɑspɪtəl pɑrkɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ ကားရပ်နားရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalsecurity",
+      "pronunciation": "/hɑspɪtəl sɪkjʊrəti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ လုံခြုံရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitaladministrator",
+      "pronunciation": "/hɑspɪtəl ədmɪnəstreɪtɚ/",
+      "forms": [
+        "hospitaladministrators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ စီမံခန့်ခွဲသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalworker",
+      "pronunciation": "/hɑspɪtəl wɝkɚ/",
+      "forms": [
+        "hospitalworkers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ အလုပ်သမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalvolunteer",
+      "pronunciation": "/hɑspɪtəl vɑləntɪr/",
+      "forms": [
+        "hospitalvolunteers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ စေတနာ့ဝန်ထမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalequipment",
+      "pronunciation": "/hɑspɪtəl ɪkwɪpmənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ ပစ္စည်းကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalsupply",
+      "pronunciation": "/hɑspɪtəl səplaɪ/",
+      "forms": [
+        "hospitalsupplies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ ထောက်ပံ့ပစ္စည်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitaltransport",
+      "pronunciation": "/hɑspɪtəl trænspɔrt/",
+      "forms": [
+        "hospitaltransports"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ သယ်ယူပို့ဆောင်ရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hospitalpolicy",
+      "pronunciation": "/hɑspɪtəl pɑləsi/",
+      "forms": [
+        "hospitalpolicies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးရုံ မူဝါဒ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolyear",
+      "pronunciation": "/skul jɪr/",
+      "forms": [
+        "schoolyears"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း နှစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolday",
+      "pronunciation": "/skul deɪ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း နေ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolprincipal",
+      "pronunciation": "/skul prɪnsəpəl/",
+      "forms": [
+        "schoolprincipals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း ကျောင်းအုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolnurse",
+      "pronunciation": "/skul nɝs/",
+      "forms": [
+        "schoolnurses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း သူနာပြု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolcounselor",
+      "pronunciation": "/skul kaʊnsəlɚ/",
+      "forms": [
+        "schoolcounselors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း အကြံပေးဆရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolboard",
+      "pronunciation": "/skul bɔrd/",
+      "forms": [
+        "schoolboards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း ဘုတ်အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schooldistrict",
+      "pronunciation": "/skul dɪstrɪkt/",
+      "forms": [
+        "schooldistricts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း နယ်မြေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolsystem",
+      "pronunciation": "/skul sɪstəm/",
+      "forms": [
+        "schoolsystems"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း စနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolbuilding",
+      "pronunciation": "/skul bɪldɪŋ/",
+      "forms": [
+        "schoolbuildings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း အဆောက်အအုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolcafeteria",
+      "pronunciation": "/skul kæfətɪriə/",
+      "forms": [
+        "schoolcafeterias"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း စားသောက်ခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolcanteen",
+      "pronunciation": "/skul kæntin/",
+      "forms": [
+        "schoolcanteens"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း စားသောက်ဆိုင်ခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolplayground",
+      "pronunciation": "/skul pleɪɡraʊnd/",
+      "forms": [
+        "schoolplaygrounds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း ကစားကွင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolteam",
+      "pronunciation": "/skul tim/",
+      "forms": [
+        "schoolteams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolchild",
+      "pronunciation": "/skul tʃaɪld/",
+      "forms": [
+        "schoolchildren"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း ကလေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolkid",
+      "pronunciation": "/skul kɪd/",
+      "forms": [
+        "schoolkids"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း ကလေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolparent",
+      "pronunciation": "/skul pɛrənt/",
+      "forms": [
+        "schoolparents"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း မိဘ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolsubject",
+      "pronunciation": "/skul səbdʒɛkt/",
+      "forms": [
+        "schoolsubjects"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း ဘာသာရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoollesson",
+      "pronunciation": "/skul lɛsən/",
+      "forms": [
+        "schoollessons"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း သင်ခန်းစာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolworkbook",
+      "pronunciation": "/skul wɝkbʊk/",
+      "forms": [
+        "schoolworkbooks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း လေ့ကျင့်ခန်းစာအုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolschedule",
+      "pronunciation": "/skul skɛdʒʊl/",
+      "forms": [
+        "schoolschedules"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း အချိန်ဇယား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolactivity",
+      "pronunciation": "/skul æktɪvəti/",
+      "forms": [
+        "schoolactivities"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း လှုပ်ရှားမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolevent",
+      "pronunciation": "/skul ɪvɛnt/",
+      "forms": [
+        "schoolevents"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း ဖြစ်ရပ် သို့မဟုတ် အခမ်းအနား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolassembly",
+      "pronunciation": "/skul əsɛmbli/",
+      "forms": [
+        "schoolassemblies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း စုဝေးပွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoollunch",
+      "pronunciation": "/skul lʌntʃ/",
+      "forms": [
+        "schoollunches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း နေ့လယ်စာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolbreak",
+      "pronunciation": "/skul breɪk/",
+      "forms": [
+        "schoolbreaks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း နားချိန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schoolexam",
+      "pronunciation": "/skul ɪɡzæm/",
+      "forms": [
+        "schoolexams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောင်း စာမေးပွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officebuilding",
+      "pronunciation": "/ɔfɪs bɪldɪŋ/",
+      "forms": [
+        "officebuildings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး အဆောက်အအုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officemanager",
+      "pronunciation": "/ɔfɪs mænədʒɚ/",
+      "forms": [
+        "officemanagers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး မန်နေဂျာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officestaff",
+      "pronunciation": "/ɔfɪs stæf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး ဝန်ထမ်းများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officeassistant",
+      "pronunciation": "/ɔfɪs əsɪstənt/",
+      "forms": [
+        "officeassistants"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး လက်ထောက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officesupplies",
+      "pronunciation": "/ɔfɪs səplaɪz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး ပစ္စည်းများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officeequipment",
+      "pronunciation": "/ɔfɪs ɪkwɪpmənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး ပစ္စည်းကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officekitchen",
+      "pronunciation": "/ɔfɪs kɪtʃən/",
+      "forms": [
+        "officekitchens"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး မီးဖိုခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officedoor",
+      "pronunciation": "/ɔfɪs dɔr/",
+      "forms": [
+        "officedoors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး တံခါး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officewindow",
+      "pronunciation": "/ɔfɪs wɪndoʊ/",
+      "forms": [
+        "officewindows"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး ပြတင်းပေါက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officekey",
+      "pronunciation": "/ɔfɪs ki/",
+      "forms": [
+        "officekeys"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး သော့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officebadge",
+      "pronunciation": "/ɔfɪs bædʒ/",
+      "forms": [
+        "officebadges"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး အမှတ်တံဆိပ်ကတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officesecurity",
+      "pronunciation": "/ɔfɪs sɪkjʊrəti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး လုံခြုံရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officemeeting",
+      "pronunciation": "/ɔfɪs mitɪŋ/",
+      "forms": [
+        "officemeetings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး အစည်းအဝေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officeschedule",
+      "pronunciation": "/ɔfɪs skɛdʒʊl/",
+      "forms": [
+        "officeschedules"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး အချိန်ဇယား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officepolicy",
+      "pronunciation": "/ɔfɪs pɑləsi/",
+      "forms": [
+        "officepolicies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး မူဝါဒ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officenetwork",
+      "pronunciation": "/ɔfɪs nɛtwɝk/",
+      "forms": [
+        "officenetworks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး ကွန်ရက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officeparking",
+      "pronunciation": "/ɔfɪs pɑrkɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး ကားရပ်နားရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officeentrance",
+      "pronunciation": "/ɔfɪs ɛntrəns/",
+      "forms": [
+        "officeentrances"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး ဝင်ပေါက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officelobby",
+      "pronunciation": "/ɔfɪs lɑbi/",
+      "forms": [
+        "officelobbies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး ဧည့်ခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officefloor",
+      "pronunciation": "/ɔfɪs flɔr/",
+      "forms": [
+        "officefloors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး အထပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officespace",
+      "pronunciation": "/ɔfɪs speɪs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officerent",
+      "pronunciation": "/ɔfɪs rɛnt/",
+      "forms": [
+        "officerents"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး ငှားရမ်းခ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "officelease",
+      "pronunciation": "/ɔfɪs lis/",
+      "forms": [
+        "officeleases"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုံး ငှားရမ်းစာချုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessowner",
+      "pronunciation": "/bɪznəs oʊnɚ/",
+      "forms": [
+        "businessowners"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး ပိုင်ရှင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessmanager",
+      "pronunciation": "/bɪznəs mænədʒɚ/",
+      "forms": [
+        "businessmanagers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး မန်နေဂျာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businesspartner",
+      "pronunciation": "/bɪznəs pɑrtnɚ/",
+      "forms": [
+        "businesspartners"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး လုပ်ဖော်ကိုင်ဖက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessmeeting",
+      "pronunciation": "/bɪznəs mitɪŋ/",
+      "forms": [
+        "businessmeetings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး အစည်းအဝေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessdeal",
+      "pronunciation": "/bɪznəs dil/",
+      "forms": [
+        "businessdeals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး သဘောတူညီမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessloan",
+      "pronunciation": "/bɪznəs loʊn/",
+      "forms": [
+        "businessloans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး ချေးငွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessaccount",
+      "pronunciation": "/bɪznəs əkaʊnt/",
+      "forms": [
+        "businessaccounts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး အကောင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessbanking",
+      "pronunciation": "/bɪznəs bæŋkɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး ဘဏ်လုပ်ငန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessinsurance",
+      "pronunciation": "/bɪznəs ɪnʃʊrəns/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး အာမခံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businesslicense",
+      "pronunciation": "/bɪznəs laɪsəns/",
+      "forms": [
+        "businesslicenses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး လိုင်စင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businesspermit",
+      "pronunciation": "/bɪznəs pɚmɪt/",
+      "forms": [
+        "businesspermits"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး ခွင့်ပြုမိန့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessexpense",
+      "pronunciation": "/bɪznəs ɪkspɛns/",
+      "forms": [
+        "businessexpenses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး အသုံးစရိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessincome",
+      "pronunciation": "/bɪznəs ɪnkʌm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး ဝင်ငွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessstrategy",
+      "pronunciation": "/bɪznəs strætədʒi/",
+      "forms": [
+        "businessstrategies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး မဟာဗျူဟာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessmodel",
+      "pronunciation": "/bɪznəs mɑdəl/",
+      "forms": [
+        "businessmodels"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး ပုံစံမော်ဒယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessgrowth",
+      "pronunciation": "/bɪznəs ɡroʊθ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး တိုးတက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessrisk",
+      "pronunciation": "/bɪznəs rɪsk/",
+      "forms": [
+        "businessrisks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး အန္တရာယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessreport",
+      "pronunciation": "/bɪznəs ripɔrt/",
+      "forms": [
+        "businessreports"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး အစီရင်ခံစာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessanalysis",
+      "pronunciation": "/bɪznəs ənæləsəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး ခွဲခြမ်းစိတ်ဖြာမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessconsultant",
+      "pronunciation": "/bɪznəs kənsʌltənt/",
+      "forms": [
+        "businessconsultants"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး အကြံပေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessservice",
+      "pronunciation": "/bɪznəs sɝvəs/",
+      "forms": [
+        "businessservices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businesscustomer",
+      "pronunciation": "/bɪznəs kʌstəmɚ/",
+      "forms": [
+        "businesscustomers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး ဖောက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businesstravel",
+      "pronunciation": "/bɪznəs trævəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး ခရီးသွားမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businesscontract",
+      "pronunciation": "/bɪznəs kɑntrækt/",
+      "forms": [
+        "businesscontracts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး စာချုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessproposal",
+      "pronunciation": "/bɪznəs prəpoʊzəl/",
+      "forms": [
+        "businessproposals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး အဆိုပြုချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessbudget",
+      "pronunciation": "/bɪznəs bʌdʒɪt/",
+      "forms": [
+        "businessbudgets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး ဘတ်ဂျက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessreview",
+      "pronunciation": "/bɪznəs rivju/",
+      "forms": [
+        "businessreviews"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး ပြန်လည်သုံးသပ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessconference",
+      "pronunciation": "/bɪznəs kɑnfɚəns/",
+      "forms": [
+        "businessconferences"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး အစည်းအဝေးကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "businessevent",
+      "pronunciation": "/bɪznəs ɪvɛnt/",
+      "forms": [
+        "businessevents"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စီးပွားရေး ဖြစ်ရပ် သို့မဟုတ် အခမ်းအနား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerservice",
+      "pronunciation": "/kʌstəmɚ sɝvəs/",
+      "forms": [
+        "customerservices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customersupport",
+      "pronunciation": "/kʌstəmɚ səpɔrt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် အကူအညီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customercare",
+      "pronunciation": "/kʌstəmɚ kɛr/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် စောင့်ရှောက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customeraccount",
+      "pronunciation": "/kʌstəmɚ əkaʊnt/",
+      "forms": [
+        "customeraccounts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် အကောင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerprofile",
+      "pronunciation": "/kʌstəmɚ proʊfaɪl/",
+      "forms": [
+        "customerprofiles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် ကိုယ်ရေးအချက်အလက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerrecord",
+      "pronunciation": "/kʌstəmɚ rəkɔrd/",
+      "forms": [
+        "customerrecords"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် မှတ်တမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerhistory",
+      "pronunciation": "/kʌstəmɚ hɪstɚi/",
+      "forms": [
+        "customerhistories"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် နောက်ခံမှတ်တမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerfeedback",
+      "pronunciation": "/kʌstəmɚ fidbæk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် တုံ့ပြန်ချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerreview",
+      "pronunciation": "/kʌstəmɚ rivju/",
+      "forms": [
+        "customerreviews"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် ပြန်လည်သုံးသပ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customercomplaint",
+      "pronunciation": "/kʌstəmɚ kəmpleɪnt/",
+      "forms": [
+        "customercomplaints"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် တိုင်ကြားချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerrequest",
+      "pronunciation": "/kʌstəmɚ rɪkwɛst/",
+      "forms": [
+        "customerrequests"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် တောင်းဆိုချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerorder",
+      "pronunciation": "/kʌstəmɚ ɔrdɚ/",
+      "forms": [
+        "customerorders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် မှာယူမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerpayment",
+      "pronunciation": "/kʌstəmɚ peɪmənt/",
+      "forms": [
+        "customerpayments"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် ငွေပေးချေမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerrefund",
+      "pronunciation": "/kʌstəmɚ rɪfʌnd/",
+      "forms": [
+        "customerrefunds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် ငွေပြန်အမ်းမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerreturn",
+      "pronunciation": "/kʌstəmɚ rɪtɝn/",
+      "forms": [
+        "customerreturns"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် ပြန်ပို့မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerloyalty",
+      "pronunciation": "/kʌstəmɚ lɔɪəlti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် သစ္စာရှိမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerreward",
+      "pronunciation": "/kʌstəmɚ rɪwɔrd/",
+      "forms": [
+        "customerrewards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် ဆုလာဘ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customersurvey",
+      "pronunciation": "/kʌstəmɚ sɚveɪ/",
+      "forms": [
+        "customersurveys"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် စစ်တမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerportal",
+      "pronunciation": "/kʌstəmɚ pɔrtəl/",
+      "forms": [
+        "customerportals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် ဝင်ပေါက်ဝဘ်ဆိုက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerlogin",
+      "pronunciation": "/kʌstəmɚ lɔɡɪn/",
+      "forms": [
+        "customerlogins"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် ဝင်ရောက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerpassword",
+      "pronunciation": "/kʌstəmɚ pæswɝd/",
+      "forms": [
+        "customerpasswords"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် စကားဝှက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerdetail",
+      "pronunciation": "/kʌstəmɚ dɪteɪl/",
+      "forms": [
+        "customerdetails"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် အသေးစိတ်အချက်အလက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerdata",
+      "pronunciation": "/kʌstəmɚ deɪtə/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် ဒေတာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerprivacy",
+      "pronunciation": "/kʌstəmɚ praɪvəsi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် ကိုယ်ရေးလုံခြုံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerexperience",
+      "pronunciation": "/kʌstəmɚ ɪkspɪriəns/",
+      "forms": [
+        "customerexperiences"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် အတွေ့အကြုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customersatisfaction",
+      "pronunciation": "/kʌstəmɚ sætəsfækʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် ကျေနပ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerrepresentative",
+      "pronunciation": "/kʌstəmɚ rɛprəzɛntətɪv/",
+      "forms": [
+        "customerrepresentatives"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် ကိုယ်စားလှယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "customerqueue",
+      "pronunciation": "/kʌstəmɚ kju/",
+      "forms": [
+        "customerqueues"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖောက်သည် တန်းစီစာရင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computerscreen",
+      "pronunciation": "/kəmpjutɚ skrin/",
+      "forms": [
+        "computerscreens"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ မျက်နှာပြင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computermouse",
+      "pronunciation": "/kəmpjutɚ maʊs/",
+      "forms": [
+        "computermice"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ မောက်စ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computerkeyboard",
+      "pronunciation": "/kəmpjutɚ kibɔrd/",
+      "forms": [
+        "computerkeyboards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ ကီးဘုတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computermonitor",
+      "pronunciation": "/kəmpjutɚ mɑnətɚ/",
+      "forms": [
+        "computermonitors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ စောင့်ကြည့်ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computercase",
+      "pronunciation": "/kəmpjutɚ keɪs/",
+      "forms": [
+        "computercases"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ အမှု သို့မဟုတ် ဖြစ်ရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computerfan",
+      "pronunciation": "/kəmpjutɚ fæn/",
+      "forms": [
+        "computerfans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ ပန်ကာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computercable",
+      "pronunciation": "/kəmpjutɚ keɪbəl/",
+      "forms": [
+        "computercables"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ ကြိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computerport",
+      "pronunciation": "/kəmpjutɚ pɔrt/",
+      "forms": [
+        "computerports"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ ချိတ်ဆက်ပေါက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computerchip",
+      "pronunciation": "/kəmpjutɚ tʃɪp/",
+      "forms": [
+        "computerchips"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ ချစ်ပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computermemory",
+      "pronunciation": "/kəmpjutɚ mɛmɚi/",
+      "forms": [
+        "computermemories"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ မှတ်ဉာဏ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computerstorage",
+      "pronunciation": "/kəmpjutɚ stɔrədʒ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ သိုလှောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computersystem",
+      "pronunciation": "/kəmpjutɚ sɪstəm/",
+      "forms": [
+        "computersystems"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ စနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computernetwork",
+      "pronunciation": "/kəmpjutɚ nɛtwɝk/",
+      "forms": [
+        "computernetworks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ ကွန်ရက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computersecurity",
+      "pronunciation": "/kəmpjutɚ sɪkjʊrəti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ လုံခြုံရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computervirus",
+      "pronunciation": "/kəmpjutɚ vaɪrəs/",
+      "forms": [
+        "computerviruses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ ဗိုင်းရပ်စ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computerprogram",
+      "pronunciation": "/kəmpjutɚ proʊɡræm/",
+      "forms": [
+        "computerprograms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ ပရိုဂရမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computersoftware",
+      "pronunciation": "/kəmpjutɚ sɔftwɛr/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ ဆော့ဖ်ဝဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computerhardware",
+      "pronunciation": "/kəmpjutɚ hɑrdwɛr/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ ဟာ့ဒ်ဝဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computerfile",
+      "pronunciation": "/kəmpjutɚ faɪl/",
+      "forms": [
+        "computerfiles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ ဖိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computerfolder",
+      "pronunciation": "/kəmpjutɚ foʊldɚ/",
+      "forms": [
+        "computerfolders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ ဖိုင်တွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computerbackup",
+      "pronunciation": "/kəmpjutɚ bækʌp/",
+      "forms": [
+        "computerbackups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ အရန်မိတ္တူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computerupdate",
+      "pronunciation": "/kəmpjutɚ əpdeɪt/",
+      "forms": [
+        "computerupdates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ မွမ်းမံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computerrepair",
+      "pronunciation": "/kəmpjutɚ rɪpɛr/",
+      "forms": [
+        "computerrepairs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ ပြုပြင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computershop",
+      "pronunciation": "/kəmpjutɚ ʃɑp/",
+      "forms": [
+        "computershops"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ ဆိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computerroom",
+      "pronunciation": "/kəmpjutɚ rum/",
+      "forms": [
+        "computerrooms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ အခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computerdesk",
+      "pronunciation": "/kəmpjutɚ dɛsk/",
+      "forms": [
+        "computerdesks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ စားပွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computeruser",
+      "pronunciation": "/kəmpjutɚ juzɚ/",
+      "forms": [
+        "computerusers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ အသုံးပြုသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computeraccount",
+      "pronunciation": "/kəmpjutɚ əkaʊnt/",
+      "forms": [
+        "computeraccounts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ အကောင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "computerpassword",
+      "pronunciation": "/kəmpjutɚ pæswɝd/",
+      "forms": [
+        "computerpasswords"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ စကားဝှက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkadapter",
+      "pronunciation": "/nɛtwɝk ədæptɚ/",
+      "forms": [
+        "networkadapters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် ချိတ်ဆက်ပြောင်းလဲကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkcable",
+      "pronunciation": "/nɛtwɝk keɪbəl/",
+      "forms": [
+        "networkcables"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် ကြိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkconnection",
+      "pronunciation": "/nɛtwɝk kənɛkʃən/",
+      "forms": [
+        "networkconnections"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် ချိတ်ဆက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkdrive",
+      "pronunciation": "/nɛtwɝk draɪv/",
+      "forms": [
+        "networkdrives"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် ဒရိုက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkinterface",
+      "pronunciation": "/nɛtwɝk ɪntɚfeɪs/",
+      "forms": [
+        "networkinterfaces"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် ချိတ်ဆက်မျက်နှာပြင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkmonitor",
+      "pronunciation": "/nɛtwɝk mɑnətɚ/",
+      "forms": [
+        "networkmonitors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် စောင့်ကြည့်ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networksecurity",
+      "pronunciation": "/nɛtwɝk sɪkjʊrəti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် လုံခြုံရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networktraffic",
+      "pronunciation": "/nɛtwɝk træfɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် လမ်းကြောင်းဒေတာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkaddress",
+      "pronunciation": "/nɛtwɝk ædrɛs/",
+      "forms": [
+        "networkaddresses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် လိပ်စာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkdevice",
+      "pronunciation": "/nɛtwɝk dɪvaɪs/",
+      "forms": [
+        "networkdevices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkstatus",
+      "pronunciation": "/nɛtwɝk stætəs/",
+      "forms": [
+        "networkstatuses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkfailure",
+      "pronunciation": "/nɛtwɝk feɪljɚ/",
+      "forms": [
+        "networkfailures"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် ပျက်ကွက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkissue",
+      "pronunciation": "/nɛtwɝk ɪʃu/",
+      "forms": [
+        "networkissues"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် ပြဿနာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkspeed",
+      "pronunciation": "/nɛtwɝk spid/",
+      "forms": [
+        "networkspeeds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် အမြန်နှုန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkaccess",
+      "pronunciation": "/nɛtwɝk æksɛs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် ဝင်ရောက်အသုံးပြုခွင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkadmin",
+      "pronunciation": "/nɛtwɝk ædmɪn/",
+      "forms": [
+        "networkadmins"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် စီမံခန့်ခွဲသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkadministrator",
+      "pronunciation": "/nɛtwɝk ədmɪnəstreɪtɚ/",
+      "forms": [
+        "networkadministrators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် စီမံခန့်ခွဲသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkserver",
+      "pronunciation": "/nɛtwɝk sɝvɚ/",
+      "forms": [
+        "networkservers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် ဆာဗာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkswitch",
+      "pronunciation": "/nɛtwɝk swɪtʃ/",
+      "forms": [
+        "networkswitches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် ပြောင်းခလုတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkrouter",
+      "pronunciation": "/nɛtwɝk rutɚ/",
+      "forms": [
+        "networkrouters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် ရောက်တာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkport",
+      "pronunciation": "/nɛtwɝk pɔrt/",
+      "forms": [
+        "networkports"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် ချိတ်ဆက်ပေါက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkprotocol",
+      "pronunciation": "/nɛtwɝk proʊtəkɑl/",
+      "forms": [
+        "networkprotocols"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် လုပ်ထုံးစံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkservice",
+      "pronunciation": "/nɛtwɝk sɝvəs/",
+      "forms": [
+        "networkservices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkprovider",
+      "pronunciation": "/nɛtwɝk prəvaɪdɚ/",
+      "forms": [
+        "networkproviders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် ဝန်ဆောင်မှုပေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkcoverage",
+      "pronunciation": "/nɛtwɝk kʌvɚədʒ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် ဝန်ဆောင်မှုလွှမ်းခြုံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networksignal",
+      "pronunciation": "/nɛtwɝk sɪɡnəl/",
+      "forms": [
+        "networksignals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် အချက်ပြမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networktest",
+      "pronunciation": "/nɛtwɝk tɛst/",
+      "forms": [
+        "networktests"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် စမ်းသပ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networktool",
+      "pronunciation": "/nɛtwɝk tul/",
+      "forms": [
+        "networktools"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networkmanager",
+      "pronunciation": "/nɛtwɝk mænədʒɚ/",
+      "forms": [
+        "networkmanagers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် မန်နေဂျာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "networksetup",
+      "pronunciation": "/nɛtwɝk sɛtʌp/",
+      "forms": [
+        "networksetups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက် တပ်ဆင်သတ်မှတ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetaccess",
+      "pronunciation": "/ɪntɚnɛt æksɛs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် ဝင်ရောက်အသုံးပြုခွင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetconnection",
+      "pronunciation": "/ɪntɚnɛt kənɛkʃən/",
+      "forms": [
+        "internetconnections"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် ချိတ်ဆက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetprovider",
+      "pronunciation": "/ɪntɚnɛt prəvaɪdɚ/",
+      "forms": [
+        "internetproviders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် ဝန်ဆောင်မှုပေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetservice",
+      "pronunciation": "/ɪntɚnɛt sɝvəs/",
+      "forms": [
+        "internetservices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetspeed",
+      "pronunciation": "/ɪntɚnɛt spid/",
+      "forms": [
+        "internetspeeds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် အမြန်နှုန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetusage",
+      "pronunciation": "/ɪntɚnɛt jusədʒ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် အသုံးပြုမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetdata",
+      "pronunciation": "/ɪntɚnɛt deɪtə/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် ဒေတာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetaccount",
+      "pronunciation": "/ɪntɚnɛt əkaʊnt/",
+      "forms": [
+        "internetaccounts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် အကောင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetsecurity",
+      "pronunciation": "/ɪntɚnɛt sɪkjʊrəti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် လုံခြုံရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetprivacy",
+      "pronunciation": "/ɪntɚnɛt praɪvəsi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် ကိုယ်ရေးလုံခြုံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetbrowser",
+      "pronunciation": "/ɪntɚnɛt braʊzɚ/",
+      "forms": [
+        "internetbrowsers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် ဘရောက်ဇာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internethistory",
+      "pronunciation": "/ɪntɚnɛt hɪstɚi/",
+      "forms": [
+        "internethistories"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် နောက်ခံမှတ်တမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetsearch",
+      "pronunciation": "/ɪntɚnɛt sɝtʃ/",
+      "forms": [
+        "internetsearches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် ရှာဖွေမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internettraffic",
+      "pronunciation": "/ɪntɚnɛt træfɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် လမ်းကြောင်းဒေတာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetaddress",
+      "pronunciation": "/ɪntɚnɛt ædrɛs/",
+      "forms": [
+        "internetaddresses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် လိပ်စာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetprotocol",
+      "pronunciation": "/ɪntɚnɛt proʊtəkɑl/",
+      "forms": [
+        "internetprotocols"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် လုပ်ထုံးစံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetforum",
+      "pronunciation": "/ɪntɚnɛt fɔrəm/",
+      "forms": [
+        "internetforums"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် ဆွေးနွေးပွဲနေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetculture",
+      "pronunciation": "/ɪntɚnɛt kʌltʃɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် ယဉ်ကျေးမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internettrend",
+      "pronunciation": "/ɪntɚnɛt trɛnd/",
+      "forms": [
+        "internettrends"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် လမ်းကြောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetuser",
+      "pronunciation": "/ɪntɚnɛt juzɚ/",
+      "forms": [
+        "internetusers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် အသုံးပြုသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetcommunity",
+      "pronunciation": "/ɪntɚnɛt kəmjunəti/",
+      "forms": [
+        "internetcommunities"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် အသိုင်းအဝိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetplatform",
+      "pronunciation": "/ɪntɚnɛt plætfɔrm/",
+      "forms": [
+        "internetplatforms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် ပလက်ဖောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetplan",
+      "pronunciation": "/ɪntɚnɛt plæn/",
+      "forms": [
+        "internetplans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် အစီအစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetbill",
+      "pronunciation": "/ɪntɚnɛt bɪl/",
+      "forms": [
+        "internetbills"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် ငွေတောင်းခံလွှာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetoutage",
+      "pronunciation": "/ɪntɚnɛt aʊtədʒ/",
+      "forms": [
+        "internetoutages"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် ဝန်ဆောင်မှုပြတ်တောက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetsignal",
+      "pronunciation": "/ɪntɚnɛt sɪɡnəl/",
+      "forms": [
+        "internetsignals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် အချက်ပြမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetsetup",
+      "pronunciation": "/ɪntɚnɛt sɛtʌp/",
+      "forms": [
+        "internetsetups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် တပ်ဆင်သတ်မှတ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetsetting",
+      "pronunciation": "/ɪntɚnɛt sɛtɪŋ/",
+      "forms": [
+        "internetsettings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် ဆက်တင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "internetoption",
+      "pronunciation": "/ɪntɚnɛt ɑpʃən/",
+      "forms": [
+        "internetoptions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက် ရွေးချယ်စရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonecall",
+      "pronunciation": "/foʊn kɔl/",
+      "forms": [
+        "phonecalls"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း ဖုန်းခေါ်ဆိုမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonenumber",
+      "pronunciation": "/foʊn nʌmbɚ/",
+      "forms": [
+        "phonenumbers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း နံပါတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonecharger",
+      "pronunciation": "/foʊn tʃɑrdʒɚ/",
+      "forms": [
+        "phonechargers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း အားသွင်းကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonecase",
+      "pronunciation": "/foʊn keɪs/",
+      "forms": [
+        "phonecases"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း အမှု သို့မဟုတ် ဖြစ်ရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonescreen",
+      "pronunciation": "/foʊn skrin/",
+      "forms": [
+        "phonescreens"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း မျက်နှာပြင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonecamera",
+      "pronunciation": "/foʊn kæmɚə/",
+      "forms": [
+        "phonecameras"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း ကင်မရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonebattery",
+      "pronunciation": "/foʊn bætɚi/",
+      "forms": [
+        "phonebatteries"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း ဘက်ထရီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonesignal",
+      "pronunciation": "/foʊn sɪɡnəl/",
+      "forms": [
+        "phonesignals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း အချက်ပြမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phoneservice",
+      "pronunciation": "/foʊn sɝvəs/",
+      "forms": [
+        "phoneservices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonebill",
+      "pronunciation": "/foʊn bɪl/",
+      "forms": [
+        "phonebills"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း ငွေတောင်းခံလွှာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phoneplan",
+      "pronunciation": "/foʊn plæn/",
+      "forms": [
+        "phoneplans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း အစီအစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonecontract",
+      "pronunciation": "/foʊn kɑntrækt/",
+      "forms": [
+        "phonecontracts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း စာချုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonecompany",
+      "pronunciation": "/foʊn kʌmpəni/",
+      "forms": [
+        "phonecompanies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း ကုမ္ပဏီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phoneline",
+      "pronunciation": "/foʊn laɪn/",
+      "forms": [
+        "phonelines"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း လိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonemessage",
+      "pronunciation": "/foʊn mɛsədʒ/",
+      "forms": [
+        "phonemessages"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း စာတို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonerecord",
+      "pronunciation": "/foʊn rəkɔrd/",
+      "forms": [
+        "phonerecords"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း မှတ်တမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonecontact",
+      "pronunciation": "/foʊn kɑntækt/",
+      "forms": [
+        "phonecontacts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း ဆက်သွယ်ရန်အချက်အလက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonesetting",
+      "pronunciation": "/foʊn sɛtɪŋ/",
+      "forms": [
+        "phonesettings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း ဆက်တင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonemenu",
+      "pronunciation": "/foʊn mɛnju/",
+      "forms": [
+        "phonemenus"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း မီနူး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phoneapp",
+      "pronunciation": "/foʊn æp/",
+      "forms": [
+        "phoneapps"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း အက်ပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonebackup",
+      "pronunciation": "/foʊn bækʌp/",
+      "forms": [
+        "phonebackups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း အရန်မိတ္တူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonestorage",
+      "pronunciation": "/foʊn stɔrədʒ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း သိုလှောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonerepair",
+      "pronunciation": "/foʊn rɪpɛr/",
+      "forms": [
+        "phonerepairs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း ပြုပြင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phoneshop",
+      "pronunciation": "/foʊn ʃɑp/",
+      "forms": [
+        "phoneshops"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း ဆိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phoneholder",
+      "pronunciation": "/foʊn hoʊldɚ/",
+      "forms": [
+        "phoneholders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း ကိုင်ဆောင်ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonestand",
+      "pronunciation": "/foʊn stænd/",
+      "forms": [
+        "phonestands"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း တင်ထားရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonering",
+      "pronunciation": "/foʊn rɪŋ/",
+      "forms": [
+        "phonerings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း ဖုန်းမြည်သံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonealarm",
+      "pronunciation": "/foʊn əlɑrm/",
+      "forms": [
+        "phonealarms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း သတိပေးစက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "phonelock",
+      "pronunciation": "/foʊn lɑk/",
+      "forms": [
+        "phonelocks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖုန်း သော့ခတ်ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobilephone",
+      "pronunciation": "/moʊbəl foʊn/",
+      "forms": [
+        "mobilephones"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း ဖုန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobileapp",
+      "pronunciation": "/moʊbəl æp/",
+      "forms": [
+        "mobileapps"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း အက်ပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobiledevice",
+      "pronunciation": "/moʊbəl dɪvaɪs/",
+      "forms": [
+        "mobiledevices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobilenetwork",
+      "pronunciation": "/moʊbəl nɛtwɝk/",
+      "forms": [
+        "mobilenetworks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း ကွန်ရက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobiledata",
+      "pronunciation": "/moʊbəl deɪtə/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း ဒေတာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobileservice",
+      "pronunciation": "/moʊbəl sɝvəs/",
+      "forms": [
+        "mobileservices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobilepayment",
+      "pronunciation": "/moʊbəl peɪmənt/",
+      "forms": [
+        "mobilepayments"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း ငွေပေးချေမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobilegame",
+      "pronunciation": "/moʊbəl ɡeɪm/",
+      "forms": [
+        "mobilegames"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း ဂိမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobilebrowser",
+      "pronunciation": "/moʊbəl braʊzɚ/",
+      "forms": [
+        "mobilebrowsers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း ဘရောက်ဇာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobilecamera",
+      "pronunciation": "/moʊbəl kæmɚə/",
+      "forms": [
+        "mobilecameras"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း ကင်မရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobilecharger",
+      "pronunciation": "/moʊbəl tʃɑrdʒɚ/",
+      "forms": [
+        "mobilechargers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း အားသွင်းကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobilesignal",
+      "pronunciation": "/moʊbəl sɪɡnəl/",
+      "forms": [
+        "mobilesignals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း အချက်ပြမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobilecoverage",
+      "pronunciation": "/moʊbəl kʌvɚədʒ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း ဝန်ဆောင်မှုလွှမ်းခြုံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobileplan",
+      "pronunciation": "/moʊbəl plæn/",
+      "forms": [
+        "mobileplans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း အစီအစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobileaccount",
+      "pronunciation": "/moʊbəl əkaʊnt/",
+      "forms": [
+        "mobileaccounts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း အကောင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobilesecurity",
+      "pronunciation": "/moʊbəl sɪkjʊrəti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း လုံခြုံရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobilesetting",
+      "pronunciation": "/moʊbəl sɛtɪŋ/",
+      "forms": [
+        "mobilesettings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း ဆက်တင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobilescreen",
+      "pronunciation": "/moʊbəl skrin/",
+      "forms": [
+        "mobilescreens"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း မျက်နှာပြင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobileplatform",
+      "pronunciation": "/moʊbəl plætfɔrm/",
+      "forms": [
+        "mobileplatforms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း ပလက်ဖောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobileoperator",
+      "pronunciation": "/moʊbəl ɑpɚeɪtɚ/",
+      "forms": [
+        "mobileoperators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း ဝန်ဆောင်မှုလုပ်ကိုင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobiletechnology",
+      "pronunciation": "/moʊbəl tɛknɑlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း နည်းပညာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobilewallet",
+      "pronunciation": "/moʊbəl wɔlət/",
+      "forms": [
+        "mobilewallets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း ပိုက်ဆံအိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobileticket",
+      "pronunciation": "/moʊbəl tɪkət/",
+      "forms": [
+        "mobiletickets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း လက်မှတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobilecheckin",
+      "pronunciation": "/moʊbəl tʃɛk ɪn/",
+      "forms": [
+        "mobilecheckins"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း ဝင်ရောက်မှတ်ပုံတင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobilebooking",
+      "pronunciation": "/moʊbəl bʊkɪŋ/",
+      "forms": [
+        "mobilebookings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း ကြိုတင်စာရင်းသွင်းမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobileorder",
+      "pronunciation": "/moʊbəl ɔrdɚ/",
+      "forms": [
+        "mobileorders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း မှာယူမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobileaccess",
+      "pronunciation": "/moʊbəl æksɛs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း ဝင်ရောက်အသုံးပြုခွင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mobileuser",
+      "pronunciation": "/moʊbəl juzɚ/",
+      "forms": [
+        "mobileusers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုဘိုင်း အသုံးပြုသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalcamera",
+      "pronunciation": "/dɪdʒətəl kæmɚə/",
+      "forms": [
+        "digitalcameras"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် ကင်မရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalphoto",
+      "pronunciation": "/dɪdʒətəl foʊtoʊ/",
+      "forms": [
+        "digitalphotos"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် ဓာတ်ပုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalvideo",
+      "pronunciation": "/dɪdʒətəl vɪdioʊ/",
+      "forms": [
+        "digitalvideos"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် ဗီဒီယို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalmedia",
+      "pronunciation": "/dɪdʒətəl midiə/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် မီဒီယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalcontent",
+      "pronunciation": "/dɪdʒətəl kɑntɛnt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် အကြောင်းအရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalaccount",
+      "pronunciation": "/dɪdʒətəl əkaʊnt/",
+      "forms": [
+        "digitalaccounts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် အကောင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalservice",
+      "pronunciation": "/dɪdʒətəl sɝvəs/",
+      "forms": [
+        "digitalservices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalplatform",
+      "pronunciation": "/dɪdʒətəl plætfɔrm/",
+      "forms": [
+        "digitalplatforms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် ပလက်ဖောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalcurrency",
+      "pronunciation": "/dɪdʒətəl kɝənsi/",
+      "forms": [
+        "digitalcurrencies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် ငွေကြေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalsignature",
+      "pronunciation": "/dɪdʒətəl sɪɡnətʃɚ/",
+      "forms": [
+        "digitalsignatures"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် လက်မှတ်ရေးထိုးချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalcertificate",
+      "pronunciation": "/dɪdʒətəl sɚtɪfɪkət/",
+      "forms": [
+        "digitalcertificates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် လက်မှတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalrecord",
+      "pronunciation": "/dɪdʒətəl rəkɔrd/",
+      "forms": [
+        "digitalrecords"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် မှတ်တမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalfile",
+      "pronunciation": "/dɪdʒətəl faɪl/",
+      "forms": [
+        "digitalfiles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် ဖိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitaldocument",
+      "pronunciation": "/dɪdʒətəl dɑkjəmɛnt/",
+      "forms": [
+        "digitaldocuments"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် စာရွက်စာတမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalarchive",
+      "pronunciation": "/dɪdʒətəl ɑrkaɪv/",
+      "forms": [
+        "digitalarchives"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် မှတ်တမ်းသိမ်းဆည်းရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitallibrary",
+      "pronunciation": "/dɪdʒətəl laɪbrɛri/",
+      "forms": [
+        "digitallibraries"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် စာကြည့်တိုက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalstorage",
+      "pronunciation": "/dɪdʒətəl stɔrədʒ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် သိုလှောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalsecurity",
+      "pronunciation": "/dɪdʒətəl sɪkjʊrəti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် လုံခြုံရေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalprivacy",
+      "pronunciation": "/dɪdʒətəl praɪvəsi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် ကိုယ်ရေးလုံခြုံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalaccess",
+      "pronunciation": "/dɪdʒətəl æksɛs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် ဝင်ရောက်အသုံးပြုခွင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitaltool",
+      "pronunciation": "/dɪdʒətəl tul/",
+      "forms": [
+        "digitaltools"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitaldevice",
+      "pronunciation": "/dɪdʒətəl dɪvaɪs/",
+      "forms": [
+        "digitaldevices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalscreen",
+      "pronunciation": "/dɪdʒətəl skrin/",
+      "forms": [
+        "digitalscreens"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် မျက်နှာပြင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalsignal",
+      "pronunciation": "/dɪdʒətəl sɪɡnəl/",
+      "forms": [
+        "digitalsignals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် အချက်ပြမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalformat",
+      "pronunciation": "/dɪdʒətəl fɔrmæt/",
+      "forms": [
+        "digitalformats"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် ပုံစံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalcopy",
+      "pronunciation": "/dɪdʒətəl kɑpi/",
+      "forms": [
+        "digitalcopies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် မိတ္တူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "digitalversion",
+      "pronunciation": "/dɪdʒətəl vɝʒən/",
+      "forms": [
+        "digitalversions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ် ဗားရှင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialmedia",
+      "pronunciation": "/soʊʃəl midiə/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး မီဒီယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialnetwork",
+      "pronunciation": "/soʊʃəl nɛtwɝk/",
+      "forms": [
+        "socialnetworks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး ကွန်ရက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialservice",
+      "pronunciation": "/soʊʃəl sɝvəs/",
+      "forms": [
+        "socialservices"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialplatform",
+      "pronunciation": "/soʊʃəl plætfɔrm/",
+      "forms": [
+        "socialplatforms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး ပလက်ဖောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialaccount",
+      "pronunciation": "/soʊʃəl əkaʊnt/",
+      "forms": [
+        "socialaccounts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး အကောင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialprofile",
+      "pronunciation": "/soʊʃəl proʊfaɪl/",
+      "forms": [
+        "socialprofiles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး ကိုယ်ရေးအချက်အလက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialpost",
+      "pronunciation": "/soʊʃəl poʊst/",
+      "forms": [
+        "socialposts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး ပို့စ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialcomment",
+      "pronunciation": "/soʊʃəl kɑmɛnt/",
+      "forms": [
+        "socialcomments"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး မှတ်ချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialmessage",
+      "pronunciation": "/soʊʃəl mɛsədʒ/",
+      "forms": [
+        "socialmessages"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး စာတို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialgroup",
+      "pronunciation": "/soʊʃəl ɡrup/",
+      "forms": [
+        "socialgroups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialevent",
+      "pronunciation": "/soʊʃəl ɪvɛnt/",
+      "forms": [
+        "socialevents"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး ဖြစ်ရပ် သို့မဟုတ် အခမ်းအနား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialactivity",
+      "pronunciation": "/soʊʃəl æktɪvəti/",
+      "forms": [
+        "socialactivities"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး လှုပ်ရှားမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialstatus",
+      "pronunciation": "/soʊʃəl stætəs/",
+      "forms": [
+        "socialstatuses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sociallife",
+      "pronunciation": "/soʊʃəl laɪf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး ဘဝ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialcircle",
+      "pronunciation": "/soʊʃəl sɝkəl/",
+      "forms": [
+        "socialcircles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး အဖွဲ့ဝိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialskill",
+      "pronunciation": "/soʊʃəl skɪl/",
+      "forms": [
+        "socialskills"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး ကျွမ်းကျင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialworker",
+      "pronunciation": "/soʊʃəl wɝkɚ/",
+      "forms": [
+        "socialworkers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး အလုပ်သမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialissue",
+      "pronunciation": "/soʊʃəl ɪʃu/",
+      "forms": [
+        "socialissues"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး ပြဿနာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialproblem",
+      "pronunciation": "/soʊʃəl prɑbləm/",
+      "forms": [
+        "socialproblems"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး ပြဿနာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialpressure",
+      "pronunciation": "/soʊʃəl prɛʃɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး ဖိအား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialsupport",
+      "pronunciation": "/soʊʃəl səpɔrt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး အကူအညီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialcontact",
+      "pronunciation": "/soʊʃəl kɑntækt/",
+      "forms": [
+        "socialcontacts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး ဆက်သွယ်ရန်အချက်အလက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialconnection",
+      "pronunciation": "/soʊʃəl kənɛkʃən/",
+      "forms": [
+        "socialconnections"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး ချိတ်ဆက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialinteraction",
+      "pronunciation": "/soʊʃəl ɪntɚækʃən/",
+      "forms": [
+        "socialinteractions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး အပြန်အလှန်ဆက်ဆံမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialbehavior",
+      "pronunciation": "/soʊʃəl bɪheɪvjɚ/",
+      "forms": [
+        "socialbehaviors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး အပြုအမူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialchange",
+      "pronunciation": "/soʊʃəl tʃeɪndʒ/",
+      "forms": [
+        "socialchanges"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး ပြောင်းလဲမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialtrend",
+      "pronunciation": "/soʊʃəl trɛnd/",
+      "forms": [
+        "socialtrends"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး လမ်းကြောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialmovement",
+      "pronunciation": "/soʊʃəl muvmənt/",
+      "forms": [
+        "socialmovements"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး လှုပ်ရှားမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "socialpolicy",
+      "pronunciation": "/soʊʃəl pɑləsi/",
+      "forms": [
+        "socialpolicies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူမှုရေး မူဝါဒ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familydoctor",
+      "pronunciation": "/fæməli dɑktɚ/",
+      "forms": [
+        "familydoctors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု ဆရာဝန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familybusiness",
+      "pronunciation": "/fæməli bɪznəs/",
+      "forms": [
+        "familybusinesses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု စီးပွားရေးလုပ်ငန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyhistory",
+      "pronunciation": "/fæməli hɪstɚi/",
+      "forms": [
+        "familyhistories"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု နောက်ခံမှတ်တမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyrecord",
+      "pronunciation": "/fæməli rəkɔrd/",
+      "forms": [
+        "familyrecords"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု မှတ်တမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familycar",
+      "pronunciation": "/fæməli kɑr/",
+      "forms": [
+        "familycars"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု ကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyhouse",
+      "pronunciation": "/fæməli haʊs/",
+      "forms": [
+        "familyhouses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု အိမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyalbum",
+      "pronunciation": "/fæməli ælbəm/",
+      "forms": [
+        "familyalbums"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု ဓာတ်ပုံအယ်လ်ဘမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familytrip",
+      "pronunciation": "/fæməli trɪp/",
+      "forms": [
+        "familytrips"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု ခရီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyholiday",
+      "pronunciation": "/fæməli hɑlədeɪ/",
+      "forms": [
+        "familyholidays"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု အားလပ်ရက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyevent",
+      "pronunciation": "/fæməli ɪvɛnt/",
+      "forms": [
+        "familyevents"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု ဖြစ်ရပ် သို့မဟုတ် အခမ်းအနား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyparty",
+      "pronunciation": "/fæməli pɑrti/",
+      "forms": [
+        "familyparties"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု ပါတီ သို့မဟုတ် ပွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familymeal",
+      "pronunciation": "/fæməli mil/",
+      "forms": [
+        "familymeals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု အစားအစာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familybudget",
+      "pronunciation": "/fæməli bʌdʒɪt/",
+      "forms": [
+        "familybudgets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု ဘတ်ဂျက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyincome",
+      "pronunciation": "/fæməli ɪnkʌm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု ဝင်ငွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familysupport",
+      "pronunciation": "/fæməli səpɔrt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု အကူအညီ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyproblem",
+      "pronunciation": "/fæməli prɑbləm/",
+      "forms": [
+        "familyproblems"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု ပြဿနာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyissue",
+      "pronunciation": "/fæməli ɪʃu/",
+      "forms": [
+        "familyissues"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု ပြဿနာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familyplan",
+      "pronunciation": "/fæməli plæn/",
+      "forms": [
+        "familyplans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု အစီအစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familylawyer",
+      "pronunciation": "/fæməli lɔjɚ/",
+      "forms": [
+        "familylawyers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု ရှေ့နေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "familytradition",
+      "pronunciation": "/fæməli trədɪʃən/",
+      "forms": [
+        "familytraditions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိသားစု အစဉ်အလာ"
+          ]
+        }
+      ]
+    }
+  ]
+}
