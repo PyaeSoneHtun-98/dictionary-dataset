@@ -1,9 +1,8 @@
 name: Validate Dictionary Extension
-# audit batch 062 rerun
 
 on:
   push:
-    branches: [master, "audit/fresh-batch-062"]
+    branches: [master]
     paths:
       - "DictionaryExtensionBatches/**"
       - "dictionary_extension_manifest.json"
