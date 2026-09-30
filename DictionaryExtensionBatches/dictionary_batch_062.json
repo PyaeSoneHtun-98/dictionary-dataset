@@ -1,0 +1,7198 @@
+{
+  "version": 1,
+  "batch": 62,
+  "entries": [
+    {
+      "word": "deskless",
+      "pronunciation": "/ˈdɛskləs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စားပွဲတင်ရုံးအလုပ်မဟုတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gigification",
+      "pronunciation": "/ˌɡɪɡəfɪˈkeɪʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုံမှန်အလုပ်တွေကို အလုပ်တစ်ခုချင်း ပေးဆောင်တဲ့ပုံစံသို့ ပြောင်းလဲမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "promptable",
+      "pronunciation": "/ˈprɑmptəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ညွှန်ကြားစာပေးပြီး လုပ်ဆောင်ခိုင်းနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "promptless",
+      "pronunciation": "/ˈprɑmptləs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အသုံးပြုသူညွှန်ကြားစာ မလိုဘဲ လုပ်ဆောင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hearable",
+      "pronunciation": "/ˈhɪrəbəl/",
+      "forms": [
+        "hearables"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နားထဲဝတ်ပြီး အသံနဲ့ စမတ်လုပ်ဆောင်ချက်တွေ သုံးနိုင်တဲ့ ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hotfix",
+      "pronunciation": "/ˈhɑtˌfɪks/",
+      "forms": [
+        "hotfixes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးပေါ်အမှားပြင်ဆင်ချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nerf",
+      "pronunciation": "/nɝf/",
+      "forms": [
+        "nerfs",
+        "nerfed",
+        "nerfing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဂိမ်းထဲက အရာတစ်ခုရဲ့ စွမ်းအားကို လျှော့ချသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hitbox",
+      "pronunciation": "/ˈhɪtˌbɑks/",
+      "forms": [
+        "hitboxes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂိမ်းထဲမှာ တိုက်ခိုက်မှု ထိမှန်မမှန် သတ်မှတ်ပေးတဲ့ မမြင်ရသောဧရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "autosave",
+      "pronunciation": "/ˈɔtoʊˌseɪv/",
+      "forms": [
+        "autosaves"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလိုအလျောက် သိမ်းဆည်းပေးတဲ့ စနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "quicksave",
+      "pronunciation": "/ˈkwɪkˌseɪv/",
+      "forms": [
+        "quicksaves"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချက်ချင်း သိမ်းဆည်းတဲ့ လုပ်ဆောင်ချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "quickload",
+      "pronunciation": "/ˈkwɪkˌloʊd/",
+      "forms": [
+        "quickloads"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မကြာသေးခင် သိမ်းထားတာကို ချက်ချင်း ပြန်ဖွင့်တဲ့ လုပ်ဆောင်ချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bitrate",
+      "pronunciation": "/ˈbɪtˌreɪt/",
+      "forms": [
+        "bitrates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသံ သို့မဟုတ် ဗီဒီယိုဒေတာ တစ်စက္ကန့်လျှင် ပို့တဲ့ ပမာဏ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "laggy",
+      "pronunciation": "/ˈlæɡi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တုံ့ပြန်မှု နောက်ကျနေလို့ မချောမွေ့သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "glitchy",
+      "pronunciation": "/ˈɡlɪtʃi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နည်းပညာအမှား သေးသေးလေးတွေ မကြာခဏ ဖြစ်တတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "glitchless",
+      "pronunciation": "/ˈɡlɪtʃləs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နည်းပညာအမှားမဖြစ်ဘဲ ချောမွေ့သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stuttery",
+      "pronunciation": "/ˈstʌtɚi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အသံ သို့မဟုတ် ဗီဒီယို တုန်တုန်ပြတ်ပြတ် ဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shader",
+      "pronunciation": "/ˈʃeɪdɚ/",
+      "forms": [
+        "shaders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုံရိပ်ရဲ့ အလင်း အရိပ် အရောင်ကို တွက်ချက်ပေးတဲ့ ဂရပ်ဖစ်ပရိုဂရမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "upscaling",
+      "pronunciation": "/ˈʌpˌskeɪlɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုံရိပ်အရည်အသွေးကို ပိုမြင့်တဲ့ အရွယ်အစားသို့ ပြောင်းတိုးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "supersampling",
+      "pronunciation": "/ˈsupɚˌsæmplɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုံရိပ်ကို ပိုမြင့်တဲ့ အရည်အသွေးနဲ့ တွက်ပြီး ပြန်လျှော့ပြသတဲ့ နည်းလမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "antialiasing",
+      "pronunciation": "/ˌæntiˈeɪliəsɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုံရိပ်အနားသတ် ချွန်ထစ်မှုကို ချောမွေ့စေတဲ့ နည်းပညာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pixelate",
+      "pronunciation": "/ˈpɪksəˌleɪt/",
+      "forms": [
+        "pixelates",
+        "pixelated",
+        "pixelating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပုံကို စတုရန်းပစ်ဇယ်ကြီးတွေ ပေါ်လာအောင် ပြောင်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "photorealistic",
+      "pronunciation": "/ˌfoʊtoʊriəˈlɪstɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဓာတ်ပုံအစစ်လို အလွန်လက်တွေ့ကျသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "photorealism",
+      "pronunciation": "/ˌfoʊtoʊˈriəˌlɪzəm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဓာတ်ပုံလို လက်တွေ့ကျအောင် ဖန်တီးတဲ့ အနုပညာပုံစံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mocap",
+      "pronunciation": "/ˈmoʊˌkæp/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူရဲ့ လှုပ်ရှားမှုကို ဒစ်ဂျစ်တယ်အချက်အလက်အဖြစ် မှတ်ယူတဲ့ နည်းပညာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "subtitling",
+      "pronunciation": "/ˈsʌbˌtaɪtəlɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဗီဒီယို သို့မဟုတ် ရုပ်ရှင်အတွက် စာတန်းထိုးပြုလုပ်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "animatic",
+      "pronunciation": "/ˌænəˈmætɪk/",
+      "forms": [
+        "animatics"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုံကြမ်းဇာတ်ကွက်တွေကို အချိန်နဲ့အသံ ထည့်ပြီး လှုပ်ရှားသလို ပြထားတဲ့ မူကြမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "machinima",
+      "pronunciation": "/məˈʃɪnəmə/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂိမ်းအင်ဂျင်သုံးပြီး ဖန်တီးထားတဲ့ ကာတွန်း သို့မဟုတ် ဗီဒီယို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "biopic",
+      "pronunciation": "/ˈbaɪoʊˌpɪk/",
+      "forms": [
+        "biopics"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူတစ်ဦးရဲ့ ဘဝအကြောင်း ရိုက်ကူးထားတဲ့ ရုပ်ရှင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "webcomic",
+      "pronunciation": "/ˈwɛbˌkɑmɪk/",
+      "forms": [
+        "webcomics"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းမှာ ထုတ်ဝေတဲ့ ကာတွန်းစာမျက်နှာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fanon",
+      "pronunciation": "/ˈfænən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပရိသတ်တွေကြား ကျယ်ကျယ်ပြန့်ပြန့် လက်ခံထားပေမယ့် တရားဝင်မဟုတ်တဲ့ ဇာတ်လမ်းအယူအဆ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rebootable",
+      "pronunciation": "/riˈbutəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပြန်စတင်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sequelization",
+      "pronunciation": "/ˌsikwələˈzeɪʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အောင်မြင်တဲ့ ဇာတ်လမ်းကို နောက်ဆက်တွဲတွေ ဆက်တိုက် ဖန်တီးသည့် လုပ်ငန်းစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "flashforward",
+      "pronunciation": "/ˈflæʃˌfɔrwɚd/",
+      "forms": [
+        "flashforwards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇာတ်လမ်းထဲက အနာဂတ်အချိန်ကို ခဏကြိုပြတဲ့ ဇာတ်ကွက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jumpcut",
+      "pronunciation": "/ˈdʒʌmpˌkʌt/",
+      "forms": [
+        "jumpcuts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုပ်ရှင်မှာ အချိန် သို့မဟုတ် လှုပ်ရှားမှု ခုန်သွားသလို ဖြစ်စေတဲ့ ဖြတ်တောက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "clapperboard",
+      "pronunciation": "/ˈklæpɚˌbɔrd/",
+      "forms": [
+        "clapperboards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုပ်ရှင်ရိုက်ကူးရာမှာ ရိုက်ချက်အချက်အလက်နဲ့ အသံညှိဖို့ သုံးတဲ့ ဘုတ်ပြား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rewatchable",
+      "pronunciation": "/riˈwɑtʃəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ထပ်ခါထပ်ခါ ပြန်ကြည့်လို့ကောင်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "biomaterial",
+      "pronunciation": "/ˌbaɪoʊməˈtɪriəl/",
+      "forms": [
+        "biomaterials"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခန္ဓာကိုယ်နဲ့ ဆက်သွယ်အသုံးပြုဖို့ ဖန်တီးထားတဲ့ ပစ္စည်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "biohack",
+      "pronunciation": "/ˈbaɪoʊˌhæk/",
+      "forms": [
+        "biohacks",
+        "biohacked"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ခန္ဓာကိုယ် သို့မဟုတ် ဇီဝလုပ်ဆောင်ချက်ကို ကိုယ်တိုင် စမ်းသပ်ပြင်ဆင်တိုးတက်စေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "neurotech",
+      "pronunciation": "/ˈnʊroʊˌtɛk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဦးနှောက်နဲ့ အာရုံကြောစနစ်ကို တိုင်းတာ သို့မဟုတ် သက်ရောက်စေတဲ့ နည်းပညာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "neurotechnology",
+      "pronunciation": "/ˌnʊroʊtɛkˈnɑlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဦးနှောက်နဲ့ အာရုံကြောစနစ်ဆိုင်ရာ နည်းပညာပညာရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "neurostimulate",
+      "pronunciation": "/ˌnʊroʊˈstɪmjəˌleɪt/",
+      "forms": [
+        "neurostimulates",
+        "neurostimulated",
+        "neurostimulating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အာရုံကြောစနစ်ကို လျှပ်စစ် သို့မဟုတ် အခြားနည်းနဲ့ လှုံ့ဆော်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "neurostimulation",
+      "pronunciation": "/ˌnʊroʊˌstɪmjəˈleɪʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အာရုံကြောစနစ်ကို လှုံ့ဆော်ကုသခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "neuroinflammation",
+      "pronunciation": "/ˌnʊroʊˌɪnfləˈmeɪʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဦးနှောက် သို့မဟုတ် အာရုံကြောစနစ်အတွင်း ရောင်ရမ်းမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "neurodegenerative",
+      "pronunciation": "/ˌnʊroʊdɪˈdʒɛnərətɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အာရုံကြောဆဲလ်တွေ တဖြည်းဖြည်း ပျက်စီးစေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "neurodevelopmental",
+      "pronunciation": "/ˌnʊroʊdɪˌvɛləpˈmɛntəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဦးနှောက်နဲ့ အာရုံကြောဖွံ့ဖြိုးမှုဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bloodwork",
+      "pronunciation": "/ˈblʌdˌwɝk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သွေးစမ်းသပ်မှုများနဲ့ ရလာဒ်တွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bloodborne",
+      "pronunciation": "/ˈblʌdˌbɔrn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သွေးကနေ ကူးစက်ပျံ့နှံ့သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "foodborne",
+      "pronunciation": "/ˈfudˌbɔrn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အစားအစာကနေ ကူးစက်လာသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "infectivity",
+      "pronunciation": "/ˌɪnfɛkˈtɪvəti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရောဂါပိုးတစ်မျိုးရဲ့ ကူးစက်နိုင်စွမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "contagiousness",
+      "pronunciation": "/kənˈteɪdʒəsnəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရောဂါတစ်ခု လူတစ်ဦးမှ တစ်ဦးသို့ ကူးစက်လွယ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "symptomless",
+      "pronunciation": "/ˈsɪmptəmləs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရောဂါလက္ခဏာ မရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "comorbid",
+      "pronunciation": "/koʊˈmɔrbɪd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အခြားရောဂါတစ်ခုနဲ့ တစ်ပြိုင်နက် ရှိနေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "immunosuppressed",
+      "pronunciation": "/ˌɪmjənoʊsəˈprɛst/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကိုယ်ခံအားလုပ်ဆောင်မှု လျှော့ချခံထားရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "antivaxxer",
+      "pronunciation": "/ˌæntiˈvæksɚ/",
+      "forms": [
+        "antivaxxers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကာကွယ်ဆေးထိုးခြင်းကို ဆန့်ကျင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reinfect",
+      "pronunciation": "/ˌriɪnˈfɛkt/",
+      "forms": [
+        "reinfects",
+        "reinfected",
+        "reinfecting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပြန်လည်ကူးစက်စေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rehydrate",
+      "pronunciation": "/riˈhaɪˌdreɪt/",
+      "forms": [
+        "rehydrates",
+        "rehydrated",
+        "rehydrating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ခန္ဓာကိုယ်ကို ရေဓာတ်ပြန်ဖြည့်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rehydration",
+      "pronunciation": "/riˌhaɪˈdreɪʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခန္ဓာကိုယ်ရေဓာတ် ပြန်ဖြည့်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "embolic",
+      "pronunciation": "/ɛmˈbɑlɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သွေးကြောထဲ အတားအဆီးလွှင့်ဝင်မှုနဲ့ ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "thrombotic",
+      "pronunciation": "/θrɑmˈbɑtɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သွေးခဲဖြစ်ပေါ်မှုနဲ့ ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "radiograph",
+      "pronunciation": "/ˈreɪdiəˌɡræf/",
+      "forms": [
+        "radiographs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဓာတ်မှန်ရောင်ခြည်နဲ့ ရိုက်ထားတဲ့ အတွင်းပိုင်းပုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "triggerable",
+      "pronunciation": "/ˈtrɪɡɚəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဖြစ်ရပ် သို့မဟုတ် တုံ့ပြန်မှုတစ်ခု အလွယ်တကူ စတင်ဖြစ်စေနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "palpitation",
+      "pronunciation": "/ˌpælpəˈteɪʃən/",
+      "forms": [
+        "palpitations"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နှလုံးခုန်တာကို ပုံမှန်ထက် သိသာပြင်းထန်စွာ ခံစားရခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "opioid",
+      "pronunciation": "/ˈoʊpiˌɔɪd/",
+      "forms": [
+        "opioids"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နာကျင်မှုသက်သာစေပြီး စွဲလမ်းနိုင်တဲ့ အားပြင်းဆေးအမျိုးအစား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "painkilling",
+      "pronunciation": "/ˈpeɪnˌkɪlɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နာကျင်မှုကို သက်သာစေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ghostwrite",
+      "pronunciation": "/ˈɡoʊstˌɹaɪt/",
+      "forms": [
+        "ghostwrites",
+        "ghostwrote",
+        "ghostwritten",
+        "ghostwriting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အခြားသူအမည်နဲ့ ထုတ်ဝေဖို့ စာရေးပေးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ghostwriter",
+      "pronunciation": "/ˈɡoʊstˌɹaɪtɚ/",
+      "forms": [
+        "ghostwriters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခြားသူအမည်နဲ့ ထုတ်ဝေဖို့ စာရေးပေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mansplain",
+      "pronunciation": "/ˈmænˌspleɪn/",
+      "forms": [
+        "mansplains",
+        "mansplained"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အမျိုးသမီးကို အထင်သေးသလို ဆရာလုပ်ပြီး ရှင်းပြသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "microaggressive",
+      "pronunciation": "/ˌmaɪkɹoʊəˈɡɹɛsɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သိမ်မွေ့စွာ ခွဲခြားစော်ကားသည့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "clickbaity",
+      "pronunciation": "/ˈklɪkˌbeɪti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လူနှိပ်ကြည့်အောင် အလွန်အကျွံ ဆွဲဆောင်ထားသည့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "agritech",
+      "pronunciation": "/ˈæɡɹiˌtɛk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စိုက်ပျိုးရေးနဲ့ နည်းပညာ ပေါင်းစပ်ကဏ္ဍ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "femtech",
+      "pronunciation": "/ˈfɛmˌtɛk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမျိုးသမီးကျန်းမာရေးအတွက် နည်းပညာထုတ်ကုန်နဲ့ ဝန်ဆောင်မှုကဏ္ဍ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "govtech",
+      "pronunciation": "/ˈɡʌvˌtɛk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစိုးရဝန်ဆောင်မှုတွေမှာ သုံးတဲ့ နည်းပညာကဏ္ဍ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "martech",
+      "pronunciation": "/ˈmɑɹˌtɛk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စျေးကွက်ရှာဖွေရေးအတွက် အသုံးပြုတဲ့ နည်းပညာကဏ္ဍ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adtech",
+      "pronunciation": "/ˈædˌtɛk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြော်ငြာလုပ်ငန်းအတွက် အသုံးပြုတဲ့ နည်းပညာကဏ္ဍ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "retailtech",
+      "pronunciation": "/ˈɹiːteɪlˌtɛk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်လီရောင်းဝယ်ရေးအတွက် အသုံးပြုတဲ့ နည်းပညာကဏ္ဍ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disinfo",
+      "pronunciation": "/ˌdɪsˈɪnfoʊ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တမင်ဖန်တီးဖြန့်ဝေတဲ့ သတင်းမှား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "prepper",
+      "pronunciation": "/ˈpɹɛpɚ/",
+      "forms": [
+        "preppers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘေးအန္တရာယ်ကြီးအတွက် ပစ္စည်းတွေ ကြိုတင်စုဆောင်းပြင်ဆင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "doomer",
+      "pronunciation": "/ˈduːmɚ/",
+      "forms": [
+        "doomers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အနာဂတ်အပေါ် အလွန်အမင်း ဆိုးမြင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "radicalizer",
+      "pronunciation": "/ˈɹædɪkəˌlaɪzɚ/",
+      "forms": [
+        "radicalizers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူတစ်ယောက်ကို အစွန်းရောက်အမြင်ဘက် ဆွဲဆောင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "astroturf",
+      "pronunciation": "/ˈæstɹoʊˌtɝf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူထုက သဘာဝအလျောက် ထောက်ခံသလို ဟန်ဆောင်ဖန်တီးထားတဲ့ စည်းရုံးလှုပ်ရှားမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sockpuppet",
+      "pronunciation": "/ˈsɑkˌpʌpət/",
+      "forms": [
+        "sockpuppets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းမှာ အခြားလူလို ဟန်ဆောင်ဖို့ အသုံးပြုတဲ့ အကောင့်အတု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sockpuppetry",
+      "pronunciation": "/ˈsɑkˌpʌpətɹi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အကောင့်အတုတွေသုံးပြီး အခြားလူလို ဟန်ဆောင်လုပ်ဆောင်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "brigading",
+      "pronunciation": "/bɹɪˈɡeɪdɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းအုပ်စုတစ်စုက ပစ်မှတ်တစ်ခုကို စုပေါင်းဝင်ရောက်တုံ့ပြန်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dogpile",
+      "pronunciation": "/ˈdɔɡˌpaɪl/",
+      "forms": [
+        "dogpiles",
+        "dogpiled",
+        "dogpiling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လူအများက တစ်ယောက်ကို တစ်ပြိုင်နက် ဝိုင်းဝေဖန်တိုက်ခိုက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "repost",
+      "pronunciation": "/ˌɹiˈpoʊst/",
+      "forms": [
+        "reposts",
+        "reposted",
+        "reposting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အွန်လိုင်းအကြောင်းအရာကို ပြန်လည်တင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "viewbot",
+      "pronunciation": "/ˈvjuːˌbɑt/",
+      "forms": [
+        "viewbots"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြည့်ရှုမှုအရေအတွက် အတုတိုးဖို့ သုံးတဲ့ အလိုအလျောက်ပရိုဂရမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "webcast",
+      "pronunciation": "/ˈwɛbˌkæst/",
+      "forms": [
+        "webcasts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက်ကနေ ထုတ်လွှင့်တဲ့ အသံ သို့မဟုတ် ဗီဒီယိုအစီအစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "webinar",
+      "pronunciation": "/ˈwɛbəˌnɑɹ/",
+      "forms": [
+        "webinars"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက်ကနေ ပြုလုပ်တဲ့ သင်တန်း သို့မဟုတ် ဆွေးနွေးပွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "microblog",
+      "pronunciation": "/ˈmaɪkɹoʊˌblɑɡ/",
+      "forms": [
+        "microblogs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာတိုပုံစံနဲ့ အကြောင်းအရာတင်တဲ့ အွန်လိုင်းဘလော့ဂ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ebook",
+      "pronunciation": "/ˈiːˌbʊk/",
+      "forms": [
+        "ebooks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဒစ်ဂျစ်တယ်ပုံစံနဲ့ ဖတ်ရတဲ့ စာအုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "podcatcher",
+      "pronunciation": "/ˈpɑdˌkætʃɚ/",
+      "forms": [
+        "podcatchers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပေါ့ဒ်ကတ်အစီအစဉ်တွေ ရှာဖွေဒေါင်းလုပ်လုပ်ဖို့ အသုံးပြုတဲ့ အက်ပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "earbud",
+      "pronunciation": "/ˈɪɹˌbʌd/",
+      "forms": [
+        "earbuds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နားထဲထည့်သုံးတဲ့ နားကြပ်အသေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "geolocate",
+      "pronunciation": "/ˈdʒioʊˌloʊkeɪt/",
+      "forms": [
+        "geolocates",
+        "geolocated",
+        "geolocating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တည်နေရာအချက်အလက်ကို နည်းပညာနဲ့ ရှာဖွေသတ်မှတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ridesharing",
+      "pronunciation": "/ˈɹaɪdˌʃɛɹɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကားခရီးကို အက်ပ်ကနေ အခြားသူနဲ့ မျှဝေစီးနင်းခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "carpooling",
+      "pronunciation": "/ˈkɑɹˌpulɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လမ်းကြောင်းတူသူတွေ ကားတစ်စီးတည်း အတူစီးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hoverboard",
+      "pronunciation": "/ˈhʌvɚˌbɔɹd/",
+      "forms": [
+        "hoverboards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်တိုင်ဟန်ချက်ထိန်းသုံးတဲ့ လျှပ်စစ်စီးနင်းဘုတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "quadcopter",
+      "pronunciation": "/ˈkwɑdˌkɑptɚ/",
+      "forms": [
+        "quadcopters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပန်ကာလေးလုံးပါ မောင်းသူမဲ့ လေယာဉ်အသေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "upscaler",
+      "pronunciation": "/ˈʌpˌskeɪlɚ/",
+      "forms": [
+        "upscalers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုံ သို့မဟုတ် ဗီဒီယိုရဲ့ ရုပ်ထွက်အရွယ်အစားကို မြှင့်ပေးတဲ့ နည်းပညာ သို့မဟုတ် ပရိုဂရမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "downscale",
+      "pronunciation": "/ˈdaʊnˌskeɪl/",
+      "forms": [
+        "downscales",
+        "downscaled",
+        "downscaling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပုံ သို့မဟုတ် ဗီဒီယိုရဲ့ ရုပ်ထွက်အရွယ်အစားကို လျှော့သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gamepad",
+      "pronunciation": "/ˈɡeɪmˌpæd/",
+      "forms": [
+        "gamepads"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂိမ်းကစားဖို့ လက်ကိုင်ထိန်းချုပ်ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "esports",
+      "pronunciation": "/ˈiːˌspɔɹts/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြိုင်ပွဲပုံစံနဲ့ ကစားတဲ့ အီလက်ထရွန်နစ်ဂိမ်းအားကစား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shoutcaster",
+      "pronunciation": "/ˈʃaʊtˌkæstɚ/",
+      "forms": [
+        "shoutcasters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အီလက်ထရွန်နစ်ဂိမ်းပြိုင်ပွဲကို တိုက်ရိုက်ဝေဖန်ပြောဆိုသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cutscene",
+      "pronunciation": "/ˈkʌtˌsiːn/",
+      "forms": [
+        "cutscenes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂိမ်းကစားနေစဉ် အလိုအလျောက် ပြသတဲ့ ဇာတ်လမ်းဗီဒီယိုအပိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "leaderboard",
+      "pronunciation": "/ˈliːdɚˌbɔɹd/",
+      "forms": [
+        "leaderboards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကစားသူ သို့မဟုတ် ပြိုင်ပွဲဝင်တွေကို အဆင့်လိုက်ပြထားတဲ့ စာရင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sandboxed",
+      "pronunciation": "/ˈsændˌbɑkst/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အခြားစနစ်ကို မထိခိုက်အောင် သီးခြားကန့်သတ်ပတ်ဝန်းကျင်ထဲ လုပ်ဆောင်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "replayable",
+      "pronunciation": "/ˌɹiˈpleɪəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ထပ်ခါထပ်ခါ ပြန်ကစားလို့ တန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unlockable",
+      "pronunciation": "/ʌnˈlɑkəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အခြေအနေတစ်ခု ပြည့်မီရင် ဖွင့်ယူနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "grindy",
+      "pronunciation": "/ˈɡɹaɪndi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တူညီတဲ့အလုပ်တွေ အကြိမ်ကြိမ်လုပ်ရလွန်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "changelog",
+      "pronunciation": "/ˈtʃeɪndʒˌlɔɡ/",
+      "forms": [
+        "changelogs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆော့ဖ်ဝဲဗားရှင်းတစ်ခုချင်းစီရဲ့ အပြောင်းအလဲမှတ်တမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "storyboarding",
+      "pronunciation": "/ˈstɔɹiˌbɔɹdɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရိုက်ကူးမယ့် ဇာတ်ဝင်ခန်းတွေကို ပုံစဉ်နဲ့ ကြိုတင်စီစဉ်ရေးဆွဲခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "webisode",
+      "pronunciation": "/ˈwɛbɪˌsoʊd/",
+      "forms": [
+        "webisodes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက်အတွက် ထုတ်လုပ်ထားတဲ့ ဇာတ်လမ်းတွဲအပိုင်းတို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "showbiz",
+      "pronunciation": "/ˈʃoʊˌbɪz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖျော်ဖြေရေးနဲ့ ပြပွဲလုပ်ငန်းလောက"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cliffhanging",
+      "pronunciation": "/ˈklɪfˌhæŋɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အဆုံးမှာ အဖြေမသိရသေးဘဲ စိတ်လှုပ်ရှားစွာ ချန်ထားသည့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "serialized",
+      "pronunciation": "/ˈsɪɹiəˌlaɪzd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အပိုင်းဆက်ပုံစံနဲ့ ထုတ်ဝေ သို့မဟုတ် ထုတ်လွှင့်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dubber",
+      "pronunciation": "/ˈdʌbɚ/",
+      "forms": [
+        "dubbers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုပ်ရှင် သို့မဟုတ် ဗီဒီယိုအတွက် ဘာသာပြန်အသံသွင်းသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "subtitler",
+      "pronunciation": "/ˈsʌbˌtaɪtlɚ/",
+      "forms": [
+        "subtitlers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဗီဒီယိုစာတန်းထိုး ရေးသားပြင်ဆင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "captioner",
+      "pronunciation": "/ˈkæpʃənɚ/",
+      "forms": [
+        "captioners"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသံအကြောင်းအရာကို စာသားအဖြစ် ထည့်ပေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "colorist",
+      "pronunciation": "/ˈkʌlɚɪst/",
+      "forms": [
+        "colorists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုပ်ရှင်နဲ့ ဗီဒီယိုအရောင်ကို ပညာရှင်ဆန်စွာ ပြင်ညှိသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "soundscape",
+      "pronunciation": "/ˈsaʊndˌskeɪp/",
+      "forms": [
+        "soundscapes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နေရာတစ်ခု သို့မဟုတ် လက်ရာတစ်ခုရဲ့ စုစုပေါင်းအသံပတ်ဝန်းကျင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "soundstage",
+      "pronunciation": "/ˈsaʊndˌsteɪdʒ/",
+      "forms": [
+        "soundstages"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသံထိန်းချုပ်ထားတဲ့ ရုပ်ရှင်ရိုက်ကူးစတူဒီယိုအခန်းကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "greenroom",
+      "pronunciation": "/ˈɡɹiːnˌɹuːm/",
+      "forms": [
+        "greenrooms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သရုပ်ဆောင်သူတွေ ပွဲမစခင် နားနေပြင်ဆင်တဲ့ အခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "backlot",
+      "pronunciation": "/ˈbækˌlɑt/",
+      "forms": [
+        "backlots"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုပ်ရှင်ရိုက်ဖို့ အပြင်ဘက်ဆက်တင်တွေ တည်ထားတဲ့ စတူဒီယိုမြေနေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "screener",
+      "pronunciation": "/ˈskɹiːnɚ/",
+      "forms": [
+        "screeners"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မထုတ်ဝေခင် သုံးသပ်ဖို့ ပေးထားတဲ့ ရုပ်ရှင် သို့မဟုတ် အစီအစဉ်မိတ္တူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "awardee",
+      "pronunciation": "/əˌwɔɹˈdiː/",
+      "forms": [
+        "awardees"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆုရရှိသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "zoonosis",
+      "pronunciation": "/zoʊˈɑnəsɪs/",
+      "forms": [
+        "zoonoses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တိရစ္ဆာန်ကနေ လူကို ကူးစက်နိုင်တဲ့ ရောဂါ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "preexisting",
+      "pronunciation": "/ˌpɹiɪɡˈzɪstɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အရင်ကတည်းက ရှိပြီးသားဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "arrhythmic",
+      "pronunciation": "/eɪˈɹɪðmɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နှလုံးခုန်သံ စည်းချက်မမှန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "resuscitative",
+      "pronunciation": "/ɹɪˈsʌsəˌteɪtɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အသက်ရှူနှလုံးခုန် ပြန်လည်အသက်သွင်းကုသမှုဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sanitizer",
+      "pronunciation": "/ˈsænəˌtaɪzɚ/",
+      "forms": [
+        "sanitizers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပိုးမွှားလျော့နည်းစေဖို့ သန့်စင်ရာမှာ သုံးတဲ့ ပစ္စည်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sanitization",
+      "pronunciation": "/ˌsænətəˈzeɪʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပိုးမွှားလျော့အောင် သန့်စင်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "antiretroviral",
+      "pronunciation": "/ˌæntiˌɹɛtɹoʊˈvaɪɹəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရက်ထရိုဗိုင်းရပ်စ်များကို တားဆီးကုသရာတွင် သုံးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "laparoscopic",
+      "pronunciation": "/ˌlæpəɹəˈskɑpɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဝမ်းဗိုက်ထဲကို ကင်မရာအသေးထည့်ပြီး ခွဲစိတ်စစ်ဆေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "oncologic",
+      "pronunciation": "/ˌɑŋkəˈlɑdʒɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကင်ဆာရောဂါနှင့် ကုသမှုဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cardiothoracic",
+      "pronunciation": "/ˌkɑɹdioʊθəˈɹæsɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နှလုံးနဲ့ ရင်ဘတ်အင်္ဂါများဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dermatologic",
+      "pronunciation": "/ˌdɝmətəˈlɑdʒɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အရေပြားရောဂါဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bipolarity",
+      "pronunciation": "/ˌbaɪpoʊˈlɛɹəti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆန့်ကျင်ဘက်အနေအထား နှစ်မျိုးကြား ကွဲပြားနေမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adhd",
+      "pronunciation": "/ˌeɪdiˌeɪtʃˈdiː/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အာရုံစူးစိုက်ရခက်ပြီး လှုပ်ရှားမှုများတတ်သော အာရုံကြောဖွံ့ဖြိုးမှုအခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "expungement",
+      "pronunciation": "/ɪkˈspʌndʒmənt/",
+      "forms": [
+        "expungements"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တရားဝင်မှတ်တမ်းကနေ ပြစ်မှုမှတ်တမ်းကို ပယ်ဖျက်ရှင်းလင်းခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pentester",
+      "pronunciation": "/ˈpɛnˌtɛstɚ/",
+      "forms": [
+        "pentesters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာစနစ်လုံခြုံရေး အားနည်းချက်ကို ခွင့်ပြုချက်နဲ့ စမ်းသပ်ရှာဖွေသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vpn",
+      "pronunciation": "/ˌviːpiːˈɛn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်တာနက်ဆက်သွယ်မှုကို သီးသန့်ကွန်ရက်ကနေ လုံခြုံစွာ ဖြတ်သန်းစေတဲ့ နည်းပညာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "whistleblowing",
+      "pronunciation": "/ˈwɪsəlˌbloʊɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဖွဲ့အစည်းအတွင်းက မမှန်ကန်မှုကို အပြင်ကို ဖော်ထုတ်တိုင်ကြားခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spycraft",
+      "pronunciation": "/ˈspaɪˌkɹæft/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သူလျှိုလုပ်ငန်းမှာ သုံးတဲ့ နည်းလမ်းနဲ့ ကျွမ်းကျင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tradecraft",
+      "pronunciation": "/ˈtɹeɪdˌkɹæft/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ထောက်လှမ်းရေးနဲ့ သူလျှိုလုပ်ငန်းရဲ့ လက်တွေ့နည်းလမ်းများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "counterintel",
+      "pronunciation": "/ˈkaʊntɚˌɪntɛl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရန်သူ့ထောက်လှမ်းရေးလုပ်ငန်းကို ရှာဖွေတားဆီးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "profiler",
+      "pronunciation": "/ˈpɹoʊˌfaɪlɚ/",
+      "forms": [
+        "profilers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပြုအမူနဲ့ သက်သေအချက်အလက်ကနေ သံသယရှိသူရဲ့ လက္ခဏာတွေ ခန့်မှန်းသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "profiling",
+      "pronunciation": "/ˈpɹoʊˌfaɪlɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပြုအမူနဲ့ အချက်အလက်ကနေ လူတစ်ယောက်ရဲ့ လက္ခဏာပုံစံ ခန့်မှန်းခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tailing",
+      "pronunciation": "/ˈteɪlɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မသိအောင် နောက်ကနေ လိုက်လံစောင့်ကြည့်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "coconspirator",
+      "pronunciation": "/ˌkoʊkənˈspɪɹətɚ/",
+      "forms": [
+        "coconspirators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရာဇဝတ်မှု သို့မဟုတ် မတရားအစီအစဉ်ကို အတူပူးပေါင်းကြံစည်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bribable",
+      "pronunciation": "/ˈbɹaɪbəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လာဘ်ပေးပြီး လွှမ်းမိုးလို့ရနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "whistleblow",
+      "pronunciation": "/ˈwɪsəlˌbloʊ/",
+      "forms": [
+        "whistleblows",
+        "whistleblew",
+        "whistleblown"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အဖွဲ့အစည်းအတွင်းက မမှန်ကန်မှုကို ဖော်ထုတ်တိုင်ကြားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mafioso",
+      "pronunciation": "/ˌmɑfiˈoʊsoʊ/",
+      "forms": [
+        "mafiosi"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မာဖီးယားရာဇဝတ်အဖွဲ့ဝင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "groomer",
+      "pronunciation": "/ˈɡɹuːmɚ/",
+      "forms": [
+        "groomers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေး သို့မဟုတ် အားနည်းသူကို ယုံကြည်လာအောင် ချဉ်းကပ်ပြီး အမြတ်ထုတ်ဖို့ ပြင်ဆင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "recidivist",
+      "pronunciation": "/ɹɪˈsɪdəvɪst/",
+      "forms": [
+        "recidivists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြစ်ဒဏ်ခံပြီးနောက် ထပ်မံရာဇဝတ်မှု ကျူးလွန်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "airdate",
+      "pronunciation": "/ˈerˌdeɪt/",
+      "forms": [
+        "airdates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုပ်သံအစီအစဉ် စတင်ထုတ်လွှင့်မည့်နေ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chainmail",
+      "pronunciation": "/ˈtʃeɪnˌmeɪl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သံကွင်းဆက်များဖြင့် ပြုလုပ်ထားသော သံချပ်ကာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "codebase",
+      "pronunciation": "/ˈkoʊdˌbeɪs/",
+      "forms": [
+        "codebases"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆော့ဖ်ဝဲတစ်ခု၏ ကုဒ်စုစည်းမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "exfiltrate",
+      "pronunciation": "/ɛksˈfɪltreɪt/",
+      "forms": [
+        "exfiltrates",
+        "exfiltrated",
+        "exfiltrating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လျှို့ဝှက်စွာ ထွက်ခွာစေသည် သို့မဟုတ် အချက်အလက်ထုတ်ယူသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "logline",
+      "pronunciation": "/ˈlɔːɡˌlaɪn/",
+      "forms": [
+        "loglines"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇာတ်လမ်းအကြောင်းကို တစ်ကြောင်းနှစ်ကြောင်းဖြင့် အနှစ်ချုပ်ထားသော စာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overdub",
+      "pronunciation": "/ˌoʊvərˈdʌb/",
+      "forms": [
+        "overdubs",
+        "overdubbed",
+        "overdubbing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "မူရင်းအသံပေါ်သို့ အသံအသစ် ထပ်သွင်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "soundcheck",
+      "pronunciation": "/ˈsaʊndˌtʃɛk/",
+      "forms": [
+        "soundchecks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖျော်ဖြေပွဲမစမီ အသံစနစ် စမ်းသပ်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "transcode",
+      "pronunciation": "/trænsˈkoʊd/",
+      "forms": [
+        "transcodes",
+        "transcoded",
+        "transcoding"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "မီဒီယာဖိုင်ကို ကုဒ်သွင်းပုံစံတစ်မျိုးမှ အခြားတစ်မျိုးသို့ ပြောင်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uploader",
+      "pronunciation": "/ˈʌpˌloʊdər/",
+      "forms": [
+        "uploaders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖိုင် သို့မဟုတ် အကြောင်းအရာကို အွန်လိုင်းတင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "videography",
+      "pronunciation": "/ˌvɪdiˈɑːɡrəfi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဗီဒီယိုများ ရိုက်ကူးဖန်တီးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "zoomable",
+      "pronunciation": "/ˈzuːməbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ချဲ့ကြည့်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "floodwater",
+      "pronunciation": "/ˈflʌdˌwɔːtər/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေကြီးချိန်တွင် ပြည့်လျှံလာသော ရေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stargazing",
+      "pronunciation": "/ˈstɑːrˌɡeɪzɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြယ်များကို ကြည့်ရှုလေ့လာခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ovenware",
+      "pronunciation": "/ˈʌvənˌwer/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မီးဖိုထဲတွင် သုံးနိုင်သော ချက်ပြုတ်ပန်းကန်ပစ္စည်းများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stovetop",
+      "pronunciation": "/ˈstoʊvˌtɑːp/",
+      "forms": [
+        "stovetops"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မီးဖို၏ အပေါ်ဘက် ချက်ပြုတ်ရာမျက်နှာပြင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "carpool",
+      "pronunciation": "/ˈkɑːrˌpuːl/",
+      "forms": [
+        "carpools",
+        "carpooled"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လူများ ကားတစ်စီးကို အတူမျှဝေစီးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "leggings",
+      "pronunciation": "/ˈlɛɡɪŋz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်ကပ်ဘောင်းဘီရှည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "beatbox",
+      "pronunciation": "/ˈbiːtˌbɑːks/",
+      "forms": [
+        "beatboxes",
+        "beatboxed",
+        "beatboxing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပါးစပ်ဖြင့် ဒရမ်သံလို စည်းချက်အသံများ ဖန်တီးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "breakdance",
+      "pronunciation": "/ˈbreɪkˌdæns/",
+      "forms": [
+        "breakdances",
+        "breakdanced",
+        "breakdancing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လမ်းပေါ်စတိုင် အကပုံစံဖြင့် ကသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "concertgoer",
+      "pronunciation": "/ˈkɑːnsərtˌɡoʊər/",
+      "forms": [
+        "concertgoers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂီတဖျော်ဖြေပွဲ သွားကြည့်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "infographic",
+      "pronunciation": "/ˌɪnfoʊˈɡræfɪk/",
+      "forms": [
+        "infographics"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချက်အလက်ကို ပုံရိပ်များဖြင့် ရှင်းလင်းပြသထားသော ပုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trackerware",
+      "pronunciation": "/ˈtrækərˌwer/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသုံးပြုသူ၏ လုပ်ဆောင်မှုကို ခြေရာခံသည့် ဆော့ဖ်ဝဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "websocket",
+      "pronunciation": "/ˈwɛbˌsɑːkɪt/",
+      "forms": [
+        "websockets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝဘ်ဘရောက်ဇာနှင့် ဆာဗာကြား အမြဲချိတ်ဆက်ဆက်သွယ်သည့် နည်းပညာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "airplay",
+      "pronunciation": "/ˈerˌpleɪ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေဒီယို သို့မဟုတ် ရုပ်သံတွင် သီချင်းနှင့် အစီအစဉ်များ ထုတ်လွှင့်ပေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "backport",
+      "pronunciation": "/ˈbækˌpɔːrt/",
+      "forms": [
+        "backports",
+        "backported",
+        "backporting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဆော့ဖ်ဝဲလုပ်ဆောင်ချက်အသစ်ကို ဗားရှင်းအဟောင်းသို့ ပြန်ထည့်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "backtick",
+      "pronunciation": "/ˈbækˌtɪk/",
+      "forms": [
+        "backticks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာစာရေးရာတွင် အသုံးများသော နောက်စောင်း အမှတ်အသား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "blogosphere",
+      "pronunciation": "/ˈblɑːɡəˌsfɪr/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘလော့ဂ်များနှင့် ဘလော့ဂ်ရေးသူများ၏ အွန်လိုင်းလောက"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bytecode",
+      "pronunciation": "/ˈbaɪtˌkoʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပရိုဂရမ်ကို အလယ်အလတ် စက်ကုဒ်ပုံစံဖြင့် ပြောင်းထားသည့် ကုဒ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cacheable",
+      "pronunciation": "/ˈkæʃəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အမြန်ပြန်သုံးရန် ယာယီသိမ်းဆည်းနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "codebook",
+      "pronunciation": "/ˈkoʊdˌbʊk/",
+      "forms": [
+        "codebooks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကုဒ်များနှင့် အဓိပ္ပာယ်များ စုထားသော စာအုပ် သို့မဟုတ် စာရင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "datagram",
+      "pronunciation": "/ˈdeɪtəˌɡræm/",
+      "forms": [
+        "datagrams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ရက်ပေါ်တွင် သီးခြားပို့သော အချက်အလက်အထုပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dataflow",
+      "pronunciation": "/ˈdeɪtəˌfloʊ/",
+      "forms": [
+        "dataflows"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စနစ်တစ်ခုအတွင်း အချက်အလက် စီးဆင်းပုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "datastore",
+      "pronunciation": "/ˈdeɪtəˌstɔːr/",
+      "forms": [
+        "datastores"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချက်အလက်များ သိမ်းဆည်းရာ စနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "decompiler",
+      "pronunciation": "/ˌdiːkəmˈpaɪlər/",
+      "forms": [
+        "decompilers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပရိုဂရမ်စက်ကုဒ်ကို လူဖတ်နိုင်သော ကုဒ်သို့ ပြန်ပြောင်းသည့် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fansite",
+      "pronunciation": "/ˈfænˌsaɪt/",
+      "forms": [
+        "fansites"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပရိသတ်များ ဖန်တီးထားသော ဝဘ်ဆိုက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fansubber",
+      "pronunciation": "/ˈfænˌsʌbər/",
+      "forms": [
+        "fansubbers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုပ်ရှင် သို့မဟုတ် ကာတွန်းစာတန်းထိုးကို ပရိသတ်အဖြစ် ဘာသာပြန်ထည့်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hypervisor",
+      "pronunciation": "/ˈhaɪpərˌvaɪzər/",
+      "forms": [
+        "hypervisors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာတစ်လုံးပေါ်တွင် အတုစနစ်များ လည်ပတ်စေသည့် ဆော့ဖ်ဝဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "netbook",
+      "pronunciation": "/ˈnɛtˌbʊk/",
+      "forms": [
+        "netbooks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သေးငယ်ပေါ့ပါးသော လက်ပ်တော့ကွန်ပျူတာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "netizen",
+      "pronunciation": "/ˈnɛtɪzən/",
+      "forms": [
+        "netizens"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းအသိုင်းအဝိုင်းတွင် တက်ကြွပါဝင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "netcode",
+      "pronunciation": "/ˈnɛtˌkoʊd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းဂိမ်း၏ ကွန်ရက်ဆက်သွယ်မှုကို ထိန်းသည့် ကုဒ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "netiquette",
+      "pronunciation": "/ˈnɛtɪˌkɛt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းတွင် လိုက်နာသင့်သော ယဉ်ကျေးမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overclock",
+      "pronunciation": "/ˌoʊvərˈklɑːk/",
+      "forms": [
+        "overclocks",
+        "overclocked",
+        "overclocking"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ကွန်ပျူတာချစ်ပ်ကို သတ်မှတ်ထားသည့်နှုန်းထက် မြန်အောင် လည်ပတ်စေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "packetize",
+      "pronunciation": "/ˈpækɪˌtaɪz/",
+      "forms": [
+        "packetizes",
+        "packetized",
+        "packetizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အချက်အလက်ကို ကွန်ရက်ပို့ရန် အထုပ်ငယ်များ ခွဲသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "permalink",
+      "pronunciation": "/ˈpɝːməˌlɪŋk/",
+      "forms": [
+        "permalinks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမြဲတမ်းမပြောင်းလဲသည့် ဝဘ်လင့်ခ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "refactor",
+      "pronunciation": "/riːˈfæktər/",
+      "forms": [
+        "refactors",
+        "refactored",
+        "refactoring"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လုပ်ဆောင်ချက်မပြောင်းဘဲ ကုဒ်ဖွဲ့စည်းပုံကို ပြန်စီသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "screencap",
+      "pronunciation": "/ˈskriːnˌkæp/",
+      "forms": [
+        "screencaps"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျက်နှာပြင်ပုံ ဖမ်းထားသော ပုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "screensaver",
+      "pronunciation": "/ˈskriːnˌseɪvər/",
+      "forms": [
+        "screensavers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာမသုံးချိန် မျက်နှာပြင်ပေါ် အလိုအလျောက်ပေါ်သည့် ပုံရိပ်အစီအစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sideload",
+      "pronunciation": "/ˈsaɪdˌloʊd/",
+      "forms": [
+        "sideloads",
+        "sideloaded",
+        "sideloading"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တရားဝင်အက်ပ်စတိုးမဟုတ်သည့် လမ်းကြောင်းမှ အက်ပ် ထည့်သွင်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "signup",
+      "pronunciation": "/ˈsaɪnˌʌp/",
+      "forms": [
+        "signups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝန်ဆောင်မှုတစ်ခုအတွက် အကောင့်ဖွင့်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shortcode",
+      "pronunciation": "/ˈʃɔːrtˌkoʊd/",
+      "forms": [
+        "shortcodes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တိုတောင်းသော ကုဒ် သို့မဟုတ် အမိန့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spammer",
+      "pronunciation": "/ˈspæmər/",
+      "forms": [
+        "spammers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အနှောင့်အယှက်စာများ အများအပြားပို့သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spambot",
+      "pronunciation": "/ˈspæmˌbɑːt/",
+      "forms": [
+        "spambots"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အနှောင့်အယှက်စာများ အလိုအလျောက်ပို့သည့် ပရိုဂရမ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stylesheet",
+      "pronunciation": "/ˈstaɪlˌʃiːt/",
+      "forms": [
+        "stylesheets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာမျက်နှာအသွင်အပြင် စည်းမျဉ်းများ သတ်မှတ်ထားသော ဖိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "technobabble",
+      "pronunciation": "/ˈtɛknoʊˌbæbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နည်းပညာစကားလုံးများ အလွန်အကျွံသုံးပြီး နားလည်ရခက်သော စကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "touchpoint",
+      "pronunciation": "/ˈtʌtʃˌpɔɪnt/",
+      "forms": [
+        "touchpoints"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူတစ်ဦးနှင့် ဝန်ဆောင်မှု သို့မဟုတ် အဖွဲ့အစည်း ထိတွေ့ဆက်ဆံရာ အချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trackback",
+      "pronunciation": "/ˈtrækˌbæk/",
+      "forms": [
+        "trackbacks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘလော့ဂ်တစ်ခုက အခြားဘလော့ဂ်ကို ရည်ညွှန်းထားကြောင်း အသိပေးသည့် လင့်ခ်စနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uninstaller",
+      "pronunciation": "/ˌʌnɪnˈstɔːlər/",
+      "forms": [
+        "uninstallers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပရိုဂရမ်တစ်ခု ဖယ်ရှားရန် အသုံးပြုသည့် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "upvote",
+      "pronunciation": "/ˈʌpˌvoʊt/",
+      "forms": [
+        "upvotes",
+        "upvoted",
+        "upvoting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အွန်လိုင်းပို့စ်ကို ထောက်ခံကြောင်း မဲပေးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "downvote",
+      "pronunciation": "/ˈdaʊnˌvoʊt/",
+      "forms": [
+        "downvotes",
+        "downvoted",
+        "downvoting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အွန်လိုင်းပို့စ်ကို မထောက်ခံကြောင်း မဲပေးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "userland",
+      "pronunciation": "/ˈjuːzərˌlænd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လည်ပတ်စနစ်၏ အသုံးပြုသူအဆင့် ပရိုဂရမ်နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "videoblog",
+      "pronunciation": "/ˈvɪdioʊˌblɑːɡ/",
+      "forms": [
+        "videoblogs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဗီဒီယိုများဖြင့် တင်ဆက်သော ဘလော့ဂ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "videoblogger",
+      "pronunciation": "/ˈvɪdioʊˌblɑːɡər/",
+      "forms": [
+        "videobloggers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဗီဒီယိုဘလော့ဂ် ဖန်တီးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "virtualize",
+      "pronunciation": "/ˈvɝːtʃuəˌlaɪz/",
+      "forms": [
+        "virtualizes",
+        "virtualized",
+        "virtualizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ကွန်ပျူတာအရင်းအမြစ်ကို အတုပုံစံဖြင့် ဖန်တီးအသုံးပြုစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "webhook",
+      "pronunciation": "/ˈwɛbˌhʊk/",
+      "forms": [
+        "webhooks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဖြစ်အပျက်တစ်ခုဖြစ်လျှင် အခြားစနစ်သို့ အလိုအလျောက်အချက်ပို့သည့် နည်းလမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "webmail",
+      "pronunciation": "/ˈwɛbˌmeɪl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝဘ်ဘရောက်ဇာမှ သုံးနိုင်သော အီးမေးလ်ဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wormable",
+      "pronunciation": "/ˈwɝːməbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလိုအလျောက်ကူးစက်ပျံ့နှံ့သည့် ကွန်ပျူတာပိုးဆော့ဖ်ဝဲက တိုက်ခိုက်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bokeh",
+      "pronunciation": "/ˈboʊkeɪ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နောက်ခံအလင်းဝိုင်းများ မှုန်ဝါးလှပသည့် ဓာတ်ပုံအကျိုးသက်ရောက်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "camerawoman",
+      "pronunciation": "/ˈkæmərəˌwʊmən/",
+      "forms": [
+        "camerawomen"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမျိုးသမီး ကင်မရာရိုက်ကူးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "featurette",
+      "pronunciation": "/ˌfiːtʃərˈɛt/",
+      "forms": [
+        "featurettes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တိုတောင်းသော အထူးဗီဒီယို သို့မဟုတ် မှတ်တမ်းအစီအစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "filmography",
+      "pronunciation": "/fɪlˈmɑːɡrəfi/",
+      "forms": [
+        "filmographies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုပ်ရှင်ဖန်တီးမှုများ၏ စာရင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "filmstrip",
+      "pronunciation": "/ˈfɪlmˌstrɪp/",
+      "forms": [
+        "filmstrips"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုံရိပ်များ ဆက်တိုက်ပါသော ဖလင်အပိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rescore",
+      "pronunciation": "/riːˈskɔːr/",
+      "forms": [
+        "rescores",
+        "rescored",
+        "rescoring"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ရုပ်ရှင် သို့မဟုတ် ဗီဒီယိုအတွက် တေးဂီတအသစ် ပြန်ရေးထည့်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spotlit",
+      "pronunciation": "/ˈspɑːtˌlɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မီးမောင်းထိုးထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "widescreen",
+      "pronunciation": "/ˈwaɪdˌskriːn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အကျယ်အဝန်းပိုသော ရုပ်ပုံမျက်နှာပြင်စနစ်ဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "antiheroism",
+      "pronunciation": "/ˌæntiˈhɪroʊˌɪzəm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရိုးရာသူရဲကောင်းပုံစံကို ဆန့်ကျင်သော ဇာတ်ကောင်ဆန်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "canonize",
+      "pronunciation": "/ˈkænəˌnaɪz/",
+      "forms": [
+        "canonizes",
+        "canonized",
+        "canonizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "သူတော်စင်အဖြစ် တရားဝင်ကြေညာသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "creepypasta",
+      "pronunciation": "/ˈkriːpiˌpɑːstə/",
+      "forms": [
+        "creepypastas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းတွင် မျှဝေပျံ့နှံ့သော ကြောက်စရာဇာတ်လမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fancast",
+      "pronunciation": "/ˈfænˌkæst/",
+      "forms": [
+        "fancasts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇာတ်ကောင်အတွက် သင့်တော်မည့် သရုပ်ဆောင်ကို ပရိသတ်က စိတ်ကူးရွေးချယ်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fanfiction",
+      "pronunciation": "/ˈfænˌfɪkʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရှိပြီးသား ဇာတ်ကောင်များကို အသုံးပြုပြီး ပရိသတ်ရေးသော ဝတ္ထု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fanvid",
+      "pronunciation": "/ˈfænˌvɪd/",
+      "forms": [
+        "fanvids"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပရိသတ်ဖန်တီးထားသော ဗီဒီယို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "liveblog",
+      "pronunciation": "/ˈlaɪvˌblɑːɡ/",
+      "forms": [
+        "liveblogs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖြစ်ရပ်တစ်ခုကို အချိန်နှင့်တပြေးညီ စာဖြင့်တင်ပြသည့် ဘလော့ဂ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "recapper",
+      "pronunciation": "/riːˈkæpər/",
+      "forms": [
+        "recappers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖြစ်ပျက်ခဲ့သည်များကို အကျဉ်းချုပ် ပြန်တင်ပြသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spoilerish",
+      "pronunciation": "/ˈspɔɪlərɪʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဇာတ်လမ်းအရေးကြီးအချက် ပေါက်ကြားနိုင်သည့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "barware",
+      "pronunciation": "/ˈbɑːrˌwer/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချိုရည်နှင့် သောက်စရာပြင်ရာတွင် သုံးသည့် ပစ္စည်းများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bedhead",
+      "pronunciation": "/ˈbɛdˌhɛd/",
+      "forms": [
+        "bedheads"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိပ်ရာနိုးပြီး ဆံပင်ရှုပ်နေသည့်ပုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bedsore",
+      "pronunciation": "/ˈbɛdˌsɔːr/",
+      "forms": [
+        "bedsores"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချိန်ကြာကြာ လဲနေခြင်းကြောင့် ဖြစ်သော ဖိအားအနာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bedwetting",
+      "pronunciation": "/ˈbɛdˌwɛtɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိပ်နေစဉ် ဆီးမထိန်းနိုင်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "birdbath",
+      "pronunciation": "/ˈbɝːdˌbæθ/",
+      "forms": [
+        "birdbaths"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ငှက်များ ရေချိုးသောက်ရန် ထားသော ရေတိမ်ကန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "breadmaker",
+      "pronunciation": "/ˈbrɛdˌmeɪkər/",
+      "forms": [
+        "breadmakers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပေါင်မုန့် အလိုအလျောက်ဖုတ်သည့် စက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cupholder",
+      "pronunciation": "/ˈkʌpˌhoʊldər/",
+      "forms": [
+        "cupholders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခွက်ထည့်ထားရန် နေရာ သို့မဟုတ် ကွင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dishpan",
+      "pronunciation": "/ˈdɪʃˌpæn/",
+      "forms": [
+        "dishpans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပန်းကန်ဆေးရန် အသုံးပြုသည့် ရေထည့်အိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dishware",
+      "pronunciation": "/ˈdɪʃˌwer/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပန်းကန်ခွက်ယောက်များ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "eggbeater",
+      "pronunciation": "/ˈɛɡˌbiːtər/",
+      "forms": [
+        "eggbeaters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥမွှေရန် အသုံးပြုသည့် ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "footrest",
+      "pronunciation": "/ˈfʊtˌrɛst/",
+      "forms": [
+        "footrests"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခြေထောက်တင်ရန် အထောက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "homeware",
+      "pronunciation": "/ˈhoʊmˌwer/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိမ်တွင်းအသုံးအဆောင် ပစ္စည်းများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lunchbox",
+      "pronunciation": "/ˈlʌntʃˌbɑːks/",
+      "forms": [
+        "lunchboxes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နေ့လယ်စာထည့်သည့် ဘူး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nightlight",
+      "pronunciation": "/ˈnaɪtˌlaɪt/",
+      "forms": [
+        "nightlights"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ညဘက် အလင်းနည်းနည်းပေးသည့် မီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ovenproof",
+      "pronunciation": "/ˈʌvənˌpruːf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မီးဖိုအပူကို ခံနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "showercap",
+      "pronunciation": "/ˈʃaʊərˌkæp/",
+      "forms": [
+        "showercaps"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေချိုးချိန် ဆံပင်မစိုအောင် ဆောင်းသည့် အဖုံး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "washstand",
+      "pronunciation": "/ˈwɑːʃˌstænd/",
+      "forms": [
+        "washstands"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျက်နှာသစ်ရန် အင်တုံတင်ထားသည့် စင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bagman",
+      "pronunciation": "/ˈbæɡˌmæn/",
+      "forms": [
+        "bagmen"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ငွေ သို့မဟုတ် လျှို့ဝှက်ပစ္စည်း သယ်ပို့ပေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dockworker",
+      "pronunciation": "/ˈdɑːkˌwɝːkər/",
+      "forms": [
+        "dockworkers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆိပ်ကမ်းတွင် ကုန်တင်ကုန်ချလုပ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dogcatcher",
+      "pronunciation": "/ˈdɔːɡˌkætʃər/",
+      "forms": [
+        "dogcatchers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လမ်းလွတ်ခွေးများ ဖမ်းဆီးထိန်းသိမ်းသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "doorwoman",
+      "pronunciation": "/ˈdɔːrˌwʊmən/",
+      "forms": [
+        "doorwomen"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဆောက်အအုံဝင်ပေါက်တွင် စောင့်ကြည့်ကြိုဆိုသည့် အမျိုးသမီးဝန်ထမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "landscaper",
+      "pronunciation": "/ˈlændˌskeɪpər/",
+      "forms": [
+        "landscapers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥယျာဉ်နှင့် ပြင်ပမြေကွက် အလှဆင်ပြုပြင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "longshoreman",
+      "pronunciation": "/ˈlɔːŋˌʃɔːrmən/",
+      "forms": [
+        "longshoremen"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆိပ်ကမ်းတွင် သင်္ဘောကုန်တင်ကုန်ချလုပ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nightwatchman",
+      "pronunciation": "/ˈnaɪtˌwɑːtʃmən/",
+      "forms": [
+        "nightwatchmen"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ညဘက် အဆောက်အအုံစောင့်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pawnbroker",
+      "pronunciation": "/ˈpɔːnˌbroʊkər/",
+      "forms": [
+        "pawnbrokers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပစ္စည်းအပေါင်ခံပြီး ငွေချေးပေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stevedore",
+      "pronunciation": "/ˈstiːvəˌdɔːr/",
+      "forms": [
+        "stevedores"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆိပ်ကမ်းတွင် သင်္ဘောကုန်တင်ကုန်ချလုပ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "zookeeper",
+      "pronunciation": "/ˈzuːˌkiːpər/",
+      "forms": [
+        "zookeepers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တိရစ္ဆာန်ရုံတွင် တိရစ္ဆာန်များ စောင့်ရှောက်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "airgun",
+      "pronunciation": "/ˈerˌɡʌn/",
+      "forms": [
+        "airguns"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေဖိအားဖြင့် ပစ်ခတ်သည့် သေနတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "antivenom",
+      "pronunciation": "/ˌæntiˈvɛnəm/",
+      "forms": [
+        "antivenoms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဆိပ်ရှိသတ္တဝါကိုက်မှုကို ကုသရန် သုံးသော ဆေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cardiogram",
+      "pronunciation": "/ˈkɑːrdioʊˌɡræm/",
+      "forms": [
+        "cardiograms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နှလုံးလှုပ်ရှားမှု မှတ်တမ်းပုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chemo",
+      "pronunciation": "/ˈkiːmoʊ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကင်ဆာကုသရာတွင် သုံးသော ဆေးဝါးကုထုံး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gastroscopy",
+      "pronunciation": "/ɡæˈstrɑːskəpi/",
+      "forms": [
+        "gastroscopies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစာအိမ်ကို ကင်မရာပါပြွန်ဖြင့် စစ်ဆေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sonography",
+      "pronunciation": "/səˈnɑːɡrəfi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသံလှိုင်းဖြင့် ကိုယ်တွင်းအင်္ဂါများကို ပုံဖော်စစ်ဆေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "narcoleptic",
+      "pronunciation": "/ˌnɑːrkoʊˈlɛptɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရုတ်တရက် အိပ်ပျော်တတ်သော ရောဂါနှင့် သက်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "blogroll",
+      "pronunciation": "/ˈblɑːɡˌroʊl/",
+      "forms": [
+        "blogrolls"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘလော့ဂ်တစ်ခုတွင် အခြားဘလော့ဂ်လင့်ခ်များ စုထားသည့်စာရင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "demoscene",
+      "pronunciation": "/ˈdɛmoʊˌsiːn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာပရိုဂရမ်ဖြင့် ရုပ်သံနှင့် အသံပြပွဲများ ဖန်တီးသော အနုပညာအသိုင်းအဝိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fansub",
+      "pronunciation": "/ˈfænˌsʌb/",
+      "forms": [
+        "fansubs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပရိသတ်များ ကိုယ်တိုင် ဘာသာပြန်ထည့်ထားသော စာတန်းထိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "firewalled",
+      "pronunciation": "/ˈfaɪərˌwɔːld/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကွန်ရက်လုံခြုံရေးတံခါးဖြင့် ကာကွယ်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "geoblock",
+      "pronunciation": "/ˈdʒiːoʊˌblɑːk/",
+      "forms": [
+        "geoblocks",
+        "geoblocked",
+        "geoblocking"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တည်နေရာအလိုက် အွန်လိုင်းအကြောင်းအရာ ဝင်ရောက်မှုကို ပိတ်ပင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "geofenced",
+      "pronunciation": "/ˈdʒiːoʊˌfɛnst/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သတ်မှတ်ထားသော တည်နေရာဒစ်ဂျစ်တယ်နယ်နိမိတ်ဖြင့် ကန့်သတ်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "infostealer",
+      "pronunciation": "/ˈɪnfoʊˌstiːlər/",
+      "forms": [
+        "infostealers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်ရေးအချက်အလက်များ ခိုးယူရန် ရည်ရွယ်သည့် မကောင်းဆော့ဖ်ဝဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jailbroken",
+      "pronunciation": "/ˈdʒeɪlˌbroʊkən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ထုတ်လုပ်သူက ချထားသည့် စနစ်ကန့်သတ်ချက်များ ဖယ်ရှားထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "keylogging",
+      "pronunciation": "/ˈkiːˌlɔːɡɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကီးဘုတ်နှိပ်ချက်များကို လျှို့ဝှက်မှတ်တမ်းတင်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "microblogging",
+      "pronunciation": "/ˈmaɪkroʊˌblɑːɡɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာတို သို့မဟုတ် ပို့စ်တိုများဖြင့် အွန်လိုင်းတင်ပြခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sandboxing",
+      "pronunciation": "/ˈsændˌbɑːksɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပရိုဂရမ်တစ်ခုကို အခြားစနစ်မှ ခွဲထားသော လုံခြုံသည့်နေရာတွင် လည်ပတ်စေခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "softlock",
+      "pronunciation": "/ˈsɔːftˌlɑːk/",
+      "forms": [
+        "softlocks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပရိုဂရမ် သို့မဟုတ် ဂိမ်း ဆက်မလုပ်နိုင်တော့ပေမယ့် လုံးဝမပျက်သွားသည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dailies",
+      "pronunciation": "/ˈdeɪliz/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရိုက်ကူးပြီးသည့်နေ့တွင် ပြန်ကြည့်ရန် ပြင်ဆင်ထားသော မပြုပြင်ရသေးသည့် ရုပ်ရှင်ရိုက်ချက်များ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overdubber",
+      "pronunciation": "/ˈoʊvərˌdʌbər/",
+      "forms": [
+        "overdubbers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မူရင်းအသံပေါ် အသံအသစ် ထပ်သွင်းသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "photoplay",
+      "pronunciation": "/ˈfoʊtoʊˌpleɪ/",
+      "forms": [
+        "photoplays"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုပ်ရှင်ဇာတ်လမ်း သို့မဟုတ် ရုပ်ရှင်အတွက် ရေးထားသော ဇာတ်ညွှန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "preproduction",
+      "pronunciation": "/ˌpriːprəˈdʌkʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုပ်ရှင် သို့မဟုတ် အစီအစဉ် မရိုက်မီ ပြင်ဆင်စီစဉ်သည့် အဆင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "antifandom",
+      "pronunciation": "/ˈæntiˌfændəm/",
+      "forms": [
+        "antifandoms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အနုပညာရှင် သို့မဟုတ် အကြောင်းအရာတစ်ခုကို ဆန့်ကျင်ဝေဖန်သည့် ပရိသတ်အသိုင်းအဝိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fancasting",
+      "pronunciation": "/ˈfænˌkæstɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဇာတ်ကောင်အတွက် သင့်တော်မည့် သရုပ်ဆောင်ကို ပရိသတ်က စိတ်ကူးရွေးချယ်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "liveblogging",
+      "pronunciation": "/ˈlaɪvˌblɑːɡɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖြစ်ရပ်တစ်ခုကို အချိန်နှင့်တပြေးညီ စာဖြင့် တင်ဆက်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "subtitled",
+      "pronunciation": "/ˈsʌbˌtaɪtəld/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စာတန်းထိုး ထည့်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "autodelete",
+      "pronunciation": "/ˌɔːtoʊdɪˈliːt/",
+      "forms": [
+        "autodeletes",
+        "autodeleted",
+        "autodeleting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "သတ်မှတ်ချက်အရ ဖိုင် သို့မဟုတ် စာကို အလိုအလျောက်ဖျက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "autopause",
+      "pronunciation": "/ˌɔːtoʊˈpɔːz/",
+      "forms": [
+        "autopauses",
+        "autopaused",
+        "autopausing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အခြေအနေတစ်ခုဖြစ်သည့်အခါ အလိုအလျောက်ရပ်နားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "autoresponder",
+      "pronunciation": "/ˌɔːtoʊrɪˈspɑːndər/",
+      "forms": [
+        "autoresponders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝင်လာသောစာကို အလိုအလျောက်ပြန်ဖြေသည့် စနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "browserless",
+      "pronunciation": "/ˈbraʊzərləs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဝဘ်ဘရောက်ဇာမလိုဘဲ လည်ပတ်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "devops",
+      "pronunciation": "/ˈdɛvˌɑːps/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆော့ဖ်ဝဲဖွံ့ဖြိုးမှုနှင့် စနစ်လည်ပတ်မှုကို ပေါင်းစပ်လုပ်ဆောင်သည့် နည်းလမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "framebuffer",
+      "pronunciation": "/ˈfreɪmˌbʌfər/",
+      "forms": [
+        "framebuffers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျက်နှာပြင်ပေါ်ပြမည့် ပုံဒေတာကို ယာယီသိမ်းထားသည့် မှတ်ဉာဏ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hashable",
+      "pronunciation": "/ˈhæʃəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဟက်ရှ်တန်ဖိုးတွက်ချက်ပြီး ကီးအဖြစ် အသုံးပြုနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "postproduction",
+      "pronunciation": "/ˌpoʊstprəˈdʌkʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရိုက်ကူးပြီးနောက် တည်းဖြတ် အသံနှင့် အထူးအကျိုးသက်ရောက်မှုလုပ်သည့် အဆင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "auditionee",
+      "pronunciation": "/ɔːˌdɪʃəˈniː/",
+      "forms": [
+        "auditionees"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သရုပ်ဆောင် သို့မဟုတ် အဆို စမ်းသပ်ရွေးချယ်မှု ဝင်ဖြေသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "photocall",
+      "pronunciation": "/ˈfoʊtoʊˌkɔːl/",
+      "forms": [
+        "photocalls"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သတင်းဓာတ်ပုံရိုက်ရန် လူသိများသူများ စုဝေးပေးသည့် အခမ်းအနား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "audiogram",
+      "pronunciation": "/ˈɔːdioʊˌɡræm/",
+      "forms": [
+        "audiograms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသံကြားနိုင်စွမ်းကို မှတ်တမ်းပုံဖြင့် ပြထားသည့်ဇယား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "videocast",
+      "pronunciation": "/ˈvɪdioʊˌkæst/",
+      "forms": [
+        "videocasts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းမှ ထုတ်လွှင့်သည့် ဗီဒီယိုအစီအစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "screenlife",
+      "pronunciation": "/ˈskriːnˌlaɪf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာ သို့မဟုတ် ဖုန်းမျက်နှာပြင်ပေါ် လုပ်ဆောင်မှုများကို အဓိကပြသသည့် ရုပ်ရှင်ပုံစံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "playtester",
+      "pronunciation": "/ˈpleɪˌtɛstər/",
+      "forms": [
+        "playtesters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂိမ်းမထုတ်မီ ကစားစမ်းသပ်ပြီး အမှားရှာသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "clickstream",
+      "pronunciation": "/ˈklɪkˌstriːm/",
+      "forms": [
+        "clickstreams"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝဘ်ဆိုက်အသုံးပြုသူ၏ နှိပ်သွားလာမှုအစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "infosec",
+      "pronunciation": "/ˈɪnfoʊˌsɛk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချက်အလက်လုံခြုံရေးနယ်ပယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "abdominoplasty",
+      "pronunciation": "/æbˈdɑːmɪnoʊˌplæsti/",
+      "forms": [
+        "abdominoplasties"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝမ်းဗိုက်ပိုနေသော အရေပြားနှင့် အဆီကို ခွဲစိတ်ဖယ်ရှားပုံဖော်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "achromatopsia",
+      "pronunciation": "/eɪˌkroʊməˈtɑːpsiə/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရောင်များကို မခွဲခြားနိုင်သည့် မျက်စိအခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adrenalectomy",
+      "pronunciation": "/əˌdriːnəˈlɛktəmi/",
+      "forms": [
+        "adrenalectomies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဒရီနယ်ဂလင်းကို ခွဲစိတ်ဖယ်ရှားခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "aerosolize",
+      "pronunciation": "/əˈrɑːsəˌlaɪz/",
+      "forms": [
+        "aerosolizes",
+        "aerosolized",
+        "aerosolizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အရည် သို့မဟုတ် အမှုန့်ကို လေထဲပြန့်နိုင်သည့် အမှုန်ငယ်များအဖြစ် ပြောင်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "afebrile",
+      "pronunciation": "/eɪˈfɛbraɪl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကိုယ်အပူချိန်မတက်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "allergenicity",
+      "pronunciation": "/ˌælərdʒəˈnɪsəti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဓာတ်မတည့်တုံ့ပြန်မှု ဖြစ်စေနိုင်စွမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "antipyretic",
+      "pronunciation": "/ˌæntipaɪˈrɛtɪk/",
+      "forms": [
+        "antipyretics"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖျားနာချိန် ကိုယ်အပူချိန် လျော့စေသော ဆေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "audiologist",
+      "pronunciation": "/ˌɔːdiˈɑːlədʒɪst/",
+      "forms": [
+        "audiologists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နားကြားမှုနှင့် ဆိုင်သော ပြဿနာများ စစ်ဆေးကုသသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bacteremia",
+      "pronunciation": "/ˌbæktəˈriːmiə/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သွေးထဲတွင် ဘက်တီးရီးယား ရှိနေသည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bronchoscopy",
+      "pronunciation": "/brɑːŋˈkɑːskəpi/",
+      "forms": [
+        "bronchoscopies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသက်ရှူလမ်းကြောင်းကို ကင်မရာပါပြွန်ဖြင့် စစ်ဆေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "coagulopathy",
+      "pronunciation": "/koʊˌæɡjuˈlɑːpəθi/",
+      "forms": [
+        "coagulopathies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သွေးခဲမှု ပုံမှန်မဖြစ်သည့် ရောဂါအခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "craniotomy",
+      "pronunciation": "/ˌkreɪniˈɑːtəmi/",
+      "forms": [
+        "craniotomies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဦးခေါင်းခွံကို ဖွင့်၍ ခွဲစိတ်ကုသခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "electrocardiography",
+      "pronunciation": "/ɪˌlɛktroʊˌkɑːrdiˈɑːɡrəfi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နှလုံးလျှပ်စစ်လှုပ်ရှားမှုကို မှတ်တမ်းတင်စစ်ဆေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "endotracheal",
+      "pronunciation": "/ˌɛndoʊˈtreɪkiəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အသက်ရှူပြွန်အတွင်းသို့ သက်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gastroenterologist",
+      "pronunciation": "/ˌɡæstroʊˌɛntəˈrɑːlədʒɪst/",
+      "forms": [
+        "gastroenterologists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစာခြေစနစ်ရောဂါများ အထူးကုဆရာဝန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hematologist",
+      "pronunciation": "/ˌhiːməˈtɑːlədʒɪst/",
+      "forms": [
+        "hematologists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သွေးရောဂါများ အထူးကုဆရာဝန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hepatology",
+      "pronunciation": "/ˌhɛpəˈtɑːlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသည်းနှင့် ဆိုင်သော ရောဂါများ လေ့လာကုသသည့် ဆေးပညာနယ်ပယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "immunosuppressant",
+      "pronunciation": "/ˌɪmjənoʊsəˈprɛsənt/",
+      "forms": [
+        "immunosuppressants"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်ခံအားတုံ့ပြန်မှုကို လျော့စေသော ဆေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "neurologically",
+      "pronunciation": "/ˌnʊrəˈlɑːdʒɪkli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အာရုံကြောစနစ်နှင့် သက်ဆိုင်သည့် အနေဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "osteopenia",
+      "pronunciation": "/ˌɑːstioʊˈpiːniə/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရိုးသိပ်သည်းဆ ပုံမှန်ထက် နည်းနေသည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sonographer",
+      "pronunciation": "/səˈnɑːɡrəfər/",
+      "forms": [
+        "sonographers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသံလှိုင်းစက်ဖြင့် ကိုယ်တွင်းအင်္ဂါပုံရိပ် ရိုက်စစ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tracheostomy",
+      "pronunciation": "/ˌtreɪkiˈɑːstəmi/",
+      "forms": [
+        "tracheostomies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသက်ရှူရန် လည်ချောင်းတွင် အပေါက်ဖွင့်ထားသည့် ခွဲစိတ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vasodilator",
+      "pronunciation": "/ˌveɪzoʊˈdaɪleɪtər/",
+      "forms": [
+        "vasodilators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သွေးကြောများ ကျယ်စေသော ဆေး သို့မဟုတ် ပစ္စည်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sickbed",
+      "pronunciation": "/ˈsɪkˌbɛd/",
+      "forms": [
+        "sickbeds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နာမကျန်းသူ လဲလျောင်းနေရသည့် အိပ်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "aggravator",
+      "pronunciation": "/ˈæɡrəˌveɪtər/",
+      "forms": [
+        "aggravators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခြေအနေကို ပိုဆိုးစေသော အကြောင်းရင်း သို့မဟုတ် လူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "codefendant",
+      "pronunciation": "/ˌkoʊdɪˈfɛndənt/",
+      "forms": [
+        "codefendants"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမှုတစ်ခုတည်းတွင် အတူတရားစွဲခံရသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crossclaim",
+      "pronunciation": "/ˈkrɔːsˌkleɪm/",
+      "forms": [
+        "crossclaims"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမှုတွဲဖက်တစ်ဦးက အခြားတွဲဖက်တစ်ဦးအပေါ် တင်သွင်းသော တောင်းဆိုချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disbar",
+      "pronunciation": "/dɪsˈbɑːr/",
+      "forms": [
+        "disbars",
+        "disbarred",
+        "disbarring"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ရှေ့နေလိုင်စင်ကို ပယ်ဖျက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lawbreaker",
+      "pronunciation": "/ˈlɔːˌbreɪkər/",
+      "forms": [
+        "lawbreakers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေချိုးဖောက်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "noncustodial",
+      "pronunciation": "/ˌnɑːnkʌˈstoʊdiəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကလေးကို အဓိကစောင့်ရှောက်ခွင့် မရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tortfeasor",
+      "pronunciation": "/ˈtɔːrtˌfiːzər/",
+      "forms": [
+        "tortfeasors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခြားသူကို အရပ်ဘက်နစ်နာမှု ဖြစ်စေသောသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crimelord",
+      "pronunciation": "/ˈkraɪmˌlɔːrd/",
+      "forms": [
+        "crimelords"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရာဇဝတ်ကွန်ရက်ကြီးကို ထိန်းချုပ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "aerostat",
+      "pronunciation": "/ˈeroʊˌstæt/",
+      "forms": [
+        "aerostats"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေထက်ပေါ့သောဓာတ်ငွေ့ဖြင့် လေထဲတင်ထားသည့် ပူဖောင်းသို့မဟုတ် လေယာဉ်ပုံစံကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "astrophotography",
+      "pronunciation": "/ˌæstroʊfəˈtɑːɡrəfi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြယ်နှင့် အာကာသအရာဝတ္ထုများကို ဓာတ်ပုံရိုက်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "biomechanics",
+      "pronunciation": "/ˌbaɪoʊməˈkænɪks/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သက်ရှိကိုယ်ခန္ဓာလှုပ်ရှားမှုကို အင်အားနှင့် ရုပ်ဗေဒအရ လေ့လာခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "biomimicry",
+      "pronunciation": "/ˌbaɪoʊˈmɪməkri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သဘာဝရှိ ပုံစံနှင့် နည်းလမ်းများကို အတုယူ၍ နည်းပညာဖန်တီးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hydroponics",
+      "pronunciation": "/ˌhaɪdrəˈpɑːnɪks/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြေမသုံးဘဲ အာဟာရပါရေဖြင့် အပင်စိုက်ပျိုးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "superconductor",
+      "pronunciation": "/ˌsuːpərkənˈdʌktər/",
+      "forms": [
+        "superconductors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလွန်နိမ့်အပူချိန်တွင် လျှပ်စစ်ခုခံမှု မရှိသလောက် ဖြစ်သောပစ္စည်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bioaccumulate",
+      "pronunciation": "/ˌbaɪoʊəˈkjuːmjəˌleɪt/",
+      "forms": [
+        "bioaccumulates",
+        "bioaccumulated",
+        "bioaccumulating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အဆိပ်ဓာတ် သို့မဟုတ် ပစ္စည်းတစ်မျိုး သက်ရှိခန္ဓာကိုယ်ထဲ တဖြည်းဖြည်း စုဝေးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bioaccumulation",
+      "pronunciation": "/ˌbaɪoʊəkjuːmjəˈleɪʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဓာတ်ပစ္စည်းများ သက်ရှိခန္ဓာကိုယ်ထဲ တဖြည်းဖြည်း စုဝေးလာခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "carbonize",
+      "pronunciation": "/ˈkɑːrbəˌnaɪz/",
+      "forms": [
+        "carbonizes",
+        "carbonized",
+        "carbonizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပစ္စည်းကို ကာဗွန်များပြားသည့် အခြေအနေသို့ ပြောင်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "greenwash",
+      "pronunciation": "/ˈɡriːnˌwɑːʃ/",
+      "forms": [
+        "greenwashes",
+        "greenwashed"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပတ်ဝန်းကျင်အတွက် ကောင်းသလို အလိမ်အညာပုံဖော်ကြော်ငြာသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "microbead",
+      "pronunciation": "/ˈmaɪkroʊˌbiːd/",
+      "forms": [
+        "microbeads"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလှကုန်နှင့် ပစ္စည်းများတွင် သုံးခဲ့သော ပလတ်စတစ်အမှုန်ငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "upcycle",
+      "pronunciation": "/ˈʌpˌsaɪkəl/",
+      "forms": [
+        "upcycles",
+        "upcycled"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပစ္စည်းဟောင်းကို ပိုတန်ဖိုးရှိသော ပစ္စည်းအသစ်အဖြစ် ပြန်ဖန်တီးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "antivenin",
+      "pronunciation": "/ˌæntiˈvɛnɪn/",
+      "forms": [
+        "antivenins"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဆိပ်ရှိသတ္တဝါကိုက်မှုကို ကုသရန် သုံးသော ဆန့်ကျင်အဆိပ်ဆေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "archaeogenetics",
+      "pronunciation": "/ˌɑːrkioʊdʒəˈnɛtɪks/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရှေးဟောင်းလူသားနှင့် သက်ရှိတို့၏ မျိုးဗီဇကို လေ့လာသော ပညာရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bioethicist",
+      "pronunciation": "/ˌbaɪoʊˈɛθəsɪst/",
+      "forms": [
+        "bioethicists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးပညာနှင့် ဇီဝနည်းပညာဆိုင်ရာ ကျင့်ဝတ်ကို လေ့လာသုံးသပ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bioplastic",
+      "pronunciation": "/ˌbaɪoʊˈplæstɪk/",
+      "forms": [
+        "bioplastics"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြန်လည်ဖြစ်ပေါ်နိုင်သော ဇီဝအရင်းအမြစ်များမှ ပြုလုပ်သော ပလတ်စတစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "anthropocene",
+      "pronunciation": "/ˈænθrəpəˌsiːn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူသားလုပ်ဆောင်မှုက ကမ္ဘာပတ်ဝန်းကျင်ကို အဓိကသက်ရောက်လာသော ခေတ်ဟု အဆိုပြုထားသည့် ကာလ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "amphibiousness",
+      "pronunciation": "/æmˈfɪbiəsnəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေနှင့် မြေပြင်နှစ်မျိုးလုံးတွင် လှုပ်ရှားနိုင်သည့် သဘော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "anglerfish",
+      "pronunciation": "/ˈæŋɡlərˌfɪʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဦးခေါင်းရှေ့မှ အလင်းရောင်ဆွဲဆောင်ကိရိယာရှိသော ပင်လယ်ငါး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "airburst",
+      "pronunciation": "/ˈerˌbɝːst/",
+      "forms": [
+        "airbursts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြေမထိမီ လေထဲတွင် ပေါက်ကွဲခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "airshow",
+      "pronunciation": "/ˈerˌʃoʊ/",
+      "forms": [
+        "airshows"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ်များဖြင့် ပျံသန်းပြသသည့် ပွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "airsick",
+      "pronunciation": "/ˈerˌsɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လေယာဉ်စီးရာတွင် မူးဝေအန်ချင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "backdraft",
+      "pronunciation": "/ˈbækˌdræft/",
+      "forms": [
+        "backdrafts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပိတ်ထားသည့် မီးလောင်ခန်းထဲ အောက်ဆီဂျင်ဝင်ချိန် ရုတ်တရက် မီးတောက်ပြန်ပေါက်ကွဲမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "backfill",
+      "pronunciation": "/ˈbækˌfɪl/",
+      "forms": [
+        "backfills",
+        "backfilled",
+        "backfilling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တူးထားသည့်နေရာကို မြေ သို့မဟုတ် ပစ္စည်းဖြင့် ပြန်ဖြည့်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "backlighting",
+      "pronunciation": "/ˈbækˌlaɪtɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရာဝတ္ထုနောက်ဘက်မှ အလင်းပေးသည့် နည်းလမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "birdwatching",
+      "pronunciation": "/ˈbɝːdˌwɑːtʃɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သဘာဝရှိ ငှက်များကို ကြည့်ရှုလေ့လာသည့် ဝါသနာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bushfire",
+      "pronunciation": "/ˈbʊʃˌfaɪər/",
+      "forms": [
+        "bushfires"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တောချုံနှင့် မြက်ခင်းများတွင် ပျံ့နှံ့လောင်ကျွမ်းသည့် မီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deepwater",
+      "pronunciation": "/ˈdiːpˌwɔːtər/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပင်လယ်ရေနက်ပိုင်းတွင် ဖြစ်ပေါ် သို့မဟုတ် အသုံးပြုသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dreamscape",
+      "pronunciation": "/ˈdriːmˌskeɪp/",
+      "forms": [
+        "dreamscapes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိပ်မက်ဆန်သော သို့မဟုတ် စိတ်ကူးယဉ်မြင်ကွင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ecoterrorism",
+      "pronunciation": "/ˌiːkoʊˈtɛrəˌrɪzəm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပတ်ဝန်းကျင်အကြောင်းပြ၍ အကြမ်းဖက်နည်းလမ်း သုံးသောလုပ်ရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "firebreak",
+      "pronunciation": "/ˈfaɪərˌbreɪk/",
+      "forms": [
+        "firebreaks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တောမီးမပြန့်စေရန် သစ်ပင်နှင့် မြက်များ ရှင်းထားသော အတားအဆီးလမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "flowerbed",
+      "pronunciation": "/ˈflaʊərˌbɛd/",
+      "forms": [
+        "flowerbeds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပန်းများ စိုက်ထားသည့် မြေကွက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "groundswell",
+      "pronunciation": "/ˈɡraʊndˌswɛl/",
+      "forms": [
+        "groundswells"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူထုအတွင်း တဖြည်းဖြည်းကြီးမားလာသော ထောက်ခံမှု သို့မဟုတ် မကျေနပ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hardscape",
+      "pronunciation": "/ˈhɑːrdˌskeɪp/",
+      "forms": [
+        "hardscapes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥယျာဉ်အလှဆင်ရာတွင် ကျောက် လမ်းခင်းနှင့် နံရံကဲ့သို့ ခိုင်မာပစ္စည်းများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "heatproof",
+      "pronunciation": "/ˈhiːtˌpruːf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အပူဒဏ်ကို ခံနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "icefall",
+      "pronunciation": "/ˈaɪsˌfɔːl/",
+      "forms": [
+        "icefalls"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေခဲမြစ်တွင် ရေခဲတုံးများ အဆင့်လိုက်ကျနေသည့် မတ်စောက်သောနေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "icepack",
+      "pronunciation": "/ˈaɪsˌpæk/",
+      "forms": [
+        "icepacks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အအေးပေးရန် ရေခဲ သို့မဟုတ် အေးခဲပစ္စည်းထည့်ထားသည့် အိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "audiometry",
+      "pronunciation": "/ˌɔːdiˈɑːmətri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နားကြားနိုင်စွမ်းကို တိုင်းတာစစ်ဆေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nephrologist",
+      "pronunciation": "/nəˈfrɑːlədʒɪst/",
+      "forms": [
+        "nephrologists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျောက်ကပ်ရောဂါ အထူးကုဆရာဝန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "radiographer",
+      "pronunciation": "/ˌreɪdiˈɑːɡrəfər/",
+      "forms": [
+        "radiographers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဓာတ်မှန်နှင့် ပုံရိပ်စစ်ဆေးမှုများ ပြုလုပ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "telepathology",
+      "pronunciation": "/ˌtɛləpəˈθɑːlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တစ်နေရာမှ အခြားနေရာသို့ ဒစ်ဂျစ်တယ်ပုံရိပ်ပို့၍ ရောဂါအသားစ စစ်ဆေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "neonatologist",
+      "pronunciation": "/ˌniːoʊneɪˈtɑːlədʒɪst/",
+      "forms": [
+        "neonatologists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မွေးကင်းစကလေးများ အထူးကုဆရာဝန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pharmacologist",
+      "pronunciation": "/ˌfɑːrməˈkɑːlədʒɪst/",
+      "forms": [
+        "pharmacologists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆေးဝါးများ၏ သက်ရောက်မှုကို လေ့လာသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pathophysiology",
+      "pronunciation": "/ˌpæθoʊˌfɪziˈɑːlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရောဂါကြောင့် ကိုယ်ခန္ဓာလုပ်ဆောင်ပုံ မည်သို့ပြောင်းလဲသည်ကို လေ့လာခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hematopathology",
+      "pronunciation": "/ˌhiːmətoʊpəˈθɑːlədʒi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သွေးနှင့် သွေးဖွဲ့အင်္ဂါရောဂါများကို ဓာတ်ခွဲလေ့လာသည့် ပညာရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jetlag",
+      "pronunciation": "/ˈdʒɛtˌlæɡ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချိန်ဇုန်များစွာ ဖြတ်သန်းခရီးသွားပြီးနောက် အိပ်ချိန်ပျက်နှင့် ပင်ပန်းသည့်အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overbook",
+      "pronunciation": "/ˌoʊvərˈbʊk/",
+      "forms": [
+        "overbooks",
+        "overbooking"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ရှိသည့်နေရာထက် လက်မှတ် သို့မဟုတ် ကြိုတင်မှာယူမှု ပိုလက်ခံသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bronzer",
+      "pronunciation": "/ˈbrɑːnzər/",
+      "forms": [
+        "bronzers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသားရောင်ကို နေလောင်သလို နွေးထွေးစေသည့် အလှကုန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "contouring",
+      "pronunciation": "/ˈkɑːntʊrɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျက်နှာပုံသဏ္ဌာန် ပိုထင်ရှားစေရန် အရောင်အလင်းအမှောင် ချိန်လိမ်းခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hairstylist",
+      "pronunciation": "/ˈherˌstaɪlɪst/",
+      "forms": [
+        "hairstylists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆံပင်ညှပ် ပုံဖော်နှင့် အလှဆင်ပေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tattooist",
+      "pronunciation": "/tæˈtuːɪst/",
+      "forms": [
+        "tattooists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေပြားပေါ် တက်တူးထိုးပေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bento",
+      "pronunciation": "/ˈbɛntoʊ/",
+      "forms": [
+        "bentos"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစားအစာအမျိုးမျိုးကို အကန့်လိုက်ထည့်ထားသည့် ဂျပန်စတိုင်ထမင်းဘူး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "breadstick",
+      "pronunciation": "/ˈbrɛdˌstɪk/",
+      "forms": [
+        "breadsticks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တုတ်ရှည်ပုံစံ ဖုတ်ထားသော ပေါင်မုန့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "teabag",
+      "pronunciation": "/ˈtiːˌbæɡ/",
+      "forms": [
+        "teabags"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်ဖက်ခြောက်ထည့်ထားသည့် စစ်အိတ်အသေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "telecommute",
+      "pronunciation": "/ˌtɛlɪkəˈmjuːt/",
+      "forms": [
+        "telecommutes",
+        "telecommuted"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ရုံးမသွားဘဲ အဝေးမှ နည်းပညာသုံး၍ အလုပ်လုပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "timesheet",
+      "pronunciation": "/ˈtaɪmˌʃiːt/",
+      "forms": [
+        "timesheets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဝန်ထမ်းလုပ်ခဲ့သည့် အလုပ်ချိန်များ မှတ်တမ်းတင်သည့် စာရွက် သို့မဟုတ် ဖိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "carjack",
+      "pronunciation": "/ˈkɑːrˌdʒæk/",
+      "forms": [
+        "carjacks",
+        "carjacked"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အင်အားသုံး၍ အခြားသူ၏ကားကို လုယူသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "drivetrain",
+      "pronunciation": "/ˈdraɪvˌtreɪn/",
+      "forms": [
+        "drivetrains"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အင်ဂျင်အင်အားကို ဘီးများသို့ ပို့ပေးသည့် ယာဉ်အစိတ်အပိုင်းစနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "highwayman",
+      "pronunciation": "/ˈhaɪˌweɪmən/",
+      "forms": [
+        "highwaymen"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လမ်းမပေါ်တွင် ခရီးသွားသူများကို လုယက်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tollway",
+      "pronunciation": "/ˈtoʊlˌweɪ/",
+      "forms": [
+        "tollways"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသုံးပြုခ ပေးရသော လမ်းမကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "backcourt",
+      "pronunciation": "/ˈbækˌkɔːrt/",
+      "forms": [
+        "backcourts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘတ်စကက်ဘောကွင်း၏ မိမိအသင်းဘက်ခြမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "barfly",
+      "pronunciation": "/ˈbɑːrˌflaɪ/",
+      "forms": [
+        "barflies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရက်ဆိုင်တွင် အချိန်အများကြီး ကုန်ဆုံးတတ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "barstool",
+      "pronunciation": "/ˈbɑːrˌstuːl/",
+      "forms": [
+        "barstools"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘားကောင်တာနားတွင် သုံးသည့် မြင့်သောထိုင်ခုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bellyflop",
+      "pronunciation": "/ˈbɛliˌflɑːp/",
+      "forms": [
+        "bellyflops"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေထဲခုန်ရာတွင် ဝမ်းဗိုက်ဖြင့် တိုက်ရိုက်ကျသည့်ပုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "carpooler",
+      "pronunciation": "/ˈkɑːrˌpuːlər/",
+      "forms": [
+        "carpoolers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခြားသူများနှင့် ကားတစ်စီးကို မျှဝေစီးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cashpoint",
+      "pronunciation": "/ˈkæʃˌpɔɪnt/",
+      "forms": [
+        "cashpoints"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘဏ်ကတ်ဖြင့် ငွေထုတ်နိုင်သည့် စက်နေရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cheesemaker",
+      "pronunciation": "/ˈtʃiːzˌmeɪkər/",
+      "forms": [
+        "cheesemakers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချိစ်ပြုလုပ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "childminder",
+      "pronunciation": "/ˈtʃaɪldˌmaɪndər/",
+      "forms": [
+        "childminders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိဘအစား ကလေးများကို စောင့်ရှောက်ပေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crashland",
+      "pronunciation": "/ˈkræʃˌlænd/",
+      "forms": [
+        "crashlands",
+        "crashlanded",
+        "crashlanding"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လေယာဉ် သို့မဟုတ် ယာဉ်ကို အရေးပေါ်ကြမ်းတမ်းစွာ ဆင်းသက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dogwalker",
+      "pronunciation": "/ˈdɔːɡˌwɔːkər/",
+      "forms": [
+        "dogwalkers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အခကြေးငွေယူ၍ အခြားသူ၏ခွေးကို လမ်းလျှောက်ပေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "endnote",
+      "pronunciation": "/ˈɛndˌnoʊt/",
+      "forms": [
+        "endnotes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာတမ်း သို့မဟုတ် စာအုပ်အဆုံးတွင် ထည့်ထားသော မှတ်ချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "eyeline",
+      "pronunciation": "/ˈaɪˌlaɪn/",
+      "forms": [
+        "eyelines"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူတစ်ဦး ကြည့်နေသည့် မျက်လုံးတန်းနှင့် ဦးတည်ချက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "filmgoer",
+      "pronunciation": "/ˈfɪlmˌɡoʊər/",
+      "forms": [
+        "filmgoers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရုပ်ရှင်ရုံသို့ ပုံမှန်သွားကြည့်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "goaltender",
+      "pronunciation": "/ˈɡoʊlˌtɛndər/",
+      "forms": [
+        "goaltenders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂိုးကို ကာကွယ်ရသည့် ကစားသမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "handbrake",
+      "pronunciation": "/ˈhændˌbreɪk/",
+      "forms": [
+        "handbrakes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရပ်ထားသည့်ယာဉ် မရွေ့စေရန် လက်ဖြင့်အသုံးပြုသော ဘရိတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "handhold",
+      "pronunciation": "/ˈhændˌhoʊld/",
+      "forms": [
+        "handholds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုင်ထားရန် ပြုလုပ်ထားသော နေရာ သို့မဟုတ် လက်ကိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "headcase",
+      "pronunciation": "/ˈhɛdˌkeɪs/",
+      "forms": [
+        "headcases"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စိတ်အခြေအနေ မတည်ငြိမ်သည့်သူကို မလေးစားဘဲ ခေါ်သည့် စကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "helpline",
+      "pronunciation": "/ˈhɛlpˌlaɪn/",
+      "forms": [
+        "helplines"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အကြံဉာဏ် သို့မဟုတ် အကူအညီရရန် ခေါ်ဆိုနိုင်သည့် ဖုန်းဝန်ဆောင်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "homebuyer",
+      "pronunciation": "/ˈhoʊmˌbaɪər/",
+      "forms": [
+        "homebuyers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိမ်ဝယ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jobseeker",
+      "pronunciation": "/ˈdʒɑːbˌsiːkər/",
+      "forms": [
+        "jobseekers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလုပ်ရှာနေသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "keyring",
+      "pronunciation": "/ˈkiːˌrɪŋ/",
+      "forms": [
+        "keyrings"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သော့များ စုချိတ်ရန် သုံးသည့် ကွင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "kickboxer",
+      "pronunciation": "/ˈkɪkˌbɑːksər/",
+      "forms": [
+        "kickboxers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်သီးနှင့် ကန်ချက်များ သုံးသည့် တိုက်ခိုက်ရေးအားကစားသမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lowlife",
+      "pronunciation": "/ˈloʊˌlaɪf/",
+      "forms": [
+        "lowlifes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မယုံကြည်ရ သို့မဟုတ် အကျင့်ပျက်သည်ဟု မထီမဲ့မြင်ခေါ်သည့်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mashup",
+      "pronunciation": "/ˈmæʃˌʌp/",
+      "forms": [
+        "mashups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သီချင်း ပုံရိပ် သို့မဟုတ် အကြောင်းအရာများစွာကို ပေါင်းစပ်ဖန်တီးထားသောအရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "meetup",
+      "pronunciation": "/ˈmiːtˌʌp/",
+      "forms": [
+        "meetups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူများ တွေ့ဆုံရန် စီစဉ်ထားသော အစုအဝေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "midlife",
+      "pronunciation": "/ˈmɪdˌlaɪf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူကြီးဘဝအလယ်ပိုင်းကာလ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "motorhome",
+      "pronunciation": "/ˈmoʊtərˌhoʊm/",
+      "forms": [
+        "motorhomes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိပ်နေထိုင်နိုင်ရန် ပြင်ဆင်ထားသော မော်တော်ယာဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overbooked",
+      "pronunciation": "/ˌoʊvərˈbʊkt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရရှိနိုင်သည့်နေရာထက် ကြိုတင်မှာယူမှု ပိုလက်ခံထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overqualified",
+      "pronunciation": "/ˌoʊvərˈkwɑːləfaɪd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလုပ်တစ်ခုလိုအပ်သည်ထက် အရည်အချင်းပိုများသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overcrowding",
+      "pronunciation": "/ˌoʊvərˈkraʊdɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နေရာတစ်ခုတွင် လူများလွန်း၍ ကြပ်တည်းနေခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "playdate",
+      "pronunciation": "/ˈpleɪˌdeɪt/",
+      "forms": [
+        "playdates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေးနှစ်ဦး သို့မဟုတ် ပိုများက အတူကစားရန် စီစဉ်ထားသည့် အချိန်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "playgroup",
+      "pronunciation": "/ˈpleɪˌɡruːp/",
+      "forms": [
+        "playgroups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေးငယ်များ အတူကစားသင်ယူရန် စုဝေးသည့်အဖွဲ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pregame",
+      "pronunciation": "/ˈpriːˌɡeɪm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပွဲမစမီ ဖြစ်သော သို့မဟုတ် ပြုလုပ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "roadwork",
+      "pronunciation": "/ˈroʊdˌwɝːk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လမ်းပြုပြင် သို့မဟုတ် ဆောက်လုပ်ရေးလုပ်ငန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "seatmate",
+      "pronunciation": "/ˈsiːtˌmeɪt/",
+      "forms": [
+        "seatmates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရီး သို့မဟုတ် အခန်းတစ်ခုတွင် ဘေးချင်းကပ်ထိုင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shipmate",
+      "pronunciation": "/ˈʃɪpˌmeɪt/",
+      "forms": [
+        "shipmates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သင်္ဘောတစ်စင်းတည်းတွင် အတူအလုပ်လုပ် သို့မဟုတ် ခရီးသွားသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "battlecruiser",
+      "pronunciation": "/ˈbætəlˌkruːzər/",
+      "forms": [
+        "battlecruisers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမြန်နှုန်းမြင့်ပြီး အမြောက်ကြီးများတပ်ထားသော စစ်သင်္ဘောအမျိုးအစား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "battlespace",
+      "pronunciation": "/ˈbætəlˌspeɪs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စစ်ဆင်ရေးများ ဖြစ်ပွားနေသော မြေ လေ ရေ နှင့် ဒစ်ဂျစ်တယ်နယ်ပယ်တို့၏ စုစုပေါင်းဧရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bombproof",
+      "pronunciation": "/ˈbɑːmˌpruːf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဗုံးပေါက်ကွဲမှုကို ခံနိုင်ရန် အားဖြည့်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gunrunner",
+      "pronunciation": "/ˈɡʌnˌrʌnər/",
+      "forms": [
+        "gunrunners"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်နက်များကို တရားမဝင် သယ်ယူရောင်းဝယ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jailbird",
+      "pronunciation": "/ˈdʒeɪlˌbɝːd/",
+      "forms": [
+        "jailbirds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မကြာခဏ ထောင်ကျဖူးသူကို ပြောင်လှောင်ခေါ်သည့် စကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "joyrider",
+      "pronunciation": "/ˈdʒɔɪˌraɪdər/",
+      "forms": [
+        "joyriders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကားကို ခွင့်မရှိဘဲ ယူစီး၍ ပျော်ပါးမောင်းသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pickpocketing",
+      "pronunciation": "/ˈpɪkˌpɑːkɪtɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူ၏အိတ်ကပ် သို့မဟုတ် အိတ်မှ မသိအောင် ခိုးယူခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vandalizer",
+      "pronunciation": "/ˈvændəˌlaɪzər/",
+      "forms": [
+        "vandalizers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အများပိုင် သို့မဟုတ် အခြားသူပိုင်ပစ္စည်းကို တမင်ဖျက်ဆီးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "aircrewman",
+      "pronunciation": "/ˈerˌkruːmən/",
+      "forms": [
+        "aircrewmen"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေယာဉ်အဖွဲ့ဝင်အဖြစ် တာဝန်ထမ်းဆောင်သော အမျိုးသားဝန်ထမ်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cyberwar",
+      "pronunciation": "/ˈsaɪbərˌwɔːr/",
+      "forms": [
+        "cyberwars"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွန်ပျူတာစနစ်များကို တိုက်ခိုက်သည့် နိုင်ငံရေး သို့မဟုတ် စစ်ရေးပဋိပက္ခ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "babymoon",
+      "pronunciation": "/ˈbeɪbiˌmuːn/",
+      "forms": [
+        "babymoons"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကလေးမမွေးမီ မိဘဖြစ်မည့်သူနှစ်ဦး အပန်းဖြေခရီးထွက်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "backbencher",
+      "pronunciation": "/ˌbækˈbɛntʃər/",
+      "forms": [
+        "backbenchers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစိုးရရာထူးမရှိဘဲ လွှတ်တော်တွင် ပါဝင်သည့် သာမန်အမတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "backhander",
+      "pronunciation": "/ˈbækˌhændər/",
+      "forms": [
+        "backhanders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လျှို့ဝှက်ပေးသည့် လာဘ်ငွေ သို့မဟုတ် မမှန်ကန်သော အခကြေးငွေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bodyguarding",
+      "pronunciation": "/ˈbɑːdiˌɡɑːrdɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူတစ်ဦးကို အနီးကပ်လိုက်၍ ကိုယ်ရံတော်အဖြစ် ကာကွယ်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bypasser",
+      "pronunciation": "/ˈbaɪˌpæsər/",
+      "forms": [
+        "bypassers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စည်းမျဉ်း သို့မဟုတ် အတားအဆီးကို ရှောင်ကျော်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "codebreaker",
+      "pronunciation": "/ˈkoʊdˌbreɪkər/",
+      "forms": [
+        "codebreakers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လျှို့ဝှက်ကုဒ်ကို ဖော်ထုတ်နိုင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sportsbook",
+      "pronunciation": "/ˈspɔːrtsˌbʊk/",
+      "forms": [
+        "sportsbooks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အားကစားပွဲများအပေါ် လောင်းကြေးလက်ခံသည့် ဝန်ဆောင်မှု သို့မဟုတ် ဆိုင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tailback",
+      "pronunciation": "/ˈteɪlˌbæk/",
+      "forms": [
+        "tailbacks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယာဉ်များ ရှေ့မရွေ့ဘဲ ရှည်လျားစွာ တန်းစီနေခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tailboard",
+      "pronunciation": "/ˈteɪlˌbɔːrd/",
+      "forms": [
+        "tailboards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကုန်တင်ယာဉ်နောက်ဘက်ရှိ ဖွင့်ပိတ်နိုင်သော ဘုတ်ပြား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "talkback",
+      "pronunciation": "/ˈtɔːkˌbæk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စတူဒီယို သို့မဟုတ် ထုတ်လွှင့်မှုတွင် နောက်ကွယ်မှ အပြန်အလှန်အသံဆက်သွယ်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "undercook",
+      "pronunciation": "/ˌʌndərˈkʊk/",
+      "forms": [
+        "undercooks",
+        "undercooked",
+        "undercooking"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အစားအစာကို လုံလောက်အောင် မချက်ဘဲထားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "underpay",
+      "pronunciation": "/ˌʌndərˈpeɪ/",
+      "forms": [
+        "underpays",
+        "underpaying"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ထိုက်သင့်သည်ထက် လစာ သို့မဟုတ် အခကြေးငွေ နည်းပေးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "underprice",
+      "pronunciation": "/ˌʌndərˈpraɪs/",
+      "forms": [
+        "underprices",
+        "underpriced",
+        "underpricing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပစ္စည်း သို့မဟုတ် ဝန်ဆောင်မှုကို တန်ဖိုးထက် နိမ့်စွာ ဈေးသတ်မှတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "workmate",
+      "pronunciation": "/ˈwɝːkˌmeɪt/",
+      "forms": [
+        "workmates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလုပ်အတူလုပ်သည့် လုပ်ဖော်ကိုင်ဖက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "autocompletion",
+      "pronunciation": "/ˌɔːtoʊkəmˈpliːʃən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာ သို့မဟုတ် ကုဒ်ရိုက်နေစဉ် ကျန်အပိုင်းကို အလိုအလျောက် ဖြည့်ပေးခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bitcoin",
+      "pronunciation": "/ˈbɪtˌkɔɪn/",
+      "forms": [
+        "bitcoins"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဗဟိုဘဏ်မလိုဘဲ ကွန်ရက်ပေါ်တွင် အသုံးပြုသည့် ဒစ်ဂျစ်တယ်ငွေကြေးအမျိုးအစား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chatbotting",
+      "pronunciation": "/ˈtʃætˌbɑːtɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စကားပြောအလိုအလျောက်စနစ်နှင့် အပြန်အလှန်အသုံးပြုခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "metagame",
+      "pronunciation": "/ˈmɛtəˌɡeɪm/",
+      "forms": [
+        "metagames"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂိမ်း၏ တိုက်ရိုက်စည်းမျဉ်းအပြင်ဘက်တွင် ရှိသော နည်းဗျူဟာနှင့် ကစားပုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ultrawide",
+      "pronunciation": "/ˌʌltrəˈwaɪd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပုံမှန်ထက် အလွန်ကျယ်သော မျက်နှာပြင်အချိုးရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dateable",
+      "pronunciation": "/ˈdeɪtəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အချစ်ရေးအတွက် တွဲဖက်သင့်သည်ဟု ထင်ရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "negging",
+      "pronunciation": "/ˈnɛɡɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူတစ်ဦး၏ ယုံကြည်မှုကျစေရန် ချီးကျူးသလိုနှင့် အနည်းငယ်နှိမ့်ချပြောခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unfriendable",
+      "pronunciation": "/ʌnˈfrɛndəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လူမှုကွန်ရက်တွင် မိတ်ဆွေစာရင်းမှ ဖယ်ရှားနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bodycon",
+      "pronunciation": "/ˈbɑːdiˌkɑːn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကိုယ်ခန္ဓာပုံစံအတိုင်း တင်းကျပ်စွာကပ်နေသော အဝတ်အစားဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bodysuit",
+      "pronunciation": "/ˈbɑːdiˌsuːt/",
+      "forms": [
+        "bodysuits"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်အပေါ်ပိုင်းနှင့် အောက်ပိုင်းကို တစ်ဆက်တည်းဖုံးသည့် အဝတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "loungewear",
+      "pronunciation": "/ˈlaʊndʒˌwer/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အိမ်တွင် သက်သောင့်သက်သာ ဝတ်ရန် ဒီဇိုင်းလုပ်ထားသော အဝတ်အစားများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rainwear",
+      "pronunciation": "/ˈreɪnˌwer/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိုးကာရန် ဝတ်သည့် အဝတ်အစားများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shapewear",
+      "pronunciation": "/ˈʃeɪpˌwer/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်ခန္ဓာပုံစံကို ချောမွေ့စေရန် တင်းကျပ်စွာဝတ်သည့် အတွင်းဝတ်အမျိုးအစား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "streetwear",
+      "pronunciation": "/ˈstriːtˌwer/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လမ်းပေါ်ယဉ်ကျေးမှုမှ ထွက်ပေါ်လာသော အပန်းဖြေဖက်ရှင်အဝတ်အစားများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "womenswear",
+      "pronunciation": "/ˈwɪmɪnzˌwer/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမျိုးသမီးဝတ် အဝတ်အစားများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "minigame",
+      "pronunciation": "/ˈmɪniˌɡeɪm/",
+      "forms": [
+        "minigames"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂိမ်းကြီးအတွင်း ပါဝင်သည့် ဂိမ်းငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "typesetter",
+      "pronunciation": "/ˈtaɪpˌsɛtər/",
+      "forms": [
+        "typesetters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပုံနှိပ်ရန် စာလုံးနှင့် စာမျက်နှာဖွဲ့စည်းပုံ စီစဉ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crowdfunder",
+      "pronunciation": "/ˈkraʊdˌfʌndər/",
+      "forms": [
+        "crowdfunders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူအများထံမှ ငွေစုဆောင်းကာ စီမံကိန်းတစ်ခုကို ထောက်ပံ့သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "neobank",
+      "pronunciation": "/ˈniːoʊˌbæŋk/",
+      "forms": [
+        "neobanks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘဏ်ခွဲမရှိဘဲ အွန်လိုင်းပေါ်တွင် အဓိကဝန်ဆောင်သည့် ဘဏ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "paygrade",
+      "pronunciation": "/ˈpeɪˌɡreɪd/",
+      "forms": [
+        "paygrades"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလုပ်ရာထူးတစ်ခု၏ သတ်မှတ်လစာအဆင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "underbanked",
+      "pronunciation": "/ˌʌndərˈbæŋkt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဘဏ်ဝန်ဆောင်မှုများကို အပြည့်အဝ မရရှိသည့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unbanked",
+      "pronunciation": "/ʌnˈbæŋkt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဘဏ်အကောင့် သို့မဟုတ် ဘဏ်ဝန်ဆောင်မှု မရှိသည့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deinfluencer",
+      "pronunciation": "/ˌdiːˈɪnfluənsər/",
+      "forms": [
+        "deinfluencers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မလိုအပ်သော ပစ္စည်းဝယ်ယူမှုကို လျော့ချရန် ပရိသတ်ကို တိုက်တွန်းသည့် အွန်လိုင်းဖန်တီးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deplatforming",
+      "pronunciation": "/ˌdiːˈplætfɔːrmɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူ သို့မဟုတ် အဖွဲ့တစ်ခု၏ အွန်လိုင်းပလက်ဖောင်းအသုံးပြုခွင့်ကို ဖယ်ရှားခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shadowbanning",
+      "pronunciation": "/ˈʃædoʊˌbænɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အသုံးပြုသူမသိဘဲ သူ၏အကြောင်းအရာကို အခြားသူများ မမြင်နိုင်အောင် လျှော့ချပိတ်ပင်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "paywalling",
+      "pronunciation": "/ˈpeɪˌwɔːlɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အွန်လိုင်းအကြောင်းအရာကို ငွေပေးသူများသာ ကြည့်နိုင်အောင် ကန့်သတ်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pushback",
+      "pronunciation": "/ˈpʊʃˌbæk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အကြံ သို့မဟုတ် လုပ်ဆောင်ချက်တစ်ခုအပေါ် ပြင်းပြင်းထန်ထန် ကန့်ကွက်တုံ့ပြန်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "watchdog",
+      "pronunciation": "/ˈwɑːtʃˌdɔːɡ/",
+      "forms": [
+        "watchdogs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဖွဲ့အစည်း သို့မဟုတ် အာဏာပိုင်များ၏ လုပ်ရပ်ကို စောင့်ကြည့်စစ်ဆေးသည့် အဖွဲ့ သို့မဟုတ် လူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "returnship",
+      "pronunciation": "/rɪˈtɝːnˌʃɪp/",
+      "forms": [
+        "returnships"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလုပ်နားထားပြီးနောက် အလုပ်ခွင်ပြန်ဝင်သူများအတွက် လေ့ကျင့်ရေးအလုပ်အစီအစဉ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "underemployment",
+      "pronunciation": "/ˌʌndərɪmˈplɔɪmənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရည်အချင်း သို့မဟုတ် အလုပ်ချိန်နှင့် မကိုက်ညီလောက်အောင် အလုပ်အကိုင်မလုံလောက်သည့် အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "moonlighter",
+      "pronunciation": "/ˈmuːnˌlaɪtər/",
+      "forms": [
+        "moonlighters"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဓိကအလုပ်အပြင် အခြားအလုပ်တစ်ခု ထပ်လုပ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bandmate",
+      "pronunciation": "/ˈbændˌmeɪt/",
+      "forms": [
+        "bandmates"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တီးဝိုင်းတစ်ဖွဲ့တည်းတွင် အတူတီးခတ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "barcoded",
+      "pronunciation": "/ˈbɑːrˌkoʊdɪd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကုန်ပစ္စည်းကုဒ်မျဉ်းများ တပ်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "benchmarked",
+      "pronunciation": "/ˈbɛntʃˌmɑːrkt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စံနှုန်းတစ်ခုနှင့် နှိုင်းယှဉ်တိုင်းတာထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "broadcloth",
+      "pronunciation": "/ˈbrɔːdˌklɔːθ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မျက်နှာပြင်ချောမွေ့ပြီး သိပ်သည်းစွာ ယက်ထားသော အထည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "geekdom",
+      "pronunciation": "/ˈɡiːkˌdəm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နည်းပညာ သို့မဟုတ် အထူးဝါသနာများကို အလွန်စိတ်ဝင်စားသည့် လူမှုအသိုင်းအဝိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jetlagging",
+      "pronunciation": "/ˈdʒɛtˌlæɡɪŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချိန်ဇုန်များစွာ ဖြတ်သန်းပြီးနောက် အိပ်ချိန်နှင့် ကိုယ်ခန္ဓာနာရီ ပျက်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "longboard",
+      "pronunciation": "/ˈlɔːŋˌbɔːrd/",
+      "forms": [
+        "longboards"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သာမန်စကိတ်ဘုတ်ထက် ရှည်သော စကိတ်ဘုတ်အမျိုးအစား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sidepiece",
+      "pronunciation": "/ˈsaɪdˌpiːs/",
+      "forms": [
+        "sidepieces"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရှိပြီးသားချစ်ရေးအပြင် လျှို့ဝှက်တွဲနေသူကို အပြောအဆိုပုံစံဖြင့် ခေါ်သည့်စကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sightsee",
+      "pronunciation": "/ˈsaɪtˌsiː/",
+      "forms": [
+        "sightsees",
+        "sightsaw",
+        "sightseen"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ခရီးသွားရာတွင် နာမည်ကြီးနေရာများ လိုက်ကြည့်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "soundbar",
+      "pronunciation": "/ˈsaʊndˌbɑːr/",
+      "forms": [
+        "soundbars"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တီဗီအသံကို ပိုကောင်းစေရန် သုံးသည့် ရှည်လျားသည့် စပီကာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "supergroup",
+      "pronunciation": "/ˈsuːpərˌɡruːp/",
+      "forms": [
+        "supergroups"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နာမည်ကြီးအနုပညာရှင်များ ပေါင်းစည်းဖွဲ့ထားသော တီးဝိုင်း သို့မဟုတ် အဖွဲ့"
+          ]
+        }
+      ]
+    }
+  ]
+}
