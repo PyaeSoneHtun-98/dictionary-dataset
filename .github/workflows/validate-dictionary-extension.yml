@@ -2,7 +2,7 @@ name: Validate Dictionary Extension
 
 on:
   push:
-    branches: [master]
+    branches: [master, "audit/fresh-batch-062"]
     paths:
       - "DictionaryExtensionBatches/**"
       - "dictionary_extension_manifest.json"
