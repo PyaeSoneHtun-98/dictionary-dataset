@@ -3660,14 +3660,16 @@
       ]
     },
     {
-      "word": "immunomodulatory",
-      "pronunciation": "/ɪˌmjuːnoʊˈmɑːdʒələˌtɔːri/",
-      "forms": [],
+      "word": "watchlist",
+      "pronunciation": "/ˈwɑːtʃˌlɪst/",
+      "forms": [
+        "watchlists"
+      ],
       "meanings": [
         {
-          "partOfSpeech": "adjective",
+          "partOfSpeech": "noun",
           "burmese": [
-            "ကိုယ်ခံအားတုံ့ပြန်မှုကို ပြောင်းလဲထိန်းညှိသော"
+            "စောင့်ကြည့်ရန် သို့မဟုတ် နောက်မှကြည့်ရန် စာရင်း"
           ]
         }
       ]
@@ -3686,53 +3688,61 @@
       ]
     },
     {
-      "word": "pharmacogenomics",
-      "pronunciation": "/ˌfɑːrməkoʊdʒəˈnoʊmɪks/",
-      "forms": [],
+      "word": "afterparty",
+      "pronunciation": "/ˈæftɚˌpɑːrti/",
+      "forms": [
+        "afterparties"
+      ],
       "meanings": [
         {
           "partOfSpeech": "noun",
           "burmese": [
-            "မျိုးရိုးဗီဇက ဆေးတုံ့ပြန်မှုအပေါ် သက်ရောက်ပုံကို လေ့လာသည့် ပညာ"
+            "ပွဲတစ်ခုပြီးနောက် ဆက်လက်ကျင်းပသည့် ပါတီ"
           ]
         }
       ]
     },
     {
-      "word": "metabolomics",
-      "pronunciation": "/məˌtæbəˈlɑːmɪks/",
-      "forms": [],
+      "word": "antihero",
+      "pronunciation": "/ˌæntiˈhɪroʊ/",
+      "forms": [
+        "antiheroes"
+      ],
       "meanings": [
         {
           "partOfSpeech": "noun",
           "burmese": [
-            "ဆဲလ်နှင့် ကိုယ်ခန္ဓာရှိ ဇီဝဓာတုပစ္စည်းငယ်များကို စုစုပေါင်း လေ့လာသည့် ပညာ"
+            "ရိုးရာသူရဲကောင်းလက္ခဏာများ မပြည့်စုံသည့် အဓိကဇာတ်ကောင်"
           ]
         }
       ]
     },
     {
-      "word": "transcriptomics",
-      "pronunciation": "/ˌtrænskrɪpˈtɑːmɪks/",
-      "forms": [],
+      "word": "antiheroine",
+      "pronunciation": "/ˌæntiˈhɛroʊɪn/",
+      "forms": [
+        "antiheroines"
+      ],
       "meanings": [
         {
           "partOfSpeech": "noun",
           "burmese": [
-            "ဆဲလ်တွင် ထုတ်လုပ်နေသော မျိုးရိုးဗီဇစာသားများကို စုစုပေါင်း လေ့လာသည့် ပညာ"
+            "ရိုးရာသူရဲကောင်းမ လက္ခဏာများ မပြည့်စုံသည့် အဓိကအမျိုးသမီးဇာတ်ကောင်"
           ]
         }
       ]
     },
     {
-      "word": "epigenomics",
-      "pronunciation": "/ˌɛpɪdʒəˈnoʊmɪks/",
-      "forms": [],
+      "word": "armorer",
+      "pronunciation": "/ˈɑːrmərər/",
+      "forms": [
+        "armorers"
+      ],
       "meanings": [
         {
           "partOfSpeech": "noun",
           "burmese": [
-            "မျိုးရိုးဗီဇအလုပ်လုပ်ပုံကို ပြောင်းစေသည့် အမှတ်အသားများကို စုစုပေါင်း လေ့လာသည့် ပညာ"
+            "လက်နက်နှင့် သံချပ်ကာများကို ပြုပြင်ထိန်းသိမ်းသူ"
           ]
         }
       ]
@@ -3920,14 +3930,16 @@
       ]
     },
     {
-      "word": "xenotransplantation",
-      "pronunciation": "/ˌziːnoʊtrænsplænˈteɪʃən/",
-      "forms": [],
+      "word": "audiophile",
+      "pronunciation": "/ˈɔːdioʊˌfaɪl/",
+      "forms": [
+        "audiophiles"
+      ],
       "meanings": [
         {
           "partOfSpeech": "noun",
           "burmese": [
-            "မျိုးစိတ်တစ်မျိုးမှ အခြားမျိုးစိတ်သို့ ကိုယ်အင်္ဂါ သို့မဟုတ် တစ်ရှူး အစားထိုးခြင်း"
+            "အသံအရည်အသွေးကောင်းကို အထူးစိတ်ဝင်စားသူ"
           ]
         }
       ]
@@ -4154,14 +4166,14 @@
       ]
     },
     {
-      "word": "microenterprise",
-      "pronunciation": "/ˈmaɪkroʊˌɛntɚˌpraɪz/",
+      "word": "backstabbing",
+      "pronunciation": "/ˈbækˌstæbɪŋ/",
       "forms": [],
       "meanings": [
         {
           "partOfSpeech": "noun",
           "burmese": [
-            "အရင်းအနှီးနှင့် ဝန်ထမ်းအနည်းငယ်သာရှိသော အသေးစားလုပ်ငန်း"
+            "နောက်ကွယ်မှ သစ္စာဖောက်ခြင်း"
           ]
         }
       ]
@@ -4323,14 +4335,14 @@
       ]
     },
     {
-      "word": "friendshoring",
-      "pronunciation": "/ˈfrɛndˌʃɔːrɪŋ/",
+      "word": "offscreen",
+      "pronunciation": "/ˌɔːfˈskriːn/",
       "forms": [],
       "meanings": [
         {
-          "partOfSpeech": "noun",
+          "partOfSpeech": "adjective",
           "burmese": [
-            "ယုံကြည်ရသော မိတ်ဖက်နိုင်ငံများထံ ထုတ်လုပ်ရေးနှင့် ပစ္စည်းပေးသွင်းမှု ရွှေ့ခြင်း"
+            "မျက်နှာပြင်ပေါ်တွင် မမြင်ရသော"
           ]
         }
       ]
@@ -4349,27 +4361,29 @@
       ]
     },
     {
-      "word": "greedflation",
-      "pronunciation": "/ɡriːdˈfleɪʃən/",
-      "forms": [],
+      "word": "ringtone",
+      "pronunciation": "/ˈrɪŋˌtoʊn/",
+      "forms": [
+        "ringtones"
+      ],
       "meanings": [
         {
           "partOfSpeech": "noun",
           "burmese": [
-            "အမြတ်ပိုယူလိုမှုကြောင့် ဈေးနှုန်းမြင့်လာသည်ဟု ဆိုသော အခြေအနေ"
+            "ဖုန်းဝင်လာချိန် မြည်သည့် အသံ"
           ]
         }
       ]
     },
     {
-      "word": "skimpflation",
-      "pronunciation": "/skɪmpˈfleɪʃən/",
+      "word": "onscreen",
+      "pronunciation": "/ˌɑːnˈskriːn/",
       "forms": [],
       "meanings": [
         {
-          "partOfSpeech": "noun",
+          "partOfSpeech": "adjective",
           "burmese": [
-            "ဈေးမလျှော့ဘဲ ဝန်ဆောင်မှု သို့မဟုတ် အရည်အသွေး လျှော့ခြင်း"
+            "မျက်နှာပြင်ပေါ်တွင် မြင်ရသော"
           ]
         }
       ]
@@ -4570,53 +4584,59 @@
       ]
     },
     {
-      "word": "biodegradability",
-      "pronunciation": "/ˌbaɪoʊdɪˌɡreɪdəˈbɪləti/",
+      "word": "flirty",
+      "pronunciation": "/ˈflɝːti/",
       "forms": [],
       "meanings": [
         {
-          "partOfSpeech": "noun",
+          "partOfSpeech": "adjective",
           "burmese": [
-            "သဘာဝဇီဝလုပ်ငန်းစဉ်ဖြင့် ပျက်စီးချေဖျက်နိုင်စွမ်း"
+            "အချစ်ရေးသဘောဖြင့် စနောက်ဖျားယောင်းတတ်သော"
           ]
         }
       ]
     },
     {
-      "word": "compostability",
-      "pronunciation": "/kəmˌpoʊstəˈbɪləti/",
-      "forms": [],
+      "word": "stagehand",
+      "pronunciation": "/ˈsteɪdʒˌhænd/",
+      "forms": [
+        "stagehands"
+      ],
       "meanings": [
         {
           "partOfSpeech": "noun",
           "burmese": [
-            "မြေဆွေးအဖြစ် ချေဖျက်ပြောင်းလဲနိုင်စွမ်း"
+            "ဇာတ်ခုံနောက်ကွယ်တွင် စက်ပစ္စည်းများ ကိုင်တွယ်ကူညီသူ"
           ]
         }
       ]
     },
     {
-      "word": "ecotoxicology",
-      "pronunciation": "/ˌiːkoʊtɑːksəˈkɑːlədʒi/",
-      "forms": [],
+      "word": "barista",
+      "pronunciation": "/bəˈriːstə/",
+      "forms": [
+        "baristas"
+      ],
       "meanings": [
         {
           "partOfSpeech": "noun",
           "burmese": [
-            "အဆိပ်ပစ္စည်းများ၏ သဘာဝပတ်ဝန်းကျင်နှင့် သက်ရှိများအပေါ် သက်ရောက်မှုကို လေ့လာသည့် ပညာ"
+            "ကော်ဖီအမျိုးမျိုးကို ကျွမ်းကျင်စွာ ဖျော်ပေးသူ"
           ]
         }
       ]
     },
     {
-      "word": "phytoremediation",
-      "pronunciation": "/ˌfaɪtoʊrɪˌmiːdiˈeɪʃən/",
-      "forms": [],
+      "word": "callout",
+      "pronunciation": "/ˈkɔːlˌaʊt/",
+      "forms": [
+        "callouts"
+      ],
       "meanings": [
         {
           "partOfSpeech": "noun",
           "burmese": [
-            "အပင်များကို သုံး၍ ညစ်ညမ်းမြေ သို့မဟုတ် ရေကို သန့်စင်ခြင်း"
+            "အများရှေ့တွင် အမှား သို့မဟုတ် မသင့်တော်မှုကို ထောက်ပြဝေဖန်ခြင်း"
           ]
         }
       ]
@@ -4661,14 +4681,16 @@
       ]
     },
     {
-      "word": "circularization",
-      "pronunciation": "/ˌsɝːkjələrəˈzeɪʃən/",
-      "forms": [],
+      "word": "subreddit",
+      "pronunciation": "/ˈsʌbˌrɛdɪt/",
+      "forms": [
+        "subreddits"
+      ],
       "meanings": [
         {
           "partOfSpeech": "noun",
           "burmese": [
-            "အရင်းအမြစ်များ ပြန်လည်အသုံးပြုနိုင်သည့် ပတ်လည်စနစ်အဖြစ် ပြောင်းလဲခြင်း"
+            "အွန်လိုင်းဆွေးနွေးရေးဝဘ်ဆိုက်ထဲက သီးသန့်အကြောင်းအရာအသိုင်းအဝိုင်း"
           ]
         }
       ]
@@ -4752,27 +4774,29 @@
       ]
     },
     {
-      "word": "astrochemist",
-      "pronunciation": "/ˌæstroʊˈkɛmɪst/",
+      "word": "camerawork",
+      "pronunciation": "/ˈkæmərəˌwɝːk/",
       "forms": [],
       "meanings": [
         {
           "partOfSpeech": "noun",
           "burmese": [
-            "အာကာသရှိ ဓာတုပစ္စည်းနှင့် ဓာတုဖြစ်စဉ်များကို လေ့လာသူ"
+            "ရုပ်ရှင် သို့မဟုတ် ဗီဒီယိုတွင် ကင်မရာရိုက်ကူးပုံနည်းလမ်း"
           ]
         }
       ]
     },
     {
-      "word": "astrochemistry",
-      "pronunciation": "/ˌæstroʊˈkɛmɪstri/",
-      "forms": [],
+      "word": "copay",
+      "pronunciation": "/ˈkoʊˌpeɪ/",
+      "forms": [
+        "copays"
+      ],
       "meanings": [
         {
           "partOfSpeech": "noun",
           "burmese": [
-            "အာကာသရှိ ဓာတုပစ္စည်းနှင့် ဓာတုဖြစ်စဉ်များကို လေ့လာသည့် ပညာ"
+            "ကျန်းမာရေးအာမခံရှိသူက မိမိဘက်မှ အတူပေးရသော ကုန်ကျစရိတ်"
           ]
         }
       ]
@@ -4804,14 +4828,16 @@
       ]
     },
     {
-      "word": "planetology",
-      "pronunciation": "/ˌplænəˈtɑːlədʒi/",
-      "forms": [],
+      "word": "downloader",
+      "pronunciation": "/ˈdaʊnˌloʊdər/",
+      "forms": [
+        "downloaders"
+      ],
       "meanings": [
         {
           "partOfSpeech": "noun",
           "burmese": [
-            "ဂြိုဟ်များ၏ ဖွဲ့စည်းပုံနှင့် ဖြစ်ပေါ်လာပုံကို လေ့လာသည့် ပညာ"
+            "ဖိုင်များကို စက်ထဲသို့ ကူးယူသိမ်းဆည်းသူ သို့မဟုတ် ပရိုဂရမ်"
           ]
         }
       ]
@@ -4895,27 +4921,31 @@
       ]
     },
     {
-      "word": "biocomputing",
-      "pronunciation": "/ˈbaɪoʊkəmˌpjuːtɪŋ/",
-      "forms": [],
+      "word": "frontman",
+      "pronunciation": "/ˈfrʌntˌmæn/",
+      "forms": [
+        "frontmen"
+      ],
       "meanings": [
         {
           "partOfSpeech": "noun",
           "burmese": [
-            "ဇီဝစနစ် သို့မဟုတ် ဇီဝမော်လီကျူးများကို တွက်ချက်မှုအတွက် အသုံးပြုခြင်း"
+            "အဖွဲ့ကို အများရှေ့တွင် ကိုယ်စားပြုသူ သို့မဟုတ် အဓိကအဆိုတော်"
           ]
         }
       ]
     },
     {
-      "word": "neuromorphic",
-      "pronunciation": "/ˌnʊroʊˈmɔːrfɪk/",
-      "forms": [],
+      "word": "gunsmith",
+      "pronunciation": "/ˈɡʌnˌsmɪθ/",
+      "forms": [
+        "gunsmiths"
+      ],
       "meanings": [
         {
-          "partOfSpeech": "adjective",
+          "partOfSpeech": "noun",
           "burmese": [
-            "ဦးနှောက်နှင့် အာရုံကြောလုပ်ဆောင်ပုံကို တုပဒီဇိုင်းထားသော"
+            "သေနတ်များ ပြုလုပ်ပြုပြင်သူ"
           ]
         }
       ]
@@ -5038,14 +5068,14 @@
       ]
     },
     {
-      "word": "hyperspectral",
-      "pronunciation": "/ˌhaɪpɚˈspɛktrəl/",
+      "word": "livestreaming",
+      "pronunciation": "/ˈlaɪvˌstriːmɪŋ/",
       "forms": [],
       "meanings": [
         {
-          "partOfSpeech": "adjective",
+          "partOfSpeech": "noun",
           "burmese": [
-            "အလင်းလှိုင်းအပိုင်းများစွာကို အလွန်အသေးစိတ် ဖမ်းယူတိုင်းတာသော"
+            "အွန်လိုင်းမှ တိုက်ရိုက်ထုတ်လွှင့်ခြင်း"
           ]
         }
       ]
@@ -5116,27 +5146,33 @@
       ]
     },
     {
-      "word": "cryovolcano",
-      "pronunciation": "/ˌkraɪoʊvɑːlˈkeɪnoʊ/",
-      "forms": [],
+      "word": "misclick",
+      "pronunciation": "/ˌmɪsˈklɪk/",
+      "forms": [
+        "misclicks",
+        "misclicked",
+        "misclicking"
+      ],
       "meanings": [
         {
-          "partOfSpeech": "noun",
+          "partOfSpeech": "verb",
           "burmese": [
-            "ပူသောချော်ရည်အစား ရေ၊ ရေခဲ သို့မဟုတ် အခြားအေးသောပစ္စည်း ထုတ်လွှတ်သည့် မီးတောင်ပုံစံ"
+            "မောက်စ် သို့မဟုတ် မျက်နှာပြင်ကို မှားနှိပ်သည်"
           ]
         }
       ]
     },
     {
-      "word": "cryovolcanism",
-      "pronunciation": "/ˌkraɪoʊˈvɑːlkəˌnɪzəm/",
-      "forms": [],
+      "word": "multitasker",
+      "pronunciation": "/ˈmʌltiˌtæskər/",
+      "forms": [
+        "multitaskers"
+      ],
       "meanings": [
         {
           "partOfSpeech": "noun",
           "burmese": [
-            "အေးသောအရည် သို့မဟုတ် ရေခဲပစ္စည်းများကို မီးတောင်ကဲ့သို့ ထုတ်လွှတ်သည့် ဖြစ်စဉ်"
+            "အလုပ်များကို တစ်ပြိုင်နက်တည်း ကိုင်တွယ်တတ်သူ"
           ]
         }
       ]
@@ -5155,14 +5191,16 @@
       ]
     },
     {
-      "word": "technosignature",
-      "pronunciation": "/ˈtɛknoʊˌsɪɡnətʃɚ/",
-      "forms": [],
+      "word": "newsfeed",
+      "pronunciation": "/ˈnuːzˌfiːd/",
+      "forms": [
+        "newsfeeds"
+      ],
       "meanings": [
         {
           "partOfSpeech": "noun",
           "burmese": [
-            "နည်းပညာအသုံးပြုသော ယဉ်ကျေးမှုရှိနိုင်ကြောင်း ညွှန်ပြသည့် အာကာသလက္ခဏာ"
+            "သတင်းနှင့် ပို့စ်များကို အလိုအလျောက်စဉ်ဆက်ပြသသည့် စာမျက်နှာ"
           ]
         }
       ]
@@ -5350,14 +5388,16 @@
       ]
     },
     {
-      "word": "ridesourcing",
-      "pronunciation": "/ˈraɪdˌsɔːrsɪŋ/",
-      "forms": [],
+      "word": "noob",
+      "pronunciation": "/nuːb/",
+      "forms": [
+        "noobs"
+      ],
       "meanings": [
         {
           "partOfSpeech": "noun",
           "burmese": [
-            "အက်ပ်မှတစ်ဆင့် ကိုယ်ပိုင်ကားမောင်းသူနှင့် ခရီးသည် ချိတ်ဆက်ပေးသော ဝန်ဆောင်မှု"
+            "အတွေ့အကြုံမရှိသေးသော လူသစ်"
           ]
         }
       ]
