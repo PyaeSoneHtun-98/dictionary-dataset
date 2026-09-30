@@ -249,11 +249,14 @@ When the active task is the single-word dictionary extension and the user says `
 3. Treat **every frozen v1 headword/form plus every earlier extension headword/form as excluded**.
 4. Build a candidate pool larger than 500 and prioritize genuine subtitle usefulness over obscure dictionary coverage.
 5. Curate exactly 500 new canonical single-word English headwords.
-6. Use the same entry schema, General American IPA rules, forms rules, POS list, Burmese quality standard, and max-three-meaning rule as Dictionary v1.
-7. Run `python scripts/validate_extension_batch.py DictionaryExtensionBatches/dictionary_batch_XXX.json --expected-batch XXX`.
-8. Commit the validated batch as `DictionaryExtensionBatches/dictionary_batch_XXX.json`.
-9. Rebuild/sync with `python scripts/rebuild_extension_lookup.py --write` or let the `Sync Dictionary Extension` workflow do it automatically.
-10. Confirm `dictionary_extension_manifest.json` advanced to the next batch and report entry/form/lookup totals.
+6. **Lexically verify every compound-looking headword before inclusion.** Never create a single-word headword by deleting spaces or hyphens from an English expression. Open compounds and hyphenated compounds are not valid extension headwords merely because their separators can be removed.
+7. Single-word IPA must represent one orthographic word and must not contain whitespace. If the normal English expression is pronounced as multiple words, reject it from the single-word extension unless its established canonical spelling is genuinely closed.
+8. If the validator reports a suspicious glued compound, verify the spelling in a reputable current English dictionary. Only genuinely established closed compounds may be added to `extension_closed_compound_allowlist.txt`; the allowlist is an explicit manual-review record, not a bypass for padding.
+9. Use the same entry schema, General American IPA rules, forms rules, POS list, Burmese quality standard, and max-three-meaning rule as Dictionary v1.
+10. Run `python scripts/validate_extension_batch.py DictionaryExtensionBatches/dictionary_batch_XXX.json --expected-batch XXX`.
+11. Commit the validated batch as `DictionaryExtensionBatches/dictionary_batch_XXX.json`.
+12. Rebuild/sync with `python scripts/rebuild_extension_lookup.py --write` or let the `Sync Dictionary Extension` workflow do it automatically.
+13. Confirm `dictionary_extension_manifest.json` advanced to the next batch and report entry/form/lookup totals.
 
 Use direct commits unless the user explicitly requests a pull request workflow.
 

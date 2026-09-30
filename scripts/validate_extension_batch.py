@@ -53,6 +53,11 @@ def main() -> int:
     ap.add_argument("--base-lookup", type=Path, default=Path("lookup/used_keys_current.zlib.b64"))
     ap.add_argument("--batches-dir", type=Path, default=Path("DictionaryExtensionBatches"))
     ap.add_argument("--expected-batch", type=int)
+    ap.add_argument(
+        "--closed-compound-allowlist",
+        type=Path,
+        default=Path("extension_closed_compound_allowlist.txt"),
+    )
     args = ap.parse_args()
 
     errors: list[str] = []
@@ -85,6 +90,14 @@ def main() -> int:
         errors.append(f"expected 500 entries, got {len(entries)}")
 
     prior = load_prior_keys(args.base_lookup, args.batches_dir, batch_number)
+    approved_closed_compounds: set[str] = set()
+    if args.closed_compound_allowlist.exists():
+        approved_closed_compounds = {
+            norm(line)
+            for line in args.closed_compound_allowlist.read_text(encoding="utf-8").splitlines()
+            if line.strip() and not line.lstrip().startswith("#")
+        }
+
     new_headwords: set[str] = set()
     owner_by_key: dict[str, str] = {}
 
@@ -109,6 +122,20 @@ def main() -> int:
             errors.append(f"{where} {word!r}: duplicate headword inside batch")
         new_headwords.add(key)
 
+        suspicious_splits: list[str] = []
+        if key not in approved_closed_compounds:
+            for split_at in range(3, len(key) - 2):
+                left = key[:split_at]
+                right = key[split_at:]
+                if left in prior and right in prior:
+                    suspicious_splits.append(f"{left}+{right}")
+            if suspicious_splits:
+                errors.append(
+                    f"{where} {word!r}: suspicious glued compound "
+                    f"({', '.join(suspicious_splits[:4])}); verify established closed spelling "
+                    "and add the canonical headword to extension_closed_compound_allowlist.txt only after lexical review"
+                )
+
         pronunciation = entry.get("pronunciation")
         if (
             not isinstance(pronunciation, str)
@@ -117,6 +144,13 @@ def main() -> int:
             errors.append(f"{where} {word!r}: pronunciation must be slash-delimited IPA")
         elif any(unicodedata.category(ch) == "Cf" for ch in pronunciation):
             errors.append(f"{where} {word!r}: pronunciation contains invisible format characters")
+        else:
+            ipa_body = pronunciation.strip()[1:-1].strip()
+            if any(ch.isspace() for ch in ipa_body):
+                errors.append(
+                    f"{where} {word!r}: single-word IPA must not contain whitespace; "
+                    "this usually indicates an open/hyphenated multi-word expression was glued together"
+                )
 
         forms = entry.get("forms")
         if not isinstance(forms, list):
