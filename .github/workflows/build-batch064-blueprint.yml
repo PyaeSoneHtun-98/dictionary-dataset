@@ -1,0 +1,137 @@
+name: Build Batch 064 Blueprint
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'staging/batch064/BUILD_BLUEPRINT'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install lexical resources
+        run: |
+          python -m pip install --quiet eng_to_ipa lemminflect
+      - name: Build curated blueprint
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, re, zlib
+          import eng_to_ipa as eipa
+          from lemminflect import getInflection
+
+          root=pathlib.Path('.')
+          prior=set(zlib.decompress(base64.b64decode(
+              (root/'extension_lookup'/'used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          )).decode('utf-8').splitlines())
+          allow={x.strip() for x in (root/'extension_closed_compound_allowlist.txt').read_text(encoding='utf-8').splitlines()
+                 if x.strip() and not x.lstrip().startswith('#')}
+
+          rows=[]
+          for p in sorted((root/'staging'/'batch064'/'candidates').glob('candidates_*.json')):
+              rows.extend(json.loads(p.read_text(encoding='utf-8')))
+
+          reject_words=set('''
+          jeep highschool welch looney sherry margarita bitters shandy oreo hobbit airbus technicolor sputnik zippo
+          dyke retard gook mulatto mestizo nance minge raper blanc tammy argyll thane emmet malacca spiegel saran
+          chon asper morgen klick vendee duce domine herm pallone stanhope canfield mikado delft cochin carrousel
+          beefeater charthouse magdalen solon satsuma paschal vestal sibyl abbe nuncio khanate jodhpur
+          '''.split())
+          reject_def=[
+              r'offensive term',r'ethnic slur',r'trademark',r'street name for',r'a native of',r'native-born',
+              r'unit of money',r'monetary unit',r'letter of the .* alphabet',r'genus of',r'any plant of the genus',
+              r'any tree or shrub of the genus',r'breed of',r'dynasty',r'emperor of',r'king of',r'prime minister of',
+              r'a .* unit of measure',r'equal to \d',r'liquid unit',r'card game in which',r'a form of solitaire',
+          ]
+          specialist_penalties=[
+              'mineral','fabric','plant','fish','bird','geology','botany','poem consisting','musical form',
+              'chemical','silicate','hydrocarbon radical','protozoan','photopigment','igneous','metamorphic',
+              'ceratopsian','genus','herb','shrub','tree of','flower','insect','crystalline','religion','ecclesiastical'
+          ]
+          useful_boost=[
+              'person','someone','worker','medical','disease','crime','law','police','money','emotion','feeling',
+              'house','home','vehicle','tool','device','equipment','film','stage','speech','argument','quarrel',
+              'food','drink','clothing','work','business','computer','signal','injury','surgery','body','school',
+              'travel','aircraft','ship','weapon','military','government','relationship','child','woman','man'
+          ]
+
+          def suspicious(w):
+              if w in allow: return False
+              for i in range(3,len(w)-2):
+                  if w[:i] in prior and w[i:] in prior:
+                      return True
+              return False
+
+          def ipa_for(w):
+              s=eipa.convert(w, retrieve_all=False, keep_punct=False)
+              s=s.strip().replace(' ','')
+              if not s or '*' in s or '/' in s:
+                  return None
+              return '/'+s+'/'
+
+          def forms_for(w,pos):
+              tags={'noun':['NNS'],'verb':['VBZ','VBD','VBN','VBG'],'adjective':['JJR','JJS'],'adverb':[]}[pos]
+              out=[]
+              for tag in tags:
+                  for f in getInflection(w,tag=tag) or ():
+                      f=f.lower().strip()
+                      if f.isalpha() and f!=w and f not in out and f not in prior:
+                          out.append(f)
+              return out
+
+          scored=[]
+          for x in rows:
+              w=x['word']; d=x['definition'].lower(); pos=x['partOfSpeech']
+              if w in reject_words or any(re.search(p,d) for p in reject_def) or suspicious(w): continue
+              ipa=ipa_for(w)
+              if not ipa: continue
+              score=x['zipf']*10
+              if pos=='verb': score+=13
+              elif pos=='adjective': score+=10
+              elif pos=='adverb': score+=8
+              elif pos=='noun': score+=3
+              score += sum(1.6 for k in useful_boost if k in d)
+              score -= sum(2.4 for k in specialist_penalties if k in d)
+              if len(w)>14: score-=1.5
+              scored.append((score,x,ipa,forms_for(w,pos)))
+
+          scored.sort(key=lambda z:(-z[0],-z[1]['zipf'],z[1]['word']))
+          picked=scored[:650]
+          assert len(picked)==650, len(picked)
+
+          outdir=root/'staging'/'batch064'/'blueprint'
+          outdir.mkdir(parents=True,exist_ok=True)
+          for p in outdir.glob('*'): p.unlink()
+          payload=[]
+          for score,x,ipa,forms in picked:
+              payload.append({
+                  'word':x['word'],
+                  'pronunciation':ipa,
+                  'forms':forms,
+                  'partOfSpeech':x['partOfSpeech'],
+                  'definition':x['definition'],
+                  'zipf':x['zipf'],
+                  'score':round(score,2)
+              })
+          for i in range(0,len(payload),50):
+              (outdir/f'part_{i//50+1:02d}.json').write_text(
+                  json.dumps(payload[i:i+50],ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          counts={}
+          for x in payload: counts[x['partOfSpeech']]=counts.get(x['partOfSpeech'],0)+1
+          (outdir/'SUMMARY.json').write_text(json.dumps({
+              'count':len(payload),'counts':counts,'first':payload[0]['word'],'last':payload[-1]['word']
+          },indent=2)+'\n',encoding='utf-8')
+          print(json.dumps({'count':len(payload),'counts':counts,'first20':[x['word'] for x in payload[:20]]},indent=2))
+          PY
+      - name: Commit blueprint
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch064/blueprint
+          git commit -m 'Build Batch 064 lexical blueprint'
+          git push
