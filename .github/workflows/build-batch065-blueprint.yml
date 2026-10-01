@@ -1,0 +1,150 @@
+name: Build Batch 065 Blueprint
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'staging/batch065/BUILD_BLUEPRINT'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install lexical resources
+        run: |
+          python -m pip install --quiet eng_to_ipa lemminflect
+      - name: Build curated blueprint
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, re, zlib
+          import eng_to_ipa as eipa
+          from lemminflect import getInflection
+
+          root=pathlib.Path('.')
+          prior=set(zlib.decompress(base64.b64decode(
+              (root/'extension_lookup'/'used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          )).decode('utf-8').splitlines())
+          allow={x.strip() for x in (root/'extension_closed_compound_allowlist.txt').read_text(encoding='utf-8').splitlines()
+                 if x.strip() and not x.lstrip().startswith('#')}
+
+          rows=[]
+          for p in sorted((root/'staging'/'batch065'/'candidates').glob('candidates_*.json')):
+              rows.extend(json.loads(p.read_text(encoding='utf-8')))
+
+          reject_words=set('''
+          jeep clarence brent toby sonny malik jasper baba erica milo veronica kylie specs underwood blanc greenwood
+          sherry hobbit highschool dyke retard welch mina tammy ridley airbus gemma lulu colleen emery margarita
+          thirties serge sevens fifties britt nineties shay fives angelica mahatma spiegel looney rani oreo
+          argyll beryl brant nance clementine firestone thane emmet candida hakeem hakim lindy malacca dauphin
+          angelique sputnik stanhope cochin delft mujahideen technicolor canfield magdalen bitters solon rickey lisle
+          inga paschal saran jodhpur mulatto althea duce sabra havelock mariposa mikado vestal bullfighting taoiseach
+          sibyl zippo abbe chon morgen shandy domine satsuma herm charterhouse nuncio raper carissa gook mestizo
+          reseda margrave lapin seventieth cacique osmund hazan minge forsythia heth ballade magnesite pallone
+          eightieth diorite pyroxene pistil rondeau vanillin batholith corundum beefeater hackberry horsetail asper
+          coleus comfrey flagellate junco khanate kittiwake tamarin gallina hoopoe peafowl oxalis scilla sciara katydid
+          acrolein clomipramine liposome probenecid abortifacient deciliter maund stogie sambuca rickey shandy
+          '''.split())
+
+          reject_patterns=[
+            r'offensive term',r'ethnic slur',r'vulgar term',r'trademark',r'street name for',
+            r'genus of',r'any plant',r'any tree',r'any shrub',r'any .* bird',r'any .* fish',r'breed of',
+            r'unit of measure',r'metric unit',r'unit of length',r'unit of weight',r'unit of volume',
+            r'monetary unit',r'unit of money',r'letter of the .* alphabet',r'king of',r'emperor of',
+            r'prime minister of',r'representative of the pope',r'former.*king',r'medieval germany',
+            r'card game',r'solitaire',r'betting odds',r'a bet that',r'gambling',
+            r'liquor',r'beer and',r'wine and',r'cheap cigar',
+            r'an antidepressant drug',r'a drug \(',r'pharmaceutical that',
+            r'a variety of .* orange',r'fabric woven with',r'twilled woolen fabric',r'plain-woven',
+            r'specific gravity',r'crystalline .* mineral',r'igneous rock',r'geology\)',
+            r'parasitic or free-living worms',r'marine animal',r'marmoset',r'protozoan',
+            r'religious life',r'brahmin',r'clergyman',r'synagogue',r'christian liturgy',
+          ]
+
+          useful_boost=[
+            'person','someone','worker','student','child','woman','man','employee','doctor','patient',
+            'medical','disease','crime','law','court','police','money','emotion','feeling','house','home',
+            'vehicle','tool','device','equipment','film','stage','speech','argument','quarrel','food',
+            'clothing','work','business','computer','signal','injury','surgery','body','school','travel',
+            'aircraft','ship','military','government','relationship','road','book','writing','language'
+          ]
+          specialist_penalty=[
+            'mineral','botany','biology','chemistry','philosophy','astronomy','electrical system',
+            'syllables','metrical unit','physiology','molecular','crystallization','insect','flower',
+            'geophysic','monosaccharide','hydrolysis','entropy'
+          ]
+
+          def suspicious(w):
+              if w in allow: return False
+              for i in range(3,len(w)-2):
+                  if w[:i] in prior and w[i:] in prior:
+                      return True
+              return False
+
+          def ipa_for(w):
+              s=eipa.convert(w, retrieve_all=False, keep_punct=False).strip().replace(' ','')
+              if not s or '*' in s or '/' in s: return None
+              return '/'+s+'/'
+
+          def forms_for(w,pos):
+              if pos!='verb': return []
+              out=[]
+              for tag in ['VBZ','VBD','VBN','VBG']:
+                  for f in getInflection(w,tag=tag) or ():
+                      f=f.lower().strip()
+                      if f.isalpha() and f!=w and f not in out and f not in prior:
+                          out.append(f)
+              return out
+
+          scored=[]
+          for x in rows:
+              w=x['word']; d=x['definition'].lower(); pos=x['partOfSpeech']
+              if w in reject_words or any(re.search(p,d) for p in reject_patterns) or suspicious(w): continue
+              ipa=ipa_for(w)
+              if not ipa: continue
+              score=x['zipf']*10
+              score += {'verb':16,'adjective':12,'adverb':10,'noun':4}[pos]
+              score += sum(1.5 for k in useful_boost if k in d)
+              score -= sum(2.0 for k in specialist_penalty if k in d)
+              if len(w)>14: score-=1
+              scored.append((score,x,ipa,forms_for(w,pos)))
+
+          scored.sort(key=lambda z:(-z[0],-z[1]['zipf'],z[1]['word']))
+          picked=scored[:700]
+          assert len(picked)>=620, len(picked)
+
+          outdir=root/'staging'/'batch065'/'blueprint'
+          outdir.mkdir(parents=True,exist_ok=True)
+          for p in outdir.glob('*'): p.unlink()
+          payload=[]
+          for score,x,ipa,forms in picked:
+              payload.append({
+                  'word':x['word'],
+                  'pronunciation':ipa,
+                  'forms':forms,
+                  'partOfSpeech':x['partOfSpeech'],
+                  'definition':x['definition'],
+                  'zipf':x['zipf'],
+                  'score':round(score,2)
+              })
+          for i in range(0,len(payload),50):
+              (outdir/f'part_{i//50+1:02d}.json').write_text(
+                  json.dumps(payload[i:i+50],ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          counts={}
+          for x in payload: counts[x['partOfSpeech']]=counts.get(x['partOfSpeech'],0)+1
+          (outdir/'SUMMARY.json').write_text(json.dumps({
+              'count':len(payload),'counts':counts,'first':payload[0]['word'],'last':payload[-1]['word']
+          },indent=2)+'\n',encoding='utf-8')
+          print(json.dumps({'count':len(payload),'counts':counts,'first20':[x['word'] for x in payload[:20]]},indent=2))
+          PY
+      - name: Commit blueprint
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch065/blueprint
+          git commit -m 'Build Batch 065 lexical blueprint'
+          git push
