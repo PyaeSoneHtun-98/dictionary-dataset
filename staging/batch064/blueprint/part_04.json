@@ -1,0 +1,612 @@
+[
+  {
+    "word": "yearling",
+    "pronunciation": "/ˈjɪlɪŋ/",
+    "forms": [
+      "yearlings"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a young child",
+    "zipf": 2.68,
+    "score": 31.4
+  },
+  {
+    "word": "gabled",
+    "pronunciation": "/ˈgeɪbəld/",
+    "forms": [
+      "gableder",
+      "gabledest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "(of a roof) constructed with a single slope on each side of the ridge supported at the end by a gable or vertical triangular portion of an end wall",
+    "zipf": 2.14,
+    "score": 31.4
+  },
+  {
+    "word": "explicate",
+    "pronunciation": "/ˈɛkspləˌkeɪt/",
+    "forms": [
+      "explicates",
+      "explicated",
+      "explicating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make plain and comprehensible",
+    "zipf": 1.84,
+    "score": 31.4
+  },
+  {
+    "word": "fluoresce",
+    "pronunciation": "/ˌflʊˈrɛs/",
+    "forms": [
+      "fluoresces",
+      "fluoresced",
+      "fluorescing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "exhibit or undergo fluorescence",
+    "zipf": 1.84,
+    "score": 31.4
+  },
+  {
+    "word": "foliate",
+    "pronunciation": "/ˈfoʊliˌeɪt/",
+    "forms": [
+      "foliates",
+      "foliated",
+      "foliating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "hammer into thin flat foils",
+    "zipf": 1.84,
+    "score": 31.4
+  },
+  {
+    "word": "spang",
+    "pronunciation": "/spæŋ/",
+    "forms": [
+      "spangs",
+      "spanged",
+      "spanging"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "leap, jerk, bang",
+    "zipf": 1.84,
+    "score": 31.4
+  },
+  {
+    "word": "hakim",
+    "pronunciation": "/ɑˈkim/",
+    "forms": [
+      "hakims"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a Muslim ruler or governor or judge",
+    "zipf": 2.84,
+    "score": 31.4
+  },
+  {
+    "word": "lindy",
+    "pronunciation": "/ˈlɪndi/",
+    "forms": [
+      "lindies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an energetic American dance that was popular in the 1930s (probably named for the aviator Charles Lindbergh)",
+    "zipf": 2.84,
+    "score": 31.4
+  },
+  {
+    "word": "jitters",
+    "pronunciation": "/ˈʤɪtərz/",
+    "forms": [
+      "jitterses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "extreme nervousness",
+    "zipf": 2.83,
+    "score": 31.3
+  },
+  {
+    "word": "desensitize",
+    "pronunciation": "/dɪˈsɛnsəˌtaɪz/",
+    "forms": [
+      "desensitizes",
+      "desensitized",
+      "desensitizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cause not to be sensitive",
+    "zipf": 1.83,
+    "score": 31.3
+  },
+  {
+    "word": "preoccupy",
+    "pronunciation": "/priˈɑkjəˌpaɪ/",
+    "forms": [
+      "preoccupies",
+      "preoccupying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "engage or engross the interest or attention of beforehand or occupy urgently or obsessively",
+    "zipf": 1.83,
+    "score": 31.3
+  },
+  {
+    "word": "uncork",
+    "pronunciation": "/ənˈkɔrk/",
+    "forms": [
+      "uncorks",
+      "uncorked",
+      "uncorking"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "release",
+    "zipf": 1.83,
+    "score": 31.3
+  },
+  {
+    "word": "berk",
+    "pronunciation": "/bərk/",
+    "forms": [
+      "berks"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a stupid person who is easy to take advantage of",
+    "zipf": 2.66,
+    "score": 31.2
+  },
+  {
+    "word": "pickings",
+    "pronunciation": "/ˈpɪkɪŋz/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of someone who picks up or takes something",
+    "zipf": 2.66,
+    "score": 31.2
+  },
+  {
+    "word": "deify",
+    "pronunciation": "/ˈdiəˌfaɪ/",
+    "forms": [
+      "deifies",
+      "deified",
+      "deifying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "consider as a god or godlike",
+    "zipf": 1.82,
+    "score": 31.2
+  },
+  {
+    "word": "hobnob",
+    "pronunciation": "/ˈhɑbˌnɑb/",
+    "forms": [
+      "hobnobs",
+      "hobnobed",
+      "hobnobing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "rub elbows with",
+    "zipf": 1.82,
+    "score": 31.2
+  },
+  {
+    "word": "retrench",
+    "pronunciation": "/riˈtrɛnʧ/",
+    "forms": [
+      "retrenches",
+      "retrenched",
+      "retrenching"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "tighten one's belt; use resources carefully",
+    "zipf": 1.82,
+    "score": 31.2
+  },
+  {
+    "word": "serrate",
+    "pronunciation": "/ˈsɛˌreɪt/",
+    "forms": [
+      "serrates",
+      "serrating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make saw-toothed or jag the edge of",
+    "zipf": 1.82,
+    "score": 31.2
+  },
+  {
+    "word": "sheathe",
+    "pronunciation": "/ʃið/",
+    "forms": [
+      "sheathes",
+      "sheathed",
+      "sheathing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cover with a protective sheathing",
+    "zipf": 1.82,
+    "score": 31.2
+  },
+  {
+    "word": "wedel",
+    "pronunciation": "/ˈwɛdəl/",
+    "forms": [
+      "wedels",
+      "wedeled",
+      "wedeling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "ski, alternating directions",
+    "zipf": 1.82,
+    "score": 31.2
+  },
+  {
+    "word": "amortize",
+    "pronunciation": "/ˈæmərˌtaɪz/",
+    "forms": [
+      "amortizes",
+      "amortized",
+      "amortizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "liquidate gradually",
+    "zipf": 1.81,
+    "score": 31.1
+  },
+  {
+    "word": "inseminate",
+    "pronunciation": "/ˌɪnˈsɛməˌneɪt/",
+    "forms": [
+      "inseminates",
+      "inseminated",
+      "inseminating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "place seeds in or on (the ground)",
+    "zipf": 1.81,
+    "score": 31.1
+  },
+  {
+    "word": "hoofed",
+    "pronunciation": "/hʊft/",
+    "forms": [
+      "hoofeder",
+      "hoofedest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "having or resembling hoofs",
+    "zipf": 2.11,
+    "score": 31.1
+  },
+  {
+    "word": "greaves",
+    "pronunciation": "/grivz/",
+    "forms": [
+      "greaveses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the residue that remains after animal fat has been rendered",
+    "zipf": 2.8,
+    "score": 31.0
+  },
+  {
+    "word": "dysphoric",
+    "pronunciation": "/ˌdɪsˈfɔrɪk/",
+    "forms": [
+      "dysphoricer",
+      "dysphoricest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "generalized feeling of distress",
+    "zipf": 1.94,
+    "score": 31.0
+  },
+  {
+    "word": "engross",
+    "pronunciation": "/ɪnˈgroʊs/",
+    "forms": [
+      "engrosses"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "devote (oneself) fully to",
+    "zipf": 1.8,
+    "score": 31.0
+  },
+  {
+    "word": "exult",
+    "pronunciation": "/ɪgˈzəlt/",
+    "forms": [
+      "exults",
+      "exulted",
+      "exulting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "feel extreme happiness or elation",
+    "zipf": 1.8,
+    "score": 31.0
+  },
+  {
+    "word": "recondition",
+    "pronunciation": "/ˌrikənˈdɪʃən/",
+    "forms": [
+      "reconditions",
+      "reconditioned",
+      "reconditioning"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "bring into an improved condition",
+    "zipf": 1.8,
+    "score": 31.0
+  },
+  {
+    "word": "corrie",
+    "pronunciation": "/ˈkɔri/",
+    "forms": [
+      "corries"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a steep-walled semicircular basin in a mountain; may contain a lake",
+    "zipf": 2.79,
+    "score": 30.9
+  },
+  {
+    "word": "skittles",
+    "pronunciation": "/ˈskɪtəlz/",
+    "forms": [
+      "skittleses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a bowling game that is played by rolling a bowling ball down a bowling alley at a target of nine wooden pins",
+    "zipf": 2.79,
+    "score": 30.9
+  },
+  {
+    "word": "rickey",
+    "pronunciation": "/ˈrɪki/",
+    "forms": [
+      "rickeys"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a mixed drink made of sweetened lime juice and soda water usually with liquor",
+    "zipf": 2.63,
+    "score": 30.9
+  },
+  {
+    "word": "colly",
+    "pronunciation": "/ˈkɑli/",
+    "forms": [
+      "collies",
+      "collied",
+      "collying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make soiled, filthy, or dirty",
+    "zipf": 1.79,
+    "score": 30.9
+  },
+  {
+    "word": "denature",
+    "pronunciation": "/dɪˈneɪʧər/",
+    "forms": [
+      "denatures",
+      "denatured",
+      "denaturing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "add nonfissionable material to (fissionable material) so as to make unsuitable for use in an atomic bomb",
+    "zipf": 1.79,
+    "score": 30.9
+  },
+  {
+    "word": "gentrify",
+    "pronunciation": "/ˈʤɛntrɪˌfaɪ/",
+    "forms": [
+      "gentrifies",
+      "gentrified",
+      "gentrifying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "renovate so as to make it conform to middle-class aspirations",
+    "zipf": 1.79,
+    "score": 30.9
+  },
+  {
+    "word": "reprocess",
+    "pronunciation": "/riˈprɔsɛs/",
+    "forms": [
+      "reprocesses",
+      "reprocessed",
+      "reprocessing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "use again after processing",
+    "zipf": 1.79,
+    "score": 30.9
+  },
+  {
+    "word": "deafen",
+    "pronunciation": "/ˈdɛfən/",
+    "forms": [
+      "deafens",
+      "deafened",
+      "deafening"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "be unbearably loud",
+    "zipf": 1.78,
+    "score": 30.8
+  },
+  {
+    "word": "federate",
+    "pronunciation": "/ˈfɛdərˌeɪt/",
+    "forms": [
+      "federates",
+      "federated",
+      "federating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "enter into a league for a common purpose",
+    "zipf": 1.78,
+    "score": 30.8
+  },
+  {
+    "word": "serialize",
+    "pronunciation": "/ˈsɪˌriəˌlaɪz/",
+    "forms": [
+      "serializes",
+      "serializing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "arrange serially",
+    "zipf": 1.78,
+    "score": 30.8
+  },
+  {
+    "word": "stratify",
+    "pronunciation": "/ˈstrætəˌfaɪ/",
+    "forms": [
+      "stratifies",
+      "stratifying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "divide society into social classes or castes",
+    "zipf": 1.78,
+    "score": 30.8
+  },
+  {
+    "word": "tabor",
+    "pronunciation": "/ˈteɪbər/",
+    "forms": [
+      "tabors"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a small drum with one head of soft calfskin",
+    "zipf": 2.78,
+    "score": 30.8
+  },
+  {
+    "word": "professionalize",
+    "pronunciation": "/prəˈfɛʃənəˌlaɪz/",
+    "forms": [
+      "professionalizes",
+      "professionalized",
+      "professionalizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "become professional or proceed in a professional manner or in an activity for pay or as a means of livelihood",
+    "zipf": 1.77,
+    "score": 30.8
+  },
+  {
+    "word": "hospitalize",
+    "pronunciation": "/ˈhɔˌspɪtəˌlaɪz/",
+    "forms": [
+      "hospitalizes",
+      "hospitalized",
+      "hospitalizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "admit into a hospital",
+    "zipf": 1.77,
+    "score": 30.7
+  },
+  {
+    "word": "tantalize",
+    "pronunciation": "/ˈtænəˌlaɪz/",
+    "forms": [
+      "tantalizes",
+      "tantalized",
+      "tantalizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "harass with persistent criticism or carping",
+    "zipf": 1.77,
+    "score": 30.7
+  },
+  {
+    "word": "unhinge",
+    "pronunciation": "/ənˈhɪnʤ/",
+    "forms": [
+      "unhinges",
+      "unhinged",
+      "unhinging"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "disturb in mind or make uneasy or cause to be worried or alarmed",
+    "zipf": 1.77,
+    "score": 30.7
+  },
+  {
+    "word": "vacillate",
+    "pronunciation": "/ˈvæsəˌleɪt/",
+    "forms": [
+      "vacillates",
+      "vacillated",
+      "vacillating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "be undecided about something; waver between conflicting positions or courses of action",
+    "zipf": 1.77,
+    "score": 30.7
+  },
+  {
+    "word": "marlin",
+    "pronunciation": "/ˈmɑrlɪn/",
+    "forms": [
+      "marlins"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "large long-jawed oceanic sport fishes; related to sailfishes and spearfishes; not completely cold-blooded i.e. able to warm their brains and eyes",
+    "zipf": 3.01,
+    "score": 30.7
+  },
+  {
+    "word": "finagle",
+    "pronunciation": "/ˈfɪnəgəl/",
+    "forms": [
+      "finagles",
+      "finagled",
+      "finagling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "achieve something by means of trickery or devious methods",
+    "zipf": 1.76,
+    "score": 30.6
+  },
+  {
+    "word": "midge",
+    "pronunciation": "/mɪʤ/",
+    "forms": [
+      "midges"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "minute two-winged mosquito-like fly lacking biting mouthparts; appear in dancing swarms especially near water",
+    "zipf": 2.76,
+    "score": 30.6
+  },
+  {
+    "word": "saleswoman",
+    "pronunciation": "/ˈseɪlzˌwʊmən/",
+    "forms": [
+      "saleswomen"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a woman salesperson",
+    "zipf": 2.28,
+    "score": 30.6
+  },
+  {
+    "word": "thermosetting",
+    "pronunciation": "/ˈθərmoʊˌsɛtɪŋ/",
+    "forms": [
+      "thermosettinger",
+      "thermosettingest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "having the property of becoming permanently hard and rigid when heated or cured",
+    "zipf": 1.89,
+    "score": 30.5
+  }
+]

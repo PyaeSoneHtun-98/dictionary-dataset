@@ -1,0 +1,546 @@
+[
+  {
+    "word": "dulcinea",
+    "pronunciation": "/ˌdəlsɪˈniə/",
+    "forms": [
+      "dulcineas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a woman who is a man's sweetheart",
+    "zipf": 1.98,
+    "score": 26.0
+  },
+  {
+    "word": "liana",
+    "pronunciation": "/liˈɑnə/",
+    "forms": [
+      "lianas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a woody climbing usually tropical plant",
+    "zipf": 2.53,
+    "score": 25.9
+  },
+  {
+    "word": "balancer",
+    "pronunciation": "/ˈbælənsər/",
+    "forms": [
+      "balancers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an acrobat who balances himself in difficult positions",
+    "zipf": 2.29,
+    "score": 25.9
+  },
+  {
+    "word": "sorter",
+    "pronunciation": "/ˈsɔrtər/",
+    "forms": [
+      "sorters"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a clerk who sorts things (as letters at the post office)",
+    "zipf": 2.29,
+    "score": 25.9
+  },
+  {
+    "word": "wonk",
+    "pronunciation": "/wɑnk/",
+    "forms": [
+      "wonks"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an insignificant student who is ridiculed as being affected or boringly studious",
+    "zipf": 2.29,
+    "score": 25.9
+  },
+  {
+    "word": "pharos",
+    "pronunciation": "/ˈfɛˌroʊz/",
+    "forms": [
+      "pharoses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a tower with a light that gives warning of shoals to passing ships",
+    "zipf": 2.13,
+    "score": 25.9
+  },
+  {
+    "word": "necker",
+    "pronunciation": "/ˈnɛkər/",
+    "forms": [
+      "neckers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a lover who necks",
+    "zipf": 2.28,
+    "score": 25.8
+  },
+  {
+    "word": "warmongering",
+    "pronunciation": "/ˈwɔrˌmɑŋgərɪŋ/",
+    "forms": [
+      "warmongerings"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a policy of advocating war",
+    "zipf": 2.27,
+    "score": 25.7
+  },
+  {
+    "word": "serology",
+    "pronunciation": "/sɛˈrɑləʤi/",
+    "forms": [
+      "serologies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the branch of medical science that deals with serums; especially with blood serums and disease",
+    "zipf": 1.95,
+    "score": 25.7
+  },
+  {
+    "word": "dairying",
+    "pronunciation": "/ˈdɛriɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the business of a dairy",
+    "zipf": 2.1,
+    "score": 25.6
+  },
+  {
+    "word": "negus",
+    "pronunciation": "/ˈnigəs/",
+    "forms": [
+      "neguses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "wine and hot water with sugar and lemon juice and nutmeg",
+    "zipf": 2.26,
+    "score": 25.6
+  },
+  {
+    "word": "pyrrhic",
+    "pronunciation": "/ˈpɪrɪk/",
+    "forms": [
+      "pyrrhics"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a metrical unit with unstressed-unstressed syllables",
+    "zipf": 2.26,
+    "score": 25.6
+  },
+  {
+    "word": "caftan",
+    "pronunciation": "/ˈkæfˌtæn/",
+    "forms": [
+      "caftans"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a woman's dress style that imitates the caftan cloaks worn by men in the Near East",
+    "zipf": 1.94,
+    "score": 25.6
+  },
+  {
+    "word": "frogman",
+    "pronunciation": "/ˈfrɑgˌmæn/",
+    "forms": [
+      "frogmen"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who works underwater",
+    "zipf": 1.94,
+    "score": 25.6
+  },
+  {
+    "word": "jitney",
+    "pronunciation": "/ˈʤɪtni/",
+    "forms": [
+      "jitneys"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a vehicle carrying many passengers; used for public transport",
+    "zipf": 1.94,
+    "score": 25.6
+  },
+  {
+    "word": "hearer",
+    "pronunciation": "/ˈhirər/",
+    "forms": [
+      "hearers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who listens attentively",
+    "zipf": 2.09,
+    "score": 25.5
+  },
+  {
+    "word": "laugher",
+    "pronunciation": "/ˈlɑkər/",
+    "forms": [
+      "laughers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a person who is laughing or who laughs easily",
+    "zipf": 2.09,
+    "score": 25.5
+  },
+  {
+    "word": "underling",
+    "pronunciation": "/ˈəndərlɪŋ/",
+    "forms": [
+      "underlings"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an assistant subject to the authority or control of another",
+    "zipf": 2.24,
+    "score": 25.4
+  },
+  {
+    "word": "asker",
+    "pronunciation": "/ˈæskər/",
+    "forms": [
+      "askers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who asks a question",
+    "zipf": 2.08,
+    "score": 25.4
+  },
+  {
+    "word": "benedick",
+    "pronunciation": "/ˈbɛnədɪk/",
+    "forms": [
+      "benedicks"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a newly married man (especially one who has long been a bachelor)",
+    "zipf": 2.08,
+    "score": 25.4
+  },
+  {
+    "word": "buhl",
+    "pronunciation": "/bjul/",
+    "forms": [
+      "buhls"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an inlaid furniture decoration; tortoiseshell and yellow and white metal form scrolls in cabinetwork",
+    "zipf": 2.08,
+    "score": 25.4
+  },
+  {
+    "word": "handicapper",
+    "pronunciation": "/ˈhændiˌkæpər/",
+    "forms": [
+      "handicappers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who sets the betting odds based on calculations of the outcome of a contest (especially a horse race)",
+    "zipf": 2.08,
+    "score": 25.4
+  },
+  {
+    "word": "rheumatologist",
+    "pronunciation": "/ˌruməˈtɑləʤəst/",
+    "forms": [
+      "rheumatologists"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a physician specializing in rheumatic diseases",
+    "zipf": 2.08,
+    "score": 25.4
+  },
+  {
+    "word": "rioter",
+    "pronunciation": "/ˈraɪətər/",
+    "forms": [
+      "rioters"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "troublemaker who participates in a violent disturbance of the peace; someone who rises up against the constituted authority",
+    "zipf": 2.08,
+    "score": 25.4
+  },
+  {
+    "word": "vindicator",
+    "pronunciation": "/vɪndəˈkeɪtər/",
+    "forms": [
+      "vindicators"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a person who argues to defend or justify some policy or institution",
+    "zipf": 2.08,
+    "score": 25.4
+  },
+  {
+    "word": "amniocentesis",
+    "pronunciation": "/ˌæmnioʊˌsɛnˈtisɪs/",
+    "forms": [
+      "amniocenteses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "(pregnancy) extraction by centesis of amniotic fluid from a pregnant woman (after the 15th week of pregnancy) to aid in the diagnosis of fetal abnormalities",
+    "zipf": 1.92,
+    "score": 25.4
+  },
+  {
+    "word": "anaesthetist",
+    "pronunciation": "/əˈnɛsθɛtɪst/",
+    "forms": [
+      "anaesthetists"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a specialist who administers an anesthetic to a patient before he is treated",
+    "zipf": 2.23,
+    "score": 25.3
+  },
+  {
+    "word": "vara",
+    "pronunciation": "/ˈvɑrə/",
+    "forms": [
+      "varas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a Spanish unit of length (about a yard) having different values in different localities",
+    "zipf": 2.23,
+    "score": 25.3
+  },
+  {
+    "word": "doubter",
+    "pronunciation": "/ˈdaʊtər/",
+    "forms": [
+      "doubters"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who habitually doubts accepted beliefs",
+    "zipf": 2.07,
+    "score": 25.3
+  },
+  {
+    "word": "knower",
+    "pronunciation": "/noʊər/",
+    "forms": [
+      "knowers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a person who knows or apprehends",
+    "zipf": 2.07,
+    "score": 25.3
+  },
+  {
+    "word": "pugilist",
+    "pronunciation": "/ˈpjuʤəlɪst/",
+    "forms": [
+      "pugilists"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who fights with his fists for sport",
+    "zipf": 2.07,
+    "score": 25.3
+  },
+  {
+    "word": "wino",
+    "pronunciation": "/ˈwinoʊ/",
+    "forms": [
+      "winos"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a chronic drinker",
+    "zipf": 2.07,
+    "score": 25.3
+  },
+  {
+    "word": "polonaise",
+    "pronunciation": "/ˌpɑləˈneɪz/",
+    "forms": [
+      "polonaises"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a woman's dress with a tight bodice and an overskirt drawn back to reveal a colorful underskirt",
+    "zipf": 1.91,
+    "score": 25.3
+  },
+  {
+    "word": "rhetorician",
+    "pronunciation": "/ˌrɛtərˈɪʃən/",
+    "forms": [
+      "rhetoricians"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a person who delivers a speech or oration",
+    "zipf": 1.91,
+    "score": 25.3
+  },
+  {
+    "word": "bettor",
+    "pronunciation": "/ˈbɛtər/",
+    "forms": [
+      "bettors"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who bets",
+    "zipf": 2.06,
+    "score": 25.2
+  },
+  {
+    "word": "hysteric",
+    "pronunciation": "/ˌhɪˈstɛrɪk/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a person suffering from hysteria",
+    "zipf": 2.06,
+    "score": 25.2
+  },
+  {
+    "word": "sharer",
+    "pronunciation": "/ˈʃɛrər/",
+    "forms": [
+      "sharers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who has or gives or receives a part or a share",
+    "zipf": 2.06,
+    "score": 25.2
+  },
+  {
+    "word": "stager",
+    "pronunciation": "/ˈsteɪʤər/",
+    "forms": [
+      "stagers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who supervises the physical aspects in the production of a show and who is in charge of the stage when the show is being performed",
+    "zipf": 1.9,
+    "score": 25.2
+  },
+  {
+    "word": "payables",
+    "pronunciation": "/ˈpeɪəbəlz/",
+    "forms": [
+      "payableses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "money that you currently expect to pay on notes and accounts",
+    "zipf": 2.05,
+    "score": 25.1
+  },
+  {
+    "word": "pappa",
+    "pronunciation": "/ˈpæpə/",
+    "forms": [
+      "pappas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an informal term for a father; probably derived from baby talk",
+    "zipf": 2.2,
+    "score": 25.0
+  },
+  {
+    "word": "townie",
+    "pronunciation": "/ˈtaʊni/",
+    "forms": [
+      "townies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "resident of a college town not affiliated with the college",
+    "zipf": 2.2,
+    "score": 25.0
+  },
+  {
+    "word": "doxy",
+    "pronunciation": "/ˈdɑksi/",
+    "forms": [
+      "doxies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a woman who cohabits with an important man",
+    "zipf": 1.88,
+    "score": 25.0
+  },
+  {
+    "word": "earthling",
+    "pronunciation": "/ˈərθlɪŋ/",
+    "forms": [
+      "earthlings"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an inhabitant of the earth",
+    "zipf": 2.19,
+    "score": 24.9
+  },
+  {
+    "word": "raver",
+    "pronunciation": "/ˈreɪvər/",
+    "forms": [
+      "ravers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a participant in a rave dancing party",
+    "zipf": 2.19,
+    "score": 24.9
+  },
+  {
+    "word": "selva",
+    "pronunciation": "/ˈseɪlvə/",
+    "forms": [
+      "selvas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a rain forest in a tropical area",
+    "zipf": 2.19,
+    "score": 24.9
+  },
+  {
+    "word": "teamster",
+    "pronunciation": "/ˈtimstər/",
+    "forms": [
+      "teamsters"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the driver of a team of horses doing hauling",
+    "zipf": 2.19,
+    "score": 24.9
+  },
+  {
+    "word": "worsted",
+    "pronunciation": "/ˈwərstɪd/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a woolen fabric with a hard textured surface and no nap; woven of worsted yarns",
+    "zipf": 2.42,
+    "score": 24.8
+  },
+  {
+    "word": "shyster",
+    "pronunciation": "/ˈʃaɪstər/",
+    "forms": [
+      "shysters"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a person (especially a lawyer or politician) who uses unscrupulous or unethical methods",
+    "zipf": 1.86,
+    "score": 24.8
+  },
+  {
+    "word": "ganger",
+    "pronunciation": "/ˈgæŋər/",
+    "forms": [
+      "gangers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the foreman of a work gang",
+    "zipf": 1.85,
+    "score": 24.7
+  },
+  {
+    "word": "baas",
+    "pronunciation": "/bɑz/",
+    "forms": [
+      "baases"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "South African term for `boss'",
+    "zipf": 2.16,
+    "score": 24.6
+  }
+]

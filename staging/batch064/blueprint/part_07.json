@@ -1,0 +1,539 @@
+[
+  {
+    "word": "oviparous",
+    "pronunciation": "/oʊˈvɪpərəs/",
+    "forms": [
+      "oviparouser",
+      "oviparousest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "egg-laying",
+    "zipf": 1.74,
+    "score": 27.4
+  },
+  {
+    "word": "wheaten",
+    "pronunciation": "/ˈwitən/",
+    "forms": [
+      "wheatener",
+      "wheatenest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to or derived from wheat",
+    "zipf": 1.74,
+    "score": 27.4
+  },
+  {
+    "word": "yarder",
+    "pronunciation": "/ˈjɑrdər/",
+    "forms": [
+      "yarders"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "(used only in combinations) the height or length of something in yards",
+    "zipf": 2.43,
+    "score": 27.3
+  },
+  {
+    "word": "milt",
+    "pronunciation": "/mɪlt/",
+    "forms": [
+      "milts"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "fish sperm or sperm-filled reproductive gland; having a creamy texture",
+    "zipf": 2.66,
+    "score": 27.2
+  },
+  {
+    "word": "khakis",
+    "pronunciation": "/ˈkækiz/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a military uniform made of khaki fabric",
+    "zipf": 2.5,
+    "score": 27.2
+  },
+  {
+    "word": "junky",
+    "pronunciation": "/ˈʤəŋki/",
+    "forms": [
+      "junkies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a narcotics addict",
+    "zipf": 2.42,
+    "score": 27.2
+  },
+  {
+    "word": "svoboda",
+    "pronunciation": "/svoʊˈboʊdə/",
+    "forms": [
+      "svobodas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "(Russia) freedom",
+    "zipf": 2.42,
+    "score": 27.2
+  },
+  {
+    "word": "homesteader",
+    "pronunciation": "/ˈhoʊmstɛdər/",
+    "forms": [
+      "homesteaders"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who settles lawfully on government land with the intent to acquire title to it",
+    "zipf": 1.94,
+    "score": 27.2
+  },
+  {
+    "word": "pertinently",
+    "pronunciation": "/ˈpərtɪnɪntli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a pertinent way",
+    "zipf": 1.92,
+    "score": 27.2
+  },
+  {
+    "word": "mercuric",
+    "pronunciation": "/mərˈkjʊrɪk/",
+    "forms": [
+      "mercuricer",
+      "mercuricest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "of or containing mercury",
+    "zipf": 1.72,
+    "score": 27.2
+  },
+  {
+    "word": "wagoner",
+    "pronunciation": "/ˈwægənər/",
+    "forms": [
+      "wagoners"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the driver of a wagon",
+    "zipf": 2.41,
+    "score": 27.1
+  },
+  {
+    "word": "regally",
+    "pronunciation": "/ˈrigəli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a regal manner",
+    "zipf": 1.75,
+    "score": 27.1
+  },
+  {
+    "word": "chimerical",
+    "pronunciation": "/kɪˈmɛrəkəl/",
+    "forms": [
+      "chimericaler",
+      "chimericalest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "being or relating to or like a chimera; - Douglas Bush",
+    "zipf": 1.71,
+    "score": 27.1
+  },
+  {
+    "word": "diazo",
+    "pronunciation": "/daɪˈæˌzoʊ/",
+    "forms": [
+      "diazoer",
+      "diazoest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "relating to or containing diazonium",
+    "zipf": 1.71,
+    "score": 27.1
+  },
+  {
+    "word": "dervish",
+    "pronunciation": "/ˈdərvɪʃ/",
+    "forms": [
+      "dervishes"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an ascetic Muslim monk; a member of an order noted for devotional exercises involving bodily movements",
+    "zipf": 2.4,
+    "score": 27.0
+  },
+  {
+    "word": "landsman",
+    "pronunciation": "/ˈlændzmən/",
+    "forms": [
+      "landsmans"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a person who lives and works on land",
+    "zipf": 2.08,
+    "score": 27.0
+  },
+  {
+    "word": "ribald",
+    "pronunciation": "/ˈraɪbɑld/",
+    "forms": [
+      "ribalds"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a ribald person; someone who uses vulgar and offensive language",
+    "zipf": 2.08,
+    "score": 27.0
+  },
+  {
+    "word": "cavalierly",
+    "pronunciation": "/ˌkævəˈlɪrli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a proud and domineering manner",
+    "zipf": 1.74,
+    "score": 27.0
+  },
+  {
+    "word": "smilingly",
+    "pronunciation": "/sˈmaɪlɪŋli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "with smiles; in a smiling manner",
+    "zipf": 1.74,
+    "score": 27.0
+  },
+  {
+    "word": "biddy",
+    "pronunciation": "/ˈbɪdi/",
+    "forms": [
+      "biddies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "adult female chicken",
+    "zipf": 2.39,
+    "score": 26.9
+  },
+  {
+    "word": "dietician",
+    "pronunciation": "/ˌdaɪəˈtɪʃən/",
+    "forms": [
+      "dieticians"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a specialist in the study of nutrition",
+    "zipf": 2.39,
+    "score": 26.9
+  },
+  {
+    "word": "procrastinator",
+    "pronunciation": "/prəˈkræstəˌneɪtər/",
+    "forms": [
+      "procrastinators"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who postpones work (especially out of laziness or habitual carelessness)",
+    "zipf": 2.07,
+    "score": 26.9
+  },
+  {
+    "word": "lisle",
+    "pronunciation": "/laɪəl/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a fabric woven with lisle thread",
+    "zipf": 2.62,
+    "score": 26.8
+  },
+  {
+    "word": "gruffly",
+    "pronunciation": "/ˈgrəfli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a gruff manner",
+    "zipf": 1.72,
+    "score": 26.8
+  },
+  {
+    "word": "seidel",
+    "pronunciation": "/ˈsaɪdəl/",
+    "forms": [
+      "seidels"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a glass for beer",
+    "zipf": 2.38,
+    "score": 26.8
+  },
+  {
+    "word": "wellspring",
+    "pronunciation": "/ˈwɛlˌsprɪŋ/",
+    "forms": [
+      "wellsprings"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the source of water for a well",
+    "zipf": 2.38,
+    "score": 26.8
+  },
+  {
+    "word": "angelica",
+    "pronunciation": "/ˈænʤəˌlikə/",
+    "forms": [
+      "angelicas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "any of various tall and stout herbs of the genus Angelica having pinnately compound leaves and small white or greenish flowers in compound umbels",
+    "zipf": 3.09,
+    "score": 26.7
+  },
+  {
+    "word": "poky",
+    "pronunciation": "/ˈpoʊki/",
+    "forms": [
+      "pokies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a correctional institution used to detain persons who are in the lawful custody of the government (either accused persons awaiting trial or convicted persons serving a sentence)",
+    "zipf": 1.89,
+    "score": 26.7
+  },
+  {
+    "word": "reprobate",
+    "pronunciation": "/ˈrɛprɔbeɪt/",
+    "forms": [
+      "reprobates"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a person without moral scruples",
+    "zipf": 2.2,
+    "score": 26.6
+  },
+  {
+    "word": "soothsayer",
+    "pronunciation": "/ˌsuθˈseɪər/",
+    "forms": [
+      "soothsayers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who makes predictions of the future (usually on the basis of special knowledge)",
+    "zipf": 2.2,
+    "score": 26.6
+  },
+  {
+    "word": "tripper",
+    "pronunciation": "/ˈtrɪpər/",
+    "forms": [
+      "trippers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "(slang) someone who has taken a psychedelic drug and is undergoing hallucinations",
+    "zipf": 2.2,
+    "score": 26.6
+  },
+  {
+    "word": "kiley",
+    "pronunciation": "/ˈkaɪli/",
+    "forms": [
+      "kileys"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an Australian boomerang; one side flat and the other convex",
+    "zipf": 2.36,
+    "score": 26.6
+  },
+  {
+    "word": "plaudits",
+    "pronunciation": "/ˈplɔdɪts/",
+    "forms": [
+      "plauditses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "enthusiastic approval",
+    "zipf": 2.36,
+    "score": 26.6
+  },
+  {
+    "word": "transgressor",
+    "pronunciation": "/trænzˈgrɛsər/",
+    "forms": [
+      "transgressors"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who transgresses; someone who violates a law or command",
+    "zipf": 1.87,
+    "score": 26.5
+  },
+  {
+    "word": "committeeman",
+    "pronunciation": "/kəˈmɪtimən/",
+    "forms": [
+      "committeemans"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a man who is a member of committee",
+    "zipf": 2.19,
+    "score": 26.5
+  },
+  {
+    "word": "doughboy",
+    "pronunciation": "/ˈdoʊˌbɔɪ/",
+    "forms": [
+      "doughboys"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an American infantryman in World War I",
+    "zipf": 2.19,
+    "score": 26.5
+  },
+  {
+    "word": "gilder",
+    "pronunciation": "/ˈgɪldər/",
+    "forms": [
+      "gilders"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone whose occupation is to apply an overlay of gold or gilt",
+    "zipf": 2.19,
+    "score": 26.5
+  },
+  {
+    "word": "kutch",
+    "pronunciation": "/kəʧ/",
+    "forms": [
+      "kutches"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "tannin extract derived from any of several mangrove barks of Pacific areas",
+    "zipf": 2.19,
+    "score": 26.5
+  },
+  {
+    "word": "stander",
+    "pronunciation": "/ˈstændər/",
+    "forms": [
+      "standers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an organism (person or animal) that stands",
+    "zipf": 2.18,
+    "score": 26.4
+  },
+  {
+    "word": "strayer",
+    "pronunciation": "/streɪər/",
+    "forms": [
+      "strayers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who strays or falls behind",
+    "zipf": 2.18,
+    "score": 26.4
+  },
+  {
+    "word": "gloomily",
+    "pronunciation": "/ˈgluməli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "with gloom",
+    "zipf": 1.84,
+    "score": 26.4
+  },
+  {
+    "word": "wittingly",
+    "pronunciation": "/ˈwɪtɪŋli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "with full knowledge and deliberation",
+    "zipf": 1.84,
+    "score": 26.4
+  },
+  {
+    "word": "stimulative",
+    "pronunciation": "/ˈstɪmjəˌleɪtɪv/",
+    "forms": [
+      "stimulativer",
+      "stimulativest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "capable of arousing or accelerating physiological or psychological activity or response by a chemical agent",
+    "zipf": 1.87,
+    "score": 26.3
+  },
+  {
+    "word": "screed",
+    "pronunciation": "/skrid/",
+    "forms": [
+      "screeds"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a long monotonous harangue",
+    "zipf": 2.32,
+    "score": 26.2
+  },
+  {
+    "word": "telfer",
+    "pronunciation": "/ˈtɛlfər/",
+    "forms": [
+      "telfers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "one of the conveyances (or cars) in a telpherage",
+    "zipf": 2.31,
+    "score": 26.1
+  },
+  {
+    "word": "stuffer",
+    "pronunciation": "/ˈstəfər/",
+    "forms": [
+      "stuffers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a craftsman who stuffs and mounts the skins of animals for display",
+    "zipf": 2.15,
+    "score": 26.1
+  },
+  {
+    "word": "slickly",
+    "pronunciation": "/sˈlɪkli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "with superficial plausibility",
+    "zipf": 1.81,
+    "score": 26.1
+  },
+  {
+    "word": "unreconstructed",
+    "pronunciation": "/ˌənrikənˈstrəktɪd/",
+    "forms": [
+      "unreconstructeder",
+      "unreconstructedest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "adhering to an attitude or position widely held to be outmoded",
+    "zipf": 1.76,
+    "score": 26.1
+  },
+  {
+    "word": "hankey",
+    "pronunciation": "/ˈhæŋki/",
+    "forms": [
+      "hankeys"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a square piece of cloth used for wiping the eyes or nose or as a costume accessory",
+    "zipf": 2.3,
+    "score": 26.0
+  },
+  {
+    "word": "sojourner",
+    "pronunciation": "/ˈsoʊʤərnər/",
+    "forms": [
+      "sojourners"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a temporary resident",
+    "zipf": 2.3,
+    "score": 26.0
+  }
+]

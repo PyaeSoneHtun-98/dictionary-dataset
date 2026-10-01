@@ -1,0 +1,538 @@
+[
+  {
+    "word": "expatriation",
+    "pronunciation": "/ɛkˌspeɪtriˈeɪʃən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of expelling a person from their native land",
+    "zipf": 1.78,
+    "score": 22.4
+  },
+  {
+    "word": "landrover",
+    "pronunciation": "/ˈlænˈdroʊvər/",
+    "forms": [
+      "landrovers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a car suitable for traveling over rough terrain",
+    "zipf": 1.78,
+    "score": 22.4
+  },
+  {
+    "word": "nonbeliever",
+    "pronunciation": "/ˌnɑnbɪˈlivər/",
+    "forms": [
+      "nonbelievers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who refuses to believe (as in a divinity)",
+    "zipf": 1.78,
+    "score": 22.4
+  },
+  {
+    "word": "pledger",
+    "pronunciation": "/ˈplɛʤər/",
+    "forms": [
+      "pledgers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who makes or gives a pledge",
+    "zipf": 1.78,
+    "score": 22.4
+  },
+  {
+    "word": "adventurism",
+    "pronunciation": "/ædˈvɛnʧərˌɪzəm/",
+    "forms": [
+      "adventurisms"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "recklessness in politics or foreign affairs",
+    "zipf": 1.94,
+    "score": 22.4
+  },
+  {
+    "word": "bigness",
+    "pronunciation": "/ˈbɪgnəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the property of having a relatively great size",
+    "zipf": 1.94,
+    "score": 22.4
+  },
+  {
+    "word": "cordage",
+    "pronunciation": "/ˈkɔrdəʤ/",
+    "forms": [
+      "cordages"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the amount of wood in an area as measured in cords",
+    "zipf": 1.94,
+    "score": 22.4
+  },
+  {
+    "word": "effrontery",
+    "pronunciation": "/ɪˈfrəntəri/",
+    "forms": [
+      "effronteries"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "audacious (even arrogant) behavior that you have no right to",
+    "zipf": 1.94,
+    "score": 22.4
+  },
+  {
+    "word": "eightieth",
+    "pronunciation": "/ˈeɪtiɪθ/",
+    "forms": [
+      "eightieths"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "position 80 in a countable series of things",
+    "zipf": 1.94,
+    "score": 22.4
+  },
+  {
+    "word": "evenness",
+    "pronunciation": "/ˈivənnəs/",
+    "forms": [
+      "evennesses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the parity of even numbers (divisible by two)",
+    "zipf": 1.94,
+    "score": 22.4
+  },
+  {
+    "word": "flounce",
+    "pronunciation": "/flaʊns/",
+    "forms": [
+      "flounces"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a strip of pleated material used as a decoration or a trim",
+    "zipf": 1.94,
+    "score": 22.4
+  },
+  {
+    "word": "lumpectomy",
+    "pronunciation": "/ˌləmˈpɛktəmi/",
+    "forms": [
+      "lumpectomies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "surgical removal of a tumor without removing much of the surrounding tissue or lymph nodes; performed in some cases of breast cancer",
+    "zipf": 1.94,
+    "score": 22.4
+  },
+  {
+    "word": "phantasmagoria",
+    "pronunciation": "/fænˌtæzməˈgɔriə/",
+    "forms": [
+      "phantasmagorias"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a constantly changing medley of real or imagined images (as in a dream)",
+    "zipf": 1.94,
+    "score": 22.4
+  },
+  {
+    "word": "scribbler",
+    "pronunciation": "/ˈskrɪblər/",
+    "forms": [
+      "scribblers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "informal terms for journalists",
+    "zipf": 1.94,
+    "score": 22.4
+  },
+  {
+    "word": "soffit",
+    "pronunciation": "/ˈsɔfɪt/",
+    "forms": [
+      "soffits"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the underside of a part of a building (such as an arch or overhang or beam etc.)",
+    "zipf": 1.94,
+    "score": 22.4
+  },
+  {
+    "word": "whitener",
+    "pronunciation": "/ˈwaɪtnər/",
+    "forms": [
+      "whiteners"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an agent that makes things white or colorless",
+    "zipf": 1.94,
+    "score": 22.4
+  },
+  {
+    "word": "thrips",
+    "pronunciation": "/θrɪps/",
+    "forms": [
+      "thripses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "any of various small to minute sucking insects with narrow feathery wings if any; they feed on plant sap and many are destructive",
+    "zipf": 2.25,
+    "score": 22.3
+  },
+  {
+    "word": "architrave",
+    "pronunciation": "/ˈɑrkəˌtreɪv/",
+    "forms": [
+      "architraves"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the molding around a door or window",
+    "zipf": 1.93,
+    "score": 22.3
+  },
+  {
+    "word": "craton",
+    "pronunciation": "/ˈkrætən/",
+    "forms": [
+      "cratons"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the part of a continent that is stable and forms the central mass of the continent; typically Precambrian",
+    "zipf": 1.93,
+    "score": 22.3
+  },
+  {
+    "word": "dismantlement",
+    "pronunciation": "/dɪsˈmæntəlmənt/",
+    "forms": [
+      "dismantlements"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the act of taking something apart (as a piece of machinery)",
+    "zipf": 1.93,
+    "score": 22.3
+  },
+  {
+    "word": "dissimilarity",
+    "pronunciation": "/ˌdɪˌsɪməˈlærəti/",
+    "forms": [
+      "dissimilarities"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the quality of being dissimilar",
+    "zipf": 1.93,
+    "score": 22.3
+  },
+  {
+    "word": "lasher",
+    "pronunciation": "/ˈlæʃər/",
+    "forms": [
+      "lashers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a driver who urges the animals on with lashes of a whip",
+    "zipf": 1.93,
+    "score": 22.3
+  },
+  {
+    "word": "suffragist",
+    "pronunciation": "/ˈsəfrəʤɪst/",
+    "forms": [
+      "suffragists"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an advocate of the extension of voting rights (especially to women)",
+    "zipf": 1.93,
+    "score": 22.3
+  },
+  {
+    "word": "sulfa",
+    "pronunciation": "/ˈsəlfə/",
+    "forms": [
+      "sulfas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "antibacterial consisting of any of several synthetic organic compounds capable of inhibiting the growth of bacteria that require PABA",
+    "zipf": 1.93,
+    "score": 22.3
+  },
+  {
+    "word": "sward",
+    "pronunciation": "/swɔrd/",
+    "forms": [
+      "swards"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "surface layer of ground containing a mat of grass and grass roots",
+    "zipf": 1.93,
+    "score": 22.3
+  },
+  {
+    "word": "wastefulness",
+    "pronunciation": "/ˈweɪstfəlnəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the trait of wasting resources",
+    "zipf": 1.93,
+    "score": 22.3
+  },
+  {
+    "word": "lightheadedness",
+    "pronunciation": "/ˈlaɪˌthɛdədnəs/",
+    "forms": [
+      "lightheadednesses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a reeling sensation; a feeling that you are about to fall",
+    "zipf": 1.92,
+    "score": 22.3
+  },
+  {
+    "word": "humdinger",
+    "pronunciation": "/ˈhəmdɪŋər/",
+    "forms": [
+      "humdingers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone of remarkable excellence",
+    "zipf": 1.77,
+    "score": 22.3
+  },
+  {
+    "word": "lubber",
+    "pronunciation": "/ˈləbər/",
+    "forms": [
+      "lubbers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an awkward stupid person",
+    "zipf": 1.77,
+    "score": 22.3
+  },
+  {
+    "word": "sophisticate",
+    "pronunciation": "/səˈfɪstəˌkeɪt/",
+    "forms": [
+      "sophisticates"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a worldly-wise person",
+    "zipf": 1.77,
+    "score": 22.3
+  },
+  {
+    "word": "stinginess",
+    "pronunciation": "/ˈstɪnʤinɪs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a lack of generosity; a general unwillingness to part with money",
+    "zipf": 1.76,
+    "score": 22.2
+  },
+  {
+    "word": "trencher",
+    "pronunciation": "/ˈtrɛnʧər/",
+    "forms": [
+      "trenchers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who digs trenches",
+    "zipf": 1.76,
+    "score": 22.2
+  },
+  {
+    "word": "dentine",
+    "pronunciation": "/ˈdɛntin/",
+    "forms": [
+      "dentines"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a calcareous material harder and denser than bone that comprises the bulk of a tooth",
+    "zipf": 1.92,
+    "score": 22.2
+  },
+  {
+    "word": "ewer",
+    "pronunciation": "/juər/",
+    "forms": [
+      "ewers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an open vessel with a handle and a spout for pouring",
+    "zipf": 1.92,
+    "score": 22.2
+  },
+  {
+    "word": "glycoside",
+    "pronunciation": "/ˈglaɪkəˌsaɪd/",
+    "forms": [
+      "glycosides"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a group of compounds derived from monosaccharides",
+    "zipf": 1.92,
+    "score": 22.2
+  },
+  {
+    "word": "gubbins",
+    "pronunciation": "/ˈgəbɪnz/",
+    "forms": [
+      "gubbinses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "something unspecified whose name is either forgotten or not known",
+    "zipf": 1.92,
+    "score": 22.2
+  },
+  {
+    "word": "homonym",
+    "pronunciation": "/ˈhɔmənɪm/",
+    "forms": [
+      "homonyms"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "two words are homonyms if they are pronounced or spelled the same way but have different meanings",
+    "zipf": 1.92,
+    "score": 22.2
+  },
+  {
+    "word": "immanence",
+    "pronunciation": "/ˈɪmənəns/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the state of being within or not going beyond a given domain",
+    "zipf": 1.92,
+    "score": 22.2
+  },
+  {
+    "word": "inflator",
+    "pronunciation": "/ˌɪnˈfleɪtər/",
+    "forms": [
+      "inflators"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an air pump operated by hand to inflate something (as a tire)",
+    "zipf": 1.92,
+    "score": 22.2
+  },
+  {
+    "word": "mitochondrion",
+    "pronunciation": "/ˌmaɪtəˈkɑndriən/",
+    "forms": [
+      "mitochondrions"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an organelle containing enzymes responsible for producing energy",
+    "zipf": 1.92,
+    "score": 22.2
+  },
+  {
+    "word": "ontogeny",
+    "pronunciation": "/ɑnˈtɑʤəni/",
+    "forms": [
+      "ontogenies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "(biology) the process of an individual organism growing organically; a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level",
+    "zipf": 1.92,
+    "score": 22.2
+  },
+  {
+    "word": "seismologist",
+    "pronunciation": "/ˌsaɪzˈmɑləʤɪst/",
+    "forms": [
+      "seismologists"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a geophysicist who studies earthquakes and the mechanical characteristics of the Earth",
+    "zipf": 1.92,
+    "score": 22.2
+  },
+  {
+    "word": "faintness",
+    "pronunciation": "/ˈfeɪntnəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a feeling of faintness and of being ready to swoon",
+    "zipf": 1.75,
+    "score": 22.1
+  },
+  {
+    "word": "actinide",
+    "pronunciation": "/ˈæktɪˌnaɪd/",
+    "forms": [
+      "actinides"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "any of a series of radioactive elements with atomic numbers 89 through 103",
+    "zipf": 1.91,
+    "score": 22.1
+  },
+  {
+    "word": "credenza",
+    "pronunciation": "/krəˈdɛnzə/",
+    "forms": [
+      "credenzas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a kind of sideboard or buffet",
+    "zipf": 1.91,
+    "score": 22.1
+  },
+  {
+    "word": "demoralization",
+    "pronunciation": "/dɪˌmɔrəlɪˈzeɪʃən/",
+    "forms": [
+      "demoralizations"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "destroying the moral basis for a doctrine or policy",
+    "zipf": 1.91,
+    "score": 22.1
+  },
+  {
+    "word": "extrication",
+    "pronunciation": "/ˌɛkstrəˈkeɪʃən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of releasing from a snarled or tangled condition",
+    "zipf": 1.91,
+    "score": 22.1
+  },
+  {
+    "word": "halon",
+    "pronunciation": "/ˈheɪˌlɑn/",
+    "forms": [
+      "halons"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a compound in which the hydrogen atoms of a hydrocarbon have been replaced by bromine and other halogen atoms; very stable; used in fire extinguishers although it is thought to release bromine that depletes the ozone layer",
+    "zipf": 1.91,
+    "score": 22.1
+  },
+  {
+    "word": "permissiveness",
+    "pronunciation": "/pərˈmɪsɪvnəs/",
+    "forms": [
+      "permissivenesses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a disposition to allow freedom of choice and behavior",
+    "zipf": 1.91,
+    "score": 22.1
+  },
+  {
+    "word": "reamer",
+    "pronunciation": "/ˈrimər/",
+    "forms": [
+      "reamers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a squeezer with a conical ridged center that is used for squeezing juice from citrus fruit",
+    "zipf": 1.91,
+    "score": 22.1
+  }
+]

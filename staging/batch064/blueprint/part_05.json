@@ -1,0 +1,599 @@
+[
+  {
+    "word": "circumscribe",
+    "pronunciation": "/ˌsərkəmˈskraɪb/",
+    "forms": [
+      "circumscribes",
+      "circumscribed",
+      "circumscribing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "draw a line around",
+    "zipf": 1.75,
+    "score": 30.5
+  },
+  {
+    "word": "encamp",
+    "pronunciation": "/ɪnˈkæmp/",
+    "forms": [
+      "encamps",
+      "encamped",
+      "encamping"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "live in or as if in a tent",
+    "zipf": 1.75,
+    "score": 30.5
+  },
+  {
+    "word": "rosette",
+    "pronunciation": "/rəˈsɛt/",
+    "forms": [
+      "rosettes"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an ornament or pattern resembling a rose that is worn as a badge of office or as recognition of having won an honor",
+    "zipf": 2.74,
+    "score": 30.4
+  },
+  {
+    "word": "caramelize",
+    "pronunciation": "/ˈkɛrəməˌlaɪz/",
+    "forms": [
+      "caramelizes",
+      "caramelized",
+      "caramelizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "be converted into caramel",
+    "zipf": 1.74,
+    "score": 30.4
+  },
+  {
+    "word": "moralize",
+    "pronunciation": "/ˈmɔrəˌlaɪz/",
+    "forms": [
+      "moralizes",
+      "moralized",
+      "moralizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "interpret the moral meaning of",
+    "zipf": 1.74,
+    "score": 30.4
+  },
+  {
+    "word": "rankle",
+    "pronunciation": "/ˈræŋkəl/",
+    "forms": [
+      "rankles",
+      "rankled",
+      "rankling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "gnaw into; make resentful or angry",
+    "zipf": 1.74,
+    "score": 30.4
+  },
+  {
+    "word": "hyacinth",
+    "pronunciation": "/ˈhaɪəˌsɪnθ/",
+    "forms": [
+      "hyacinths"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a red transparent variety of zircon used as a gemstone",
+    "zipf": 2.73,
+    "score": 30.3
+  },
+  {
+    "word": "immolate",
+    "pronunciation": "/ˈɪməˌleɪt/",
+    "forms": [
+      "immolates",
+      "immolated",
+      "immolating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "offer as a sacrifice by killing or by giving up to destruction",
+    "zipf": 1.73,
+    "score": 30.3
+  },
+  {
+    "word": "molder",
+    "pronunciation": "/ˈmoʊldər/",
+    "forms": [
+      "molders",
+      "moldered",
+      "moldering"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "break down",
+    "zipf": 1.73,
+    "score": 30.3
+  },
+  {
+    "word": "cavort",
+    "pronunciation": "/kəˈvɔrt/",
+    "forms": [
+      "cavorts",
+      "cavorted",
+      "cavorting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "play boisterously",
+    "zipf": 1.72,
+    "score": 30.2
+  },
+  {
+    "word": "depopulate",
+    "pronunciation": "/diˈpɑpjəˌleɪt/",
+    "forms": [
+      "depopulates",
+      "depopulated",
+      "depopulating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "reduce in population",
+    "zipf": 1.72,
+    "score": 30.2
+  },
+  {
+    "word": "equivocate",
+    "pronunciation": "/ɪkˈwɪvəˌkeɪt/",
+    "forms": [
+      "equivocates",
+      "equivocated",
+      "equivocating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "be deliberately ambiguous or unclear in order to mislead or withhold information",
+    "zipf": 1.72,
+    "score": 30.2
+  },
+  {
+    "word": "felicitate",
+    "pronunciation": "/fəˈlɪsɪˌteɪt/",
+    "forms": [
+      "felicitates",
+      "felicitated",
+      "felicitating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "express congratulations",
+    "zipf": 1.72,
+    "score": 30.2
+  },
+  {
+    "word": "jaywalk",
+    "pronunciation": "/ˈʤeɪˌwɔk/",
+    "forms": [
+      "jaywalks",
+      "jaywalked"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cross the road at a red light",
+    "zipf": 1.72,
+    "score": 30.2
+  },
+  {
+    "word": "uprise",
+    "pronunciation": "/ˈəpraɪz/",
+    "forms": [
+      "uprises",
+      "uprised"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "come into existence; take on form or shape",
+    "zipf": 1.72,
+    "score": 30.2
+  },
+  {
+    "word": "taffy",
+    "pronunciation": "/ˈtæfi/",
+    "forms": [
+      "taffies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "chewy candy of sugar or syrup boiled until thick and pulled until glossy",
+    "zipf": 2.71,
+    "score": 30.1
+  },
+  {
+    "word": "monovalent",
+    "pronunciation": "/ˌmɑnəˈveɪlənt/",
+    "forms": [
+      "monovalenter",
+      "monovalentest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "containing only one kind of antibody",
+    "zipf": 1.85,
+    "score": 30.1
+  },
+  {
+    "word": "mishandle",
+    "pronunciation": "/mɪsˈhændəl/",
+    "forms": [
+      "mishandles",
+      "mishandled",
+      "mishandling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make a mess of, destroy or ruin",
+    "zipf": 1.71,
+    "score": 30.1
+  },
+  {
+    "word": "unappetizing",
+    "pronunciation": "/ˌəˈnæpɪˌtaɪzɪŋ/",
+    "forms": [
+      "unappetizinger",
+      "unappetizingest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "not appetizing in appearance, aroma, or taste",
+    "zipf": 2.0,
+    "score": 30.0
+  },
+  {
+    "word": "uninviting",
+    "pronunciation": "/ˌənɪnˈvaɪtɪŋ/",
+    "forms": [
+      "uninvitinger",
+      "uninvitingest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "neither attractive nor tempting",
+    "zipf": 2.0,
+    "score": 30.0
+  },
+  {
+    "word": "irradiate",
+    "pronunciation": "/ˌɪˈreɪdiˌeɪt/",
+    "forms": [
+      "irradiates",
+      "irradiated",
+      "irradiating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "give spiritual insight to; in religion",
+    "zipf": 1.94,
+    "score": 30.0
+  },
+  {
+    "word": "anneal",
+    "pronunciation": "/əˈnil/",
+    "forms": [
+      "anneals",
+      "annealed",
+      "annealing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "bring to a desired consistency, texture, or hardness by a process of gradually heating and cooling",
+    "zipf": 1.7,
+    "score": 30.0
+  },
+  {
+    "word": "expiate",
+    "pronunciation": "/ˈɛkspiˌeɪt/",
+    "forms": [
+      "expiates",
+      "expiated",
+      "expiating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make amends for",
+    "zipf": 1.7,
+    "score": 30.0
+  },
+  {
+    "word": "gestate",
+    "pronunciation": "/ˈʤɛˌsteɪt/",
+    "forms": [
+      "gestates",
+      "gestated",
+      "gestating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "have the idea for",
+    "zipf": 1.7,
+    "score": 30.0
+  },
+  {
+    "word": "ethyl",
+    "pronunciation": "/ˈɛθəl/",
+    "forms": [
+      "ethyls"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the univalent hydrocarbon radical C2H5 derived from ethane by the removal of one hydrogen atom",
+    "zipf": 2.93,
+    "score": 29.9
+  },
+  {
+    "word": "moll",
+    "pronunciation": "/mɑl/",
+    "forms": [
+      "molls"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the girlfriend of a gangster",
+    "zipf": 2.69,
+    "score": 29.9
+  },
+  {
+    "word": "shekels",
+    "pronunciation": "/ˈʃɛkəlz/",
+    "forms": [
+      "shekelses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "informal terms for money",
+    "zipf": 2.53,
+    "score": 29.9
+  },
+  {
+    "word": "marten",
+    "pronunciation": "/ˈmɑrtən/",
+    "forms": [
+      "martens"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "agile slender-bodied arboreal mustelids somewhat larger than weasels",
+    "zipf": 2.66,
+    "score": 29.6
+  },
+  {
+    "word": "samara",
+    "pronunciation": "/ˈsæmərə/",
+    "forms": [
+      "samaras"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a winged often one-seed indehiscent fruit as of the ash or elm or maple",
+    "zipf": 2.65,
+    "score": 29.5
+  },
+  {
+    "word": "tine",
+    "pronunciation": "/taɪn/",
+    "forms": [
+      "tines"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "prong on a fork or pitchfork or antler",
+    "zipf": 2.65,
+    "score": 29.5
+  },
+  {
+    "word": "valent",
+    "pronunciation": "/ˈvælənt/",
+    "forms": [
+      "valenter",
+      "valentest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "(chemistry) having valence; usually used in combination",
+    "zipf": 1.95,
+    "score": 29.5
+  },
+  {
+    "word": "hybridize",
+    "pronunciation": "/ˈhaɪbrəˌdaɪz/",
+    "forms": [
+      "hybridizes",
+      "hybridized",
+      "hybridizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "breed animals or plants using parents of different races and varieties",
+    "zipf": 1.88,
+    "score": 29.4
+  },
+  {
+    "word": "viviparous",
+    "pronunciation": "/vaɪˈvɪpərəs/",
+    "forms": [
+      "viviparouser",
+      "viviparousest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "producing living young (not eggs)",
+    "zipf": 1.93,
+    "score": 29.3
+  },
+  {
+    "word": "anthropocentric",
+    "pronunciation": "/ˌænθrəpəˈsɛntrɪk/",
+    "forms": [
+      "anthropocentricer",
+      "anthropocentricest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "human-centered",
+    "zipf": 1.92,
+    "score": 29.3
+  },
+  {
+    "word": "dregs",
+    "pronunciation": "/drɛgz/",
+    "forms": [
+      "dregses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "sediment that has settled at the bottom of a liquid",
+    "zipf": 2.62,
+    "score": 29.2
+  },
+  {
+    "word": "smattering",
+    "pronunciation": "/sˈmætərɪŋ/",
+    "forms": [
+      "smatterings"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a small number or amount",
+    "zipf": 2.62,
+    "score": 29.2
+  },
+  {
+    "word": "unenforced",
+    "pronunciation": "/ˌənɛnˈfɔrst/",
+    "forms": [
+      "unenforceder",
+      "unenforcedest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "not enforced; not compelled especially by legal or police action",
+    "zipf": 1.76,
+    "score": 29.2
+  },
+  {
+    "word": "candida",
+    "pronunciation": "/ˈkændɪdə/",
+    "forms": [
+      "candidas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "any of the yeastlike imperfect fungi of the genus Candida",
+    "zipf": 2.85,
+    "score": 29.1
+  },
+  {
+    "word": "blessedly",
+    "pronunciation": "/ˈblɛsədli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a blessed manner",
+    "zipf": 1.95,
+    "score": 29.1
+  },
+  {
+    "word": "payee",
+    "pronunciation": "/peɪi/",
+    "forms": [
+      "payees"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a person to whom money is paid",
+    "zipf": 2.29,
+    "score": 29.1
+  },
+  {
+    "word": "anaplastic",
+    "pronunciation": "/ˌænəˈplæstɪk/",
+    "forms": [
+      "anaplasticer",
+      "anaplasticest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to anaplasia",
+    "zipf": 1.91,
+    "score": 29.1
+  },
+  {
+    "word": "clayey",
+    "pronunciation": "/kleɪi/",
+    "forms": [
+      "clayeyer",
+      "clayeyest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "resembling or containing clay",
+    "zipf": 1.91,
+    "score": 29.1
+  },
+  {
+    "word": "stearic",
+    "pronunciation": "/ˈstirɪk/",
+    "forms": [
+      "stearicer",
+      "stearicest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to or composed of fat",
+    "zipf": 1.91,
+    "score": 29.1
+  },
+  {
+    "word": "presidio",
+    "pronunciation": "/prɪˈsɪdiˌoʊ/",
+    "forms": [
+      "presidios"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a fortress established in the southwestern United States by the Spanish in order to protect their missions and other holdings",
+    "zipf": 2.6,
+    "score": 29.0
+  },
+  {
+    "word": "columned",
+    "pronunciation": "/ˈkɑləmd/",
+    "forms": [
+      "columneder",
+      "columnedest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "having or resembling columns; having columns of a specified kind (often used as a combining form)",
+    "zipf": 1.9,
+    "score": 29.0
+  },
+  {
+    "word": "expiratory",
+    "pronunciation": "/ɪkˈspaɪrəˌtɔri/",
+    "forms": [
+      "expiratorier",
+      "expiratoriest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to the breathing out phase of respiration",
+    "zipf": 1.9,
+    "score": 29.0
+  },
+  {
+    "word": "weakling",
+    "pronunciation": "/ˈwiklɪŋ/",
+    "forms": [
+      "weaklings"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a person who is physically weak and ineffectual",
+    "zipf": 2.43,
+    "score": 28.9
+  },
+  {
+    "word": "prelims",
+    "pronunciation": "/ˈpriˌlɪmz/",
+    "forms": [
+      "prelimses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "written matter preceding the main text of a book",
+    "zipf": 2.59,
+    "score": 28.9
+  },
+  {
+    "word": "unchartered",
+    "pronunciation": "/ənˈʧɑrtərd/",
+    "forms": [
+      "unchartereder",
+      "uncharteredest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "not chartered",
+    "zipf": 1.89,
+    "score": 28.9
+  },
+  {
+    "word": "mollie",
+    "pronunciation": "/ˈmɑli/",
+    "forms": [
+      "mollies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "popular aquarium fish",
+    "zipf": 2.82,
+    "score": 28.8
+  }
+]

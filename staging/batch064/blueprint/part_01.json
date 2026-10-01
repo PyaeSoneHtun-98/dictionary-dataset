@@ -1,0 +1,553 @@
+[
+  {
+    "word": "chevy",
+    "pronunciation": "/ˈʧɛˌvi/",
+    "forms": [
+      "chevies",
+      "chevied",
+      "chevying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "annoy continually or chronically",
+    "zipf": 3.53,
+    "score": 48.3
+  },
+  {
+    "word": "haired",
+    "pronunciation": "/hɛrd/",
+    "forms": [
+      "haireder",
+      "hairedest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "having or covered with hair",
+    "zipf": 3.7,
+    "score": 47.0
+  },
+  {
+    "word": "bodied",
+    "pronunciation": "/ˈbɑdid/",
+    "forms": [
+      "bodieder",
+      "bodiedest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "having a body or a body of a specified kind; often used in combination",
+    "zipf": 3.48,
+    "score": 46.4
+  },
+  {
+    "word": "toby",
+    "pronunciation": "/ˈtoʊbi/",
+    "forms": [
+      "tobies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a drinking mug in the shape of a stout man wearing a three-cornered hat",
+    "zipf": 3.67,
+    "score": 42.9
+  },
+  {
+    "word": "principled",
+    "pronunciation": "/ˈprɪnsəpəld/",
+    "forms": [
+      "principleder",
+      "principledest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "based on or manifesting objectively defined standards of rightness or morality",
+    "zipf": 3.01,
+    "score": 41.7
+  },
+  {
+    "word": "sonny",
+    "pronunciation": "/ˈsəni/",
+    "forms": [
+      "sonnies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a male child (a familiar term of address to a boy)",
+    "zipf": 3.64,
+    "score": 41.0
+  },
+  {
+    "word": "wally",
+    "pronunciation": "/ˈwɔli/",
+    "forms": [
+      "wallies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a silly and inept person; someone who is regarded as stupid",
+    "zipf": 3.45,
+    "score": 40.7
+  },
+  {
+    "word": "ness",
+    "pronunciation": "/nɛs/",
+    "forms": [
+      "nesses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a strip of land projecting into a body of water",
+    "zipf": 3.6,
+    "score": 40.6
+  },
+  {
+    "word": "toothed",
+    "pronunciation": "/tuθt/",
+    "forms": [
+      "tootheder",
+      "toothedest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "having teeth especially of a certain number or type; often used in combination",
+    "zipf": 3.04,
+    "score": 40.4
+  },
+  {
+    "word": "hank",
+    "pronunciation": "/hæŋk/",
+    "forms": [
+      "hanks"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a coil of rope or wool or yarn",
+    "zipf": 3.73,
+    "score": 40.3
+  },
+  {
+    "word": "whopping",
+    "pronunciation": "/ˈwɑpɪŋ/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "extremely",
+    "zipf": 3.22,
+    "score": 40.2
+  },
+  {
+    "word": "clarence",
+    "pronunciation": "/ˈklɛrəns/",
+    "forms": [
+      "clarences"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a closed carriage with four wheels and seats for four passengers",
+    "zipf": 3.71,
+    "score": 40.1
+  },
+  {
+    "word": "brent",
+    "pronunciation": "/brɛnt/",
+    "forms": [
+      "brents"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "small dark geese that breed in the north and migrate southward",
+    "zipf": 3.69,
+    "score": 39.9
+  },
+  {
+    "word": "dell",
+    "pronunciation": "/dɛl/",
+    "forms": [
+      "dells"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a small wooded hollow",
+    "zipf": 3.67,
+    "score": 39.7
+  },
+  {
+    "word": "sapiens",
+    "pronunciation": "/ˈseɪpiənz/",
+    "forms": [
+      "sapienser",
+      "sapiensest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to or characteristic of Homo sapiens",
+    "zipf": 2.97,
+    "score": 39.7
+  },
+  {
+    "word": "kris",
+    "pronunciation": "/krɪs/",
+    "forms": [
+      "krises"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a Malayan dagger with a wavy blade",
+    "zipf": 3.65,
+    "score": 39.5
+  },
+  {
+    "word": "corvette",
+    "pronunciation": "/kɔrˈvɛt/",
+    "forms": [
+      "corvettes"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a highly maneuverable escort warship; smaller than a destroyer",
+    "zipf": 3.33,
+    "score": 39.5
+  },
+  {
+    "word": "lulu",
+    "pronunciation": "/ˈluˌlu/",
+    "forms": [
+      "lulus"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a very attractive or seductive looking woman",
+    "zipf": 3.33,
+    "score": 39.5
+  },
+  {
+    "word": "disproportionately",
+    "pronunciation": "/ˌdɪsprəˈpɔrʃənətli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "out of proportion",
+    "zipf": 3.3,
+    "score": 39.5
+  },
+  {
+    "word": "mater",
+    "pronunciation": "/ˈmɑtər/",
+    "forms": [
+      "maters"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an informal use of the Latin word for mother; sometimes used by British schoolboys or used facetiously",
+    "zipf": 3.47,
+    "score": 39.3
+  },
+  {
+    "word": "sleeved",
+    "pronunciation": "/slivd/",
+    "forms": [
+      "sleeveder",
+      "sleevedest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "made with sleeves or sleeves especially as specified; often used in combination",
+    "zipf": 2.93,
+    "score": 39.3
+  },
+  {
+    "word": "malik",
+    "pronunciation": "/ˈmælɪk/",
+    "forms": [
+      "maliks"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the leader of a town or community in some parts of Asia Minor and the Indian subcontinent",
+    "zipf": 3.62,
+    "score": 39.2
+  },
+  {
+    "word": "bowman",
+    "pronunciation": "/ˈboʊmən/",
+    "forms": [
+      "bowmen"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a person who is expert in the use of a bow and arrow",
+    "zipf": 3.46,
+    "score": 39.2
+  },
+  {
+    "word": "slater",
+    "pronunciation": "/sˈleɪtər/",
+    "forms": [
+      "slaters"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "any of various small terrestrial isopods having a flat elliptical segmented body; found in damp habitats",
+    "zipf": 3.46,
+    "score": 39.2
+  },
+  {
+    "word": "jasper",
+    "pronunciation": "/ˈʤæspər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an opaque form of quartz; red or yellow or brown or dark green in color; used for ornamentation or as a gemstone",
+    "zipf": 3.59,
+    "score": 38.9
+  },
+  {
+    "word": "baba",
+    "pronunciation": "/ˈbəbə/",
+    "forms": [
+      "babas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a small cake leavened with yeast",
+    "zipf": 3.58,
+    "score": 38.8
+  },
+  {
+    "word": "missy",
+    "pronunciation": "/ˈmɪsi/",
+    "forms": [
+      "missies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a young woman",
+    "zipf": 3.26,
+    "score": 38.8
+  },
+  {
+    "word": "aline",
+    "pronunciation": "/əˈlaɪn/",
+    "forms": [
+      "alines",
+      "alined",
+      "alining"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "place in a line or arrange so as to be parallel or straight",
+    "zipf": 2.58,
+    "score": 38.8
+  },
+  {
+    "word": "springer",
+    "pronunciation": "/ˈsprɪŋər/",
+    "forms": [
+      "springers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the lowest stone in an arch -- from which it springs",
+    "zipf": 3.57,
+    "score": 38.7
+  },
+  {
+    "word": "milo",
+    "pronunciation": "/ˈmaɪloʊ/",
+    "forms": [
+      "milos"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "small drought-resistant sorghums having large yellow or whitish grains",
+    "zipf": 3.56,
+    "score": 38.6
+  },
+  {
+    "word": "amelia",
+    "pronunciation": "/əˈmiljə/",
+    "forms": [
+      "amelias"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "congenital absence of an arm or leg",
+    "zipf": 3.55,
+    "score": 38.5
+  },
+  {
+    "word": "dealings",
+    "pronunciation": "/ˈdilɪŋz/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "social or verbal interchange (usually followed by `with')",
+    "zipf": 3.54,
+    "score": 38.4
+  },
+  {
+    "word": "dolly",
+    "pronunciation": "/ˈdɑli/",
+    "forms": [
+      "dollies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "conveyance consisting of a wheeled support on which a camera can be mounted",
+    "zipf": 3.54,
+    "score": 38.4
+  },
+  {
+    "word": "kylie",
+    "pronunciation": "/ˈkaɪˌli/",
+    "forms": [
+      "kylies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an Australian boomerang; one side flat and the other convex",
+    "zipf": 3.54,
+    "score": 38.4
+  },
+  {
+    "word": "sawyer",
+    "pronunciation": "/ˈsɔjər/",
+    "forms": [
+      "sawyers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "one who is employed to saw wood",
+    "zipf": 3.54,
+    "score": 38.4
+  },
+  {
+    "word": "specs",
+    "pronunciation": "/spɛks/",
+    "forms": [
+      "specses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision",
+    "zipf": 3.54,
+    "score": 38.4
+  },
+  {
+    "word": "telly",
+    "pronunciation": "/ˈtɛli/",
+    "forms": [
+      "tellies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an electronic device that receives television signals and displays them on a screen",
+    "zipf": 3.2,
+    "score": 38.2
+  },
+  {
+    "word": "marcel",
+    "pronunciation": "/mɑrˈsɛl/",
+    "forms": [
+      "marcels"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a hairdo characterized by deep regular waves that are made by a heated curling iron",
+    "zipf": 3.5,
+    "score": 38.0
+  },
+  {
+    "word": "twenties",
+    "pronunciation": "/tˈwɛntiz/",
+    "forms": [
+      "twentieses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the time of life between 20 and 30",
+    "zipf": 3.48,
+    "score": 37.8
+  },
+  {
+    "word": "barb",
+    "pronunciation": "/bɑrb/",
+    "forms": [
+      "barbs"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an aggressive remark directed at a person like a missile and intended to have a telling effect",
+    "zipf": 3.31,
+    "score": 37.7
+  },
+  {
+    "word": "dirk",
+    "pronunciation": "/dərk/",
+    "forms": [
+      "dirks"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a relatively long dagger with a straight blade",
+    "zipf": 3.43,
+    "score": 37.3
+  },
+  {
+    "word": "pharma",
+    "pronunciation": "/ˈfɑrmə/",
+    "forms": [
+      "pharmas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a company that makes and sells pharmaceuticals",
+    "zipf": 3.43,
+    "score": 37.3
+  },
+  {
+    "word": "granger",
+    "pronunciation": "/ˈgreɪnʤər/",
+    "forms": [
+      "grangers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a person who operates a farm",
+    "zipf": 3.27,
+    "score": 37.3
+  },
+  {
+    "word": "staffer",
+    "pronunciation": "/ˈstæfər/",
+    "forms": [
+      "staffers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an employee who is a member of a staff of workers (especially a member of the staff that works for the President of the United States)",
+    "zipf": 3.1,
+    "score": 37.2
+  },
+  {
+    "word": "lefty",
+    "pronunciation": "/ˈlɛfti/",
+    "forms": [
+      "lefties"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a person who uses the left hand with greater skill than the right",
+    "zipf": 3.25,
+    "score": 37.1
+  },
+  {
+    "word": "bladed",
+    "pronunciation": "/ˈbleɪdɪd/",
+    "forms": [
+      "bladeder",
+      "bladedest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "bearing or characterized by a blade or sword; often used in combination",
+    "zipf": 2.71,
+    "score": 37.1
+  },
+  {
+    "word": "winnings",
+    "pronunciation": "/ˈwɪnɪŋz/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "something won (especially money)",
+    "zipf": 3.24,
+    "score": 37.0
+  },
+  {
+    "word": "amir",
+    "pronunciation": "/əˈmɪr/",
+    "forms": [
+      "amirs"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an independent ruler or chieftain (especially in Africa or Arabia)",
+    "zipf": 3.4,
+    "score": 37.0
+  },
+  {
+    "word": "kraft",
+    "pronunciation": "/kræft/",
+    "forms": [
+      "krafts"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "strong wrapping paper made from pulp processed with a sulfur solution",
+    "zipf": 3.38,
+    "score": 36.8
+  },
+  {
+    "word": "laguna",
+    "pronunciation": "/ləˈgunə/",
+    "forms": [
+      "lagunas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a body of water cut off from a larger body by a reef of sand or coral",
+    "zipf": 3.21,
+    "score": 36.7
+  }
+]

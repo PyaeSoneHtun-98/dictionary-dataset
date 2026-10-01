@@ -1,0 +1,558 @@
+[
+  {
+    "word": "skier",
+    "pronunciation": "/skiər/",
+    "forms": [
+      "skiers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who skis",
+    "zipf": 3.2,
+    "score": 36.6
+  },
+  {
+    "word": "therapeutics",
+    "pronunciation": "/ˌθɛrəˈpjutɪks/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "branch of medicine concerned with the treatment of disease",
+    "zipf": 3.2,
+    "score": 36.6
+  },
+  {
+    "word": "mina",
+    "pronunciation": "/ˈmɪnə/",
+    "forms": [
+      "minas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "tropical Asian starlings",
+    "zipf": 3.35,
+    "score": 36.5
+  },
+  {
+    "word": "shopper",
+    "pronunciation": "/ˈʃɑpər/",
+    "forms": [
+      "shoppers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who visits stores in search of articles to buy",
+    "zipf": 3.19,
+    "score": 36.5
+  },
+  {
+    "word": "sprinter",
+    "pronunciation": "/ˈsprɪntər/",
+    "forms": [
+      "sprinters"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who runs a short distance at top speed",
+    "zipf": 3.19,
+    "score": 36.5
+  },
+  {
+    "word": "sprite",
+    "pronunciation": "/spraɪt/",
+    "forms": [
+      "sprites"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a small being, human in form, playful and having magical powers",
+    "zipf": 3.19,
+    "score": 36.5
+  },
+  {
+    "word": "tracer",
+    "pronunciation": "/ˈtreɪsər/",
+    "forms": [
+      "tracers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an investigator who is employed to find missing persons or missing goods",
+    "zipf": 3.19,
+    "score": 36.5
+  },
+  {
+    "word": "ridley",
+    "pronunciation": "/ˈrɪdli/",
+    "forms": [
+      "ridleys"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a marine turtle",
+    "zipf": 3.34,
+    "score": 36.4
+  },
+  {
+    "word": "viva",
+    "pronunciation": "/ˈvivə/",
+    "forms": [
+      "vivas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an examination conducted by spoken communication",
+    "zipf": 3.34,
+    "score": 36.4
+  },
+  {
+    "word": "gemma",
+    "pronunciation": "/ˈʤɛmə/",
+    "forms": [
+      "gemmas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "small asexual reproductive structure in e.g. liverworts and mosses that detaches from the parent and develops into a new individual",
+    "zipf": 3.33,
+    "score": 36.3
+  },
+  {
+    "word": "prentice",
+    "pronunciation": "/ˈprɛntɪs/",
+    "forms": [
+      "prentices"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "works for an expert to learn a trade",
+    "zipf": 3.14,
+    "score": 36.0
+  },
+  {
+    "word": "colleen",
+    "pronunciation": "/ˌkɑˈlin/",
+    "forms": [
+      "colleens"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an Irish girl",
+    "zipf": 3.3,
+    "score": 36.0
+  },
+  {
+    "word": "birdie",
+    "pronunciation": "/ˈbərdi/",
+    "forms": [
+      "birdies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "(golf) a score of one stroke under par on a hole",
+    "zipf": 3.26,
+    "score": 35.6
+  },
+  {
+    "word": "thirties",
+    "pronunciation": "/ˈθərtiz/",
+    "forms": [
+      "thirtieses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the time of life between 30 and 40",
+    "zipf": 3.24,
+    "score": 35.4
+  },
+  {
+    "word": "fifties",
+    "pronunciation": "/ˈfɪftiz/",
+    "forms": [
+      "fiftieses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the decade from 1950 to 1959",
+    "zipf": 3.21,
+    "score": 35.1
+  },
+  {
+    "word": "genitals",
+    "pronunciation": "/ˈʤɛnətəlz/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "external sex organ",
+    "zipf": 3.21,
+    "score": 35.1
+  },
+  {
+    "word": "salah",
+    "pronunciation": "/ˈsælə/",
+    "forms": [
+      "salahs"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the second pillar of Islam is prayer; a prescribed liturgy performed five times a day (preferably in a mosque) and oriented toward Mecca",
+    "zipf": 3.2,
+    "score": 35.0
+  },
+  {
+    "word": "unrecorded",
+    "pronunciation": "/ˌənrɪˈkɔrdɪd/",
+    "forms": [
+      "unrecordeder",
+      "unrecordedest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "actually being performed at the time of hearing or viewing",
+    "zipf": 2.49,
+    "score": 34.9
+  },
+  {
+    "word": "tiff",
+    "pronunciation": "/tɪf/",
+    "forms": [
+      "tiffs"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a quarrel about petty points",
+    "zipf": 3.03,
+    "score": 34.9
+  },
+  {
+    "word": "dieter",
+    "pronunciation": "/ˈditər/",
+    "forms": [
+      "dieters"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a person who diets",
+    "zipf": 3.02,
+    "score": 34.8
+  },
+  {
+    "word": "yeti",
+    "pronunciation": "/ˈjɛti/",
+    "forms": [
+      "yetis"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a large hairy humanoid creature said to live in the Himalayas",
+    "zipf": 3.01,
+    "score": 34.7
+  },
+  {
+    "word": "laird",
+    "pronunciation": "/lɛrd/",
+    "forms": [
+      "lairds"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a landowner",
+    "zipf": 3.16,
+    "score": 34.6
+  },
+  {
+    "word": "extroverted",
+    "pronunciation": "/ˈɛkstrəˌvərtɪd/",
+    "forms": [
+      "extroverteder",
+      "extrovertedest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "not introspective; examining what is outside yourself",
+    "zipf": 2.45,
+    "score": 34.5
+  },
+  {
+    "word": "nada",
+    "pronunciation": "/ˈnɑdɑ/",
+    "forms": [
+      "nadas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a quantity of no importance",
+    "zipf": 3.14,
+    "score": 34.4
+  },
+  {
+    "word": "whit",
+    "pronunciation": "/wɪt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a tiny or scarcely detectable amount",
+    "zipf": 3.14,
+    "score": 34.4
+  },
+  {
+    "word": "shay",
+    "pronunciation": "/ʃeɪ/",
+    "forms": [
+      "shays"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a carriage consisting of two wheels and a calash top; drawn by a single horse",
+    "zipf": 3.13,
+    "score": 34.3
+  },
+  {
+    "word": "fives",
+    "pronunciation": "/faɪvz/",
+    "forms": [
+      "fiveses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a game resembling handball; played on a court with a front wall and two side walls",
+    "zipf": 3.11,
+    "score": 34.1
+  },
+  {
+    "word": "sander",
+    "pronunciation": "/ˈsændər/",
+    "forms": [
+      "sanders"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a power tool used for sanding wood; an endless loop of sandpaper is moved at high speed by an electric motor",
+    "zipf": 2.94,
+    "score": 34.0
+  },
+  {
+    "word": "marge",
+    "pronunciation": "/mɑrʤ/",
+    "forms": [
+      "marges"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a spread made chiefly from vegetable oils and used as a substitute for butter",
+    "zipf": 3.08,
+    "score": 33.8
+  },
+  {
+    "word": "emery",
+    "pronunciation": "/ˈɛməri/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a hard grey-black mineral consisting of corundum and either hematite or magnetite; used as an abrasive (especially as a coating on paper)",
+    "zipf": 3.3,
+    "score": 33.6
+  },
+  {
+    "word": "ester",
+    "pronunciation": "/ˈɛstər/",
+    "forms": [
+      "esters"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "formed by reaction between an acid and an alcohol with elimination of water",
+    "zipf": 3.06,
+    "score": 33.6
+  },
+  {
+    "word": "mahatma",
+    "pronunciation": "/məˈhɑtmə/",
+    "forms": [
+      "mahatmas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "(Hinduism) term of respect for a brahmin sage",
+    "zipf": 3.06,
+    "score": 33.6
+  },
+  {
+    "word": "garret",
+    "pronunciation": "/ˈgɛrɪt/",
+    "forms": [
+      "garrets"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "floor consisting of open space at the top of a house just below roof; often used for storage",
+    "zipf": 2.9,
+    "score": 33.6
+  },
+  {
+    "word": "titillate",
+    "pronunciation": "/ˈtɪtəˌleɪt/",
+    "forms": [
+      "titillates",
+      "titillated",
+      "titillating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "touch (a body part) lightly so as to excite the surface nerves and cause uneasiness, laughter, or spasmodic movements",
+    "zipf": 1.9,
+    "score": 33.6
+  },
+  {
+    "word": "clementine",
+    "pronunciation": "/ˈklɛmənˌtin/",
+    "forms": [
+      "clementines"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a variety of mandarin orange that is grown around the Mediterranean and in South Africa",
+    "zipf": 2.89,
+    "score": 33.5
+  },
+  {
+    "word": "skulk",
+    "pronunciation": "/skəlk/",
+    "forms": [
+      "skulks",
+      "skulked",
+      "skulking"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "lie in wait, lie in ambush, behave in a sneaky and secretive manner",
+    "zipf": 1.89,
+    "score": 33.5
+  },
+  {
+    "word": "undifferentiated",
+    "pronunciation": "/ənˌdɪfəˈrɛnʃiˌeɪtɪd/",
+    "forms": [
+      "undifferentiateder",
+      "undifferentiatedest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "not differentiated",
+    "zipf": 2.49,
+    "score": 33.4
+  },
+  {
+    "word": "forties",
+    "pronunciation": "/ˈfɔrtiz/",
+    "forms": [
+      "fortieses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the time of life between 40 and 50",
+    "zipf": 3.04,
+    "score": 33.4
+  },
+  {
+    "word": "wainwright",
+    "pronunciation": "/ˈweɪnˌraɪt/",
+    "forms": [
+      "wainwrights"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a wagon maker",
+    "zipf": 3.04,
+    "score": 33.4
+  },
+  {
+    "word": "introspect",
+    "pronunciation": "/ˈɪntrəˌspɛkt/",
+    "forms": [
+      "introspects",
+      "introspected",
+      "introspecting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "reflect on one's own thoughts and feelings",
+    "zipf": 1.87,
+    "score": 33.3
+  },
+  {
+    "word": "militarize",
+    "pronunciation": "/ˈmɪlətərˌaɪz/",
+    "forms": [
+      "militarizes",
+      "militarized",
+      "militarizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "lend a military character to (a country), as by building up a military force",
+    "zipf": 1.84,
+    "score": 33.0
+  },
+  {
+    "word": "rani",
+    "pronunciation": "/ˈrɑni/",
+    "forms": [
+      "ranis"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "(the feminine of raja) a Hindu princess or the wife of a raja",
+    "zipf": 2.99,
+    "score": 32.9
+  },
+  {
+    "word": "belabor",
+    "pronunciation": "/bɪˈleɪbər/",
+    "forms": [
+      "belabors",
+      "belabored",
+      "belaboring"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "to work at or to absurd length",
+    "zipf": 1.83,
+    "score": 32.9
+  },
+  {
+    "word": "embalm",
+    "pronunciation": "/ɛmˈbɑm/",
+    "forms": [
+      "embalms",
+      "embalmed"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "preserve a dead body",
+    "zipf": 1.83,
+    "score": 32.9
+  },
+  {
+    "word": "serge",
+    "pronunciation": "/sərʤ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a twilled woolen fabric",
+    "zipf": 3.22,
+    "score": 32.8
+  },
+  {
+    "word": "mores",
+    "pronunciation": "/ˈmɔˌriz/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "(sociology) the conventions that embody the fundamental values of a group",
+    "zipf": 2.82,
+    "score": 32.8
+  },
+  {
+    "word": "proscribe",
+    "pronunciation": "/proʊˈskraɪb/",
+    "forms": [
+      "proscribes",
+      "proscribed",
+      "proscribing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "command against",
+    "zipf": 1.82,
+    "score": 32.8
+  },
+  {
+    "word": "lolly",
+    "pronunciation": "/ˈlɑli/",
+    "forms": [
+      "lollies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "informal terms for money",
+    "zipf": 2.81,
+    "score": 32.7
+  },
+  {
+    "word": "mortify",
+    "pronunciation": "/ˈmɔrtɪˌfaɪ/",
+    "forms": [
+      "mortifies",
+      "mortified",
+      "mortifying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "practice self-denial of one's body and appetites",
+    "zipf": 1.81,
+    "score": 32.7
+  },
+  {
+    "word": "lazar",
+    "pronunciation": "/ˈleɪzər/",
+    "forms": [
+      "lazars"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a person afflicted with leprosy",
+    "zipf": 2.8,
+    "score": 32.6
+  }
+]

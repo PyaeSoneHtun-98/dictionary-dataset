@@ -1,0 +1,612 @@
+[
+  {
+    "word": "membered",
+    "pronunciation": "/ˈmɛmbərd/",
+    "forms": [
+      "membereder",
+      "memberedest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "having members; normally used in chemistry in combination with a number",
+    "zipf": 2.25,
+    "score": 32.5
+  },
+  {
+    "word": "britt",
+    "pronunciation": "/brɪt/",
+    "forms": [
+      "britts"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the young of a herring or sprat or similar fish",
+    "zipf": 3.18,
+    "score": 32.4
+  },
+  {
+    "word": "birthing",
+    "pronunciation": "/ˈbərθɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the process of giving birth",
+    "zipf": 2.94,
+    "score": 32.4
+  },
+  {
+    "word": "dickie",
+    "pronunciation": "/ˈdɪki/",
+    "forms": [
+      "dickies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a small third seat in the back of an old-fashioned two-seater",
+    "zipf": 2.94,
+    "score": 32.4
+  },
+  {
+    "word": "coagulate",
+    "pronunciation": "/koʊˈægjəˌleɪt/",
+    "forms": [
+      "coagulates",
+      "coagulated",
+      "coagulating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "change from a liquid to a thickened or solid state",
+    "zipf": 1.94,
+    "score": 32.4
+  },
+  {
+    "word": "dispossess",
+    "pronunciation": "/ˌdɪspəˈzɛs/",
+    "forms": [
+      "dispossesses",
+      "dispossessed",
+      "dispossessing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "deprive of the possession of real estate",
+    "zipf": 1.94,
+    "score": 32.4
+  },
+  {
+    "word": "transect",
+    "pronunciation": "/ˈtrænˌsɛkt/",
+    "forms": [
+      "transects",
+      "transected",
+      "transecting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cut across or divide transversely",
+    "zipf": 1.94,
+    "score": 32.4
+  },
+  {
+    "word": "impoverish",
+    "pronunciation": "/ˌɪmˈpɑvrɪʃ/",
+    "forms": [
+      "impoverishes",
+      "impoverishing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make poor",
+    "zipf": 1.93,
+    "score": 32.3
+  },
+  {
+    "word": "reconquer",
+    "pronunciation": "/riˈkɔŋkər/",
+    "forms": [
+      "reconquers",
+      "reconquered",
+      "reconquering"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "conquer anew",
+    "zipf": 1.93,
+    "score": 32.3
+  },
+  {
+    "word": "reunify",
+    "pronunciation": "/riˈunəˌfaɪ/",
+    "forms": [
+      "reunifies",
+      "reunified",
+      "reunifying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "unify again, as of a country",
+    "zipf": 1.93,
+    "score": 32.3
+  },
+  {
+    "word": "traipse",
+    "pronunciation": "/treɪps/",
+    "forms": [
+      "traipses",
+      "traipsed",
+      "traipsing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "walk or tramp about",
+    "zipf": 1.93,
+    "score": 32.3
+  },
+  {
+    "word": "enthuse",
+    "pronunciation": "/ɪnˈθuz/",
+    "forms": [
+      "enthuses",
+      "enthused",
+      "enthusing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cause to feel enthusiasm",
+    "zipf": 1.92,
+    "score": 32.2
+  },
+  {
+    "word": "hyphenate",
+    "pronunciation": "/ˈhaɪfəˌneɪt/",
+    "forms": [
+      "hyphenates",
+      "hyphenating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "divide or connect with a hyphen",
+    "zipf": 1.92,
+    "score": 32.2
+  },
+  {
+    "word": "impute",
+    "pronunciation": "/ˌɪmˈpjut/",
+    "forms": [
+      "imputes",
+      "imputed",
+      "imputing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "attribute or credit to",
+    "zipf": 1.92,
+    "score": 32.2
+  },
+  {
+    "word": "ionize",
+    "pronunciation": "/ˈaɪəˌnaɪz/",
+    "forms": [
+      "ionizes",
+      "ionized",
+      "ionizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "become converted into ions",
+    "zipf": 1.92,
+    "score": 32.2
+  },
+  {
+    "word": "mystify",
+    "pronunciation": "/ˈmɪstəˌfaɪ/",
+    "forms": [
+      "mystifies",
+      "mystifying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "be a mystery or bewildering to",
+    "zipf": 1.92,
+    "score": 32.2
+  },
+  {
+    "word": "woodman",
+    "pronunciation": "/ˈwʊdmən/",
+    "forms": [
+      "woodmen"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who lives in the woods",
+    "zipf": 2.76,
+    "score": 32.2
+  },
+  {
+    "word": "beryl",
+    "pronunciation": "/ˈbɛrəl/",
+    "forms": [
+      "beryls"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the chief source of beryllium; colored transparent varieties are valued as gems",
+    "zipf": 2.91,
+    "score": 32.1
+  },
+  {
+    "word": "metamorphose",
+    "pronunciation": "/ˌmɛtəˈmɔrfoʊz/",
+    "forms": [
+      "metamorphosed",
+      "metamorphosing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "change completely the nature or appearance of",
+    "zipf": 1.91,
+    "score": 32.1
+  },
+  {
+    "word": "reelect",
+    "pronunciation": "/riɪˈlɛkt/",
+    "forms": [
+      "reelects",
+      "reelected",
+      "reelecting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "elect again",
+    "zipf": 1.91,
+    "score": 32.1
+  },
+  {
+    "word": "unnerve",
+    "pronunciation": "/əˈnərv/",
+    "forms": [
+      "unnerves",
+      "unnerved"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "disturb the composure of",
+    "zipf": 1.91,
+    "score": 32.1
+  },
+  {
+    "word": "brant",
+    "pronunciation": "/brænt/",
+    "forms": [
+      "brants"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "small dark geese that breed in the north and migrate southward",
+    "zipf": 2.9,
+    "score": 32.0
+  },
+  {
+    "word": "brattle",
+    "pronunciation": "/ˈbrætəl/",
+    "forms": [
+      "brattles",
+      "brattled",
+      "brattling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make a rattling sound",
+    "zipf": 1.9,
+    "score": 32.0
+  },
+  {
+    "word": "deaden",
+    "pronunciation": "/ˈdɛdən/",
+    "forms": [
+      "deadens",
+      "deadened",
+      "deadening"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make vague or obscure or make (an image) less visible",
+    "zipf": 1.9,
+    "score": 32.0
+  },
+  {
+    "word": "inure",
+    "pronunciation": "/ˌɪnˈjʊr/",
+    "forms": [
+      "inures",
+      "inured",
+      "inuring"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cause to accept or become hardened to; habituate",
+    "zipf": 1.9,
+    "score": 32.0
+  },
+  {
+    "word": "perturb",
+    "pronunciation": "/pərˈtərb/",
+    "forms": [
+      "perturbs",
+      "perturbing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "disturb in mind or make uneasy or cause to be worried or alarmed",
+    "zipf": 1.9,
+    "score": 32.0
+  },
+  {
+    "word": "randomize",
+    "pronunciation": "/ˈrændəˌmaɪz/",
+    "forms": [
+      "randomizes",
+      "randomized",
+      "randomizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "arrange in random order",
+    "zipf": 1.9,
+    "score": 32.0
+  },
+  {
+    "word": "uncouple",
+    "pronunciation": "/ənˈkəpəl/",
+    "forms": [
+      "uncouples",
+      "uncoupled",
+      "uncoupling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "disconnect or separate",
+    "zipf": 1.9,
+    "score": 32.0
+  },
+  {
+    "word": "mispronounce",
+    "pronunciation": "/mɪsprəˈnaʊns/",
+    "forms": [
+      "mispronounces",
+      "mispronounced",
+      "mispronouncing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "pronounce a word incorrectly",
+    "zipf": 1.89,
+    "score": 31.9
+  },
+  {
+    "word": "outclass",
+    "pronunciation": "/ˈaʊtˌklæs/",
+    "forms": [
+      "outclasses",
+      "outclassed",
+      "outclassing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cause to appear in a lower class",
+    "zipf": 1.89,
+    "score": 31.9
+  },
+  {
+    "word": "refinish",
+    "pronunciation": "/riˈfɪnɪʃ/",
+    "forms": [
+      "refinishes",
+      "refinished",
+      "refinishing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "give a new surface",
+    "zipf": 1.89,
+    "score": 31.9
+  },
+  {
+    "word": "reseal",
+    "pronunciation": "/riˈsil/",
+    "forms": [
+      "reseals",
+      "resealed",
+      "resealing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "seal again",
+    "zipf": 1.89,
+    "score": 31.9
+  },
+  {
+    "word": "toddle",
+    "pronunciation": "/ˈtɑdəl/",
+    "forms": [
+      "toddles",
+      "toddled",
+      "toddling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "walk unsteadily",
+    "zipf": 1.89,
+    "score": 31.9
+  },
+  {
+    "word": "scrooge",
+    "pronunciation": "/skruʤ/",
+    "forms": [
+      "scrooges"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a selfish person who is unwilling to give or spend",
+    "zipf": 2.96,
+    "score": 31.8
+  },
+  {
+    "word": "quin",
+    "pronunciation": "/kwɪn/",
+    "forms": [
+      "quins"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "one of five children born at the same time from the same pregnancy",
+    "zipf": 2.72,
+    "score": 31.8
+  },
+  {
+    "word": "yachting",
+    "pronunciation": "/ˈjɑtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "water travel for pleasure",
+    "zipf": 2.72,
+    "score": 31.8
+  },
+  {
+    "word": "pate",
+    "pronunciation": "/peɪt/",
+    "forms": [
+      "pates"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "liver or meat or fowl finely minced or ground and variously seasoned",
+    "zipf": 2.88,
+    "score": 31.8
+  },
+  {
+    "word": "cumber",
+    "pronunciation": "/ˈkəmbər/",
+    "forms": [
+      "cumbers",
+      "cumbered",
+      "cumbering"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "hold back",
+    "zipf": 1.88,
+    "score": 31.8
+  },
+  {
+    "word": "oxygenate",
+    "pronunciation": "/ˈɑksəʤəˌneɪt/",
+    "forms": [
+      "oxygenates",
+      "oxygenated",
+      "oxygenating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "impregnate, combine, or supply with oxygen",
+    "zipf": 1.88,
+    "score": 31.8
+  },
+  {
+    "word": "mujahideen",
+    "pronunciation": "/ˌmuʤəhɛˈdin/",
+    "forms": [
+      "mujahideens"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a military force of Muslim guerilla warriors engaged in a jihad",
+    "zipf": 2.71,
+    "score": 31.7
+  },
+  {
+    "word": "enfold",
+    "pronunciation": "/ɪnˈfoʊld/",
+    "forms": [
+      "enfolds",
+      "enfolded",
+      "enfolding"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "enclose or enfold completely with or as if with a covering",
+    "zipf": 1.87,
+    "score": 31.7
+  },
+  {
+    "word": "fumigate",
+    "pronunciation": "/fˈjuməˌgeɪt/",
+    "forms": [
+      "fumigates",
+      "fumigated",
+      "fumigating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "treat with fumes, expose to fumes, especially with the aim of disinfecting or eradicating pests",
+    "zipf": 1.87,
+    "score": 31.7
+  },
+  {
+    "word": "heterodyne",
+    "pronunciation": "/ˈhɛtərəˌdaɪn/",
+    "forms": [
+      "heterodynes",
+      "heterodyned",
+      "heterodyning"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "combine (a radio frequency wave) with a locally generated wave of a different frequency so as to produce a new frequency equal to the sum or the difference between the two",
+    "zipf": 1.87,
+    "score": 31.7
+  },
+  {
+    "word": "hydrolyze",
+    "pronunciation": "/ˈhaɪdrəˌlaɪz/",
+    "forms": [
+      "hydrolyzes",
+      "hydrolyzed",
+      "hydrolyzing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "undergo hydrolysis; decompose by reacting with water",
+    "zipf": 1.87,
+    "score": 31.7
+  },
+  {
+    "word": "individualize",
+    "pronunciation": "/ˌɪndɪˈvɪʤəlaɪz/",
+    "forms": [
+      "individualizes",
+      "individualizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make or mark or treat as individual",
+    "zipf": 1.87,
+    "score": 31.7
+  },
+  {
+    "word": "menstruate",
+    "pronunciation": "/ˈmɛnstruˌeɪt/",
+    "forms": [
+      "menstruates",
+      "menstruated",
+      "menstruating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "undergo menstruation",
+    "zipf": 1.87,
+    "score": 31.7
+  },
+  {
+    "word": "rube",
+    "pronunciation": "/rub/",
+    "forms": [
+      "rubes"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a person who is not very intelligent or interested in culture",
+    "zipf": 2.7,
+    "score": 31.6
+  },
+  {
+    "word": "dissemble",
+    "pronunciation": "/dɪˈsɛmbəl/",
+    "forms": [
+      "dissembles",
+      "dissembled",
+      "dissembling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make believe with the intent to deceive",
+    "zipf": 1.86,
+    "score": 31.6
+  },
+  {
+    "word": "hakeem",
+    "pronunciation": "/hɑˈkim/",
+    "forms": [
+      "hakeems"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a Muslim physician",
+    "zipf": 2.85,
+    "score": 31.5
+  },
+  {
+    "word": "horst",
+    "pronunciation": "/hɔrst/",
+    "forms": [
+      "horsts"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a ridge of the earth's crust that has been forced upward between two faults and so is higher than the surrounding land",
+    "zipf": 2.85,
+    "score": 31.5
+  }
+]

@@ -1,0 +1,538 @@
+[
+  {
+    "word": "numismatist",
+    "pronunciation": "/nuˈmɪsməˌtɪst/",
+    "forms": [
+      "numismatists"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a collector and student of money (and coins in particular)",
+    "zipf": 1.71,
+    "score": 21.7
+  },
+  {
+    "word": "vacillation",
+    "pronunciation": "/ˌvæsəˈleɪʃən/",
+    "forms": [
+      "vacillations"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "indecision in speech or action",
+    "zipf": 1.71,
+    "score": 21.7
+  },
+  {
+    "word": "appro",
+    "pronunciation": "/ˈæproʊ/",
+    "forms": [
+      "appros"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an informal British abbreviation of approval",
+    "zipf": 1.86,
+    "score": 21.6
+  },
+  {
+    "word": "entombment",
+    "pronunciation": "/ɪnˈtummənt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the ritual placing of a corpse in a grave",
+    "zipf": 1.86,
+    "score": 21.6
+  },
+  {
+    "word": "equitation",
+    "pronunciation": "/ˌɛkwəˈteɪʃən/",
+    "forms": [
+      "equitations"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the sport of siting on the back of a horse while controlling its movements",
+    "zipf": 1.86,
+    "score": 21.6
+  },
+  {
+    "word": "euchre",
+    "pronunciation": "/ˈjukər/",
+    "forms": [
+      "euchres"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a card game similar to ecarte; each player is dealt 5 cards and the player making trump must take 3 tricks to win a hand",
+    "zipf": 1.86,
+    "score": 21.6
+  },
+  {
+    "word": "foulness",
+    "pronunciation": "/ˈfaʊlnəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "disgusting wickedness and immorality",
+    "zipf": 1.86,
+    "score": 21.6
+  },
+  {
+    "word": "paratroops",
+    "pronunciation": "/ˈpɛrəˌtrups/",
+    "forms": [
+      "paratroopses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "infantry trained and equipped to parachute",
+    "zipf": 1.86,
+    "score": 21.6
+  },
+  {
+    "word": "rigatoni",
+    "pronunciation": "/rɪgəˈtoʊni/",
+    "forms": [
+      "rigatonis"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "tubular pasta in short ribbed pieces",
+    "zipf": 1.86,
+    "score": 21.6
+  },
+  {
+    "word": "tartness",
+    "pronunciation": "/ˈtɑrtnəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the taste experience when vinegar or lemon juice is taken into the mouth",
+    "zipf": 1.86,
+    "score": 21.6
+  },
+  {
+    "word": "teetotaler",
+    "pronunciation": "/ˌtiˌtoʊˈteɪlər/",
+    "forms": [
+      "teetotalers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a total abstainer",
+    "zipf": 1.86,
+    "score": 21.6
+  },
+  {
+    "word": "titter",
+    "pronunciation": "/ˈtɪtər/",
+    "forms": [
+      "titters"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a nervous restrained laugh",
+    "zipf": 1.86,
+    "score": 21.6
+  },
+  {
+    "word": "preservationist",
+    "pronunciation": "/ˌprɛzərˈveɪʃənɪst/",
+    "forms": [
+      "preservationists"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who advocates the preservation of historical sites or endangered species or natural areas",
+    "zipf": 1.85,
+    "score": 21.6
+  },
+  {
+    "word": "oarsman",
+    "pronunciation": "/ˈɔrzmən/",
+    "forms": [
+      "oarsmen"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who rows a boat",
+    "zipf": 1.7,
+    "score": 21.6
+  },
+  {
+    "word": "philatelist",
+    "pronunciation": "/fɪˈlætəlɪst/",
+    "forms": [
+      "philatelists"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a collector and student of postage stamps",
+    "zipf": 1.7,
+    "score": 21.6
+  },
+  {
+    "word": "lymphadenopathy",
+    "pronunciation": "/ˌlɪmfəˈdɛnəˌpæθi/",
+    "forms": [
+      "lymphadenopathies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "chronic abnormal enlargement of the lymph nodes (usually associated with disease)",
+    "zipf": 1.84,
+    "score": 21.5
+  },
+  {
+    "word": "collards",
+    "pronunciation": "/ˈkɑlərdz/",
+    "forms": [
+      "collardses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "kale that has smooth leaves",
+    "zipf": 1.85,
+    "score": 21.5
+  },
+  {
+    "word": "corncob",
+    "pronunciation": "/ˈkɔrnˌkɑb/",
+    "forms": [
+      "corncobs"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the hard cylindrical core that bears the kernels of an ear of corn",
+    "zipf": 1.85,
+    "score": 21.5
+  },
+  {
+    "word": "disunion",
+    "pronunciation": "/dɪsˈjunjən/",
+    "forms": [
+      "disunions"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the termination or destruction of union",
+    "zipf": 1.85,
+    "score": 21.5
+  },
+  {
+    "word": "mesmerism",
+    "pronunciation": "/ˈmɛsmərˌɪzəm/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of inducing hypnosis",
+    "zipf": 1.85,
+    "score": 21.5
+  },
+  {
+    "word": "polder",
+    "pronunciation": "/ˈpoʊldər/",
+    "forms": [
+      "polders"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "low-lying land that has been reclaimed and is protected by dikes (especially in the Netherlands)",
+    "zipf": 1.85,
+    "score": 21.5
+  },
+  {
+    "word": "poundage",
+    "pronunciation": "/ˈpaʊndɪʤ/",
+    "forms": [
+      "poundages"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a charge based on weight measured in pounds",
+    "zipf": 1.85,
+    "score": 21.5
+  },
+  {
+    "word": "protestation",
+    "pronunciation": "/ˌproʊˌtɛˈsteɪʃən/",
+    "forms": [
+      "protestations"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a formal and solemn declaration of objection",
+    "zipf": 1.85,
+    "score": 21.5
+  },
+  {
+    "word": "vestment",
+    "pronunciation": "/ˈvɛstmɛnt/",
+    "forms": [
+      "vestments"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "gown (especially ceremonial garments) worn by the clergy",
+    "zipf": 1.85,
+    "score": 21.5
+  },
+  {
+    "word": "althea",
+    "pronunciation": "/ælˈθiə/",
+    "forms": [
+      "altheas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "any of various plants of the genus Althaea; similar to but having smaller flowers than genus Alcea",
+    "zipf": 2.56,
+    "score": 21.4
+  },
+  {
+    "word": "mineralogist",
+    "pronunciation": "/ˌmɪnərˈɑləʤɪst/",
+    "forms": [
+      "mineralogists"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a scientist trained in mineralogy",
+    "zipf": 2.08,
+    "score": 21.4
+  },
+  {
+    "word": "bingle",
+    "pronunciation": "/ˈbɪŋgəl/",
+    "forms": [
+      "bingles"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a base hit on which the batter stops safely at first base",
+    "zipf": 1.84,
+    "score": 21.4
+  },
+  {
+    "word": "collegian",
+    "pronunciation": "/kəˈliʤən/",
+    "forms": [
+      "collegians"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a student (or former student) at a college or university",
+    "zipf": 1.84,
+    "score": 21.4
+  },
+  {
+    "word": "dangerousness",
+    "pronunciation": "/ˈdeɪnʤərəsnəs/",
+    "forms": [
+      "dangerousnesses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the quality of not being safe",
+    "zipf": 1.84,
+    "score": 21.4
+  },
+  {
+    "word": "disinclination",
+    "pronunciation": "/dɪsɪnkləˈneɪʃən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "that toward which you are inclined to feel dislike",
+    "zipf": 1.84,
+    "score": 21.4
+  },
+  {
+    "word": "doxology",
+    "pronunciation": "/dɑkˈsɑləʤi/",
+    "forms": [
+      "doxologies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a hymn or verse in Christian liturgy glorifying God",
+    "zipf": 1.84,
+    "score": 21.4
+  },
+  {
+    "word": "granulocyte",
+    "pronunciation": "/grəˈnuloʊˌsaɪt/",
+    "forms": [
+      "granulocytes"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a leukocyte that has granules in its cytoplasm",
+    "zipf": 1.84,
+    "score": 21.4
+  },
+  {
+    "word": "helminth",
+    "pronunciation": "/ˈhɛlmɪnθ/",
+    "forms": [
+      "helminths"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "worm that is parasitic on the intestines of vertebrates especially roundworms and tapeworms and flukes",
+    "zipf": 1.84,
+    "score": 21.4
+  },
+  {
+    "word": "nonentity",
+    "pronunciation": "/nɑˈnɛntəti/",
+    "forms": [
+      "nonentities"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the state of not existing",
+    "zipf": 1.84,
+    "score": 21.4
+  },
+  {
+    "word": "razzmatazz",
+    "pronunciation": "/ˈræzməˈtæz/",
+    "forms": [
+      "razzmatazzes"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "any exciting and complex play intended to confuse (dazzle) the opponent",
+    "zipf": 1.84,
+    "score": 21.4
+  },
+  {
+    "word": "consistence",
+    "pronunciation": "/kənˈsɪstəns/",
+    "forms": [
+      "consistences"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a harmonious uniformity or agreement among things or parts",
+    "zipf": 1.83,
+    "score": 21.3
+  },
+  {
+    "word": "exigency",
+    "pronunciation": "/ˌɛkˈsɪʤənsi/",
+    "forms": [
+      "exigencies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a pressing or urgent situation",
+    "zipf": 1.83,
+    "score": 21.3
+  },
+  {
+    "word": "shakeout",
+    "pronunciation": "/ˈʃeɪˌkaʊt/",
+    "forms": [
+      "shakeouts"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an economic condition that results in the elimination of marginally financed participants in an industry",
+    "zipf": 1.83,
+    "score": 21.3
+  },
+  {
+    "word": "somnolence",
+    "pronunciation": "/ˈsɑmnələns/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a very sleepy state",
+    "zipf": 1.83,
+    "score": 21.3
+  },
+  {
+    "word": "thiamin",
+    "pronunciation": "/ˈθaɪəmən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a B vitamin that prevents beriberi; maintains appetite and growth",
+    "zipf": 1.83,
+    "score": 21.3
+  },
+  {
+    "word": "whang",
+    "pronunciation": "/wæŋ/",
+    "forms": [
+      "whangs"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the act of hitting vigorously",
+    "zipf": 1.83,
+    "score": 21.3
+  },
+  {
+    "word": "yack",
+    "pronunciation": "/jæk/",
+    "forms": [
+      "yacks"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "noisy talk",
+    "zipf": 1.83,
+    "score": 21.3
+  },
+  {
+    "word": "almoner",
+    "pronunciation": "/ˈɑlmənər/",
+    "forms": [
+      "almoners"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an official in a British hospital who looks after the social and material needs of the patients",
+    "zipf": 1.82,
+    "score": 21.2
+  },
+  {
+    "word": "drey",
+    "pronunciation": "/dreɪ/",
+    "forms": [
+      "dreys"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the nest of a squirrel",
+    "zipf": 1.82,
+    "score": 21.2
+  },
+  {
+    "word": "hyphenation",
+    "pronunciation": "/ˌhaɪfəˈneɪʃən/",
+    "forms": [
+      "hyphenations"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "division of a word especially at the end of a line on a page",
+    "zipf": 1.82,
+    "score": 21.2
+  },
+  {
+    "word": "miscue",
+    "pronunciation": "/ˈmɪˌskju/",
+    "forms": [
+      "miscues"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a faulty shot in billiards; the cue tip slips off the cue ball",
+    "zipf": 1.82,
+    "score": 21.2
+  },
+  {
+    "word": "perfecta",
+    "pronunciation": "/pərˈfɛktə/",
+    "forms": [
+      "perfectas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a bet that you can pick the first and second finishers in the right order",
+    "zipf": 1.82,
+    "score": 21.2
+  },
+  {
+    "word": "quaff",
+    "pronunciation": "/kwɑf/",
+    "forms": [
+      "quaffs"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a hearty draft",
+    "zipf": 1.82,
+    "score": 21.2
+  },
+  {
+    "word": "slackness",
+    "pronunciation": "/sˈlæknəs/",
+    "forms": [
+      "slacknesses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "weakness characterized by a lack of vitality or energy",
+    "zipf": 1.82,
+    "score": 21.2
+  },
+  {
+    "word": "corbel",
+    "pronunciation": "/ˈkɔrbəl/",
+    "forms": [
+      "corbels"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "(architecture) a triangular bracket of brick or stone (usually of slight extent)",
+    "zipf": 1.81,
+    "score": 21.1
+  }
+]

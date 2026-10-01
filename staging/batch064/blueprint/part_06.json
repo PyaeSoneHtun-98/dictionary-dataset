@@ -1,0 +1,548 @@
+[
+  {
+    "word": "leniently",
+    "pronunciation": "/ˈlinjəntli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a permissively lenient manner",
+    "zipf": 1.92,
+    "score": 28.8
+  },
+  {
+    "word": "lengthways",
+    "pronunciation": "/ˈlɛŋθˌweɪz/",
+    "forms": [
+      "lengthwayser",
+      "lengthwaysest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "running or extending in the direction of the length of a thing",
+    "zipf": 1.88,
+    "score": 28.8
+  },
+  {
+    "word": "transoceanic",
+    "pronunciation": "/ˌtrænzoʊʃiˈænɪk/",
+    "forms": [
+      "transoceanicer",
+      "transoceanicest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "on or from the other side of an ocean",
+    "zipf": 1.88,
+    "score": 28.8
+  },
+  {
+    "word": "foundling",
+    "pronunciation": "/ˈfaʊndlɪŋ/",
+    "forms": [
+      "foundlings"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a child who has been abandoned and whose parents are unknown",
+    "zipf": 2.41,
+    "score": 28.7
+  },
+  {
+    "word": "georgette",
+    "pronunciation": "/ʤɔˈrʤɛt/",
+    "forms": [
+      "georgettes"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a thin silk dress material",
+    "zipf": 2.56,
+    "score": 28.6
+  },
+  {
+    "word": "lally",
+    "pronunciation": "/ˈlæli/",
+    "forms": [
+      "lallies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "support column consisting of a steel cylinder filled with concrete",
+    "zipf": 2.56,
+    "score": 28.6
+  },
+  {
+    "word": "westerner",
+    "pronunciation": "/ˈwɛstərnər/",
+    "forms": [
+      "westerners"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an inhabitant of a western area; especially of the U.S.",
+    "zipf": 2.56,
+    "score": 28.6
+  },
+  {
+    "word": "pugilistic",
+    "pronunciation": "/ˌpjuʤəˈlɪstɪk/",
+    "forms": [
+      "pugilisticer",
+      "pugilisticest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to pugilism or pugilists",
+    "zipf": 1.86,
+    "score": 28.6
+  },
+  {
+    "word": "synchronic",
+    "pronunciation": "/sɪŋˈkrɑnɪk/",
+    "forms": [
+      "synchronicer",
+      "synchronicest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "occurring or existing at the same time or having the same period or phase; - Jour.A.M.A.",
+    "zipf": 1.86,
+    "score": 28.6
+  },
+  {
+    "word": "energizer",
+    "pronunciation": "/ˈɛnərˌʤaɪzər/",
+    "forms": [
+      "energizers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who imparts energy and vitality and spirit to other people",
+    "zipf": 2.39,
+    "score": 28.5
+  },
+  {
+    "word": "pinner",
+    "pronunciation": "/ˈpɪnər/",
+    "forms": [
+      "pinners"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a woman's cap with two long flaps pinned on",
+    "zipf": 2.23,
+    "score": 28.5
+  },
+  {
+    "word": "lamely",
+    "pronunciation": "/ˈleɪmli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a weak and unconvincing manner",
+    "zipf": 1.89,
+    "score": 28.5
+  },
+  {
+    "word": "piously",
+    "pronunciation": "/ˈpaɪəsli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a devout and pious manner",
+    "zipf": 1.89,
+    "score": 28.5
+  },
+  {
+    "word": "miler",
+    "pronunciation": "/ˈmaɪlər/",
+    "forms": [
+      "milers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "(used only in combinations) the length of something in miles",
+    "zipf": 2.54,
+    "score": 28.4
+  },
+  {
+    "word": "baldly",
+    "pronunciation": "/ˈbɔldli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a bald manner",
+    "zipf": 1.87,
+    "score": 28.3
+  },
+  {
+    "word": "glowingly",
+    "pronunciation": "/ˈgloʊɪŋli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in an enthusiastically glowing manner",
+    "zipf": 1.87,
+    "score": 28.3
+  },
+  {
+    "word": "quaintly",
+    "pronunciation": "/kˈweɪntli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a strange but not unpleasant manner",
+    "zipf": 1.87,
+    "score": 28.3
+  },
+  {
+    "word": "spiller",
+    "pronunciation": "/ˈspɪlər/",
+    "forms": [
+      "spillers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "an attacker who sheds or spills blood",
+    "zipf": 2.53,
+    "score": 28.3
+  },
+  {
+    "word": "oblate",
+    "pronunciation": "/ˈɑbleɪt/",
+    "forms": [
+      "oblates"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a lay person dedicated to religious work or the religious life",
+    "zipf": 2.2,
+    "score": 28.2
+  },
+  {
+    "word": "unproved",
+    "pronunciation": "/ənˈpruvd/",
+    "forms": [
+      "unproveder",
+      "unprovedest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "not proved",
+    "zipf": 1.82,
+    "score": 28.2
+  },
+  {
+    "word": "diamagnetic",
+    "pronunciation": "/ˌdaɪəmægˈnɛtɪk/",
+    "forms": [
+      "diamagneticer",
+      "diamagneticest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "relating to or exhibiting diamagnetism; slightly repelled by a magnet",
+    "zipf": 1.81,
+    "score": 28.1
+  },
+  {
+    "word": "patroness",
+    "pronunciation": "/ˈpeɪtrənəs/",
+    "forms": [
+      "patronesses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a woman who is a patron or the wife of a patron",
+    "zipf": 2.19,
+    "score": 28.1
+  },
+  {
+    "word": "alexia",
+    "pronunciation": "/əˈlɛksiə/",
+    "forms": [
+      "alexias"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "inability to perceive written words",
+    "zipf": 2.5,
+    "score": 28.0
+  },
+  {
+    "word": "unconfined",
+    "pronunciation": "/ˌənkənˈfaɪnd/",
+    "forms": [
+      "unconfineder",
+      "unconfinedest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "not confined",
+    "zipf": 1.8,
+    "score": 28.0
+  },
+  {
+    "word": "semiotics",
+    "pronunciation": "/ˌsɛmiˈɑtɪks/",
+    "forms": [
+      "semioticses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "(philosophy) a philosophical theory of the functions of signs and symbols",
+    "zipf": 2.49,
+    "score": 27.9
+  },
+  {
+    "word": "vena",
+    "pronunciation": "/ˈvinə/",
+    "forms": [
+      "venas"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a blood vessel that carries blood from the capillaries toward the heart",
+    "zipf": 2.49,
+    "score": 27.9
+  },
+  {
+    "word": "jurisprudential",
+    "pronunciation": "/ˌʤʊrəˌspruˈdɛnʃəl/",
+    "forms": [
+      "jurisprudentialer",
+      "jurisprudentialest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "relating to the science or philosophy of law or a system of laws",
+    "zipf": 1.78,
+    "score": 27.9
+  },
+  {
+    "word": "amoebic",
+    "pronunciation": "/əˈmibɪk/",
+    "forms": [
+      "amoebicer",
+      "amoebicest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "pertaining to or resembling amoebae",
+    "zipf": 1.79,
+    "score": 27.9
+  },
+  {
+    "word": "cyclopean",
+    "pronunciation": "/ˌsaɪkləˈpiən/",
+    "forms": [
+      "cyclopeaner",
+      "cyclopeanest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to or resembling the Cyclops",
+    "zipf": 1.79,
+    "score": 27.9
+  },
+  {
+    "word": "unexploited",
+    "pronunciation": "/ənɪkˈsplɔɪtɪd/",
+    "forms": [
+      "unexploiteder",
+      "unexploitedest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "undeveloped or unused",
+    "zipf": 1.79,
+    "score": 27.9
+  },
+  {
+    "word": "unstained",
+    "pronunciation": "/ənˈsteɪnd/",
+    "forms": [
+      "unstaineder",
+      "unstainedest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "not stained",
+    "zipf": 1.79,
+    "score": 27.9
+  },
+  {
+    "word": "gnomic",
+    "pronunciation": "/ˈnoʊmɪk/",
+    "forms": [
+      "gnomicer",
+      "gnomicest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "relating to or containing gnomes",
+    "zipf": 1.78,
+    "score": 27.8
+  },
+  {
+    "word": "isentropic",
+    "pronunciation": "/ˌaɪzənˈtrɑpək/",
+    "forms": [
+      "isentropicer",
+      "isentropicest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "with unchanging entropy; at constant entropy",
+    "zipf": 1.77,
+    "score": 27.7
+  },
+  {
+    "word": "constancy",
+    "pronunciation": "/ˈkɑnstənsi/",
+    "forms": [
+      "constancies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the quality of being enduring and free from change or variation",
+    "zipf": 2.46,
+    "score": 27.6
+  },
+  {
+    "word": "statics",
+    "pronunciation": "/ˈstætɪks/",
+    "forms": [
+      "staticses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the branch of mechanics concerned with forces in equilibrium",
+    "zipf": 2.46,
+    "score": 27.6
+  },
+  {
+    "word": "chichi",
+    "pronunciation": "/ˈʧiʧi/",
+    "forms": [
+      "chichis"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone who dresses in a trendy fashionable way",
+    "zipf": 2.3,
+    "score": 27.6
+  },
+  {
+    "word": "nipper",
+    "pronunciation": "/ˈnɪpər/",
+    "forms": [
+      "nippers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a young person of either sex",
+    "zipf": 2.3,
+    "score": 27.6
+  },
+  {
+    "word": "effusively",
+    "pronunciation": "/ɪfˈjusɪvli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in an effusive manner",
+    "zipf": 1.8,
+    "score": 27.6
+  },
+  {
+    "word": "placidly",
+    "pronunciation": "/ˈplæsɪdli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a quiet and tranquil manner",
+    "zipf": 1.8,
+    "score": 27.6
+  },
+  {
+    "word": "biaxial",
+    "pronunciation": "/baɪˈæksiəl/",
+    "forms": [
+      "biaxialer",
+      "biaxialest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "having two axes",
+    "zipf": 1.76,
+    "score": 27.6
+  },
+  {
+    "word": "tragicomic",
+    "pronunciation": "/ˌtræʤɪˈkɑmɪk/",
+    "forms": [
+      "tragicomicer",
+      "tragicomicest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to or characteristic of tragicomedy",
+    "zipf": 1.76,
+    "score": 27.6
+  },
+  {
+    "word": "fixings",
+    "pronunciation": "/ˈfɪksɪŋz/",
+    "forms": [
+      "fixingses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "food that is a component of a mixture in cooking",
+    "zipf": 2.29,
+    "score": 27.5
+  },
+  {
+    "word": "generalissimo",
+    "pronunciation": "/ˌʤɛnɛrəˈlɪsɪˌmoʊ/",
+    "forms": [
+      "generalissimos"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "the officer who holds the supreme command",
+    "zipf": 2.29,
+    "score": 27.5
+  },
+  {
+    "word": "grump",
+    "pronunciation": "/grəmp/",
+    "forms": [
+      "grumps"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a bad-tempered person",
+    "zipf": 2.29,
+    "score": 27.5
+  },
+  {
+    "word": "demurely",
+    "pronunciation": "/dɪmˈjʊrli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a demure manner",
+    "zipf": 1.79,
+    "score": 27.5
+  },
+  {
+    "word": "wretchedly",
+    "pronunciation": "/ˈrɛʧɪdli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a wretched manner",
+    "zipf": 1.78,
+    "score": 27.4
+  },
+  {
+    "word": "refiner",
+    "pronunciation": "/rɪˈfaɪnər/",
+    "forms": [
+      "refiners"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "one whose work is to refine a specific thing",
+    "zipf": 2.28,
+    "score": 27.4
+  },
+  {
+    "word": "schemer",
+    "pronunciation": "/ˈskimər/",
+    "forms": [
+      "schemers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a planner who draws up a personal scheme of action",
+    "zipf": 2.28,
+    "score": 27.4
+  },
+  {
+    "word": "smasher",
+    "pronunciation": "/sˈmæʃər/",
+    "forms": [
+      "smashers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "a person who smashes something",
+    "zipf": 2.28,
+    "score": 27.4
+  },
+  {
+    "word": "stargazer",
+    "pronunciation": "/ˈstɑrˌgeɪzər/",
+    "forms": [
+      "stargazers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "someone indifferent to the busy world",
+    "zipf": 2.28,
+    "score": 27.4
+  }
+]
