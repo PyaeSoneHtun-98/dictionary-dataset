@@ -1,0 +1,644 @@
+[
+  {
+    "word": "waylay",
+    "pronunciation": "/ˈweɪˌleɪ/",
+    "forms": [
+      "waylays",
+      "waylaid",
+      "waylaying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "wait in hiding to attack",
+    "zipf": 1.59,
+    "score": 31.9
+  },
+  {
+    "word": "prevaricate",
+    "pronunciation": "/prəˈvɛrəkeɪt/",
+    "forms": [
+      "prevaricates",
+      "prevaricated",
+      "prevaricating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "be deliberately ambiguous or unclear in order to mislead or withhold information",
+    "zipf": 1.58,
+    "score": 31.8
+  },
+  {
+    "word": "tranquilize",
+    "pronunciation": "/ˈtræŋkwəˌlaɪz/",
+    "forms": [
+      "tranquilizes",
+      "tranquilized",
+      "tranquilizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make calm or still",
+    "zipf": 1.58,
+    "score": 31.8
+  },
+  {
+    "word": "unbolt",
+    "pronunciation": "/ˈənˌboʊlt/",
+    "forms": [
+      "unbolts",
+      "unbolted",
+      "unbolting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "undo the bolt of",
+    "zipf": 1.58,
+    "score": 31.8
+  },
+  {
+    "word": "colorize",
+    "pronunciation": "/ˈkələrˌaɪz/",
+    "forms": [
+      "colorizes",
+      "colorized",
+      "colorizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "add color to",
+    "zipf": 1.57,
+    "score": 31.7
+  },
+  {
+    "word": "declaim",
+    "pronunciation": "/dɪˈkleɪm/",
+    "forms": [
+      "declaims",
+      "declaimed",
+      "declaiming"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "recite in elocution",
+    "zipf": 1.57,
+    "score": 31.7
+  },
+  {
+    "word": "undock",
+    "pronunciation": "/ənˈdɑk/",
+    "forms": [
+      "undocks",
+      "undocked",
+      "undocking"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "move out of a dock",
+    "zipf": 1.57,
+    "score": 31.7
+  },
+  {
+    "word": "indite",
+    "pronunciation": "/ˌɪnˈdaɪt/",
+    "forms": [
+      "indites",
+      "indited",
+      "inditing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "produce a literary work",
+    "zipf": 1.42,
+    "score": 31.7
+  },
+  {
+    "word": "miniaturize",
+    "pronunciation": "/ˈmɪnɪʧərˌaɪz/",
+    "forms": [
+      "miniaturizes",
+      "miniaturized",
+      "miniaturizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "design or construct on a smaller scale",
+    "zipf": 1.56,
+    "score": 31.6
+  },
+  {
+    "word": "commingle",
+    "pronunciation": "/kəˈmɪŋgəl/",
+    "forms": [
+      "commingles",
+      "commingled",
+      "commingling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "mix or blend",
+    "zipf": 1.55,
+    "score": 31.5
+  },
+  {
+    "word": "efface",
+    "pronunciation": "/ɪˈfeɪs/",
+    "forms": [
+      "effaces",
+      "effaced",
+      "effacing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "remove completely from recognition or memory",
+    "zipf": 1.55,
+    "score": 31.5
+  },
+  {
+    "word": "primp",
+    "pronunciation": "/prɪmp/",
+    "forms": [
+      "primps",
+      "primped",
+      "primping"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "dress or groom with elaborate care",
+    "zipf": 1.55,
+    "score": 31.5
+  },
+  {
+    "word": "propound",
+    "pronunciation": "/prəˈpaʊnd/",
+    "forms": [
+      "propounds",
+      "propounded",
+      "propounding"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "put forward, as of an idea",
+    "zipf": 1.55,
+    "score": 31.5
+  },
+  {
+    "word": "adjudge",
+    "pronunciation": "/əˈʤəʤ/",
+    "forms": [
+      "adjudges",
+      "adjudged",
+      "adjudging"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "declare to be",
+    "zipf": 1.54,
+    "score": 31.4
+  },
+  {
+    "word": "gainsay",
+    "pronunciation": "/ˈgeɪnˌseɪ/",
+    "forms": [
+      "gainsays",
+      "gainsaid",
+      "gainsaying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "take exception to",
+    "zipf": 1.54,
+    "score": 31.4
+  },
+  {
+    "word": "hearten",
+    "pronunciation": "/ˈhɑrtən/",
+    "forms": [
+      "heartens",
+      "heartened"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "give encouragement to",
+    "zipf": 1.54,
+    "score": 31.4
+  },
+  {
+    "word": "aggress",
+    "pronunciation": "/əˈgrɛs/",
+    "forms": [
+      "aggresses",
+      "aggressed",
+      "aggressing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "take the initiative and go on the offensive",
+    "zipf": 1.53,
+    "score": 31.3
+  },
+  {
+    "word": "remunerate",
+    "pronunciation": "/rɪmˌjunərˈeɪt/",
+    "forms": [
+      "remunerates",
+      "remunerated",
+      "remunerating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make payment to; compensate",
+    "zipf": 1.53,
+    "score": 31.3
+  },
+  {
+    "word": "smoothen",
+    "pronunciation": "/sˈmuðɪn/",
+    "forms": [
+      "smoothens",
+      "smoothened",
+      "smoothening"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make smooth or smoother, as if by rubbing",
+    "zipf": 1.51,
+    "score": 31.1
+  },
+  {
+    "word": "winterize",
+    "pronunciation": "/ˈwɪntərˌaɪz/",
+    "forms": [
+      "winterizes",
+      "winterized",
+      "winterizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "prepare for winter",
+    "zipf": 1.51,
+    "score": 31.1
+  },
+  {
+    "word": "exhilarate",
+    "pronunciation": "/ɪgˈzɪlərˌeɪt/",
+    "forms": [
+      "exhilarates",
+      "exhilarated"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "fill with sublime emotion",
+    "zipf": 1.36,
+    "score": 31.1
+  },
+  {
+    "word": "lionize",
+    "pronunciation": "/ˈlaɪəˌnaɪz/",
+    "forms": [
+      "lionizes",
+      "lionized",
+      "lionizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "assign great social importance to",
+    "zipf": 1.5,
+    "score": 31.0
+  },
+  {
+    "word": "congest",
+    "pronunciation": "/kənˈʤɛst/",
+    "forms": [
+      "congests",
+      "congesting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "become or cause to become obstructed",
+    "zipf": 1.48,
+    "score": 30.8
+  },
+  {
+    "word": "chitter",
+    "pronunciation": "/ˈʧɪtər/",
+    "forms": [
+      "chitters",
+      "chittered",
+      "chittering"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make high-pitched sounds, as of birds",
+    "zipf": 1.47,
+    "score": 30.7
+  },
+  {
+    "word": "derange",
+    "pronunciation": "/dɪˈreɪnʤ/",
+    "forms": [
+      "deranges",
+      "deranging"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "derange mentally, throw out of mental balance; make insane",
+    "zipf": 1.47,
+    "score": 30.7
+  },
+  {
+    "word": "bouse",
+    "pronunciation": "/baʊs/",
+    "forms": [
+      "bouses",
+      "boused",
+      "bousing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "haul with a tackle",
+    "zipf": 1.46,
+    "score": 30.6
+  },
+  {
+    "word": "mummify",
+    "pronunciation": "/ˈməməˌfaɪ/",
+    "forms": [
+      "mummifies",
+      "mummified",
+      "mummifying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "preserve while making lifeless",
+    "zipf": 1.46,
+    "score": 30.6
+  },
+  {
+    "word": "suffuse",
+    "pronunciation": "/səfˈjuz/",
+    "forms": [
+      "suffuses",
+      "suffused",
+      "suffusing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cause to spread or flush or flood through, over, or across",
+    "zipf": 1.46,
+    "score": 30.6
+  },
+  {
+    "word": "uncoil",
+    "pronunciation": "/ˌənˈkɔɪl/",
+    "forms": [
+      "uncoils",
+      "uncoiled",
+      "uncoiling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "unwind or untwist",
+    "zipf": 1.46,
+    "score": 30.6
+  },
+  {
+    "word": "convolute",
+    "pronunciation": "/ˈkɑnvəˌlut/",
+    "forms": [
+      "convolutes",
+      "convoluting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "curl, wind, or twist together",
+    "zipf": 1.45,
+    "score": 30.5
+  },
+  {
+    "word": "denominate",
+    "pronunciation": "/dɪˈnɑməˌneɪt/",
+    "forms": [
+      "denominates",
+      "denominated",
+      "denominating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "assign a name or title to",
+    "zipf": 1.45,
+    "score": 30.5
+  },
+  {
+    "word": "disorganize",
+    "pronunciation": "/dɪˈsɔrgəˌnaɪz/",
+    "forms": [
+      "disorganizes",
+      "disorganizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "remove the organization from",
+    "zipf": 1.45,
+    "score": 30.5
+  },
+  {
+    "word": "distend",
+    "pronunciation": "/dɪˈstɛnd/",
+    "forms": [
+      "distends",
+      "distended",
+      "distending"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "become wider",
+    "zipf": 1.45,
+    "score": 30.5
+  },
+  {
+    "word": "overact",
+    "pronunciation": "/ˈoʊvərˌækt/",
+    "forms": [
+      "overacts",
+      "overacted",
+      "overacting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "exaggerate one's acting",
+    "zipf": 1.45,
+    "score": 30.5
+  },
+  {
+    "word": "parch",
+    "pronunciation": "/pɑrʧ/",
+    "forms": [
+      "parches",
+      "parching"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cause to wither or parch from exposure to heat",
+    "zipf": 1.45,
+    "score": 30.5
+  },
+  {
+    "word": "permute",
+    "pronunciation": "/ˌpərmˈjut/",
+    "forms": [
+      "permutes",
+      "permuted",
+      "permuting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "change the order or arrangement of",
+    "zipf": 1.45,
+    "score": 30.5
+  },
+  {
+    "word": "postdate",
+    "pronunciation": "/ˌpoʊstˈdeɪt/",
+    "forms": [
+      "postdates",
+      "postdated",
+      "postdating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "be later in time",
+    "zipf": 1.45,
+    "score": 30.5
+  },
+  {
+    "word": "stylize",
+    "pronunciation": "/ˈstaɪˌlaɪz/",
+    "forms": [
+      "stylizes",
+      "stylized",
+      "stylizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "represent according to a conventional style",
+    "zipf": 1.45,
+    "score": 30.5
+  },
+  {
+    "word": "upbraid",
+    "pronunciation": "/ˈəpˌbreɪd/",
+    "forms": [
+      "upbraids",
+      "upbraided",
+      "upbraiding"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "express criticism towards",
+    "zipf": 1.45,
+    "score": 30.5
+  },
+  {
+    "word": "imbed",
+    "pronunciation": "/ɪmˈbɛd/",
+    "forms": [
+      "imbeds",
+      "imbedded",
+      "imbedding"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "fix or set securely or deeply",
+    "zipf": 1.44,
+    "score": 30.4
+  },
+  {
+    "word": "pluralize",
+    "pronunciation": "/ˈplʊrəlaɪz/",
+    "forms": [
+      "pluralizes",
+      "pluralized",
+      "pluralizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "mark with a grammatical morpheme that indicates plural",
+    "zipf": 1.44,
+    "score": 30.4
+  },
+  {
+    "word": "transfix",
+    "pronunciation": "/trænsˈfɪks/",
+    "forms": [
+      "transfixes",
+      "transfixed",
+      "transfixing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "to render motionless, as with a fixed stare or by arousing terror or awe",
+    "zipf": 1.44,
+    "score": 30.4
+  },
+  {
+    "word": "westernize",
+    "pronunciation": "/ˈwɛstərˌnaɪz/",
+    "forms": [
+      "westernizes",
+      "westernized",
+      "westernizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make western in character",
+    "zipf": 1.44,
+    "score": 30.4
+  },
+  {
+    "word": "misidentify",
+    "pronunciation": "/mɪsaɪˈdɛnəˌfaɪ/",
+    "forms": [
+      "misidentifies",
+      "misidentified",
+      "misidentifying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "identify incorrectly",
+    "zipf": 1.43,
+    "score": 30.3
+  },
+  {
+    "word": "purloin",
+    "pronunciation": "/pərˈlɔɪn/",
+    "forms": [
+      "purloins",
+      "purloined",
+      "purloining"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make off with belongings of others",
+    "zipf": 1.41,
+    "score": 30.1
+  },
+  {
+    "word": "diffract",
+    "pronunciation": "/dɪˈfrækt/",
+    "forms": [
+      "diffracts",
+      "diffracted",
+      "diffracting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "undergo diffraction",
+    "zipf": 1.4,
+    "score": 30.0
+  },
+  {
+    "word": "deprave",
+    "pronunciation": "/diˈpreɪv/",
+    "forms": [
+      "depraves",
+      "depraving"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "corrupt morally or by intemperance or sensuality",
+    "zipf": 1.39,
+    "score": 29.9
+  },
+  {
+    "word": "depressurize",
+    "pronunciation": "/dɪˈprɛʃərˌaɪz/",
+    "forms": [
+      "depressurizes",
+      "depressurized",
+      "depressurizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "decrease the pressure of",
+    "zipf": 1.39,
+    "score": 29.9
+  },
+  {
+    "word": "cosset",
+    "pronunciation": "/ˈkɑsət/",
+    "forms": [
+      "cossets",
+      "cosseted",
+      "cosseting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "treat with excessive indulgence",
+    "zipf": 1.38,
+    "score": 29.8
+  },
+  {
+    "word": "desiccate",
+    "pronunciation": "/ˈdɛsəkeɪt/",
+    "forms": [
+      "desiccates",
+      "desiccated",
+      "desiccating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "preserve by removing all water and liquids from",
+    "zipf": 1.38,
+    "score": 29.8
+  }
+]

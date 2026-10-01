@@ -1,0 +1,479 @@
+[
+  {
+    "word": "cogitate",
+    "pronunciation": "/ˈkɑʤɪˌteɪt/",
+    "forms": [
+      "cogitates",
+      "cogitated",
+      "cogitating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "consider carefully and deeply; reflect upon; turn over in one's mind",
+    "zipf": 1.37,
+    "score": 29.7
+  },
+  {
+    "word": "enfeeble",
+    "pronunciation": "/ɛnˈfibəl/",
+    "forms": [
+      "enfeebles",
+      "enfeebled",
+      "enfeebling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make weak",
+    "zipf": 1.37,
+    "score": 29.7
+  },
+  {
+    "word": "remold",
+    "pronunciation": "/riˈmoʊld/",
+    "forms": [
+      "remolds",
+      "remolded",
+      "remolding"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cast again",
+    "zipf": 1.37,
+    "score": 29.7
+  },
+  {
+    "word": "parboil",
+    "pronunciation": "/ˈpɑrˌbɔɪl/",
+    "forms": [
+      "parboils",
+      "parboiled",
+      "parboiling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cook (vegetables) briefly",
+    "zipf": 1.36,
+    "score": 29.6
+  },
+  {
+    "word": "unbend",
+    "pronunciation": "/ˌənˈbɛnd/",
+    "forms": [
+      "unbends",
+      "unbended",
+      "unbending"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "straighten up or out; make straight",
+    "zipf": 1.36,
+    "score": 29.6
+  },
+  {
+    "word": "protract",
+    "pronunciation": "/ˈproʊtrækt/",
+    "forms": [
+      "protracts",
+      "protracting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "lengthen in time; cause to be or last longer",
+    "zipf": 1.35,
+    "score": 29.5
+  },
+  {
+    "word": "latinate",
+    "pronunciation": "/ˈlætəˌneɪt/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "derived from or imitative of Latin",
+    "zipf": 1.67,
+    "score": 28.7
+  },
+  {
+    "word": "pleomorphic",
+    "pronunciation": "/ˌpliəˈmɔfɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "relating to or characterized by pleomorphism",
+    "zipf": 1.67,
+    "score": 28.7
+  },
+  {
+    "word": "canonic",
+    "pronunciation": "/kəˈnɑnək/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "appearing in a biblical canon",
+    "zipf": 1.66,
+    "score": 28.6
+  },
+  {
+    "word": "chitinous",
+    "pronunciation": "/ˈkaɪtənəs/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or resembling chitin",
+    "zipf": 1.65,
+    "score": 28.5
+  },
+  {
+    "word": "estrous",
+    "pronunciation": "/ˈɛstrəs/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "(of lower mammals) showing or in a state of estrus; in heat",
+    "zipf": 1.65,
+    "score": 28.5
+  },
+  {
+    "word": "nonaligned",
+    "pronunciation": "/ˈnɑnəˌlaɪnd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "not affiliated with any faction, party, or cause",
+    "zipf": 1.65,
+    "score": 28.5
+  },
+  {
+    "word": "homiletic",
+    "pronunciation": "/ˌhɑməˈlɛtɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of the nature of a homily or sermon",
+    "zipf": 1.64,
+    "score": 28.4
+  },
+  {
+    "word": "tartly",
+    "pronunciation": "/ˈtɑrtli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a tart manner",
+    "zipf": 1.68,
+    "score": 28.3
+  },
+  {
+    "word": "lowborn",
+    "pronunciation": "/ˈloʊˈbɔrn/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of humble birth or origins",
+    "zipf": 1.62,
+    "score": 28.2
+  },
+  {
+    "word": "organismic",
+    "pronunciation": "/ˌɔrgəˈnɪzmɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to or belonging to an organism (considered as a whole)",
+    "zipf": 1.62,
+    "score": 28.2
+  },
+  {
+    "word": "mineralize",
+    "pronunciation": "/ˈmɪnərəˌlaɪz/",
+    "forms": [
+      "mineralizes",
+      "mineralized",
+      "mineralizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "convert into a mineral substance",
+    "zipf": 1.41,
+    "score": 28.1
+  },
+  {
+    "word": "archly",
+    "pronunciation": "/ˈɑrʧli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in_an_arch_manner; with playful slyness or roguishness",
+    "zipf": 1.66,
+    "score": 28.1
+  },
+  {
+    "word": "virological",
+    "pronunciation": "/vaɪrəˈlɑʤɪkəl/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to the science of virology",
+    "zipf": 1.6,
+    "score": 28.0
+  },
+  {
+    "word": "mesodermal",
+    "pronunciation": "/ˌmɛzəˈdərməl/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "relating to or derived from the mesoderm",
+    "zipf": 1.59,
+    "score": 27.9
+  },
+  {
+    "word": "monatomic",
+    "pronunciation": "/ˌmɑnəˈtɑmɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to an element consisting of a single atom",
+    "zipf": 1.58,
+    "score": 27.8
+  },
+  {
+    "word": "presidentially",
+    "pronunciation": "/ˌprɛzɪˈdɛnʃəli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a presidential manner",
+    "zipf": 1.63,
+    "score": 27.8
+  },
+  {
+    "word": "unamended",
+    "pronunciation": "/ənəˈmɛndɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "(of legislation) not amended",
+    "zipf": 1.57,
+    "score": 27.7
+  },
+  {
+    "word": "primly",
+    "pronunciation": "/ˈprɪmli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a prissy manner",
+    "zipf": 1.6,
+    "score": 27.5
+  },
+  {
+    "word": "lastingly",
+    "pronunciation": "/ˈlæstɪŋli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in an enduring or permanent manner",
+    "zipf": 1.58,
+    "score": 27.3
+  },
+  {
+    "word": "stenographic",
+    "pronunciation": "/ˌstɛnəˈgræfɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to or employing stenography",
+    "zipf": 1.53,
+    "score": 27.3
+  },
+  {
+    "word": "proteinaceous",
+    "pronunciation": "/ˌproʊtɪˈneɪʃəs/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "relating to or of the nature of protein",
+    "zipf": 1.52,
+    "score": 27.2
+  },
+  {
+    "word": "sigmoidal",
+    "pronunciation": "/ˌsɪgˈmɔɪdəl/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to the sigmoid flexure in the large intestine",
+    "zipf": 1.5,
+    "score": 27.0
+  },
+  {
+    "word": "tremulously",
+    "pronunciation": "/ˈtrɛmjələsli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a tremulous manner",
+    "zipf": 1.54,
+    "score": 26.9
+  },
+  {
+    "word": "sleekly",
+    "pronunciation": "/sˈlikli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a sleek glossy manner",
+    "zipf": 1.53,
+    "score": 26.8
+  },
+  {
+    "word": "sportingly",
+    "pronunciation": "/ˈspɔrtɪŋli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "so as to be sporting; in a sporting manner",
+    "zipf": 1.53,
+    "score": 26.8
+  },
+  {
+    "word": "appointive",
+    "pronunciation": "/əˈpɔɪntɪv/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "relating to the act of appointing",
+    "zipf": 1.48,
+    "score": 26.8
+  },
+  {
+    "word": "unconcealed",
+    "pronunciation": "/ˌənkənˈsild/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "not concealed or hidden",
+    "zipf": 1.48,
+    "score": 26.8
+  },
+  {
+    "word": "polyphase",
+    "pronunciation": "/ˈpɑˌliˌfeɪz/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of an electrical system that uses or generates two or more alternating voltages of the same frequency but differing in phase angle",
+    "zipf": 1.65,
+    "score": 26.5
+  },
+  {
+    "word": "porphyritic",
+    "pronunciation": "/ˌpɔrfərˈɪtɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "(of rocks) consisting of porphyry or containing large crystals in a fine groundmass of minerals",
+    "zipf": 1.65,
+    "score": 26.5
+  },
+  {
+    "word": "antemortem",
+    "pronunciation": "/æntəˈmɔrtəm/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "preceding death",
+    "zipf": 1.43,
+    "score": 26.3
+  },
+  {
+    "word": "parenthetically",
+    "pronunciation": "/pərɛnˈθɛtɪkəli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a parenthetical manner",
+    "zipf": 1.57,
+    "score": 26.2
+  },
+  {
+    "word": "caribe",
+    "pronunciation": "/ˌkɑˈrib/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "small voraciously carnivorous freshwater fishes of South America that attack and destroy living animals",
+    "zipf": 2.19,
+    "score": 25.9
+  },
+  {
+    "word": "circumstantially",
+    "pronunciation": "/ˌsərkəmˈstænʃəˌli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "according to circumstances",
+    "zipf": 1.69,
+    "score": 25.9
+  },
+  {
+    "word": "onomastic",
+    "pronunciation": "/ˌɑnəˈmæstɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or related to onomastics",
+    "zipf": 1.39,
+    "score": 25.9
+  },
+  {
+    "word": "corbelled",
+    "pronunciation": "/ˈkɔrbəld/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having a corbel",
+    "zipf": 1.37,
+    "score": 25.7
+  },
+  {
+    "word": "raptorial",
+    "pronunciation": "/ˌræpˈtɔriəl/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "relating to or characteristic of birds of prey",
+    "zipf": 1.37,
+    "score": 25.7
+  },
+  {
+    "word": "edgeways",
+    "pronunciation": "/ˈɛʤˌweɪz/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "as if by an edge; barely",
+    "zipf": 1.55,
+    "score": 25.5
+  },
+  {
+    "word": "punishingly",
+    "pronunciation": "/ˈpənɪʃɪŋli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a punishing manner",
+    "zipf": 1.4,
+    "score": 25.5
+  },
+  {
+    "word": "carrousel",
+    "pronunciation": "/ˈkɛrəˌsɛl/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a conveyer belt that carries luggage to be claimed by air travelers",
+    "zipf": 1.94,
+    "score": 24.9
+  },
+  {
+    "word": "bawd",
+    "pronunciation": "/bɔd/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a woman who engages in sexual intercourse for money",
+    "zipf": 1.63,
+    "score": 24.8
+  },
+  {
+    "word": "mezuzah",
+    "pronunciation": "/məˈzʊzə/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "religious texts from Deuteronomy inscribed on parchment and rolled up in a case that is attached to the doorframe of many Jewish households in accordance with Jewish law",
+    "zipf": 1.63,
+    "score": 24.8
+  },
+  {
+    "word": "vendee",
+    "pronunciation": "/ˈvɛnˈdi/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a person who buys",
+    "zipf": 1.91,
+    "score": 24.6
+  },
+  {
+    "word": "screamingly",
+    "pronunciation": "/ˈskrimɪŋli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "to an extreme degree",
+    "zipf": 1.45,
+    "score": 24.5
+  },
+  {
+    "word": "contradictorily",
+    "pronunciation": "/ˌkɑntrəˈdɪktərəli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a contradictory manner",
+    "zipf": 1.38,
+    "score": 24.3
+  }
+]

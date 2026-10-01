@@ -1,0 +1,611 @@
+[
+  {
+    "word": "haired",
+    "pronunciation": "/hɛrd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having or covered with hair",
+    "zipf": 3.7,
+    "score": 49.0
+  },
+  {
+    "word": "bodied",
+    "pronunciation": "/ˈbɑdid/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having a body or a body of a specified kind; often used in combination",
+    "zipf": 3.48,
+    "score": 48.3
+  },
+  {
+    "word": "toothed",
+    "pronunciation": "/tuθt/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having teeth especially of a certain number or type; often used in combination",
+    "zipf": 3.04,
+    "score": 42.4
+  },
+  {
+    "word": "sleeved",
+    "pronunciation": "/slivd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "made with sleeves or sleeves especially as specified; often used in combination",
+    "zipf": 2.93,
+    "score": 41.3
+  },
+  {
+    "word": "bladed",
+    "pronunciation": "/ˈbleɪdɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "bearing or characterized by a blade or sword; often used in combination",
+    "zipf": 2.71,
+    "score": 39.1
+  },
+  {
+    "word": "twenties",
+    "pronunciation": "/tˈwɛntiz/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the time of life between 20 and 30",
+    "zipf": 3.48,
+    "score": 38.8
+  },
+  {
+    "word": "forties",
+    "pronunciation": "/ˈfɔrtiz/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the time of life between 40 and 50",
+    "zipf": 3.04,
+    "score": 34.4
+  },
+  {
+    "word": "rehear",
+    "pronunciation": "/riˈhir/",
+    "forms": [
+      "rehears",
+      "reheared"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "hear or try a court case anew",
+    "zipf": 1.69,
+    "score": 34.4
+  },
+  {
+    "word": "misguide",
+    "pronunciation": "/mɪsˈgaɪd/",
+    "forms": [
+      "misguides",
+      "misguiding"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "lead someone in the wrong direction or give someone wrong directions",
+    "zipf": 1.66,
+    "score": 34.1
+  },
+  {
+    "word": "mismanage",
+    "pronunciation": "/mɪsˈmænɪʤ/",
+    "forms": [
+      "mismanages",
+      "mismanaged",
+      "mismanaging"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "manage badly or incompetently",
+    "zipf": 1.61,
+    "score": 33.6
+  },
+  {
+    "word": "mechanize",
+    "pronunciation": "/ˈmɛkəˌnaɪz/",
+    "forms": [
+      "mechanizes",
+      "mechanized",
+      "mechanizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "equip with armed and armored motor vehicles",
+    "zipf": 1.59,
+    "score": 33.4
+  },
+  {
+    "word": "vegetate",
+    "pronunciation": "/ˈvɛʤəˌteɪt/",
+    "forms": [
+      "vegetates",
+      "vegetated",
+      "vegetating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "lead a passive existence without using one's body or mind",
+    "zipf": 1.58,
+    "score": 33.3
+  },
+  {
+    "word": "hoofed",
+    "pronunciation": "/hʊft/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having or resembling hoofs",
+    "zipf": 2.11,
+    "score": 33.1
+  },
+  {
+    "word": "concatenate",
+    "pronunciation": "/kənˈkætəˌneɪt/",
+    "forms": [
+      "concatenates",
+      "concatenated",
+      "concatenating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "combine two strings to form a single one",
+    "zipf": 1.69,
+    "score": 32.9
+  },
+  {
+    "word": "ennoble",
+    "pronunciation": "/ɪˈnoʊbəl/",
+    "forms": [
+      "ennobles",
+      "ennobled",
+      "ennobling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "confer dignity or honor upon",
+    "zipf": 1.68,
+    "score": 32.8
+  },
+  {
+    "word": "miscalculate",
+    "pronunciation": "/mɪˈskælkjəˌleɪt/",
+    "forms": [
+      "miscalculates",
+      "miscalculated",
+      "miscalculating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "judge incorrectly",
+    "zipf": 1.68,
+    "score": 32.8
+  },
+  {
+    "word": "predetermine",
+    "pronunciation": "/ˌpridɪˈtərmən/",
+    "forms": [
+      "predetermines",
+      "predetermined",
+      "predetermining"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "determine beforehand",
+    "zipf": 1.68,
+    "score": 32.8
+  },
+  {
+    "word": "reabsorb",
+    "pronunciation": "/ˌriəbˈzɔrb/",
+    "forms": [
+      "reabsorbs",
+      "reabsorbed",
+      "reabsorbing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "undergo resorption",
+    "zipf": 1.68,
+    "score": 32.8
+  },
+  {
+    "word": "emboss",
+    "pronunciation": "/ɪmˈbɔs/",
+    "forms": [
+      "embosses",
+      "embossed",
+      "embossing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "raise in a relief",
+    "zipf": 1.67,
+    "score": 32.7
+  },
+  {
+    "word": "intone",
+    "pronunciation": "/ˌɪnˈtoʊn/",
+    "forms": [
+      "intones",
+      "intoned",
+      "intoning"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "utter monotonously and repetitively and rhythmically",
+    "zipf": 1.67,
+    "score": 32.7
+  },
+  {
+    "word": "petrify",
+    "pronunciation": "/ˈpɛtrəˌfaɪ/",
+    "forms": [
+      "petrifies",
+      "petrifying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cause to become stonelike or stiff or dazed and stunned",
+    "zipf": 1.67,
+    "score": 32.7
+  },
+  {
+    "word": "polymerize",
+    "pronunciation": "/ˈpɑlɪmərˌaɪz/",
+    "forms": [
+      "polymerizes",
+      "polymerized",
+      "polymerizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cause (a compound) to polymerize",
+    "zipf": 1.67,
+    "score": 32.7
+  },
+  {
+    "word": "reimpose",
+    "pronunciation": "/ˌriɪmˈpoʊz/",
+    "forms": [
+      "reimposes",
+      "reimposed",
+      "reimposing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "impose anew",
+    "zipf": 1.67,
+    "score": 32.7
+  },
+  {
+    "word": "pasteurize",
+    "pronunciation": "/ˈpæsʧərˌaɪz/",
+    "forms": [
+      "pasteurizes",
+      "pasteurized",
+      "pasteurizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "heat food in order to kill harmful microorganisms",
+    "zipf": 1.51,
+    "score": 32.6
+  },
+  {
+    "word": "entomb",
+    "pronunciation": "/ɛnˈtum/",
+    "forms": [
+      "entombs",
+      "entombed",
+      "entombing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "place in a grave or tomb",
+    "zipf": 1.66,
+    "score": 32.6
+  },
+  {
+    "word": "stickle",
+    "pronunciation": "/ˈstɪkəl/",
+    "forms": [
+      "stickles",
+      "stickled",
+      "stickling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "dispute or argue stubbornly (especially minor points)",
+    "zipf": 1.66,
+    "score": 32.6
+  },
+  {
+    "word": "membered",
+    "pronunciation": "/ˈmɛmbərd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having members; normally used in chemistry in combination with a number",
+    "zipf": 2.25,
+    "score": 32.5
+  },
+  {
+    "word": "exculpate",
+    "pronunciation": "/ˌɛkˈskəlpeɪt/",
+    "forms": [
+      "exculpates",
+      "exculpated",
+      "exculpating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "pronounce not guilty of criminal charges",
+    "zipf": 1.65,
+    "score": 32.5
+  },
+  {
+    "word": "garble",
+    "pronunciation": "/ˈgɑrbəl/",
+    "forms": [
+      "garbles",
+      "garbling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make false by mutilation or addition; as of a message or story",
+    "zipf": 1.65,
+    "score": 32.5
+  },
+  {
+    "word": "revalue",
+    "pronunciation": "/riˈvæˌlju/",
+    "forms": [
+      "revalues",
+      "revalued",
+      "revaluing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "gain in value",
+    "zipf": 1.65,
+    "score": 32.5
+  },
+  {
+    "word": "scandalize",
+    "pronunciation": "/ˈskændəˌlaɪz/",
+    "forms": [
+      "scandalizes",
+      "scandalized",
+      "scandalizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "strike with disgust or revulsion",
+    "zipf": 1.65,
+    "score": 32.5
+  },
+  {
+    "word": "sodomize",
+    "pronunciation": "/ˈsɔdəˌmaɪz/",
+    "forms": [
+      "sodomizes",
+      "sodomized",
+      "sodomizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "copulate with an animal",
+    "zipf": 1.65,
+    "score": 32.5
+  },
+  {
+    "word": "alphabetize",
+    "pronunciation": "/ˈælfəbəˌtaɪz/",
+    "forms": [
+      "alphabetizes",
+      "alphabetized",
+      "alphabetizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "arrange in alphabetical order",
+    "zipf": 1.64,
+    "score": 32.4
+  },
+  {
+    "word": "connive",
+    "pronunciation": "/kəˈnaɪv/",
+    "forms": [
+      "connives",
+      "connived",
+      "conniving"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "encourage or assent to illegally or criminally",
+    "zipf": 1.64,
+    "score": 32.4
+  },
+  {
+    "word": "extirpate",
+    "pronunciation": "/ˈɛkstərˌpeɪt/",
+    "forms": [
+      "extirpates",
+      "extirpated",
+      "extirpating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "destroy completely, as if down to the roots",
+    "zipf": 1.64,
+    "score": 32.4
+  },
+  {
+    "word": "enfranchise",
+    "pronunciation": "/ɛnˈfrænˌʧaɪz/",
+    "forms": [
+      "enfranchises",
+      "enfranchised",
+      "enfranchising"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "grant freedom to; as from slavery or servitude",
+    "zipf": 1.63,
+    "score": 32.3
+  },
+  {
+    "word": "globalize",
+    "pronunciation": "/ˈgloʊbəˌlaɪz/",
+    "forms": [
+      "globalizes",
+      "globalizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make world-wide in scope or application",
+    "zipf": 1.63,
+    "score": 32.3
+  },
+  {
+    "word": "intersperse",
+    "pronunciation": "/ˌɪntərˈspərs/",
+    "forms": [
+      "intersperses",
+      "interspersed",
+      "interspersing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "place at intervals in or among",
+    "zipf": 1.63,
+    "score": 32.3
+  },
+  {
+    "word": "reforest",
+    "pronunciation": "/riˈfɔrəst/",
+    "forms": [
+      "reforests",
+      "reforested",
+      "reforesting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "forest anew",
+    "zipf": 1.63,
+    "score": 32.3
+  },
+  {
+    "word": "strew",
+    "pronunciation": "/stru/",
+    "forms": [
+      "strews",
+      "strewed",
+      "strewn",
+      "strewing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "spread by scattering ( is archaic)",
+    "zipf": 1.63,
+    "score": 32.3
+  },
+  {
+    "word": "convoke",
+    "pronunciation": "/kɑnˈvoʊk/",
+    "forms": [
+      "convokes",
+      "convoked",
+      "convoking"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "call together",
+    "zipf": 1.62,
+    "score": 32.2
+  },
+  {
+    "word": "deputize",
+    "pronunciation": "/ˈdɛpjəˌtaɪz/",
+    "forms": [
+      "deputizes",
+      "deputized",
+      "deputizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "act as a substitute",
+    "zipf": 1.62,
+    "score": 32.2
+  },
+  {
+    "word": "readmit",
+    "pronunciation": "/ˌriədˈmɪt/",
+    "forms": [
+      "readmits",
+      "readmitted",
+      "readmitting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "admit anew",
+    "zipf": 1.62,
+    "score": 32.2
+  },
+  {
+    "word": "swelter",
+    "pronunciation": "/sˈwɛltər/",
+    "forms": [
+      "swelters",
+      "sweltered"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "be uncomfortably hot",
+    "zipf": 1.62,
+    "score": 32.2
+  },
+  {
+    "word": "purvey",
+    "pronunciation": "/pərˈveɪ/",
+    "forms": [
+      "purveys",
+      "purveyed",
+      "purveying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "supply with provisions",
+    "zipf": 1.61,
+    "score": 32.1
+  },
+  {
+    "word": "enthral",
+    "pronunciation": "/ɛnθˈrɔl/",
+    "forms": [
+      "enthrals",
+      "enthraled",
+      "enthraling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "hold spellbound",
+    "zipf": 1.6,
+    "score": 32.0
+  },
+  {
+    "word": "reseed",
+    "pronunciation": "/riˈsid/",
+    "forms": [
+      "reseeds",
+      "reseeded",
+      "reseeding"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "seed again or anew",
+    "zipf": 1.6,
+    "score": 32.0
+  },
+  {
+    "word": "incise",
+    "pronunciation": "/ˌɪnˈsaɪz/",
+    "forms": [
+      "incises",
+      "incised",
+      "incising"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make an incision into by carving or cutting",
+    "zipf": 1.59,
+    "score": 31.9
+  },
+  {
+    "word": "outvote",
+    "pronunciation": "/aʊtˈvoʊt/",
+    "forms": [
+      "outvotes",
+      "outvoted",
+      "outvoting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "defeat by a majority of votes",
+    "zipf": 1.59,
+    "score": 31.9
+  },
+  {
+    "word": "schnorr",
+    "pronunciation": "/ʃnɔr/",
+    "forms": [
+      "schnorrs",
+      "schnorred",
+      "schnorring"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "obtain or seek to obtain by cadging or wheedling",
+    "zipf": 1.59,
+    "score": 31.9
+  }
+]
