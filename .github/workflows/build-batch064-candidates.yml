@@ -1,0 +1,111 @@
+name: Build Batch 064 Candidates
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'staging/batch064/BUILD_CANDIDATES'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install lexical resources
+        run: |
+          python -m pip install --quiet wordfreq nltk lemminflect cmudict
+          python - <<'PY'
+          import nltk
+          nltk.download('wordnet', quiet=True)
+          PY
+      - name: Build fresh extension candidate pool
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, re, zlib
+          from wordfreq import top_n_list, zipf_frequency
+          from nltk.corpus import wordnet as wn
+          from lemminflect import getAllLemmas
+          import cmudict
+
+          root=pathlib.Path('.')
+          manifest=json.loads((root/'dictionary_extension_manifest.json').read_text(encoding='utf-8'))
+          assert manifest['latestBatch']==63 and manifest['nextBatch']==64, manifest
+
+          encoded=(root/'extension_lookup'/'used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          prior=set(zlib.decompress(base64.b64decode(encoded)).decode('utf-8').splitlines())
+          assert len(prior)==48237, len(prior)
+
+          cmu=cmudict.dict()
+          posmap={wn.NOUN:'noun',wn.VERB:'verb',wn.ADJ:'adjective',wn.ADV:'adverb'}
+          basic=set('the and is are was were be been being a an to of in on at for from with without by as or but if then than this that these those i you he she it we they me him her us them my your his its our their mine yours ours theirs yes no hello good bad okay ok maybe very really just only also now there here have has had do does did get got make made know think want need like love time year day people person thing things one two three four five first last most much many more less little big small new old right wrong well too before after why who what when where how can could would should will shall may might must'.split())
+          banned_defs=[
+            'native or inhabitant','official language','language spoken','a member of a catholic','adherent of protestantism',
+            '(trademark)','street name for','genus of','family of','dynasty that ruled','federal department','federation of',
+            'title for the former','basic unit of money','monetary unit','unit of pressure','unit of electric current',
+            'liquid unit equal','a native of','ethnic slur','offensive term for a person of','country or region','nationality'
+          ]
+          reject_words=set('html http https jpeg jpg gif php dvd dvds mp3 ipod xbox linux unix wikipedia google facebook instagram tiktok twitter reddit'.split())
+
+          def canonical(w):
+              if w in prior or w in basic or w in reject_words: return False
+              if not (w.isascii() and w.isalpha() and w==w.lower()): return False
+              if len(w)<4 or len(w)>18: return False
+              lemmas=getAllLemmas(w, upos=None)
+              bases={x.lower() for vals in lemmas.values() for x in vals}
+              if any(b!=w and b.isalpha() for b in bases): return False
+              syns=wn.synsets(w)
+              if not syns: return False
+              exact=[s for s in syns if s.pos() in posmap and any(l.name().lower()==w for l in s.lemmas())]
+              if not exact: return False
+              if any(s.instance_hypernyms() for s in exact): return False
+              if any(any(l.name()[:1].isupper() for l in s.lemmas()) for s in exact): return False
+              defs=' || '.join(s.definition().lower() for s in exact[:5])
+              if any(x in defs for x in banned_defs): return False
+              if w not in cmu: return False
+              return True
+
+          rows=[]; seen=set()
+          for rank,w in enumerate(top_n_list('en',300000),1):
+              w=w.lower().strip()
+              if w in seen or not canonical(w): continue
+              f=zipf_frequency(w,'en')
+              if not (2.15<=f<=3.60): continue
+              syns=[s for s in wn.synsets(w) if s.pos() in posmap and any(l.name().lower()==w for l in s.lemmas())]
+              if not syns: continue
+              s=syns[0]
+              rows.append({
+                  'rank':rank,
+                  'word':w,
+                  'partOfSpeech':posmap[s.pos()],
+                  'zipf':round(f,2),
+                  'definition':s.definition(),
+                  'cmu':cmu[w][0]
+              })
+              seen.add(w)
+              if len(rows)>=1800: break
+
+          assert len(rows)>=1200, len(rows)
+          out=root/'staging'/'batch064'/'candidates'
+          out.mkdir(parents=True,exist_ok=True)
+          for p in out.glob('*'): p.unlink()
+          for i in range(0,len(rows),100):
+              part=rows[i:i+100]
+              (out/f'candidates_{i//100+1:02d}.json').write_text(json.dumps(part,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          (out/'SUMMARY.json').write_text(json.dumps({
+              'count':len(rows),'priorKeys':len(prior),'first':rows[0]['word'],'last':rows[-1]['word'],
+              'zipfMin':min(x['zipf'] for x in rows),'zipfMax':max(x['zipf'] for x in rows)
+          },indent=2)+'\n',encoding='utf-8')
+          print('candidates',len(rows))
+          print('first',rows[:20])
+          PY
+      - name: Commit candidates
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch064/candidates
+          git commit -m 'Build fresh Batch 064 candidate pool'
+          git push
