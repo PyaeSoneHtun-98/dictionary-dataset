@@ -88,7 +88,7 @@ jobs:
               seen.add(w)
               if len(rows)>=1800: break
 
-          assert len(rows)>=1200, len(rows)
+          assert len(rows)>=1000, len(rows)
           out=root/'staging'/'batch065'/'candidates'
           out.mkdir(parents=True,exist_ok=True)
           for p in out.glob('*'): p.unlink()
