@@ -1,315 +1,702 @@
 [
   {
-    "word": "serologist",
+    "word": "tamer",
     "partOfSpeech": "noun",
-    "zipf": 0.0,
-    "score": 4.0,
-    "definition": "a medical scientist who specializes in serology",
-    "cmu": [
-      "S",
-      "EH0",
-      "R",
-      "AA1",
-      "L",
-      "AH0",
-      "JH",
-      "IH0",
-      "S",
-      "T"
-    ]
+    "zipf": 2.74,
+    "score": 31.4,
+    "definition": "an animal trainer who tames wild animals"
   },
   {
-    "word": "sheikdom",
+    "word": "dunce",
     "partOfSpeech": "noun",
-    "zipf": 0.0,
-    "score": 4.0,
-    "definition": "the domain ruled by a sheik",
-    "cmu": [
-      "SH",
-      "IY1",
-      "K",
-      "D",
-      "AH0",
-      "M"
-    ]
+    "zipf": 2.5,
+    "score": 31.4,
+    "definition": "a stupid person; these words are used to express a low opinion of someone's intelligence"
   },
   {
-    "word": "shmooze",
-    "partOfSpeech": "noun",
-    "zipf": 0.0,
-    "score": 4.0,
-    "definition": "(Yiddish) a warm heart-to-heart talk",
-    "cmu": [
-      "SH",
-      "M",
-      "UW1",
-      "Z"
-    ]
+    "word": "attributive",
+    "partOfSpeech": "adjective",
+    "zipf": 1.84,
+    "score": 31.4,
+    "definition": "of adjectives; placed before the nouns they modify"
   },
   {
-    "word": "solitariness",
-    "partOfSpeech": "noun",
-    "zipf": 0.0,
-    "score": 4.0,
-    "definition": "the state of being alone in solitary isolation",
-    "cmu": [
-      "S",
-      "AA0",
-      "L",
-      "AH0",
-      "T",
-      "EH1",
-      "R",
-      "IY0",
-      "N",
-      "IH0",
-      "S"
-    ]
+    "word": "echt",
+    "partOfSpeech": "adjective",
+    "zipf": 1.84,
+    "score": 31.4,
+    "definition": "not fake or counterfeit"
   },
   {
-    "word": "sorus",
-    "partOfSpeech": "noun",
-    "zipf": 0.0,
-    "score": 4.0,
-    "definition": "a spore-producing structure in certain lichens and fungi",
-    "cmu": [
-      "S",
-      "AO1",
-      "R",
-      "AH0",
-      "S"
-    ]
+    "word": "genotypic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.84,
+    "score": 31.4,
+    "definition": "of or relating to or constituting a genotype"
   },
   {
-    "word": "stockholdings",
-    "partOfSpeech": "noun",
-    "zipf": 0.0,
-    "score": 4.0,
-    "definition": "a specific number of stocks or shares owned",
-    "cmu": [
-      "S",
-      "T",
-      "AA1",
-      "K",
-      "HH",
-      "OW2",
-      "L",
-      "D",
-      "IH0",
-      "NG",
-      "Z"
-    ]
+    "word": "musicological",
+    "partOfSpeech": "adjective",
+    "zipf": 1.84,
+    "score": 31.4,
+    "definition": "of or relating to musicology"
   },
   {
-    "word": "subkingdom",
-    "partOfSpeech": "noun",
-    "zipf": 0.0,
-    "score": 4.0,
-    "definition": "(biology) a taxonomic group comprising a major division of a kingdom",
-    "cmu": [
-      "S",
-      "AH0",
-      "B",
-      "K",
-      "IH1",
-      "NG",
-      "D",
-      "AH0",
-      "M"
-    ]
+    "word": "sugarless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.84,
+    "score": 31.4,
+    "definition": "not containing sugar"
   },
   {
-    "word": "sylvite",
-    "partOfSpeech": "noun",
-    "zipf": 0.0,
-    "score": 4.0,
-    "definition": "a mineral consisting of native potassium chloride; an important ore of potassium that is found in sedimentary beds",
-    "cmu": [
-      "S",
-      "IH1",
-      "L",
-      "V",
-      "AY2",
-      "T"
-    ]
+    "word": "symbolical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.84,
+    "score": 31.4,
+    "definition": "relating to or using or proceeding by means of symbols"
   },
   {
-    "word": "taxer",
-    "partOfSpeech": "noun",
-    "zipf": 0.0,
-    "score": 4.0,
-    "definition": "a bureaucrat who levies taxes",
-    "cmu": [
-      "T",
-      "AE1",
-      "K",
-      "S",
-      "ER0"
-    ]
+    "word": "terminological",
+    "partOfSpeech": "adjective",
+    "zipf": 1.84,
+    "score": 31.4,
+    "definition": "of or concerning terminology"
   },
   {
-    "word": "templet",
-    "partOfSpeech": "noun",
-    "zipf": 0.0,
-    "score": 4.0,
-    "definition": "a model or standard for making comparisons",
-    "cmu": [
-      "T",
-      "EH1",
-      "M",
-      "P",
-      "L",
-      "IH0",
-      "T"
-    ]
+    "word": "transuranic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.84,
+    "score": 31.4,
+    "definition": "having an atomic number greater than 92"
   },
   {
-    "word": "tensiometer",
-    "partOfSpeech": "noun",
-    "zipf": 0.0,
-    "score": 4.0,
-    "definition": "a measuring instrument for measuring the moisture content of soil",
-    "cmu": [
-      "T",
-      "EH2",
-      "N",
-      "S",
-      "IY0",
-      "AA1",
-      "M",
-      "IH0",
-      "T",
-      "ER0"
-    ]
+    "word": "undimmed",
+    "partOfSpeech": "adjective",
+    "zipf": 1.84,
+    "score": 31.4,
+    "definition": "not made dim or less bright"
   },
   {
-    "word": "thickhead",
-    "partOfSpeech": "noun",
-    "zipf": 0.0,
-    "score": 4.0,
-    "definition": "Australian and southeastern Asian birds with a melodious whistling call",
-    "cmu": [
-      "TH",
-      "IH1",
-      "K",
-      "HH",
-      "EH2",
-      "D"
-    ]
+    "word": "unionised",
+    "partOfSpeech": "adjective",
+    "zipf": 1.84,
+    "score": 31.4,
+    "definition": "not converted into ions"
   },
   {
-    "word": "tigon",
-    "partOfSpeech": "noun",
-    "zipf": 0.0,
-    "score": 4.0,
-    "definition": "offspring of a male tiger and a female lion",
-    "cmu": [
-      "T",
-      "IH1",
-      "G",
-      "AH0",
-      "N"
-    ]
+    "word": "untrimmed",
+    "partOfSpeech": "adjective",
+    "zipf": 1.84,
+    "score": 31.4,
+    "definition": "not trimmed"
   },
   {
-    "word": "tracheophyte",
-    "partOfSpeech": "noun",
-    "zipf": 0.0,
-    "score": 4.0,
-    "definition": "green plant having a vascular system: ferns, gymnosperms, angiosperms",
-    "cmu": [
-      "T",
-      "R",
-      "EY1",
-      "K",
-      "IY0",
-      "AH0",
-      "F",
-      "AY0",
-      "T"
-    ]
+    "word": "canoodle",
+    "partOfSpeech": "verb",
+    "zipf": 1.34,
+    "score": 31.4,
+    "definition": "fondle or pet affectionately"
   },
   {
-    "word": "treadwheel",
-    "partOfSpeech": "noun",
-    "zipf": 0.0,
-    "score": 4.0,
-    "definition": "a mill that is powered by men or animals walking on a circular belt or climbing steps",
-    "cmu": [
-      "T",
-      "R",
-      "EH1",
-      "D",
-      "W",
-      "IY2",
-      "L"
-    ]
+    "word": "debone",
+    "partOfSpeech": "verb",
+    "zipf": 1.34,
+    "score": 31.4,
+    "definition": "remove the bones from"
   },
   {
-    "word": "twinjet",
-    "partOfSpeech": "noun",
-    "zipf": 0.0,
-    "score": 4.0,
-    "definition": "a jet plane propelled by two jet engines",
-    "cmu": [
-      "T",
-      "W",
-      "IH1",
-      "N",
-      "JH",
-      "EH2",
-      "T"
-    ]
+    "word": "enlace",
+    "partOfSpeech": "verb",
+    "zipf": 1.34,
+    "score": 31.4,
+    "definition": "spin,wind, or twist together"
   },
   {
-    "word": "unwieldiness",
-    "partOfSpeech": "noun",
-    "zipf": 0.0,
-    "score": 4.0,
-    "definition": "the quality of being difficult to direct or control by reason of complexity",
-    "cmu": [
-      "AH0",
-      "N",
-      "W",
-      "IY1",
-      "L",
-      "D",
-      "IY0",
-      "N",
-      "AH0",
-      "S"
-    ]
+    "word": "gazump",
+    "partOfSpeech": "verb",
+    "zipf": 1.34,
+    "score": 31.4,
+    "definition": "rip off; ask an unreasonable price"
   },
   {
-    "word": "vaccina",
-    "partOfSpeech": "noun",
-    "zipf": 0.0,
-    "score": 4.0,
-    "definition": "a local infection induced in humans by inoculation with the virus causing cowpox in order to confer resistance to smallpox; normally lasts three weeks and leaves a pitted scar",
-    "cmu": [
-      "V",
-      "AE2",
-      "K",
-      "S",
-      "IY1",
-      "N",
-      "AH0"
-    ]
+    "word": "philosophise",
+    "partOfSpeech": "verb",
+    "zipf": 1.34,
+    "score": 31.4,
+    "definition": "reason philosophically"
   },
   {
-    "word": "virgule",
+    "word": "retie",
+    "partOfSpeech": "verb",
+    "zipf": 1.34,
+    "score": 31.4,
+    "definition": "tie again or anew"
+  },
+  {
+    "word": "unionise",
+    "partOfSpeech": "verb",
+    "zipf": 1.34,
+    "score": 31.4,
+    "definition": "recruit for a union or organize into a union"
+  },
+  {
+    "word": "expostulate",
+    "partOfSpeech": "verb",
+    "zipf": 1.22,
+    "score": 31.4,
+    "definition": "reason with (somebody) for the purpose of dissuasion"
+  },
+  {
+    "word": "hurrying",
     "partOfSpeech": "noun",
-    "zipf": 0.0,
-    "score": 4.0,
-    "definition": "a punctuation mark (/) used to separate related items of information",
-    "cmu": [
-      "V",
-      "IH1",
-      "R",
-      "G",
-      "Y",
-      "UW2",
-      "L"
-    ]
+    "zipf": 2.73,
+    "score": 31.3,
+    "definition": "changing location rapidly"
+  },
+  {
+    "word": "sheeting",
+    "partOfSpeech": "noun",
+    "zipf": 2.73,
+    "score": 31.3,
+    "definition": "fabric from which bed sheets are made"
+  },
+  {
+    "word": "stockpiling",
+    "partOfSpeech": "noun",
+    "zipf": 2.73,
+    "score": 31.3,
+    "definition": "accumulating and storing a reserve supply"
+  },
+  {
+    "word": "whirling",
+    "partOfSpeech": "noun",
+    "zipf": 2.73,
+    "score": 31.3,
+    "definition": "the act of rotating in a circle or spiral"
+  },
+  {
+    "word": "doppelganger",
+    "partOfSpeech": "noun",
+    "zipf": 2.61,
+    "score": 31.3,
+    "definition": "a ghostly double of a living person that haunts its living counterpart"
+  },
+  {
+    "word": "lacing",
+    "partOfSpeech": "noun",
+    "zipf": 2.61,
+    "score": 31.3,
+    "definition": "a small amount of liquor added to a food or beverage"
+  },
+  {
+    "word": "baddie",
+    "partOfSpeech": "noun",
+    "zipf": 2.49,
+    "score": 31.3,
+    "definition": "the principal bad character in a film or work of fiction"
+  },
+  {
+    "word": "etiological",
+    "partOfSpeech": "adjective",
+    "zipf": 1.83,
+    "score": 31.3,
+    "definition": "of or relating to the philosophical study of causation"
+  },
+  {
+    "word": "exilic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.83,
+    "score": 31.3,
+    "definition": "of or relating to a period of exile (especially the exile of the Jews known as the Babylonian Captivity)"
+  },
+  {
+    "word": "malodorous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.83,
+    "score": 31.3,
+    "definition": "having an unpleasant smell"
+  },
+  {
+    "word": "recoilless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.83,
+    "score": 31.3,
+    "definition": "of or being a weapon that is designed to minimize recoil"
+  },
+  {
+    "word": "uremic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.83,
+    "score": 31.3,
+    "definition": "of or involving excess nitrogenous waste products in the urine (usually due to kidney insufficiency)"
+  },
+  {
+    "word": "adjure",
+    "partOfSpeech": "verb",
+    "zipf": 1.33,
+    "score": 31.3,
+    "definition": "ask for or request earnestly"
+  },
+  {
+    "word": "degrease",
+    "partOfSpeech": "verb",
+    "zipf": 1.33,
+    "score": 31.3,
+    "definition": "remove grease or oil from (a pan)"
+  },
+  {
+    "word": "enkindle",
+    "partOfSpeech": "verb",
+    "zipf": 1.33,
+    "score": 31.3,
+    "definition": "cause to start burning"
+  },
+  {
+    "word": "palliate",
+    "partOfSpeech": "verb",
+    "zipf": 1.33,
+    "score": 31.3,
+    "definition": "lessen or to try to lessen the seriousness or extent of"
+  },
+  {
+    "word": "perambulate",
+    "partOfSpeech": "verb",
+    "zipf": 1.33,
+    "score": 31.3,
+    "definition": "make an official inspection on foot of (the bounds of a property)"
+  },
+  {
+    "word": "housebreak",
+    "partOfSpeech": "verb",
+    "zipf": 1.21,
+    "score": 31.3,
+    "definition": "train (a pet) to live cleanly in a house"
+  },
+  {
+    "word": "delft",
+    "partOfSpeech": "noun",
+    "zipf": 2.72,
+    "score": 31.2,
+    "definition": "a style of glazed earthenware; usually white with blue decoration"
+  },
+  {
+    "word": "faerie",
+    "partOfSpeech": "noun",
+    "zipf": 2.72,
+    "score": 31.2,
+    "definition": "a small being, human in form, playful and having magical powers"
+  },
+  {
+    "word": "quarrying",
+    "partOfSpeech": "noun",
+    "zipf": 2.72,
+    "score": 31.2,
+    "definition": "the extraction of building stone or slate from an open surface quarry"
+  },
+  {
+    "word": "rusting",
+    "partOfSpeech": "noun",
+    "zipf": 2.72,
+    "score": 31.2,
+    "definition": "the formation of reddish-brown ferric oxides on iron by low-temperature oxidation in the presence of water"
+  },
+  {
+    "word": "choker",
+    "partOfSpeech": "noun",
+    "zipf": 2.6,
+    "score": 31.2,
+    "definition": "someone who kills by strangling"
+  },
+  {
+    "word": "antennal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.82,
+    "score": 31.2,
+    "definition": "of or relating to antennae"
+  },
+  {
+    "word": "centralising",
+    "partOfSpeech": "adjective",
+    "zipf": 1.82,
+    "score": 31.2,
+    "definition": "tending to draw to a central point"
+  },
+  {
+    "word": "isomeric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.82,
+    "score": 31.2,
+    "definition": "of or relating to or exhibiting isomerism"
+  },
+  {
+    "word": "magnetised",
+    "partOfSpeech": "adjective",
+    "zipf": 1.82,
+    "score": 31.2,
+    "definition": "having the properties of a magnet; i.e. of attracting iron or steel"
+  },
+  {
+    "word": "nilpotent",
+    "partOfSpeech": "adjective",
+    "zipf": 1.82,
+    "score": 31.2,
+    "definition": "equal to zero when raised to a certain power"
+  },
+  {
+    "word": "parasitical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.82,
+    "score": 31.2,
+    "definition": "relating to or caused by parasites"
+  },
+  {
+    "word": "spectrometric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.82,
+    "score": 31.2,
+    "definition": "of or relating to or involving spectrometry"
+  },
+  {
+    "word": "sulfurous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.82,
+    "score": 31.2,
+    "definition": "of or related to or containing sulfur or derived from sulfur"
+  },
+  {
+    "word": "valved",
+    "partOfSpeech": "adjective",
+    "zipf": 1.82,
+    "score": 31.2,
+    "definition": "(of brass instruments) having valves"
+  },
+  {
+    "word": "eutrophic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.7,
+    "score": 31.2,
+    "definition": "(ecology) of a lake or other body of water rich in nutrients and subject to eutrophication"
+  },
+  {
+    "word": "befoul",
+    "partOfSpeech": "verb",
+    "zipf": 1.32,
+    "score": 31.2,
+    "definition": "spot, stain, or pollute"
+  },
+  {
+    "word": "bestir",
+    "partOfSpeech": "verb",
+    "zipf": 1.32,
+    "score": 31.2,
+    "definition": "become active"
+  },
+  {
+    "word": "deodorize",
+    "partOfSpeech": "verb",
+    "zipf": 1.32,
+    "score": 31.2,
+    "definition": "eliminate the odor from"
+  },
+  {
+    "word": "descry",
+    "partOfSpeech": "verb",
+    "zipf": 1.32,
+    "score": 31.2,
+    "definition": "catch sight of"
+  },
+  {
+    "word": "disinter",
+    "partOfSpeech": "verb",
+    "zipf": 1.32,
+    "score": 31.2,
+    "definition": "dig up for reburial or for medical investigation; of dead bodies"
+  },
+  {
+    "word": "manumit",
+    "partOfSpeech": "verb",
+    "zipf": 1.32,
+    "score": 31.2,
+    "definition": "free from slavery or servitude"
+  },
+  {
+    "word": "memorialise",
+    "partOfSpeech": "verb",
+    "zipf": 1.32,
+    "score": 31.2,
+    "definition": "address in a memorial"
+  },
+  {
+    "word": "digitalize",
+    "partOfSpeech": "verb",
+    "zipf": 1.2,
+    "score": 31.2,
+    "definition": "put into digital form, as for use in a computer"
+  },
+  {
+    "word": "famish",
+    "partOfSpeech": "verb",
+    "zipf": 1.2,
+    "score": 31.2,
+    "definition": "be hungry; go without food"
+  },
+  {
+    "word": "loins",
+    "partOfSpeech": "noun",
+    "zipf": 2.71,
+    "score": 31.1,
+    "definition": "the lower part of the abdomen just above the external genital organs"
+  },
+  {
+    "word": "mujahideen",
+    "partOfSpeech": "noun",
+    "zipf": 2.71,
+    "score": 31.1,
+    "definition": "a military force of Muslim guerilla warriors engaged in a jihad"
+  },
+  {
+    "word": "ranching",
+    "partOfSpeech": "noun",
+    "zipf": 2.71,
+    "score": 31.1,
+    "definition": "farming for the raising of livestock (particularly cattle)"
+  },
+  {
+    "word": "vaulting",
+    "partOfSpeech": "noun",
+    "zipf": 2.71,
+    "score": 31.1,
+    "definition": "(architecture) a vaulted structure"
+  },
+  {
+    "word": "locum",
+    "partOfSpeech": "noun",
+    "zipf": 2.59,
+    "score": 31.1,
+    "definition": "someone (physician or clergyman) who substitutes temporarily for another member of the same profession"
+  },
+  {
+    "word": "prat",
+    "partOfSpeech": "noun",
+    "zipf": 2.59,
+    "score": 31.1,
+    "definition": "the fleshy part of the human body that you sit on"
+  },
+  {
+    "word": "shaper",
+    "partOfSpeech": "noun",
+    "zipf": 2.59,
+    "score": 31.1,
+    "definition": "a person who makes things"
+  },
+  {
+    "word": "watchmaker",
+    "partOfSpeech": "noun",
+    "zipf": 2.59,
+    "score": 31.1,
+    "definition": "someone who makes or repairs watches"
+  },
+  {
+    "word": "conjunctival",
+    "partOfSpeech": "adjective",
+    "zipf": 1.81,
+    "score": 31.1,
+    "definition": "of or relating to the conjunctiva"
+  },
+  {
+    "word": "explorative",
+    "partOfSpeech": "adjective",
+    "zipf": 1.81,
+    "score": 31.1,
+    "definition": "serving in or intended for exploration or discovery"
+  },
+  {
+    "word": "pasteurised",
+    "partOfSpeech": "adjective",
+    "zipf": 1.81,
+    "score": 31.1,
+    "definition": "having been subjected to pasteurization in order to halt fermentation"
+  },
+  {
+    "word": "photic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.81,
+    "score": 31.1,
+    "definition": "of or relating to or caused by light"
+  },
+  {
+    "word": "sluicing",
+    "partOfSpeech": "adjective",
+    "zipf": 1.81,
+    "score": 31.1,
+    "definition": "pouring from or as if from a sluice"
+  },
+  {
+    "word": "acculturate",
+    "partOfSpeech": "verb",
+    "zipf": 1.31,
+    "score": 31.1,
+    "definition": "assimilate culturally"
+  },
+  {
+    "word": "compartmentalise",
+    "partOfSpeech": "verb",
+    "zipf": 1.31,
+    "score": 31.1,
+    "definition": "separate into isolated compartments or categories"
+  },
+  {
+    "word": "rubberstamp",
+    "partOfSpeech": "verb",
+    "zipf": 1.31,
+    "score": 31.1,
+    "definition": "stamp with a rubber stamp, usually an indication of official approval on a document"
+  },
+  {
+    "word": "supervene",
+    "partOfSpeech": "verb",
+    "zipf": 1.31,
+    "score": 31.1,
+    "definition": "take place as an additional or unexpected development"
+  },
+  {
+    "word": "uncurl",
+    "partOfSpeech": "verb",
+    "zipf": 1.31,
+    "score": 31.1,
+    "definition": "move out of a curled position"
+  },
+  {
+    "word": "demagnetize",
+    "partOfSpeech": "verb",
+    "zipf": 1.19,
+    "score": 31.1,
+    "definition": "erase (a magnetic storage device)"
+  },
+  {
+    "word": "archdeacon",
+    "partOfSpeech": "noun",
+    "zipf": 2.7,
+    "score": 31.0,
+    "definition": "(Anglican Church) an ecclesiastical dignitary usually ranking just below a bishop"
+  },
+  {
+    "word": "bicycling",
+    "partOfSpeech": "noun",
+    "zipf": 2.7,
+    "score": 31.0,
+    "definition": "riding a bicycle"
+  },
+  {
+    "word": "booger",
+    "partOfSpeech": "noun",
+    "zipf": 2.7,
+    "score": 31.0,
+    "definition": "an imaginary monster used to frighten children"
+  },
+  {
+    "word": "industrialisation",
+    "partOfSpeech": "noun",
+    "zipf": 2.7,
+    "score": 31.0,
+    "definition": "the development of industry on an extensive scale"
+  },
+  {
+    "word": "marquise",
+    "partOfSpeech": "noun",
+    "zipf": 2.7,
+    "score": 31.0,
+    "definition": "a noblewoman ranking below a duchess and above a countess"
+  },
+  {
+    "word": "rippling",
+    "partOfSpeech": "noun",
+    "zipf": 2.7,
+    "score": 31.0,
+    "definition": "a small wave on the surface of a liquid"
+  },
+  {
+    "word": "baldy",
+    "partOfSpeech": "noun",
+    "zipf": 2.58,
+    "score": 31.0,
+    "definition": "a person whose head is bald"
+  },
+  {
+    "word": "changeling",
+    "partOfSpeech": "noun",
+    "zipf": 2.58,
+    "score": 31.0,
+    "definition": "a person of subnormal intelligence"
+  },
+  {
+    "word": "ejector",
+    "partOfSpeech": "noun",
+    "zipf": 2.46,
+    "score": 31.0,
+    "definition": "a person who ousts or supplants someone else"
+  },
+  {
+    "word": "spaceman",
+    "partOfSpeech": "noun",
+    "zipf": 2.46,
+    "score": 31.0,
+    "definition": "a person trained to travel in a spacecraft"
+  },
+  {
+    "word": "anodic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.8,
+    "score": 31.0,
+    "definition": "of or at or relating to an anode"
+  },
+  {
+    "word": "carven",
+    "partOfSpeech": "adjective",
+    "zipf": 1.8,
+    "score": 31.0,
+    "definition": "made for or formed by carving (`carven' is archaic or literary)"
+  },
+  {
+    "word": "cryptologic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.8,
+    "score": 31.0,
+    "definition": "of or relating to cryptanalysis"
+  },
+  {
+    "word": "ecologic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.8,
+    "score": 31.0,
+    "definition": "characterized by the interdependence of living organisms in an environment"
+  },
+  {
+    "word": "electromotive",
+    "partOfSpeech": "adjective",
+    "zipf": 1.8,
+    "score": 31.0,
+    "definition": "concerned with or producing electric current"
+  },
+  {
+    "word": "epigastric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.8,
+    "score": 31.0,
+    "definition": "of or relating to the anterior walls of the abdomen"
+  },
+  {
+    "word": "leonine",
+    "partOfSpeech": "adjective",
+    "zipf": 1.8,
+    "score": 31.0,
+    "definition": "of or characteristic of or resembling a lion"
+  },
+  {
+    "word": "monaural",
+    "partOfSpeech": "adjective",
+    "zipf": 1.8,
+    "score": 31.0,
+    "definition": "relating to or having or hearing with only one ear"
   }
 ]

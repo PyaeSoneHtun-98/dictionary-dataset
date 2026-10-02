@@ -1,1469 +1,702 @@
 [
   {
+    "word": "trailing",
+    "partOfSpeech": "noun",
+    "zipf": 3.55,
+    "score": 40.7,
+    "definition": "the pursuit (of a person or animal) by following tracks or marks they left behind"
+  },
+  {
+    "word": "ploughed",
+    "partOfSpeech": "adjective",
+    "zipf": 2.77,
+    "score": 40.7,
+    "definition": "(of farmland) broken and turned over with a plow"
+  },
+  {
+    "word": "roofed",
+    "partOfSpeech": "adjective",
+    "zipf": 2.77,
+    "score": 40.7,
+    "definition": "covered with a roof; having a roof as specified (often used in combination)"
+  },
+  {
+    "word": "soured",
+    "partOfSpeech": "adjective",
+    "zipf": 2.77,
+    "score": 40.7,
+    "definition": "having turned bad"
+  },
+  {
+    "word": "contracting",
+    "partOfSpeech": "noun",
+    "zipf": 3.65,
+    "score": 40.5,
+    "definition": "becoming infected"
+  },
+  {
+    "word": "honours",
+    "partOfSpeech": "noun",
+    "zipf": 3.65,
+    "score": 40.5,
+    "definition": "a university degree with honors"
+  },
+  {
+    "word": "consummated",
+    "partOfSpeech": "adjective",
+    "zipf": 2.75,
+    "score": 40.5,
+    "definition": "brought to completion"
+  },
+  {
+    "word": "dimmed",
+    "partOfSpeech": "adjective",
+    "zipf": 2.75,
+    "score": 40.5,
+    "definition": "made dim or less bright"
+  },
+  {
+    "word": "sensing",
+    "partOfSpeech": "noun",
+    "zipf": 3.64,
+    "score": 40.4,
+    "definition": "the perception that something has occurred or some state exists"
+  },
+  {
     "word": "sonny",
     "partOfSpeech": "noun",
     "zipf": 3.64,
     "score": 40.4,
-    "definition": "a male child (a familiar term of address to a boy)",
-    "cmu": [
-      "S",
-      "AH1",
-      "N",
-      "IY0"
-    ]
+    "definition": "a male child (a familiar term of address to a boy)"
   },
   {
     "word": "honoring",
     "partOfSpeech": "noun",
     "zipf": 3.52,
     "score": 40.4,
-    "definition": "conformity with law or custom or practice etc.",
-    "cmu": [
-      "AA1",
-      "N",
-      "ER0",
-      "IH0",
-      "NG"
-    ]
+    "definition": "conformity with law or custom or practice etc."
   },
   {
     "word": "awarding",
     "partOfSpeech": "noun",
     "zipf": 3.4,
     "score": 40.4,
-    "definition": "a grant made by a law court",
-    "cmu": [
-      "AH0",
-      "W",
-      "AO1",
-      "R",
-      "D",
-      "IH0",
-      "NG"
-    ]
+    "definition": "a grant made by a law court"
   },
   {
     "word": "gill",
     "partOfSpeech": "noun",
     "zipf": 3.63,
     "score": 40.3,
-    "definition": "a British imperial capacity unit (liquid or dry) equal to 5 fluid ounces or 142.066 cubic centimeters",
-    "cmu": [
-      "G",
-      "IH1",
-      "L"
-    ]
+    "definition": "a British imperial capacity unit (liquid or dry) equal to 5 fluid ounces or 142.066 cubic centimeters"
   },
   {
     "word": "scaling",
     "partOfSpeech": "noun",
     "zipf": 3.63,
     "score": 40.3,
-    "definition": "the act of arranging in a graduated series",
-    "cmu": [
-      "S",
-      "K",
-      "EY1",
-      "L",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the act of arranging in a graduated series"
   },
   {
     "word": "merited",
     "partOfSpeech": "adjective",
     "zipf": 2.73,
     "score": 40.3,
-    "definition": "properly deserved",
-    "cmu": [
-      "M",
-      "EH1",
-      "R",
-      "IH0",
-      "T",
-      "IH0",
-      "D"
-    ]
+    "definition": "properly deserved"
   },
   {
     "word": "detailing",
     "partOfSpeech": "noun",
     "zipf": 3.62,
     "score": 40.2,
-    "definition": "an individualized description of a particular instance",
-    "cmu": [
-      "D",
-      "IH0",
-      "T",
-      "EY1",
-      "L",
-      "IH0",
-      "NG"
-    ]
+    "definition": "an individualized description of a particular instance"
   },
   {
     "word": "malik",
     "partOfSpeech": "noun",
     "zipf": 3.62,
     "score": 40.2,
-    "definition": "the leader of a town or community in some parts of Asia Minor and the Indian subcontinent",
-    "cmu": [
-      "M",
-      "AE1",
-      "L",
-      "IH0",
-      "K"
-    ]
+    "definition": "the leader of a town or community in some parts of Asia Minor and the Indian subcontinent"
+  },
+  {
+    "word": "midfield",
+    "partOfSpeech": "noun",
+    "zipf": 3.62,
+    "score": 40.2,
+    "definition": "(sports) the middle part of a playing field (as in football or lacrosse)"
   },
   {
     "word": "doubling",
     "partOfSpeech": "noun",
     "zipf": 3.61,
     "score": 40.1,
-    "definition": "increase by a factor of two",
-    "cmu": [
-      "D",
-      "AH1",
-      "B",
-      "AH0",
-      "L",
-      "IH0",
-      "NG"
-    ]
+    "definition": "increase by a factor of two"
   },
   {
     "word": "sorting",
     "partOfSpeech": "noun",
     "zipf": 3.61,
     "score": 40.1,
-    "definition": "an operation that segregates items into groups according to a specified criterion",
-    "cmu": [
-      "S",
-      "AO1",
-      "R",
-      "T",
-      "IH0",
-      "NG"
-    ]
+    "definition": "an operation that segregates items into groups according to a specified criterion"
   },
   {
     "word": "dripping",
     "partOfSpeech": "noun",
     "zipf": 3.48,
     "score": 40.0,
-    "definition": "a liquid (as water) that flows in drops (as from the eaves of house)",
-    "cmu": [
-      "D",
-      "R",
-      "IH1",
-      "P",
-      "IH0",
-      "NG"
-    ]
+    "definition": "a liquid (as water) that flows in drops (as from the eaves of house)"
   },
   {
     "word": "fundamentals",
     "partOfSpeech": "noun",
     "zipf": 3.59,
     "score": 39.9,
-    "definition": "principles from which other truths can be derived",
-    "cmu": [
-      "F",
-      "AH2",
-      "N",
-      "D",
-      "AH0",
-      "M",
-      "EH1",
-      "N",
-      "T",
-      "AH0",
-      "L",
-      "Z"
-    ]
+    "definition": "principles from which other truths can be derived"
   },
   {
     "word": "jasper",
     "partOfSpeech": "noun",
     "zipf": 3.59,
     "score": 39.9,
-    "definition": "an opaque form of quartz; red or yellow or brown or dark green in color; used for ornamentation or as a gemstone",
-    "cmu": [
-      "JH",
-      "AE1",
-      "S",
-      "P",
-      "ER0"
-    ]
+    "definition": "an opaque form of quartz; red or yellow or brown or dark green in color; used for ornamentation or as a gemstone"
   },
   {
     "word": "airing",
     "partOfSpeech": "noun",
     "zipf": 3.58,
     "score": 39.8,
-    "definition": "the opening of a subject to widespread discussion and debate",
-    "cmu": [
-      "EH1",
-      "R",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the opening of a subject to widespread discussion and debate"
   },
   {
     "word": "baba",
     "partOfSpeech": "noun",
     "zipf": 3.58,
     "score": 39.8,
-    "definition": "a small cake leavened with yeast",
-    "cmu": [
-      "B",
-      "AH1",
-      "B",
-      "AH0"
-    ]
+    "definition": "a small cake leavened with yeast"
   },
   {
     "word": "optics",
     "partOfSpeech": "noun",
     "zipf": 3.58,
     "score": 39.8,
-    "definition": "the branch of physics that studies the physical properties of light",
-    "cmu": [
-      "AA1",
-      "P",
-      "T",
-      "IH0",
-      "K",
-      "S"
-    ]
+    "definition": "the branch of physics that studies the physical properties of light"
   },
   {
     "word": "pissing",
     "partOfSpeech": "noun",
     "zipf": 3.58,
     "score": 39.8,
-    "definition": "informal terms for urination",
-    "cmu": [
-      "P",
-      "IH1",
-      "S",
-      "IH2",
-      "NG"
-    ]
+    "definition": "informal terms for urination"
   },
   {
     "word": "smelling",
     "partOfSpeech": "noun",
     "zipf": 3.58,
     "score": 39.8,
-    "definition": "the act of perceiving the odor of something",
-    "cmu": [
-      "S",
-      "M",
-      "EH1",
-      "L",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the act of perceiving the odor of something"
   },
   {
     "word": "pounding",
     "partOfSpeech": "noun",
     "zipf": 3.57,
     "score": 39.7,
-    "definition": "repeated heavy blows",
-    "cmu": [
-      "P",
-      "AW1",
-      "N",
-      "D",
-      "IH0",
-      "NG"
-    ]
+    "definition": "repeated heavy blows"
   },
   {
     "word": "watering",
     "partOfSpeech": "noun",
     "zipf": 3.57,
     "score": 39.7,
-    "definition": "shedding tears",
-    "cmu": [
-      "W",
-      "AO1",
-      "T",
-      "ER0",
-      "IH0",
-      "NG"
-    ]
+    "definition": "shedding tears"
   },
   {
     "word": "erica",
     "partOfSpeech": "noun",
     "zipf": 3.56,
     "score": 39.6,
-    "definition": "any plant of the genus Erica",
-    "cmu": [
-      "EH1",
-      "R",
-      "IH0",
-      "K",
-      "AH0"
-    ]
+    "definition": "any plant of the genus Erica"
   },
   {
     "word": "milo",
     "partOfSpeech": "noun",
     "zipf": 3.56,
     "score": 39.6,
-    "definition": "small drought-resistant sorghums having large yellow or whitish grains",
-    "cmu": [
-      "M",
-      "AY1",
-      "L",
-      "OW0"
-    ]
+    "definition": "small drought-resistant sorghums having large yellow or whitish grains"
   },
   {
     "word": "tanner",
     "partOfSpeech": "noun",
     "zipf": 3.56,
     "score": 39.6,
-    "definition": "a small coin of the United Kingdom worth six pennies; not minted since 1970",
-    "cmu": [
-      "T",
-      "AE1",
-      "N",
-      "ER0"
-    ]
+    "definition": "a small coin of the United Kingdom worth six pennies; not minted since 1970"
   },
   {
     "word": "topping",
     "partOfSpeech": "noun",
     "zipf": 3.56,
     "score": 39.6,
-    "definition": "a flavorful addition on top of a dish",
-    "cmu": [
-      "T",
-      "AA1",
-      "P",
-      "IH0",
-      "NG"
-    ]
+    "definition": "a flavorful addition on top of a dish"
   },
   {
     "word": "veronica",
     "partOfSpeech": "noun",
     "zipf": 3.56,
     "score": 39.6,
-    "definition": "any plant of the genus Veronica",
-    "cmu": [
-      "V",
-      "ER0",
-      "AA1",
-      "N",
-      "IH0",
-      "K",
-      "AH0"
-    ]
+    "definition": "any plant of the genus Veronica"
   },
   {
     "word": "carpeted",
     "partOfSpeech": "adjective",
     "zipf": 2.66,
     "score": 39.6,
-    "definition": "covered with or as if with carpeting or with carpeting as specified; often used in combination",
-    "cmu": [
-      "K",
-      "AA1",
-      "R",
-      "P",
-      "AH0",
-      "T",
-      "IH0",
-      "D"
-    ]
+    "definition": "covered with or as if with carpeting or with carpeting as specified; often used in combination"
+  },
+  {
+    "word": "decentralised",
+    "partOfSpeech": "adjective",
+    "zipf": 2.66,
+    "score": 39.6,
+    "definition": "withdrawn from a center or place of concentration; especially having power or function dispersed from a central to local authorities"
   },
   {
     "word": "disenchanted",
     "partOfSpeech": "adjective",
     "zipf": 2.66,
     "score": 39.6,
-    "definition": "freed from enchantment",
-    "cmu": [
-      "D",
-      "IH0",
-      "S",
-      "IH0",
-      "N",
-      "CH",
-      "AE1",
-      "N",
-      "T",
-      "IH0",
-      "D"
-    ]
+    "definition": "freed from enchantment"
   },
   {
     "word": "vibes",
     "partOfSpeech": "noun",
     "zipf": 3.55,
     "score": 39.5,
-    "definition": "a percussion instrument similar to a xylophone but having metal bars and rotating disks in the resonators that produce a vibrato sound",
-    "cmu": [
-      "V",
-      "AY1",
-      "B",
-      "Z"
-    ]
+    "definition": "a percussion instrument similar to a xylophone but having metal bars and rotating disks in the resonators that produce a vibrato sound"
   },
   {
     "word": "wording",
     "partOfSpeech": "noun",
     "zipf": 3.55,
     "score": 39.5,
-    "definition": "the manner in which something is expressed in words; - G.S.Patton",
-    "cmu": [
-      "W",
-      "ER1",
-      "D",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the manner in which something is expressed in words; - G.S.Patton"
   },
   {
     "word": "rifled",
     "partOfSpeech": "adjective",
     "zipf": 2.65,
     "score": 39.5,
-    "definition": "of a firearm; having rifling or internal spiral grooves inside the barrel",
-    "cmu": [
-      "R",
-      "AY1",
-      "F",
-      "AH0",
-      "L",
-      "D"
-    ]
+    "definition": "of a firearm; having rifling or internal spiral grooves inside the barrel"
   },
   {
     "word": "kylie",
     "partOfSpeech": "noun",
     "zipf": 3.54,
     "score": 39.4,
-    "definition": "an Australian boomerang; one side flat and the other convex",
-    "cmu": [
-      "K",
-      "AY1",
-      "L",
-      "IY2"
-    ]
+    "definition": "an Australian boomerang; one side flat and the other convex"
   },
   {
     "word": "specs",
     "partOfSpeech": "noun",
     "zipf": 3.54,
     "score": 39.4,
-    "definition": "optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision",
-    "cmu": [
-      "S",
-      "P",
-      "EH1",
-      "K",
-      "S"
-    ]
+    "definition": "optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision"
   },
   {
     "word": "dearest",
     "partOfSpeech": "noun",
     "zipf": 3.42,
     "score": 39.4,
-    "definition": "a beloved person; used as terms of endearment",
-    "cmu": [
-      "D",
-      "IH1",
-      "R",
-      "AH0",
-      "S",
-      "T"
-    ]
+    "definition": "a beloved person; used as terms of endearment"
   },
   {
     "word": "bedded",
     "partOfSpeech": "adjective",
     "zipf": 2.64,
     "score": 39.4,
-    "definition": "deposited or arranged in horizontal layers",
-    "cmu": [
-      "B",
-      "EH1",
-      "D",
-      "IH0",
-      "D"
-    ]
+    "definition": "deposited or arranged in horizontal layers"
   },
   {
     "word": "tongued",
     "partOfSpeech": "adjective",
     "zipf": 2.64,
     "score": 39.4,
-    "definition": "provided with or resembling a tongue; often used in combination",
-    "cmu": [
-      "T",
-      "AH1",
-      "NG",
-      "D"
-    ]
+    "definition": "provided with or resembling a tongue; often used in combination"
+  },
+  {
+    "word": "innervate",
+    "partOfSpeech": "verb",
+    "zipf": 2.02,
+    "score": 39.4,
+    "definition": "supply nerves to (some organ or body part)"
   },
   {
     "word": "flowering",
     "partOfSpeech": "noun",
     "zipf": 3.53,
     "score": 39.3,
-    "definition": "the time and process of budding and unfolding of blossoms",
-    "cmu": [
-      "F",
-      "L",
-      "AW1",
-      "ER0",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the time and process of budding and unfolding of blossoms"
   },
   {
     "word": "barreled",
     "partOfSpeech": "adjective",
     "zipf": 2.63,
     "score": 39.3,
-    "definition": "put in or stored in a barrel",
-    "cmu": [
-      "B",
-      "AE1",
-      "R",
-      "AH0",
-      "L",
-      "D"
-    ]
+    "definition": "put in or stored in a barrel"
+  },
+  {
+    "word": "criminalise",
+    "partOfSpeech": "verb",
+    "zipf": 2.01,
+    "score": 39.3,
+    "definition": "declare illegal; outlaw"
   },
   {
     "word": "stripping",
     "partOfSpeech": "noun",
     "zipf": 3.52,
     "score": 39.2,
-    "definition": "the removal of covering",
-    "cmu": [
-      "S",
-      "T",
-      "R",
-      "IH1",
-      "P",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the removal of covering"
+  },
+  {
+    "word": "besmirch",
+    "partOfSpeech": "verb",
+    "zipf": 2.0,
+    "score": 39.2,
+    "definition": "charge falsely or with malicious intent; attack the good name and reputation of someone"
   },
   {
     "word": "airs",
     "partOfSpeech": "noun",
     "zipf": 3.51,
     "score": 39.1,
-    "definition": "affected manners intended to impress others",
-    "cmu": [
-      "EH1",
-      "R",
-      "Z"
-    ]
+    "definition": "affected manners intended to impress others"
   },
   {
     "word": "curling",
     "partOfSpeech": "noun",
     "zipf": 3.51,
     "score": 39.1,
-    "definition": "a game played on ice in which heavy stones with handles are slid toward a target",
-    "cmu": [
-      "K",
-      "ER1",
-      "L",
-      "IH0",
-      "NG"
-    ]
+    "definition": "a game played on ice in which heavy stones with handles are slid toward a target"
   },
   {
     "word": "stalls",
     "partOfSpeech": "noun",
     "zipf": 3.51,
     "score": 39.1,
-    "definition": "a farm building for housing horses or other livestock",
-    "cmu": [
-      "S",
-      "T",
-      "AO1",
-      "L",
-      "Z"
-    ]
+    "definition": "a farm building for housing horses or other livestock"
   },
   {
     "word": "hobbit",
     "partOfSpeech": "noun",
     "zipf": 3.39,
     "score": 39.1,
-    "definition": "an imaginary being similar to a person but smaller and with hairy feet; invented by J.R.R. Tolkien",
-    "cmu": [
-      "HH",
-      "AA1",
-      "B",
-      "IH0",
-      "T"
-    ]
+    "definition": "an imaginary being similar to a person but smaller and with hairy feet; invented by J.R.R. Tolkien"
   },
   {
     "word": "highschool",
     "partOfSpeech": "noun",
     "zipf": 3.38,
     "score": 39.0,
-    "definition": "a public secondary school usually including grades 9 through 12",
-    "cmu": [
-      "HH",
-      "AY1",
-      "S",
-      "K",
-      "UW2",
-      "L"
-    ]
+    "definition": "a public secondary school usually including grades 9 through 12"
   },
   {
     "word": "workings",
     "partOfSpeech": "noun",
     "zipf": 3.38,
     "score": 39.0,
-    "definition": "the internal mechanism of a device",
-    "cmu": [
-      "W",
-      "ER1",
-      "K",
-      "IH0",
-      "NG",
-      "Z"
-    ]
+    "definition": "the internal mechanism of a device"
   },
   {
     "word": "paschal",
     "partOfSpeech": "adjective",
     "zipf": 2.6,
     "score": 39.0,
-    "definition": "of or relating to Passover or Easter",
-    "cmu": [
-      "P",
-      "AE1",
-      "SH",
-      "AH0",
-      "L"
-    ]
+    "definition": "of or relating to Passover or Easter"
   },
   {
     "word": "gearing",
     "partOfSpeech": "noun",
     "zipf": 3.37,
     "score": 38.9,
-    "definition": "wheelwork consisting of a connected set of rotating gears by which force is transmitted or motion or torque is changed",
-    "cmu": [
-      "G",
-      "IH1",
-      "R",
-      "IH0",
-      "NG"
-    ]
+    "definition": "wheelwork consisting of a connected set of rotating gears by which force is transmitted or motion or torque is changed"
   },
   {
     "word": "retard",
     "partOfSpeech": "noun",
     "zipf": 3.37,
     "score": 38.9,
-    "definition": "a person of subnormal intelligence",
-    "cmu": [
-      "R",
-      "IH0",
-      "T",
-      "AA1",
-      "R",
-      "D"
-    ]
+    "definition": "a person of subnormal intelligence"
   },
   {
     "word": "fretted",
     "partOfSpeech": "adjective",
     "zipf": 2.59,
     "score": 38.9,
-    "definition": "having frets",
-    "cmu": [
-      "F",
-      "R",
-      "EH1",
-      "T",
-      "IH0",
-      "D"
-    ]
+    "definition": "having frets"
   },
   {
     "word": "inflected",
     "partOfSpeech": "adjective",
     "zipf": 2.59,
     "score": 38.9,
-    "definition": "(of the voice) altered in tone or pitch",
-    "cmu": [
-      "IH2",
-      "N",
-      "F",
-      "L",
-      "EH1",
-      "K",
-      "T",
-      "AH0",
-      "D"
-    ]
+    "definition": "(of the voice) altered in tone or pitch"
   },
   {
     "word": "magnetized",
     "partOfSpeech": "adjective",
     "zipf": 2.58,
     "score": 38.8,
-    "definition": "having the properties of a magnet; i.e. of attracting iron or steel",
-    "cmu": [
-      "M",
-      "AE1",
-      "G",
-      "N",
-      "IH0",
-      "T",
-      "AY2",
-      "Z",
-      "D"
-    ]
+    "definition": "having the properties of a magnet; i.e. of attracting iron or steel"
+  },
+  {
+    "word": "debar",
+    "partOfSpeech": "verb",
+    "zipf": 1.96,
+    "score": 38.8,
+    "definition": "bar temporarily; from school, office, etc."
   },
   {
     "word": "coupling",
     "partOfSpeech": "noun",
     "zipf": 3.47,
     "score": 38.7,
-    "definition": "a connection (like a clamp or vise) between two things so they move together",
-    "cmu": [
-      "K",
-      "AH1",
-      "P",
-      "L",
-      "IH0",
-      "NG"
-    ]
+    "definition": "a connection (like a clamp or vise) between two things so they move together"
   },
   {
     "word": "stuffing",
     "partOfSpeech": "noun",
     "zipf": 3.47,
     "score": 38.7,
-    "definition": "a mixture of seasoned ingredients used to stuff meats and vegetables",
-    "cmu": [
-      "S",
-      "T",
-      "AH1",
-      "F",
-      "IH0",
-      "NG"
-    ]
+    "definition": "a mixture of seasoned ingredients used to stuff meats and vegetables"
   },
   {
     "word": "smoother",
     "partOfSpeech": "noun",
     "zipf": 3.35,
     "score": 38.7,
-    "definition": "a power tool used for sanding wood; an endless loop of sandpaper is moved at high speed by an electric motor",
-    "cmu": [
-      "S",
-      "M",
-      "UW1",
-      "DH",
-      "ER0"
-    ]
+    "definition": "a power tool used for sanding wood; an endless loop of sandpaper is moved at high speed by an electric motor"
   },
   {
     "word": "cleaners",
     "partOfSpeech": "noun",
     "zipf": 3.46,
     "score": 38.6,
-    "definition": "shop where dry cleaning is done",
-    "cmu": [
-      "K",
-      "L",
-      "IY1",
-      "N",
-      "ER0",
-      "Z"
-    ]
+    "definition": "shop where dry cleaning is done"
   },
   {
     "word": "underwood",
     "partOfSpeech": "noun",
     "zipf": 3.46,
     "score": 38.6,
-    "definition": "the brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest",
-    "cmu": [
-      "AH1",
-      "N",
-      "D",
-      "ER0",
-      "W",
-      "UH2",
-      "D"
-    ]
+    "definition": "the brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest"
+  },
+  {
+    "word": "counselling",
+    "partOfSpeech": "noun",
+    "zipf": 3.45,
+    "score": 38.5,
+    "definition": "something that provides direction or advice as to a decision or course of action"
   },
   {
     "word": "jawed",
     "partOfSpeech": "adjective",
     "zipf": 2.55,
     "score": 38.5,
-    "definition": "of animals having jaws of a specified type",
-    "cmu": [
-      "JH",
-      "AO1",
-      "D"
-    ]
+    "definition": "of animals having jaws of a specified type"
+  },
+  {
+    "word": "ageing",
+    "partOfSpeech": "noun",
+    "zipf": 3.44,
+    "score": 38.4,
+    "definition": "acquiring desirable qualities by being left undisturbed for some time"
   },
   {
     "word": "screwing",
     "partOfSpeech": "noun",
     "zipf": 3.44,
     "score": 38.4,
-    "definition": "slang for sexual intercourse",
-    "cmu": [
-      "S",
-      "K",
-      "R",
-      "UW1",
-      "IH0",
-      "NG"
-    ]
+    "definition": "slang for sexual intercourse"
   },
   {
     "word": "servicing",
     "partOfSpeech": "noun",
     "zipf": 3.44,
     "score": 38.4,
-    "definition": "the act of mating by male animals",
-    "cmu": [
-      "S",
-      "ER1",
-      "V",
-      "IH0",
-      "S",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the act of mating by male animals"
   },
   {
     "word": "taxis",
     "partOfSpeech": "noun",
     "zipf": 3.44,
     "score": 38.4,
-    "definition": "a locomotor response toward or away from an external stimulus by a motile (and usually simple) organism",
-    "cmu": [
-      "T",
-      "AE1",
-      "K",
-      "S",
-      "IY0",
-      "Z"
-    ]
+    "definition": "a locomotor response toward or away from an external stimulus by a motile (and usually simple) organism"
   },
   {
     "word": "trolling",
     "partOfSpeech": "noun",
     "zipf": 3.44,
     "score": 38.4,
-    "definition": "angling by drawing a baited line through the water",
-    "cmu": [
-      "T",
-      "R",
-      "OW1",
-      "L",
-      "IH0",
-      "NG"
-    ]
+    "definition": "angling by drawing a baited line through the water"
   },
   {
     "word": "rhymed",
     "partOfSpeech": "adjective",
     "zipf": 2.54,
     "score": 38.4,
-    "definition": "having corresponding sounds especially terminal sounds",
-    "cmu": [
-      "R",
-      "AY1",
-      "M",
-      "D"
-    ]
+    "definition": "having corresponding sounds especially terminal sounds"
   },
   {
     "word": "exporting",
     "partOfSpeech": "noun",
     "zipf": 3.43,
     "score": 38.3,
-    "definition": "the commercial activity of selling and shipping goods to a foreign country",
-    "cmu": [
-      "IH0",
-      "K",
-      "S",
-      "P",
-      "AO1",
-      "R",
-      "T",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the commercial activity of selling and shipping goods to a foreign country"
+  },
+  {
+    "word": "motorised",
+    "partOfSpeech": "adjective",
+    "zipf": 2.53,
+    "score": 38.3,
+    "definition": "equipped with a motor or motors"
   },
   {
     "word": "webbed",
     "partOfSpeech": "adjective",
     "zipf": 2.53,
     "score": 38.3,
-    "definition": "(of the feet of some animals) having the digits connected by a thin fold of skin",
-    "cmu": [
-      "W",
-      "EH1",
-      "B",
-      "D"
-    ]
+    "definition": "(of the feet of some animals) having the digits connected by a thin fold of skin"
   },
   {
     "word": "blanc",
     "partOfSpeech": "noun",
     "zipf": 3.42,
     "score": 38.2,
-    "definition": "a white sauce of fat, broth, and vegetables (used especially with braised meat)",
-    "cmu": [
-      "B",
-      "L",
-      "AE1",
-      "NG",
-      "K"
-    ]
+    "definition": "a white sauce of fat, broth, and vegetables (used especially with braised meat)"
   },
   {
     "word": "piping",
     "partOfSpeech": "noun",
     "zipf": 3.42,
     "score": 38.2,
-    "definition": "a thin strip of covered cord used to edge hems",
-    "cmu": [
-      "P",
-      "AY1",
-      "P",
-      "IH0",
-      "NG"
-    ]
+    "definition": "a thin strip of covered cord used to edge hems"
   },
   {
     "word": "rounder",
     "partOfSpeech": "noun",
     "zipf": 3.3,
     "score": 38.2,
-    "definition": "a dissolute person; usually a man who is morally unrestrained",
-    "cmu": [
-      "R",
-      "AW1",
-      "N",
-      "D",
-      "ER0"
-    ]
+    "definition": "a dissolute person; usually a man who is morally unrestrained"
+  },
+  {
+    "word": "cerebrospinal",
+    "partOfSpeech": "adjective",
+    "zipf": 2.52,
+    "score": 38.2,
+    "definition": "of or relating to the brain and spinal cord"
+  },
+  {
+    "word": "hematopoietic",
+    "partOfSpeech": "adjective",
+    "zipf": 2.52,
+    "score": 38.2,
+    "definition": "pertaining to the formation of blood or blood cells"
+  },
+  {
+    "word": "convulse",
+    "partOfSpeech": "verb",
+    "zipf": 1.9,
+    "score": 38.2,
+    "definition": "make someone convulse with laughter"
   },
   {
     "word": "boxers",
     "partOfSpeech": "noun",
     "zipf": 3.41,
     "score": 38.1,
-    "definition": "underpants worn by men",
-    "cmu": [
-      "B",
-      "AA1",
-      "K",
-      "S",
-      "ER0",
-      "Z"
-    ]
+    "definition": "underpants worn by men"
   },
   {
     "word": "jacks",
     "partOfSpeech": "noun",
     "zipf": 3.41,
     "score": 38.1,
-    "definition": "a game in which jackstones are thrown and picked up in various groups between bounces of a small rubber ball",
-    "cmu": [
-      "JH",
-      "AE1",
-      "K",
-      "S"
-    ]
+    "definition": "a game in which jackstones are thrown and picked up in various groups between bounces of a small rubber ball"
   },
   {
     "word": "spraying",
     "partOfSpeech": "noun",
     "zipf": 3.41,
     "score": 38.1,
-    "definition": "the dispersion of fungicides or insecticides or fertilizer on growing crops (often from a low-flying aircraft)",
-    "cmu": [
-      "S",
-      "P",
-      "R",
-      "EY1",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the dispersion of fungicides or insecticides or fertilizer on growing crops (often from a low-flying aircraft)"
+  },
+  {
+    "word": "keeled",
+    "partOfSpeech": "adjective",
+    "zipf": 2.51,
+    "score": 38.1,
+    "definition": "having a ridge or shaped like a ridge or suggesting the keel of a ship"
+  },
+  {
+    "word": "tsarist",
+    "partOfSpeech": "adjective",
+    "zipf": 2.51,
+    "score": 38.1,
+    "definition": "of or relating to or characteristic of a czar"
+  },
+  {
+    "word": "slake",
+    "partOfSpeech": "verb",
+    "zipf": 2.01,
+    "score": 38.1,
+    "definition": "satisfy (thirst)"
+  },
+  {
+    "word": "batsman",
+    "partOfSpeech": "noun",
+    "zipf": 3.4,
+    "score": 38.0,
+    "definition": "(baseball) a ballplayer who is batting"
   },
   {
     "word": "contemporaries",
     "partOfSpeech": "noun",
     "zipf": 3.4,
     "score": 38.0,
-    "definition": "all the people living at the same time or of approximately the same age",
-    "cmu": [
-      "K",
-      "AH0",
-      "N",
-      "T",
-      "EH1",
-      "M",
-      "P",
-      "ER0",
-      "EH2",
-      "R",
-      "IY0",
-      "Z"
-    ]
+    "definition": "all the people living at the same time or of approximately the same age"
   },
   {
     "word": "elves",
     "partOfSpeech": "noun",
     "zipf": 3.4,
     "score": 38.0,
-    "definition": "an acronym for emissions of light and very low frequency perturbations due to electromagnetic pulse sources; extremely bright extremely short (less than a msec) electrical flashes forming a huge ring (up to 400 km diameter) in the ionosphere",
-    "cmu": [
-      "EH1",
-      "L",
-      "V",
-      "Z"
-    ]
+    "definition": "an acronym for emissions of light and very low frequency perturbations due to electromagnetic pulse sources; extremely bright extremely short (less than a msec) electrical flashes forming a huge ring (up to 400 km diameter) in the ionosphere"
   },
   {
     "word": "greenwood",
     "partOfSpeech": "noun",
     "zipf": 3.4,
     "score": 38.0,
-    "definition": "woodlands in full leaf",
-    "cmu": [
-      "G",
-      "R",
-      "IY1",
-      "N",
-      "W",
-      "UH2",
-      "D"
-    ]
+    "definition": "woodlands in full leaf"
   },
   {
     "word": "shedding",
     "partOfSpeech": "noun",
     "zipf": 3.4,
     "score": 38.0,
-    "definition": "the process whereby something is shed",
-    "cmu": [
-      "SH",
-      "EH1",
-      "D",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the process whereby something is shed"
   },
   {
     "word": "sherry",
     "partOfSpeech": "noun",
     "zipf": 3.4,
     "score": 38.0,
-    "definition": "dry to sweet amber wine from the Jerez region of southern Spain or similar wines produced elsewhere; usually drunk as an aperitif",
-    "cmu": [
-      "SH",
-      "EH1",
-      "R",
-      "IY0"
-    ]
+    "definition": "dry to sweet amber wine from the Jerez region of southern Spain or similar wines produced elsewhere; usually drunk as an aperitif"
   },
   {
     "word": "shitting",
     "partOfSpeech": "noun",
     "zipf": 3.4,
     "score": 38.0,
-    "definition": "the elimination of fecal waste through the anus",
-    "cmu": [
-      "SH",
-      "IH1",
-      "T",
-      "IH0",
-      "NG"
-    ]
-  },
-  {
-    "word": "lactating",
-    "partOfSpeech": "adjective",
-    "zipf": 2.5,
-    "score": 38.0,
-    "definition": "producing or secreting milk",
-    "cmu": [
-      "L",
-      "AE1",
-      "K",
-      "T",
-      "EY0",
-      "T",
-      "IH0",
-      "NG"
-    ]
-  },
-  {
-    "word": "rounding",
-    "partOfSpeech": "noun",
-    "zipf": 3.39,
-    "score": 37.9,
-    "definition": "(mathematics) a miscalculation that results from rounding off numbers to a convenient number of decimals",
-    "cmu": [
-      "R",
-      "AW1",
-      "N",
-      "D",
-      "IH0",
-      "NG"
-    ]
-  },
-  {
-    "word": "spotting",
-    "partOfSpeech": "noun",
-    "zipf": 3.39,
-    "score": 37.9,
-    "definition": "the act of spotting or staining something",
-    "cmu": [
-      "S",
-      "P",
-      "AA1",
-      "T",
-      "IH0",
-      "NG"
-    ]
-  },
-  {
-    "word": "wrecking",
-    "partOfSpeech": "noun",
-    "zipf": 3.39,
-    "score": 37.9,
-    "definition": "the event of a structure being completely demolished and leveled",
-    "cmu": [
-      "R",
-      "EH1",
-      "K",
-      "IH0",
-      "NG"
-    ]
-  },
-  {
-    "word": "dyke",
-    "partOfSpeech": "noun",
-    "zipf": 3.37,
-    "score": 37.7,
-    "definition": "(slang) offensive term for a lesbian who is noticeably masculine",
-    "cmu": [
-      "D",
-      "AY1",
-      "K"
-    ]
-  },
-  {
-    "word": "straits",
-    "partOfSpeech": "noun",
-    "zipf": 3.37,
-    "score": 37.7,
-    "definition": "a bad or difficult situation or state of affairs",
-    "cmu": [
-      "S",
-      "T",
-      "R",
-      "EY1",
-      "T",
-      "S"
-    ]
-  },
-  {
-    "word": "vending",
-    "partOfSpeech": "noun",
-    "zipf": 3.37,
-    "score": 37.7,
-    "definition": "the act of selling goods for a living",
-    "cmu": [
-      "V",
-      "EH1",
-      "N",
-      "D",
-      "IH0",
-      "NG"
-    ]
-  },
-  {
-    "word": "sixties",
-    "partOfSpeech": "noun",
-    "zipf": 3.36,
-    "score": 37.6,
-    "definition": "the decade from 1960 to 1969",
-    "cmu": [
-      "S",
-      "IH1",
-      "K",
-      "S",
-      "T",
-      "IY0",
-      "Z"
-    ]
-  },
-  {
-    "word": "whipping",
-    "partOfSpeech": "noun",
-    "zipf": 3.36,
-    "score": 37.6,
-    "definition": "beating with a whip or strap or rope as a form of punishment",
-    "cmu": [
-      "W",
-      "IH1",
-      "P",
-      "IH0",
-      "NG"
-    ]
-  },
-  {
-    "word": "reconnoitre",
-    "partOfSpeech": "verb",
-    "zipf": 1.84,
-    "score": 37.6,
-    "definition": "explore, often with the goal of finding something or somebody",
-    "cmu": [
-      "R",
-      "IY2",
-      "K",
-      "AH0",
-      "N",
-      "OY1",
-      "T",
-      "ER0"
-    ]
-  },
-  {
-    "word": "cords",
-    "partOfSpeech": "noun",
-    "zipf": 3.35,
-    "score": 37.5,
-    "definition": "cotton trousers made of corduroy cloth",
-    "cmu": [
-      "K",
-      "AO1",
-      "R",
-      "D",
-      "Z"
-    ]
-  },
-  {
-    "word": "mina",
-    "partOfSpeech": "noun",
-    "zipf": 3.35,
-    "score": 37.5,
-    "definition": "tropical Asian starlings",
-    "cmu": [
-      "M",
-      "IY1",
-      "N",
-      "AH0"
-    ]
-  },
-  {
-    "word": "tammy",
-    "partOfSpeech": "noun",
-    "zipf": 3.35,
-    "score": 37.5,
-    "definition": "plain-woven (often glazed) fabric of wool or wool and cotton used especially formerly for linings and garments and curtains",
-    "cmu": [
-      "T",
-      "AE1",
-      "M",
-      "IY0"
-    ]
-  },
-  {
-    "word": "trucking",
-    "partOfSpeech": "noun",
-    "zipf": 3.35,
-    "score": 37.5,
-    "definition": "the activity of transporting goods by truck",
-    "cmu": [
-      "T",
-      "R",
-      "AH1",
-      "K",
-      "IH0",
-      "NG"
-    ]
-  },
-  {
-    "word": "ridley",
-    "partOfSpeech": "noun",
-    "zipf": 3.34,
-    "score": 37.4,
-    "definition": "a marine turtle",
-    "cmu": [
-      "R",
-      "IH1",
-      "D",
-      "L",
-      "IY0"
-    ]
-  },
-  {
-    "word": "colouring",
-    "partOfSpeech": "noun",
-    "zipf": 3.22,
-    "score": 37.4,
-    "definition": "a digestible substance used to give color to food",
-    "cmu": [
-      "K",
-      "AH1",
-      "L",
-      "ER0",
-      "R",
-      "IH2",
-      "NG"
-    ]
-  },
-  {
-    "word": "airbus",
-    "partOfSpeech": "noun",
-    "zipf": 3.33,
-    "score": 37.3,
-    "definition": "a subsonic jet airliner operated over short distances",
-    "cmu": [
-      "EH1",
-      "R",
-      "B",
-      "AH0",
-      "S"
-    ]
-  },
-  {
-    "word": "gemma",
-    "partOfSpeech": "noun",
-    "zipf": 3.33,
-    "score": 37.3,
-    "definition": "small asexual reproductive structure in e.g. liverworts and mosses that detaches from the parent and develops into a new individual",
-    "cmu": [
-      "JH",
-      "EH1",
-      "M",
-      "AH0"
-    ]
-  },
-  {
-    "word": "lulu",
-    "partOfSpeech": "noun",
-    "zipf": 3.33,
-    "score": 37.3,
-    "definition": "a very attractive or seductive looking woman",
-    "cmu": [
-      "L",
-      "UW1",
-      "L",
-      "UW2"
-    ]
-  },
-  {
-    "word": "surveying",
-    "partOfSpeech": "noun",
-    "zipf": 3.33,
-    "score": 37.3,
-    "definition": "the practice of measuring angles and distances on the ground so that they can be accurately plotted on a map",
-    "cmu": [
-      "S",
-      "ER0",
-      "V",
-      "EY1",
-      "IH0",
-      "NG"
-    ]
-  },
-  {
-    "word": "irons",
-    "partOfSpeech": "noun",
-    "zipf": 3.32,
-    "score": 37.2,
-    "definition": "metal shackles; for hands or legs",
-    "cmu": [
-      "AY1",
-      "ER0",
-      "N",
-      "Z"
-    ]
-  },
-  {
-    "word": "wits",
-    "partOfSpeech": "noun",
-    "zipf": 3.32,
-    "score": 37.2,
-    "definition": "the basic human power of intelligent thought and perception",
-    "cmu": [
-      "W",
-      "IH1",
-      "T",
-      "S"
-    ]
-  },
-  {
-    "word": "colleen",
-    "partOfSpeech": "noun",
-    "zipf": 3.3,
-    "score": 37.0,
-    "definition": "an Irish girl",
-    "cmu": [
-      "K",
-      "AA2",
-      "L",
-      "IY1",
-      "N"
-    ]
-  },
-  {
-    "word": "emery",
-    "partOfSpeech": "noun",
-    "zipf": 3.3,
-    "score": 37.0,
-    "definition": "a hard grey-black mineral consisting of corundum and either hematite or magnetite; used as an abrasive (especially as a coating on paper)",
-    "cmu": [
-      "EH1",
-      "M",
-      "ER0",
-      "IY0"
-    ]
-  },
-  {
-    "word": "margarita",
-    "partOfSpeech": "noun",
-    "zipf": 3.3,
-    "score": 37.0,
-    "definition": "a cocktail made of tequila and triple sec with lime and lemon juice",
-    "cmu": [
-      "M",
-      "AA2",
-      "R",
-      "G",
-      "ER0",
-      "IY1",
-      "T",
-      "AH0"
-    ]
+    "definition": "the elimination of fecal waste through the anus"
   }
 ]

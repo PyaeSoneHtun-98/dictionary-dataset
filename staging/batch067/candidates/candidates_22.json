@@ -1,0 +1,702 @@
+[
+  {
+    "word": "faun",
+    "partOfSpeech": "noun",
+    "zipf": 2.42,
+    "score": 28.2,
+    "definition": "ancient Italian deity in human shape, with horns, pointed ears and a goat's tail; equivalent to Greek satyr"
+  },
+  {
+    "word": "flyweight",
+    "partOfSpeech": "noun",
+    "zipf": 2.42,
+    "score": 28.2,
+    "definition": "weighs no more than 115 pounds"
+  },
+  {
+    "word": "savoring",
+    "partOfSpeech": "noun",
+    "zipf": 2.42,
+    "score": 28.2,
+    "definition": "taking a small amount into the mouth to test its quality"
+  },
+  {
+    "word": "splintering",
+    "partOfSpeech": "noun",
+    "zipf": 2.42,
+    "score": 28.2,
+    "definition": "the act of chipping something"
+  },
+  {
+    "word": "raper",
+    "partOfSpeech": "noun",
+    "zipf": 2.3,
+    "score": 28.2,
+    "definition": "someone who forces another to have sexual intercourse"
+  },
+  {
+    "word": "sleuthing",
+    "partOfSpeech": "noun",
+    "zipf": 2.3,
+    "score": 28.2,
+    "definition": "a police investigation to determine the perpetrator"
+  },
+  {
+    "word": "telecaster",
+    "partOfSpeech": "noun",
+    "zipf": 2.3,
+    "score": 28.2,
+    "definition": "a television broadcaster"
+  },
+  {
+    "word": "assignee",
+    "partOfSpeech": "noun",
+    "zipf": 2.18,
+    "score": 28.2,
+    "definition": "(law) the party to whom something is assigned (e.g., someone to whom a right or property is legally transferred)"
+  },
+  {
+    "word": "knucklehead",
+    "partOfSpeech": "noun",
+    "zipf": 2.18,
+    "score": 28.2,
+    "definition": "a stupid person; these words are used to express a low opinion of someone's intelligence"
+  },
+  {
+    "word": "benevolently",
+    "partOfSpeech": "adverb",
+    "zipf": 1.82,
+    "score": 28.2,
+    "definition": "in a benevolent manner"
+  },
+  {
+    "word": "biannually",
+    "partOfSpeech": "adverb",
+    "zipf": 1.82,
+    "score": 28.2,
+    "definition": "twice a year"
+  },
+  {
+    "word": "delightedly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.82,
+    "score": 28.2,
+    "definition": "with delight"
+  },
+  {
+    "word": "spitefully",
+    "partOfSpeech": "adverb",
+    "zipf": 1.82,
+    "score": 28.2,
+    "definition": "in a maliciously spiteful manner"
+  },
+  {
+    "word": "allopatric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.52,
+    "score": 28.2,
+    "definition": "(of biological species or speciation) occurring in areas isolated geographically from one another"
+  },
+  {
+    "word": "dactylic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.52,
+    "score": 28.2,
+    "definition": "of or consisting of dactyls"
+  },
+  {
+    "word": "downmarket",
+    "partOfSpeech": "adjective",
+    "zipf": 1.52,
+    "score": 28.2,
+    "definition": "designed for low-income consumers"
+  },
+  {
+    "word": "fungicidal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.52,
+    "score": 28.2,
+    "definition": "capable of destroying fungi"
+  },
+  {
+    "word": "metacentric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.52,
+    "score": 28.2,
+    "definition": "of or relating to the metacenter"
+  },
+  {
+    "word": "metallurgic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.52,
+    "score": 28.2,
+    "definition": "of or relating to metallurgy"
+  },
+  {
+    "word": "proteinaceous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.52,
+    "score": 28.2,
+    "definition": "relating to or of the nature of protein"
+  },
+  {
+    "word": "ropy",
+    "partOfSpeech": "adjective",
+    "zipf": 1.52,
+    "score": 28.2,
+    "definition": "of or resembling rope (or ropes) in being long and strong"
+  },
+  {
+    "word": "unpackaged",
+    "partOfSpeech": "adjective",
+    "zipf": 1.52,
+    "score": 28.2,
+    "definition": "not packaged or put into packets"
+  },
+  {
+    "word": "uvular",
+    "partOfSpeech": "adjective",
+    "zipf": 1.52,
+    "score": 28.2,
+    "definition": "of or relating to or associated with the uvula"
+  },
+  {
+    "word": "anthropomorphise",
+    "partOfSpeech": "verb",
+    "zipf": 1.02,
+    "score": 28.2,
+    "definition": "ascribe human features to something"
+  },
+  {
+    "word": "auscultate",
+    "partOfSpeech": "verb",
+    "zipf": 1.02,
+    "score": 28.2,
+    "definition": "examine by auscultation"
+  },
+  {
+    "word": "crenellate",
+    "partOfSpeech": "verb",
+    "zipf": 1.02,
+    "score": 28.2,
+    "definition": "supply with battlements"
+  },
+  {
+    "word": "disfranchise",
+    "partOfSpeech": "verb",
+    "zipf": 1.02,
+    "score": 28.2,
+    "definition": "deprive of voting rights"
+  },
+  {
+    "word": "enwrap",
+    "partOfSpeech": "verb",
+    "zipf": 1.02,
+    "score": 28.2,
+    "definition": "enclose or enfold completely with or as if with a covering"
+  },
+  {
+    "word": "inclose",
+    "partOfSpeech": "verb",
+    "zipf": 1.02,
+    "score": 28.2,
+    "definition": "surround completely"
+  },
+  {
+    "word": "suppurate",
+    "partOfSpeech": "verb",
+    "zipf": 1.02,
+    "score": 28.2,
+    "definition": "cause to ripen and discharge pus"
+  },
+  {
+    "word": "underdress",
+    "partOfSpeech": "verb",
+    "zipf": 1.02,
+    "score": 28.2,
+    "definition": "dress without sufficient warmth"
+  },
+  {
+    "word": "artemisia",
+    "partOfSpeech": "noun",
+    "zipf": 2.41,
+    "score": 28.1,
+    "definition": "any of various composite shrubs or herbs of the genus Artemisia having aromatic green or greyish foliage"
+  },
+  {
+    "word": "goober",
+    "partOfSpeech": "noun",
+    "zipf": 2.41,
+    "score": 28.1,
+    "definition": "pod of the peanut vine containing usually 2 nuts or seeds; `groundnut' and `monkey nut' are British terms"
+  },
+  {
+    "word": "pacha",
+    "partOfSpeech": "noun",
+    "zipf": 2.41,
+    "score": 28.1,
+    "definition": "a civil or military authority in Turkey or Egypt"
+  },
+  {
+    "word": "programing",
+    "partOfSpeech": "noun",
+    "zipf": 2.41,
+    "score": 28.1,
+    "definition": "setting an order and time for planned events"
+  },
+  {
+    "word": "seraph",
+    "partOfSpeech": "noun",
+    "zipf": 2.41,
+    "score": 28.1,
+    "definition": "an angel of the first order; usually portrayed as the winged head of a child"
+  },
+  {
+    "word": "sultana",
+    "partOfSpeech": "noun",
+    "zipf": 2.41,
+    "score": 28.1,
+    "definition": "pale yellow seedless grape used for raisins and wine"
+  },
+  {
+    "word": "crocheting",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "score": 28.1,
+    "definition": "needlework done by interlocking looped stitches with a hooked needle"
+  },
+  {
+    "word": "foiling",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "score": 28.1,
+    "definition": "an act of hindering someone's plans or efforts"
+  },
+  {
+    "word": "mestizo",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "score": 28.1,
+    "definition": "a person of mixed racial ancestry (especially mixed European and Native American ancestry)"
+  },
+  {
+    "word": "ratting",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "score": 28.1,
+    "definition": "to furnish incriminating evidence to an officer of the law (usually in return for favors)"
+  },
+  {
+    "word": "smallholder",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "score": 28.1,
+    "definition": "a person owning or renting a smallholding"
+  },
+  {
+    "word": "adoringly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.81,
+    "score": 28.1,
+    "definition": "with adoration"
+  },
+  {
+    "word": "detrimentally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.81,
+    "score": 28.1,
+    "definition": "in a detrimental manner"
+  },
+  {
+    "word": "enigmatically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.81,
+    "score": 28.1,
+    "definition": "in a cryptic manner;  he said cryptically"
+  },
+  {
+    "word": "erst",
+    "partOfSpeech": "adverb",
+    "zipf": 1.81,
+    "score": 28.1,
+    "definition": "at a previous time"
+  },
+  {
+    "word": "alchemic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.51,
+    "score": 28.1,
+    "definition": "related to or concerned with alchemy"
+  },
+  {
+    "word": "aneurysmal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.51,
+    "score": 28.1,
+    "definition": "relating to or affected by an aneurysm"
+  },
+  {
+    "word": "angelical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.51,
+    "score": 28.1,
+    "definition": "of or relating to angels"
+  },
+  {
+    "word": "argillaceous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.51,
+    "score": 28.1,
+    "definition": "resembling or containing clay"
+  },
+  {
+    "word": "armillary",
+    "partOfSpeech": "adjective",
+    "zipf": 1.51,
+    "score": 28.1,
+    "definition": "of or relating to bracelets"
+  },
+  {
+    "word": "dominical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.51,
+    "score": 28.1,
+    "definition": "of or relating to or coming from Jesus Christ"
+  },
+  {
+    "word": "handless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.51,
+    "score": 28.1,
+    "definition": "without a hand or hands"
+  },
+  {
+    "word": "lobate",
+    "partOfSpeech": "adjective",
+    "zipf": 1.51,
+    "score": 28.1,
+    "definition": "having or resembling a lobe or lobes"
+  },
+  {
+    "word": "rhizomatous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.51,
+    "score": 28.1,
+    "definition": "producing or possessing or resembling rhizomes"
+  },
+  {
+    "word": "shoed",
+    "partOfSpeech": "adjective",
+    "zipf": 1.51,
+    "score": 28.1,
+    "definition": "wearing footgear"
+  },
+  {
+    "word": "soteriological",
+    "partOfSpeech": "adjective",
+    "zipf": 1.51,
+    "score": 28.1,
+    "definition": "of or relating to soteriology"
+  },
+  {
+    "word": "tentacular",
+    "partOfSpeech": "adjective",
+    "zipf": 1.51,
+    "score": 28.1,
+    "definition": "of or relating to or resembling tentacles"
+  },
+  {
+    "word": "unenclosed",
+    "partOfSpeech": "adjective",
+    "zipf": 1.51,
+    "score": 28.1,
+    "definition": "not closed in our surrounded or included"
+  },
+  {
+    "word": "concuss",
+    "partOfSpeech": "verb",
+    "zipf": 1.01,
+    "score": 28.1,
+    "definition": "shake violently"
+  },
+  {
+    "word": "educe",
+    "partOfSpeech": "verb",
+    "zipf": 1.01,
+    "score": 28.1,
+    "definition": "deduce (a principle) or construe (a meaning)"
+  },
+  {
+    "word": "militarise",
+    "partOfSpeech": "verb",
+    "zipf": 1.01,
+    "score": 28.1,
+    "definition": "lend a military character to (a country), as by building up a military force"
+  },
+  {
+    "word": "misapprehend",
+    "partOfSpeech": "verb",
+    "zipf": 1.01,
+    "score": 28.1,
+    "definition": "interpret in the wrong way"
+  },
+  {
+    "word": "outsail",
+    "partOfSpeech": "verb",
+    "zipf": 1.01,
+    "score": 28.1,
+    "definition": "sail faster or better than"
+  },
+  {
+    "word": "straiten",
+    "partOfSpeech": "verb",
+    "zipf": 1.01,
+    "score": 28.1,
+    "definition": "bring into difficulties or distress, especially financial hardship"
+  },
+  {
+    "word": "commercialisation",
+    "partOfSpeech": "noun",
+    "zipf": 2.4,
+    "score": 28.0,
+    "definition": "the act of commercializing something; involving something in commerce"
+  },
+  {
+    "word": "gynaecologist",
+    "partOfSpeech": "noun",
+    "zipf": 2.4,
+    "score": 28.0,
+    "definition": "a specialist in gynecology"
+  },
+  {
+    "word": "morgen",
+    "partOfSpeech": "noun",
+    "zipf": 2.4,
+    "score": 28.0,
+    "definition": "a South African unit of measure equal to about 2 acres"
+  },
+  {
+    "word": "puncher",
+    "partOfSpeech": "noun",
+    "zipf": 2.4,
+    "score": 28.0,
+    "definition": "a hired hand who tends cattle and performs other duties on horseback"
+  },
+  {
+    "word": "consignor",
+    "partOfSpeech": "noun",
+    "zipf": 2.28,
+    "score": 28.0,
+    "definition": "the person who delivers over or commits merchandise"
+  },
+  {
+    "word": "lense",
+    "partOfSpeech": "noun",
+    "zipf": 2.28,
+    "score": 28.0,
+    "definition": "a transparent optical device used to converge or diverge transmitted light and to form images"
+  },
+  {
+    "word": "skydiver",
+    "partOfSpeech": "noun",
+    "zipf": 2.28,
+    "score": 28.0,
+    "definition": "a person who jumps from a plane and performs various gymnastic maneuvers before pulling the parachute cord"
+  },
+  {
+    "word": "prompter",
+    "partOfSpeech": "noun",
+    "zipf": 2.16,
+    "score": 28.0,
+    "definition": "someone who assists a performer by providing the next words of a forgotten speech"
+  },
+  {
+    "word": "abaft",
+    "partOfSpeech": "adverb",
+    "zipf": 1.8,
+    "score": 28.0,
+    "definition": "at or near or toward the stern of a ship or tail of an airplane"
+  },
+  {
+    "word": "cryptographically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.8,
+    "score": 28.0,
+    "definition": "in a cryptographic manner"
+  },
+  {
+    "word": "hypnotically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.8,
+    "score": 28.0,
+    "definition": "by means of hypnotism"
+  },
+  {
+    "word": "jovially",
+    "partOfSpeech": "adverb",
+    "zipf": 1.8,
+    "score": 28.0,
+    "definition": "in a jovial manner"
+  },
+  {
+    "word": "socioeconomically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.8,
+    "score": 28.0,
+    "definition": "with respect to socioeconomic factors"
+  },
+  {
+    "word": "wastefully",
+    "partOfSpeech": "adverb",
+    "zipf": 1.8,
+    "score": 28.0,
+    "definition": "to a wasteful manner or to a wasteful degree"
+  },
+  {
+    "word": "pentavalent",
+    "partOfSpeech": "adjective",
+    "zipf": 1.5,
+    "score": 28.0,
+    "definition": "having a valence of five"
+  },
+  {
+    "word": "phalangeal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.5,
+    "score": 28.0,
+    "definition": "of or relating to the bones of the fingers or toes"
+  },
+  {
+    "word": "precordial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.5,
+    "score": 28.0,
+    "definition": "in front of the heart; involving the precordium"
+  },
+  {
+    "word": "prolate",
+    "partOfSpeech": "adjective",
+    "zipf": 1.5,
+    "score": 28.0,
+    "definition": "having the polar diameter greater than the equatorial diameter"
+  },
+  {
+    "word": "pyogenic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.5,
+    "score": 28.0,
+    "definition": "producing pus"
+  },
+  {
+    "word": "radiophonic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.5,
+    "score": 28.0,
+    "definition": "relating to or by means of radiotelephony"
+  },
+  {
+    "word": "sigmoidal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.5,
+    "score": 28.0,
+    "definition": "of or relating to the sigmoid flexure in the large intestine"
+  },
+  {
+    "word": "tetravalent",
+    "partOfSpeech": "adjective",
+    "zipf": 1.5,
+    "score": 28.0,
+    "definition": "haveing a valence of four"
+  },
+  {
+    "word": "unrequested",
+    "partOfSpeech": "adjective",
+    "zipf": 1.5,
+    "score": 28.0,
+    "definition": "not requested"
+  },
+  {
+    "word": "saprophytic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.38,
+    "score": 28.0,
+    "definition": "obtaining food osmotically from dissolved organic material"
+  },
+  {
+    "word": "ligne",
+    "partOfSpeech": "noun",
+    "zipf": 2.39,
+    "score": 27.9,
+    "definition": "a linear unit (1/40 inch) used to measure diameter of buttons"
+  },
+  {
+    "word": "polemics",
+    "partOfSpeech": "noun",
+    "zipf": 2.39,
+    "score": 27.9,
+    "definition": "the branch of Christian theology devoted to the refutation of errors"
+  },
+  {
+    "word": "serjeant",
+    "partOfSpeech": "noun",
+    "zipf": 2.39,
+    "score": 27.9,
+    "definition": "an English barrister of the highest rank"
+  },
+  {
+    "word": "assizes",
+    "partOfSpeech": "noun",
+    "zipf": 2.27,
+    "score": 27.9,
+    "definition": "the county courts of England (replaced in 1971 by Crown courts)"
+  },
+  {
+    "word": "bibliotheca",
+    "partOfSpeech": "noun",
+    "zipf": 2.27,
+    "score": 27.9,
+    "definition": "a collection of books"
+  },
+  {
+    "word": "fuckup",
+    "partOfSpeech": "noun",
+    "zipf": 2.27,
+    "score": 27.9,
+    "definition": "someone who makes mistakes because of incompetence"
+  },
+  {
+    "word": "pragmatics",
+    "partOfSpeech": "noun",
+    "zipf": 2.27,
+    "score": 27.9,
+    "definition": "the study of language use"
+  },
+  {
+    "word": "sett",
+    "partOfSpeech": "noun",
+    "zipf": 2.27,
+    "score": 27.9,
+    "definition": "rectangular paving stone with curved top; once used to make roads"
+  },
+  {
+    "word": "fastidiously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.79,
+    "score": 27.9,
+    "definition": "in a fastidious and painstaking manner"
+  },
+  {
+    "word": "pensively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.79,
+    "score": 27.9,
+    "definition": "in a pensive manner"
+  },
+  {
+    "word": "problematically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.79,
+    "score": 27.9,
+    "definition": "in such a way as to pose a problem"
+  }
+]

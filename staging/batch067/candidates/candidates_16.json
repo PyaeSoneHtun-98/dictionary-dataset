@@ -1,0 +1,702 @@
+[
+  {
+    "word": "vitals",
+    "partOfSpeech": "noun",
+    "zipf": 2.61,
+    "score": 30.1,
+    "definition": "a bodily organ that is essential for life"
+  },
+  {
+    "word": "bijou",
+    "partOfSpeech": "noun",
+    "zipf": 2.49,
+    "score": 30.1,
+    "definition": "a small and delicately worked piece"
+  },
+  {
+    "word": "romper",
+    "partOfSpeech": "noun",
+    "zipf": 2.49,
+    "score": 30.1,
+    "definition": "a person who romps or frolics"
+  },
+  {
+    "word": "whizz",
+    "partOfSpeech": "noun",
+    "zipf": 2.49,
+    "score": 30.1,
+    "definition": "someone who is dazzlingly skilled in any field"
+  },
+  {
+    "word": "asexually",
+    "partOfSpeech": "adverb",
+    "zipf": 2.01,
+    "score": 30.1,
+    "definition": "in an asexual manner"
+  },
+  {
+    "word": "effectually",
+    "partOfSpeech": "adverb",
+    "zipf": 2.01,
+    "score": 30.1,
+    "definition": "in an effectual manner"
+  },
+  {
+    "word": "exuberantly",
+    "partOfSpeech": "adverb",
+    "zipf": 2.01,
+    "score": 30.1,
+    "definition": "in an exuberant manner"
+  },
+  {
+    "word": "topographically",
+    "partOfSpeech": "adverb",
+    "zipf": 2.01,
+    "score": 30.1,
+    "definition": "with regard to topography"
+  },
+  {
+    "word": "aesthetical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.71,
+    "score": 30.1,
+    "definition": "concerning or characterized by an appreciation of beauty or good taste"
+  },
+  {
+    "word": "chelated",
+    "partOfSpeech": "adjective",
+    "zipf": 1.71,
+    "score": 30.1,
+    "definition": "relating to or characterized by chelation"
+  },
+  {
+    "word": "collarless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.71,
+    "score": 30.1,
+    "definition": "without a collar"
+  },
+  {
+    "word": "dolomitic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.71,
+    "score": 30.1,
+    "definition": "relating to or consisting of dolomite"
+  },
+  {
+    "word": "ideographic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.71,
+    "score": 30.1,
+    "definition": "of or relating to or consisting of ideograms"
+  },
+  {
+    "word": "phrenic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.71,
+    "score": 30.1,
+    "definition": "of or relating to the diaphragm"
+  },
+  {
+    "word": "reconcilable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.71,
+    "score": 30.1,
+    "definition": "capable of being reconciled"
+  },
+  {
+    "word": "toothsome",
+    "partOfSpeech": "adjective",
+    "zipf": 1.71,
+    "score": 30.1,
+    "definition": "acceptable to the taste or mind"
+  },
+  {
+    "word": "viceregal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.71,
+    "score": 30.1,
+    "definition": "of or relating to a viceroy"
+  },
+  {
+    "word": "avouch",
+    "partOfSpeech": "verb",
+    "zipf": 1.21,
+    "score": 30.1,
+    "definition": "admit openly and bluntly; make no bones about"
+  },
+  {
+    "word": "blandish",
+    "partOfSpeech": "verb",
+    "zipf": 1.21,
+    "score": 30.1,
+    "definition": "praise somewhat dishonestly"
+  },
+  {
+    "word": "concretize",
+    "partOfSpeech": "verb",
+    "zipf": 1.21,
+    "score": 30.1,
+    "definition": "make something concrete"
+  },
+  {
+    "word": "controvert",
+    "partOfSpeech": "verb",
+    "zipf": 1.21,
+    "score": 30.1,
+    "definition": "be resistant to"
+  },
+  {
+    "word": "individualise",
+    "partOfSpeech": "verb",
+    "zipf": 1.21,
+    "score": 30.1,
+    "definition": "make or mark or treat as individual"
+  },
+  {
+    "word": "indorse",
+    "partOfSpeech": "verb",
+    "zipf": 1.21,
+    "score": 30.1,
+    "definition": "be behind; approve of"
+  },
+  {
+    "word": "lollygag",
+    "partOfSpeech": "verb",
+    "zipf": 1.21,
+    "score": 30.1,
+    "definition": "be about"
+  },
+  {
+    "word": "preponderate",
+    "partOfSpeech": "verb",
+    "zipf": 1.21,
+    "score": 30.1,
+    "definition": "weigh more heavily"
+  },
+  {
+    "word": "subtend",
+    "partOfSpeech": "verb",
+    "zipf": 1.21,
+    "score": 30.1,
+    "definition": "be opposite to; of angles and sides, in geometry"
+  },
+  {
+    "word": "traduce",
+    "partOfSpeech": "verb",
+    "zipf": 1.21,
+    "score": 30.1,
+    "definition": "speak unfavorably about"
+  },
+  {
+    "word": "waul",
+    "partOfSpeech": "verb",
+    "zipf": 1.21,
+    "score": 30.1,
+    "definition": "make high-pitched, whiney noises"
+  },
+  {
+    "word": "nawab",
+    "partOfSpeech": "noun",
+    "zipf": 2.6,
+    "score": 30.0,
+    "definition": "a governor in India during the Mogul empire"
+  },
+  {
+    "word": "saran",
+    "partOfSpeech": "noun",
+    "zipf": 2.6,
+    "score": 30.0,
+    "definition": "any of various thermoplastic resins used to make things"
+  },
+  {
+    "word": "vizier",
+    "partOfSpeech": "noun",
+    "zipf": 2.6,
+    "score": 30.0,
+    "definition": "a high official in a Muslim government (especially in the Ottoman Empire)"
+  },
+  {
+    "word": "paymaster",
+    "partOfSpeech": "noun",
+    "zipf": 2.48,
+    "score": 30.0,
+    "definition": "a person in charge of paying wages"
+  },
+  {
+    "word": "provocateur",
+    "partOfSpeech": "noun",
+    "zipf": 2.48,
+    "score": 30.0,
+    "definition": "a secret agent who incites suspected persons to commit illegal acts"
+  },
+  {
+    "word": "entertainingly",
+    "partOfSpeech": "adverb",
+    "zipf": 2.0,
+    "score": 30.0,
+    "definition": "in an entertaining manner"
+  },
+  {
+    "word": "erotically",
+    "partOfSpeech": "adverb",
+    "zipf": 2.0,
+    "score": 30.0,
+    "definition": "in an erotic manner"
+  },
+  {
+    "word": "satirically",
+    "partOfSpeech": "adverb",
+    "zipf": 2.0,
+    "score": 30.0,
+    "definition": "in a satirical manner"
+  },
+  {
+    "word": "sensually",
+    "partOfSpeech": "adverb",
+    "zipf": 2.0,
+    "score": 30.0,
+    "definition": "in a sultry and sensual manner"
+  },
+  {
+    "word": "bivalent",
+    "partOfSpeech": "adjective",
+    "zipf": 1.7,
+    "score": 30.0,
+    "definition": "having a valence of two or having two valences"
+  },
+  {
+    "word": "epicyclic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.7,
+    "score": 30.0,
+    "definition": "of or relating to an epicycle"
+  },
+  {
+    "word": "lexicographic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.7,
+    "score": 30.0,
+    "definition": "of or relating to lexicography"
+  },
+  {
+    "word": "monistic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.7,
+    "score": 30.0,
+    "definition": "of or relating to the philosophical doctrine of monism; - J.S.Roucek"
+  },
+  {
+    "word": "penetrable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.7,
+    "score": 30.0,
+    "definition": "admitting of penetration or passage into or through"
+  },
+  {
+    "word": "reverberant",
+    "partOfSpeech": "adjective",
+    "zipf": 1.7,
+    "score": 30.0,
+    "definition": "having a tendency to reverberate or be repeatedly reflected"
+  },
+  {
+    "word": "unshared",
+    "partOfSpeech": "adjective",
+    "zipf": 1.7,
+    "score": 30.0,
+    "definition": "not shared"
+  },
+  {
+    "word": "ventilatory",
+    "partOfSpeech": "adjective",
+    "zipf": 1.7,
+    "score": 30.0,
+    "definition": "provided with ventilation or involving pulmonary ventilation"
+  },
+  {
+    "word": "cauterise",
+    "partOfSpeech": "verb",
+    "zipf": 1.2,
+    "score": 30.0,
+    "definition": "burn, sear, or freeze (tissue) using a hot iron or electric current or a caustic agent"
+  },
+  {
+    "word": "execrate",
+    "partOfSpeech": "verb",
+    "zipf": 1.2,
+    "score": 30.0,
+    "definition": "find repugnant"
+  },
+  {
+    "word": "spiritualize",
+    "partOfSpeech": "verb",
+    "zipf": 1.2,
+    "score": 30.0,
+    "definition": "give a spiritual meaning to; read in a spiritual sense"
+  },
+  {
+    "word": "unclasp",
+    "partOfSpeech": "verb",
+    "zipf": 1.2,
+    "score": 30.0,
+    "definition": "release from a clasp"
+  },
+  {
+    "word": "convener",
+    "partOfSpeech": "noun",
+    "zipf": 2.59,
+    "score": 29.9,
+    "definition": "the member of a group whose duty it is to convene meetings"
+  },
+  {
+    "word": "cybernetics",
+    "partOfSpeech": "noun",
+    "zipf": 2.59,
+    "score": 29.9,
+    "definition": "(biology) the field of science concerned with processes of communication and control (especially the comparison of these processes in biological and artificial systems)"
+  },
+  {
+    "word": "jodhpur",
+    "partOfSpeech": "noun",
+    "zipf": 2.59,
+    "score": 29.9,
+    "definition": "a short riding boot that fastens with a buckle at the side"
+  },
+  {
+    "word": "linesman",
+    "partOfSpeech": "noun",
+    "zipf": 2.59,
+    "score": 29.9,
+    "definition": "official (in tennis, soccer, football, etc.) who assists the referee in some way (especially by watching for out of bounds or offside)"
+  },
+  {
+    "word": "pillaging",
+    "partOfSpeech": "noun",
+    "zipf": 2.59,
+    "score": 29.9,
+    "definition": "the act of stealing valuable things from a place"
+  },
+  {
+    "word": "usurper",
+    "partOfSpeech": "noun",
+    "zipf": 2.59,
+    "score": 29.9,
+    "definition": "one who wrongfully or illegally seizes and holds the place of another"
+  },
+  {
+    "word": "bagger",
+    "partOfSpeech": "noun",
+    "zipf": 2.47,
+    "score": 29.9,
+    "definition": "a workman employed to pack things into containers"
+  },
+  {
+    "word": "exaltation",
+    "partOfSpeech": "noun",
+    "zipf": 2.47,
+    "score": 29.9,
+    "definition": "a state of being carried away by overwhelming emotion; - Charles Dickens"
+  },
+  {
+    "word": "meanie",
+    "partOfSpeech": "noun",
+    "zipf": 2.47,
+    "score": 29.9,
+    "definition": "a person of mean disposition"
+  },
+  {
+    "word": "contrarily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.99,
+    "score": 29.9,
+    "definition": "in a contrary disobedient manner"
+  },
+  {
+    "word": "fascinatingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.99,
+    "score": 29.9,
+    "definition": "in a fascinating manner"
+  },
+  {
+    "word": "dextral",
+    "partOfSpeech": "adjective",
+    "zipf": 1.69,
+    "score": 29.9,
+    "definition": "of or on the right"
+  },
+  {
+    "word": "microcosmic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.69,
+    "score": 29.9,
+    "definition": "relating to or characteristic of a microcosm"
+  },
+  {
+    "word": "monoecious",
+    "partOfSpeech": "adjective",
+    "zipf": 1.69,
+    "score": 29.9,
+    "definition": "having male and female reproductive organs in the same plant or animal"
+  },
+  {
+    "word": "pictographic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.69,
+    "score": 29.9,
+    "definition": "consisting of or characterized by the use of pictographs"
+  },
+  {
+    "word": "pulmonic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.69,
+    "score": 29.9,
+    "definition": "relating to or affecting the lungs"
+  },
+  {
+    "word": "tuneless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.69,
+    "score": 29.9,
+    "definition": "not having a musical sound or pleasing tune"
+  },
+  {
+    "word": "vocalic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.69,
+    "score": 29.9,
+    "definition": "being or containing or characterized by vowels; ; - Walter Scott"
+  },
+  {
+    "word": "backcross",
+    "partOfSpeech": "verb",
+    "zipf": 1.19,
+    "score": 29.9,
+    "definition": "mate a hybrid of the first generation with one of its parents"
+  },
+  {
+    "word": "disinvest",
+    "partOfSpeech": "verb",
+    "zipf": 1.19,
+    "score": 29.9,
+    "definition": "deprive of status or authority"
+  },
+  {
+    "word": "ideate",
+    "partOfSpeech": "verb",
+    "zipf": 1.19,
+    "score": 29.9,
+    "definition": "form a mental image of something that is not present or that is not the case"
+  },
+  {
+    "word": "itemise",
+    "partOfSpeech": "verb",
+    "zipf": 1.19,
+    "score": 29.9,
+    "definition": "place on a list of items"
+  },
+  {
+    "word": "pronate",
+    "partOfSpeech": "verb",
+    "zipf": 1.19,
+    "score": 29.9,
+    "definition": "turn the forearm or the hand so that the palm is directed downwards"
+  },
+  {
+    "word": "readapt",
+    "partOfSpeech": "verb",
+    "zipf": 1.19,
+    "score": 29.9,
+    "definition": "adapt anew"
+  },
+  {
+    "word": "resorb",
+    "partOfSpeech": "verb",
+    "zipf": 1.19,
+    "score": 29.9,
+    "definition": "undergo resorption"
+  },
+  {
+    "word": "channelize",
+    "partOfSpeech": "verb",
+    "zipf": 1.07,
+    "score": 29.9,
+    "definition": "direct the course; determine the direction of travelling"
+  },
+  {
+    "word": "mechanise",
+    "partOfSpeech": "verb",
+    "zipf": 1.07,
+    "score": 29.9,
+    "definition": "equip with armed and armored motor vehicles"
+  },
+  {
+    "word": "wigwag",
+    "partOfSpeech": "verb",
+    "zipf": 1.07,
+    "score": 29.9,
+    "definition": "send a signal by waving a flag or a light according to a certain code"
+  },
+  {
+    "word": "burqa",
+    "partOfSpeech": "noun",
+    "zipf": 2.58,
+    "score": 29.8,
+    "definition": "a loose garment (usually with veiled holes for the eyes) worn by Muslim women especially in India and Pakistan"
+  },
+  {
+    "word": "cdna",
+    "partOfSpeech": "noun",
+    "zipf": 2.58,
+    "score": 29.8,
+    "definition": "single-stranded DNA that is complementary to messenger RNA or DNA that has been synthesized from messenger RNA by reverse transcriptase"
+  },
+  {
+    "word": "adjudicator",
+    "partOfSpeech": "noun",
+    "zipf": 2.46,
+    "score": 29.8,
+    "definition": "a person who studies and settles conflicts and disputes"
+  },
+  {
+    "word": "arles",
+    "partOfSpeech": "noun",
+    "zipf": 2.46,
+    "score": 29.8,
+    "definition": "money given by a buyer to a seller to bind a contract"
+  },
+  {
+    "word": "constructivist",
+    "partOfSpeech": "noun",
+    "zipf": 2.46,
+    "score": 29.8,
+    "definition": "an artist of the school of constructivism"
+  },
+  {
+    "word": "conveyancing",
+    "partOfSpeech": "noun",
+    "zipf": 2.46,
+    "score": 29.8,
+    "definition": "act of transferring property title from one person to another"
+  },
+  {
+    "word": "dietetics",
+    "partOfSpeech": "noun",
+    "zipf": 2.46,
+    "score": 29.8,
+    "definition": "the scientific study of food preparation and intake"
+  },
+  {
+    "word": "salting",
+    "partOfSpeech": "noun",
+    "zipf": 2.46,
+    "score": 29.8,
+    "definition": "the act of adding salt to food"
+  },
+  {
+    "word": "coincidently",
+    "partOfSpeech": "adverb",
+    "zipf": 1.98,
+    "score": 29.8,
+    "definition": "happening at the same time"
+  },
+  {
+    "word": "endearingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.98,
+    "score": 29.8,
+    "definition": "in an adorable manner"
+  },
+  {
+    "word": "excitingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.98,
+    "score": 29.8,
+    "definition": "in an exciting manner"
+  },
+  {
+    "word": "hundredfold",
+    "partOfSpeech": "adverb",
+    "zipf": 1.98,
+    "score": 29.8,
+    "definition": "by a factor of one hundred"
+  },
+  {
+    "word": "mystically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.98,
+    "score": 29.8,
+    "definition": "in a mystical manner"
+  },
+  {
+    "word": "touchingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.98,
+    "score": 29.8,
+    "definition": "in a poignant or touching manner"
+  },
+  {
+    "word": "adnate",
+    "partOfSpeech": "adjective",
+    "zipf": 1.68,
+    "score": 29.8,
+    "definition": "of unlike parts or organs; growing closely attached"
+  },
+  {
+    "word": "adrenocortical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.68,
+    "score": 29.8,
+    "definition": "of or derived from the cortex of the adrenal glands"
+  },
+  {
+    "word": "fiducial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.68,
+    "score": 29.8,
+    "definition": "relating to or of the nature of a legal trust (i.e. the holding of something in trust for another)"
+  },
+  {
+    "word": "genetical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.68,
+    "score": 29.8,
+    "definition": "of or relating to or produced by or being a gene"
+  },
+  {
+    "word": "lexicographical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.68,
+    "score": 29.8,
+    "definition": "of or relating to lexicography"
+  },
+  {
+    "word": "manipulable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.68,
+    "score": 29.8,
+    "definition": "easily managed (controlled or taught or molded); ; - Samuel Butler"
+  },
+  {
+    "word": "ovine",
+    "partOfSpeech": "adjective",
+    "zipf": 1.68,
+    "score": 29.8,
+    "definition": "of or pertaining to or of the nature of or characteristic of a sheep or sheep"
+  },
+  {
+    "word": "pouched",
+    "partOfSpeech": "adjective",
+    "zipf": 1.68,
+    "score": 29.8,
+    "definition": "having a pouch"
+  },
+  {
+    "word": "tomentose",
+    "partOfSpeech": "adjective",
+    "zipf": 1.68,
+    "score": 29.8,
+    "definition": "covered with densely matted filaments"
+  }
+]

@@ -4,1431 +4,699 @@
     "partOfSpeech": "noun",
     "zipf": 4.68,
     "score": 50.8,
-    "definition": "the end of a word (a suffix or inflectional ending or final morpheme)",
-    "cmu": [
-      "EH1",
-      "N",
-      "D",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the end of a word (a suffix or inflectional ending or final morpheme)"
   },
   {
     "word": "paired",
     "partOfSpeech": "adjective",
     "zipf": 3.78,
     "score": 50.8,
-    "definition": "of leaves etc; growing in pairs on either side of a stem",
-    "cmu": [
-      "P",
-      "EH1",
-      "R",
-      "D"
-    ]
+    "definition": "of leaves etc; growing in pairs on either side of a stem"
   },
   {
     "word": "voiced",
     "partOfSpeech": "adjective",
     "zipf": 3.76,
     "score": 50.6,
-    "definition": "produced with vibration of the vocal cords",
-    "cmu": [
-      "V",
-      "OY1",
-      "S",
-      "T"
-    ]
+    "definition": "produced with vibration of the vocal cords"
   },
   {
     "word": "aided",
     "partOfSpeech": "adjective",
     "zipf": 3.74,
     "score": 50.4,
-    "definition": "having help; often used as a combining form",
-    "cmu": [
-      "EY1",
-      "D",
-      "AH0",
-      "D"
-    ]
+    "definition": "having help; often used as a combining form"
   },
   {
     "word": "dying",
     "partOfSpeech": "noun",
     "zipf": 4.63,
     "score": 50.3,
-    "definition": "the time when something ends",
-    "cmu": [
-      "D",
-      "AY1",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the time when something ends"
   },
   {
     "word": "trading",
     "partOfSpeech": "noun",
     "zipf": 4.63,
     "score": 50.3,
-    "definition": "buying or selling securities or commodities",
-    "cmu": [
-      "T",
-      "R",
-      "EY1",
-      "D",
-      "IH0",
-      "NG"
-    ]
+    "definition": "buying or selling securities or commodities"
   },
   {
     "word": "humans",
     "partOfSpeech": "noun",
     "zipf": 4.61,
     "score": 50.1,
-    "definition": "all of the living human inhabitants of the earth",
-    "cmu": [
-      "HH",
-      "Y",
-      "UW1",
-      "M",
-      "AH0",
-      "N",
-      "Z"
-    ]
+    "definition": "all of the living human inhabitants of the earth"
   },
   {
     "word": "dealing",
     "partOfSpeech": "noun",
     "zipf": 4.6,
     "score": 50.0,
-    "definition": "method or manner of conduct in relation to others",
-    "cmu": [
-      "D",
-      "IY1",
-      "L",
-      "IH0",
-      "NG"
-    ]
+    "definition": "method or manner of conduct in relation to others"
   },
   {
     "word": "communications",
     "partOfSpeech": "noun",
     "zipf": 4.59,
     "score": 49.9,
-    "definition": "the discipline that studies the principles of transmiting information and the methods by which it is delivered (as print or radio or television etc.)",
-    "cmu": [
-      "K",
-      "AH0",
-      "M",
-      "Y",
-      "UW2",
-      "N",
-      "AH0",
-      "K",
-      "EY1",
-      "SH",
-      "AH0",
-      "N",
-      "Z"
-    ]
+    "definition": "the discipline that studies the principles of transmiting information and the methods by which it is delivered (as print or radio or television etc.)"
   },
   {
     "word": "nick",
     "partOfSpeech": "noun",
     "zipf": 4.59,
     "score": 49.9,
-    "definition": "an impression in a surface (as made by a blow)",
-    "cmu": [
-      "N",
-      "IH1",
-      "K"
-    ]
+    "definition": "an impression in a surface (as made by a blow)"
   },
   {
     "word": "fishing",
     "partOfSpeech": "noun",
     "zipf": 4.47,
     "score": 49.9,
-    "definition": "the act of someone who fishes as a diversion",
-    "cmu": [
-      "F",
-      "IH1",
-      "SH",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the act of someone who fishes as a diversion"
   },
   {
     "word": "parking",
     "partOfSpeech": "noun",
     "zipf": 4.47,
     "score": 49.9,
-    "definition": "space in which vehicles can be parked",
-    "cmu": [
-      "P",
-      "AA1",
-      "R",
-      "K",
-      "IH0",
-      "NG"
-    ]
+    "definition": "space in which vehicles can be parked"
   },
   {
     "word": "tipped",
     "partOfSpeech": "adjective",
     "zipf": 3.67,
     "score": 49.7,
-    "definition": "having a tip; or having a tip as specified (used in combination)",
-    "cmu": [
-      "T",
-      "IH1",
-      "P",
-      "T"
-    ]
+    "definition": "having a tip; or having a tip as specified (used in combination)"
   },
   {
     "word": "singles",
     "partOfSpeech": "noun",
     "zipf": 4.44,
     "score": 49.6,
-    "definition": "badminton played with one person on each side",
-    "cmu": [
-      "S",
-      "IH1",
-      "NG",
-      "G",
-      "AH0",
-      "L",
-      "Z"
-    ]
+    "definition": "badminton played with one person on each side"
   },
   {
     "word": "matt",
     "partOfSpeech": "noun",
     "zipf": 4.55,
     "score": 49.5,
-    "definition": "the property of having little or no contrast; lacking highlights or gloss",
-    "cmu": [
-      "M",
-      "AE1",
-      "T"
-    ]
+    "definition": "the property of having little or no contrast; lacking highlights or gloss"
   },
   {
     "word": "crowned",
     "partOfSpeech": "adjective",
     "zipf": 3.65,
     "score": 49.5,
-    "definition": "having an (artificial) crown on a tooth",
-    "cmu": [
-      "K",
-      "R",
-      "AW1",
-      "N",
-      "D"
-    ]
+    "definition": "having an (artificial) crown on a tooth"
   },
   {
     "word": "conditioned",
     "partOfSpeech": "adjective",
     "zipf": 3.64,
     "score": 49.4,
-    "definition": "established by conditioning or learning",
-    "cmu": [
-      "K",
-      "AH0",
-      "N",
-      "D",
-      "IH1",
-      "SH",
-      "AH0",
-      "N",
-      "D"
-    ]
+    "definition": "established by conditioning or learning"
   },
   {
     "word": "scripted",
     "partOfSpeech": "adjective",
     "zipf": 3.4,
     "score": 49.4,
-    "definition": "written as for a film or play or broadcast",
-    "cmu": [
-      "S",
-      "K",
-      "R",
-      "IH1",
-      "P",
-      "T",
-      "IH0",
-      "D"
-    ]
+    "definition": "written as for a film or play or broadcast"
   },
   {
     "word": "letting",
     "partOfSpeech": "noun",
     "zipf": 4.53,
     "score": 49.3,
-    "definition": "property that is leased or rented out or let",
-    "cmu": [
-      "L",
-      "EH1",
-      "T",
-      "IH0",
-      "NG"
-    ]
+    "definition": "property that is leased or rented out or let"
   },
   {
     "word": "seats",
     "partOfSpeech": "noun",
     "zipf": 4.53,
     "score": 49.3,
-    "definition": "an area that includes places where several people can sit",
-    "cmu": [
-      "S",
-      "IY1",
-      "T",
-      "S"
-    ]
+    "definition": "an area that includes places where several people can sit"
   },
   {
     "word": "rigged",
     "partOfSpeech": "adjective",
     "zipf": 3.63,
     "score": 49.3,
-    "definition": "fitted or equipped with necessary rigging (sails and shrouds and stays etc)",
-    "cmu": [
-      "R",
-      "IH1",
-      "G",
-      "D"
-    ]
+    "definition": "fitted or equipped with necessary rigging (sails and shrouds and stays etc)"
   },
   {
     "word": "stacked",
     "partOfSpeech": "adjective",
     "zipf": 3.63,
     "score": 49.3,
-    "definition": "arranged in a stack",
-    "cmu": [
-      "S",
-      "T",
-      "AE1",
-      "K",
-      "T"
-    ]
+    "definition": "arranged in a stack"
   },
   {
     "word": "signing",
     "partOfSpeech": "noun",
     "zipf": 4.4,
     "score": 49.2,
-    "definition": "language expressed by visible hand gestures",
-    "cmu": [
-      "S",
-      "AY1",
-      "N",
-      "IH0",
-      "NG"
-    ]
+    "definition": "language expressed by visible hand gestures"
   },
   {
     "word": "quicker",
     "partOfSpeech": "adverb",
     "zipf": 3.92,
     "score": 49.2,
-    "definition": "more quickly",
-    "cmu": [
-      "K",
-      "W",
-      "IH1",
-      "K",
-      "ER0"
-    ]
+    "definition": "more quickly"
   },
   {
     "word": "labelled",
     "partOfSpeech": "adjective",
     "zipf": 3.62,
     "score": 49.2,
-    "definition": "bearing or marked with a label or tag",
-    "cmu": [
-      "L",
-      "EY1",
-      "B",
-      "AH0",
-      "L",
-      "D"
-    ]
+    "definition": "bearing or marked with a label or tag"
   },
   {
     "word": "rested",
     "partOfSpeech": "adjective",
     "zipf": 3.59,
     "score": 48.9,
-    "definition": "not tired; refreshed as by sleeping or relaxing",
-    "cmu": [
-      "R",
-      "EH1",
-      "S",
-      "T",
-      "AH0",
-      "D"
-    ]
+    "definition": "not tired; refreshed as by sleeping or relaxing"
   },
   {
     "word": "bollocks",
     "partOfSpeech": "verb",
     "zipf": 3.09,
     "score": 48.9,
-    "definition": "make a mess of, destroy or ruin",
-    "cmu": [
-      "B",
-      "AO1",
-      "L",
-      "AO0",
-      "K",
-      "S"
-    ]
+    "definition": "make a mess of, destroy or ruin"
   },
   {
     "word": "jean",
     "partOfSpeech": "noun",
     "zipf": 4.36,
     "score": 48.8,
-    "definition": "(usually plural) close-fitting trousers of heavy denim for manual work or casual wear",
-    "cmu": [
-      "JH",
-      "IY1",
-      "N"
-    ]
+    "definition": "(usually plural) close-fitting trousers of heavy denim for manual work or casual wear"
   },
   {
     "word": "geared",
     "partOfSpeech": "adjective",
     "zipf": 3.58,
     "score": 48.8,
-    "definition": "equipped with or connected by gears or having gears engaged",
-    "cmu": [
-      "G",
-      "IH1",
-      "R",
-      "D"
-    ]
+    "definition": "equipped with or connected by gears or having gears engaged"
   },
   {
     "word": "rolling",
     "partOfSpeech": "noun",
     "zipf": 4.47,
     "score": 48.7,
-    "definition": "a deep prolonged sound (as of thunder or large bells)",
-    "cmu": [
-      "R",
-      "OW1",
-      "L",
-      "IH0",
-      "NG"
-    ]
+    "definition": "a deep prolonged sound (as of thunder or large bells)"
   },
   {
     "word": "seeded",
     "partOfSpeech": "adjective",
     "zipf": 3.57,
     "score": 48.7,
-    "definition": "(of the more skilled contestants) selectively arranged in the draw for position in a tournament so that they meet each other in later rounds",
-    "cmu": [
-      "S",
-      "IY1",
-      "D",
-      "IH0",
-      "D"
-    ]
+    "definition": "(of the more skilled contestants) selectively arranged in the draw for position in a tournament so that they meet each other in later rounds"
   },
   {
     "word": "colors",
     "partOfSpeech": "noun",
     "zipf": 4.46,
     "score": 48.6,
-    "definition": "a flag that shows its nationality",
-    "cmu": [
-      "K",
-      "AH1",
-      "L",
-      "ER0",
-      "Z"
-    ]
+    "definition": "a flag that shows its nationality"
   },
   {
     "word": "hitting",
     "partOfSpeech": "noun",
     "zipf": 4.46,
     "score": 48.6,
-    "definition": "the act of contacting one thing with another",
-    "cmu": [
-      "HH",
-      "IH1",
-      "T",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the act of contacting one thing with another"
   },
   {
     "word": "tons",
     "partOfSpeech": "noun",
     "zipf": 4.46,
     "score": 48.6,
-    "definition": "a large number or amount",
-    "cmu": [
-      "T",
-      "AH1",
-      "N",
-      "Z"
-    ]
+    "definition": "a large number or amount"
   },
   {
     "word": "woods",
     "partOfSpeech": "noun",
     "zipf": 4.45,
     "score": 48.5,
-    "definition": "the trees and other plants in a large densely wooded area",
-    "cmu": [
-      "W",
-      "UH1",
-      "D",
-      "Z"
-    ]
+    "definition": "the trees and other plants in a large densely wooded area"
   },
   {
     "word": "billy",
     "partOfSpeech": "noun",
     "zipf": 4.33,
     "score": 48.5,
-    "definition": "a short stout club used primarily by policemen",
-    "cmu": [
-      "B",
-      "IH1",
-      "L",
-      "IY0"
-    ]
+    "definition": "a short stout club used primarily by policemen"
   },
   {
     "word": "spirited",
     "partOfSpeech": "adjective",
     "zipf": 3.55,
     "score": 48.5,
-    "definition": "displaying animation, vigor, or liveliness",
-    "cmu": [
-      "S",
-      "P",
-      "IH1",
-      "R",
-      "IH0",
-      "T",
-      "IH0",
-      "D"
-    ]
+    "definition": "displaying animation, vigor, or liveliness"
   },
   {
     "word": "jimmy",
     "partOfSpeech": "noun",
     "zipf": 4.44,
     "score": 48.4,
-    "definition": "a short crowbar",
-    "cmu": [
-      "JH",
-      "IH1",
-      "M",
-      "IY0"
-    ]
+    "definition": "a short crowbar"
   },
   {
     "word": "wings",
     "partOfSpeech": "noun",
     "zipf": 4.44,
     "score": 48.4,
-    "definition": "a means of flight or ascent",
-    "cmu": [
-      "W",
-      "IH1",
-      "NG",
-      "Z"
-    ]
+    "definition": "a means of flight or ascent"
   },
   {
     "word": "sighted",
     "partOfSpeech": "adjective",
     "zipf": 3.54,
     "score": 48.4,
-    "definition": "able to see",
-    "cmu": [
-      "S",
-      "AY1",
-      "T",
-      "IH0",
-      "D"
-    ]
+    "definition": "able to see"
   },
   {
     "word": "beating",
     "partOfSpeech": "noun",
     "zipf": 4.43,
     "score": 48.3,
-    "definition": "the act of overcoming or outdoing",
-    "cmu": [
-      "B",
-      "IY1",
-      "T",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the act of overcoming or outdoing"
   },
   {
     "word": "grounds",
     "partOfSpeech": "noun",
     "zipf": 4.43,
     "score": 48.3,
-    "definition": "your basis for belief or disbelief; knowledge on which to base belief",
-    "cmu": [
-      "G",
-      "R",
-      "AW1",
-      "N",
-      "D",
-      "Z"
-    ]
+    "definition": "your basis for belief or disbelief; knowledge on which to base belief"
   },
   {
     "word": "tempered",
     "partOfSpeech": "adjective",
     "zipf": 3.53,
     "score": 48.3,
-    "definition": "made hard or flexible or resilient especially by heat treatment",
-    "cmu": [
-      "T",
-      "EH1",
-      "M",
-      "P",
-      "ER0",
-      "D"
-    ]
+    "definition": "made hard or flexible or resilient especially by heat treatment"
   },
   {
     "word": "buddy",
     "partOfSpeech": "noun",
     "zipf": 4.4,
     "score": 48.0,
-    "definition": "a close friend who accompanies his buddies in their activities",
-    "cmu": [
-      "B",
-      "AH1",
-      "D",
-      "IY0"
-    ]
+    "definition": "a close friend who accompanies his buddies in their activities"
   },
   {
     "word": "posting",
     "partOfSpeech": "noun",
     "zipf": 4.39,
     "score": 47.9,
-    "definition": "a sign posted in a public place as an advertisement",
-    "cmu": [
-      "P",
-      "OW1",
-      "S",
-      "T",
-      "IH0",
-      "NG"
-    ]
+    "definition": "a sign posted in a public place as an advertisement"
   },
   {
     "word": "corp",
     "partOfSpeech": "noun",
     "zipf": 4.27,
     "score": 47.9,
-    "definition": "a business firm whose articles of incorporation have been approved in some state",
-    "cmu": [
-      "K",
-      "AO1",
-      "R",
-      "P"
-    ]
+    "definition": "a business firm whose articles of incorporation have been approved in some state"
   },
   {
     "word": "credits",
     "partOfSpeech": "noun",
     "zipf": 4.27,
     "score": 47.9,
-    "definition": "a list of acknowledgements of those who contributed to the creation of a film (usually run at the end of the film)",
-    "cmu": [
-      "K",
-      "R",
-      "EH1",
-      "D",
-      "IH0",
-      "T",
-      "S"
-    ]
+    "definition": "a list of acknowledgements of those who contributed to the creation of a film (usually run at the end of the film)"
   },
   {
     "word": "toned",
     "partOfSpeech": "adjective",
     "zipf": 3.48,
     "score": 47.8,
-    "definition": "having or distinguished by a tone; often used in combination",
-    "cmu": [
-      "T",
-      "OW1",
-      "N",
-      "D"
-    ]
+    "definition": "having or distinguished by a tone; often used in combination"
   },
   {
     "word": "anna",
     "partOfSpeech": "noun",
     "zipf": 4.37,
     "score": 47.7,
-    "definition": "a former copper coin of Pakistan and India",
-    "cmu": [
-      "AE1",
-      "N",
-      "AH0"
-    ]
+    "definition": "a former copper coin of Pakistan and India"
   },
   {
     "word": "profits",
     "partOfSpeech": "noun",
     "zipf": 4.36,
     "score": 47.6,
-    "definition": "the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)",
-    "cmu": [
-      "P",
-      "R",
-      "AA1",
-      "F",
-      "IH0",
-      "T",
-      "S"
-    ]
+    "definition": "the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)"
   },
   {
     "word": "blues",
     "partOfSpeech": "noun",
     "zipf": 4.34,
     "score": 47.4,
-    "definition": "a type of folksong that originated among Black Americans at the beginning of the 20th century; has a melancholy sound from repeated use of blue notes",
-    "cmu": [
-      "B",
-      "L",
-      "UW1",
-      "Z"
-    ]
+    "definition": "a type of folksong that originated among Black Americans at the beginning of the 20th century; has a melancholy sound from repeated use of blue notes"
   },
   {
     "word": "beats",
     "partOfSpeech": "noun",
     "zipf": 4.22,
     "score": 47.4,
-    "definition": "a United States youth subculture of the 1950s; rejected possessions or regular work or traditional dress; for communal living and psychedelic drugs and anarchism; favored modern forms of jazz (e.g., bebop)",
-    "cmu": [
-      "B",
-      "IY1",
-      "T",
-      "S"
-    ]
+    "definition": "a United States youth subculture of the 1950s; rejected possessions or regular work or traditional dress; for communal living and psychedelic drugs and anarchism; favored modern forms of jazz (e.g., bebop)"
   },
   {
     "word": "bobby",
     "partOfSpeech": "noun",
     "zipf": 4.22,
     "score": 47.4,
-    "definition": "an informal term for a British policeman",
-    "cmu": [
-      "B",
-      "AA1",
-      "B",
-      "IY0"
-    ]
+    "definition": "an informal term for a British policeman"
   },
   {
     "word": "plugged",
     "partOfSpeech": "adjective",
     "zipf": 3.44,
     "score": 47.4,
-    "definition": "(of a coin) altered by the insertion of a plug of base metal",
-    "cmu": [
-      "P",
-      "L",
-      "AH1",
-      "G",
-      "D"
-    ]
+    "definition": "(of a coin) altered by the insertion of a plug of base metal"
   },
   {
     "word": "spaced",
     "partOfSpeech": "adjective",
     "zipf": 3.44,
     "score": 47.4,
-    "definition": "arranged with spaces between; often used as a combining form",
-    "cmu": [
-      "S",
-      "P",
-      "EY1",
-      "S",
-      "T"
-    ]
+    "definition": "arranged with spaces between; often used as a combining form"
   },
   {
     "word": "winged",
     "partOfSpeech": "adjective",
     "zipf": 3.44,
     "score": 47.4,
-    "definition": "having wings or as if having wings of a specified kind",
-    "cmu": [
-      "W",
-      "IH1",
-      "NG",
-      "D"
-    ]
+    "definition": "having wings or as if having wings of a specified kind"
   },
   {
     "word": "spots",
     "partOfSpeech": "noun",
     "zipf": 4.33,
     "score": 47.3,
-    "definition": "spots before the eyes caused by opaque cell fragments in the vitreous humor and lens",
-    "cmu": [
-      "S",
-      "P",
-      "AA1",
-      "T",
-      "S"
-    ]
+    "definition": "spots before the eyes caused by opaque cell fragments in the vitreous humor and lens"
   },
   {
     "word": "listing",
     "partOfSpeech": "noun",
     "zipf": 4.32,
     "score": 47.2,
-    "definition": "a database containing an ordered array of items (names or topics)",
-    "cmu": [
-      "L",
-      "IH1",
-      "S",
-      "T",
-      "IH0",
-      "NG"
-    ]
+    "definition": "a database containing an ordered array of items (names or topics)"
   },
   {
     "word": "rick",
     "partOfSpeech": "noun",
     "zipf": 4.32,
     "score": 47.2,
-    "definition": "a painful muscle spasm especially in the neck or back (`rick' and `wrick' are British)",
-    "cmu": [
-      "R",
-      "IH1",
-      "K"
-    ]
+    "definition": "a painful muscle spasm especially in the neck or back (`rick' and `wrick' are British)"
   },
   {
     "word": "mined",
     "partOfSpeech": "adjective",
     "zipf": 3.41,
     "score": 47.1,
-    "definition": "extracted from a source of supply as of minerals from the earth",
-    "cmu": [
-      "M",
-      "AY1",
-      "N",
-      "D"
-    ]
+    "definition": "extracted from a source of supply as of minerals from the earth"
   },
   {
     "word": "proceedings",
     "partOfSpeech": "noun",
     "zipf": 4.18,
     "score": 47.0,
-    "definition": "(law) the institution of a sequence of steps by which legal judgments are invoked",
-    "cmu": [
-      "P",
-      "R",
-      "OW0",
-      "S",
-      "IY1",
-      "D",
-      "IH0",
-      "NG",
-      "Z"
-    ]
+    "definition": "(law) the institution of a sequence of steps by which legal judgments are invoked"
   },
   {
     "word": "lighting",
     "partOfSpeech": "noun",
     "zipf": 4.29,
     "score": 46.9,
-    "definition": "having abundant light or illumination",
-    "cmu": [
-      "L",
-      "AY1",
-      "T",
-      "IH0",
-      "NG"
-    ]
+    "definition": "having abundant light or illumination"
   },
   {
     "word": "timing",
     "partOfSpeech": "noun",
     "zipf": 4.29,
     "score": 46.9,
-    "definition": "the time when something happens",
-    "cmu": [
-      "T",
-      "AY1",
-      "M",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the time when something happens"
   },
   {
     "word": "silenced",
     "partOfSpeech": "adjective",
     "zipf": 3.39,
     "score": 46.9,
-    "definition": "reduced to silence",
-    "cmu": [
-      "S",
-      "AY1",
-      "L",
-      "AH0",
-      "N",
-      "S",
-      "T"
-    ]
+    "definition": "reduced to silence"
   },
   {
     "word": "peoples",
     "partOfSpeech": "noun",
     "zipf": 4.26,
     "score": 46.6,
-    "definition": "the human beings of a particular nation or community or ethnic group",
-    "cmu": [
-      "P",
-      "IY1",
-      "P",
-      "AH0",
-      "L",
-      "Z"
-    ]
+    "definition": "the human beings of a particular nation or community or ethnic group"
   },
   {
     "word": "wheeled",
     "partOfSpeech": "adjective",
     "zipf": 3.36,
     "score": 46.6,
-    "definition": "having wheels; often used in combination",
-    "cmu": [
-      "W",
-      "IY1",
-      "L",
-      "D"
-    ]
+    "definition": "having wheels; often used in combination"
+  },
+  {
+    "word": "prof",
+    "partOfSpeech": "noun",
+    "zipf": 4.12,
+    "score": 46.4,
+    "definition": "someone who is a member of the faculty at a college or university"
+  },
+  {
+    "word": "armoured",
+    "partOfSpeech": "adjective",
+    "zipf": 3.34,
+    "score": 46.4,
+    "definition": "used of animals; provided with protective covering"
   },
   {
     "word": "glazed",
     "partOfSpeech": "adjective",
     "zipf": 3.34,
     "score": 46.4,
-    "definition": "fitted or covered with glass",
-    "cmu": [
-      "G",
-      "L",
-      "EY1",
-      "Z",
-      "D"
-    ]
+    "definition": "fitted or covered with glass"
   },
   {
     "word": "quarters",
     "partOfSpeech": "noun",
     "zipf": 4.23,
     "score": 46.3,
-    "definition": "housing available for people to live in",
-    "cmu": [
-      "K",
-      "W",
-      "AO1",
-      "R",
-      "T",
-      "ER0",
-      "Z"
-    ]
+    "definition": "housing available for people to live in"
   },
   {
     "word": "batman",
     "partOfSpeech": "noun",
     "zipf": 4.22,
     "score": 46.2,
-    "definition": "an orderly assigned to serve a British military officer",
-    "cmu": [
-      "B",
-      "AE1",
-      "T",
-      "M",
-      "AE2",
-      "N"
-    ]
+    "definition": "an orderly assigned to serve a British military officer"
   },
   {
     "word": "reserves",
     "partOfSpeech": "noun",
     "zipf": 4.22,
     "score": 46.2,
-    "definition": "civilians trained as soldiers but not part of the regular army",
-    "cmu": [
-      "R",
-      "IH0",
-      "Z",
-      "ER1",
-      "V",
-      "Z"
-    ]
+    "definition": "civilians trained as soldiers but not part of the regular army"
   },
   {
     "word": "transactions",
     "partOfSpeech": "noun",
     "zipf": 4.22,
     "score": 46.2,
-    "definition": "a written account of what transpired at a meeting",
-    "cmu": [
-      "T",
-      "R",
-      "AE0",
-      "N",
-      "Z",
-      "AE1",
-      "K",
-      "SH",
-      "AH0",
-      "N",
-      "Z"
-    ]
+    "definition": "a written account of what transpired at a meeting"
   },
   {
     "word": "cycling",
     "partOfSpeech": "noun",
     "zipf": 4.1,
     "score": 46.2,
-    "definition": "the sport of traveling on a bicycle or motorcycle",
-    "cmu": [
-      "S",
-      "AY1",
-      "K",
-      "AH0",
-      "L",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the sport of traveling on a bicycle or motorcycle"
   },
   {
     "word": "strung",
     "partOfSpeech": "adjective",
     "zipf": 3.31,
     "score": 46.1,
-    "definition": "that is on a string",
-    "cmu": [
-      "S",
-      "T",
-      "R",
-      "AH1",
-      "NG"
-    ]
+    "definition": "that is on a string"
   },
   {
     "word": "catching",
     "partOfSpeech": "noun",
     "zipf": 4.2,
     "score": 46.0,
-    "definition": "(baseball) playing the position of catcher on a baseball team",
-    "cmu": [
-      "K",
-      "AE1",
-      "CH",
-      "IH0",
-      "NG"
-    ]
+    "definition": "(baseball) playing the position of catcher on a baseball team"
   },
   {
     "word": "footed",
     "partOfSpeech": "adjective",
     "zipf": 3.3,
     "score": 46.0,
-    "definition": "having feet",
-    "cmu": [
-      "F",
-      "UH1",
-      "T",
-      "IH0",
-      "D"
-    ]
+    "definition": "having feet"
   },
   {
     "word": "colored",
     "partOfSpeech": "noun",
     "zipf": 4.19,
     "score": 45.9,
-    "definition": "a United States term for Blacks that is now considered offensive",
-    "cmu": [
-      "K",
-      "AH1",
-      "L",
-      "ER0",
-      "D"
-    ]
+    "definition": "a United States term for Blacks that is now considered offensive"
   },
   {
     "word": "graphics",
     "partOfSpeech": "noun",
     "zipf": 4.19,
     "score": 45.9,
-    "definition": "photographs or other visual representations in a printed publication",
-    "cmu": [
-      "G",
-      "R",
-      "AE1",
-      "F",
-      "IH0",
-      "K",
-      "S"
-    ]
+    "definition": "photographs or other visual representations in a printed publication"
   },
   {
     "word": "ranking",
     "partOfSpeech": "noun",
     "zipf": 4.19,
     "score": 45.9,
-    "definition": "position on a scale in relation to others in a sport",
-    "cmu": [
-      "R",
-      "AE1",
-      "NG",
-      "K",
-      "IH0",
-      "NG"
-    ]
+    "definition": "position on a scale in relation to others in a sport"
   },
   {
     "word": "laced",
     "partOfSpeech": "adjective",
     "zipf": 3.29,
     "score": 45.9,
-    "definition": "closed with a lace",
-    "cmu": [
-      "L",
-      "EY1",
-      "S",
-      "T"
-    ]
+    "definition": "closed with a lace"
   },
   {
     "word": "shaded",
     "partOfSpeech": "adjective",
     "zipf": 3.27,
     "score": 45.7,
-    "definition": "protected from heat and light with shade or shadow; ; - Alexander Pope",
-    "cmu": [
-      "SH",
-      "EY1",
-      "D",
-      "IH0",
-      "D"
-    ]
+    "definition": "protected from heat and light with shade or shadow; ; - Alexander Pope"
   },
   {
     "word": "teens",
     "partOfSpeech": "noun",
     "zipf": 4.16,
     "score": 45.6,
-    "definition": "the time of life between the ages of 12 and 20",
-    "cmu": [
-      "T",
-      "IY1",
-      "N",
-      "Z"
-    ]
+    "definition": "the time of life between the ages of 12 and 20"
   },
   {
     "word": "travelling",
     "partOfSpeech": "noun",
     "zipf": 4.16,
     "score": 45.6,
-    "definition": "the act of going from one place to another",
-    "cmu": [
-      "T",
-      "R",
-      "AE1",
-      "V",
-      "AH0",
-      "L",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the act of going from one place to another"
   },
   {
     "word": "veiled",
     "partOfSpeech": "adjective",
     "zipf": 3.26,
     "score": 45.6,
-    "definition": "having or as if having a veil or concealing cover",
-    "cmu": [
-      "V",
-      "EY1",
-      "L",
-      "D"
-    ]
+    "definition": "having or as if having a veil or concealing cover"
   },
   {
     "word": "colours",
     "partOfSpeech": "noun",
     "zipf": 4.15,
     "score": 45.5,
-    "definition": "a distinguishing emblem",
-    "cmu": [
-      "K",
-      "AH1",
-      "L",
-      "ER0",
-      "Z"
-    ]
+    "definition": "a distinguishing emblem"
   },
   {
     "word": "costa",
     "partOfSpeech": "noun",
     "zipf": 4.15,
     "score": 45.5,
-    "definition": "a riblike part of a plant or animal (such as a middle rib of a leaf or a thickened vein of an insect wing)",
-    "cmu": [
-      "K",
-      "AO1",
-      "S",
-      "T",
-      "AA0"
-    ]
+    "definition": "a riblike part of a plant or animal (such as a middle rib of a leaf or a thickened vein of an insect wing)"
   },
   {
     "word": "smiling",
     "partOfSpeech": "noun",
     "zipf": 4.15,
     "score": 45.5,
-    "definition": "a facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement",
-    "cmu": [
-      "S",
-      "M",
-      "AY1",
-      "L",
-      "IH0",
-      "NG"
-    ]
+    "definition": "a facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement"
   },
   {
     "word": "stakes",
     "partOfSpeech": "noun",
     "zipf": 4.02,
     "score": 45.4,
-    "definition": "the money risked on a gamble",
-    "cmu": [
-      "S",
-      "T",
-      "EY1",
-      "K",
-      "S"
-    ]
+    "definition": "the money risked on a gamble"
   },
   {
     "word": "threaded",
     "partOfSpeech": "adjective",
     "zipf": 3.23,
     "score": 45.3,
-    "definition": "(of bolts or screws) having screw threads",
-    "cmu": [
-      "TH",
-      "R",
-      "EH1",
-      "D",
-      "IH0",
-      "D"
-    ]
+    "definition": "(of bolts or screws) having screw threads"
   },
   {
     "word": "stemmed",
     "partOfSpeech": "adjective",
     "zipf": 3.21,
     "score": 45.1,
-    "definition": "having a stem or stems or having a stem as specified; often used in combination",
-    "cmu": [
-      "S",
-      "T",
-      "EH1",
-      "M",
-      "D"
-    ]
+    "definition": "having a stem or stems or having a stem as specified; often used in combination"
   },
   {
     "word": "pressing",
     "partOfSpeech": "noun",
     "zipf": 4.08,
     "score": 44.8,
-    "definition": "the act of pressing; the exertion of pressure",
-    "cmu": [
-      "P",
-      "R",
-      "EH1",
-      "S",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the act of pressing; the exertion of pressure"
   },
   {
     "word": "viewing",
     "partOfSpeech": "noun",
     "zipf": 4.08,
     "score": 44.8,
-    "definition": "the display of a motion picture",
-    "cmu": [
-      "V",
-      "Y",
-      "UW1",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the display of a motion picture"
   },
   {
     "word": "deceased",
     "partOfSpeech": "noun",
     "zipf": 3.96,
     "score": 44.8,
-    "definition": "someone who is no longer alive",
-    "cmu": [
-      "D",
-      "IH0",
-      "S",
-      "IY1",
-      "S",
-      "T"
-    ]
+    "definition": "someone who is no longer alive"
   },
   {
     "word": "shorts",
     "partOfSpeech": "noun",
     "zipf": 4.07,
     "score": 44.7,
-    "definition": "trousers that end at or above the knee",
-    "cmu": [
-      "SH",
-      "AO1",
-      "R",
-      "T",
-      "S"
-    ]
+    "definition": "trousers that end at or above the knee"
   },
   {
     "word": "cooling",
     "partOfSpeech": "noun",
     "zipf": 4.06,
     "score": 44.6,
-    "definition": "the process of becoming cooler; a falling temperature",
-    "cmu": [
-      "K",
-      "UW1",
-      "L",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the process of becoming cooler; a falling temperature"
   },
   {
     "word": "packing",
     "partOfSpeech": "noun",
     "zipf": 4.06,
     "score": 44.6,
-    "definition": "any material used especially to protect something",
-    "cmu": [
-      "P",
-      "AE1",
-      "K",
-      "IH0",
-      "NG"
-    ]
+    "definition": "any material used especially to protect something"
   },
   {
     "word": "switching",
     "partOfSpeech": "noun",
     "zipf": 4.06,
     "score": 44.6,
-    "definition": "the act of changing one thing or position for another",
-    "cmu": [
-      "S",
-      "W",
-      "IH1",
-      "CH",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the act of changing one thing or position for another"
   },
   {
     "word": "bordered",
     "partOfSpeech": "adjective",
     "zipf": 3.16,
     "score": 44.6,
-    "definition": "having a border especially of a specified kind; sometimes used as a combining term",
-    "cmu": [
-      "B",
-      "AO1",
-      "R",
-      "D",
-      "ER0",
-      "D"
-    ]
+    "definition": "having a border especially of a specified kind; sometimes used as a combining term"
   },
   {
     "word": "lighted",
     "partOfSpeech": "adjective",
     "zipf": 3.16,
     "score": 44.6,
-    "definition": "set afire or burning",
-    "cmu": [
-      "L",
-      "AY1",
-      "T",
-      "AH0",
-      "D"
-    ]
-  },
-  {
-    "word": "filing",
-    "partOfSpeech": "noun",
-    "zipf": 4.05,
-    "score": 44.5,
-    "definition": "the entering of a legal document into the public record",
-    "cmu": [
-      "F",
-      "AY1",
-      "L",
-      "IH0",
-      "NG"
-    ]
-  },
-  {
-    "word": "strings",
-    "partOfSpeech": "noun",
-    "zipf": 4.04,
-    "score": 44.4,
-    "definition": "the section of an orchestra that plays stringed instruments",
-    "cmu": [
-      "S",
-      "T",
-      "R",
-      "IH1",
-      "NG",
-      "Z"
-    ]
+    "definition": "set afire or burning"
   }
 ]

@@ -1,0 +1,702 @@
+[
+  {
+    "word": "porphyritic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.65,
+    "score": 29.5,
+    "definition": "(of rocks) consisting of porphyry or containing large crystals in a fine groundmass of minerals"
+  },
+  {
+    "word": "prolix",
+    "partOfSpeech": "adjective",
+    "zipf": 1.65,
+    "score": 29.5,
+    "definition": "tediously prolonged or tending to speak or write at great length"
+  },
+  {
+    "word": "tittering",
+    "partOfSpeech": "adjective",
+    "zipf": 1.65,
+    "score": 29.5,
+    "definition": "being or sounding of nervous or suppressed laughter"
+  },
+  {
+    "word": "undescended",
+    "partOfSpeech": "adjective",
+    "zipf": 1.65,
+    "score": 29.5,
+    "definition": "(of the testis) remaining in the abdomen instead of descending into the scrotum"
+  },
+  {
+    "word": "unowned",
+    "partOfSpeech": "adjective",
+    "zipf": 1.65,
+    "score": 29.5,
+    "definition": "having no owner"
+  },
+  {
+    "word": "ursine",
+    "partOfSpeech": "adjective",
+    "zipf": 1.65,
+    "score": 29.5,
+    "definition": "of or relating to or similar to bears"
+  },
+  {
+    "word": "xeric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.65,
+    "score": 29.5,
+    "definition": "being deficient in moisture"
+  },
+  {
+    "word": "flocculate",
+    "partOfSpeech": "verb",
+    "zipf": 1.15,
+    "score": 29.5,
+    "definition": "form into an aggregated lumpy or fluffy mass"
+  },
+  {
+    "word": "sentimentalize",
+    "partOfSpeech": "verb",
+    "zipf": 1.15,
+    "score": 29.5,
+    "definition": "look at with sentimentality or turn into an object of sentiment"
+  },
+  {
+    "word": "signalize",
+    "partOfSpeech": "verb",
+    "zipf": 1.03,
+    "score": 29.5,
+    "definition": "provide with traffic signals"
+  },
+  {
+    "word": "transmigrate",
+    "partOfSpeech": "verb",
+    "zipf": 1.03,
+    "score": 29.5,
+    "definition": "be born anew in another body after death"
+  },
+  {
+    "word": "privateer",
+    "partOfSpeech": "noun",
+    "zipf": 2.54,
+    "score": 29.4,
+    "definition": "an officer or crew member of a privateer"
+  },
+  {
+    "word": "carting",
+    "partOfSpeech": "noun",
+    "zipf": 2.42,
+    "score": 29.4,
+    "definition": "the work of taking something away in a cart or truck and disposing of it"
+  },
+  {
+    "word": "ironworks",
+    "partOfSpeech": "noun",
+    "zipf": 2.42,
+    "score": 29.4,
+    "definition": "the workplace where iron is smelted or where iron goods are made"
+  },
+  {
+    "word": "scrambler",
+    "partOfSpeech": "noun",
+    "zipf": 2.42,
+    "score": 29.4,
+    "definition": "a rapid mover; someone who scrambles"
+  },
+  {
+    "word": "sociologically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.94,
+    "score": 29.4,
+    "definition": "with regard to sociology"
+  },
+  {
+    "word": "tamely",
+    "partOfSpeech": "adverb",
+    "zipf": 1.94,
+    "score": 29.4,
+    "definition": "in a tame manner"
+  },
+  {
+    "word": "aphoristic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.64,
+    "score": 29.4,
+    "definition": "containing aphorisms or maxims"
+  },
+  {
+    "word": "deistic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.64,
+    "score": 29.4,
+    "definition": "of or relating to deism"
+  },
+  {
+    "word": "dramaturgical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.64,
+    "score": 29.4,
+    "definition": "relating to the technical aspects of drama"
+  },
+  {
+    "word": "epiphyseal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.64,
+    "score": 29.4,
+    "definition": "relating to the epiphysis of a bone"
+  },
+  {
+    "word": "erythematous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.64,
+    "score": 29.4,
+    "definition": "relating to or characterized by erythema"
+  },
+  {
+    "word": "sinistral",
+    "partOfSpeech": "adjective",
+    "zipf": 1.64,
+    "score": 29.4,
+    "definition": "of or on the left"
+  },
+  {
+    "word": "uncrossed",
+    "partOfSpeech": "adjective",
+    "zipf": 1.64,
+    "score": 29.4,
+    "definition": "(of a check) not crossed"
+  },
+  {
+    "word": "anathematize",
+    "partOfSpeech": "verb",
+    "zipf": 1.14,
+    "score": 29.4,
+    "definition": "curse or declare to be evil or anathema or threaten with divine punishment"
+  },
+  {
+    "word": "appose",
+    "partOfSpeech": "verb",
+    "zipf": 1.14,
+    "score": 29.4,
+    "definition": "place side by side or in close proximity"
+  },
+  {
+    "word": "becloud",
+    "partOfSpeech": "verb",
+    "zipf": 1.14,
+    "score": 29.4,
+    "definition": "make less visible or unclear"
+  },
+  {
+    "word": "predecease",
+    "partOfSpeech": "verb",
+    "zipf": 1.14,
+    "score": 29.4,
+    "definition": "die before; die earlier than"
+  },
+  {
+    "word": "upraise",
+    "partOfSpeech": "verb",
+    "zipf": 1.14,
+    "score": 29.4,
+    "definition": "cause to become alive again"
+  },
+  {
+    "word": "valuate",
+    "partOfSpeech": "verb",
+    "zipf": 1.14,
+    "score": 29.4,
+    "definition": "evaluate or estimate the nature, quality, ability, extent, or significance of"
+  },
+  {
+    "word": "gripes",
+    "partOfSpeech": "noun",
+    "zipf": 2.53,
+    "score": 29.3,
+    "definition": "acute abdominal pain (especially in infants)"
+  },
+  {
+    "word": "succubus",
+    "partOfSpeech": "noun",
+    "zipf": 2.53,
+    "score": 29.3,
+    "definition": "a female demon believed to have sexual intercourse with sleeping men"
+  },
+  {
+    "word": "trna",
+    "partOfSpeech": "noun",
+    "zipf": 2.53,
+    "score": 29.3,
+    "definition": "RNA molecules present in the cell (in at least 20 varieties, each variety capable of combining with a specific amino acid) that attach the correct amino acid to the protein chain that is being synthesized at the ribosome of the cell (according to directions coded in the mRNA)"
+  },
+  {
+    "word": "berserker",
+    "partOfSpeech": "noun",
+    "zipf": 2.41,
+    "score": 29.3,
+    "definition": "one of the ancient Norse warriors legendary for working themselves into a frenzy before a battle and fighting with reckless savagery and insane fury"
+  },
+  {
+    "word": "fuckhead",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "score": 29.3,
+    "definition": "a stupid person; these words are used to express a low opinion of someone's intelligence"
+  },
+  {
+    "word": "pejoratively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.93,
+    "score": 29.3,
+    "definition": "in a pejorative manner"
+  },
+  {
+    "word": "scathingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.93,
+    "score": 29.3,
+    "definition": "in a scathing and unsparing manner"
+  },
+  {
+    "word": "endogamous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.63,
+    "score": 29.3,
+    "definition": "characterized by or fit for fertilization by pollen from another flower of the same kind"
+  },
+  {
+    "word": "erythroid",
+    "partOfSpeech": "adjective",
+    "zipf": 1.63,
+    "score": 29.3,
+    "definition": "relating to erythrocytes"
+  },
+  {
+    "word": "haematological",
+    "partOfSpeech": "adjective",
+    "zipf": 1.63,
+    "score": 29.3,
+    "definition": "of or relating to or involved in hematology"
+  },
+  {
+    "word": "haemolytic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.63,
+    "score": 29.3,
+    "definition": "relating to or involving or causing hemolysis"
+  },
+  {
+    "word": "telluric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.63,
+    "score": 29.3,
+    "definition": "of or relating to or containing the chemical element tellurium"
+  },
+  {
+    "word": "expectorate",
+    "partOfSpeech": "verb",
+    "zipf": 1.13,
+    "score": 29.3,
+    "definition": "clear out the chest and lungs"
+  },
+  {
+    "word": "hyperextend",
+    "partOfSpeech": "verb",
+    "zipf": 1.13,
+    "score": 29.3,
+    "definition": "extend a joint beyond its normal range"
+  },
+  {
+    "word": "masculinize",
+    "partOfSpeech": "verb",
+    "zipf": 1.13,
+    "score": 29.3,
+    "definition": "give a masculine appearance or character to"
+  },
+  {
+    "word": "mistime",
+    "partOfSpeech": "verb",
+    "zipf": 1.13,
+    "score": 29.3,
+    "definition": "time incorrectly"
+  },
+  {
+    "word": "predestinate",
+    "partOfSpeech": "verb",
+    "zipf": 1.13,
+    "score": 29.3,
+    "definition": "foreordain by divine will or decree"
+  },
+  {
+    "word": "vitrify",
+    "partOfSpeech": "verb",
+    "zipf": 1.13,
+    "score": 29.3,
+    "definition": "change into glass or a glass-like substance by applying heat"
+  },
+  {
+    "word": "volatilize",
+    "partOfSpeech": "verb",
+    "zipf": 1.13,
+    "score": 29.3,
+    "definition": "make volatile; cause to pass off in a vapor"
+  },
+  {
+    "word": "vivisect",
+    "partOfSpeech": "verb",
+    "zipf": 1.01,
+    "score": 29.3,
+    "definition": "cut (a body) open while still alive"
+  },
+  {
+    "word": "boogeyman",
+    "partOfSpeech": "noun",
+    "zipf": 2.52,
+    "score": 29.2,
+    "definition": "an imaginary monster used to frighten children"
+  },
+  {
+    "word": "camellia",
+    "partOfSpeech": "noun",
+    "zipf": 2.52,
+    "score": 29.2,
+    "definition": "any of several shrubs or small evergreen trees having solitary white or pink or reddish flowers"
+  },
+  {
+    "word": "chine",
+    "partOfSpeech": "noun",
+    "zipf": 2.52,
+    "score": 29.2,
+    "definition": "cut of meat or fish including at least part of the backbone"
+  },
+  {
+    "word": "clostridium",
+    "partOfSpeech": "noun",
+    "zipf": 2.52,
+    "score": 29.2,
+    "definition": "spindle-shaped bacterial cell especially one swollen at the center by an endospore"
+  },
+  {
+    "word": "keyboardist",
+    "partOfSpeech": "noun",
+    "zipf": 2.52,
+    "score": 29.2,
+    "definition": "a musician who plays a keyboard instrument"
+  },
+  {
+    "word": "mongo",
+    "partOfSpeech": "noun",
+    "zipf": 2.52,
+    "score": 29.2,
+    "definition": "100 mongo equal 1 tugrik in Mongolia"
+  },
+  {
+    "word": "panelling",
+    "partOfSpeech": "noun",
+    "zipf": 2.52,
+    "score": 29.2,
+    "definition": "a panel or section of panels in a wall or door"
+  },
+  {
+    "word": "funnies",
+    "partOfSpeech": "noun",
+    "zipf": 2.4,
+    "score": 29.2,
+    "definition": "a sequence of drawings telling a story in a newspaper or comic book"
+  },
+  {
+    "word": "slaver",
+    "partOfSpeech": "noun",
+    "zipf": 2.4,
+    "score": 29.2,
+    "definition": "a person engaged in slave trade"
+  },
+  {
+    "word": "bonehead",
+    "partOfSpeech": "noun",
+    "zipf": 2.28,
+    "score": 29.2,
+    "definition": "a stupid person; these words are used to express a low opinion of someone's intelligence"
+  },
+  {
+    "word": "cultivator",
+    "partOfSpeech": "noun",
+    "zipf": 2.28,
+    "score": 29.2,
+    "definition": "someone concerned with the science or art or business of cultivating the soil"
+  },
+  {
+    "word": "submitter",
+    "partOfSpeech": "noun",
+    "zipf": 2.28,
+    "score": 29.2,
+    "definition": "someone who yields to the will of another person or force"
+  },
+  {
+    "word": "lucidly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.92,
+    "score": 29.2,
+    "definition": "in a clear and lucid manner"
+  },
+  {
+    "word": "maternally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.92,
+    "score": 29.2,
+    "definition": "in a maternal manner; as a mother"
+  },
+  {
+    "word": "potently",
+    "partOfSpeech": "adverb",
+    "zipf": 1.92,
+    "score": 29.2,
+    "definition": "in a manner having a powerful influence"
+  },
+  {
+    "word": "aldermanic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.62,
+    "score": 29.2,
+    "definition": "of or relating to or like an alderman"
+  },
+  {
+    "word": "biogeographical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.62,
+    "score": 29.2,
+    "definition": "of or relating to or involved with biogeography"
+  },
+  {
+    "word": "brahminical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.62,
+    "score": 29.2,
+    "definition": "of or relating to or characteristic of a brahmin"
+  },
+  {
+    "word": "chalybeate",
+    "partOfSpeech": "adjective",
+    "zipf": 1.62,
+    "score": 29.2,
+    "definition": "containing or impregnated with or tasting of iron"
+  },
+  {
+    "word": "congruous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.62,
+    "score": 29.2,
+    "definition": "corresponding in character or kind"
+  },
+  {
+    "word": "connubial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.62,
+    "score": 29.2,
+    "definition": "of or relating to marriage or to the relationship between a wife and husband"
+  },
+  {
+    "word": "counterterror",
+    "partOfSpeech": "adjective",
+    "zipf": 1.62,
+    "score": 29.2,
+    "definition": "intended to prevent terrorism"
+  },
+  {
+    "word": "hatless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.62,
+    "score": 29.2,
+    "definition": "not wearing a hat"
+  },
+  {
+    "word": "lumbosacral",
+    "partOfSpeech": "adjective",
+    "zipf": 1.62,
+    "score": 29.2,
+    "definition": "of or relating to or near the small of the back and the back part of the pelvis between the hips"
+  },
+  {
+    "word": "neocortical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.62,
+    "score": 29.2,
+    "definition": "of or relating to the neocortex of the cerebrum"
+  },
+  {
+    "word": "organismic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.62,
+    "score": 29.2,
+    "definition": "of or relating to or belonging to an organism (considered as a whole)"
+  },
+  {
+    "word": "pyrolytic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.62,
+    "score": 29.2,
+    "definition": "resulting from pyrolysis"
+  },
+  {
+    "word": "saccadic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.62,
+    "score": 29.2,
+    "definition": "of or related to the rapid movement of the eyes between points of fixation"
+  },
+  {
+    "word": "scalene",
+    "partOfSpeech": "adjective",
+    "zipf": 1.62,
+    "score": 29.2,
+    "definition": "of a triangle having three sides of different lengths"
+  },
+  {
+    "word": "spermatic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.62,
+    "score": 29.2,
+    "definition": "consisting of or resembling spermatozoa"
+  },
+  {
+    "word": "sympathomimetic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.62,
+    "score": 29.2,
+    "definition": "relating to epinephrine (its release or action)"
+  },
+  {
+    "word": "rusticate",
+    "partOfSpeech": "verb",
+    "zipf": 1.12,
+    "score": 29.2,
+    "definition": "live in the country and lead a rustic life"
+  },
+  {
+    "word": "totalize",
+    "partOfSpeech": "verb",
+    "zipf": 1.12,
+    "score": 29.2,
+    "definition": "make into a total"
+  },
+  {
+    "word": "transship",
+    "partOfSpeech": "verb",
+    "zipf": 1.12,
+    "score": 29.2,
+    "definition": "transfer for further transportation from one ship or conveyance to another"
+  },
+  {
+    "word": "duce",
+    "partOfSpeech": "noun",
+    "zipf": 2.51,
+    "score": 29.1,
+    "definition": "leader"
+  },
+  {
+    "word": "housemaid",
+    "partOfSpeech": "noun",
+    "zipf": 2.51,
+    "score": 29.1,
+    "definition": "a female domestic"
+  },
+  {
+    "word": "neocon",
+    "partOfSpeech": "noun",
+    "zipf": 2.51,
+    "score": 29.1,
+    "definition": "a conservative who subscribes to neoconservatism"
+  },
+  {
+    "word": "peshmerga",
+    "partOfSpeech": "noun",
+    "zipf": 2.51,
+    "score": 29.1,
+    "definition": "a member of a Kurdish guerilla organization that fights for a free Kurdish state"
+  },
+  {
+    "word": "sabra",
+    "partOfSpeech": "noun",
+    "zipf": 2.51,
+    "score": 29.1,
+    "definition": "a native-born Israeli"
+  },
+  {
+    "word": "fencer",
+    "partOfSpeech": "noun",
+    "zipf": 2.39,
+    "score": 29.1,
+    "definition": "someone skilled at fencing"
+  },
+  {
+    "word": "immunosuppressive",
+    "partOfSpeech": "noun",
+    "zipf": 2.39,
+    "score": 29.1,
+    "definition": "a drug that lowers the body's normal immune response"
+  },
+  {
+    "word": "radiantly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.91,
+    "score": 29.1,
+    "definition": "in a radiant manner"
+  },
+  {
+    "word": "alienable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.61,
+    "score": 29.1,
+    "definition": "transferable to another owner"
+  },
+  {
+    "word": "apsidal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.61,
+    "score": 29.1,
+    "definition": "of or relating to an apse"
+  },
+  {
+    "word": "aspectual",
+    "partOfSpeech": "adjective",
+    "zipf": 1.61,
+    "score": 29.1,
+    "definition": "of or belonging to an aspect (as an aspect of the verb)"
+  },
+  {
+    "word": "autotrophic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.61,
+    "score": 29.1,
+    "definition": "of or relating to organisms (as green plants) that can make complex organic nutritive compounds from simple inorganic sources by photosynthesis"
+  },
+  {
+    "word": "calcaneal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.61,
+    "score": 29.1,
+    "definition": "relating to the heel bone or heel"
+  },
+  {
+    "word": "cosmogenic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.61,
+    "score": 29.1,
+    "definition": "pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe"
+  },
+  {
+    "word": "footless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.61,
+    "score": 29.1,
+    "definition": "having no feet or analogous appendages"
+  },
+  {
+    "word": "myotonic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.61,
+    "score": 29.1,
+    "definition": "of or relating to or caused by myotonia"
+  }
+]

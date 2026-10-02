@@ -1,0 +1,702 @@
+[
+  {
+    "word": "puerperal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.8,
+    "score": 31.0,
+    "definition": "relating to or connected with or occurring at the time of childbirth or shortly following, or to the woman who has just given birth"
+  },
+  {
+    "word": "seraphic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.8,
+    "score": 31.0,
+    "definition": "of or relating to an angel of the first order"
+  },
+  {
+    "word": "transcutaneous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.8,
+    "score": 31.0,
+    "definition": "through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches)"
+  },
+  {
+    "word": "unlabelled",
+    "partOfSpeech": "adjective",
+    "zipf": 1.8,
+    "score": 31.0,
+    "definition": "lacking a label or tag"
+  },
+  {
+    "word": "unstudied",
+    "partOfSpeech": "adjective",
+    "zipf": 1.8,
+    "score": 31.0,
+    "definition": "not by design or artifice; unforced and impromptu"
+  },
+  {
+    "word": "advertize",
+    "partOfSpeech": "verb",
+    "zipf": 1.3,
+    "score": 31.0,
+    "definition": "make publicity for; try to sell (a product)"
+  },
+  {
+    "word": "chaffer",
+    "partOfSpeech": "verb",
+    "zipf": 1.3,
+    "score": 31.0,
+    "definition": "wrangle (over a price, terms of an agreement, etc.)"
+  },
+  {
+    "word": "politick",
+    "partOfSpeech": "verb",
+    "zipf": 1.3,
+    "score": 31.0,
+    "definition": "engage in political activities"
+  },
+  {
+    "word": "proselytise",
+    "partOfSpeech": "verb",
+    "zipf": 1.3,
+    "score": 31.0,
+    "definition": "convert to another faith or religion"
+  },
+  {
+    "word": "coursing",
+    "partOfSpeech": "noun",
+    "zipf": 2.69,
+    "score": 30.9,
+    "definition": "hunting with dogs (usually greyhounds) that are trained to chase game (such as hares) by sight instead of by scent"
+  },
+  {
+    "word": "dominos",
+    "partOfSpeech": "noun",
+    "zipf": 2.69,
+    "score": 30.9,
+    "definition": "any of several games played with small rectangular blocks"
+  },
+  {
+    "word": "flanker",
+    "partOfSpeech": "noun",
+    "zipf": 2.69,
+    "score": 30.9,
+    "definition": "a back stationed wide of the scrimmage line; used as a pass receiver"
+  },
+  {
+    "word": "toasting",
+    "partOfSpeech": "noun",
+    "zipf": 2.69,
+    "score": 30.9,
+    "definition": "cooking to a brown crispiness over a fire or on a grill"
+  },
+  {
+    "word": "aperiodic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.79,
+    "score": 30.9,
+    "definition": "not recurring at regular intervals"
+  },
+  {
+    "word": "cadaveric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.79,
+    "score": 30.9,
+    "definition": "of or relating to a cadaver or corpse"
+  },
+  {
+    "word": "cognizable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.79,
+    "score": 30.9,
+    "definition": "capable of being known"
+  },
+  {
+    "word": "exoteric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.79,
+    "score": 30.9,
+    "definition": "suitable for the general public"
+  },
+  {
+    "word": "icosahedral",
+    "partOfSpeech": "adjective",
+    "zipf": 1.79,
+    "score": 30.9,
+    "definition": "of or relating to an icosahedron"
+  },
+  {
+    "word": "ontogenetic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.79,
+    "score": 30.9,
+    "definition": "of or relating to the origin and development of individual organisms"
+  },
+  {
+    "word": "organismal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.79,
+    "score": 30.9,
+    "definition": "of or relating to or belonging to an organism (considered as a whole)"
+  },
+  {
+    "word": "polyvalent",
+    "partOfSpeech": "adjective",
+    "zipf": 1.79,
+    "score": 30.9,
+    "definition": "containing several antibodies each capable of counteracting a specific antigen"
+  },
+  {
+    "word": "rationalistic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.79,
+    "score": 30.9,
+    "definition": "of or relating to the philosophical doctrine of rationalism"
+  },
+  {
+    "word": "wigged",
+    "partOfSpeech": "adjective",
+    "zipf": 1.79,
+    "score": 30.9,
+    "definition": "wearing a wig"
+  },
+  {
+    "word": "actualise",
+    "partOfSpeech": "verb",
+    "zipf": 1.29,
+    "score": 30.9,
+    "definition": "make real or concrete; give reality or substance to"
+  },
+  {
+    "word": "anastomose",
+    "partOfSpeech": "verb",
+    "zipf": 1.29,
+    "score": 30.9,
+    "definition": "come together or open into each other"
+  },
+  {
+    "word": "circumambulate",
+    "partOfSpeech": "verb",
+    "zipf": 1.29,
+    "score": 30.9,
+    "definition": "walk around something"
+  },
+  {
+    "word": "mythologize",
+    "partOfSpeech": "verb",
+    "zipf": 1.29,
+    "score": 30.9,
+    "definition": "construct a myth"
+  },
+  {
+    "word": "nobble",
+    "partOfSpeech": "verb",
+    "zipf": 1.29,
+    "score": 30.9,
+    "definition": "deprive of by deceit"
+  },
+  {
+    "word": "underspend",
+    "partOfSpeech": "verb",
+    "zipf": 1.29,
+    "score": 30.9,
+    "definition": "spend less than the whole of (a budget, for example)"
+  },
+  {
+    "word": "unlace",
+    "partOfSpeech": "verb",
+    "zipf": 1.29,
+    "score": 30.9,
+    "definition": "undo the ties of"
+  },
+  {
+    "word": "wreathe",
+    "partOfSpeech": "verb",
+    "zipf": 1.29,
+    "score": 30.9,
+    "definition": "move with slow, sinuous movements"
+  },
+  {
+    "word": "canfield",
+    "partOfSpeech": "noun",
+    "zipf": 2.68,
+    "score": 30.8,
+    "definition": "a form of solitaire that involves gambling"
+  },
+  {
+    "word": "fmri",
+    "partOfSpeech": "noun",
+    "zipf": 2.68,
+    "score": 30.8,
+    "definition": "a form of magnetic resonance imaging of the brain that registers blood flow to functioning areas of the brain"
+  },
+  {
+    "word": "quilting",
+    "partOfSpeech": "noun",
+    "zipf": 2.68,
+    "score": 30.8,
+    "definition": "stitching through layers of fabric and a filling so as to create a design"
+  },
+  {
+    "word": "squaw",
+    "partOfSpeech": "noun",
+    "zipf": 2.68,
+    "score": 30.8,
+    "definition": "an American Indian woman"
+  },
+  {
+    "word": "homophobe",
+    "partOfSpeech": "noun",
+    "zipf": 2.56,
+    "score": 30.8,
+    "definition": "a person who hates or fears homosexual people"
+  },
+  {
+    "word": "rationalist",
+    "partOfSpeech": "noun",
+    "zipf": 2.56,
+    "score": 30.8,
+    "definition": "someone who emphasizes observable facts and excludes metaphysical speculation about origins or ultimate causes"
+  },
+  {
+    "word": "loaner",
+    "partOfSpeech": "noun",
+    "zipf": 2.32,
+    "score": 30.8,
+    "definition": "someone who lends money or gives credit in business matters"
+  },
+  {
+    "word": "allylic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.78,
+    "score": 30.8,
+    "definition": "of or pertaining to the allyl radical"
+  },
+  {
+    "word": "cementitious",
+    "partOfSpeech": "adjective",
+    "zipf": 1.78,
+    "score": 30.8,
+    "definition": "like or relevant to or having the properties of cement"
+  },
+  {
+    "word": "ceremonious",
+    "partOfSpeech": "adjective",
+    "zipf": 1.78,
+    "score": 30.8,
+    "definition": "characterized by pomp and ceremony and stately display"
+  },
+  {
+    "word": "dicarboxylic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.78,
+    "score": 30.8,
+    "definition": "containing two carboxyls per molecule"
+  },
+  {
+    "word": "effortful",
+    "partOfSpeech": "adjective",
+    "zipf": 1.78,
+    "score": 30.8,
+    "definition": "requiring great physical effort"
+  },
+  {
+    "word": "oligarchical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.78,
+    "score": 30.8,
+    "definition": "of or relating to or supporting or characteristic of an oligarchy"
+  },
+  {
+    "word": "pyloric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.78,
+    "score": 30.8,
+    "definition": "relating to or near the pylorus"
+  },
+  {
+    "word": "residuary",
+    "partOfSpeech": "adjective",
+    "zipf": 1.78,
+    "score": 30.8,
+    "definition": "entitled to the residue of an estate (after payment of debts and specific gifts)"
+  },
+  {
+    "word": "stative",
+    "partOfSpeech": "adjective",
+    "zipf": 1.78,
+    "score": 30.8,
+    "definition": "( used of verbs (e.g. `be' or `own') and most participial adjectives) expressing existence or a state rather than an action"
+  },
+  {
+    "word": "uncleared",
+    "partOfSpeech": "adjective",
+    "zipf": 1.78,
+    "score": 30.8,
+    "definition": "not cleared; not rid of objects or obstructions"
+  },
+  {
+    "word": "unshaved",
+    "partOfSpeech": "adjective",
+    "zipf": 1.78,
+    "score": 30.8,
+    "definition": "not shaved"
+  },
+  {
+    "word": "volar",
+    "partOfSpeech": "adjective",
+    "zipf": 1.78,
+    "score": 30.8,
+    "definition": "relating to the palm of the hand or the sole of the foot"
+  },
+  {
+    "word": "antedate",
+    "partOfSpeech": "verb",
+    "zipf": 1.28,
+    "score": 30.8,
+    "definition": "be earlier in time; go back further"
+  },
+  {
+    "word": "disorientate",
+    "partOfSpeech": "verb",
+    "zipf": 1.28,
+    "score": 30.8,
+    "definition": "cause to be lost or disoriented"
+  },
+  {
+    "word": "disport",
+    "partOfSpeech": "verb",
+    "zipf": 1.28,
+    "score": 30.8,
+    "definition": "occupy in an agreeable, entertaining or pleasant fashion"
+  },
+  {
+    "word": "glamorise",
+    "partOfSpeech": "verb",
+    "zipf": 1.28,
+    "score": 30.8,
+    "definition": "make glamorous and attractive"
+  },
+  {
+    "word": "maltreat",
+    "partOfSpeech": "verb",
+    "zipf": 1.28,
+    "score": 30.8,
+    "definition": "treat badly"
+  },
+  {
+    "word": "mislay",
+    "partOfSpeech": "verb",
+    "zipf": 1.28,
+    "score": 30.8,
+    "definition": "place (something) where one cannot find it again"
+  },
+  {
+    "word": "reline",
+    "partOfSpeech": "verb",
+    "zipf": 1.28,
+    "score": 30.8,
+    "definition": "provide with a new lining"
+  },
+  {
+    "word": "expatiate",
+    "partOfSpeech": "verb",
+    "zipf": 1.16,
+    "score": 30.8,
+    "definition": "add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing"
+  },
+  {
+    "word": "imperium",
+    "partOfSpeech": "noun",
+    "zipf": 2.67,
+    "score": 30.7,
+    "definition": "the domain ruled by an emperor or empress; the region over which imperial dominion is exercised"
+  },
+  {
+    "word": "magdalen",
+    "partOfSpeech": "noun",
+    "zipf": 2.67,
+    "score": 30.7,
+    "definition": "a reformed prostitute"
+  },
+  {
+    "word": "mews",
+    "partOfSpeech": "noun",
+    "zipf": 2.67,
+    "score": 30.7,
+    "definition": "street lined with buildings that were originally private stables but have been remodeled as dwellings"
+  },
+  {
+    "word": "swot",
+    "partOfSpeech": "noun",
+    "zipf": 2.67,
+    "score": 30.7,
+    "definition": "an insignificant student who is ridiculed as being affected or boringly studious"
+  },
+  {
+    "word": "takings",
+    "partOfSpeech": "noun",
+    "zipf": 2.67,
+    "score": 30.7,
+    "definition": "the income or profit arising from such transactions as the sale of land or other property"
+  },
+  {
+    "word": "shitter",
+    "partOfSpeech": "noun",
+    "zipf": 2.55,
+    "score": 30.7,
+    "definition": "a person who defecates"
+  },
+  {
+    "word": "avascular",
+    "partOfSpeech": "adjective",
+    "zipf": 1.77,
+    "score": 30.7,
+    "definition": "without blood vessels"
+  },
+  {
+    "word": "ethnographical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.77,
+    "score": 30.7,
+    "definition": "of or relating to ethnography"
+  },
+  {
+    "word": "sectorial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.77,
+    "score": 30.7,
+    "definition": "relating to or resembling a sector"
+  },
+  {
+    "word": "spinous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.77,
+    "score": 30.7,
+    "definition": "having spines"
+  },
+  {
+    "word": "thermic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.77,
+    "score": 30.7,
+    "definition": "relating to or associated with heat"
+  },
+  {
+    "word": "thinkable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.77,
+    "score": 30.7,
+    "definition": "capable of being conceived or imagined or considered"
+  },
+  {
+    "word": "vinous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.77,
+    "score": 30.7,
+    "definition": "of or relating to wine"
+  },
+  {
+    "word": "divaricate",
+    "partOfSpeech": "verb",
+    "zipf": 1.27,
+    "score": 30.7,
+    "definition": "branch off"
+  },
+  {
+    "word": "exorcize",
+    "partOfSpeech": "verb",
+    "zipf": 1.27,
+    "score": 30.7,
+    "definition": "expel through adjuration or prayers"
+  },
+  {
+    "word": "incarnadine",
+    "partOfSpeech": "verb",
+    "zipf": 1.27,
+    "score": 30.7,
+    "definition": "make flesh-colored"
+  },
+  {
+    "word": "kibitz",
+    "partOfSpeech": "verb",
+    "zipf": 1.27,
+    "score": 30.7,
+    "definition": "make unwanted and intrusive comments"
+  },
+  {
+    "word": "naturalise",
+    "partOfSpeech": "verb",
+    "zipf": 1.27,
+    "score": 30.7,
+    "definition": "adopt to another place"
+  },
+  {
+    "word": "professionalise",
+    "partOfSpeech": "verb",
+    "zipf": 1.27,
+    "score": 30.7,
+    "definition": "become professional or proceed in a professional manner or in an activity for pay or as a means of livelihood"
+  },
+  {
+    "word": "stonewash",
+    "partOfSpeech": "verb",
+    "zipf": 1.27,
+    "score": 30.7,
+    "definition": "wash with stones to achieve a worn appearance"
+  },
+  {
+    "word": "bitters",
+    "partOfSpeech": "noun",
+    "zipf": 2.66,
+    "score": 30.6,
+    "definition": "alcoholic liquor flavored with bitter herbs and roots"
+  },
+  {
+    "word": "snorkeling",
+    "partOfSpeech": "noun",
+    "zipf": 2.66,
+    "score": 30.6,
+    "definition": "skin diving with a snorkel"
+  },
+  {
+    "word": "solon",
+    "partOfSpeech": "noun",
+    "zipf": 2.66,
+    "score": 30.6,
+    "definition": "a man who is a respected leader in national or international affairs"
+  },
+  {
+    "word": "swerving",
+    "partOfSpeech": "noun",
+    "zipf": 2.66,
+    "score": 30.6,
+    "definition": "the act of turning aside suddenly"
+  },
+  {
+    "word": "escapist",
+    "partOfSpeech": "noun",
+    "zipf": 2.54,
+    "score": 30.6,
+    "definition": "a person who escapes into a world of fantasy"
+  },
+  {
+    "word": "postdoc",
+    "partOfSpeech": "noun",
+    "zipf": 2.54,
+    "score": 30.6,
+    "definition": "a grant that funds postdoctoral study or research"
+  },
+  {
+    "word": "draughtsman",
+    "partOfSpeech": "noun",
+    "zipf": 2.42,
+    "score": 30.6,
+    "definition": "a skilled worker who draws plans of buildings or machines"
+  },
+  {
+    "word": "acellular",
+    "partOfSpeech": "adjective",
+    "zipf": 1.76,
+    "score": 30.6,
+    "definition": "not made up of or divided into cells"
+  },
+  {
+    "word": "changeless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.76,
+    "score": 30.6,
+    "definition": "not subject or susceptible to change or variation in form or quality or nature"
+  },
+  {
+    "word": "cyanobacterial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.76,
+    "score": 30.6,
+    "definition": "relating to or caused by photosynthetic bacteria of the class Cyanobacteria"
+  },
+  {
+    "word": "flagellated",
+    "partOfSpeech": "adjective",
+    "zipf": 1.76,
+    "score": 30.6,
+    "definition": "having or resembling a lash or whip (as does a flagellum)"
+  },
+  {
+    "word": "leguminous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.76,
+    "score": 30.6,
+    "definition": "relating to or consisting of legumes"
+  },
+  {
+    "word": "monozygotic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.76,
+    "score": 30.6,
+    "definition": "derived from a single fertilized egg"
+  },
+  {
+    "word": "peroneal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.76,
+    "score": 30.6,
+    "definition": "of or relating to the fibula or the outer part of the leg below the knee"
+  },
+  {
+    "word": "phagocytic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.76,
+    "score": 30.6,
+    "definition": "capable of functioning as a phagocyte"
+  },
+  {
+    "word": "vasomotor",
+    "partOfSpeech": "adjective",
+    "zipf": 1.76,
+    "score": 30.6,
+    "definition": "relating to the nerves and muscles that cause the blood vessels to constrict or dilate"
+  },
+  {
+    "word": "beshrew",
+    "partOfSpeech": "verb",
+    "zipf": 1.26,
+    "score": 30.6,
+    "definition": "wish harm upon; invoke evil upon"
+  },
+  {
+    "word": "brutalise",
+    "partOfSpeech": "verb",
+    "zipf": 1.26,
+    "score": 30.6,
+    "definition": "treat brutally"
+  },
+  {
+    "word": "decarbonise",
+    "partOfSpeech": "verb",
+    "zipf": 1.26,
+    "score": 30.6,
+    "definition": "remove carbon from (an engine)"
+  },
+  {
+    "word": "enervate",
+    "partOfSpeech": "verb",
+    "zipf": 1.26,
+    "score": 30.6,
+    "definition": "weaken mentally or morally"
+  },
+  {
+    "word": "evanesce",
+    "partOfSpeech": "verb",
+    "zipf": 1.26,
+    "score": 30.6,
+    "definition": "disappear gradually"
+  },
+  {
+    "word": "fluoridate",
+    "partOfSpeech": "verb",
+    "zipf": 1.26,
+    "score": 30.6,
+    "definition": "subject to fluoridation; treat with fluoride"
+  }
+]

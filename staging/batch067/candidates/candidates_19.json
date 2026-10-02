@@ -1,0 +1,702 @@
+[
+  {
+    "word": "serologic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.61,
+    "score": 29.1,
+    "definition": "of or relating to serology"
+  },
+  {
+    "word": "unconsummated",
+    "partOfSpeech": "adjective",
+    "zipf": 1.61,
+    "score": 29.1,
+    "definition": "not consummated (especially of a marriage)"
+  },
+  {
+    "word": "zygotic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.61,
+    "score": 29.1,
+    "definition": "of or relating to a zygote"
+  },
+  {
+    "word": "collocate",
+    "partOfSpeech": "verb",
+    "zipf": 1.11,
+    "score": 29.1,
+    "definition": "have a strong tendency to occur side by side"
+  },
+  {
+    "word": "factorize",
+    "partOfSpeech": "verb",
+    "zipf": 1.11,
+    "score": 29.1,
+    "definition": "resolve (a polynomial) into factors"
+  },
+  {
+    "word": "flump",
+    "partOfSpeech": "verb",
+    "zipf": 1.11,
+    "score": 29.1,
+    "definition": "fall heavily"
+  },
+  {
+    "word": "randomise",
+    "partOfSpeech": "verb",
+    "zipf": 1.11,
+    "score": 29.1,
+    "definition": "arrange in random order"
+  },
+  {
+    "word": "reprehend",
+    "partOfSpeech": "verb",
+    "zipf": 1.11,
+    "score": 29.1,
+    "definition": "express strong disapproval of"
+  },
+  {
+    "word": "solemnise",
+    "partOfSpeech": "verb",
+    "zipf": 1.11,
+    "score": 29.1,
+    "definition": "observe or perform with dignity or gravity"
+  },
+  {
+    "word": "tinct",
+    "partOfSpeech": "verb",
+    "zipf": 1.11,
+    "score": 29.1,
+    "definition": "color lightly"
+  },
+  {
+    "word": "unman",
+    "partOfSpeech": "verb",
+    "zipf": 1.11,
+    "score": 29.1,
+    "definition": "cause to lose one's nerve"
+  },
+  {
+    "word": "vulcanize",
+    "partOfSpeech": "verb",
+    "zipf": 1.11,
+    "score": 29.1,
+    "definition": "undergo vulcanization"
+  },
+  {
+    "word": "barony",
+    "partOfSpeech": "noun",
+    "zipf": 2.5,
+    "score": 29.0,
+    "definition": "the estate of a baron"
+  },
+  {
+    "word": "cruiserweight",
+    "partOfSpeech": "noun",
+    "zipf": 2.5,
+    "score": 29.0,
+    "definition": "a professional boxer who weighs between 169 and 175 pounds"
+  },
+  {
+    "word": "havelock",
+    "partOfSpeech": "noun",
+    "zipf": 2.5,
+    "score": 29.0,
+    "definition": "a cloth covering for a service cap with a flap extending over the back of the neck to protect the neck from direct rays of the sun"
+  },
+  {
+    "word": "mariposa",
+    "partOfSpeech": "noun",
+    "zipf": 2.5,
+    "score": 29.0,
+    "definition": "any of several plants of the genus Calochortus having tulip-shaped flowers with 3 sepals and 3 petals; southwestern United States and Mexico"
+  },
+  {
+    "word": "existentialist",
+    "partOfSpeech": "noun",
+    "zipf": 2.38,
+    "score": 29.0,
+    "definition": "a philosopher who emphasizes freedom of choice and personal responsibility but who regards human existence in a hostile universe as unexplainable"
+  },
+  {
+    "word": "maintainer",
+    "partOfSpeech": "noun",
+    "zipf": 2.38,
+    "score": 29.0,
+    "definition": "someone who upholds or maintains"
+  },
+  {
+    "word": "personage",
+    "partOfSpeech": "noun",
+    "zipf": 2.38,
+    "score": 29.0,
+    "definition": "another word for person; a person not meriting identification"
+  },
+  {
+    "word": "crossways",
+    "partOfSpeech": "adverb",
+    "zipf": 1.9,
+    "score": 29.0,
+    "definition": "transversely"
+  },
+  {
+    "word": "engagingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.9,
+    "score": 29.0,
+    "definition": "in an engaging manner"
+  },
+  {
+    "word": "sentimentally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.9,
+    "score": 29.0,
+    "definition": "in a sentimental manner"
+  },
+  {
+    "word": "archipelagic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.6,
+    "score": 29.0,
+    "definition": "relating to or part of an archipelago"
+  },
+  {
+    "word": "birefringent",
+    "partOfSpeech": "adjective",
+    "zipf": 1.6,
+    "score": 29.0,
+    "definition": "relating to or characterized by double refraction"
+  },
+  {
+    "word": "diametric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.6,
+    "score": 29.0,
+    "definition": "related to or along a diameter"
+  },
+  {
+    "word": "pietistic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.6,
+    "score": 29.0,
+    "definition": "of or relating to Pietism"
+  },
+  {
+    "word": "premedical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.6,
+    "score": 29.0,
+    "definition": "preparing for the study of medicine"
+  },
+  {
+    "word": "spectrographic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.6,
+    "score": 29.0,
+    "definition": "relating to or employing a spectrograph"
+  },
+  {
+    "word": "stingless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.6,
+    "score": 29.0,
+    "definition": "without a sting"
+  },
+  {
+    "word": "syllogistic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.6,
+    "score": 29.0,
+    "definition": "of or relating to or consisting of syllogism"
+  },
+  {
+    "word": "unaccented",
+    "partOfSpeech": "adjective",
+    "zipf": 1.6,
+    "score": 29.0,
+    "definition": "used of syllables"
+  },
+  {
+    "word": "unhallowed",
+    "partOfSpeech": "adjective",
+    "zipf": 1.6,
+    "score": 29.0,
+    "definition": "not hallowed or consecrated"
+  },
+  {
+    "word": "virological",
+    "partOfSpeech": "adjective",
+    "zipf": 1.6,
+    "score": 29.0,
+    "definition": "of or relating to the science of virology"
+  },
+  {
+    "word": "wolfish",
+    "partOfSpeech": "adjective",
+    "zipf": 1.6,
+    "score": 29.0,
+    "definition": "resembling or characteristic (or considered characteristic) of a wolf"
+  },
+  {
+    "word": "autogenic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.48,
+    "score": 29.0,
+    "definition": "originating within the body"
+  },
+  {
+    "word": "medicolegal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.48,
+    "score": 29.0,
+    "definition": "pertaining to legal aspects of the practice of medicine (as malpractice or patient consent for operations or patient information)"
+  },
+  {
+    "word": "anatomize",
+    "partOfSpeech": "verb",
+    "zipf": 1.1,
+    "score": 29.0,
+    "definition": "dissect in order to analyze"
+  },
+  {
+    "word": "endue",
+    "partOfSpeech": "verb",
+    "zipf": 1.1,
+    "score": 29.0,
+    "definition": "give qualities or abilities to"
+  },
+  {
+    "word": "meliorate",
+    "partOfSpeech": "verb",
+    "zipf": 1.1,
+    "score": 29.0,
+    "definition": "to make better"
+  },
+  {
+    "word": "overpraise",
+    "partOfSpeech": "verb",
+    "zipf": 1.1,
+    "score": 29.0,
+    "definition": "praise excessively"
+  },
+  {
+    "word": "prettify",
+    "partOfSpeech": "verb",
+    "zipf": 1.1,
+    "score": 29.0,
+    "definition": "make more beautiful"
+  },
+  {
+    "word": "recopy",
+    "partOfSpeech": "verb",
+    "zipf": 1.1,
+    "score": 29.0,
+    "definition": "copy again"
+  },
+  {
+    "word": "unclutter",
+    "partOfSpeech": "verb",
+    "zipf": 1.1,
+    "score": 29.0,
+    "definition": "rid of obstructions"
+  },
+  {
+    "word": "uncompress",
+    "partOfSpeech": "verb",
+    "zipf": 1.1,
+    "score": 29.0,
+    "definition": "restore to its uncompressed form"
+  },
+  {
+    "word": "conductance",
+    "partOfSpeech": "noun",
+    "zipf": 2.49,
+    "score": 28.9,
+    "definition": "a material's capacity to conduct electricity; measured as the reciprocal of electrical resistance"
+  },
+  {
+    "word": "evaluator",
+    "partOfSpeech": "noun",
+    "zipf": 2.49,
+    "score": 28.9,
+    "definition": "an authority who is able to estimate worth or quality"
+  },
+  {
+    "word": "gynaecology",
+    "partOfSpeech": "noun",
+    "zipf": 2.49,
+    "score": 28.9,
+    "definition": "the branch of medicine that deals with the diseases and hygiene of women"
+  },
+  {
+    "word": "hermeneutics",
+    "partOfSpeech": "noun",
+    "zipf": 2.49,
+    "score": 28.9,
+    "definition": "the branch of theology that deals with principles of exegesis"
+  },
+  {
+    "word": "horseshoes",
+    "partOfSpeech": "noun",
+    "zipf": 2.49,
+    "score": 28.9,
+    "definition": "a game in which iron rings (or open iron rings) are thrown at a stake in the ground in the hope of encircling it"
+  },
+  {
+    "word": "metatarsal",
+    "partOfSpeech": "noun",
+    "zipf": 2.49,
+    "score": 28.9,
+    "definition": "any bone of the foot between the ankle and the toes"
+  },
+  {
+    "word": "mikado",
+    "partOfSpeech": "noun",
+    "zipf": 2.49,
+    "score": 28.9,
+    "definition": "the emperor of Japan; when regarded as a religious leader the emperor is called tenno"
+  },
+  {
+    "word": "minx",
+    "partOfSpeech": "noun",
+    "zipf": 2.49,
+    "score": 28.9,
+    "definition": "a seductive woman who uses her sex appeal to exploit men"
+  },
+  {
+    "word": "mycobacterium",
+    "partOfSpeech": "noun",
+    "zipf": 2.49,
+    "score": 28.9,
+    "definition": "rod-shaped bacteria some saprophytic or causing diseases"
+  },
+  {
+    "word": "paragliding",
+    "partOfSpeech": "noun",
+    "zipf": 2.49,
+    "score": 28.9,
+    "definition": "gliding in a parasail"
+  },
+  {
+    "word": "shoring",
+    "partOfSpeech": "noun",
+    "zipf": 2.49,
+    "score": 28.9,
+    "definition": "a beam or timber that is propped against a structure to provide support"
+  },
+  {
+    "word": "subjection",
+    "partOfSpeech": "noun",
+    "zipf": 2.49,
+    "score": 28.9,
+    "definition": "forced submission to control by others"
+  },
+  {
+    "word": "subwoofer",
+    "partOfSpeech": "noun",
+    "zipf": 2.49,
+    "score": 28.9,
+    "definition": "a loudspeaker that is designed to reproduce very low bass frequencies"
+  },
+  {
+    "word": "tripling",
+    "partOfSpeech": "noun",
+    "zipf": 2.49,
+    "score": 28.9,
+    "definition": "increase by a factor of three"
+  },
+  {
+    "word": "cartographer",
+    "partOfSpeech": "noun",
+    "zipf": 2.37,
+    "score": 28.9,
+    "definition": "a person who makes maps"
+  },
+  {
+    "word": "ulama",
+    "partOfSpeech": "noun",
+    "zipf": 2.25,
+    "score": 28.9,
+    "definition": "the body of Mullahs (Muslim scholars trained in Islam and Islamic law) who are the interpreters of Islam's sciences and doctrines and laws and the chief guarantors of continuity in the spiritual and intellectual history of the Islamic community"
+  },
+  {
+    "word": "abominably",
+    "partOfSpeech": "adverb",
+    "zipf": 1.89,
+    "score": 28.9,
+    "definition": "in an offensive and hateful manner"
+  },
+  {
+    "word": "animatedly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.89,
+    "score": 28.9,
+    "definition": "in an animated manner"
+  },
+  {
+    "word": "atypically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.89,
+    "score": 28.9,
+    "definition": "in a manner that is not typical"
+  },
+  {
+    "word": "conversationally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.89,
+    "score": 28.9,
+    "definition": "with the use of colloquial expressions"
+  },
+  {
+    "word": "enduringly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.89,
+    "score": 28.9,
+    "definition": "in an enduring manner"
+  },
+  {
+    "word": "ignominiously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.89,
+    "score": 28.9,
+    "definition": "in a dishonorable manner or to a dishonorable degree"
+  },
+  {
+    "word": "lustily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.89,
+    "score": 28.9,
+    "definition": "in a healthy manner"
+  },
+  {
+    "word": "tenuously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.89,
+    "score": 28.9,
+    "definition": "in a tenuous manner"
+  },
+  {
+    "word": "appositive",
+    "partOfSpeech": "adjective",
+    "zipf": 1.59,
+    "score": 28.9,
+    "definition": "relating to or being in apposition"
+  },
+  {
+    "word": "collagenous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.59,
+    "score": 28.9,
+    "definition": "relating to or consisting of collagen"
+  },
+  {
+    "word": "connotative",
+    "partOfSpeech": "adjective",
+    "zipf": 1.59,
+    "score": 28.9,
+    "definition": "having the power of implying or suggesting something in addition to what is explicit"
+  },
+  {
+    "word": "hierarchic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.59,
+    "score": 28.9,
+    "definition": "classified according to various criteria into successive levels or layers"
+  },
+  {
+    "word": "lobar",
+    "partOfSpeech": "adjective",
+    "zipf": 1.59,
+    "score": 28.9,
+    "definition": "of or relating to or affecting a lobe"
+  },
+  {
+    "word": "mesodermal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.59,
+    "score": 28.9,
+    "definition": "relating to or derived from the mesoderm"
+  },
+  {
+    "word": "necromantic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.59,
+    "score": 28.9,
+    "definition": "relating to or associated with necromancy"
+  },
+  {
+    "word": "prandial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.59,
+    "score": 28.9,
+    "definition": "of or relating to a meal"
+  },
+  {
+    "word": "resistible",
+    "partOfSpeech": "adjective",
+    "zipf": 1.59,
+    "score": 28.9,
+    "definition": "capable of being resisted or withstood or frustrated"
+  },
+  {
+    "word": "salvific",
+    "partOfSpeech": "adjective",
+    "zipf": 1.59,
+    "score": 28.9,
+    "definition": "pertaining to the power of salvation or redemption"
+  },
+  {
+    "word": "triclinic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.59,
+    "score": 28.9,
+    "definition": "having three unequal crystal axes intersecting at oblique angles"
+  },
+  {
+    "word": "fress",
+    "partOfSpeech": "verb",
+    "zipf": 1.09,
+    "score": 28.9,
+    "definition": "eat a lot and without restraint"
+  },
+  {
+    "word": "fructify",
+    "partOfSpeech": "verb",
+    "zipf": 1.09,
+    "score": 28.9,
+    "definition": "become productive or fruitful"
+  },
+  {
+    "word": "homogenise",
+    "partOfSpeech": "verb",
+    "zipf": 1.09,
+    "score": 28.9,
+    "definition": "break up the fat globules of"
+  },
+  {
+    "word": "hypothecate",
+    "partOfSpeech": "verb",
+    "zipf": 1.09,
+    "score": 28.9,
+    "definition": "pledge without delivery or title of possession"
+  },
+  {
+    "word": "ionise",
+    "partOfSpeech": "verb",
+    "zipf": 1.09,
+    "score": 28.9,
+    "definition": "become converted into ions"
+  },
+  {
+    "word": "misalign",
+    "partOfSpeech": "verb",
+    "zipf": 1.09,
+    "score": 28.9,
+    "definition": "align imperfectly or badly"
+  },
+  {
+    "word": "overdramatize",
+    "partOfSpeech": "verb",
+    "zipf": 1.09,
+    "score": 28.9,
+    "definition": "present in an overly dramatic manner"
+  },
+  {
+    "word": "retranslate",
+    "partOfSpeech": "verb",
+    "zipf": 1.09,
+    "score": 28.9,
+    "definition": "translate again"
+  },
+  {
+    "word": "acyl",
+    "partOfSpeech": "noun",
+    "zipf": 2.48,
+    "score": 28.8,
+    "definition": "any group or radical of the form RCO- where R is an organic group"
+  },
+  {
+    "word": "ameer",
+    "partOfSpeech": "noun",
+    "zipf": 2.48,
+    "score": 28.8,
+    "definition": "an independent ruler or chieftain (especially in Africa or Arabia)"
+  },
+  {
+    "word": "beading",
+    "partOfSpeech": "noun",
+    "zipf": 2.48,
+    "score": 28.8,
+    "definition": "ornamentation with beads"
+  },
+  {
+    "word": "feathering",
+    "partOfSpeech": "noun",
+    "zipf": 2.48,
+    "score": 28.8,
+    "definition": "turning an oar parallel to the water between pulls"
+  },
+  {
+    "word": "sommelier",
+    "partOfSpeech": "noun",
+    "zipf": 2.48,
+    "score": 28.8,
+    "definition": "a waiter who manages wine service in a hotel or restaurant"
+  },
+  {
+    "word": "striping",
+    "partOfSpeech": "noun",
+    "zipf": 2.48,
+    "score": 28.8,
+    "definition": "the act of marking with stripes"
+  },
+  {
+    "word": "torr",
+    "partOfSpeech": "noun",
+    "zipf": 2.48,
+    "score": 28.8,
+    "definition": "a unit of pressure equal to 0.001316 atmosphere; named after Torricelli"
+  },
+  {
+    "word": "artificer",
+    "partOfSpeech": "noun",
+    "zipf": 2.36,
+    "score": 28.8,
+    "definition": "someone who is the first to think of or make something"
+  },
+  {
+    "word": "flavouring",
+    "partOfSpeech": "noun",
+    "zipf": 2.36,
+    "score": 28.8,
+    "definition": "something added to food primarily for the savor it imparts"
+  },
+  {
+    "word": "nihilist",
+    "partOfSpeech": "noun",
+    "zipf": 2.36,
+    "score": 28.8,
+    "definition": "someone who rejects all theories of morality or religious belief"
+  },
+  {
+    "word": "allegorically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.88,
+    "score": 28.8,
+    "definition": "in an allegorical manner"
+  },
+  {
+    "word": "anomalously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.88,
+    "score": 28.8,
+    "definition": "in an anomalous manner"
+  },
+  {
+    "word": "descriptively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.88,
+    "score": 28.8,
+    "definition": "by giving a description"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "word": "zippo",
+    "partOfSpeech": "noun",
+    "zipf": 2.45,
+    "score": 28.5,
+    "definition": "a quantity of no importance"
+  },
+  {
+    "word": "consistory",
+    "partOfSpeech": "noun",
+    "zipf": 2.33,
+    "score": 28.5,
+    "definition": "a church tribunal or governing body"
+  },
+  {
+    "word": "rigger",
+    "partOfSpeech": "noun",
+    "zipf": 2.33,
+    "score": 28.5,
+    "definition": "someone who rigs ships"
+  },
+  {
+    "word": "deceitfully",
+    "partOfSpeech": "adverb",
+    "zipf": 1.85,
+    "score": 28.5,
+    "definition": "in a corrupt and deceitful manner"
+  },
+  {
+    "word": "doctrinally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.85,
+    "score": 28.5,
+    "definition": "as a matter of doctrine"
+  },
+  {
+    "word": "illogically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.85,
+    "score": 28.5,
+    "definition": "in an illogical manner"
+  },
+  {
+    "word": "lamentably",
+    "partOfSpeech": "adverb",
+    "zipf": 1.85,
+    "score": 28.5,
+    "definition": "in an unfortunate or deplorable manner"
+  },
+  {
+    "word": "lexically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.85,
+    "score": 28.5,
+    "definition": "by means of words"
+  },
+  {
+    "word": "messily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.85,
+    "score": 28.5,
+    "definition": "in a messy, untidy manner"
+  },
+  {
+    "word": "perceptibly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.85,
+    "score": 28.5,
+    "definition": "in a noticeable manner"
+  },
+  {
+    "word": "preposterously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.85,
+    "score": 28.5,
+    "definition": "so as to arouse or deserve laughter"
+  },
+  {
+    "word": "presumptively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.85,
+    "score": 28.5,
+    "definition": "by reasonable assumption"
+  },
+  {
+    "word": "taxonomically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.85,
+    "score": 28.5,
+    "definition": "with regard to taxonomy"
+  },
+  {
+    "word": "ravenously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.73,
+    "score": 28.5,
+    "definition": "in the manner of someone who is very hungry"
+  },
+  {
+    "word": "anticyclonic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.55,
+    "score": 28.5,
+    "definition": "of or relating to or characteristic of the atmosphere around a high pressure center"
+  },
+  {
+    "word": "cloze",
+    "partOfSpeech": "adjective",
+    "zipf": 1.55,
+    "score": 28.5,
+    "definition": "based on or being a test of reading skill using the cloze procedure"
+  },
+  {
+    "word": "etiologic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.55,
+    "score": 28.5,
+    "definition": "of or relating to the philosophical study of causation"
+  },
+  {
+    "word": "oaten",
+    "partOfSpeech": "adjective",
+    "zipf": 1.55,
+    "score": 28.5,
+    "definition": "of or related to or derived from oats"
+  },
+  {
+    "word": "unarmoured",
+    "partOfSpeech": "adjective",
+    "zipf": 1.55,
+    "score": 28.5,
+    "definition": "used of animals; without protective covering"
+  },
+  {
+    "word": "unedifying",
+    "partOfSpeech": "adjective",
+    "zipf": 1.55,
+    "score": 28.5,
+    "definition": "not edifying"
+  },
+  {
+    "word": "vicinal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.55,
+    "score": 28.5,
+    "definition": "belonging to or limited to a vicinity"
+  },
+  {
+    "word": "detrain",
+    "partOfSpeech": "verb",
+    "zipf": 1.05,
+    "score": 28.5,
+    "definition": "leave a train"
+  },
+  {
+    "word": "extemporize",
+    "partOfSpeech": "verb",
+    "zipf": 1.05,
+    "score": 28.5,
+    "definition": "manage in a makeshift way; do with whatever is at hand"
+  },
+  {
+    "word": "linearize",
+    "partOfSpeech": "verb",
+    "zipf": 1.05,
+    "score": 28.5,
+    "definition": "make linear or get into a linear form"
+  },
+  {
+    "word": "lionise",
+    "partOfSpeech": "verb",
+    "zipf": 1.05,
+    "score": 28.5,
+    "definition": "assign great social importance to"
+  },
+  {
+    "word": "prink",
+    "partOfSpeech": "verb",
+    "zipf": 1.05,
+    "score": 28.5,
+    "definition": "dress very carefully and in a finicky manner"
+  },
+  {
+    "word": "scandalise",
+    "partOfSpeech": "verb",
+    "zipf": 1.05,
+    "score": 28.5,
+    "definition": "strike with disgust or revulsion"
+  },
+  {
+    "word": "sporulate",
+    "partOfSpeech": "verb",
+    "zipf": 1.05,
+    "score": 28.5,
+    "definition": "produce spores"
+  },
+  {
+    "word": "abbe",
+    "partOfSpeech": "noun",
+    "zipf": 2.44,
+    "score": 28.4,
+    "definition": "a French abbot"
+  },
+  {
+    "word": "calving",
+    "partOfSpeech": "noun",
+    "zipf": 2.44,
+    "score": 28.4,
+    "definition": "giving birth to a calf"
+  },
+  {
+    "word": "duomo",
+    "partOfSpeech": "noun",
+    "zipf": 2.44,
+    "score": 28.4,
+    "definition": "the principal Christian church building of a bishop's diocese"
+  },
+  {
+    "word": "epicentre",
+    "partOfSpeech": "noun",
+    "zipf": 2.44,
+    "score": 28.4,
+    "definition": "the point on the Earth's surface directly above the focus of an earthquake"
+  },
+  {
+    "word": "paediatrics",
+    "partOfSpeech": "noun",
+    "zipf": 2.44,
+    "score": 28.4,
+    "definition": "the branch of medicine concerned with the treatment of infants and children"
+  },
+  {
+    "word": "pendragon",
+    "partOfSpeech": "noun",
+    "zipf": 2.44,
+    "score": 28.4,
+    "definition": "the supreme war chief of the ancient Britons"
+  },
+  {
+    "word": "vespers",
+    "partOfSpeech": "noun",
+    "zipf": 2.44,
+    "score": 28.4,
+    "definition": "the sixth of the seven canonical hours of the divine office; early evening; now often made a public service on Sundays"
+  },
+  {
+    "word": "naturist",
+    "partOfSpeech": "noun",
+    "zipf": 2.32,
+    "score": 28.4,
+    "definition": "a person who practices nudity for reasons of health or religion"
+  },
+  {
+    "word": "repairer",
+    "partOfSpeech": "noun",
+    "zipf": 2.2,
+    "score": 28.4,
+    "definition": "a skilled worker who mends or repairs things"
+  },
+  {
+    "word": "diversely",
+    "partOfSpeech": "adverb",
+    "zipf": 1.84,
+    "score": 28.4,
+    "definition": "in diverse ways"
+  },
+  {
+    "word": "homogeneously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.84,
+    "score": 28.4,
+    "definition": "all similarly"
+  },
+  {
+    "word": "proficiently",
+    "partOfSpeech": "adverb",
+    "zipf": 1.84,
+    "score": 28.4,
+    "definition": "in a proficient manner"
+  },
+  {
+    "word": "remorselessly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.84,
+    "score": 28.4,
+    "definition": "without pity; in a merciless manner"
+  },
+  {
+    "word": "straightway",
+    "partOfSpeech": "adverb",
+    "zipf": 1.84,
+    "score": 28.4,
+    "definition": "at once"
+  },
+  {
+    "word": "vivace",
+    "partOfSpeech": "adverb",
+    "zipf": 1.84,
+    "score": 28.4,
+    "definition": "lively, in music"
+  },
+  {
+    "word": "wondrously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.84,
+    "score": 28.4,
+    "definition": "(used as an intensifier) extremely well"
+  },
+  {
+    "word": "abaxial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.54,
+    "score": 28.4,
+    "definition": "facing away from the axis of an organ or organism"
+  },
+  {
+    "word": "anorectal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.54,
+    "score": 28.4,
+    "definition": "pertaining to the anus and rectum considered together"
+  },
+  {
+    "word": "attritional",
+    "partOfSpeech": "adjective",
+    "zipf": 1.54,
+    "score": 28.4,
+    "definition": "relating to or caused by attrition"
+  },
+  {
+    "word": "chlorotic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.54,
+    "score": 28.4,
+    "definition": "of or pertaining to or suffering from chlorosis"
+  },
+  {
+    "word": "formalistic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.54,
+    "score": 28.4,
+    "definition": "concerned with or characterized by rigorous adherence to recognized forms (especially in religion or art)"
+  },
+  {
+    "word": "haematopoietic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.54,
+    "score": 28.4,
+    "definition": "pertaining to the formation of blood or blood cells"
+  },
+  {
+    "word": "hydropathic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.54,
+    "score": 28.4,
+    "definition": "of or relating to hydropathy or its administration"
+  },
+  {
+    "word": "parentless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.54,
+    "score": 28.4,
+    "definition": "having no parent or parents or not cared for by parent surrogates"
+  },
+  {
+    "word": "purgatorial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.54,
+    "score": 28.4,
+    "definition": "serving to purge or rid of sin"
+  },
+  {
+    "word": "supernal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.54,
+    "score": 28.4,
+    "definition": "being or coming from on high"
+  },
+  {
+    "word": "decolonise",
+    "partOfSpeech": "verb",
+    "zipf": 1.04,
+    "score": 28.4,
+    "definition": "grant independence to (a former colony)"
+  },
+  {
+    "word": "defenestrate",
+    "partOfSpeech": "verb",
+    "zipf": 1.04,
+    "score": 28.4,
+    "definition": "throw through or out of the window"
+  },
+  {
+    "word": "disarrange",
+    "partOfSpeech": "verb",
+    "zipf": 1.04,
+    "score": 28.4,
+    "definition": "destroy the arrangement or order of"
+  },
+  {
+    "word": "hybridise",
+    "partOfSpeech": "verb",
+    "zipf": 1.04,
+    "score": 28.4,
+    "definition": "breed animals or plants using parents of different races and varieties"
+  },
+  {
+    "word": "micturate",
+    "partOfSpeech": "verb",
+    "zipf": 1.04,
+    "score": 28.4,
+    "definition": "eliminate urine"
+  },
+  {
+    "word": "pettifog",
+    "partOfSpeech": "verb",
+    "zipf": 1.04,
+    "score": 28.4,
+    "definition": "argue over petty things"
+  },
+  {
+    "word": "resole",
+    "partOfSpeech": "verb",
+    "zipf": 1.04,
+    "score": 28.4,
+    "definition": "put a new sole on"
+  },
+  {
+    "word": "tenderise",
+    "partOfSpeech": "verb",
+    "zipf": 1.04,
+    "score": 28.4,
+    "definition": "make tender or more tender as by marinating, pounding, or applying a tenderizer"
+  },
+  {
+    "word": "underexpose",
+    "partOfSpeech": "verb",
+    "zipf": 1.04,
+    "score": 28.4,
+    "definition": "expose to too little light"
+  },
+  {
+    "word": "unhorse",
+    "partOfSpeech": "verb",
+    "zipf": 1.04,
+    "score": 28.4,
+    "definition": "alight from (a horse)"
+  },
+  {
+    "word": "bantamweight",
+    "partOfSpeech": "noun",
+    "zipf": 2.43,
+    "score": 28.3,
+    "definition": "weighs 115-126 pounds"
+  },
+  {
+    "word": "brawler",
+    "partOfSpeech": "noun",
+    "zipf": 2.43,
+    "score": 28.3,
+    "definition": "a fighter (especially one who participates in brawls)"
+  },
+  {
+    "word": "chon",
+    "partOfSpeech": "noun",
+    "zipf": 2.43,
+    "score": 28.3,
+    "definition": "100 chon equal 1 won in South Korea"
+  },
+  {
+    "word": "clamouring",
+    "partOfSpeech": "noun",
+    "zipf": 2.43,
+    "score": 28.3,
+    "definition": "loud and persistent outcry from many people"
+  },
+  {
+    "word": "cushioning",
+    "partOfSpeech": "noun",
+    "zipf": 2.43,
+    "score": 28.3,
+    "definition": "artifact consisting of soft or resilient material used to fill or give shape or protect or add comfort"
+  },
+  {
+    "word": "gazetteer",
+    "partOfSpeech": "noun",
+    "zipf": 2.43,
+    "score": 28.3,
+    "definition": "a journalist who writes for a gazette"
+  },
+  {
+    "word": "imprinting",
+    "partOfSpeech": "noun",
+    "zipf": 2.43,
+    "score": 28.3,
+    "definition": "a learning process in early life whereby species specific patterns of behavior are established"
+  },
+  {
+    "word": "pelting",
+    "partOfSpeech": "noun",
+    "zipf": 2.43,
+    "score": 28.3,
+    "definition": "anything happening rapidly or in quick successive"
+  },
+  {
+    "word": "pothead",
+    "partOfSpeech": "noun",
+    "zipf": 2.31,
+    "score": 28.3,
+    "definition": "someone who smokes marijuana habitually"
+  },
+  {
+    "word": "taxman",
+    "partOfSpeech": "noun",
+    "zipf": 2.31,
+    "score": 28.3,
+    "definition": "someone who collects taxes for the government"
+  },
+  {
+    "word": "wyvern",
+    "partOfSpeech": "noun",
+    "zipf": 2.31,
+    "score": 28.3,
+    "definition": "a fire-breathing dragon used in medieval heraldry; had the head of a dragon and the tail of a snake and a body with wings and two legs"
+  },
+  {
+    "word": "projectionist",
+    "partOfSpeech": "noun",
+    "zipf": 2.19,
+    "score": 28.3,
+    "definition": "the person who operates the projector in a movie house"
+  },
+  {
+    "word": "catalytically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.83,
+    "score": 28.3,
+    "definition": "by catalytic action; in a catalytic manner"
+  },
+  {
+    "word": "climatically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.83,
+    "score": 28.3,
+    "definition": "with respect to climate"
+  },
+  {
+    "word": "craftily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.83,
+    "score": 28.3,
+    "definition": "in an artful manner"
+  },
+  {
+    "word": "diabolically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.83,
+    "score": 28.3,
+    "definition": "as a devil; in an evil manner"
+  },
+  {
+    "word": "preternaturally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.83,
+    "score": 28.3,
+    "definition": "in a supernatural manner"
+  },
+  {
+    "word": "snidely",
+    "partOfSpeech": "adverb",
+    "zipf": 1.83,
+    "score": 28.3,
+    "definition": "with a sneer; in an uncomplimentary sneering manner"
+  },
+  {
+    "word": "autocatalytic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.53,
+    "score": 28.3,
+    "definition": "relating to or proceeding by autocatalysis"
+  },
+  {
+    "word": "hypoglycaemic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.53,
+    "score": 28.3,
+    "definition": "of or relating to hypoglycemia"
+  },
+  {
+    "word": "katabatic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.53,
+    "score": 28.3,
+    "definition": "of an air current or wind; moving downward or down a slope because of cooling especially at night"
+  },
+  {
+    "word": "thalamocortical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.53,
+    "score": 28.3,
+    "definition": "relating to or connecting the cortex and thalamus"
+  },
+  {
+    "word": "unexcited",
+    "partOfSpeech": "adjective",
+    "zipf": 1.53,
+    "score": 28.3,
+    "definition": "not excited"
+  },
+  {
+    "word": "unpremeditated",
+    "partOfSpeech": "adjective",
+    "zipf": 1.53,
+    "score": 28.3,
+    "definition": "not premeditated"
+  },
+  {
+    "word": "collimate",
+    "partOfSpeech": "verb",
+    "zipf": 1.03,
+    "score": 28.3,
+    "definition": "make or place parallel to something"
+  },
+  {
+    "word": "defog",
+    "partOfSpeech": "verb",
+    "zipf": 1.03,
+    "score": 28.3,
+    "definition": "free from mist"
+  },
+  {
+    "word": "enfeoff",
+    "partOfSpeech": "verb",
+    "zipf": 1.03,
+    "score": 28.3,
+    "definition": "put in possession of land in exchange for a pledge of service, in feudal society"
+  },
+  {
+    "word": "eternalize",
+    "partOfSpeech": "verb",
+    "zipf": 1.03,
+    "score": 28.3,
+    "definition": "make famous forever"
+  },
+  {
+    "word": "indue",
+    "partOfSpeech": "verb",
+    "zipf": 1.03,
+    "score": 28.3,
+    "definition": "give qualities or abilities to"
+  },
+  {
+    "word": "isomerize",
+    "partOfSpeech": "verb",
+    "zipf": 1.03,
+    "score": 28.3,
+    "definition": "cause to change into an isomer"
+  },
+  {
+    "word": "monish",
+    "partOfSpeech": "verb",
+    "zipf": 1.03,
+    "score": 28.3,
+    "definition": "warn strongly; put on guard"
+  },
+  {
+    "word": "novate",
+    "partOfSpeech": "verb",
+    "zipf": 1.03,
+    "score": 28.3,
+    "definition": "replace with something new, especially an old obligation by a new one"
+  },
+  {
+    "word": "prehend",
+    "partOfSpeech": "verb",
+    "zipf": 1.03,
+    "score": 28.3,
+    "definition": "take hold of; grab"
+  },
+  {
+    "word": "refurnish",
+    "partOfSpeech": "verb",
+    "zipf": 1.03,
+    "score": 28.3,
+    "definition": "furnish with new or different furniture"
+  },
+  {
+    "word": "archeologist",
+    "partOfSpeech": "noun",
+    "zipf": 2.42,
+    "score": 28.2,
+    "definition": "an anthropologist who studies prehistoric people and their culture"
+  },
+  {
+    "word": "ebbing",
+    "partOfSpeech": "noun",
+    "zipf": 2.42,
+    "score": 28.2,
+    "definition": "a gradual decline (in size or strength or power or number)"
+  }
+]

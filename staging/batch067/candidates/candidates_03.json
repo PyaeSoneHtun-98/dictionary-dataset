@@ -1,1474 +1,702 @@
 [
   {
+    "word": "filing",
+    "partOfSpeech": "noun",
+    "zipf": 4.05,
+    "score": 44.5,
+    "definition": "the entering of a legal document into the public record"
+  },
+  {
+    "word": "strings",
+    "partOfSpeech": "noun",
+    "zipf": 4.04,
+    "score": 44.4,
+    "definition": "the section of an orchestra that plays stringed instruments"
+  },
+  {
     "word": "nosed",
     "partOfSpeech": "adjective",
     "zipf": 3.14,
     "score": 44.4,
-    "definition": "having a nose (either literal or metaphoric) especially of a specified kind",
-    "cmu": [
-      "N",
-      "OW1",
-      "Z",
-      "D"
-    ]
+    "definition": "having a nose (either literal or metaphoric) especially of a specified kind"
   },
   {
     "word": "marc",
     "partOfSpeech": "noun",
     "zipf": 4.03,
     "score": 44.3,
-    "definition": "made from residue of grapes or apples after pressing",
-    "cmu": [
-      "M",
-      "AA1",
-      "R",
-      "K"
-    ]
+    "definition": "made from residue of grapes or apples after pressing"
   },
   {
     "word": "banded",
     "partOfSpeech": "adjective",
     "zipf": 3.13,
     "score": 44.3,
-    "definition": "identified with a band especially around a leg",
-    "cmu": [
-      "B",
-      "AE1",
-      "N",
-      "D",
-      "IH0",
-      "D"
-    ]
+    "definition": "identified with a band especially around a leg"
   },
   {
     "word": "focussed",
     "partOfSpeech": "adjective",
     "zipf": 3.13,
     "score": 44.3,
-    "definition": "being in focus or brought into focus",
-    "cmu": [
-      "F",
-      "OW1",
-      "K",
-      "AH0",
-      "S",
-      "T"
-    ]
+    "definition": "being in focus or brought into focus"
   },
   {
     "word": "functioning",
     "partOfSpeech": "noun",
     "zipf": 4.02,
     "score": 44.2,
-    "definition": "process or manner of functioning or operating",
-    "cmu": [
-      "F",
-      "AH1",
-      "NG",
-      "K",
-      "SH",
-      "AH0",
-      "N",
-      "IH0",
-      "NG"
-    ]
+    "definition": "process or manner of functioning or operating"
   },
   {
     "word": "classics",
     "partOfSpeech": "noun",
     "zipf": 3.9,
     "score": 44.2,
-    "definition": "study of the literary works of ancient Greece and Rome",
-    "cmu": [
-      "K",
-      "L",
-      "AE1",
-      "S",
-      "IH0",
-      "K",
-      "S"
-    ]
+    "definition": "study of the literary works of ancient Greece and Rome"
   },
   {
     "word": "griffin",
     "partOfSpeech": "noun",
     "zipf": 3.9,
     "score": 44.2,
-    "definition": "winged monster with the head of an eagle and the body of a lion",
-    "cmu": [
-      "G",
-      "R",
-      "IH1",
-      "F",
-      "IH0",
-      "N"
-    ]
+    "definition": "winged monster with the head of an eagle and the body of a lion"
   },
   {
     "word": "quickest",
     "partOfSpeech": "adverb",
     "zipf": 3.42,
     "score": 44.2,
-    "definition": "most quickly",
-    "cmu": [
-      "K",
-      "W",
-      "IH1",
-      "K",
-      "IH0",
-      "S",
-      "T"
-    ]
+    "definition": "most quickly"
   },
   {
     "word": "warmer",
     "partOfSpeech": "noun",
     "zipf": 3.76,
     "score": 44.0,
-    "definition": "device that heats water or supplies warmth to a room",
-    "cmu": [
-      "W",
-      "AO1",
-      "R",
-      "M",
-      "ER0"
-    ]
+    "definition": "device that heats water or supplies warmth to a room"
   },
   {
     "word": "tiered",
     "partOfSpeech": "adjective",
     "zipf": 3.09,
     "score": 43.9,
-    "definition": "having or arranged in tiers",
-    "cmu": [
-      "T",
-      "IY1",
-      "R",
-      "D"
-    ]
+    "definition": "having or arranged in tiers"
   },
   {
     "word": "fingered",
     "partOfSpeech": "adjective",
     "zipf": 3.08,
     "score": 43.8,
-    "definition": "having or resembling a finger or fingers; often used in combination",
-    "cmu": [
-      "F",
-      "IH1",
-      "NG",
-      "G",
-      "ER0",
-      "D"
-    ]
+    "definition": "having or resembling a finger or fingers; often used in combination"
   },
   {
     "word": "shelled",
     "partOfSpeech": "adjective",
     "zipf": 3.08,
     "score": 43.8,
-    "definition": "of animals or fruits that have a shell",
-    "cmu": [
-      "SH",
-      "EH1",
-      "L",
-      "D"
-    ]
+    "definition": "of animals or fruits that have a shell"
   },
   {
     "word": "kissing",
     "partOfSpeech": "noun",
     "zipf": 3.97,
     "score": 43.7,
-    "definition": "affectionate play (or foreplay without contact with the genital organs)",
-    "cmu": [
-      "K",
-      "IH1",
-      "S",
-      "IH0",
-      "NG"
-    ]
+    "definition": "affectionate play (or foreplay without contact with the genital organs)"
   },
   {
     "word": "sally",
     "partOfSpeech": "noun",
     "zipf": 3.97,
     "score": 43.7,
-    "definition": "witty remark",
-    "cmu": [
-      "S",
-      "AE1",
-      "L",
-      "IY0"
-    ]
+    "definition": "witty remark"
   },
   {
     "word": "cooler",
     "partOfSpeech": "noun",
     "zipf": 3.96,
     "score": 43.6,
-    "definition": "a refrigerator for cooling liquids",
-    "cmu": [
-      "K",
-      "UW1",
-      "L",
-      "ER0"
-    ]
+    "definition": "a refrigerator for cooling liquids"
   },
   {
     "word": "typing",
     "partOfSpeech": "noun",
     "zipf": 3.84,
     "score": 43.6,
-    "definition": "writing done with a typewriter",
-    "cmu": [
-      "T",
-      "AY1",
-      "P",
-      "IH0",
-      "NG"
-    ]
+    "definition": "writing done with a typewriter"
   },
   {
     "word": "curving",
     "partOfSpeech": "adjective",
     "zipf": 3.06,
     "score": 43.6,
-    "definition": "having or marked by a curve or smoothly rounded bend",
-    "cmu": [
-      "K",
-      "ER1",
-      "V",
-      "IH0",
-      "NG"
-    ]
+    "definition": "having or marked by a curve or smoothly rounded bend"
   },
   {
     "word": "eats",
     "partOfSpeech": "noun",
     "zipf": 3.95,
     "score": 43.5,
-    "definition": "informal terms for a meal",
-    "cmu": [
-      "IY1",
-      "T",
-      "S"
-    ]
+    "definition": "informal terms for a meal"
   },
   {
     "word": "waking",
     "partOfSpeech": "noun",
     "zipf": 3.95,
     "score": 43.5,
-    "definition": "the state of remaining awake",
-    "cmu": [
-      "W",
-      "EY1",
-      "K",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the state of remaining awake"
   },
   {
     "word": "misused",
     "partOfSpeech": "adjective",
     "zipf": 3.05,
     "score": 43.5,
-    "definition": "used incorrectly or carelessly or for an improper purpose",
-    "cmu": [
-      "M",
-      "IH0",
-      "S",
-      "Y",
-      "UW1",
-      "Z",
-      "D"
-    ]
+    "definition": "used incorrectly or carelessly or for an improper purpose"
   },
   {
     "word": "dreaming",
     "partOfSpeech": "noun",
     "zipf": 3.94,
     "score": 43.4,
-    "definition": "imaginative thoughts indulged in while awake",
-    "cmu": [
-      "D",
-      "R",
-      "IY1",
-      "M",
-      "IH0",
-      "NG"
-    ]
+    "definition": "imaginative thoughts indulged in while awake"
   },
   {
     "word": "modeling",
     "partOfSpeech": "noun",
     "zipf": 3.94,
     "score": 43.4,
-    "definition": "sculpture produced by molding",
-    "cmu": [
-      "M",
-      "AA1",
-      "D",
-      "AH0",
-      "L",
-      "IH2",
-      "NG"
-    ]
+    "definition": "sculpture produced by molding"
   },
   {
     "word": "drilling",
     "partOfSpeech": "noun",
     "zipf": 3.93,
     "score": 43.3,
-    "definition": "the act of drilling",
-    "cmu": [
-      "D",
-      "R",
-      "IH1",
-      "L",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the act of drilling"
   },
   {
     "word": "sounding",
     "partOfSpeech": "noun",
     "zipf": 3.9,
     "score": 43.0,
-    "definition": "a measure of the depth of water taken with a sounding line",
-    "cmu": [
-      "S",
-      "AW1",
-      "N",
-      "D",
-      "IH0",
-      "NG"
-    ]
+    "definition": "a measure of the depth of water taken with a sounding line"
   },
   {
     "word": "breasted",
     "partOfSpeech": "adjective",
     "zipf": 3.0,
     "score": 43.0,
-    "definition": "having a breast or breasts; or breasts as specified; used chiefly in compounds",
-    "cmu": [
-      "B",
-      "R",
-      "EH1",
-      "S",
-      "T",
-      "AH0",
-      "D"
-    ]
+    "definition": "having a breast or breasts; or breasts as specified; used chiefly in compounds"
   },
   {
     "word": "doubles",
     "partOfSpeech": "noun",
     "zipf": 3.89,
     "score": 42.9,
-    "definition": "badminton played with two players on each side",
-    "cmu": [
-      "D",
-      "AH1",
-      "B",
-      "AH0",
-      "L",
-      "Z"
-    ]
+    "definition": "badminton played with two players on each side"
   },
   {
     "word": "mommy",
     "partOfSpeech": "noun",
     "zipf": 3.89,
     "score": 42.9,
-    "definition": "informal terms for a mother",
-    "cmu": [
-      "M",
-      "AA1",
-      "M",
-      "IY0"
-    ]
+    "definition": "informal terms for a mother"
+  },
+  {
+    "word": "materialise",
+    "partOfSpeech": "verb",
+    "zipf": 2.49,
+    "score": 42.9,
+    "definition": "come into being; become reality"
+  },
+  {
+    "word": "symbolise",
+    "partOfSpeech": "verb",
+    "zipf": 2.49,
+    "score": 42.9,
+    "definition": "represent or identify by using a symbol; use symbols"
   },
   {
     "word": "baron",
     "partOfSpeech": "noun",
     "zipf": 3.88,
     "score": 42.8,
-    "definition": "a nobleman (in various countries) of varying rank",
-    "cmu": [
-      "B",
-      "AE1",
-      "R",
-      "AH0",
-      "N"
-    ]
+    "definition": "a nobleman (in various countries) of varying rank"
   },
   {
     "word": "lining",
     "partOfSpeech": "noun",
     "zipf": 3.88,
     "score": 42.8,
-    "definition": "a protective covering that protects an inside surface",
-    "cmu": [
-      "L",
-      "AY1",
-      "N",
-      "IH0",
-      "NG"
-    ]
+    "definition": "a protective covering that protects an inside surface"
   },
   {
     "word": "disordered",
     "partOfSpeech": "adjective",
     "zipf": 2.98,
     "score": 42.8,
-    "definition": "not arranged in order",
-    "cmu": [
-      "D",
-      "IH0",
-      "S",
-      "AO1",
-      "R",
-      "D",
-      "ER0",
-      "D"
-    ]
+    "definition": "not arranged in order"
   },
   {
     "word": "beth",
     "partOfSpeech": "noun",
     "zipf": 3.87,
     "score": 42.7,
-    "definition": "the 2nd letter of the Hebrew alphabet",
-    "cmu": [
-      "B",
-      "EH1",
-      "TH"
-    ]
+    "definition": "the 2nd letter of the Hebrew alphabet"
   },
   {
     "word": "molly",
     "partOfSpeech": "noun",
     "zipf": 3.87,
     "score": 42.7,
-    "definition": "popular aquarium fish",
-    "cmu": [
-      "M",
-      "AA1",
-      "L",
-      "IY0"
-    ]
+    "definition": "popular aquarium fish"
+  },
+  {
+    "word": "antisemitic",
+    "partOfSpeech": "adjective",
+    "zipf": 2.97,
+    "score": 42.7,
+    "definition": "relating to or characterized by anti-Semitism; hating Jews"
   },
   {
     "word": "greens",
     "partOfSpeech": "noun",
     "zipf": 3.86,
     "score": 42.6,
-    "definition": "any of various leafy plants or their leaves and stems eaten as vegetables",
-    "cmu": [
-      "G",
-      "R",
-      "IY1",
-      "N",
-      "Z"
-    ]
+    "definition": "any of various leafy plants or their leaves and stems eaten as vegetables"
   },
   {
     "word": "contented",
     "partOfSpeech": "adjective",
     "zipf": 2.96,
     "score": 42.6,
-    "definition": "satisfied or showing satisfaction with things as they are",
-    "cmu": [
-      "K",
-      "AH0",
-      "N",
-      "T",
-      "EH1",
-      "N",
-      "T",
-      "AH0",
-      "D"
-    ]
+    "definition": "satisfied or showing satisfaction with things as they are"
   },
   {
     "word": "orientated",
     "partOfSpeech": "adjective",
     "zipf": 2.96,
     "score": 42.6,
-    "definition": "adjusted or located in relation to surroundings or circumstances; sometimes used in combination",
-    "cmu": [
-      "AO1",
-      "R",
-      "IY0",
-      "AH0",
-      "N",
-      "T",
-      "EY2",
-      "T",
-      "IH0",
-      "D"
-    ]
+    "definition": "adjusted or located in relation to surroundings or circumstances; sometimes used in combination"
   },
   {
     "word": "rhyming",
     "partOfSpeech": "adjective",
     "zipf": 2.96,
     "score": 42.6,
-    "definition": "having corresponding sounds especially terminal sounds",
-    "cmu": [
-      "R",
-      "AY1",
-      "M",
-      "IH0",
-      "NG"
-    ]
+    "definition": "having corresponding sounds especially terminal sounds"
   },
   {
     "word": "batting",
     "partOfSpeech": "noun",
     "zipf": 3.84,
     "score": 42.4,
-    "definition": "(baseball) the batter's attempt to get on base",
-    "cmu": [
-      "B",
-      "AE1",
-      "T",
-      "IH0",
-      "NG"
-    ]
+    "definition": "(baseball) the batter's attempt to get on base"
   },
   {
     "word": "donna",
     "partOfSpeech": "noun",
     "zipf": 3.84,
     "score": 42.4,
-    "definition": "an Italian woman of rank",
-    "cmu": [
-      "D",
-      "AA1",
-      "N",
-      "AH0"
-    ]
+    "definition": "an Italian woman of rank"
   },
   {
     "word": "sights",
     "partOfSpeech": "noun",
     "zipf": 3.84,
     "score": 42.4,
-    "definition": "an optical instrument for aiding the eye in aiming, as on a firearm or surveying instrument",
-    "cmu": [
-      "S",
-      "AY1",
-      "T",
-      "S"
-    ]
+    "definition": "an optical instrument for aiding the eye in aiming, as on a firearm or surveying instrument"
   },
   {
     "word": "jeep",
     "partOfSpeech": "noun",
     "zipf": 3.72,
     "score": 42.4,
-    "definition": "a car suitable for traveling over rough terrain",
-    "cmu": [
-      "JH",
-      "IY1",
-      "P"
-    ]
+    "definition": "a car suitable for traveling over rough terrain"
   },
   {
     "word": "faceted",
     "partOfSpeech": "adjective",
     "zipf": 2.94,
     "score": 42.4,
-    "definition": "having facets",
-    "cmu": [
-      "F",
-      "AE1",
-      "S",
-      "AH0",
-      "T",
-      "IH0",
-      "D"
-    ]
+    "definition": "having facets"
   },
   {
     "word": "saddled",
     "partOfSpeech": "adjective",
     "zipf": 2.94,
     "score": 42.4,
-    "definition": "having a saddle on or being mounted on a saddled animal",
-    "cmu": [
-      "S",
-      "AE1",
-      "D",
-      "AH0",
-      "L",
-      "D"
-    ]
+    "definition": "having a saddle on or being mounted on a saddled animal"
   },
   {
     "word": "calif",
     "partOfSpeech": "noun",
     "zipf": 3.83,
     "score": 42.3,
-    "definition": "the civil and religious leader of a Muslim state considered to be a representative of Allah on earth",
-    "cmu": [
-      "K",
-      "AE1",
-      "L",
-      "IH0",
-      "F"
-    ]
+    "definition": "the civil and religious leader of a Muslim state considered to be a representative of Allah on earth"
   },
   {
     "word": "popping",
     "partOfSpeech": "noun",
     "zipf": 3.83,
     "score": 42.3,
-    "definition": "a sharp explosive sound as from a gunshot or drawing a cork",
-    "cmu": [
-      "P",
-      "AA1",
-      "P",
-      "IH0",
-      "NG"
-    ]
+    "definition": "a sharp explosive sound as from a gunshot or drawing a cork"
+  },
+  {
+    "word": "centralised",
+    "partOfSpeech": "adjective",
+    "zipf": 2.93,
+    "score": 42.3,
+    "definition": "drawn toward a center or brought under the control of a central authority"
   },
   {
     "word": "combed",
     "partOfSpeech": "adjective",
     "zipf": 2.93,
     "score": 42.3,
-    "definition": "(of hair) made tidy with a comb",
-    "cmu": [
-      "K",
-      "OW1",
-      "M",
-      "D"
-    ]
+    "definition": "(of hair) made tidy with a comb"
   },
   {
     "word": "floored",
     "partOfSpeech": "adjective",
     "zipf": 2.93,
     "score": 42.3,
-    "definition": "provided with a floor",
-    "cmu": [
-      "F",
-      "L",
-      "AO1",
-      "R",
-      "D"
-    ]
+    "definition": "provided with a floor"
   },
   {
     "word": "rusted",
     "partOfSpeech": "adjective",
     "zipf": 2.93,
     "score": 42.3,
-    "definition": "having accumulated rust",
-    "cmu": [
-      "R",
-      "AH1",
-      "S",
-      "T",
-      "IH0",
-      "D"
-    ]
+    "definition": "having accumulated rust"
   },
   {
     "word": "modelling",
     "partOfSpeech": "noun",
     "zipf": 3.7,
     "score": 42.2,
-    "definition": "a preliminary sculpture in wax or clay from which a finished work can be copied",
-    "cmu": [
-      "M",
-      "AA1",
-      "D",
-      "AH0",
-      "L",
-      "IH2",
-      "NG"
-    ]
+    "definition": "a preliminary sculpture in wax or clay from which a finished work can be copied"
   },
   {
     "word": "ironed",
     "partOfSpeech": "adjective",
     "zipf": 2.92,
     "score": 42.2,
-    "definition": "(of linens or clothes) smoothed with a hot iron",
-    "cmu": [
-      "AY1",
-      "ER0",
-      "N",
-      "D"
-    ]
+    "definition": "(of linens or clothes) smoothed with a hot iron"
   },
   {
     "word": "mated",
     "partOfSpeech": "adjective",
     "zipf": 2.92,
     "score": 42.2,
-    "definition": "mated sexually",
-    "cmu": [
-      "M",
-      "EY1",
-      "T",
-      "IH0",
-      "D"
-    ]
+    "definition": "mated sexually"
   },
   {
     "word": "planting",
     "partOfSpeech": "noun",
     "zipf": 3.81,
     "score": 42.1,
-    "definition": "the act of fixing firmly in place",
-    "cmu": [
-      "P",
-      "L",
-      "AE1",
-      "N",
-      "T",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the act of fixing firmly in place"
   },
   {
     "word": "sands",
     "partOfSpeech": "noun",
     "zipf": 3.81,
     "score": 42.1,
-    "definition": "the region of the shore of a lake or sea or ocean",
-    "cmu": [
-      "S",
-      "AE1",
-      "N",
-      "D",
-      "Z"
-    ]
+    "definition": "the region of the shore of a lake or sea or ocean"
   },
   {
     "word": "balancing",
     "partOfSpeech": "noun",
     "zipf": 3.8,
     "score": 42.0,
-    "definition": "getting two things to correspond",
-    "cmu": [
-      "B",
-      "AE1",
-      "L",
-      "AH0",
-      "N",
-      "S",
-      "IH0",
-      "NG"
-    ]
+    "definition": "getting two things to correspond"
   },
   {
     "word": "bonding",
     "partOfSpeech": "noun",
     "zipf": 3.68,
     "score": 42.0,
-    "definition": "a close personal relationship that forms between people (as between husband and wife or parent and child)",
-    "cmu": [
-      "B",
-      "AA1",
-      "N",
-      "D",
-      "IH0",
-      "NG"
-    ]
+    "definition": "a close personal relationship that forms between people (as between husband and wife or parent and child)"
   },
   {
     "word": "accented",
     "partOfSpeech": "adjective",
     "zipf": 2.9,
     "score": 42.0,
-    "definition": "used of syllables",
-    "cmu": [
-      "AE1",
-      "K",
-      "S",
-      "EH0",
-      "N",
-      "T",
-      "IH0",
-      "D"
-    ]
+    "definition": "used of syllables"
   },
   {
     "word": "coiled",
     "partOfSpeech": "adjective",
     "zipf": 2.9,
     "score": 42.0,
-    "definition": "curled or wound (especially in concentric rings or spirals)",
-    "cmu": [
-      "K",
-      "OY1",
-      "L",
-      "D"
-    ]
+    "definition": "curled or wound (especially in concentric rings or spirals)"
   },
   {
     "word": "deeds",
     "partOfSpeech": "noun",
     "zipf": 3.79,
     "score": 41.9,
-    "definition": "performance of moral or religious acts",
-    "cmu": [
-      "D",
-      "IY1",
-      "D",
-      "Z"
-    ]
+    "definition": "performance of moral or religious acts"
   },
   {
     "word": "swinging",
     "partOfSpeech": "noun",
     "zipf": 3.79,
     "score": 41.9,
-    "definition": "changing location by moving back and forth",
-    "cmu": [
-      "S",
-      "W",
-      "IH1",
-      "NG",
-      "IH0",
-      "NG"
-    ]
+    "definition": "changing location by moving back and forth"
   },
   {
     "word": "bottomed",
     "partOfSpeech": "adjective",
     "zipf": 2.89,
     "score": 41.9,
-    "definition": "having a bottom of a specified character",
-    "cmu": [
-      "B",
-      "AA1",
-      "T",
-      "AH0",
-      "M",
-      "D"
-    ]
+    "definition": "having a bottom of a specified character"
   },
   {
     "word": "moderating",
     "partOfSpeech": "adjective",
     "zipf": 2.89,
     "score": 41.9,
-    "definition": "lessening in intensity or strength",
-    "cmu": [
-      "M",
-      "AA1",
-      "D",
-      "ER0",
-      "EY2",
-      "T",
-      "IH0",
-      "NG"
-    ]
+    "definition": "lessening in intensity or strength"
   },
   {
     "word": "greased",
     "partOfSpeech": "adjective",
     "zipf": 2.88,
     "score": 41.8,
-    "definition": "smeared with oil or grease to reduce friction",
-    "cmu": [
-      "G",
-      "R",
-      "IY1",
-      "S",
-      "T"
-    ]
+    "definition": "smeared with oil or grease to reduce friction"
   },
   {
     "word": "branding",
     "partOfSpeech": "noun",
     "zipf": 3.77,
     "score": 41.7,
-    "definition": "the act of stigmatizing",
-    "cmu": [
-      "B",
-      "R",
-      "AE1",
-      "N",
-      "D",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the act of stigmatizing"
   },
   {
     "word": "flats",
     "partOfSpeech": "noun",
     "zipf": 3.77,
     "score": 41.7,
-    "definition": "footwear (shoes or slippers) with no heel (or a very low heel)",
-    "cmu": [
-      "F",
-      "L",
-      "AE1",
-      "T",
-      "S"
-    ]
+    "definition": "footwear (shoes or slippers) with no heel (or a very low heel)"
   },
   {
     "word": "seating",
     "partOfSpeech": "noun",
     "zipf": 3.77,
     "score": 41.7,
-    "definition": "an area that includes places where several people can sit",
-    "cmu": [
-      "S",
-      "IY1",
-      "T",
-      "IH0",
-      "NG"
-    ]
+    "definition": "an area that includes places where several people can sit"
   },
   {
     "word": "silva",
     "partOfSpeech": "noun",
     "zipf": 3.77,
     "score": 41.7,
-    "definition": "the forest trees growing in a country or region",
-    "cmu": [
-      "S",
-      "IH1",
-      "L",
-      "V",
-      "AH0"
-    ]
+    "definition": "the forest trees growing in a country or region"
   },
   {
     "word": "staging",
     "partOfSpeech": "noun",
     "zipf": 3.65,
     "score": 41.7,
-    "definition": "the production of a drama on the stage",
-    "cmu": [
-      "S",
-      "T",
-      "EY1",
-      "JH",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the production of a drama on the stage"
   },
   {
     "word": "necked",
     "partOfSpeech": "adjective",
     "zipf": 2.87,
     "score": 41.7,
-    "definition": "having a neck or having a neck especially as specified (often used in combination)",
-    "cmu": [
-      "N",
-      "EH1",
-      "K",
-      "T"
-    ]
+    "definition": "having a neck or having a neck especially as specified (often used in combination)"
+  },
+  {
+    "word": "phylogenetic",
+    "partOfSpeech": "adjective",
+    "zipf": 2.87,
+    "score": 41.7,
+    "definition": "of or relating to the evolutionary development of organisms"
   },
   {
     "word": "issuing",
     "partOfSpeech": "noun",
     "zipf": 3.76,
     "score": 41.6,
-    "definition": "the act of providing an item for general use or for official purposes (usually in quantity)",
-    "cmu": [
-      "IH1",
-      "SH",
-      "UW0",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the act of providing an item for general use or for official purposes (usually in quantity)"
   },
   {
     "word": "preconceived",
     "partOfSpeech": "adjective",
     "zipf": 2.86,
     "score": 41.6,
-    "definition": "(of an idea or opinion) formed beforehand; especially without evidence or through prejudice",
-    "cmu": [
-      "P",
-      "R",
-      "IY2",
-      "K",
-      "AH0",
-      "N",
-      "S",
-      "IY1",
-      "V",
-      "D"
-    ]
+    "definition": "(of an idea or opinion) formed beforehand; especially without evidence or through prejudice"
   },
   {
     "word": "renting",
     "partOfSpeech": "noun",
     "zipf": 3.62,
     "score": 41.4,
-    "definition": "the act of paying for the use of something (as an apartment or house or car)",
-    "cmu": [
-      "R",
-      "EH1",
-      "N",
-      "T",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the act of paying for the use of something (as an apartment or house or car)"
   },
   {
     "word": "shouldered",
     "partOfSpeech": "adjective",
     "zipf": 2.84,
     "score": 41.4,
-    "definition": "having shoulders or shoulders as specified; usually used as a combining form",
-    "cmu": [
-      "SH",
-      "OW1",
-      "L",
-      "D",
-      "ER0",
-      "D"
-    ]
+    "definition": "having shoulders or shoulders as specified; usually used as a combining form"
   },
   {
     "word": "exercising",
     "partOfSpeech": "noun",
     "zipf": 3.73,
     "score": 41.3,
-    "definition": "the activity of exerting your muscles in various ways to keep fit",
-    "cmu": [
-      "EH1",
-      "K",
-      "S",
-      "ER0",
-      "S",
-      "AY2",
-      "Z",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the activity of exerting your muscles in various ways to keep fit"
   },
   {
     "word": "positioning",
     "partOfSpeech": "noun",
     "zipf": 3.73,
     "score": 41.3,
-    "definition": "the act of putting something in a certain place",
-    "cmu": [
-      "P",
-      "AH0",
-      "Z",
-      "IH1",
-      "SH",
-      "AH0",
-      "N",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the act of putting something in a certain place"
   },
   {
     "word": "retarded",
     "partOfSpeech": "noun",
     "zipf": 3.73,
     "score": 41.3,
-    "definition": "people collectively who are mentally retarded",
-    "cmu": [
-      "R",
-      "IH0",
-      "T",
-      "AA1",
-      "R",
-      "D",
-      "IH0",
-      "D"
-    ]
+    "definition": "people collectively who are mentally retarded"
   },
   {
     "word": "toed",
     "partOfSpeech": "adjective",
     "zipf": 2.83,
     "score": 41.3,
-    "definition": "having a toe or toes of a specified kind; often used in combination; five-toed\"",
-    "cmu": [
-      "T",
-      "OW1",
-      "D"
-    ]
+    "definition": "having a toe or toes of a specified kind; often used in combination; five-toed\""
   },
   {
     "word": "heavens",
     "partOfSpeech": "noun",
     "zipf": 3.72,
     "score": 41.2,
-    "definition": "the apparent surface of the imaginary sphere on which celestial bodies appear to be projected",
-    "cmu": [
-      "HH",
-      "EH1",
-      "V",
-      "AH0",
-      "N",
-      "Z"
-    ]
+    "definition": "the apparent surface of the imaginary sphere on which celestial bodies appear to be projected"
   },
   {
     "word": "shaping",
     "partOfSpeech": "noun",
     "zipf": 3.72,
     "score": 41.2,
-    "definition": "any process serving to define the shape of something",
-    "cmu": [
-      "SH",
-      "EY1",
-      "P",
-      "IH0",
-      "NG"
-    ]
+    "definition": "any process serving to define the shape of something"
   },
   {
     "word": "clarence",
     "partOfSpeech": "noun",
     "zipf": 3.71,
     "score": 41.1,
-    "definition": "a closed carriage with four wheels and seats for four passengers",
-    "cmu": [
-      "K",
-      "L",
-      "EH1",
-      "R",
-      "AH0",
-      "N",
-      "S"
-    ]
+    "definition": "a closed carriage with four wheels and seats for four passengers"
   },
   {
     "word": "slowing",
     "partOfSpeech": "noun",
     "zipf": 3.71,
     "score": 41.1,
-    "definition": "a decrease in rate of change",
-    "cmu": [
-      "S",
-      "L",
-      "OW1",
-      "IH0",
-      "NG"
-    ]
+    "definition": "a decrease in rate of change"
   },
   {
     "word": "coloring",
     "partOfSpeech": "noun",
     "zipf": 3.59,
     "score": 41.1,
-    "definition": "a digestible substance used to give color to food",
-    "cmu": [
-      "K",
-      "AH1",
-      "L",
-      "ER0",
-      "IH0",
-      "NG"
-    ]
+    "definition": "a digestible substance used to give color to food"
   },
   {
     "word": "buttoned",
     "partOfSpeech": "adjective",
     "zipf": 2.81,
     "score": 41.1,
-    "definition": "furnished or closed with buttons or something buttonlike",
-    "cmu": [
-      "B",
-      "AH1",
-      "T",
-      "AH0",
-      "N",
-      "D"
-    ]
+    "definition": "furnished or closed with buttons or something buttonlike"
   },
   {
     "word": "belted",
     "partOfSpeech": "adjective",
     "zipf": 2.8,
     "score": 41.0,
-    "definition": "having or provided with a belt",
-    "cmu": [
-      "B",
-      "EH1",
-      "L",
-      "T",
-      "AH0",
-      "D"
-    ]
+    "definition": "having or provided with a belt"
   },
   {
     "word": "brent",
     "partOfSpeech": "noun",
     "zipf": 3.69,
     "score": 40.9,
-    "definition": "small dark geese that breed in the north and migrate southward",
-    "cmu": [
-      "B",
-      "R",
-      "EH1",
-      "N",
-      "T"
-    ]
+    "definition": "small dark geese that breed in the north and migrate southward"
   },
   {
     "word": "chilling",
     "partOfSpeech": "noun",
     "zipf": 3.69,
     "score": 40.9,
-    "definition": "the process of becoming cooler; a falling temperature",
-    "cmu": [
-      "CH",
-      "IH1",
-      "L",
-      "IH0",
-      "NG"
-    ]
+    "definition": "the process of becoming cooler; a falling temperature"
   },
   {
     "word": "figuring",
     "partOfSpeech": "noun",
     "zipf": 3.69,
     "score": 40.9,
-    "definition": "problem solving that involves numbers or quantities",
-    "cmu": [
-      "F",
-      "IH1",
-      "G",
-      "Y",
-      "ER0",
-      "IH0",
-      "NG"
-    ]
+    "definition": "problem solving that involves numbers or quantities"
   },
   {
     "word": "scheduling",
     "partOfSpeech": "noun",
     "zipf": 3.69,
     "score": 40.9,
-    "definition": "setting an order and time for planned events",
-    "cmu": [
-      "S",
-      "K",
-      "EH1",
-      "JH",
-      "UH0",
-      "L",
-      "IH0",
-      "NG"
-    ]
+    "definition": "setting an order and time for planned events"
+  },
+  {
+    "word": "euclidean",
+    "partOfSpeech": "adjective",
+    "zipf": 2.79,
+    "score": 40.9,
+    "definition": "relating to geometry as developed by Euclid"
   },
   {
     "word": "bounds",
     "partOfSpeech": "noun",
     "zipf": 3.68,
     "score": 40.8,
-    "definition": "the line or plane indicating the limit or extent of something",
-    "cmu": [
-      "B",
-      "AW1",
-      "N",
-      "D",
-      "Z"
-    ]
+    "definition": "the line or plane indicating the limit or extent of something"
   },
   {
     "word": "tails",
     "partOfSpeech": "noun",
     "zipf": 3.68,
     "score": 40.8,
-    "definition": "formalwear consisting of full evening dress for men",
-    "cmu": [
-      "T",
-      "EY1",
-      "L",
-      "Z"
-    ]
+    "definition": "formalwear consisting of full evening dress for men"
   },
   {
     "word": "bettering",
     "partOfSpeech": "adjective",
     "zipf": 2.78,
     "score": 40.8,
-    "definition": "changing for the better",
-    "cmu": [
-      "B",
-      "EH1",
-      "T",
-      "ER0",
-      "IH0",
-      "NG"
-    ]
+    "definition": "changing for the better"
   },
   {
     "word": "mismatched",
     "partOfSpeech": "adjective",
     "zipf": 2.78,
     "score": 40.8,
-    "definition": "either not matched or unsuitably matched",
-    "cmu": [
-      "M",
-      "IH0",
-      "S",
-      "M",
-      "AE1",
-      "CH",
-      "T"
-    ]
+    "definition": "either not matched or unsuitably matched"
   },
   {
     "word": "toby",
     "partOfSpeech": "noun",
     "zipf": 3.67,
     "score": 40.7,
-    "definition": "a drinking mug in the shape of a stout man wearing a three-cornered hat",
-    "cmu": [
-      "T",
-      "OW1",
-      "B",
-      "IY0"
-    ]
+    "definition": "a drinking mug in the shape of a stout man wearing a three-cornered hat"
   },
   {
     "word": "tuning",
     "partOfSpeech": "noun",
     "zipf": 3.67,
     "score": 40.7,
-    "definition": "(music) calibrating something (an instrument or electronic circuit) to a standard frequency",
-    "cmu": [
-      "T",
-      "UW1",
-      "N",
-      "IH0",
-      "NG"
-    ]
-  },
-  {
-    "word": "trailing",
-    "partOfSpeech": "noun",
-    "zipf": 3.55,
-    "score": 40.7,
-    "definition": "the pursuit (of a person or animal) by following tracks or marks they left behind",
-    "cmu": [
-      "T",
-      "R",
-      "EY1",
-      "L",
-      "IH0",
-      "NG"
-    ]
-  },
-  {
-    "word": "ploughed",
-    "partOfSpeech": "adjective",
-    "zipf": 2.77,
-    "score": 40.7,
-    "definition": "(of farmland) broken and turned over with a plow",
-    "cmu": [
-      "P",
-      "L",
-      "AW1",
-      "D"
-    ]
-  },
-  {
-    "word": "roofed",
-    "partOfSpeech": "adjective",
-    "zipf": 2.77,
-    "score": 40.7,
-    "definition": "covered with a roof; having a roof as specified (often used in combination)",
-    "cmu": [
-      "R",
-      "UW1",
-      "F",
-      "T"
-    ]
-  },
-  {
-    "word": "soured",
-    "partOfSpeech": "adjective",
-    "zipf": 2.77,
-    "score": 40.7,
-    "definition": "having turned bad",
-    "cmu": [
-      "S",
-      "AW1",
-      "ER0",
-      "D"
-    ]
-  },
-  {
-    "word": "contracting",
-    "partOfSpeech": "noun",
-    "zipf": 3.65,
-    "score": 40.5,
-    "definition": "becoming infected",
-    "cmu": [
-      "K",
-      "AA1",
-      "N",
-      "T",
-      "R",
-      "AE0",
-      "K",
-      "T",
-      "IH0",
-      "NG"
-    ]
-  },
-  {
-    "word": "consummated",
-    "partOfSpeech": "adjective",
-    "zipf": 2.75,
-    "score": 40.5,
-    "definition": "brought to completion",
-    "cmu": [
-      "K",
-      "AA1",
-      "N",
-      "S",
-      "AH0",
-      "M",
-      "EY2",
-      "T",
-      "AH0",
-      "D"
-    ]
-  },
-  {
-    "word": "dimmed",
-    "partOfSpeech": "adjective",
-    "zipf": 2.75,
-    "score": 40.5,
-    "definition": "made dim or less bright",
-    "cmu": [
-      "D",
-      "IH1",
-      "M",
-      "D"
-    ]
-  },
-  {
-    "word": "sensing",
-    "partOfSpeech": "noun",
-    "zipf": 3.64,
-    "score": 40.4,
-    "definition": "the perception that something has occurred or some state exists",
-    "cmu": [
-      "S",
-      "EH1",
-      "N",
-      "S",
-      "IH0",
-      "NG"
-    ]
+    "definition": "(music) calibrating something (an instrument or electronic circuit) to a standard frequency"
   }
 ]

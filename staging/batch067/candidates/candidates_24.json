@@ -1,0 +1,702 @@
+[
+  {
+    "word": "touchline",
+    "partOfSpeech": "noun",
+    "zipf": 2.35,
+    "score": 27.5,
+    "definition": "either of the sidelines in soccer or rugby"
+  },
+  {
+    "word": "egoist",
+    "partOfSpeech": "noun",
+    "zipf": 2.23,
+    "score": 27.5,
+    "definition": "a conceited and self-centered person"
+  },
+  {
+    "word": "hadji",
+    "partOfSpeech": "noun",
+    "zipf": 2.23,
+    "score": 27.5,
+    "definition": "an Arabic term of respect for someone who has made the pilgrimage to Mecca"
+  },
+  {
+    "word": "pudge",
+    "partOfSpeech": "noun",
+    "zipf": 2.23,
+    "score": 27.5,
+    "definition": "a short fat person"
+  },
+  {
+    "word": "silversmith",
+    "partOfSpeech": "noun",
+    "zipf": 2.23,
+    "score": 27.5,
+    "definition": "someone who makes or repairs articles of silver"
+  },
+  {
+    "word": "abeam",
+    "partOfSpeech": "adverb",
+    "zipf": 1.75,
+    "score": 27.5,
+    "definition": "at right angles to the length of a ship or airplane"
+  },
+  {
+    "word": "deviously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.75,
+    "score": 27.5,
+    "definition": "in a devious manner"
+  },
+  {
+    "word": "extempore",
+    "partOfSpeech": "adverb",
+    "zipf": 1.75,
+    "score": 27.5,
+    "definition": "without prior preparation"
+  },
+  {
+    "word": "heavenward",
+    "partOfSpeech": "adverb",
+    "zipf": 1.75,
+    "score": 27.5,
+    "definition": "toward heaven"
+  },
+  {
+    "word": "loftily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.75,
+    "score": 27.5,
+    "definition": "in a lofty manner"
+  },
+  {
+    "word": "offhandedly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.75,
+    "score": 27.5,
+    "definition": "without previous thought or preparation"
+  },
+  {
+    "word": "radioactively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.75,
+    "score": 27.5,
+    "definition": "in a radioactive manner"
+  },
+  {
+    "word": "worriedly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.75,
+    "score": 27.5,
+    "definition": "in a worried manner"
+  },
+  {
+    "word": "agonal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.45,
+    "score": 27.5,
+    "definition": "pertaining to or associated with agony (especially death agonies)"
+  },
+  {
+    "word": "appetitive",
+    "partOfSpeech": "adjective",
+    "zipf": 1.45,
+    "score": 27.5,
+    "definition": "of or relating to appetite"
+  },
+  {
+    "word": "cauline",
+    "partOfSpeech": "adjective",
+    "zipf": 1.45,
+    "score": 27.5,
+    "definition": "(of plants) producing a well-developed stem above ground"
+  },
+  {
+    "word": "commutable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.45,
+    "score": 27.5,
+    "definition": "subject to alteration or change"
+  },
+  {
+    "word": "cuprous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.45,
+    "score": 27.5,
+    "definition": "of or containing divalent copper"
+  },
+  {
+    "word": "euclidian",
+    "partOfSpeech": "adjective",
+    "zipf": 1.45,
+    "score": 27.5,
+    "definition": "relating to geometry as developed by Euclid"
+  },
+  {
+    "word": "glossopharyngeal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.45,
+    "score": 27.5,
+    "definition": "pertaining to the tongue and throat"
+  },
+  {
+    "word": "meteoritic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.45,
+    "score": 27.5,
+    "definition": "of or relating to or caused by meteorites"
+  },
+  {
+    "word": "neuralgic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.45,
+    "score": 27.5,
+    "definition": "of or relating to or suffering from neuralgia"
+  },
+  {
+    "word": "pardonable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.45,
+    "score": 27.5,
+    "definition": "admitting of being pardoned"
+  },
+  {
+    "word": "pyroelectric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.45,
+    "score": 27.5,
+    "definition": "relating to or exhibiting pyroelectricity"
+  },
+  {
+    "word": "tetanic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.45,
+    "score": 27.5,
+    "definition": "of or relating to or causing tetany"
+  },
+  {
+    "word": "uninflected",
+    "partOfSpeech": "adjective",
+    "zipf": 1.45,
+    "score": 27.5,
+    "definition": "(of the voice) not inflected"
+  },
+  {
+    "word": "boozing",
+    "partOfSpeech": "noun",
+    "zipf": 2.34,
+    "score": 27.4,
+    "definition": "the act of drinking alcoholic beverages to excess"
+  },
+  {
+    "word": "clumping",
+    "partOfSpeech": "noun",
+    "zipf": 2.34,
+    "score": 27.4,
+    "definition": "the sound of a horse's hoofs hitting on a hard surface"
+  },
+  {
+    "word": "coalfield",
+    "partOfSpeech": "noun",
+    "zipf": 2.34,
+    "score": 27.4,
+    "definition": "a region where there is coal underground"
+  },
+  {
+    "word": "crafter",
+    "partOfSpeech": "noun",
+    "zipf": 2.34,
+    "score": 27.4,
+    "definition": "a creator of great skill in the manual arts"
+  },
+  {
+    "word": "gramma",
+    "partOfSpeech": "noun",
+    "zipf": 2.34,
+    "score": 27.4,
+    "definition": "pasture grass of plains of South America and western North America"
+  },
+  {
+    "word": "hosanna",
+    "partOfSpeech": "noun",
+    "zipf": 2.34,
+    "score": 27.4,
+    "definition": "a cry of praise or adoration (to God)"
+  },
+  {
+    "word": "laddie",
+    "partOfSpeech": "noun",
+    "zipf": 2.34,
+    "score": 27.4,
+    "definition": "a male child (a familiar term of address to a boy)"
+  },
+  {
+    "word": "mapper",
+    "partOfSpeech": "noun",
+    "zipf": 2.34,
+    "score": 27.4,
+    "definition": "a clerk who marks data on a chart"
+  },
+  {
+    "word": "tackler",
+    "partOfSpeech": "noun",
+    "zipf": 2.34,
+    "score": 27.4,
+    "definition": "a football player who tackles the ball carrier"
+  },
+  {
+    "word": "militarist",
+    "partOfSpeech": "noun",
+    "zipf": 2.22,
+    "score": 27.4,
+    "definition": "a person who advocates war or warlike policies"
+  },
+  {
+    "word": "polygamist",
+    "partOfSpeech": "noun",
+    "zipf": 2.22,
+    "score": 27.4,
+    "definition": "someone who is married to two or more people at the same time"
+  },
+  {
+    "word": "stirrer",
+    "partOfSpeech": "noun",
+    "zipf": 2.22,
+    "score": 27.4,
+    "definition": "a person who spreads frightening rumors and stirs up trouble"
+  },
+  {
+    "word": "warhorse",
+    "partOfSpeech": "noun",
+    "zipf": 2.22,
+    "score": 27.4,
+    "definition": "a work of art (composition or drama) that is part of the standard repertory but has become hackneyed from much repetition"
+  },
+  {
+    "word": "giddily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.74,
+    "score": 27.4,
+    "definition": "in a giddy light-headed manner"
+  },
+  {
+    "word": "jarringly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.74,
+    "score": 27.4,
+    "definition": "in a manner that jars and irritates"
+  },
+  {
+    "word": "midships",
+    "partOfSpeech": "adverb",
+    "zipf": 1.74,
+    "score": 27.4,
+    "definition": "at or near or toward the center of a ship"
+  },
+  {
+    "word": "perceptively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.74,
+    "score": 27.4,
+    "definition": "in a perceptive manner"
+  },
+  {
+    "word": "plentifully",
+    "partOfSpeech": "adverb",
+    "zipf": 1.74,
+    "score": 27.4,
+    "definition": "in a bountiful manner"
+  },
+  {
+    "word": "shoddily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.74,
+    "score": 27.4,
+    "definition": "in a shoddy manner"
+  },
+  {
+    "word": "anticlinal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.44,
+    "score": 27.4,
+    "definition": "sloping downward away from a common crest"
+  },
+  {
+    "word": "condylar",
+    "partOfSpeech": "adjective",
+    "zipf": 1.44,
+    "score": 27.4,
+    "definition": "of or relating to or resembling a condyle"
+  },
+  {
+    "word": "creedal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.44,
+    "score": 27.4,
+    "definition": "of or relating to a creed"
+  },
+  {
+    "word": "decentralising",
+    "partOfSpeech": "adjective",
+    "zipf": 1.44,
+    "score": 27.4,
+    "definition": "tending away from a central point"
+  },
+  {
+    "word": "expiatory",
+    "partOfSpeech": "adjective",
+    "zipf": 1.44,
+    "score": 27.4,
+    "definition": "having power to atone for or offered by way of expiation or propitiation"
+  },
+  {
+    "word": "oneiric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.44,
+    "score": 27.4,
+    "definition": "of or relating to or suggestive of dreams"
+  },
+  {
+    "word": "spiritless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.44,
+    "score": 27.4,
+    "definition": "lacking ardor or vigor or energy"
+  },
+  {
+    "word": "unestablished",
+    "partOfSpeech": "adjective",
+    "zipf": 1.44,
+    "score": 27.4,
+    "definition": "not established"
+  },
+  {
+    "word": "vulval",
+    "partOfSpeech": "adjective",
+    "zipf": 1.44,
+    "score": 27.4,
+    "definition": "of or relating to the vulva"
+  },
+  {
+    "word": "constitutionalism",
+    "partOfSpeech": "noun",
+    "zipf": 2.33,
+    "score": 27.3,
+    "definition": "a constitutional system of government (usually with a written constitution)"
+  },
+  {
+    "word": "domine",
+    "partOfSpeech": "noun",
+    "zipf": 2.33,
+    "score": 27.3,
+    "definition": "a clergyman; especially a settled minister or parson"
+  },
+  {
+    "word": "satsuma",
+    "partOfSpeech": "noun",
+    "zipf": 2.33,
+    "score": 27.3,
+    "definition": "a variety of mandarin orange"
+  },
+  {
+    "word": "soldiering",
+    "partOfSpeech": "noun",
+    "zipf": 2.33,
+    "score": 27.3,
+    "definition": "skills that are required for the life of soldier"
+  },
+  {
+    "word": "zakat",
+    "partOfSpeech": "noun",
+    "zipf": 2.33,
+    "score": 27.3,
+    "definition": "the fourth pillar of Islam is almsgiving as an act of worship"
+  },
+  {
+    "word": "scrapper",
+    "partOfSpeech": "noun",
+    "zipf": 2.21,
+    "score": 27.3,
+    "definition": "someone who fights (or is fighting)"
+  },
+  {
+    "word": "softy",
+    "partOfSpeech": "noun",
+    "zipf": 2.21,
+    "score": 27.3,
+    "definition": "a person who is weak and excessively sentimental"
+  },
+  {
+    "word": "boisterously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.73,
+    "score": 27.3,
+    "definition": "in a carefree manner"
+  },
+  {
+    "word": "carnally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.73,
+    "score": 27.3,
+    "definition": "in a carnal manner"
+  },
+  {
+    "word": "dependably",
+    "partOfSpeech": "adverb",
+    "zipf": 1.73,
+    "score": 27.3,
+    "definition": "in a faithful manner"
+  },
+  {
+    "word": "dialectically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.73,
+    "score": 27.3,
+    "definition": "in a dialectic manner"
+  },
+  {
+    "word": "electrostatically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.73,
+    "score": 27.3,
+    "definition": "in an electrostatic manner"
+  },
+  {
+    "word": "forsooth",
+    "partOfSpeech": "adverb",
+    "zipf": 1.73,
+    "score": 27.3,
+    "definition": "an archaic word originally meaning `in truth' but now usually used to express disbelief"
+  },
+  {
+    "word": "jubilantly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.73,
+    "score": 27.3,
+    "definition": "in a joyous manner"
+  },
+  {
+    "word": "magnanimously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.73,
+    "score": 27.3,
+    "definition": "in a magnanimous manner"
+  },
+  {
+    "word": "pinnately",
+    "partOfSpeech": "adverb",
+    "zipf": 1.73,
+    "score": 27.3,
+    "definition": "having a pinnate shape"
+  },
+  {
+    "word": "recurrently",
+    "partOfSpeech": "adverb",
+    "zipf": 1.73,
+    "score": 27.3,
+    "definition": "in a recurrent manner"
+  },
+  {
+    "word": "tiredly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.73,
+    "score": 27.3,
+    "definition": "in a weary manner"
+  },
+  {
+    "word": "adaxial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.43,
+    "score": 27.3,
+    "definition": "nearest to or facing toward the axis of an organ or organism"
+  },
+  {
+    "word": "adjudicative",
+    "partOfSpeech": "adjective",
+    "zipf": 1.43,
+    "score": 27.3,
+    "definition": "concerned with adjudicating"
+  },
+  {
+    "word": "allochthonous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.43,
+    "score": 27.3,
+    "definition": "of rocks, deposits, etc.; found in a place other than where they and their constituents were formed"
+  },
+  {
+    "word": "apophatic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.43,
+    "score": 27.3,
+    "definition": "of or relating to the belief that God can be known to humans only in terms of what He is not (such as `God is unknowable')"
+  },
+  {
+    "word": "appendicular",
+    "partOfSpeech": "adjective",
+    "zipf": 1.43,
+    "score": 27.3,
+    "definition": "relating to or consisting of an appendage or appendages; especially the limbs"
+  },
+  {
+    "word": "dicotyledonous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.43,
+    "score": 27.3,
+    "definition": "(of a flowering plant) having two cotyledons in the seed"
+  },
+  {
+    "word": "manful",
+    "partOfSpeech": "adjective",
+    "zipf": 1.43,
+    "score": 27.3,
+    "definition": "possessing qualities befitting a man"
+  },
+  {
+    "word": "mercerized",
+    "partOfSpeech": "adjective",
+    "zipf": 1.43,
+    "score": 27.3,
+    "definition": "of cotton thread that has been treated with sodium hydroxide to shrink it and increase its luster and affinity for dye"
+  },
+  {
+    "word": "myalgic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.43,
+    "score": 27.3,
+    "definition": "of or relating to myalgia"
+  },
+  {
+    "word": "postganglionic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.43,
+    "score": 27.3,
+    "definition": "beyond or distal to a ganglion (referring especially to the unmyelinated fibers that originate from cells in autonomic ganglia)"
+  },
+  {
+    "word": "quantal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.43,
+    "score": 27.3,
+    "definition": "of or relating to a quantum or capable of existing in only one of two states"
+  },
+  {
+    "word": "rickettsial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.43,
+    "score": 27.3,
+    "definition": "relating to or caused by rickettsias"
+  },
+  {
+    "word": "saponified",
+    "partOfSpeech": "adjective",
+    "zipf": 1.43,
+    "score": 27.3,
+    "definition": "converted into soap"
+  },
+  {
+    "word": "thermogravimetric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.43,
+    "score": 27.3,
+    "definition": "of or relating to thermal hydrometry"
+  },
+  {
+    "word": "tricentennial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.43,
+    "score": 27.3,
+    "definition": "of or relating to or completing a period of 300 years"
+  },
+  {
+    "word": "unpasteurised",
+    "partOfSpeech": "adjective",
+    "zipf": 1.43,
+    "score": 27.3,
+    "definition": "not having undergone pasteurization"
+  },
+  {
+    "word": "atar",
+    "partOfSpeech": "noun",
+    "zipf": 2.32,
+    "score": 27.2,
+    "definition": "essential oil or perfume obtained from flowers"
+  },
+  {
+    "word": "benefice",
+    "partOfSpeech": "noun",
+    "zipf": 2.32,
+    "score": 27.2,
+    "definition": "an endowed church office giving income to its holder"
+  },
+  {
+    "word": "episcopate",
+    "partOfSpeech": "noun",
+    "zipf": 2.32,
+    "score": 27.2,
+    "definition": "the term of office of a bishop"
+  },
+  {
+    "word": "herm",
+    "partOfSpeech": "noun",
+    "zipf": 2.32,
+    "score": 27.2,
+    "definition": "a statue consisting of a squared stone pillar with a carved head (usually a bearded Hermes) on top; used in ancient Greece as a boundary marker or signpost"
+  },
+  {
+    "word": "orthopaedics",
+    "partOfSpeech": "noun",
+    "zipf": 2.32,
+    "score": 27.2,
+    "definition": "the branch of medical science concerned with disorders or deformities of the spine and joints"
+  },
+  {
+    "word": "pleb",
+    "partOfSpeech": "noun",
+    "zipf": 2.32,
+    "score": 27.2,
+    "definition": "one of the common people"
+  },
+  {
+    "word": "ratan",
+    "partOfSpeech": "noun",
+    "zipf": 2.32,
+    "score": 27.2,
+    "definition": "a switch made from the stems of the rattan palms"
+  },
+  {
+    "word": "scamp",
+    "partOfSpeech": "noun",
+    "zipf": 2.32,
+    "score": 27.2,
+    "definition": "one who is playfully mischievous"
+  },
+  {
+    "word": "tabi",
+    "partOfSpeech": "noun",
+    "zipf": 2.32,
+    "score": 27.2,
+    "definition": "a sock with a separation for the big toe; worn with thong sandals by the Japanese"
+  },
+  {
+    "word": "tosser",
+    "partOfSpeech": "noun",
+    "zipf": 2.32,
+    "score": 27.2,
+    "definition": "terms of abuse for a masturbator"
+  },
+  {
+    "word": "voiding",
+    "partOfSpeech": "noun",
+    "zipf": 2.32,
+    "score": 27.2,
+    "definition": "the bodily process of discharging waste matter"
+  },
+  {
+    "word": "gryphon",
+    "partOfSpeech": "noun",
+    "zipf": 2.2,
+    "score": 27.2,
+    "definition": "winged monster with the head of an eagle and the body of a lion"
+  }
+]

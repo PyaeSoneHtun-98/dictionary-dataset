@@ -1,0 +1,702 @@
+[
+  {
+    "word": "monocotyledonous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.39,
+    "score": 26.9,
+    "definition": "(of a flowering plant) having a single cotyledon in the seed as in grasses and lilies"
+  },
+  {
+    "word": "onomastic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.39,
+    "score": 26.9,
+    "definition": "of or related to onomastics"
+  },
+  {
+    "word": "ovular",
+    "partOfSpeech": "adjective",
+    "zipf": 1.39,
+    "score": 26.9,
+    "definition": "being or of the nature of an ovule"
+  },
+  {
+    "word": "sublittoral",
+    "partOfSpeech": "adjective",
+    "zipf": 1.39,
+    "score": 26.9,
+    "definition": "of or relating to the region of the continental shelf (between the seashore and the edge of the continental shelf) or the marine organisms situated there"
+  },
+  {
+    "word": "unmarred",
+    "partOfSpeech": "adjective",
+    "zipf": 1.39,
+    "score": 26.9,
+    "definition": "free from physical or moral spots or stains"
+  },
+  {
+    "word": "unpigmented",
+    "partOfSpeech": "adjective",
+    "zipf": 1.39,
+    "score": 26.9,
+    "definition": "having no pigmentation"
+  },
+  {
+    "word": "unspecialized",
+    "partOfSpeech": "adjective",
+    "zipf": 1.39,
+    "score": 26.9,
+    "definition": "not specialized or modified for a particular purpose or function"
+  },
+  {
+    "word": "upstair",
+    "partOfSpeech": "adjective",
+    "zipf": 1.39,
+    "score": 26.9,
+    "definition": "on or of upper floors of a building"
+  },
+  {
+    "word": "pyrotechnical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.27,
+    "score": 26.9,
+    "definition": "of or relating to the craft of making fireworks"
+  },
+  {
+    "word": "ayah",
+    "partOfSpeech": "noun",
+    "zipf": 2.28,
+    "score": 26.8,
+    "definition": "(in India) a native nursemaid who looks after children"
+  },
+  {
+    "word": "dilettante",
+    "partOfSpeech": "noun",
+    "zipf": 2.28,
+    "score": 26.8,
+    "definition": "an amateur who engages in an activity without serious intentions and who pretends to have knowledge"
+  },
+  {
+    "word": "fathead",
+    "partOfSpeech": "noun",
+    "zipf": 2.28,
+    "score": 26.8,
+    "definition": "a man who is a stupid incompetent fool"
+  },
+  {
+    "word": "fountainhead",
+    "partOfSpeech": "noun",
+    "zipf": 2.28,
+    "score": 26.8,
+    "definition": "an abundant source"
+  },
+  {
+    "word": "maharajah",
+    "partOfSpeech": "noun",
+    "zipf": 2.28,
+    "score": 26.8,
+    "definition": "a great raja; a Hindu prince or king in India ranking above a raja"
+  },
+  {
+    "word": "taichi",
+    "partOfSpeech": "noun",
+    "zipf": 2.28,
+    "score": 26.8,
+    "definition": "a Chinese system of slow meditative physical exercise designed for relaxation and balance and health"
+  },
+  {
+    "word": "veld",
+    "partOfSpeech": "noun",
+    "zipf": 2.28,
+    "score": 26.8,
+    "definition": "elevated open grassland in southern Africa"
+  },
+  {
+    "word": "sociolinguistics",
+    "partOfSpeech": "noun",
+    "zipf": 2.16,
+    "score": 26.8,
+    "definition": "the study of language in relation to its sociocultural context"
+  },
+  {
+    "word": "forager",
+    "partOfSpeech": "noun",
+    "zipf": 2.04,
+    "score": 26.8,
+    "definition": "someone who hunts for food and provisions"
+  },
+  {
+    "word": "anachronistically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.68,
+    "score": 26.8,
+    "definition": "in an anachronistic manner"
+  },
+  {
+    "word": "comfortingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.68,
+    "score": 26.8,
+    "definition": "in a comforting or consoling manner"
+  },
+  {
+    "word": "contrastingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.68,
+    "score": 26.8,
+    "definition": "in a contrasting manner"
+  },
+  {
+    "word": "paternally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.68,
+    "score": 26.8,
+    "definition": "in a paternal manner"
+  },
+  {
+    "word": "pictorially",
+    "partOfSpeech": "adverb",
+    "zipf": 1.68,
+    "score": 26.8,
+    "definition": "in a pictorial manner"
+  },
+  {
+    "word": "probabilistically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.68,
+    "score": 26.8,
+    "definition": "by the use of probability theory"
+  },
+  {
+    "word": "sanely",
+    "partOfSpeech": "adverb",
+    "zipf": 1.68,
+    "score": 26.8,
+    "definition": "with good sense or in a reasonable or intelligent manner"
+  },
+  {
+    "word": "vacantly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.68,
+    "score": 26.8,
+    "definition": "in a vacant manner"
+  },
+  {
+    "word": "astigmatic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.38,
+    "score": 26.8,
+    "definition": "of or relating to a defect in the eye or in a lens caused by a deviation from spherical curvature which prevents light rays from meeting at a common focus and so results in distorted images"
+  },
+  {
+    "word": "chemic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.38,
+    "score": 26.8,
+    "definition": "relating to or used in chemistry"
+  },
+  {
+    "word": "cupric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.38,
+    "score": 26.8,
+    "definition": "of or containing divalent copper"
+  },
+  {
+    "word": "denotative",
+    "partOfSpeech": "adjective",
+    "zipf": 1.38,
+    "score": 26.8,
+    "definition": "having the power of explicitly denoting or designating or naming"
+  },
+  {
+    "word": "motional",
+    "partOfSpeech": "adjective",
+    "zipf": 1.38,
+    "score": 26.8,
+    "definition": "of or relating to or characterized by motion"
+  },
+  {
+    "word": "rotatory",
+    "partOfSpeech": "adjective",
+    "zipf": 1.38,
+    "score": 26.8,
+    "definition": "of or relating to or characteristic or causing an axial or orbital turn"
+  },
+  {
+    "word": "tuberculate",
+    "partOfSpeech": "adjective",
+    "zipf": 1.38,
+    "score": 26.8,
+    "definition": "covered with tubercles"
+  },
+  {
+    "word": "unstaged",
+    "partOfSpeech": "adjective",
+    "zipf": 1.26,
+    "score": 26.8,
+    "definition": "not performed on the stage"
+  },
+  {
+    "word": "hamming",
+    "partOfSpeech": "noun",
+    "zipf": 2.27,
+    "score": 26.7,
+    "definition": "poor acting by a ham actor"
+  },
+  {
+    "word": "interbreeding",
+    "partOfSpeech": "noun",
+    "zipf": 2.27,
+    "score": 26.7,
+    "definition": "(genetics) the act of mixing different species or varieties of animals or plants and thus to produce hybrids"
+  },
+  {
+    "word": "mujahid",
+    "partOfSpeech": "noun",
+    "zipf": 2.27,
+    "score": 26.7,
+    "definition": "a Muslim engaged in what he considers to be a jihad"
+  },
+  {
+    "word": "neutering",
+    "partOfSpeech": "noun",
+    "zipf": 2.27,
+    "score": 26.7,
+    "definition": "the sterilization of an animal"
+  },
+  {
+    "word": "timekeeper",
+    "partOfSpeech": "noun",
+    "zipf": 2.27,
+    "score": 26.7,
+    "definition": "(sports) an official who keeps track of the time elapsed"
+  },
+  {
+    "word": "tinting",
+    "partOfSpeech": "noun",
+    "zipf": 2.27,
+    "score": 26.7,
+    "definition": "the act of adding a tinge of color"
+  },
+  {
+    "word": "supernumerary",
+    "partOfSpeech": "noun",
+    "zipf": 2.15,
+    "score": 26.7,
+    "definition": "a person serving no apparent function"
+  },
+  {
+    "word": "signalman",
+    "partOfSpeech": "noun",
+    "zipf": 2.03,
+    "score": 26.7,
+    "definition": "a railroad employee in charge of signals and point in a railroad yard"
+  },
+  {
+    "word": "outlandishly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.67,
+    "score": 26.7,
+    "definition": "in an outlandish manner"
+  },
+  {
+    "word": "pedagogically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.67,
+    "score": 26.7,
+    "definition": "in a didactic manner"
+  },
+  {
+    "word": "rampantly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.67,
+    "score": 26.7,
+    "definition": "in an uncontrolled and rampant manner"
+  },
+  {
+    "word": "spotlessly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.67,
+    "score": 26.7,
+    "definition": "in a spotless manner"
+  },
+  {
+    "word": "superlatively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.67,
+    "score": 26.7,
+    "definition": "to a superlative degree"
+  },
+  {
+    "word": "vulgarly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.67,
+    "score": 26.7,
+    "definition": "in a smutty manner"
+  },
+  {
+    "word": "asteroidal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.37,
+    "score": 26.7,
+    "definition": "of or relating to or resembling an asteroid"
+  },
+  {
+    "word": "cryonic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.37,
+    "score": 26.7,
+    "definition": "of or relating to cryonics"
+  },
+  {
+    "word": "equipt",
+    "partOfSpeech": "adjective",
+    "zipf": 1.37,
+    "score": 26.7,
+    "definition": "provided or fitted out with what is necessary or useful or appropriate"
+  },
+  {
+    "word": "granulocytic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.37,
+    "score": 26.7,
+    "definition": "of or relating to granulocytes"
+  },
+  {
+    "word": "lunisolar",
+    "partOfSpeech": "adjective",
+    "zipf": 1.37,
+    "score": 26.7,
+    "definition": "relating to or attributed to the moon and the sun or their mutual relations"
+  },
+  {
+    "word": "manlike",
+    "partOfSpeech": "adjective",
+    "zipf": 1.37,
+    "score": 26.7,
+    "definition": "possessing qualities befitting a man"
+  },
+  {
+    "word": "megaloblastic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.37,
+    "score": 26.7,
+    "definition": "of or relating to megaloblasts"
+  },
+  {
+    "word": "outbred",
+    "partOfSpeech": "adjective",
+    "zipf": 1.37,
+    "score": 26.7,
+    "definition": "bred of parents not closely related; having parents of different classes or tribes"
+  },
+  {
+    "word": "raptorial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.37,
+    "score": 26.7,
+    "definition": "relating to or characteristic of birds of prey"
+  },
+  {
+    "word": "unmyelinated",
+    "partOfSpeech": "adjective",
+    "zipf": 1.37,
+    "score": 26.7,
+    "definition": "(of neurons) not myelinated"
+  },
+  {
+    "word": "unplanted",
+    "partOfSpeech": "adjective",
+    "zipf": 1.37,
+    "score": 26.7,
+    "definition": "not planted"
+  },
+  {
+    "word": "doula",
+    "partOfSpeech": "noun",
+    "zipf": 2.26,
+    "score": 26.6,
+    "definition": "an assistant (often the father of the soon-to-be-born child) who provides support for a woman in labor by encouraging her to use techniques learned in childbirth-preparation classes"
+  },
+  {
+    "word": "julienne",
+    "partOfSpeech": "noun",
+    "zipf": 2.26,
+    "score": 26.6,
+    "definition": "a vegetable cut into thin strips (usually used as a garnish)"
+  },
+  {
+    "word": "lashings",
+    "partOfSpeech": "noun",
+    "zipf": 2.26,
+    "score": 26.6,
+    "definition": "a large number or amount"
+  },
+  {
+    "word": "ornithologist",
+    "partOfSpeech": "noun",
+    "zipf": 2.26,
+    "score": 26.6,
+    "definition": "a zoologist who studies birds"
+  },
+  {
+    "word": "seigneur",
+    "partOfSpeech": "noun",
+    "zipf": 2.26,
+    "score": 26.6,
+    "definition": "a man of rank in the ancient regime"
+  },
+  {
+    "word": "braggart",
+    "partOfSpeech": "noun",
+    "zipf": 2.14,
+    "score": 26.6,
+    "definition": "a very boastful and talkative person"
+  },
+  {
+    "word": "nitwit",
+    "partOfSpeech": "noun",
+    "zipf": 2.14,
+    "score": 26.6,
+    "definition": "a stupid incompetent person"
+  },
+  {
+    "word": "sympathiser",
+    "partOfSpeech": "noun",
+    "zipf": 2.14,
+    "score": 26.6,
+    "definition": "commiserates with someone who has had misfortune"
+  },
+  {
+    "word": "tagger",
+    "partOfSpeech": "noun",
+    "zipf": 2.14,
+    "score": 26.6,
+    "definition": "someone who assigns labels to the grammatical constituents of textual matter"
+  },
+  {
+    "word": "stabber",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 26.6,
+    "definition": "someone who stabs another person"
+  },
+  {
+    "word": "hirer",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 26.6,
+    "definition": "a person responsible for hiring workers"
+  },
+  {
+    "word": "bureaucratically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.66,
+    "score": 26.6,
+    "definition": "in a bureaucratic manner"
+  },
+  {
+    "word": "considerately",
+    "partOfSpeech": "adverb",
+    "zipf": 1.66,
+    "score": 26.6,
+    "definition": "in a considerate manner"
+  },
+  {
+    "word": "everlastingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.66,
+    "score": 26.6,
+    "definition": "for a limitless time; ; - P.P.Bliss"
+  },
+  {
+    "word": "hellishly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.66,
+    "score": 26.6,
+    "definition": "extremely"
+  },
+  {
+    "word": "noiselessly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.66,
+    "score": 26.6,
+    "definition": "without a sound"
+  },
+  {
+    "word": "pretentiously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.66,
+    "score": 26.6,
+    "definition": "in a pretentious manner"
+  },
+  {
+    "word": "centromeric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.36,
+    "score": 26.6,
+    "definition": "pertaining to the dense specialized portion of a chromosome to which the spindle attaches during mitosis"
+  },
+  {
+    "word": "chlamydial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.36,
+    "score": 26.6,
+    "definition": "of or pertaining to the sexually transmitted infection or to the parasite"
+  },
+  {
+    "word": "heliacal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.36,
+    "score": 26.6,
+    "definition": "pertaining to or near the sun; especially the first rising of a star after and last setting before its invisibility owing to its conjunction with the sun"
+  },
+  {
+    "word": "mentholated",
+    "partOfSpeech": "adjective",
+    "zipf": 1.36,
+    "score": 26.6,
+    "definition": "containing, or impregnated with, menthol"
+  },
+  {
+    "word": "nephritic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.36,
+    "score": 26.6,
+    "definition": "affected by nephritis"
+  },
+  {
+    "word": "sarcoid",
+    "partOfSpeech": "adjective",
+    "zipf": 1.36,
+    "score": 26.6,
+    "definition": "of or relating to or resembling flesh"
+  },
+  {
+    "word": "softhearted",
+    "partOfSpeech": "adjective",
+    "zipf": 1.36,
+    "score": 26.6,
+    "definition": "easily moved to pity or sorrow"
+  },
+  {
+    "word": "spiritualistic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.36,
+    "score": 26.6,
+    "definition": "of or relating to or connected with spiritualism"
+  },
+  {
+    "word": "unsexed",
+    "partOfSpeech": "adjective",
+    "zipf": 1.36,
+    "score": 26.6,
+    "definition": "deprived of sexual capacity or sexual attributes"
+  },
+  {
+    "word": "mesomorphic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.24,
+    "score": 26.6,
+    "definition": "having a robust muscular body-build characterized by predominance of structures (bone and muscle and connective tissue) developed from the embryonic mesodermal layer"
+  },
+  {
+    "word": "untraveled",
+    "partOfSpeech": "adjective",
+    "zipf": 1.24,
+    "score": 26.6,
+    "definition": "not traveled over or through"
+  },
+  {
+    "word": "attractor",
+    "partOfSpeech": "noun",
+    "zipf": 2.25,
+    "score": 26.5,
+    "definition": "an entertainer who attracts large audiences"
+  },
+  {
+    "word": "dolor",
+    "partOfSpeech": "noun",
+    "zipf": 2.25,
+    "score": 26.5,
+    "definition": "(poetry) painful grief"
+  },
+  {
+    "word": "glimmering",
+    "partOfSpeech": "noun",
+    "zipf": 2.25,
+    "score": 26.5,
+    "definition": "a slight suggestion or vague understanding"
+  },
+  {
+    "word": "necking",
+    "partOfSpeech": "noun",
+    "zipf": 2.25,
+    "score": 26.5,
+    "definition": "the molding at the top of a column"
+  },
+  {
+    "word": "paediatrician",
+    "partOfSpeech": "noun",
+    "zipf": 2.25,
+    "score": 26.5,
+    "definition": "a specialist in the care of babies"
+  },
+  {
+    "word": "tipu",
+    "partOfSpeech": "noun",
+    "zipf": 2.25,
+    "score": 26.5,
+    "definition": "semi-evergreen South American tree with odd-pinnate leaves and golden yellow flowers cultivated as an ornamental"
+  },
+  {
+    "word": "busybody",
+    "partOfSpeech": "noun",
+    "zipf": 2.13,
+    "score": 26.5,
+    "definition": "a person who meddles in the affairs of others"
+  },
+  {
+    "word": "hindquarters",
+    "partOfSpeech": "noun",
+    "zipf": 2.13,
+    "score": 26.5,
+    "definition": "the fleshy part of the human body that you sit on"
+  },
+  {
+    "word": "smiler",
+    "partOfSpeech": "noun",
+    "zipf": 2.13,
+    "score": 26.5,
+    "definition": "a person who smiles"
+  },
+  {
+    "word": "spymaster",
+    "partOfSpeech": "noun",
+    "zipf": 2.13,
+    "score": 26.5,
+    "definition": "someone who directs clandestine intelligence activities"
+  },
+  {
+    "word": "transubstantiation",
+    "partOfSpeech": "noun",
+    "zipf": 2.13,
+    "score": 26.5,
+    "definition": "the Roman Catholic doctrine that the whole substance of the bread and the wine changes into the substance of the body and blood of Christ when consecrated in the Eucharist"
+  },
+  {
+    "word": "valuer",
+    "partOfSpeech": "noun",
+    "zipf": 2.13,
+    "score": 26.5,
+    "definition": "someone who assesses the monetary worth of possessions"
+  },
+  {
+    "word": "caustically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.65,
+    "score": 26.5,
+    "definition": "in a caustic vitriolic manner"
+  }
+]

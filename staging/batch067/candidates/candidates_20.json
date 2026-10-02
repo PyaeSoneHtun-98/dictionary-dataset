@@ -1,0 +1,702 @@
+[
+  {
+    "word": "expansively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.88,
+    "score": 28.8,
+    "definition": "in an impressively expansive manner"
+  },
+  {
+    "word": "fruitfully",
+    "partOfSpeech": "adverb",
+    "zipf": 1.88,
+    "score": 28.8,
+    "definition": "in a productive way"
+  },
+  {
+    "word": "glacially",
+    "partOfSpeech": "adverb",
+    "zipf": 1.88,
+    "score": 28.8,
+    "definition": "by a glacier"
+  },
+  {
+    "word": "legibly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.88,
+    "score": 28.8,
+    "definition": "in a legible manner"
+  },
+  {
+    "word": "postoperatively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.88,
+    "score": 28.8,
+    "definition": "after the operation"
+  },
+  {
+    "word": "biogenetic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.58,
+    "score": 28.8,
+    "definition": "of or relating to the production of living organisms from other living organisms"
+  },
+  {
+    "word": "capitular",
+    "partOfSpeech": "adjective",
+    "zipf": 1.58,
+    "score": 28.8,
+    "definition": "of or pertaining to an ecclesiastical chapter"
+  },
+  {
+    "word": "cuticular",
+    "partOfSpeech": "adjective",
+    "zipf": 1.58,
+    "score": 28.8,
+    "definition": "of or relating to a cuticle or cuticula"
+  },
+  {
+    "word": "monatomic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.58,
+    "score": 28.8,
+    "definition": "of or relating to an element consisting of a single atom"
+  },
+  {
+    "word": "numerological",
+    "partOfSpeech": "adjective",
+    "zipf": 1.58,
+    "score": 28.8,
+    "definition": "of or relating to numerology"
+  },
+  {
+    "word": "paintable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.58,
+    "score": 28.8,
+    "definition": "lending itself to being painted"
+  },
+  {
+    "word": "perianal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.58,
+    "score": 28.8,
+    "definition": "around the anus"
+  },
+  {
+    "word": "trochaic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.58,
+    "score": 28.8,
+    "definition": "of or consisting of trochees"
+  },
+  {
+    "word": "demobilise",
+    "partOfSpeech": "verb",
+    "zipf": 1.08,
+    "score": 28.8,
+    "definition": "release from military service or remove from the active list of military service"
+  },
+  {
+    "word": "desensitise",
+    "partOfSpeech": "verb",
+    "zipf": 1.08,
+    "score": 28.8,
+    "definition": "cause not to be sensitive"
+  },
+  {
+    "word": "scintillate",
+    "partOfSpeech": "verb",
+    "zipf": 1.08,
+    "score": 28.8,
+    "definition": "give off"
+  },
+  {
+    "word": "swinge",
+    "partOfSpeech": "verb",
+    "zipf": 1.08,
+    "score": 28.8,
+    "definition": "burn superficially or lightly"
+  },
+  {
+    "word": "uncrate",
+    "partOfSpeech": "verb",
+    "zipf": 1.08,
+    "score": 28.8,
+    "definition": "remove from the crate"
+  },
+  {
+    "word": "barmaid",
+    "partOfSpeech": "noun",
+    "zipf": 2.47,
+    "score": 28.7,
+    "definition": "a female bartender"
+  },
+  {
+    "word": "beeline",
+    "partOfSpeech": "noun",
+    "zipf": 2.47,
+    "score": 28.7,
+    "definition": "the most direct route"
+  },
+  {
+    "word": "djinn",
+    "partOfSpeech": "noun",
+    "zipf": 2.47,
+    "score": 28.7,
+    "definition": "(Islam) an invisible spirit mentioned in the Koran and believed by Muslims to inhabit the earth and influence mankind by appearing in the form of humans or animals"
+  },
+  {
+    "word": "geriatrics",
+    "partOfSpeech": "noun",
+    "zipf": 2.47,
+    "score": 28.7,
+    "definition": "the branch of medical science that deals with diseases and problems specific to old people"
+  },
+  {
+    "word": "growler",
+    "partOfSpeech": "noun",
+    "zipf": 2.47,
+    "score": 28.7,
+    "definition": "a speaker whose voice sounds like a growl"
+  },
+  {
+    "word": "parachuting",
+    "partOfSpeech": "noun",
+    "zipf": 2.47,
+    "score": 28.7,
+    "definition": "descent with a parachute"
+  },
+  {
+    "word": "runt",
+    "partOfSpeech": "noun",
+    "zipf": 2.47,
+    "score": 28.7,
+    "definition": "disparaging terms for small people"
+  },
+  {
+    "word": "satyr",
+    "partOfSpeech": "noun",
+    "zipf": 2.47,
+    "score": 28.7,
+    "definition": "man with strong sexual desires"
+  },
+  {
+    "word": "vestal",
+    "partOfSpeech": "noun",
+    "zipf": 2.47,
+    "score": 28.7,
+    "definition": "a chaste woman"
+  },
+  {
+    "word": "evangelicalism",
+    "partOfSpeech": "noun",
+    "zipf": 2.35,
+    "score": 28.7,
+    "definition": "stresses the importance of personal conversion and faith as the means of salvation"
+  },
+  {
+    "word": "knocker",
+    "partOfSpeech": "noun",
+    "zipf": 2.35,
+    "score": 28.7,
+    "definition": "(Yiddish) a big shot who knows it and acts that way; a boastful immoderate person"
+  },
+  {
+    "word": "audaciously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.87,
+    "score": 28.7,
+    "definition": "in an audacious manner"
+  },
+  {
+    "word": "fixedly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.87,
+    "score": 28.7,
+    "definition": "in a fixed manner"
+  },
+  {
+    "word": "patriotically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.87,
+    "score": 28.7,
+    "definition": "in a patriotic manner"
+  },
+  {
+    "word": "perceptually",
+    "partOfSpeech": "adverb",
+    "zipf": 1.87,
+    "score": 28.7,
+    "definition": "with regard to perception"
+  },
+  {
+    "word": "quizzically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.87,
+    "score": 28.7,
+    "definition": "in a quizzical and questioning manner"
+  },
+  {
+    "word": "relevantly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.87,
+    "score": 28.7,
+    "definition": "with relevance"
+  },
+  {
+    "word": "deconstructionist",
+    "partOfSpeech": "adjective",
+    "zipf": 1.57,
+    "score": 28.7,
+    "definition": "of or concerned with the philosophical theory of literature known as deconstructionism"
+  },
+  {
+    "word": "nebular",
+    "partOfSpeech": "adjective",
+    "zipf": 1.57,
+    "score": 28.7,
+    "definition": "of or relating to or resembling a nebula"
+  },
+  {
+    "word": "phrenological",
+    "partOfSpeech": "adjective",
+    "zipf": 1.57,
+    "score": 28.7,
+    "definition": "of or relating to phrenology"
+  },
+  {
+    "word": "pianistic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.57,
+    "score": 28.7,
+    "definition": "skilled at or adapted for the piano"
+  },
+  {
+    "word": "polymorphous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.57,
+    "score": 28.7,
+    "definition": "relating to the crystallization of a compound in two or more different forms"
+  },
+  {
+    "word": "pronounceable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.57,
+    "score": 28.7,
+    "definition": "capable of being uttered or pronounced"
+  },
+  {
+    "word": "scentless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.57,
+    "score": 28.7,
+    "definition": "lacking the sense of smell"
+  },
+  {
+    "word": "adumbrate",
+    "partOfSpeech": "verb",
+    "zipf": 1.07,
+    "score": 28.7,
+    "definition": "describe roughly or briefly or give the main points or summary of"
+  },
+  {
+    "word": "alliterate",
+    "partOfSpeech": "verb",
+    "zipf": 1.07,
+    "score": 28.7,
+    "definition": "use alliteration as a form of poetry"
+  },
+  {
+    "word": "anglicise",
+    "partOfSpeech": "verb",
+    "zipf": 1.07,
+    "score": 28.7,
+    "definition": "make English in appearance"
+  },
+  {
+    "word": "confute",
+    "partOfSpeech": "verb",
+    "zipf": 1.07,
+    "score": 28.7,
+    "definition": "prove to be false"
+  },
+  {
+    "word": "disunite",
+    "partOfSpeech": "verb",
+    "zipf": 1.07,
+    "score": 28.7,
+    "definition": "part; cease or break association with"
+  },
+  {
+    "word": "engraft",
+    "partOfSpeech": "verb",
+    "zipf": 1.07,
+    "score": 28.7,
+    "definition": "cause to grow together parts from different plants"
+  },
+  {
+    "word": "repine",
+    "partOfSpeech": "verb",
+    "zipf": 1.07,
+    "score": 28.7,
+    "definition": "express discontent"
+  },
+  {
+    "word": "resinate",
+    "partOfSpeech": "verb",
+    "zipf": 1.07,
+    "score": 28.7,
+    "definition": "impregnate with resin to give a special flavor to"
+  },
+  {
+    "word": "slabber",
+    "partOfSpeech": "verb",
+    "zipf": 1.07,
+    "score": 28.7,
+    "definition": "let saliva drivel from the mouth"
+  },
+  {
+    "word": "superpose",
+    "partOfSpeech": "verb",
+    "zipf": 1.07,
+    "score": 28.7,
+    "definition": "place (one geometric figure) upon another so that their perimeters coincide"
+  },
+  {
+    "word": "fashioning",
+    "partOfSpeech": "noun",
+    "zipf": 2.46,
+    "score": 28.6,
+    "definition": "the act that results in something coming to be"
+  },
+  {
+    "word": "matting",
+    "partOfSpeech": "noun",
+    "zipf": 2.46,
+    "score": 28.6,
+    "definition": "a covering of coarse fabric (usually of straw or hemp)"
+  },
+  {
+    "word": "soph",
+    "partOfSpeech": "noun",
+    "zipf": 2.46,
+    "score": 28.6,
+    "definition": "a second-year undergraduate"
+  },
+  {
+    "word": "taoiseach",
+    "partOfSpeech": "noun",
+    "zipf": 2.46,
+    "score": 28.6,
+    "definition": "the prime minister of the Irish Republic"
+  },
+  {
+    "word": "transplanting",
+    "partOfSpeech": "noun",
+    "zipf": 2.46,
+    "score": 28.6,
+    "definition": "the act of removing something from one location and introducing it in another location"
+  },
+  {
+    "word": "partizan",
+    "partOfSpeech": "noun",
+    "zipf": 2.34,
+    "score": 28.6,
+    "definition": "an ardent and enthusiastic supporter of some person or activity"
+  },
+  {
+    "word": "pinhead",
+    "partOfSpeech": "noun",
+    "zipf": 2.34,
+    "score": 28.6,
+    "definition": "an ignorant or foolish person"
+  },
+  {
+    "word": "stumping",
+    "partOfSpeech": "noun",
+    "zipf": 2.34,
+    "score": 28.6,
+    "definition": "campaigning for something by making political speeches (stump speeches)"
+  },
+  {
+    "word": "unbeliever",
+    "partOfSpeech": "noun",
+    "zipf": 2.34,
+    "score": 28.6,
+    "definition": "someone who refuses to believe (as in a divinity)"
+  },
+  {
+    "word": "tourer",
+    "partOfSpeech": "noun",
+    "zipf": 2.22,
+    "score": 28.6,
+    "definition": "someone who travels for pleasure"
+  },
+  {
+    "word": "cutely",
+    "partOfSpeech": "adverb",
+    "zipf": 1.86,
+    "score": 28.6,
+    "definition": "in an attractive manner"
+  },
+  {
+    "word": "eccentrically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.86,
+    "score": 28.6,
+    "definition": "in an eccentric or bizarre manner"
+  },
+  {
+    "word": "forlornly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.86,
+    "score": 28.6,
+    "definition": "in a forlorn manner"
+  },
+  {
+    "word": "gruesomely",
+    "partOfSpeech": "adverb",
+    "zipf": 1.86,
+    "score": 28.6,
+    "definition": "in a gruesome manner"
+  },
+  {
+    "word": "mayhap",
+    "partOfSpeech": "adverb",
+    "zipf": 1.86,
+    "score": 28.6,
+    "definition": "by chance"
+  },
+  {
+    "word": "pneumatically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.86,
+    "score": 28.6,
+    "definition": "in a pneumatic manner"
+  },
+  {
+    "word": "stupendously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.86,
+    "score": 28.6,
+    "definition": "to a stupendous degree"
+  },
+  {
+    "word": "unco",
+    "partOfSpeech": "adverb",
+    "zipf": 1.86,
+    "score": 28.6,
+    "definition": "to a remarkable degree or extent"
+  },
+  {
+    "word": "uproariously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.86,
+    "score": 28.6,
+    "definition": "in a hilarious manner"
+  },
+  {
+    "word": "anaphoric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.56,
+    "score": 28.6,
+    "definition": "relating to anaphora"
+  },
+  {
+    "word": "clausal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.56,
+    "score": 28.6,
+    "definition": "of or relating to or functioning as a clause"
+  },
+  {
+    "word": "combinatory",
+    "partOfSpeech": "adjective",
+    "zipf": 1.56,
+    "score": 28.6,
+    "definition": "marked by or relating to or resulting from combination"
+  },
+  {
+    "word": "cubital",
+    "partOfSpeech": "adjective",
+    "zipf": 1.56,
+    "score": 28.6,
+    "definition": "of or relating to the elbow"
+  },
+  {
+    "word": "jawless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.56,
+    "score": 28.6,
+    "definition": "of animals having no jaw"
+  },
+  {
+    "word": "meretricious",
+    "partOfSpeech": "adjective",
+    "zipf": 1.56,
+    "score": 28.6,
+    "definition": "like or relating to a prostitute"
+  },
+  {
+    "word": "petaled",
+    "partOfSpeech": "adjective",
+    "zipf": 1.56,
+    "score": 28.6,
+    "definition": "(of flowers) having petals"
+  },
+  {
+    "word": "propitiatory",
+    "partOfSpeech": "adjective",
+    "zipf": 1.56,
+    "score": 28.6,
+    "definition": "having power to atone for or offered by way of expiation or propitiation"
+  },
+  {
+    "word": "reentrant",
+    "partOfSpeech": "adjective",
+    "zipf": 1.56,
+    "score": 28.6,
+    "definition": "(of angles) pointing inward"
+  },
+  {
+    "word": "spermicidal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.56,
+    "score": 28.6,
+    "definition": "destructive to spermatozoa"
+  },
+  {
+    "word": "stoppable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.56,
+    "score": 28.6,
+    "definition": "capable of being stopped"
+  },
+  {
+    "word": "taxonomical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.56,
+    "score": 28.6,
+    "definition": "of or relating to taxonomy"
+  },
+  {
+    "word": "syncretistic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.44,
+    "score": 28.6,
+    "definition": "relating to a historical tendency for a language to reduce its use of inflections"
+  },
+  {
+    "word": "attorn",
+    "partOfSpeech": "verb",
+    "zipf": 1.06,
+    "score": 28.6,
+    "definition": "acknowledge a new land owner as one's landlord"
+  },
+  {
+    "word": "calcine",
+    "partOfSpeech": "verb",
+    "zipf": 1.06,
+    "score": 28.6,
+    "definition": "heat a substance so that it oxidizes or reduces"
+  },
+  {
+    "word": "dehisce",
+    "partOfSpeech": "verb",
+    "zipf": 1.06,
+    "score": 28.6,
+    "definition": "burst or split open"
+  },
+  {
+    "word": "namedrop",
+    "partOfSpeech": "verb",
+    "zipf": 1.06,
+    "score": 28.6,
+    "definition": "refer to people that one assumes one's interlocutors admire in order to try to impress them"
+  },
+  {
+    "word": "reduplicate",
+    "partOfSpeech": "verb",
+    "zipf": 1.06,
+    "score": 28.6,
+    "definition": "form by reduplication"
+  },
+  {
+    "word": "unbar",
+    "partOfSpeech": "verb",
+    "zipf": 1.06,
+    "score": 28.6,
+    "definition": "remove a bar from (a door)"
+  },
+  {
+    "word": "unloose",
+    "partOfSpeech": "verb",
+    "zipf": 1.06,
+    "score": 28.6,
+    "definition": "grant freedom to; free from confinement"
+  },
+  {
+    "word": "delimitation",
+    "partOfSpeech": "noun",
+    "zipf": 2.45,
+    "score": 28.5,
+    "definition": "a line that indicates a boundary"
+  },
+  {
+    "word": "grantee",
+    "partOfSpeech": "noun",
+    "zipf": 2.45,
+    "score": 28.5,
+    "definition": "a recipient of a grant"
+  },
+  {
+    "word": "grooving",
+    "partOfSpeech": "noun",
+    "zipf": 2.45,
+    "score": 28.5,
+    "definition": "the cutting of spiral grooves on the inside of the barrel of a firearm"
+  },
+  {
+    "word": "motorcycling",
+    "partOfSpeech": "noun",
+    "zipf": 2.45,
+    "score": 28.5,
+    "definition": "riding a motorcycle"
+  },
+  {
+    "word": "nylons",
+    "partOfSpeech": "noun",
+    "zipf": 2.45,
+    "score": 28.5,
+    "definition": "women's stockings made from a sheer material (nylon or rayon or silk)"
+  },
+  {
+    "word": "outfitting",
+    "partOfSpeech": "noun",
+    "zipf": 2.45,
+    "score": 28.5,
+    "definition": "the act of renovating and fitting out a ship"
+  },
+  {
+    "word": "sibyl",
+    "partOfSpeech": "noun",
+    "zipf": 2.45,
+    "score": 28.5,
+    "definition": "a woman who tells fortunes"
+  },
+  {
+    "word": "ventriloquist",
+    "partOfSpeech": "noun",
+    "zipf": 2.45,
+    "score": 28.5,
+    "definition": "a performer who projects the voice into a wooden dummy"
+  },
+  {
+    "word": "waders",
+    "partOfSpeech": "noun",
+    "zipf": 2.45,
+    "score": 28.5,
+    "definition": "waterproof hip boots (sometimes extending to the chest) worn by anglers"
+  }
+]

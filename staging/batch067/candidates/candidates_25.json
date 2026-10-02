@@ -1,0 +1,702 @@
+[
+  {
+    "word": "positivist",
+    "partOfSpeech": "noun",
+    "zipf": 2.2,
+    "score": 27.2,
+    "definition": "someone who emphasizes observable facts and excludes metaphysical speculation about origins or ultimate causes"
+  },
+  {
+    "word": "sops",
+    "partOfSpeech": "noun",
+    "zipf": 2.2,
+    "score": 27.2,
+    "definition": "piece of solid food for dipping in a liquid"
+  },
+  {
+    "word": "waker",
+    "partOfSpeech": "noun",
+    "zipf": 2.2,
+    "score": 27.2,
+    "definition": "someone who rouses others from sleep"
+  },
+  {
+    "word": "riveter",
+    "partOfSpeech": "noun",
+    "zipf": 2.08,
+    "score": 27.2,
+    "definition": "a worker who inserts and hammers rivets"
+  },
+  {
+    "word": "alee",
+    "partOfSpeech": "adverb",
+    "zipf": 1.72,
+    "score": 27.2,
+    "definition": "on or toward the lee"
+  },
+  {
+    "word": "belike",
+    "partOfSpeech": "adverb",
+    "zipf": 1.72,
+    "score": 27.2,
+    "definition": "with considerable certainty; without much doubt"
+  },
+  {
+    "word": "heartlessly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.72,
+    "score": 27.2,
+    "definition": "in a heartless manner"
+  },
+  {
+    "word": "mechanistically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.72,
+    "score": 27.2,
+    "definition": "in a mechanistic manner"
+  },
+  {
+    "word": "precociously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.72,
+    "score": 27.2,
+    "definition": "in a precocious manner"
+  },
+  {
+    "word": "prosaically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.72,
+    "score": 27.2,
+    "definition": "in a matter-of-fact manner"
+  },
+  {
+    "word": "providentially",
+    "partOfSpeech": "adverb",
+    "zipf": 1.72,
+    "score": 27.2,
+    "definition": "in a fortunately providential manner"
+  },
+  {
+    "word": "soulfully",
+    "partOfSpeech": "adverb",
+    "zipf": 1.72,
+    "score": 27.2,
+    "definition": "in a soulful manner"
+  },
+  {
+    "word": "apneic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.42,
+    "score": 27.2,
+    "definition": "of or relating to apnea"
+  },
+  {
+    "word": "ascetical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.42,
+    "score": 27.2,
+    "definition": "pertaining to or characteristic of an ascetic or the practice of rigorous self-discipline"
+  },
+  {
+    "word": "horary",
+    "partOfSpeech": "adjective",
+    "zipf": 1.42,
+    "score": 27.2,
+    "definition": "relating to the hours"
+  },
+  {
+    "word": "postglacial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.42,
+    "score": 27.2,
+    "definition": "relating to or occurring during the time following a glacial period"
+  },
+  {
+    "word": "reversionary",
+    "partOfSpeech": "adjective",
+    "zipf": 1.42,
+    "score": 27.2,
+    "definition": "of or relating to or involving a reversion (especially a legal reversion)"
+  },
+  {
+    "word": "splenetic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.42,
+    "score": 27.2,
+    "definition": "of or relating to the spleen"
+  },
+  {
+    "word": "unlaced",
+    "partOfSpeech": "adjective",
+    "zipf": 1.42,
+    "score": 27.2,
+    "definition": "with laces not tied"
+  },
+  {
+    "word": "unripened",
+    "partOfSpeech": "adjective",
+    "zipf": 1.42,
+    "score": 27.2,
+    "definition": "not fully developed or mature; not ripe"
+  },
+  {
+    "word": "banqueting",
+    "partOfSpeech": "noun",
+    "zipf": 2.31,
+    "score": 27.1,
+    "definition": "eating an elaborate meal (often accompanied by entertainment)"
+  },
+  {
+    "word": "dialectics",
+    "partOfSpeech": "noun",
+    "zipf": 2.31,
+    "score": 27.1,
+    "definition": "a rationale for dialectical materialism based on change through the conflict of opposing forces"
+  },
+  {
+    "word": "handmaiden",
+    "partOfSpeech": "noun",
+    "zipf": 2.31,
+    "score": 27.1,
+    "definition": "in a subordinate position"
+  },
+  {
+    "word": "hobgoblin",
+    "partOfSpeech": "noun",
+    "zipf": 2.31,
+    "score": 27.1,
+    "definition": "(folklore) a small grotesque supernatural creature that makes trouble for human beings"
+  },
+  {
+    "word": "orientalist",
+    "partOfSpeech": "noun",
+    "zipf": 2.31,
+    "score": 27.1,
+    "definition": "a specialist in oriental subjects"
+  },
+  {
+    "word": "scouse",
+    "partOfSpeech": "noun",
+    "zipf": 2.31,
+    "score": 27.1,
+    "definition": "a stew of meat and vegetables and hardtack that is eaten by sailors"
+  },
+  {
+    "word": "diarist",
+    "partOfSpeech": "noun",
+    "zipf": 2.19,
+    "score": 27.1,
+    "definition": "someone who keeps a diary or journal"
+  },
+  {
+    "word": "gleaner",
+    "partOfSpeech": "noun",
+    "zipf": 2.19,
+    "score": 27.1,
+    "definition": "someone who picks up grain left in the field by the harvesters"
+  },
+  {
+    "word": "hackles",
+    "partOfSpeech": "noun",
+    "zipf": 2.19,
+    "score": 27.1,
+    "definition": "a feeling of anger and animosity"
+  },
+  {
+    "word": "lowbrow",
+    "partOfSpeech": "noun",
+    "zipf": 2.19,
+    "score": 27.1,
+    "definition": "a person who is uninterested in intellectual pursuits"
+  },
+  {
+    "word": "transferee",
+    "partOfSpeech": "noun",
+    "zipf": 2.07,
+    "score": 27.1,
+    "definition": "(law) someone to whom a title or property is conveyed"
+  },
+  {
+    "word": "episodically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.71,
+    "score": 27.1,
+    "definition": "in an episodic manner"
+  },
+  {
+    "word": "faultlessly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.71,
+    "score": 27.1,
+    "definition": "without a fault; in a faultless manner"
+  },
+  {
+    "word": "macroscopically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.71,
+    "score": 27.1,
+    "definition": "without using a microscope"
+  },
+  {
+    "word": "pervasively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.71,
+    "score": 27.1,
+    "definition": "in a pervasive manner"
+  },
+  {
+    "word": "riotously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.71,
+    "score": 27.1,
+    "definition": "in a tumultuous and riotous manner"
+  },
+  {
+    "word": "submissively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.71,
+    "score": 27.1,
+    "definition": "in a servile manner"
+  },
+  {
+    "word": "virtuously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.71,
+    "score": 27.1,
+    "definition": "in a moral manner"
+  },
+  {
+    "word": "hooved",
+    "partOfSpeech": "adjective",
+    "zipf": 1.41,
+    "score": 27.1,
+    "definition": "having or resembling hoofs"
+  },
+  {
+    "word": "iodinated",
+    "partOfSpeech": "adjective",
+    "zipf": 1.41,
+    "score": 27.1,
+    "definition": "treated with iodine"
+  },
+  {
+    "word": "mithraic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.41,
+    "score": 27.1,
+    "definition": "of or relating to Mithraism or its god"
+  },
+  {
+    "word": "nacreous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.41,
+    "score": 27.1,
+    "definition": "consisting of or resembling mother-of-pearl"
+  },
+  {
+    "word": "ownerless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.41,
+    "score": 27.1,
+    "definition": "having no owner"
+  },
+  {
+    "word": "stannous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.41,
+    "score": 27.1,
+    "definition": "of or relating to or containing tin"
+  },
+  {
+    "word": "toneless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.41,
+    "score": 27.1,
+    "definition": "lacking in tone or expression"
+  },
+  {
+    "word": "unlighted",
+    "partOfSpeech": "adjective",
+    "zipf": 1.41,
+    "score": 27.1,
+    "definition": "not set afire or burning"
+  },
+  {
+    "word": "untempered",
+    "partOfSpeech": "adjective",
+    "zipf": 1.41,
+    "score": 27.1,
+    "definition": "not brought to a proper consistency or hardness"
+  },
+  {
+    "word": "buckaroo",
+    "partOfSpeech": "noun",
+    "zipf": 2.3,
+    "score": 27.0,
+    "definition": "local names for a cowboy (`vaquero' is used especially in southwestern and central Texas and `buckaroo' is used especially in California)"
+  },
+  {
+    "word": "charterhouse",
+    "partOfSpeech": "noun",
+    "zipf": 2.3,
+    "score": 27.0,
+    "definition": "a Carthusian monastery"
+  },
+  {
+    "word": "nuncio",
+    "partOfSpeech": "noun",
+    "zipf": 2.3,
+    "score": 27.0,
+    "definition": "(Roman Catholic Church) a diplomatic representative of the Pope having ambassadorial status"
+  },
+  {
+    "word": "vanda",
+    "partOfSpeech": "noun",
+    "zipf": 2.3,
+    "score": 27.0,
+    "definition": "any of numerous showy orchids of the genus Vanda having many large flowers in loose racemes"
+  },
+  {
+    "word": "vapours",
+    "partOfSpeech": "noun",
+    "zipf": 2.3,
+    "score": 27.0,
+    "definition": "a state of depression"
+  },
+  {
+    "word": "weald",
+    "partOfSpeech": "noun",
+    "zipf": 2.3,
+    "score": 27.0,
+    "definition": "an area of open or forested country"
+  },
+  {
+    "word": "jerker",
+    "partOfSpeech": "noun",
+    "zipf": 2.18,
+    "score": 27.0,
+    "definition": "someone who gives a strong sudden pull"
+  },
+  {
+    "word": "newsagent",
+    "partOfSpeech": "noun",
+    "zipf": 2.18,
+    "score": 27.0,
+    "definition": "someone who sells newspapers"
+  },
+  {
+    "word": "polisher",
+    "partOfSpeech": "noun",
+    "zipf": 2.18,
+    "score": 27.0,
+    "definition": "a power tool used to buff surfaces"
+  },
+  {
+    "word": "polymath",
+    "partOfSpeech": "noun",
+    "zipf": 2.18,
+    "score": 27.0,
+    "definition": "a person of great and varied learning"
+  },
+  {
+    "word": "transexual",
+    "partOfSpeech": "noun",
+    "zipf": 2.18,
+    "score": 27.0,
+    "definition": "a person who has undergone a sex change operation"
+  },
+  {
+    "word": "dejectedly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.7,
+    "score": 27.0,
+    "definition": "in a dejected manner"
+  },
+  {
+    "word": "demonstratively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.7,
+    "score": 27.0,
+    "definition": "in a demonstrative manner"
+  },
+  {
+    "word": "peremptorily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.7,
+    "score": 27.0,
+    "definition": "in an imperative and commanding manner"
+  },
+  {
+    "word": "petulantly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.7,
+    "score": 27.0,
+    "definition": "in a petulant manner"
+  },
+  {
+    "word": "promiscuously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.7,
+    "score": 27.0,
+    "definition": "in an indiscriminate manner"
+  },
+  {
+    "word": "allometric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.4,
+    "score": 27.0,
+    "definition": "relating to or marked by allometry"
+  },
+  {
+    "word": "astrocytic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.4,
+    "score": 27.0,
+    "definition": "of or relating to or containing large star-shaped cells in the neuroglia"
+  },
+  {
+    "word": "curst",
+    "partOfSpeech": "adjective",
+    "zipf": 1.4,
+    "score": 27.0,
+    "definition": "deserving a curse; sometimes used as an intensifier"
+  },
+  {
+    "word": "mucocutaneous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.4,
+    "score": 27.0,
+    "definition": "of or relating to the mucous membranes and skin"
+  },
+  {
+    "word": "protozoal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.4,
+    "score": 27.0,
+    "definition": "of or relating to the Protozoa"
+  },
+  {
+    "word": "synesthetic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.4,
+    "score": 27.0,
+    "definition": "relating to or experiencing synesthesia; involving more than one sense"
+  },
+  {
+    "word": "tendinous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.4,
+    "score": 27.0,
+    "definition": "consisting of tendons or resembling a tendon"
+  },
+  {
+    "word": "unarticulated",
+    "partOfSpeech": "adjective",
+    "zipf": 1.4,
+    "score": 27.0,
+    "definition": "not consisting of segments that are held together by joints"
+  },
+  {
+    "word": "unavenged",
+    "partOfSpeech": "adjective",
+    "zipf": 1.4,
+    "score": 27.0,
+    "definition": "for which vengeance has not been taken"
+  },
+  {
+    "word": "unawakened",
+    "partOfSpeech": "adjective",
+    "zipf": 1.4,
+    "score": 27.0,
+    "definition": "not aroused or activated"
+  },
+  {
+    "word": "uncoloured",
+    "partOfSpeech": "adjective",
+    "zipf": 1.4,
+    "score": 27.0,
+    "definition": "without color"
+  },
+  {
+    "word": "ungreased",
+    "partOfSpeech": "adjective",
+    "zipf": 1.4,
+    "score": 27.0,
+    "definition": "not lubricated"
+  },
+  {
+    "word": "arak",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "score": 26.9,
+    "definition": "any of various strong liquors distilled from the fermented sap of toddy palms or from fermented molasses"
+  },
+  {
+    "word": "carissa",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "score": 26.9,
+    "definition": "a shrub of the genus Carissa having fragrant white flowers and plumlike red to purple-black fruits"
+  },
+  {
+    "word": "gook",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "score": 26.9,
+    "definition": "any thick, viscous matter"
+  },
+  {
+    "word": "lunching",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "score": 26.9,
+    "definition": "the act of eating lunch"
+  },
+  {
+    "word": "mudder",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "score": 26.9,
+    "definition": "a racehorse that runs well on a muddy racetrack"
+  },
+  {
+    "word": "nigella",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "score": 26.9,
+    "definition": "any plant of the genus Nigella"
+  },
+  {
+    "word": "perigee",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "score": 26.9,
+    "definition": "periapsis in Earth orbit; the point in its orbit where a satellite is nearest to the Earth"
+  },
+  {
+    "word": "preceptor",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "score": 26.9,
+    "definition": "teacher at a university or college (especially at Cambridge or Oxford)"
+  },
+  {
+    "word": "rasping",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "score": 26.9,
+    "definition": "uttering in an irritated tone"
+  },
+  {
+    "word": "smarting",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "score": 26.9,
+    "definition": "a kind of pain such as that caused by a wound or a burn or a sore"
+  },
+  {
+    "word": "songstress",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "score": 26.9,
+    "definition": "a woman songster (especially of popular songs)"
+  },
+  {
+    "word": "copyist",
+    "partOfSpeech": "noun",
+    "zipf": 2.17,
+    "score": 26.9,
+    "definition": "someone employed to make written copies of documents and manuscripts"
+  },
+  {
+    "word": "differentiator",
+    "partOfSpeech": "noun",
+    "zipf": 2.17,
+    "score": 26.9,
+    "definition": "a person who (or that which) differentiates"
+  },
+  {
+    "word": "lounger",
+    "partOfSpeech": "noun",
+    "zipf": 2.17,
+    "score": 26.9,
+    "definition": "someone who wastes time"
+  },
+  {
+    "word": "lurker",
+    "partOfSpeech": "noun",
+    "zipf": 2.17,
+    "score": 26.9,
+    "definition": "someone waiting in concealment"
+  },
+  {
+    "word": "regicide",
+    "partOfSpeech": "noun",
+    "zipf": 2.17,
+    "score": 26.9,
+    "definition": "someone who commits regicide; the killer of a king"
+  },
+  {
+    "word": "moneylender",
+    "partOfSpeech": "noun",
+    "zipf": 2.05,
+    "score": 26.9,
+    "definition": "someone who lends money at excessive rates of interest"
+  },
+  {
+    "word": "contrariwise",
+    "partOfSpeech": "adverb",
+    "zipf": 1.69,
+    "score": 26.9,
+    "definition": "in a contrary disobedient manner"
+  },
+  {
+    "word": "endogenously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.69,
+    "score": 26.9,
+    "definition": "in an endogenous manner"
+  },
+  {
+    "word": "mandatorily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.69,
+    "score": 26.9,
+    "definition": "in a manner that cannot be evaded"
+  },
+  {
+    "word": "sorrowfully",
+    "partOfSpeech": "adverb",
+    "zipf": 1.69,
+    "score": 26.9,
+    "definition": "in a sorrowful manner"
+  },
+  {
+    "word": "boronic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.39,
+    "score": 26.9,
+    "definition": "of or relating to boron"
+  },
+  {
+    "word": "categorial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.39,
+    "score": 26.9,
+    "definition": "of or relating to the concept of categories"
+  },
+  {
+    "word": "dichromatic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.39,
+    "score": 26.9,
+    "definition": "of or relating to dichromatism"
+  },
+  {
+    "word": "gilled",
+    "partOfSpeech": "adjective",
+    "zipf": 1.39,
+    "score": 26.9,
+    "definition": "provided with gills"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "word": "skywards",
+    "partOfSpeech": "adverb",
+    "zipf": 1.79,
+    "score": 27.9,
+    "definition": "toward the sky"
+  },
+  {
+    "word": "appropriative",
+    "partOfSpeech": "adjective",
+    "zipf": 1.49,
+    "score": 27.9,
+    "definition": "of or relating to or given to the act of taking for yourself"
+  },
+  {
+    "word": "bolometric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.49,
+    "score": 27.9,
+    "definition": "of or relating to a bolometer"
+  },
+  {
+    "word": "connate",
+    "partOfSpeech": "adjective",
+    "zipf": 1.49,
+    "score": 27.9,
+    "definition": "of similar parts or organs; closely joined or united"
+  },
+  {
+    "word": "contrasty",
+    "partOfSpeech": "adjective",
+    "zipf": 1.49,
+    "score": 27.9,
+    "definition": "having sharp differences between black and white"
+  },
+  {
+    "word": "extrusive",
+    "partOfSpeech": "adjective",
+    "zipf": 1.49,
+    "score": 27.9,
+    "definition": "of rock material; forced out while molten through cracks in the earth's surface"
+  },
+  {
+    "word": "filarial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.49,
+    "score": 27.9,
+    "definition": "related to or infested with or transmitting parasitic worms especially filaria"
+  },
+  {
+    "word": "pedunculate",
+    "partOfSpeech": "adjective",
+    "zipf": 1.49,
+    "score": 27.9,
+    "definition": "having or growing on or from a peduncle or stalk"
+  },
+  {
+    "word": "radiopaque",
+    "partOfSpeech": "adjective",
+    "zipf": 1.49,
+    "score": 27.9,
+    "definition": "not transparent to X-rays or other forms of radiation"
+  },
+  {
+    "word": "therapeutical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.49,
+    "score": 27.9,
+    "definition": "relating to or involved in therapy"
+  },
+  {
+    "word": "trophoblastic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.49,
+    "score": 27.9,
+    "definition": "of or relating to the trophoblast"
+  },
+  {
+    "word": "polydactyl",
+    "partOfSpeech": "adjective",
+    "zipf": 1.37,
+    "score": 27.9,
+    "definition": "of or relating to a person (or other vertebrate) having more than the normal number of digits"
+  },
+  {
+    "word": "burping",
+    "partOfSpeech": "noun",
+    "zipf": 2.38,
+    "score": 27.8,
+    "definition": "a reflex that expels gas noisily from the stomach through the mouth"
+  },
+  {
+    "word": "meshing",
+    "partOfSpeech": "noun",
+    "zipf": 2.38,
+    "score": 27.8,
+    "definition": "contact by fitting together"
+  },
+  {
+    "word": "shandy",
+    "partOfSpeech": "noun",
+    "zipf": 2.38,
+    "score": 27.8,
+    "definition": "a drink made of beer and lemonade"
+  },
+  {
+    "word": "dimwit",
+    "partOfSpeech": "noun",
+    "zipf": 2.26,
+    "score": 27.8,
+    "definition": "a stupid incompetent person"
+  },
+  {
+    "word": "diviner",
+    "partOfSpeech": "noun",
+    "zipf": 2.26,
+    "score": 27.8,
+    "definition": "someone who claims to discover hidden knowledge with the aid of supernatural powers"
+  },
+  {
+    "word": "occultist",
+    "partOfSpeech": "noun",
+    "zipf": 2.26,
+    "score": 27.8,
+    "definition": "a believer in occultism; someone versed in the occult arts"
+  },
+  {
+    "word": "slapper",
+    "partOfSpeech": "noun",
+    "zipf": 2.26,
+    "score": 27.8,
+    "definition": "a hitter who slaps (usually another person) with an open hand"
+  },
+  {
+    "word": "tyro",
+    "partOfSpeech": "noun",
+    "zipf": 2.26,
+    "score": 27.8,
+    "definition": "someone new to a field or activity"
+  },
+  {
+    "word": "crawlspace",
+    "partOfSpeech": "noun",
+    "zipf": 2.14,
+    "score": 27.8,
+    "definition": "low space beneath a floor of a building; gives workers access to wiring or plumbing"
+  },
+  {
+    "word": "toady",
+    "partOfSpeech": "noun",
+    "zipf": 2.14,
+    "score": 27.8,
+    "definition": "a person who tries to please someone in order to gain a personal advantage"
+  },
+  {
+    "word": "decoratively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.78,
+    "score": 27.8,
+    "definition": "in a decorative manner"
+  },
+  {
+    "word": "exaggeratedly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.78,
+    "score": 27.8,
+    "definition": "in an exaggerated manner"
+  },
+  {
+    "word": "henceforward",
+    "partOfSpeech": "adverb",
+    "zipf": 1.78,
+    "score": 27.8,
+    "definition": "from this time forth; from now on"
+  },
+  {
+    "word": "identifiably",
+    "partOfSpeech": "adverb",
+    "zipf": 1.78,
+    "score": 27.8,
+    "definition": "in an identifiable manner"
+  },
+  {
+    "word": "logarithmically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.78,
+    "score": 27.8,
+    "definition": "in a logarithmic manner"
+  },
+  {
+    "word": "murderously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.78,
+    "score": 27.8,
+    "definition": "as if bent on murder"
+  },
+  {
+    "word": "pompously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.78,
+    "score": 27.8,
+    "definition": "in a pompous manner"
+  },
+  {
+    "word": "promisingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.78,
+    "score": 27.8,
+    "definition": "in an auspicious manner"
+  },
+  {
+    "word": "rapturously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.78,
+    "score": 27.8,
+    "definition": "in an ecstatic manner"
+  },
+  {
+    "word": "tidily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.78,
+    "score": 27.8,
+    "definition": "in a tidy manner"
+  },
+  {
+    "word": "worthily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.78,
+    "score": 27.8,
+    "definition": "in a worthy manner; with worthiness"
+  },
+  {
+    "word": "ataxic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.48,
+    "score": 27.8,
+    "definition": "lacking motor coordination; marked or caused by ataxia"
+  },
+  {
+    "word": "catarrhal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.48,
+    "score": 27.8,
+    "definition": "of or relating to a catarrh"
+  },
+  {
+    "word": "dizygotic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.48,
+    "score": 27.8,
+    "definition": "derived from two separately fertilized eggs"
+  },
+  {
+    "word": "euphonic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.48,
+    "score": 27.8,
+    "definition": "of or relating to or characterized by euphony"
+  },
+  {
+    "word": "phenotypical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.48,
+    "score": 27.8,
+    "definition": "of or relating to or constituting a phenotype"
+  },
+  {
+    "word": "unshaded",
+    "partOfSpeech": "adjective",
+    "zipf": 1.48,
+    "score": 27.8,
+    "definition": "(of pictures) not having shadow represented"
+  },
+  {
+    "word": "vulpine",
+    "partOfSpeech": "adjective",
+    "zipf": 1.48,
+    "score": 27.8,
+    "definition": "resembling or characteristic of a fox"
+  },
+  {
+    "word": "declination",
+    "partOfSpeech": "noun",
+    "zipf": 2.37,
+    "score": 27.7,
+    "definition": "a condition inferior to an earlier condition; a gradual falling off from a better state"
+  },
+  {
+    "word": "fille",
+    "partOfSpeech": "noun",
+    "zipf": 2.37,
+    "score": 27.7,
+    "definition": "a young woman"
+  },
+  {
+    "word": "malted",
+    "partOfSpeech": "noun",
+    "zipf": 2.37,
+    "score": 27.7,
+    "definition": "a milkshake made with malt powder"
+  },
+  {
+    "word": "neuroblastoma",
+    "partOfSpeech": "noun",
+    "zipf": 2.37,
+    "score": 27.7,
+    "definition": "malignant tumor containing embryonic nerve cells; usually metastasizes quickly"
+  },
+  {
+    "word": "wayfarer",
+    "partOfSpeech": "noun",
+    "zipf": 2.37,
+    "score": 27.7,
+    "definition": "a pedestrian who walks from place to place"
+  },
+  {
+    "word": "battler",
+    "partOfSpeech": "noun",
+    "zipf": 2.25,
+    "score": 27.7,
+    "definition": "someone who fights (or is fighting)"
+  },
+  {
+    "word": "bugler",
+    "partOfSpeech": "noun",
+    "zipf": 2.25,
+    "score": 27.7,
+    "definition": "someone who plays a bugle"
+  },
+  {
+    "word": "gravedigger",
+    "partOfSpeech": "noun",
+    "zipf": 2.25,
+    "score": 27.7,
+    "definition": "a person who earns a living by digging graves"
+  },
+  {
+    "word": "greeter",
+    "partOfSpeech": "noun",
+    "zipf": 2.25,
+    "score": 27.7,
+    "definition": "a person who greets"
+  },
+  {
+    "word": "homunculus",
+    "partOfSpeech": "noun",
+    "zipf": 2.25,
+    "score": 27.7,
+    "definition": "a person who is very small but who is not otherwise deformed or abnormal"
+  },
+  {
+    "word": "manticore",
+    "partOfSpeech": "noun",
+    "zipf": 2.25,
+    "score": 27.7,
+    "definition": "a mythical monster having the head of man (with horns) and the body of a lion and the tail of a scorpion"
+  },
+  {
+    "word": "styler",
+    "partOfSpeech": "noun",
+    "zipf": 2.25,
+    "score": 27.7,
+    "definition": "someone who cuts or beautifies hair"
+  },
+  {
+    "word": "abusively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.77,
+    "score": 27.7,
+    "definition": "in an abusive manner"
+  },
+  {
+    "word": "articulately",
+    "partOfSpeech": "adverb",
+    "zipf": 1.77,
+    "score": 27.7,
+    "definition": "with eloquence"
+  },
+  {
+    "word": "bloodily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.77,
+    "score": 27.7,
+    "definition": "involving a great bloodshed"
+  },
+  {
+    "word": "dumbly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.77,
+    "score": 27.7,
+    "definition": "in a stupid manner"
+  },
+  {
+    "word": "laconically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.77,
+    "score": 27.7,
+    "definition": "in a dry laconic manner;  he said dryly"
+  },
+  {
+    "word": "monotonously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.77,
+    "score": 27.7,
+    "definition": "in a monotonous manner"
+  },
+  {
+    "word": "proverbially",
+    "partOfSpeech": "adverb",
+    "zipf": 1.77,
+    "score": 27.7,
+    "definition": "in the manner of something that has become a byword"
+  },
+  {
+    "word": "alterable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.47,
+    "score": 27.7,
+    "definition": "capable of being changed or altered in some characteristic"
+  },
+  {
+    "word": "amnestic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.47,
+    "score": 27.7,
+    "definition": "of or relating to or caused by amnesia"
+  },
+  {
+    "word": "defeasible",
+    "partOfSpeech": "adjective",
+    "zipf": 1.47,
+    "score": 27.7,
+    "definition": "capable of being annulled or voided or terminated"
+  },
+  {
+    "word": "exogamous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.47,
+    "score": 27.7,
+    "definition": "characterized by or fit for fertilization by a flower that is not closely related"
+  },
+  {
+    "word": "lidless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.47,
+    "score": 27.7,
+    "definition": "not having or covered with a lid or lids"
+  },
+  {
+    "word": "quadraphonic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.47,
+    "score": 27.7,
+    "definition": "of or relating to quadraphony"
+  },
+  {
+    "word": "rhomboidal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.47,
+    "score": 27.7,
+    "definition": "shaped like a rhombus or rhomboid"
+  },
+  {
+    "word": "sentential",
+    "partOfSpeech": "adjective",
+    "zipf": 1.47,
+    "score": 27.7,
+    "definition": "of or relating to a sentence"
+  },
+  {
+    "word": "unmated",
+    "partOfSpeech": "adjective",
+    "zipf": 1.47,
+    "score": 27.7,
+    "definition": "not mated sexually"
+  },
+  {
+    "word": "unplowed",
+    "partOfSpeech": "adjective",
+    "zipf": 1.47,
+    "score": 27.7,
+    "definition": "(of farmland) not plowed"
+  },
+  {
+    "word": "hardhearted",
+    "partOfSpeech": "adjective",
+    "zipf": 1.35,
+    "score": 27.7,
+    "definition": "lacking in feeling or pity or warmth"
+  },
+  {
+    "word": "ghat",
+    "partOfSpeech": "noun",
+    "zipf": 2.36,
+    "score": 27.6,
+    "definition": "stairway in India leading down to a landing on the water"
+  },
+  {
+    "word": "paramour",
+    "partOfSpeech": "noun",
+    "zipf": 2.36,
+    "score": 27.6,
+    "definition": "a woman's lover"
+  },
+  {
+    "word": "ruffian",
+    "partOfSpeech": "noun",
+    "zipf": 2.36,
+    "score": 27.6,
+    "definition": "a cruel and brutal fellow"
+  },
+  {
+    "word": "tilling",
+    "partOfSpeech": "noun",
+    "zipf": 2.36,
+    "score": 27.6,
+    "definition": "cultivation of the land in order to raise crops"
+  },
+  {
+    "word": "modeler",
+    "partOfSpeech": "noun",
+    "zipf": 2.24,
+    "score": 27.6,
+    "definition": "a person who creates models"
+  },
+  {
+    "word": "complexly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.76,
+    "score": 27.6,
+    "definition": "in a complex manner"
+  },
+  {
+    "word": "confusedly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.76,
+    "score": 27.6,
+    "definition": "in a confused manner"
+  },
+  {
+    "word": "obtusely",
+    "partOfSpeech": "adverb",
+    "zipf": 1.76,
+    "score": 27.6,
+    "definition": "in a stupid manner"
+  },
+  {
+    "word": "preciously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.76,
+    "score": 27.6,
+    "definition": "extremely"
+  },
+  {
+    "word": "primitively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.76,
+    "score": 27.6,
+    "definition": "with reference to the origin or beginning"
+  },
+  {
+    "word": "signally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.64,
+    "score": 27.6,
+    "definition": "as a signal"
+  },
+  {
+    "word": "aboral",
+    "partOfSpeech": "adjective",
+    "zipf": 1.46,
+    "score": 27.6,
+    "definition": "opposite to or away from the mouth"
+  },
+  {
+    "word": "accordant",
+    "partOfSpeech": "adjective",
+    "zipf": 1.46,
+    "score": 27.6,
+    "definition": "being in agreement or harmony; often followed by `with'; -Thomas Hardy"
+  },
+  {
+    "word": "bathyal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.46,
+    "score": 27.6,
+    "definition": "relating to ocean depths between 200 and 2000 meters (corresponds to the continental slope)"
+  },
+  {
+    "word": "dehiscent",
+    "partOfSpeech": "adjective",
+    "zipf": 1.46,
+    "score": 27.6,
+    "definition": "(of e.g. fruits and anthers) opening spontaneously at maturity to release seeds"
+  },
+  {
+    "word": "documental",
+    "partOfSpeech": "adjective",
+    "zipf": 1.46,
+    "score": 27.6,
+    "definition": "relating to or consisting of or derived from documents"
+  },
+  {
+    "word": "sophistic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.46,
+    "score": 27.6,
+    "definition": "of or pertaining to sophists"
+  },
+  {
+    "word": "unblended",
+    "partOfSpeech": "adjective",
+    "zipf": 1.46,
+    "score": 27.6,
+    "definition": "not blended or mixed together"
+  },
+  {
+    "word": "unventilated",
+    "partOfSpeech": "adjective",
+    "zipf": 1.46,
+    "score": 27.6,
+    "definition": "not ventilated"
+  },
+  {
+    "word": "antiquary",
+    "partOfSpeech": "noun",
+    "zipf": 2.35,
+    "score": 27.5,
+    "definition": "an expert or collector of antiquities"
+  },
+  {
+    "word": "borderland",
+    "partOfSpeech": "noun",
+    "zipf": 2.35,
+    "score": 27.5,
+    "definition": "district consisting of the area on either side of a border or boundary of a country or an area"
+  },
+  {
+    "word": "dearie",
+    "partOfSpeech": "noun",
+    "zipf": 2.35,
+    "score": 27.5,
+    "definition": "a special loved one"
+  },
+  {
+    "word": "electioneering",
+    "partOfSpeech": "noun",
+    "zipf": 2.35,
+    "score": 27.5,
+    "definition": "persuasion of voters in a political campaign"
+  },
+  {
+    "word": "genealogist",
+    "partOfSpeech": "noun",
+    "zipf": 2.35,
+    "score": 27.5,
+    "definition": "an expert in genealogy"
+  },
+  {
+    "word": "loafing",
+    "partOfSpeech": "noun",
+    "zipf": 2.35,
+    "score": 27.5,
+    "definition": "having no employment"
+  },
+  {
+    "word": "masseur",
+    "partOfSpeech": "noun",
+    "zipf": 2.35,
+    "score": 27.5,
+    "definition": "a male massager"
+  },
+  {
+    "word": "rearward",
+    "partOfSpeech": "noun",
+    "zipf": 2.35,
+    "score": 27.5,
+    "definition": "direction toward the rear"
+  },
+  {
+    "word": "rudiments",
+    "partOfSpeech": "noun",
+    "zipf": 2.35,
+    "score": 27.5,
+    "definition": "a statement of fundamental facts or principles"
+  },
+  {
+    "word": "seascape",
+    "partOfSpeech": "noun",
+    "zipf": 2.35,
+    "score": 27.5,
+    "definition": "a view of the sea"
+  },
+  {
+    "word": "submariner",
+    "partOfSpeech": "noun",
+    "zipf": 2.35,
+    "score": 27.5,
+    "definition": "a member of the crew of a submarine"
+  }
+]
