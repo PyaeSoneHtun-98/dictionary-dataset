@@ -1,0 +1,502 @@
+[
+  {
+    "word": "dreaming",
+    "pronunciation": "/ˈdrimɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "imaginative thoughts indulged in while awake",
+    "zipf": 3.94,
+    "score": 43.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "modeling",
+    "pronunciation": "/ˈmɑdəlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "sculpture produced by molding",
+    "zipf": 3.94,
+    "score": 43.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "drilling",
+    "pronunciation": "/ˈdrɪlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of drilling",
+    "zipf": 3.93,
+    "score": 43.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "merited",
+    "pronunciation": "/ˈmɛrɪtɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "properly deserved",
+    "zipf": 2.73,
+    "score": 43.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "sounding",
+    "pronunciation": "/ˈsaʊndɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a measure of the depth of water taken with a sounding line",
+    "zipf": 3.9,
+    "score": 43.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "bonding",
+    "pronunciation": "/ˈbɑndɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a close personal relationship that forms between people (as between husband and wife or parent and child)",
+    "zipf": 3.68,
+    "score": 43.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "mommy",
+    "pronunciation": "/ˈmɑmi/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "informal terms for a mother",
+    "zipf": 3.89,
+    "score": 42.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "baron",
+    "pronunciation": "/ˈbɛrən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a nobleman (in various countries) of varying rank",
+    "zipf": 3.88,
+    "score": 42.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "lining",
+    "pronunciation": "/ˈlaɪnɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a protective covering that protects an inside surface",
+    "zipf": 3.88,
+    "score": 42.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "molly",
+    "pronunciation": "/ˈmɑli/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "popular aquarium fish",
+    "zipf": 3.87,
+    "score": 42.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "staging",
+    "pronunciation": "/ˈsteɪʤɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the production of a drama on the stage",
+    "zipf": 3.65,
+    "score": 42.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "carpeted",
+    "pronunciation": "/ˈkɑrpətɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "covered with or as if with carpeting or with carpeting as specified; often used in combination",
+    "zipf": 2.66,
+    "score": 42.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "disenchanted",
+    "pronunciation": "/dɪsɪnˈʧænɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "freed from enchantment",
+    "zipf": 2.66,
+    "score": 42.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "rifled",
+    "pronunciation": "/ˈraɪfəld/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of a firearm; having rifling or internal spiral grooves inside the barrel",
+    "zipf": 2.65,
+    "score": 42.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "batting",
+    "pronunciation": "/ˈbætɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "(baseball) the batter's attempt to get on base",
+    "zipf": 3.84,
+    "score": 42.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "donna",
+    "pronunciation": "/ˈdɑnə/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an Italian woman of rank",
+    "zipf": 3.84,
+    "score": 42.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "renting",
+    "pronunciation": "/ˈrɛntɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of paying for the use of something (as an apartment or house or car)",
+    "zipf": 3.62,
+    "score": 42.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "awarding",
+    "pronunciation": "/əˈwɔrdɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a grant made by a law court",
+    "zipf": 3.4,
+    "score": 42.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "bedded",
+    "pronunciation": "/ˈbɛdɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "deposited or arranged in horizontal layers",
+    "zipf": 2.64,
+    "score": 42.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "tongued",
+    "pronunciation": "/təŋd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "provided with or resembling a tongue; often used in combination",
+    "zipf": 2.64,
+    "score": 42.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "calif",
+    "pronunciation": "/ˈkælɪf/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the civil and religious leader of a Muslim state considered to be a representative of Allah on earth",
+    "zipf": 3.83,
+    "score": 42.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "popping",
+    "pronunciation": "/ˈpɑpɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a sharp explosive sound as from a gunshot or drawing a cork",
+    "zipf": 3.83,
+    "score": 42.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "barreled",
+    "pronunciation": "/ˈbɛrəld/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "put in or stored in a barrel",
+    "zipf": 2.63,
+    "score": 42.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "planting",
+    "pronunciation": "/ˈplæntɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of fixing firmly in place",
+    "zipf": 3.81,
+    "score": 42.1,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "coloring",
+    "pronunciation": "/ˈkələrɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a digestible substance used to give color to food",
+    "zipf": 3.59,
+    "score": 42.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "balancing",
+    "pronunciation": "/ˈbælənsɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "getting two things to correspond",
+    "zipf": 3.8,
+    "score": 42.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "swinging",
+    "pronunciation": "/sˈwɪŋɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "changing location by moving back and forth",
+    "zipf": 3.79,
+    "score": 41.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "fretted",
+    "pronunciation": "/ˈfrɛtɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having frets",
+    "zipf": 2.59,
+    "score": 41.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "inflected",
+    "pronunciation": "/ˌɪnˈflɛktəd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "(of the voice) altered in tone or pitch",
+    "zipf": 2.59,
+    "score": 41.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "magnetized",
+    "pronunciation": "/ˈmægnɪˌtaɪzd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having the properties of a magnet; i.e. of attracting iron or steel",
+    "zipf": 2.58,
+    "score": 41.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "branding",
+    "pronunciation": "/ˈbrændɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of stigmatizing",
+    "zipf": 3.77,
+    "score": 41.7,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "seating",
+    "pronunciation": "/ˈsitɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an area that includes places where several people can sit",
+    "zipf": 3.77,
+    "score": 41.7,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "silva",
+    "pronunciation": "/ˈsɪlvə/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the forest trees growing in a country or region",
+    "zipf": 3.77,
+    "score": 41.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "trailing",
+    "pronunciation": "/ˈtreɪlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the pursuit (of a person or animal) by following tracks or marks they left behind",
+    "zipf": 3.55,
+    "score": 41.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "issuing",
+    "pronunciation": "/ˈɪʃuɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of providing an item for general use or for official purposes (usually in quantity)",
+    "zipf": 3.76,
+    "score": 41.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "jawed",
+    "pronunciation": "/ʤɔd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of animals having jaws of a specified type",
+    "zipf": 2.55,
+    "score": 41.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "honoring",
+    "pronunciation": "/ˈɑnərɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "conformity with law or custom or practice etc.",
+    "zipf": 3.52,
+    "score": 41.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "rhymed",
+    "pronunciation": "/raɪmd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having corresponding sounds especially terminal sounds",
+    "zipf": 2.54,
+    "score": 41.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "exercising",
+    "pronunciation": "/ˈɛksərˌsaɪzɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the activity of exerting your muscles in various ways to keep fit",
+    "zipf": 3.73,
+    "score": 41.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "positioning",
+    "pronunciation": "/pəˈzɪʃənɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of putting something in a certain place",
+    "zipf": 3.73,
+    "score": 41.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "retarded",
+    "pronunciation": "/rɪˈtɑrdɪd/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "people collectively who are mentally retarded",
+    "zipf": 3.73,
+    "score": 41.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "webbed",
+    "pronunciation": "/wɛbd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "(of the feet of some animals) having the digits connected by a thin fold of skin",
+    "zipf": 2.53,
+    "score": 41.3,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "shaping",
+    "pronunciation": "/ˈʃeɪpɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "any process serving to define the shape of something",
+    "zipf": 3.72,
+    "score": 41.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "slowing",
+    "pronunciation": "/sloʊɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a decrease in rate of change",
+    "zipf": 3.71,
+    "score": 41.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "dripping",
+    "pronunciation": "/ˈdrɪpɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a liquid (as water) that flows in drops (as from the eaves of house)",
+    "zipf": 3.48,
+    "score": 41.0,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "lactating",
+    "pronunciation": "/ˈlækteɪtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "producing or secreting milk",
+    "zipf": 2.5,
+    "score": 41.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "chilling",
+    "pronunciation": "/ˈʧɪlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the process of becoming cooler; a falling temperature",
+    "zipf": 3.69,
+    "score": 40.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "figuring",
+    "pronunciation": "/ˈfɪgjərɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "problem solving that involves numbers or quantities",
+    "zipf": 3.69,
+    "score": 40.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "scheduling",
+    "pronunciation": "/ˈskɛʤʊlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "setting an order and time for planned events",
+    "zipf": 3.69,
+    "score": 40.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "tuning",
+    "pronunciation": "/ˈtunɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "(music) calibrating something (an instrument or electronic circuit) to a standard frequency",
+    "zipf": 3.67,
+    "score": 40.7,
+    "suspiciousCompound": false
+  }
+]

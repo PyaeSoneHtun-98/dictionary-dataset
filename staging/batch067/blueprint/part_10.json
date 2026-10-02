@@ -1,0 +1,502 @@
+[
+  {
+    "word": "parachuting",
+    "pronunciation": "/ˈpɛrəˌʃutɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "descent with a parachute",
+    "zipf": 2.47,
+    "score": 28.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "fashioning",
+    "pronunciation": "/ˈfæʃənɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act that results in something coming to be",
+    "zipf": 2.46,
+    "score": 28.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "matting",
+    "pronunciation": "/ˈmætɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a covering of coarse fabric (usually of straw or hemp)",
+    "zipf": 2.46,
+    "score": 28.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "transplanting",
+    "pronunciation": "/trænˈsplæntɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of removing something from one location and introducing it in another location",
+    "zipf": 2.46,
+    "score": 28.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "outfitting",
+    "pronunciation": "/ˈaʊtˌfɪtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of renovating and fitting out a ship",
+    "zipf": 2.45,
+    "score": 28.5,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "neritic",
+    "pronunciation": "/nərˈɪtɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to the region of the sea over the continental shelf which is less than 200 meters deep",
+    "zipf": 1.25,
+    "score": 28.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "calving",
+    "pronunciation": "/ˈkælvɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "giving birth to a calf",
+    "zipf": 2.44,
+    "score": 28.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "cushioning",
+    "pronunciation": "/ˈkʊʃənɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "artifact consisting of soft or resilient material used to fill or give shape or protect or add comfort",
+    "zipf": 2.43,
+    "score": 28.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "imprinting",
+    "pronunciation": "/ˌɪmˈprɪnɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a learning process in early life whereby species specific patterns of behavior are established",
+    "zipf": 2.43,
+    "score": 28.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "pelting",
+    "pronunciation": "/ˈpɛltɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "anything happening rapidly or in quick successive",
+    "zipf": 2.43,
+    "score": 28.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "ebbing",
+    "pronunciation": "/ˈɛbɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a gradual decline (in size or strength or power or number)",
+    "zipf": 2.42,
+    "score": 28.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "savoring",
+    "pronunciation": "/ˈseɪvərɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "taking a small amount into the mouth to test its quality",
+    "zipf": 2.42,
+    "score": 28.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "splintering",
+    "pronunciation": "/ˈsplɪntərɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of chipping something",
+    "zipf": 2.42,
+    "score": 28.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "programing",
+    "pronunciation": "/ˈproʊˌgræmɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "setting an order and time for planned events",
+    "zipf": 2.41,
+    "score": 28.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "oftener",
+    "pronunciation": "/ˈɔfənər/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "more often or more frequently",
+    "zipf": 1.61,
+    "score": 28.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "crustaceous",
+    "pronunciation": "/krəˈsteɪʃəs/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or belonging to the class Crustacea",
+    "zipf": 1.19,
+    "score": 27.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "burping",
+    "pronunciation": "/ˈbərpɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a reflex that expels gas noisily from the stomach through the mouth",
+    "zipf": 2.38,
+    "score": 27.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "meshing",
+    "pronunciation": "/ˈmɛʃɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "contact by fitting together",
+    "zipf": 2.38,
+    "score": 27.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "malted",
+    "pronunciation": "/ˈmɔltəd/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a milkshake made with malt powder",
+    "zipf": 2.37,
+    "score": 27.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "tilling",
+    "pronunciation": "/ˈtɪlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "cultivation of the land in order to raise crops",
+    "zipf": 2.36,
+    "score": 27.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "electioneering",
+    "pronunciation": "/ɪˌlɛkʃəˈnɪrɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "persuasion of voters in a political campaign",
+    "zipf": 2.35,
+    "score": 27.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "boozing",
+    "pronunciation": "/ˈbuzɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of drinking alcoholic beverages to excess",
+    "zipf": 2.34,
+    "score": 27.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "clumping",
+    "pronunciation": "/ˈkləmpɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the sound of a horse's hoofs hitting on a hard surface",
+    "zipf": 2.34,
+    "score": 27.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "soldiering",
+    "pronunciation": "/ˈsoʊlʤərɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "skills that are required for the life of soldier",
+    "zipf": 2.33,
+    "score": 27.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "voiding",
+    "pronunciation": "/ˈvɔɪdɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the bodily process of discharging waste matter",
+    "zipf": 2.32,
+    "score": 27.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "overworking",
+    "pronunciation": "/ˌoʊvərˈwərkɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of working too much or too long",
+    "zipf": 2.09,
+    "score": 27.1,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "lunching",
+    "pronunciation": "/ˈlənʧɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of eating lunch",
+    "zipf": 2.29,
+    "score": 26.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "smarting",
+    "pronunciation": "/sˈmɑrtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a kind of pain such as that caused by a wound or a burn or a sore",
+    "zipf": 2.29,
+    "score": 26.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "neutering",
+    "pronunciation": "/ˈnutərɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the sterilization of an animal",
+    "zipf": 2.27,
+    "score": 26.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "leavening",
+    "pronunciation": "/ˈlɛvənɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an influence that works subtly to lighten or modify something",
+    "zipf": 2.04,
+    "score": 26.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "anencephalic",
+    "pronunciation": "/æˌnɛnsɛˈfælɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "characterized by partial or total absence of a brain",
+    "zipf": 1.06,
+    "score": 26.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "monocarpic",
+    "pronunciation": "/ˌmɑnəˈkɑrpɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "dying after bearing fruit only once",
+    "zipf": 1.06,
+    "score": 26.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "glimmering",
+    "pronunciation": "/ˈglɪmərɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a slight suggestion or vague understanding",
+    "zipf": 2.25,
+    "score": 26.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "molting",
+    "pronunciation": "/ˈmoʊltɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "periodic shedding of the cuticle in arthropods or the outer skin in reptiles",
+    "zipf": 2.23,
+    "score": 26.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "suturing",
+    "pronunciation": "/ˈsuʧərɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "surgical joining of two surfaces",
+    "zipf": 2.23,
+    "score": 26.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "elbowing",
+    "pronunciation": "/ˈɛlˌboʊɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "jostling with the elbows",
+    "zipf": 2.22,
+    "score": 26.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "caribe",
+    "pronunciation": "/ˌkɑˈrib/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "small voraciously carnivorous freshwater fishes of South America that attack and destroy living animals",
+    "zipf": 2.19,
+    "score": 25.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "teleconferencing",
+    "pronunciation": "/ˌtɛləˈkɑnfrənsɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a conference of people who are in different locations that is made possible by the use of such telecommunications equipment as closed-circuit television",
+    "zipf": 1.97,
+    "score": 25.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "souring",
+    "pronunciation": "/saʊərɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the process of becoming sour",
+    "zipf": 2.16,
+    "score": 25.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "splattering",
+    "pronunciation": "/ˈsplætəˌrɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the noise of something spattering or sputtering explosively",
+    "zipf": 2.15,
+    "score": 25.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "yodeling",
+    "pronunciation": "/ˈjoʊdəlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "singing by changing back and forth between the chest voice and a falsetto",
+    "zipf": 2.15,
+    "score": 25.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "yelping",
+    "pronunciation": "/ˈjɛlpɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a sharp high-pitched cry (especially by a dog)",
+    "zipf": 2.14,
+    "score": 25.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "vendee",
+    "pronunciation": "/ˈvɛnˈdi/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a person who buys",
+    "zipf": 1.91,
+    "score": 25.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "dowsing",
+    "pronunciation": "/ˈdaʊsɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "searching for underground water or minerals by using a dowsing rod",
+    "zipf": 2.12,
+    "score": 25.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "hurdling",
+    "pronunciation": "/ˈhərdəlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a footrace in which contestants must negotiate a series of hurdles",
+    "zipf": 2.12,
+    "score": 25.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "leafing",
+    "pronunciation": "/ˈlifɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "(botany) the process of forming leaves",
+    "zipf": 2.12,
+    "score": 25.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "veiling",
+    "pronunciation": "/ˈveɪlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a net of transparent fabric with a loose open weave",
+    "zipf": 2.11,
+    "score": 25.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "reshuffling",
+    "pronunciation": "/riˈʃəfəlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "shuffling again",
+    "zipf": 2.1,
+    "score": 25.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "quadrupling",
+    "pronunciation": "/kwɑˈdrupəlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "increase by a factor of four",
+    "zipf": 2.09,
+    "score": 24.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "sylva",
+    "pronunciation": "/ˈsɪlvə/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the forest trees growing in a country or region",
+    "zipf": 2.08,
+    "score": 24.8,
+    "suspiciousCompound": false
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "word": "bracing",
+    "pronunciation": "/ˈbreɪsɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a structural member used to stiffen a framework",
+    "zipf": 3.12,
+    "score": 37.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "masted",
+    "pronunciation": "/ˈmæstɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having or furnished with a mast; often used in combination; - S.E.Morrison",
+    "zipf": 2.14,
+    "score": 37.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "surveying",
+    "pronunciation": "/ˈsərˌveɪɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the practice of measuring angles and distances on the ground so that they can be accurately plotted on a map",
+    "zipf": 3.33,
+    "score": 37.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "courting",
+    "pronunciation": "/ˈkɔrtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a man's courting of a woman; seeking the affections of a woman (usually with the hope of marriage)",
+    "zipf": 3.11,
+    "score": 37.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "rioting",
+    "pronunciation": "/ˈraɪətɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a state of disorder involving group violence",
+    "zipf": 3.27,
+    "score": 36.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "grounding",
+    "pronunciation": "/ˈgraʊndɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "education or instruction in the fundamentals of a field of knowledge",
+    "zipf": 3.26,
+    "score": 36.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "narrowing",
+    "pronunciation": "/ˈnɛroʊɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an instance of becoming narrow",
+    "zipf": 3.25,
+    "score": 36.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "branching",
+    "pronunciation": "/ˈbrænʧɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of branching out or dividing into branches",
+    "zipf": 3.24,
+    "score": 36.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "netting",
+    "pronunciation": "/ˈnɛtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a net of transparent fabric with a loose open weave",
+    "zipf": 3.24,
+    "score": 36.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "taping",
+    "pronunciation": "/ˈteɪpɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a recording made on magnetic tape",
+    "zipf": 3.24,
+    "score": 36.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "voicing",
+    "pronunciation": "/ˈvɔɪsɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of adjusting an organ pipe (or wind instrument) so that it conforms to the standards of tone and pitch and color",
+    "zipf": 3.24,
+    "score": 36.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "leveraging",
+    "pronunciation": "/ˈlɛvərɪʤɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "investing with borrowed money as a way to amplify potential gains (at the risk of greater losses)",
+    "zipf": 3.02,
+    "score": 36.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "looping",
+    "pronunciation": "/ˈlupɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "(computer science) executing the same set of instructions a given number of times or until a specified result is obtained",
+    "zipf": 3.01,
+    "score": 36.3,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "drumming",
+    "pronunciation": "/ˈdrəmɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of playing drums",
+    "zipf": 3.22,
+    "score": 36.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "leveling",
+    "pronunciation": "/ˈlɛvəlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "changing the ground level to a smooth horizontal or gently sloping surface",
+    "zipf": 3.22,
+    "score": 36.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "trimmer",
+    "pronunciation": "/ˈtrɪmər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a worker who thins out and trims trees and shrubs",
+    "zipf": 2.78,
+    "score": 36.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "jerking",
+    "pronunciation": "/ˈʤərkɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an abrupt spasmodic movement",
+    "zipf": 3.21,
+    "score": 36.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "lagging",
+    "pronunciation": "/ˈlægɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "used to wrap around pipes or boilers or laid in attics to prevent loss of heat",
+    "zipf": 3.21,
+    "score": 36.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "staining",
+    "pronunciation": "/ˈsteɪnɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "(histology) the use of a dye to color specimens for microscopic study",
+    "zipf": 3.21,
+    "score": 36.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "consort",
+    "pronunciation": "/kənˈsɔrt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the husband or wife of a reigning monarch",
+    "zipf": 3.2,
+    "score": 36.0,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "sizing",
+    "pronunciation": "/ˈsaɪzɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "any glutinous material used to fill pores in surfaces or to stiffen fabrics",
+    "zipf": 3.2,
+    "score": 36.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "clipping",
+    "pronunciation": "/ˈklɪpɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an excerpt cut from a newspaper or magazine",
+    "zipf": 3.19,
+    "score": 35.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "sprawling",
+    "pronunciation": "/ˈsprɔlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an ungainly posture with arms and legs spread about",
+    "zipf": 3.19,
+    "score": 35.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "slacker",
+    "pronunciation": "/sˈlækər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a person who shirks his work or duty (especially one who tries to evade military service in wartime)",
+    "zipf": 2.75,
+    "score": 35.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "indexing",
+    "pronunciation": "/ˈɪndɛksɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of classifying and providing an index in order to make items easier to retrieve",
+    "zipf": 3.18,
+    "score": 35.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "stalling",
+    "pronunciation": "/ˈstɔlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a tactic used to mislead or delay",
+    "zipf": 3.18,
+    "score": 35.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "maltreated",
+    "pronunciation": "/mælˈtritɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "subjected to cruel treatment",
+    "zipf": 1.98,
+    "score": 35.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "thieving",
+    "pronunciation": "/ˈθivɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of taking something from someone unlawfully",
+    "zipf": 2.73,
+    "score": 35.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "chipping",
+    "pronunciation": "/ˈʧɪpɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of chipping something",
+    "zipf": 3.16,
+    "score": 35.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "skateboarding",
+    "pronunciation": "/ˈskeɪtˌbɔrdɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the sport of skating on a skateboard",
+    "zipf": 3.15,
+    "score": 35.5,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "plating",
+    "pronunciation": "/ˈpleɪtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a thin coating of metal deposited on a surface",
+    "zipf": 3.14,
+    "score": 35.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "stroking",
+    "pronunciation": "/ˈstroʊkɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a light touch with the hands",
+    "zipf": 3.14,
+    "score": 35.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "thinning",
+    "pronunciation": "/ˈθɪnɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of diluting something",
+    "zipf": 3.14,
+    "score": 35.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "venting",
+    "pronunciation": "/ˈvɛntɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of venting",
+    "zipf": 3.14,
+    "score": 35.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "tapering",
+    "pronunciation": "/ˈteɪpərɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of gradually lowering the size or amount",
+    "zipf": 3.13,
+    "score": 35.3,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "shambles",
+    "pronunciation": "/ˈʃæmbəlz/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a condition of great disorder",
+    "zipf": 3.11,
+    "score": 35.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "wailing",
+    "pronunciation": "/ˈweɪlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "loud cries made while weeping",
+    "zipf": 3.11,
+    "score": 35.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "gleaming",
+    "pronunciation": "/ˈglimɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a flash of light (especially reflected light)",
+    "zipf": 3.1,
+    "score": 35.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "ironing",
+    "pronunciation": "/ˈaɪərnɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "garments (clothes or linens) that are to be (or have been) ironed",
+    "zipf": 3.1,
+    "score": 35.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "rearing",
+    "pronunciation": "/ˈrɪrɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the properties acquired as a consequence of the way you were treated as a child",
+    "zipf": 3.1,
+    "score": 35.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "splashing",
+    "pronunciation": "/ˈsplæʃɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of splashing a (liquid) substance on a surface",
+    "zipf": 3.09,
+    "score": 34.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "subordinating",
+    "pronunciation": "/səˈbɔrdəˌneɪtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "serving to connect a subordinate clause to a main clause",
+    "zipf": 1.89,
+    "score": 34.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "emptying",
+    "pronunciation": "/ˈɛmtiɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of removing the contents of something",
+    "zipf": 3.08,
+    "score": 34.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "splicing",
+    "pronunciation": "/ˈsplaɪsɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a junction where two things (as paper or film or magnetic tape) have been joined together",
+    "zipf": 2.86,
+    "score": 34.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "sacking",
+    "pronunciation": "/ˈsækɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "coarse fabric used for bags or sacks",
+    "zipf": 3.07,
+    "score": 34.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "shadowing",
+    "pronunciation": "/ˈʃædoʊɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of following someone secretly",
+    "zipf": 2.84,
+    "score": 34.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "crowding",
+    "pronunciation": "/ˈkraʊdɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a situation in which people or things are crowded together",
+    "zipf": 3.05,
+    "score": 34.5,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "petting",
+    "pronunciation": "/ˈpɛtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "affectionate play (or foreplay without contact with the genital organs)",
+    "zipf": 3.05,
+    "score": 34.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "tailoring",
+    "pronunciation": "/ˈteɪlərɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the occupation of a tailor",
+    "zipf": 3.05,
+    "score": 34.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "clustering",
+    "pronunciation": "/ˈkləstərɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a grouping of a number of similar things",
+    "zipf": 3.03,
+    "score": 34.3,
+    "suspiciousCompound": false
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "word": "spaced",
+    "pronunciation": "/speɪst/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "arranged with spaces between; often used as a combining form",
+    "zipf": 3.44,
+    "score": 50.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "winged",
+    "pronunciation": "/wɪŋd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having wings or as if having wings of a specified kind",
+    "zipf": 3.44,
+    "score": 50.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "dying",
+    "pronunciation": "/daɪɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the time when something ends",
+    "zipf": 4.63,
+    "score": 50.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "trading",
+    "pronunciation": "/ˈtreɪdɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "buying or selling securities or commodities",
+    "zipf": 4.63,
+    "score": 50.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "signing",
+    "pronunciation": "/ˈsaɪnɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "language expressed by visible hand gestures",
+    "zipf": 4.4,
+    "score": 50.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "mined",
+    "pronunciation": "/maɪnd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "extracted from a source of supply as of minerals from the earth",
+    "zipf": 3.41,
+    "score": 50.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "dealing",
+    "pronunciation": "/ˈdilɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "method or manner of conduct in relation to others",
+    "zipf": 4.6,
+    "score": 50.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "nick",
+    "pronunciation": "/nɪk/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an impression in a surface (as made by a blow)",
+    "zipf": 4.59,
+    "score": 49.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "silenced",
+    "pronunciation": "/ˈsaɪlənst/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "reduced to silence",
+    "zipf": 3.39,
+    "score": 49.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "jean",
+    "pronunciation": "/ʤin/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "(usually plural) close-fitting trousers of heavy denim for manual work or casual wear",
+    "zipf": 4.36,
+    "score": 49.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "wheeled",
+    "pronunciation": "/wild/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having wheels; often used in combination",
+    "zipf": 3.36,
+    "score": 49.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "matt",
+    "pronunciation": "/mæt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the property of having little or no contrast; lacking highlights or gloss",
+    "zipf": 4.55,
+    "score": 49.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "billy",
+    "pronunciation": "/ˈbɪli/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a short stout club used primarily by policemen",
+    "zipf": 4.33,
+    "score": 49.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "glazed",
+    "pronunciation": "/gleɪzd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "fitted or covered with glass",
+    "zipf": 3.34,
+    "score": 49.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "letting",
+    "pronunciation": "/ˈlɛtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "property that is leased or rented out or let",
+    "zipf": 4.53,
+    "score": 49.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "strung",
+    "pronunciation": "/strəŋ/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "that is on a string",
+    "zipf": 3.31,
+    "score": 49.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "footed",
+    "pronunciation": "/ˈfʊtɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having feet",
+    "zipf": 3.3,
+    "score": 49.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "corp",
+    "pronunciation": "/ˈkɔrpərˈeɪʃən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a business firm whose articles of incorporation have been approved in some state",
+    "zipf": 4.27,
+    "score": 48.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "laced",
+    "pronunciation": "/leɪst/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "closed with a lace",
+    "zipf": 3.29,
+    "score": 48.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "rolling",
+    "pronunciation": "/ˈroʊlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a deep prolonged sound (as of thunder or large bells)",
+    "zipf": 4.47,
+    "score": 48.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "shaded",
+    "pronunciation": "/ˈʃeɪdɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "protected from heat and light with shade or shadow; ; - Alexander Pope",
+    "zipf": 3.27,
+    "score": 48.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "hitting",
+    "pronunciation": "/ˈhɪtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of contacting one thing with another",
+    "zipf": 4.46,
+    "score": 48.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "veiled",
+    "pronunciation": "/veɪld/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having or as if having a veil or concealing cover",
+    "zipf": 3.26,
+    "score": 48.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "jimmy",
+    "pronunciation": "/ˈʤɪmi/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a short crowbar",
+    "zipf": 4.44,
+    "score": 48.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "bobby",
+    "pronunciation": "/ˈbɑbi/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an informal term for a British policeman",
+    "zipf": 4.22,
+    "score": 48.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "beating",
+    "pronunciation": "/ˈbitɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of overcoming or outdoing",
+    "zipf": 4.43,
+    "score": 48.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "threaded",
+    "pronunciation": "/θˈrɛdɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "(of bolts or screws) having screw threads",
+    "zipf": 3.23,
+    "score": 48.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "stemmed",
+    "pronunciation": "/stɛmd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having a stem or stems or having a stem as specified; often used in combination",
+    "zipf": 3.21,
+    "score": 48.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "buddy",
+    "pronunciation": "/ˈbədi/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a close friend who accompanies his buddies in their activities",
+    "zipf": 4.4,
+    "score": 48.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "posting",
+    "pronunciation": "/ˈpoʊstɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a sign posted in a public place as an advertisement",
+    "zipf": 4.39,
+    "score": 47.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "anna",
+    "pronunciation": "/ˈænə/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a former copper coin of Pakistan and India",
+    "zipf": 4.37,
+    "score": 47.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "bordered",
+    "pronunciation": "/ˈbɔrdərd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having a border especially of a specified kind; sometimes used as a combining term",
+    "zipf": 3.16,
+    "score": 47.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "lighted",
+    "pronunciation": "/ˈlaɪtɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "set afire or burning",
+    "zipf": 3.16,
+    "score": 47.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "nosed",
+    "pronunciation": "/noʊzd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having a nose (either literal or metaphoric) especially of a specified kind",
+    "zipf": 3.14,
+    "score": 47.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "banded",
+    "pronunciation": "/ˈbændɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "identified with a band especially around a leg",
+    "zipf": 3.13,
+    "score": 47.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "focussed",
+    "pronunciation": "/ˈfoʊkɪst/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "being in focus or brought into focus",
+    "zipf": 3.13,
+    "score": 47.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "listing",
+    "pronunciation": "/ˈlɪstɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a database containing an ordered array of items (names or topics)",
+    "zipf": 4.32,
+    "score": 47.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "rick",
+    "pronunciation": "/rɪk/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a painful muscle spasm especially in the neck or back (`rick' and `wrick' are British)",
+    "zipf": 4.32,
+    "score": 47.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "cycling",
+    "pronunciation": "/ˈsaɪkəlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the sport of traveling on a bicycle or motorcycle",
+    "zipf": 4.1,
+    "score": 47.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "lighting",
+    "pronunciation": "/ˈlaɪtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "having abundant light or illumination",
+    "zipf": 4.29,
+    "score": 46.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "timing",
+    "pronunciation": "/ˈtaɪmɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the time when something happens",
+    "zipf": 4.29,
+    "score": 46.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "tiered",
+    "pronunciation": "/tird/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having or arranged in tiers",
+    "zipf": 3.09,
+    "score": 46.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "fingered",
+    "pronunciation": "/ˈfɪŋgərd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having or resembling a finger or fingers; often used in combination",
+    "zipf": 3.08,
+    "score": 46.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "shelled",
+    "pronunciation": "/ʃɛld/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of animals or fruits that have a shell",
+    "zipf": 3.08,
+    "score": 46.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "curving",
+    "pronunciation": "/ˈkərvɪŋ/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having or marked by a curve or smoothly rounded bend",
+    "zipf": 3.06,
+    "score": 46.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "misused",
+    "pronunciation": "/mɪsˈjuzd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "used incorrectly or carelessly or for an improper purpose",
+    "zipf": 3.05,
+    "score": 46.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "batman",
+    "pronunciation": "/ˈbætˌmæn/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an orderly assigned to serve a British military officer",
+    "zipf": 4.22,
+    "score": 46.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "catching",
+    "pronunciation": "/ˈkæʧɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "(baseball) playing the position of catcher on a baseball team",
+    "zipf": 4.2,
+    "score": 46.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "warmer",
+    "pronunciation": "/ˈwɔrmər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "device that heats water or supplies warmth to a room",
+    "zipf": 3.76,
+    "score": 46.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "breasted",
+    "pronunciation": "/ˈbrɛstɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having a breast or breasts; or breasts as specified; used chiefly in compounds",
+    "zipf": 3.0,
+    "score": 46.0,
+    "suspiciousCompound": false
+  }
+]

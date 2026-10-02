@@ -1,0 +1,502 @@
+[
+  {
+    "word": "greening",
+    "pronunciation": "/ˈgrinɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the phenomenon of vitality and freshness being restored",
+    "zipf": 2.8,
+    "score": 32.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "virological",
+    "pronunciation": "/vaɪrəˈlɑʤɪkəl/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to the science of virology",
+    "zipf": 1.6,
+    "score": 32.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "dawning",
+    "pronunciation": "/ˈdɔnɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the first light of day",
+    "zipf": 2.79,
+    "score": 31.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "grafting",
+    "pronunciation": "/ˈgræftɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of grafting something onto something else",
+    "zipf": 2.79,
+    "score": 31.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "mesodermal",
+    "pronunciation": "/ˌmɛzəˈdərməl/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "relating to or derived from the mesoderm",
+    "zipf": 1.59,
+    "score": 31.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "remaking",
+    "pronunciation": "/ˈriˈmeɪkɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "creation that is created again or anew",
+    "zipf": 2.78,
+    "score": 31.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "slinging",
+    "pronunciation": "/sˈlɪŋɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "throwing with a wide motion (as if with a sling)",
+    "zipf": 2.78,
+    "score": 31.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "monatomic",
+    "pronunciation": "/ˌmɑnəˈtɑmɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to an element consisting of a single atom",
+    "zipf": 1.58,
+    "score": 31.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "leaner",
+    "pronunciation": "/ˈlinər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "(horseshoes) the throw of a horseshoe so as to lean against (but not encircle) the stake",
+    "zipf": 2.76,
+    "score": 31.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "stoning",
+    "pronunciation": "/ˈstoʊnɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of pelting with stones; punishment inflicted by throwing stones at the victim (even unto death)",
+    "zipf": 2.75,
+    "score": 31.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "webbing",
+    "pronunciation": "/ˈwɛbɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "something forming a web (as between the toes of birds)",
+    "zipf": 2.75,
+    "score": 31.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "tamer",
+    "pronunciation": "/ˈteɪmər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an animal trainer who tames wild animals",
+    "zipf": 2.74,
+    "score": 31.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "journeying",
+    "pronunciation": "/ˈʤərniɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of traveling from one place to another",
+    "zipf": 2.52,
+    "score": 31.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "hurrying",
+    "pronunciation": "/ˈhəriɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "changing location rapidly",
+    "zipf": 2.73,
+    "score": 31.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "sheeting",
+    "pronunciation": "/ˈʃitɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "fabric from which bed sheets are made",
+    "zipf": 2.73,
+    "score": 31.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "stockpiling",
+    "pronunciation": "/ˈstɑkˌpaɪlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "accumulating and storing a reserve supply",
+    "zipf": 2.73,
+    "score": 31.3,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "whirling",
+    "pronunciation": "/ˈwərlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of rotating in a circle or spiral",
+    "zipf": 2.73,
+    "score": 31.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "quarrying",
+    "pronunciation": "/kˈwɔriɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the extraction of building stone or slate from an open surface quarry",
+    "zipf": 2.72,
+    "score": 31.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "rusting",
+    "pronunciation": "/ˈrəstɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the formation of reddish-brown ferric oxides on iron by low-temperature oxidation in the presence of water",
+    "zipf": 2.72,
+    "score": 31.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "proteinaceous",
+    "pronunciation": "/ˌproʊtɪˈneɪʃəs/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "relating to or of the nature of protein",
+    "zipf": 1.52,
+    "score": 31.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "ranching",
+    "pronunciation": "/ˈrænʧɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "farming for the raising of livestock (particularly cattle)",
+    "zipf": 2.71,
+    "score": 31.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "vaulting",
+    "pronunciation": "/ˈvɔltɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "(architecture) a vaulted structure",
+    "zipf": 2.71,
+    "score": 31.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "bicycling",
+    "pronunciation": "/ˈbaɪˌsɪkəlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "riding a bicycle",
+    "zipf": 2.7,
+    "score": 31.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "rippling",
+    "pronunciation": "/ˈrɪpəlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a small wave on the surface of a liquid",
+    "zipf": 2.7,
+    "score": 31.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "sigmoidal",
+    "pronunciation": "/ˌsɪgˈmɔɪdəl/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to the sigmoid flexure in the large intestine",
+    "zipf": 1.5,
+    "score": 31.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "tetravalent",
+    "pronunciation": "/ˌtɛtrəˈveɪlənt/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "haveing a valence of four",
+    "zipf": 1.5,
+    "score": 31.0,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "coursing",
+    "pronunciation": "/ˈkɔrsɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "hunting with dogs (usually greyhounds) that are trained to chase game (such as hares) by sight instead of by scent",
+    "zipf": 2.69,
+    "score": 30.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "toasting",
+    "pronunciation": "/ˈtoʊstɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "cooking to a brown crispiness over a fire or on a grill",
+    "zipf": 2.69,
+    "score": 30.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "quilting",
+    "pronunciation": "/kˈwɪltɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "stitching through layers of fabric and a filling so as to create a design",
+    "zipf": 2.68,
+    "score": 30.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "salting",
+    "pronunciation": "/ˈsɔltɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of adding salt to food",
+    "zipf": 2.46,
+    "score": 30.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "reprinting",
+    "pronunciation": "/riˈprɪntɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a publication (such as a book) that is reprinted without changes or editing and offered again for sale",
+    "zipf": 2.45,
+    "score": 30.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "snorkeling",
+    "pronunciation": "/sˈnɔrkəˌlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "skin diving with a snorkel",
+    "zipf": 2.66,
+    "score": 30.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "railroading",
+    "pronunciation": "/ˈreɪˌlroʊdɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the activity of designing and constructing and operating railroads",
+    "zipf": 2.44,
+    "score": 30.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "carting",
+    "pronunciation": "/ˈkɑrtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the work of taking something away in a cart or truck and disposing of it",
+    "zipf": 2.42,
+    "score": 30.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "fermenting",
+    "pronunciation": "/fərˈmɛntɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a process in which an agent causes an organic substance to break down into simpler substances; especially, the anaerobic breakdown of sugar into alcohol",
+    "zipf": 2.63,
+    "score": 30.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "balloting",
+    "pronunciation": "/ˈbælətɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a choice that is made by counting the number of people in favor of each alternative",
+    "zipf": 2.62,
+    "score": 30.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "suiting",
+    "pronunciation": "/ˈsutɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a fabric used for suits",
+    "zipf": 2.61,
+    "score": 30.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "pillaging",
+    "pronunciation": "/ˈpɪlɪʤɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of stealing valuable things from a place",
+    "zipf": 2.59,
+    "score": 29.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "onomastic",
+    "pronunciation": "/ˌɑnəˈmæstɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or related to onomastics",
+    "zipf": 1.39,
+    "score": 29.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "ovoviviparous",
+    "pronunciation": "/ˌoʊˌvoʊˌvaɪˈvɪpərəs/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "producing living young from eggs that hatch within the body",
+    "zipf": 1.17,
+    "score": 29.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "raptorial",
+    "pronunciation": "/ˌræpˈtɔriəl/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "relating to or characteristic of birds of prey",
+    "zipf": 1.37,
+    "score": 29.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "retaking",
+    "pronunciation": "/riˈteɪkɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of taking something back",
+    "zipf": 2.56,
+    "score": 29.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "stumping",
+    "pronunciation": "/ˈstəmpɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "campaigning for something by making political speeches (stump speeches)",
+    "zipf": 2.34,
+    "score": 29.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "readying",
+    "pronunciation": "/ˈrɛdiɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the activity of putting or setting in order in advance of some act or purpose",
+    "zipf": 2.55,
+    "score": 29.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "sleuthing",
+    "pronunciation": "/sˈluθɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a police investigation to determine the perpetrator",
+    "zipf": 2.3,
+    "score": 29.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "crocheting",
+    "pronunciation": "/kroʊˈʃeɪɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "needlework done by interlocking looped stitches with a hooked needle",
+    "zipf": 2.29,
+    "score": 29.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "foiling",
+    "pronunciation": "/ˈfɔɪlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an act of hindering someone's plans or efforts",
+    "zipf": 2.29,
+    "score": 29.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "shoring",
+    "pronunciation": "/ˈʃɔrɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a beam or timber that is propped against a structure to provide support",
+    "zipf": 2.49,
+    "score": 28.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "tripling",
+    "pronunciation": "/ˈtrɪpəlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "increase by a factor of three",
+    "zipf": 2.49,
+    "score": 28.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "feathering",
+    "pronunciation": "/ˈfɛðərɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "turning an oar parallel to the water between pulls",
+    "zipf": 2.48,
+    "score": 28.8,
+    "suspiciousCompound": false
+  }
+]

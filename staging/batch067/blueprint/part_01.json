@@ -1,0 +1,505 @@
+[
+  {
+    "word": "used",
+    "pronunciation": "/juzd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "employed in accomplishing something; - H.H.Arnold & I.C.Eaker",
+    "zipf": 5.8,
+    "score": 74.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "harry",
+    "pronunciation": "/ˈhɛri/",
+    "forms": [
+      "harries",
+      "harrying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "annoy continually or chronically",
+    "zipf": 4.72,
+    "score": 70.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "paid",
+    "pronunciation": "/peɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "marked by the reception of pay",
+    "zipf": 5.12,
+    "score": 67.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "interesting",
+    "pronunciation": "/ˈɪntəˌrɛstɪŋ/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "arousing or holding the attention",
+    "zipf": 5.0,
+    "score": 66.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "loved",
+    "pronunciation": "/ləvd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "held dear",
+    "zipf": 5.0,
+    "score": 66.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "posted",
+    "pronunciation": "/ˈpoʊstɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "publicly announced",
+    "zipf": 4.97,
+    "score": 65.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "interested",
+    "pronunciation": "/ˈɪntəˌrɛstɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having or showing interest; especially curiosity or fascination or concern",
+    "zipf": 4.95,
+    "score": 65.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "rather",
+    "pronunciation": "/ˈrəðər/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "on the contrary",
+    "zipf": 5.32,
+    "score": 65.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "sometimes",
+    "pronunciation": "/ˈsəmˌtaɪmz/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "on certain occasions or in certain cases but not always",
+    "zipf": 5.28,
+    "score": 64.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "recorded",
+    "pronunciation": "/rɪˈkɔrdɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "set down or registered in a permanent form especially on film or tape for reproduction",
+    "zipf": 4.66,
+    "score": 64.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "signed",
+    "pronunciation": "/saɪnd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having a handwritten signature",
+    "zipf": 4.85,
+    "score": 64.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "liked",
+    "pronunciation": "/laɪkt/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "found pleasant or attractive; often used as a combining form",
+    "zipf": 4.76,
+    "score": 63.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "owned",
+    "pronunciation": "/oʊnd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having an owner; often used in combination",
+    "zipf": 4.76,
+    "score": 63.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "going",
+    "pronunciation": "/goʊɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of departing",
+    "zipf": 5.94,
+    "score": 63.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "registered",
+    "pronunciation": "/ˈrɛʤɪstərd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "(of animals) officially recorded with or certified by a recognized breed association; especially in a stud book",
+    "zipf": 4.52,
+    "score": 63.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "listed",
+    "pronunciation": "/ˈlɪstɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "on a list",
+    "zipf": 4.69,
+    "score": 62.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "loving",
+    "pronunciation": "/ˈləvɪŋ/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "feeling or showing love and affection",
+    "zipf": 4.47,
+    "score": 62.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "company",
+    "pronunciation": "/ˈkəmpəˌni/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an institution created to conduct business",
+    "zipf": 5.6,
+    "score": 62.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "better",
+    "pronunciation": "/ˈbɛtər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "something superior in quality or condition or effect",
+    "zipf": 5.76,
+    "score": 61.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "using",
+    "pronunciation": "/ˈjuzɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an act that exploits or victimizes someone (treats them unfairly)",
+    "zipf": 5.47,
+    "score": 60.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "scheduled",
+    "pronunciation": "/ˈskɛʤʊld/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "planned or scheduled for some certain time or times",
+    "zipf": 4.45,
+    "score": 60.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "shaped",
+    "pronunciation": "/ʃeɪpt/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having the shape of",
+    "zipf": 4.38,
+    "score": 59.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "getting",
+    "pronunciation": "/ˈgɪtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of acquiring something",
+    "zipf": 5.57,
+    "score": 59.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "case",
+    "pronunciation": "/keɪs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an occurrence of something",
+    "zipf": 5.55,
+    "score": 59.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "painted",
+    "pronunciation": "/ˈpeɪnɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "coated with paint",
+    "zipf": 4.35,
+    "score": 59.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "seated",
+    "pronunciation": "/ˈsitɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "(of persons) having the torso erect and legs bent with the body supported on the buttocks",
+    "zipf": 3.89,
+    "score": 59.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "straight",
+    "pronunciation": "/streɪt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a heterosexual person; someone having a sexual orientation to persons of the opposite sex",
+    "zipf": 5.04,
+    "score": 58.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "surprising",
+    "pronunciation": "/səˈpraɪzɪŋ/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "causing surprise or wonder or amazement",
+    "zipf": 4.28,
+    "score": 58.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "sized",
+    "pronunciation": "/saɪzd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having a specified size",
+    "zipf": 4.27,
+    "score": 58.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "landed",
+    "pronunciation": "/ˈlændɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "owning or consisting of land or real estate",
+    "zipf": 4.24,
+    "score": 58.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "cancelled",
+    "pronunciation": "/ˈkænsəld/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "(of events) no longer planned or scheduled",
+    "zipf": 4.22,
+    "score": 58.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "beaten",
+    "pronunciation": "/ˈbitən/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "formed or made thin by hammering",
+    "zipf": 4.21,
+    "score": 58.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "longer",
+    "pronunciation": "/ˈlɔŋgər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a person with a strong desire for something",
+    "zipf": 5.16,
+    "score": 57.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "saying",
+    "pronunciation": "/seɪɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a word or phrase that particular people use in particular situations",
+    "zipf": 5.37,
+    "score": 57.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "sporting",
+    "pronunciation": "/ˈspɔrtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "relating to or used in sports",
+    "zipf": 4.16,
+    "score": 57.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "wait",
+    "pronunciation": "/weɪt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "time during which some action is awaited",
+    "zipf": 5.35,
+    "score": 57.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "suspected",
+    "pronunciation": "/səˈspɛktɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "believed likely",
+    "zipf": 4.15,
+    "score": 57.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "graduated",
+    "pronunciation": "/ˈgræʤəˌweɪtɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "marked with or divided into degrees",
+    "zipf": 4.14,
+    "score": 57.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "morning",
+    "pronunciation": "/ˈmɔrnɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the time period between dawn and noon",
+    "zipf": 5.33,
+    "score": 57.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "fitted",
+    "pronunciation": "/ˈfɪtɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "being the right size and shape to fit as desired",
+    "zipf": 4.13,
+    "score": 57.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "oriented",
+    "pronunciation": "/ˈɔriˌɛntɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "adjusted or located in relation to surroundings or circumstances; sometimes used in combination",
+    "zipf": 4.12,
+    "score": 57.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "lined",
+    "pronunciation": "/laɪnd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having a lining or a liner; often used in combination",
+    "zipf": 4.08,
+    "score": 56.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "staged",
+    "pronunciation": "/steɪʤd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "written for or performed on the stage",
+    "zipf": 3.83,
+    "score": 56.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "planted",
+    "pronunciation": "/ˈplænɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "set in the soil for growth",
+    "zipf": 4.04,
+    "score": 56.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "running",
+    "pronunciation": "/ˈrənɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "(American football) a play in which a player attempts to carry the ball through or past the opposing team",
+    "zipf": 5.23,
+    "score": 56.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "beat",
+    "pronunciation": "/bit/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a regular route for a sentry or policeman",
+    "zipf": 5.01,
+    "score": 56.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "date",
+    "pronunciation": "/deɪt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the specified day of the month",
+    "zipf": 5.22,
+    "score": 56.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "documented",
+    "pronunciation": "/ˈdɑkjəˌmɛnəd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "furnished with or supported by documents",
+    "zipf": 4.0,
+    "score": 56.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "rounded",
+    "pronunciation": "/ˈraʊndɪd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "curving and somewhat round in shape rather than jagged",
+    "zipf": 3.98,
+    "score": 55.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "commissioned",
+    "pronunciation": "/kəˈmɪʃənd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "(of military officers) holding by virtue of a commission a rank of second lieutenant or ensign or above",
+    "zipf": 3.96,
+    "score": 55.6,
+    "suspiciousCompound": false
+  }
+]

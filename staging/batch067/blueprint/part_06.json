@@ -1,0 +1,506 @@
+[
+  {
+    "word": "contracting",
+    "pronunciation": "/ˈkɑntræktɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "becoming infected",
+    "zipf": 3.65,
+    "score": 40.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "sensing",
+    "pronunciation": "/ˈsɛnsɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the perception that something has occurred or some state exists",
+    "zipf": 3.64,
+    "score": 40.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "dearest",
+    "pronunciation": "/ˈdɪrəst/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a beloved person; used as terms of endearment",
+    "zipf": 3.42,
+    "score": 40.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "gill",
+    "pronunciation": "/gɪl/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a British imperial capacity unit (liquid or dry) equal to 5 fluid ounces or 142.066 cubic centimeters",
+    "zipf": 3.63,
+    "score": 40.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "scaling",
+    "pronunciation": "/ˈskeɪlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of arranging in a graduated series",
+    "zipf": 3.63,
+    "score": 40.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "detailing",
+    "pronunciation": "/dɪˈteɪlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an individualized description of a particular instance",
+    "zipf": 3.62,
+    "score": 40.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "doubling",
+    "pronunciation": "/ˈdəbəlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "increase by a factor of two",
+    "zipf": 3.61,
+    "score": 40.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "sorting",
+    "pronunciation": "/ˈsɔrtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an operation that segregates items into groups according to a specified criterion",
+    "zipf": 3.61,
+    "score": 40.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "gearing",
+    "pronunciation": "/ˈgɪrɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "wheelwork consisting of a connected set of rotating gears by which force is transmitted or motion or torque is changed",
+    "zipf": 3.37,
+    "score": 39.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "airing",
+    "pronunciation": "/ˈɛrɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the opening of a subject to widespread discussion and debate",
+    "zipf": 3.58,
+    "score": 39.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "pissing",
+    "pronunciation": "/ˈpɪˌsɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "informal terms for urination",
+    "zipf": 3.58,
+    "score": 39.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "smelling",
+    "pronunciation": "/sˈmɛlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of perceiving the odor of something",
+    "zipf": 3.58,
+    "score": 39.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "pounding",
+    "pronunciation": "/ˈpaʊndɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "repeated heavy blows",
+    "zipf": 3.57,
+    "score": 39.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "watering",
+    "pronunciation": "/ˈwɔtərɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "shedding tears",
+    "zipf": 3.57,
+    "score": 39.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "smoother",
+    "pronunciation": "/sˈmuðər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a power tool used for sanding wood; an endless loop of sandpaper is moved at high speed by an electric motor",
+    "zipf": 3.35,
+    "score": 39.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "ridged",
+    "pronunciation": "/rɪʤd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having a ridge or shaped like a ridge or suggesting the keel of a ship",
+    "zipf": 2.37,
+    "score": 39.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "tanner",
+    "pronunciation": "/ˈtænər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a small coin of the United Kingdom worth six pennies; not minted since 1970",
+    "zipf": 3.56,
+    "score": 39.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "topping",
+    "pronunciation": "/ˈtɑpɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a flavorful addition on top of a dish",
+    "zipf": 3.56,
+    "score": 39.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "wording",
+    "pronunciation": "/ˈwərdɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the manner in which something is expressed in words; - G.S.Patton",
+    "zipf": 3.55,
+    "score": 39.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "sodomize",
+    "pronunciation": "/ˈsɔdəˌmaɪz/",
+    "forms": [
+      "sodomizes",
+      "sodomized",
+      "sodomizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "copulate with an animal",
+    "zipf": 1.65,
+    "score": 39.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "flowering",
+    "pronunciation": "/flaʊərɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the time and process of budding and unfolding of blossoms",
+    "zipf": 3.53,
+    "score": 39.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "stripping",
+    "pronunciation": "/ˈstrɪpɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the removal of covering",
+    "zipf": 3.52,
+    "score": 39.2,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "rounder",
+    "pronunciation": "/ˈraʊndər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a dissolute person; usually a man who is morally unrestrained",
+    "zipf": 3.3,
+    "score": 39.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "curling",
+    "pronunciation": "/ˈkərlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a game played on ice in which heavy stones with handles are slid toward a target",
+    "zipf": 3.51,
+    "score": 39.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "penciled",
+    "pronunciation": "/ˈpɛnsəld/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "drawn or written with a pencil",
+    "zipf": 2.31,
+    "score": 39.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "disinclined",
+    "pronunciation": "/ˌdɪsɪnˈklaɪnd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "unwilling because of mild dislike or disapproval",
+    "zipf": 2.28,
+    "score": 38.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "coupling",
+    "pronunciation": "/ˈkəplɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a connection (like a clamp or vise) between two things so they move together",
+    "zipf": 3.47,
+    "score": 38.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "stuffing",
+    "pronunciation": "/ˈstəfɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a mixture of seasoned ingredients used to stuff meats and vegetables",
+    "zipf": 3.47,
+    "score": 38.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "leavened",
+    "pronunciation": "/ˈlɛvənd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "made light by aerating, as with yeast or baking powder; often used as a combining form",
+    "zipf": 2.27,
+    "score": 38.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "parttime",
+    "pronunciation": "/ˈpɑrtˌtaɪm/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "involving less than the standard or customary time for an activity",
+    "zipf": 2.26,
+    "score": 38.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "membered",
+    "pronunciation": "/ˈmɛmbərd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having members; normally used in chemistry in combination with a number",
+    "zipf": 2.25,
+    "score": 38.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "screwing",
+    "pronunciation": "/skruɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "slang for sexual intercourse",
+    "zipf": 3.44,
+    "score": 38.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "servicing",
+    "pronunciation": "/ˈsərvɪsɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of mating by male animals",
+    "zipf": 3.44,
+    "score": 38.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "trolling",
+    "pronunciation": "/ˈtroʊlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "angling by drawing a baited line through the water",
+    "zipf": 3.44,
+    "score": 38.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "colouring",
+    "pronunciation": "/ˈkələrˌrɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a digestible substance used to give color to food",
+    "zipf": 3.22,
+    "score": 38.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "exporting",
+    "pronunciation": "/ɪkˈspɔrtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the commercial activity of selling and shipping goods to a foreign country",
+    "zipf": 3.43,
+    "score": 38.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "glassed",
+    "pronunciation": "/glæst/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "fitted or covered with glass",
+    "zipf": 2.23,
+    "score": 38.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "limbed",
+    "pronunciation": "/lɪmd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having or as if having limbs, especially limbs of a specified kind (usually used in combination)",
+    "zipf": 2.23,
+    "score": 38.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "piping",
+    "pronunciation": "/ˈpaɪpɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a thin strip of covered cord used to edge hems",
+    "zipf": 3.42,
+    "score": 38.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "spraying",
+    "pronunciation": "/spreɪɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the dispersion of fungicides or insecticides or fertilizer on growing crops (often from a low-flying aircraft)",
+    "zipf": 3.41,
+    "score": 38.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "shedding",
+    "pronunciation": "/ˈʃɛdɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the process whereby something is shed",
+    "zipf": 3.4,
+    "score": 38.0,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "shitting",
+    "pronunciation": "/ˈʃɪtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the elimination of fecal waste through the anus",
+    "zipf": 3.4,
+    "score": 38.0,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "rounding",
+    "pronunciation": "/ˈraʊndɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "(mathematics) a miscalculation that results from rounding off numbers to a convenient number of decimals",
+    "zipf": 3.39,
+    "score": 37.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "spotting",
+    "pronunciation": "/ˈspɑtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of spotting or staining something",
+    "zipf": 3.39,
+    "score": 37.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "wrecking",
+    "pronunciation": "/ˈrɛkɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the event of a structure being completely demolished and leveled",
+    "zipf": 3.39,
+    "score": 37.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "vending",
+    "pronunciation": "/ˈvɛndɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of selling goods for a living",
+    "zipf": 3.37,
+    "score": 37.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "edging",
+    "pronunciation": "/ˈɛʤɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "border consisting of anything placed on the edge to finish something (such as a fringe on clothing or on a rug)",
+    "zipf": 3.15,
+    "score": 37.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "whipping",
+    "pronunciation": "/ˈwɪpɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "beating with a whip or strap or rope as a form of punishment",
+    "zipf": 3.36,
+    "score": 37.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "trucking",
+    "pronunciation": "/ˈtrəkɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the activity of transporting goods by truck",
+    "zipf": 3.35,
+    "score": 37.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "pinning",
+    "pronunciation": "/ˈpɪnɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a mutual promise of a couple not to date anyone else; on college campuses it was once signaled by the giving of a fraternity pin",
+    "zipf": 3.13,
+    "score": 37.5,
+    "suspiciousCompound": false
+  }
+]
