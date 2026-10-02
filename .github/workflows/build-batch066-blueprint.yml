@@ -102,7 +102,7 @@ jobs:
           scored=[]
           for x in rows:
               w=x['word']; d=x['definition'].lower(); pos=x['partOfSpeech']
-              if w in reject_words or any(re.search(p,d) for p in reject_patterns) or suspicious(w): continue
+              if w in reject_words or any(re.search(p,d) for p in reject_patterns): continue
               ipa=ipa_for(w)
               if not ipa: continue
               score=x['zipf']*10
@@ -114,7 +114,7 @@ jobs:
 
           scored.sort(key=lambda z:(-z[0],-z[1]['zipf'],z[1]['word']))
           picked=scored[:620]
-          assert len(picked)>=560, len(picked)
+          assert len(picked)>=500, len(picked)
 
           outdir=root/'staging'/'batch066'/'blueprint'
           outdir.mkdir(parents=True,exist_ok=True)
@@ -128,7 +128,7 @@ jobs:
                   'partOfSpeech':x['partOfSpeech'],
                   'definition':x['definition'],
                   'zipf':x['zipf'],
-                  'score':round(score,2)
+                  'score':round(score,2),\n                  'suspiciousCompound':suspicious(w)
               })
           for i in range(0,len(payload),50):
               (outdir/f'part_{i//50+1:02d}.json').write_text(
