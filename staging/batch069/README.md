@@ -29,5 +29,12 @@ Then run the extension validator and deterministic lookup rebuild. Assembly
 reconstructs prior ownership from frozen v1 and earlier extension batches.
 The runtime schema has no added fields. Frozen v1 and phrase assets are untouched.
 
-Validation: 500 headwords, 450 stored forms, 567 Burmese glosses, no collisions.
-Lookup after sync: 53,068 keys; total headwords: 34,500; next batch: 070.
+Validation: 500 headwords, 458 stored forms, 567 Burmese glosses, no collisions.
+Lookup after sync: 53,076 keys; total headwords: 34,500; next batch: 070.
+
+Final review replaced extravert and marquis because extrovert and marquess are
+already covered. Added doc (doctor sense) and homeboy, verified in current
+Merriam-Webster. Added eight useful adjective forms. Updated lachrymose IPA
+from current American dictionary evidence. The staged review summary and
+selection list describe the final data; earlier comparison records retain the
+original resource differences for audit.

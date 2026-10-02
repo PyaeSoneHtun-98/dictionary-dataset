@@ -1,0 +1,16 @@
+{
+  "batch": 70,
+  "entries": 500,
+  "forms": 293,
+  "burmeseGlosses": 567,
+  "priorLookupKeys": 53076,
+  "posCounts": {
+    "noun": 197,
+    "verb": 53,
+    "adjective": 146,
+    "adverb": 104
+  },
+  "artifactSha256": "9d6cba2cb1cb8820bb80b498c4ea40127e8046598c67c2e24a96da46c4b7bdbf",
+  "structuralValidation": "passed",
+  "meaningAuthorship": "Burmese glosses independently authored with language understanding; no translation API."
+}

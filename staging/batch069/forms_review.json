@@ -2139,12 +2139,12 @@
     "excluded": []
   },
   {
-    "word": "extravert",
+    "word": "homeboy",
     "suggested": [
-      "extraverts"
+      "homeboys"
     ],
     "stored": [
-      "extraverts"
+      "homeboys"
     ],
     "excluded": []
   },
@@ -2407,12 +2407,12 @@
     "excluded": []
   },
   {
-    "word": "marquis",
+    "word": "doc",
     "suggested": [
-      "marquises"
+      "docs"
     ],
     "stored": [
-      "marquises"
+      "docs"
     ],
     "excluded": []
   },
@@ -3086,6 +3086,54 @@
     ],
     "stored": [
       "preemies"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "scraggy",
+    "suggested": [
+      "scraggier",
+      "scraggiest"
+    ],
+    "stored": [
+      "scraggier",
+      "scraggiest"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "paunchy",
+    "suggested": [
+      "paunchier",
+      "paunchiest"
+    ],
+    "stored": [
+      "paunchier",
+      "paunchiest"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "fleecy",
+    "suggested": [
+      "fleecier",
+      "fleeciest"
+    ],
+    "stored": [
+      "fleecier",
+      "fleeciest"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "smoggy",
+    "suggested": [
+      "smoggier",
+      "smoggiest"
+    ],
+    "stored": [
+      "smoggier",
+      "smoggiest"
     ],
     "excluded": []
   }

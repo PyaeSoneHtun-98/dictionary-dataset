@@ -1460,7 +1460,7 @@
         {
           "partOfSpeech": "noun",
           "burmese": [
-            "ဦးတည်ရာမှသွေဖည်သောထောင့်",
+            "ကောင်းကင်အီကွေတာမှမြောက် သို့မဟုတ် တောင်သို့ကွာသောထောင့်",
             "ငြင်းပယ်ခြင်း"
           ]
         }
@@ -1826,6 +1826,21 @@
       ]
     },
     {
+      "word": "doc",
+      "pronunciation": "/dɑk/",
+      "forms": [
+        "docs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆရာဝန်"
+          ]
+        }
+      ]
+    },
+    {
       "word": "dolorous",
       "pronunciation": "/ˈdoʊlərəs/",
       "forms": [],
@@ -2179,21 +2194,6 @@
       ]
     },
     {
-      "word": "extravert",
-      "pronunciation": "/ˈɛkstrəvɝt/",
-      "forms": [
-        "extraverts"
-      ],
-      "meanings": [
-        {
-          "partOfSpeech": "noun",
-          "burmese": [
-            "လူအများနှင့်ပေါင်းသင်းရခြင်းကိုနှစ်သက်သူ"
-          ]
-        }
-      ]
-    },
-    {
       "word": "exudate",
       "pronunciation": "/ˈɛksjədeɪt/",
       "forms": [
@@ -2351,7 +2351,10 @@
     {
       "word": "fleecy",
       "pronunciation": "/ˈflisi/",
-      "forms": [],
+      "forms": [
+        "fleecier",
+        "fleeciest"
+      ],
       "meanings": [
         {
           "partOfSpeech": "adjective",
@@ -2888,6 +2891,21 @@
       ]
     },
     {
+      "word": "homeboy",
+      "pronunciation": "/ˈhoʊmbɔɪ/",
+      "forms": [
+        "homeboys"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိမိရပ်ကွက် သို့မဟုတ် အသိုင်းအဝိုင်းမှရင်းနှီးသောယောက်ျားလေးသူငယ်ချင်း"
+          ]
+        }
+      ]
+    },
+    {
       "word": "hospitably",
       "pronunciation": "/hɑˈspɪtəbli/",
       "forms": [],
@@ -3262,7 +3280,7 @@
     },
     {
       "word": "lachrymose",
-      "pronunciation": "/ˈlækrɪmoʊs/",
+      "pronunciation": "/ˈlækrəˌmoʊs/",
       "forms": [],
       "meanings": [
         {
@@ -3555,21 +3573,6 @@
           "partOfSpeech": "noun",
           "burmese": [
             "မာရသွန်အပြေးသမား"
-          ]
-        }
-      ]
-    },
-    {
-      "word": "marquis",
-      "pronunciation": "/ˈmɑrkwɪs/",
-      "forms": [
-        "marquises"
-      ],
-      "meanings": [
-        {
-          "partOfSpeech": "noun",
-          "burmese": [
-            "နယ်စားကြီးတစ်မျိုး"
           ]
         }
       ]
@@ -4298,7 +4301,10 @@
     {
       "word": "paunchy",
       "pronunciation": "/ˈpɔntʃi/",
-      "forms": [],
+      "forms": [
+        "paunchier",
+        "paunchiest"
+      ],
       "meanings": [
         {
           "partOfSpeech": "adjective",
@@ -5663,7 +5669,10 @@
     {
       "word": "scraggy",
       "pronunciation": "/ˈskræɡi/",
-      "forms": [],
+      "forms": [
+        "scraggier",
+        "scraggiest"
+      ],
       "meanings": [
         {
           "partOfSpeech": "adjective",
@@ -6011,7 +6020,10 @@
     {
       "word": "smoggy",
       "pronunciation": "/ˈsmɑɡi/",
-      "forms": [],
+      "forms": [
+        "smoggier",
+        "smoggiest"
+      ],
       "meanings": [
         {
           "partOfSpeech": "adjective",
