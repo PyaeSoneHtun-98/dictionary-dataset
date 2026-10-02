@@ -1,0 +1,702 @@
+[
+  {
+    "word": "orientating",
+    "partOfSpeech": "adjective",
+    "zipf": 1.28,
+    "score": 25.8,
+    "definition": "positioning with respect to a reference system or determining your bearings physically or intellectually"
+  },
+  {
+    "word": "phyletic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.28,
+    "score": 25.8,
+    "definition": "of or relating to the evolutionary development of organisms"
+  },
+  {
+    "word": "prophetical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.28,
+    "score": 25.8,
+    "definition": "foretelling events as if by supernatural intervention"
+  },
+  {
+    "word": "rectifiable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.28,
+    "score": 25.8,
+    "definition": "capable of being repaired or rectified"
+  },
+  {
+    "word": "shrinkable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.28,
+    "score": 25.8,
+    "definition": "capable of being shrunk"
+  },
+  {
+    "word": "unappetising",
+    "partOfSpeech": "adjective",
+    "zipf": 1.28,
+    "score": 25.8,
+    "definition": "not appetizing in appearance, aroma, or taste"
+  },
+  {
+    "word": "annihilator",
+    "partOfSpeech": "noun",
+    "zipf": 2.17,
+    "score": 25.7,
+    "definition": "a total destroyer"
+  },
+  {
+    "word": "centroid",
+    "partOfSpeech": "noun",
+    "zipf": 2.17,
+    "score": 25.7,
+    "definition": "the center of mass of an object of uniform density"
+  },
+  {
+    "word": "drippings",
+    "partOfSpeech": "noun",
+    "zipf": 2.17,
+    "score": 25.7,
+    "definition": "fat that exudes from meat and drips off while it is being roasted or fried"
+  },
+  {
+    "word": "fakir",
+    "partOfSpeech": "noun",
+    "zipf": 2.17,
+    "score": 25.7,
+    "definition": "a Muslim or Hindu mendicant monk who is regarded as a holy man"
+  },
+  {
+    "word": "marbling",
+    "partOfSpeech": "noun",
+    "zipf": 2.17,
+    "score": 25.7,
+    "definition": "the intermixture of fat and lean in a cut of meat"
+  },
+  {
+    "word": "officiant",
+    "partOfSpeech": "noun",
+    "zipf": 2.17,
+    "score": 25.7,
+    "definition": "a clergyman who officiates at a religious ceremony or service"
+  },
+  {
+    "word": "symbolising",
+    "partOfSpeech": "noun",
+    "zipf": 2.17,
+    "score": 25.7,
+    "definition": "the act of representing something with a symbol"
+  },
+  {
+    "word": "pinko",
+    "partOfSpeech": "noun",
+    "zipf": 2.05,
+    "score": 25.7,
+    "definition": "a person with mildly leftist political views"
+  },
+  {
+    "word": "axiomatically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.57,
+    "score": 25.7,
+    "definition": "on the basis of axioms"
+  },
+  {
+    "word": "cannily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.57,
+    "score": 25.7,
+    "definition": "with foresight"
+  },
+  {
+    "word": "ecclesiastically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.57,
+    "score": 25.7,
+    "definition": "in an ecclesiastic manner"
+  },
+  {
+    "word": "fifthly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.57,
+    "score": 25.7,
+    "definition": "in the fifth place"
+  },
+  {
+    "word": "idiomatically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.57,
+    "score": 25.7,
+    "definition": "in an idiomatic manner"
+  },
+  {
+    "word": "malevolently",
+    "partOfSpeech": "adverb",
+    "zipf": 1.57,
+    "score": 25.7,
+    "definition": "in a malevolent manner"
+  },
+  {
+    "word": "melodramatically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.57,
+    "score": 25.7,
+    "definition": "as in a melodrama"
+  },
+  {
+    "word": "ofttimes",
+    "partOfSpeech": "adverb",
+    "zipf": 1.57,
+    "score": 25.7,
+    "definition": "many times at short intervals"
+  },
+  {
+    "word": "secretively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.57,
+    "score": 25.7,
+    "definition": "in a secretive manner; with a preference for secrecy"
+  },
+  {
+    "word": "wheresoever",
+    "partOfSpeech": "adverb",
+    "zipf": 1.57,
+    "score": 25.7,
+    "definition": "where in the world"
+  },
+  {
+    "word": "asphaltic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.27,
+    "score": 25.7,
+    "definition": "containing asphalt"
+  },
+  {
+    "word": "autodidactic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.27,
+    "score": 25.7,
+    "definition": "relating to or having the characteristics of an autodidact"
+  },
+  {
+    "word": "beltless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.27,
+    "score": 25.7,
+    "definition": "lacking a belt"
+  },
+  {
+    "word": "benzylic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.27,
+    "score": 25.7,
+    "definition": "relating to benzyl"
+  },
+  {
+    "word": "exhaustible",
+    "partOfSpeech": "adjective",
+    "zipf": 1.27,
+    "score": 25.7,
+    "definition": "capable of being used up"
+  },
+  {
+    "word": "lachrymal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.27,
+    "score": 25.7,
+    "definition": "of or relating to tears"
+  },
+  {
+    "word": "oleophobic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.27,
+    "score": 25.7,
+    "definition": "lacking affinity for oils"
+  },
+  {
+    "word": "photomechanical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.27,
+    "score": 25.7,
+    "definition": "of or relating to or involving various methods of using photography to make plates for printing"
+  },
+  {
+    "word": "precocial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.27,
+    "score": 25.7,
+    "definition": "(of hatchlings) covered with down and having eyes open; capable of leaving the nest within a few days"
+  },
+  {
+    "word": "unbelted",
+    "partOfSpeech": "adjective",
+    "zipf": 1.27,
+    "score": 25.7,
+    "definition": "lacking a belt"
+  },
+  {
+    "word": "zygomorphic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.27,
+    "score": 25.7,
+    "definition": "capable of division into symmetrical halves by only one longitudinal plane passing through the axis"
+  },
+  {
+    "word": "contralto",
+    "partOfSpeech": "noun",
+    "zipf": 2.16,
+    "score": 25.6,
+    "definition": "a woman singer having a contralto voice"
+  },
+  {
+    "word": "coquette",
+    "partOfSpeech": "noun",
+    "zipf": 2.16,
+    "score": 25.6,
+    "definition": "a seductive woman who uses her sex appeal to exploit men"
+  },
+  {
+    "word": "coxswain",
+    "partOfSpeech": "noun",
+    "zipf": 2.16,
+    "score": 25.6,
+    "definition": "the helmsman of a ship's boat or a racing crew"
+  },
+  {
+    "word": "grappler",
+    "partOfSpeech": "noun",
+    "zipf": 2.16,
+    "score": 25.6,
+    "definition": "combatant who tries to throw opponent to the ground"
+  },
+  {
+    "word": "hajji",
+    "partOfSpeech": "noun",
+    "zipf": 2.16,
+    "score": 25.6,
+    "definition": "a general term used by foreign soldiers to refer to the Iraqi people"
+  },
+  {
+    "word": "metallurgist",
+    "partOfSpeech": "noun",
+    "zipf": 2.16,
+    "score": 25.6,
+    "definition": "an engineer trained in the extraction and refining and alloying and fabrication of metals"
+  },
+  {
+    "word": "souring",
+    "partOfSpeech": "noun",
+    "zipf": 2.16,
+    "score": 25.6,
+    "definition": "the process of becoming sour"
+  },
+  {
+    "word": "dawah",
+    "partOfSpeech": "noun",
+    "zipf": 2.04,
+    "score": 25.6,
+    "definition": "missionary work for Islam"
+  },
+  {
+    "word": "hedonist",
+    "partOfSpeech": "noun",
+    "zipf": 2.04,
+    "score": 25.6,
+    "definition": "someone motivated by desires for sensual pleasures"
+  },
+  {
+    "word": "leavening",
+    "partOfSpeech": "noun",
+    "zipf": 2.04,
+    "score": 25.6,
+    "definition": "an influence that works subtly to lighten or modify something"
+  },
+  {
+    "word": "trouper",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "score": 25.6,
+    "definition": "a person who is reliable and uncomplaining and hard working"
+  },
+  {
+    "word": "bashfully",
+    "partOfSpeech": "adverb",
+    "zipf": 1.56,
+    "score": 25.6,
+    "definition": "in a shy or timid or bashful manner"
+  },
+  {
+    "word": "chastely",
+    "partOfSpeech": "adverb",
+    "zipf": 1.56,
+    "score": 25.6,
+    "definition": "in a chaste and virtuous manner"
+  },
+  {
+    "word": "expediently",
+    "partOfSpeech": "adverb",
+    "zipf": 1.56,
+    "score": 25.6,
+    "definition": "in an expedient manner"
+  },
+  {
+    "word": "heinously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.56,
+    "score": 25.6,
+    "definition": "in a terribly evil manner"
+  },
+  {
+    "word": "mutely",
+    "partOfSpeech": "adverb",
+    "zipf": 1.56,
+    "score": 25.6,
+    "definition": "without speaking"
+  },
+  {
+    "word": "caudally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.44,
+    "score": 25.6,
+    "definition": "toward the posterior end of the body"
+  },
+  {
+    "word": "coccygeal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.26,
+    "score": 25.6,
+    "definition": "of or relating to or near the coccyx"
+  },
+  {
+    "word": "cytolytic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.26,
+    "score": 25.6,
+    "definition": "of or relating to cytolysis, the dissolution or destruction of a cell"
+  },
+  {
+    "word": "fossorial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.26,
+    "score": 25.6,
+    "definition": "(of limbs and feet) adapted for digging"
+  },
+  {
+    "word": "fungoid",
+    "partOfSpeech": "adjective",
+    "zipf": 1.26,
+    "score": 25.6,
+    "definition": "resembling fungi"
+  },
+  {
+    "word": "glabellar",
+    "partOfSpeech": "adjective",
+    "zipf": 1.26,
+    "score": 25.6,
+    "definition": "of or relating to the glabella"
+  },
+  {
+    "word": "lentic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.26,
+    "score": 25.6,
+    "definition": "of or relating to or living in still waters (as lakes or ponds)"
+  },
+  {
+    "word": "remediable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.26,
+    "score": 25.6,
+    "definition": "capable of being remedied or redressed"
+  },
+  {
+    "word": "sociobiological",
+    "partOfSpeech": "adjective",
+    "zipf": 1.26,
+    "score": 25.6,
+    "definition": "of or relating to sociobiology"
+  },
+  {
+    "word": "vinaceous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.26,
+    "score": 25.6,
+    "definition": "of or relating to wine"
+  },
+  {
+    "word": "bailee",
+    "partOfSpeech": "noun",
+    "zipf": 2.15,
+    "score": 25.5,
+    "definition": "the agent to whom property involved in a bailment is delivered"
+  },
+  {
+    "word": "compositor",
+    "partOfSpeech": "noun",
+    "zipf": 2.15,
+    "score": 25.5,
+    "definition": "one who sets written material into type"
+  },
+  {
+    "word": "diggings",
+    "partOfSpeech": "noun",
+    "zipf": 2.15,
+    "score": 25.5,
+    "definition": "an excavation for ore or precious stones or for archaeology"
+  },
+  {
+    "word": "fusilier",
+    "partOfSpeech": "noun",
+    "zipf": 2.15,
+    "score": 25.5,
+    "definition": "(formerly) a British infantryman armed with a light flintlock musket"
+  },
+  {
+    "word": "selectman",
+    "partOfSpeech": "noun",
+    "zipf": 2.15,
+    "score": 25.5,
+    "definition": "an elected member of a board of officials who run New England towns"
+  },
+  {
+    "word": "splattering",
+    "partOfSpeech": "noun",
+    "zipf": 2.15,
+    "score": 25.5,
+    "definition": "the noise of something spattering or sputtering explosively"
+  },
+  {
+    "word": "sundries",
+    "partOfSpeech": "noun",
+    "zipf": 2.15,
+    "score": 25.5,
+    "definition": "miscellaneous objects too numerous or too small to be specified"
+  },
+  {
+    "word": "yips",
+    "partOfSpeech": "noun",
+    "zipf": 2.15,
+    "score": 25.5,
+    "definition": "nervous tension that causes an athlete to fail (especially causes golfers to miss short putts)"
+  },
+  {
+    "word": "yodeling",
+    "partOfSpeech": "noun",
+    "zipf": 2.15,
+    "score": 25.5,
+    "definition": "singing by changing back and forth between the chest voice and a falsetto"
+  },
+  {
+    "word": "blackguard",
+    "partOfSpeech": "noun",
+    "zipf": 2.03,
+    "score": 25.5,
+    "definition": "someone who is morally reprehensible"
+  },
+  {
+    "word": "devourer",
+    "partOfSpeech": "noun",
+    "zipf": 2.03,
+    "score": 25.5,
+    "definition": "someone who eats greedily or voraciously"
+  },
+  {
+    "word": "earthing",
+    "partOfSpeech": "noun",
+    "zipf": 2.03,
+    "score": 25.5,
+    "definition": "fastening electrical equipment to earth"
+  },
+  {
+    "word": "modeller",
+    "partOfSpeech": "noun",
+    "zipf": 2.03,
+    "score": 25.5,
+    "definition": "a person who creates models"
+  },
+  {
+    "word": "proposer",
+    "partOfSpeech": "noun",
+    "zipf": 2.03,
+    "score": 25.5,
+    "definition": "someone who advances a suggestion or proposal"
+  },
+  {
+    "word": "conveyancer",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 25.5,
+    "definition": "a lawyer who specializes in the business of conveying properties"
+  },
+  {
+    "word": "tenderfoot",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 25.5,
+    "definition": "an inexperienced person (especially someone inexperienced in outdoor living)"
+  },
+  {
+    "word": "tiler",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 25.5,
+    "definition": "a worker who lays tile"
+  },
+  {
+    "word": "brashly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.55,
+    "score": 25.5,
+    "definition": "in a brash cheeky manner"
+  },
+  {
+    "word": "empathetically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.55,
+    "score": 25.5,
+    "definition": "in a sympathetic manner"
+  },
+  {
+    "word": "evasively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.55,
+    "score": 25.5,
+    "definition": "with evasion; in an evasive manner"
+  },
+  {
+    "word": "fictitiously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.55,
+    "score": 25.5,
+    "definition": "in a false manner intended to mislead"
+  },
+  {
+    "word": "lewdly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.55,
+    "score": 25.5,
+    "definition": "in a lewd and obscene manner"
+  },
+  {
+    "word": "meditatively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.55,
+    "score": 25.5,
+    "definition": "in a meditative manner"
+  },
+  {
+    "word": "osmotically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.55,
+    "score": 25.5,
+    "definition": "by means of osmosis"
+  },
+  {
+    "word": "resentfully",
+    "partOfSpeech": "adverb",
+    "zipf": 1.55,
+    "score": 25.5,
+    "definition": "with resentment; in a resentful manner"
+  },
+  {
+    "word": "sensuously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.55,
+    "score": 25.5,
+    "definition": "with aesthetic gratification or delight"
+  },
+  {
+    "word": "spuriously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.55,
+    "score": 25.5,
+    "definition": "in a false and spurious manner"
+  },
+  {
+    "word": "transitively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.55,
+    "score": 25.5,
+    "definition": "in a transitive manner"
+  },
+  {
+    "word": "apian",
+    "partOfSpeech": "adjective",
+    "zipf": 1.25,
+    "score": 25.5,
+    "definition": "relating to or having the characteristics of bees"
+  },
+  {
+    "word": "collapsable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.25,
+    "score": 25.5,
+    "definition": "capable of collapsing or being collapsed"
+  },
+  {
+    "word": "crownless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.25,
+    "score": 25.5,
+    "definition": "not (especially not yet) provided with a crown"
+  },
+  {
+    "word": "dithyrambic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.25,
+    "score": 25.5,
+    "definition": "of or in the manner of a dithyramb"
+  },
+  {
+    "word": "encysted",
+    "partOfSpeech": "adjective",
+    "zipf": 1.25,
+    "score": 25.5,
+    "definition": "enclosed in (or as if in) a cyst"
+  },
+  {
+    "word": "mensural",
+    "partOfSpeech": "adjective",
+    "zipf": 1.25,
+    "score": 25.5,
+    "definition": "of or relating to measure"
+  },
+  {
+    "word": "neritic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.25,
+    "score": 25.5,
+    "definition": "of or relating to the region of the sea over the continental shelf which is less than 200 meters deep"
+  },
+  {
+    "word": "technophobic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.25,
+    "score": 25.5,
+    "definition": "of or relating to or showing technophobia"
+  },
+  {
+    "word": "unsaddled",
+    "partOfSpeech": "adjective",
+    "zipf": 1.25,
+    "score": 25.5,
+    "definition": "with no saddle"
+  },
+  {
+    "word": "adobo",
+    "partOfSpeech": "noun",
+    "zipf": 2.14,
+    "score": 25.4,
+    "definition": "a dish of marinated vegetables and meat or fish; served with rice"
+  },
+  {
+    "word": "camas",
+    "partOfSpeech": "noun",
+    "zipf": 2.14,
+    "score": 25.4,
+    "definition": "any of several plants of the genus Camassia; North and South America"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "word": "tearless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.12,
+    "score": 24.2,
+    "definition": "free from tears"
+  },
+  {
+    "word": "translunar",
+    "partOfSpeech": "adjective",
+    "zipf": 1.12,
+    "score": 24.2,
+    "definition": "situated beyond the moon or its orbit around the earth"
+  },
+  {
+    "word": "unadvised",
+    "partOfSpeech": "adjective",
+    "zipf": 1.12,
+    "score": 24.2,
+    "definition": "without careful prior deliberation or counsel"
+  },
+  {
+    "word": "unanalyzed",
+    "partOfSpeech": "adjective",
+    "zipf": 1.12,
+    "score": 24.2,
+    "definition": "not analyzed or broken down for detailed examination"
+  },
+  {
+    "word": "unwrinkled",
+    "partOfSpeech": "adjective",
+    "zipf": 1.12,
+    "score": 24.2,
+    "definition": "not wrinkled or creased"
+  },
+  {
+    "word": "voteless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.12,
+    "score": 24.2,
+    "definition": "deprived of the rights of citizenship especially the right to vote"
+  },
+  {
+    "word": "acclimatization",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "adaptation to a new climate (a new temperature or altitude or environment)"
+  },
+  {
+    "word": "acrylamide",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "a white crystalline amide of propenoic acid can damage the nervous system and is carcinogenic in laboratory animals"
+  },
+  {
+    "word": "acrylonitrile",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "a colorless liquid unsaturated nitrile made from propene"
+  },
+  {
+    "word": "banksia",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "any shrub or tree of the genus Banksia having alternate leathery leaves apetalous yellow flowers often in showy heads and conelike fruit with winged seeds"
+  },
+  {
+    "word": "biped",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "an animal with two feet"
+  },
+  {
+    "word": "blastocyst",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "the blastula of a placental mammal in which some differentiation of cells has occurred"
+  },
+  {
+    "word": "boffin",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "(British slang) a scientist or technician engaged in military research"
+  },
+  {
+    "word": "bricklaying",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "the craft of laying bricks"
+  },
+  {
+    "word": "castanets",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "a percussion instrument consisting of a pair of hollow pieces of wood or bone (usually held between the thumb and fingers) that are made to click together (as by Spanish dancers) in rhythm with the dance"
+  },
+  {
+    "word": "chlorella",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "any alga of the genus Chlorella"
+  },
+  {
+    "word": "clappers",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "a percussion instrument consisting of a pair of hollow pieces of wood or bone (usually held between the thumb and fingers) that are made to click together (as by Spanish dancers) in rhythm with the dance"
+  },
+  {
+    "word": "coiffure",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "the arrangement of the hair (especially a woman's hair)"
+  },
+  {
+    "word": "compressibility",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "the property of being able to occupy less space"
+  },
+  {
+    "word": "cryptology",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "the science of analyzing and deciphering codes and ciphers and cryptograms"
+  },
+  {
+    "word": "enthronement",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "the ceremony of installing a new monarch"
+  },
+  {
+    "word": "fantasist",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "a creator of fantasies"
+  },
+  {
+    "word": "fieldstone",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "stone that occurs naturally in fields; often used as building material"
+  },
+  {
+    "word": "flagon",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "a large metal or pottery vessel with a handle and spout; used to hold alcoholic beverages (usually wine)"
+  },
+  {
+    "word": "frontiersman",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "a man who lives on the frontier"
+  },
+  {
+    "word": "giblets",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "edible viscera of a fowl"
+  },
+  {
+    "word": "giddiness",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "an impulsive scatterbrained manner"
+  },
+  {
+    "word": "groats",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "the hulled and crushed grain of various cereals"
+  },
+  {
+    "word": "immunoassay",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "identification of a substance (especially a protein) by its action as an antigen"
+  },
+  {
+    "word": "intermezzo",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "a short movement coming between the major sections of a symphony"
+  },
+  {
+    "word": "itchiness",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "an irritating cutaneous sensation that produces a desire to scratch"
+  },
+  {
+    "word": "jati",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "(Hinduism) a Hindu caste or distinctive social group of which there are thousands throughout India; a special characteristic is often the exclusive occupation of its male members (such as barber or potter)"
+  },
+  {
+    "word": "mixologist",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "an employee who mixes and serves alcoholic drinks at a bar"
+  },
+  {
+    "word": "neologism",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "a newly invented word or phrase"
+  },
+  {
+    "word": "ology",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "an informal word (abstracted from words with this ending) for some unidentified branch of knowledge"
+  },
+  {
+    "word": "parrotfish",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "gaudy tropical fishes with parrotlike beaks formed by fusion of teeth"
+  },
+  {
+    "word": "pluton",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "large mass of intrusive igneous rock believed to have solidified deep within the earth"
+  },
+  {
+    "word": "poetess",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "a woman poet"
+  },
+  {
+    "word": "pyrimidine",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "any of several basic compounds derived from pyrimidine"
+  },
+  {
+    "word": "quadruped",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "an animal especially a mammal having four limbs specialized for walking"
+  },
+  {
+    "word": "rachis",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "axis of a compound leaf or compound inflorescence"
+  },
+  {
+    "word": "reductio",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "(reduction to the absurd) a disproof by showing that the consequences of the proposition are absurd; or a proof of a proposition by showing that its negation leads to a contradiction"
+  },
+  {
+    "word": "reversibility",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "the quality of being reversible in either direction"
+  },
+  {
+    "word": "sulfonate",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "a salt of sulphonic acid"
+  },
+  {
+    "word": "swampland",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "low land that is seasonally flooded; has more woody plants than a marsh and better drainage than a bog"
+  },
+  {
+    "word": "territoriality",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "the behavior of a male animal that defines and defends its territory"
+  },
+  {
+    "word": "turnbuckle",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "an oblong metal coupling with a swivel at one end and an internal thread at the other into which a threaded rod can be screwed in order to form a unit that can be adjusted for length or tension"
+  },
+  {
+    "word": "unction",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "excessive but superficial compliments given with affected charm"
+  },
+  {
+    "word": "ureter",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "either of a pair of thick-walled tubes that carry urine from the kidney to the urinary bladder"
+  },
+  {
+    "word": "voltmeter",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "meter that measures the potential difference between two points"
+  },
+  {
+    "word": "whirr",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "sound of something in rapid motion"
+  },
+  {
+    "word": "windage",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 24.1,
+    "definition": "the retarding force of air friction on a moving object"
+  },
+  {
+    "word": "abseil",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 24.1,
+    "definition": "(mountaineering) a descent of a vertical cliff or wall made by using a doubled rope that is fixed to a higher point and wrapped around the body"
+  },
+  {
+    "word": "balalaika",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 24.1,
+    "definition": "a stringed instrument that has a triangular body and three strings"
+  },
+  {
+    "word": "beefeater",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 24.1,
+    "definition": "officer in the (ceremonial) bodyguard of the British monarch"
+  },
+  {
+    "word": "bibliographer",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 24.1,
+    "definition": "someone trained in compiling bibliographies"
+  },
+  {
+    "word": "bosun",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 24.1,
+    "definition": "a petty officer on a merchant ship who controls the work of other seamen"
+  },
+  {
+    "word": "clerking",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 24.1,
+    "definition": "the activity of recording business transactions"
+  },
+  {
+    "word": "coltan",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 24.1,
+    "definition": "a valuable black mineral combining niobite and tantalite; used in cell phones and computer chips"
+  },
+  {
+    "word": "extirpation",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 24.1,
+    "definition": "surgical removal of a body part or tissue"
+  },
+  {
+    "word": "meddler",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 24.1,
+    "definition": "an officious annoying person who interferes with others"
+  },
+  {
+    "word": "offeror",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 24.1,
+    "definition": "someone who presents something to another for acceptance or rejection"
+  },
+  {
+    "word": "tattletale",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 24.1,
+    "definition": "someone who gossips indiscreetly"
+  },
+  {
+    "word": "tearaway",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 24.1,
+    "definition": "a reckless and impetuous person"
+  },
+  {
+    "word": "tiptop",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 24.1,
+    "definition": "the highest level or degree attainable; the highest stage of development"
+  },
+  {
+    "word": "underboss",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 24.1,
+    "definition": "an assistant or second-in-command to a chief (especially in a crime syndicate)"
+  },
+  {
+    "word": "amora",
+    "partOfSpeech": "noun",
+    "zipf": 1.65,
+    "score": 24.1,
+    "definition": "one of a group of rabbis (active AD 250-500) who discussed the Mishnaic law in the law schools of Palestine and Mesopotamia where they explained and applied earlier teachings and whose discussions are recorded in the Talmud; they emphasized the study of Torah and the importance of personal action and the fulfillment of the commandments"
+  },
+  {
+    "word": "cursorily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.41,
+    "score": 24.1,
+    "definition": "without taking pains"
+  },
+  {
+    "word": "transversally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.41,
+    "score": 24.1,
+    "definition": "in a transverse manner"
+  },
+  {
+    "word": "trustingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.41,
+    "score": 24.1,
+    "definition": "with trust; in a trusting manner"
+  },
+  {
+    "word": "advective",
+    "partOfSpeech": "adjective",
+    "zipf": 1.11,
+    "score": 24.1,
+    "definition": "of or relating to advection"
+  },
+  {
+    "word": "agronomical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.11,
+    "score": 24.1,
+    "definition": "of or relating to or promoting agronomy"
+  },
+  {
+    "word": "albuminous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.11,
+    "score": 24.1,
+    "definition": "relating to or containing or resembling albumin"
+  },
+  {
+    "word": "annalistic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.11,
+    "score": 24.1,
+    "definition": "relating to annals"
+  },
+  {
+    "word": "antecubital",
+    "partOfSpeech": "adjective",
+    "zipf": 1.11,
+    "score": 24.1,
+    "definition": "of or relating to the region of the arm in front of the elbow"
+  },
+  {
+    "word": "bicipital",
+    "partOfSpeech": "adjective",
+    "zipf": 1.11,
+    "score": 24.1,
+    "definition": "having two heads or points of origin as a biceps"
+  },
+  {
+    "word": "calciferous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.11,
+    "score": 24.1,
+    "definition": "bearing or producing or containing calcium or calcium carbonate or calcite"
+  },
+  {
+    "word": "crural",
+    "partOfSpeech": "adjective",
+    "zipf": 1.11,
+    "score": 24.1,
+    "definition": "of or relating the leg from the knee to the foot"
+  },
+  {
+    "word": "leadless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.11,
+    "score": 24.1,
+    "definition": "not treated with lead"
+  },
+  {
+    "word": "ponderable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.11,
+    "score": 24.1,
+    "definition": "capable of being weighed or considered; - James Jeans"
+  },
+  {
+    "word": "synaesthetic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.11,
+    "score": 24.1,
+    "definition": "relating to or experiencing synesthesia; involving more than one sense"
+  },
+  {
+    "word": "adsorbent",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "a material having capacity or tendency to adsorb another substance"
+  },
+  {
+    "word": "amphibia",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "the class of vertebrates that live on land but breed in water; frogs; toads; newts; salamanders; caecilians"
+  },
+  {
+    "word": "anticholinergic",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "a substance that opposes or blocks the action of acetylcholine"
+  },
+  {
+    "word": "artificiality",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "the quality of being produced by people and not occurring naturally"
+  },
+  {
+    "word": "bacca",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "an indehiscent fruit derived from a single ovary having one or many seeds within a fleshy wall or pericarp: e.g. grape; tomato; cranberry"
+  },
+  {
+    "word": "barkeep",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "an employee who mixes and serves alcoholic drinks at a bar"
+  },
+  {
+    "word": "blazon",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "the official symbols of a family, state, etc."
+  },
+  {
+    "word": "bulgur",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "parched crushed wheat"
+  },
+  {
+    "word": "carrack",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "a large galleon sailed in the Mediterranean as a merchantman"
+  },
+  {
+    "word": "cattleman",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "a man who raises (or tends) cattle"
+  },
+  {
+    "word": "chunking",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "(psychology) the configuration of smaller units of information into large coordinated units"
+  },
+  {
+    "word": "clerestory",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "part of an interior wall rising above the adjacent roof with windows admitting light"
+  },
+  {
+    "word": "conviviality",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "a jovial nature"
+  },
+  {
+    "word": "decrement",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "the amount by which something decreases"
+  },
+  {
+    "word": "doddle",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "an easy task"
+  },
+  {
+    "word": "floatation",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "the phenomenon of floating (remaining on the surface of a liquid without sinking)"
+  },
+  {
+    "word": "gibbet",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "alternative terms for gallows"
+  },
+  {
+    "word": "grossness",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "the quality of lacking taste and refinement"
+  },
+  {
+    "word": "gymkhana",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "a meet at which riders and horses display a range of skills and aptitudes"
+  }
+]

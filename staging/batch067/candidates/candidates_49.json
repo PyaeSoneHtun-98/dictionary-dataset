@@ -1,0 +1,702 @@
+[
+  {
+    "word": "aeronaut",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 22.4,
+    "definition": "someone who operates an aircraft"
+  },
+  {
+    "word": "aliment",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 22.4,
+    "definition": "a source of materials to nourish the body"
+  },
+  {
+    "word": "alimentation",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 22.4,
+    "definition": "a source of materials to nourish the body"
+  },
+  {
+    "word": "carnality",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 22.4,
+    "definition": "feeling morbid sexual desire or a propensity to lewdness"
+  },
+  {
+    "word": "cartage",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 22.4,
+    "definition": "the work of taking something away in a cart or truck and disposing of it"
+  },
+  {
+    "word": "cummerbund",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 22.4,
+    "definition": "a broad pleated sash worn as formal dress with a tuxedo"
+  },
+  {
+    "word": "cymbidium",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 22.4,
+    "definition": "any of various plants of the genus Cymbidium having narrow leaves and a long drooping cluster of numerous showy and variously colored boat-shaped flowers; extensively hybridized and cultivated as houseplants and important florists' flowers"
+  },
+  {
+    "word": "flowage",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 22.4,
+    "definition": "gradual internal motion or deformation of a solid body (as by heat)"
+  },
+  {
+    "word": "foldout",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 22.4,
+    "definition": "an oversize page that is folded in to a book or magazine"
+  },
+  {
+    "word": "hayseed",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 22.4,
+    "definition": "a person who is not very intelligent or interested in culture"
+  },
+  {
+    "word": "levator",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 22.4,
+    "definition": "a muscle that serves to lift some body part (as the eyelid or lip)"
+  },
+  {
+    "word": "madrasah",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 22.4,
+    "definition": "Muslim schools in Bangladesh and Pakistan"
+  },
+  {
+    "word": "matcher",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 22.4,
+    "definition": "someone who arranges (or tries to arrange) marriages for others"
+  },
+  {
+    "word": "paleface",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 22.4,
+    "definition": "(slang) a derogatory term for a white person (supposedly used by North American Indians)"
+  },
+  {
+    "word": "propellor",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 22.4,
+    "definition": "a mechanical device that rotates to push against air or water"
+  },
+  {
+    "word": "prophase",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 22.4,
+    "definition": "the first stage of meiosis"
+  },
+  {
+    "word": "salver",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 22.4,
+    "definition": "a tray (or large plate) for serving food or drinks; usually made of silver"
+  },
+  {
+    "word": "schoolmistress",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 22.4,
+    "definition": "a woman schoolteacher (especially one regarded as strict)"
+  },
+  {
+    "word": "zombi",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 22.4,
+    "definition": "(voodooism) a spirit or supernatural force that reanimates a dead body"
+  },
+  {
+    "word": "breathalyser",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 22.4,
+    "definition": "a device that measures chemicals (especially the alcohol content) in a person's expired breath"
+  },
+  {
+    "word": "noncitizen",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 22.4,
+    "definition": "a person who comes from a foreign country; someone who does not owe allegiance to your country"
+  },
+  {
+    "word": "teleworking",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 22.4,
+    "definition": "employment at home while communicating with the workplace by phone or fax or modem"
+  },
+  {
+    "word": "credulously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.24,
+    "score": 22.4,
+    "definition": "in a credulous manner"
+  },
+  {
+    "word": "meteorologically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.24,
+    "score": 22.4,
+    "definition": "with respect to the weather"
+  },
+  {
+    "word": "patronisingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.24,
+    "score": 22.4,
+    "definition": "with condescension; in a patronizing manner"
+  },
+  {
+    "word": "resourcefully",
+    "partOfSpeech": "adverb",
+    "zipf": 1.24,
+    "score": 22.4,
+    "definition": "in a resourceful manner"
+  },
+  {
+    "word": "stingily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.24,
+    "score": 22.4,
+    "definition": "in a stingy manner"
+  },
+  {
+    "word": "alexandrite",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "a green variety of chrysoberyl used as a gemstone"
+  },
+  {
+    "word": "autarky",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "economic independence as a national policy"
+  },
+  {
+    "word": "bestowal",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "the act of conferring an honor or presenting a gift"
+  },
+  {
+    "word": "blancmange",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "sweet almond-flavored milk pudding thickened with gelatin or cornstarch; usually molded"
+  },
+  {
+    "word": "bract",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "a modified leaf or leaflike part just below and protecting an inflorescence"
+  },
+  {
+    "word": "chiton",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "a woolen tunic worn by men and women in ancient Greece"
+  },
+  {
+    "word": "churchwarden",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "an officer in the Episcopal church who helps a parish priest with secular matters"
+  },
+  {
+    "word": "clothespin",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "wood or plastic fastener; for holding clothes on a clothesline"
+  },
+  {
+    "word": "corneum",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "the outermost layer of the epidermis consisting of dead cells that slough off"
+  },
+  {
+    "word": "crowfoot",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "any of various plants of the genus Ranunculus"
+  },
+  {
+    "word": "culm",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "stem of plants of the Gramineae"
+  },
+  {
+    "word": "dendrobium",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "a plant of the genus Dendrobium having stems like cane and usually showy racemose flowers"
+  },
+  {
+    "word": "diffidence",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "lack of self-confidence"
+  },
+  {
+    "word": "dinette",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "a small area off of a kitchen that is used for dining"
+  },
+  {
+    "word": "enantiomer",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "either one of a pair of compounds (crystals or molecules) that are mirror images on each other but are not identical"
+  },
+  {
+    "word": "enol",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "an organic compound that contains a hydroxyl group bonded to a carbon atom which in turn is doubly bonded to another carbon atom"
+  },
+  {
+    "word": "equipoise",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "equality of distribution"
+  },
+  {
+    "word": "folksong",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "a song that is traditionally sung by the common people of a region and forms part of their culture"
+  },
+  {
+    "word": "ghillie",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "a shoe without a tongue and with decorative lacing up the instep"
+  },
+  {
+    "word": "glissando",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "a rapid series of ascending or descending notes on the musical scale"
+  },
+  {
+    "word": "hatful",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "(often followed by `of') a large number or amount or extent"
+  },
+  {
+    "word": "haunch",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "the hip and buttock and upper thigh in human beings"
+  },
+  {
+    "word": "herbage",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "succulent herbaceous vegetation of pasture land"
+  },
+  {
+    "word": "herpetology",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "the branch of zoology concerned with reptiles and amphibians"
+  },
+  {
+    "word": "horniness",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "a state of sexual arousal"
+  },
+  {
+    "word": "humanization",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "the act of making more human"
+  },
+  {
+    "word": "hydrophobicity",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "the property of being water-repellent; tending to repel and not absorb water"
+  },
+  {
+    "word": "hyperemesis",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "severe and excessive vomiting"
+  },
+  {
+    "word": "industrialism",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "an economic system built on large industries rather than on agriculture or craftsmanship"
+  },
+  {
+    "word": "inrush",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "an inflow"
+  },
+  {
+    "word": "inulin",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "used to manufacture fructose and in assessing kidney function"
+  },
+  {
+    "word": "irreligion",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "the quality of not being devout"
+  },
+  {
+    "word": "isopropanol",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "alcohol used as antifreeze or a solvent"
+  },
+  {
+    "word": "linac",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "ions are accelerated along a linear path by voltage differences on electrodes along the path"
+  },
+  {
+    "word": "miaow",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "the sound made by a cat (or any sound resembling this)"
+  },
+  {
+    "word": "nones",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "the fifth of the seven canonical hours; about 3 p.m."
+  },
+  {
+    "word": "nucleosynthesis",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "(astronomy) the cosmic synthesis of atoms more complex than the hydrogen atom"
+  },
+  {
+    "word": "owlet",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "young owl"
+  },
+  {
+    "word": "peacoat",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "a sailor's heavy woolen double-breasted jacket"
+  },
+  {
+    "word": "portraitist",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "a painter or drawer of portraits"
+  },
+  {
+    "word": "purgative",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "a purging medicine; stimulates evacuation of the bowels"
+  },
+  {
+    "word": "raphe",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "a ridge that forms a seam between two parts"
+  },
+  {
+    "word": "rockery",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "a garden featuring rocks; usually alpine plants"
+  },
+  {
+    "word": "saltpetre",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "(KNO3) used especially as a fertilizer and explosive"
+  },
+  {
+    "word": "sapwood",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "newly formed outer wood lying between the cambium and the heartwood of a tree or woody plant; usually light colored; active in water conduction"
+  },
+  {
+    "word": "scrapie",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "a fatal disease of sheep characterized by chronic itching and loss of muscular control and progressive degeneration of the central nervous system"
+  },
+  {
+    "word": "slipcover",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "a removable fitted cloth covering for upholstered furniture"
+  },
+  {
+    "word": "splenectomy",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "surgical removal of the spleen"
+  },
+  {
+    "word": "splutter",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "the noise of something spattering or sputtering explosively"
+  },
+  {
+    "word": "syrinx",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "a primitive wind instrument consisting of several parallel pipes bound together"
+  },
+  {
+    "word": "tetrodotoxin",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "a powerful neurotoxin found in the ovaries of pufferfish"
+  },
+  {
+    "word": "unsuitability",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "the quality of having the wrong properties for a specific purpose"
+  },
+  {
+    "word": "valency",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "the phenomenon of forming chemical bonds"
+  },
+  {
+    "word": "vulcanization",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "process of treating rubber or rubberlike materials with sulphur at great heat to improve elasticity and strength or to harden them"
+  },
+  {
+    "word": "whirligig",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "a conical child's plaything tapering to a steel point on which it can be made to spin"
+  },
+  {
+    "word": "baboo",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 22.3,
+    "definition": "used as a Hindi courtesy title; equivalent to English `Mr'"
+  },
+  {
+    "word": "capitation",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 22.3,
+    "definition": "a tax levied on the basis of a fixed amount per person"
+  },
+  {
+    "word": "crimper",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 22.3,
+    "definition": "someone who tricks or coerces men into service as sailors or soldiers"
+  },
+  {
+    "word": "imposture",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 22.3,
+    "definition": "pretending to be another person"
+  },
+  {
+    "word": "seraglio",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 22.3,
+    "definition": "living quarters reserved for wives and concubines and female relatives in a Muslim household"
+  },
+  {
+    "word": "soundman",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 22.3,
+    "definition": "a technician in charge of amplifying sound or producing sound effects (as for a TV or radio broadcast)"
+  },
+  {
+    "word": "stereoscope",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 22.3,
+    "definition": "an optical device for viewing stereoscopic photographs"
+  },
+  {
+    "word": "enumerator",
+    "partOfSpeech": "noun",
+    "zipf": 1.59,
+    "score": 22.3,
+    "definition": "someone who collects census data by visiting individual homes"
+  },
+  {
+    "word": "amorously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.23,
+    "score": 22.3,
+    "definition": "in an amorous manner"
+  },
+  {
+    "word": "dichotomously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.23,
+    "score": 22.3,
+    "definition": "in a dichotomous manner"
+  },
+  {
+    "word": "didactically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.23,
+    "score": 22.3,
+    "definition": "in a didactic manner"
+  },
+  {
+    "word": "witheringly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.23,
+    "score": 22.3,
+    "definition": "in a withering manner"
+  },
+  {
+    "word": "adventuress",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 22.2,
+    "definition": "a woman adventurer"
+  },
+  {
+    "word": "amphibole",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 22.2,
+    "definition": "a mineral or mineral variety belonging to the amphibole group"
+  },
+  {
+    "word": "arethusa",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 22.2,
+    "definition": "any of several bog orchids of the genus Arethusa having 1 or 2 showy flowers"
+  },
+  {
+    "word": "athar",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 22.2,
+    "definition": "essential oil or perfume obtained from flowers"
+  },
+  {
+    "word": "bronchiolitis",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 22.2,
+    "definition": "inflammation of the membranes lining the bronchioles"
+  },
+  {
+    "word": "broodmare",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 22.2,
+    "definition": "a female horse used for breeding"
+  }
+]

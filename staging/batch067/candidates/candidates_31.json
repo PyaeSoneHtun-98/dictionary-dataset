@@ -1,0 +1,702 @@
+[
+  {
+    "word": "veiling",
+    "partOfSpeech": "noun",
+    "zipf": 2.11,
+    "score": 25.1,
+    "definition": "a net of transparent fabric with a loose open weave"
+  },
+  {
+    "word": "automat",
+    "partOfSpeech": "noun",
+    "zipf": 1.99,
+    "score": 25.1,
+    "definition": "a vending machine from which you can get food"
+  },
+  {
+    "word": "conurbation",
+    "partOfSpeech": "noun",
+    "zipf": 1.99,
+    "score": 25.1,
+    "definition": "an aggregation or continuous network of urban communities"
+  },
+  {
+    "word": "hurler",
+    "partOfSpeech": "noun",
+    "zipf": 1.99,
+    "score": 25.1,
+    "definition": "(baseball) the person who does the pitching"
+  },
+  {
+    "word": "propagator",
+    "partOfSpeech": "noun",
+    "zipf": 1.99,
+    "score": 25.1,
+    "definition": "someone who propagates plants (as under glass)"
+  },
+  {
+    "word": "repast",
+    "partOfSpeech": "noun",
+    "zipf": 1.99,
+    "score": 25.1,
+    "definition": "the food served and eaten at one time"
+  },
+  {
+    "word": "sifter",
+    "partOfSpeech": "noun",
+    "zipf": 1.99,
+    "score": 25.1,
+    "definition": "a household sieve (as for flour)"
+  },
+  {
+    "word": "soliton",
+    "partOfSpeech": "noun",
+    "zipf": 1.99,
+    "score": 25.1,
+    "definition": "(physics) a quantum of energy or quasiparticle that can be propagated as a traveling wave in nonlinear systems and is neither preceded nor followed by another such disturbance; does not obey the superposition principle and does not dissipate"
+  },
+  {
+    "word": "sportswoman",
+    "partOfSpeech": "noun",
+    "zipf": 1.99,
+    "score": 25.1,
+    "definition": "someone who engages in sports"
+  },
+  {
+    "word": "thermistor",
+    "partOfSpeech": "noun",
+    "zipf": 1.99,
+    "score": 25.1,
+    "definition": "a semiconductor device made of materials whose resistance varies as a function of temperature; can be used to compensate for temperature variation in other components of a circuit"
+  },
+  {
+    "word": "plagiarist",
+    "partOfSpeech": "noun",
+    "zipf": 1.87,
+    "score": 25.1,
+    "definition": "someone who uses another person's words or ideas as if they were his own"
+  },
+  {
+    "word": "deferentially",
+    "partOfSpeech": "adverb",
+    "zipf": 1.51,
+    "score": 25.1,
+    "definition": "in a servile manner"
+  },
+  {
+    "word": "despondently",
+    "partOfSpeech": "adverb",
+    "zipf": 1.51,
+    "score": 25.1,
+    "definition": "with desperation"
+  },
+  {
+    "word": "laudably",
+    "partOfSpeech": "adverb",
+    "zipf": 1.51,
+    "score": 25.1,
+    "definition": "in an admirable manner"
+  },
+  {
+    "word": "reverentially",
+    "partOfSpeech": "adverb",
+    "zipf": 1.51,
+    "score": 25.1,
+    "definition": "with reverence; in a reverent manner"
+  },
+  {
+    "word": "theretofore",
+    "partOfSpeech": "adverb",
+    "zipf": 1.51,
+    "score": 25.1,
+    "definition": "up to that time"
+  },
+  {
+    "word": "tranquilly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.39,
+    "score": 25.1,
+    "definition": "without emotional agitation"
+  },
+  {
+    "word": "bracteate",
+    "partOfSpeech": "adjective",
+    "zipf": 1.21,
+    "score": 25.1,
+    "definition": "having bracts"
+  },
+  {
+    "word": "carinated",
+    "partOfSpeech": "adjective",
+    "zipf": 1.21,
+    "score": 25.1,
+    "definition": "having a ridge or shaped like a ridge or suggesting the keel of a ship"
+  },
+  {
+    "word": "cytologic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.21,
+    "score": 25.1,
+    "definition": "of or relating to the science of cytology"
+  },
+  {
+    "word": "diabatic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.21,
+    "score": 25.1,
+    "definition": "involving a transfer of heat"
+  },
+  {
+    "word": "dysgenic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.21,
+    "score": 25.1,
+    "definition": "pertaining to or causing degeneration in the offspring produced"
+  },
+  {
+    "word": "endogenic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.21,
+    "score": 25.1,
+    "definition": "derived or originating internally"
+  },
+  {
+    "word": "thermometric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.21,
+    "score": 25.1,
+    "definition": "of or relating to thermometry"
+  },
+  {
+    "word": "undiscerning",
+    "partOfSpeech": "adjective",
+    "zipf": 1.21,
+    "score": 25.1,
+    "definition": "lacking discernment"
+  },
+  {
+    "word": "undiscriminating",
+    "partOfSpeech": "adjective",
+    "zipf": 1.21,
+    "score": 25.1,
+    "definition": "not discriminating"
+  },
+  {
+    "word": "unmined",
+    "partOfSpeech": "adjective",
+    "zipf": 1.21,
+    "score": 25.1,
+    "definition": "not mined"
+  },
+  {
+    "word": "unmourned",
+    "partOfSpeech": "adjective",
+    "zipf": 1.21,
+    "score": 25.1,
+    "definition": "not grieved for; causing no mourning"
+  },
+  {
+    "word": "angostura",
+    "partOfSpeech": "noun",
+    "zipf": 2.1,
+    "score": 25.0,
+    "definition": "the bitter bark of a South American tree; used in medicines and liqueurs and bitters"
+  },
+  {
+    "word": "bacteriologist",
+    "partOfSpeech": "noun",
+    "zipf": 2.1,
+    "score": 25.0,
+    "definition": "a biologist who studies bacteria"
+  },
+  {
+    "word": "baulk",
+    "partOfSpeech": "noun",
+    "zipf": 2.1,
+    "score": 25.0,
+    "definition": "the area on a billiard table behind the balkline"
+  },
+  {
+    "word": "bionics",
+    "partOfSpeech": "noun",
+    "zipf": 2.1,
+    "score": 25.0,
+    "definition": "application of biological principles to the study and design of engineering systems (especially electronic systems)"
+  },
+  {
+    "word": "eurythmics",
+    "partOfSpeech": "noun",
+    "zipf": 2.1,
+    "score": 25.0,
+    "definition": "the interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding"
+  },
+  {
+    "word": "faubourg",
+    "partOfSpeech": "noun",
+    "zipf": 2.1,
+    "score": 25.0,
+    "definition": "a New Orleans district lying outside the original city limits; used in combination with the names of various quarters of the city"
+  },
+  {
+    "word": "luthier",
+    "partOfSpeech": "noun",
+    "zipf": 2.1,
+    "score": 25.0,
+    "definition": "a craftsman who makes stringed instruments (as lutes or guitars or violins)"
+  },
+  {
+    "word": "orchestrator",
+    "partOfSpeech": "noun",
+    "zipf": 2.1,
+    "score": 25.0,
+    "definition": "an arranger who writes for orchestras"
+  },
+  {
+    "word": "osteopath",
+    "partOfSpeech": "noun",
+    "zipf": 2.1,
+    "score": 25.0,
+    "definition": "a therapist who manipulates the skeleton and muscles"
+  },
+  {
+    "word": "reshuffling",
+    "partOfSpeech": "noun",
+    "zipf": 2.1,
+    "score": 25.0,
+    "definition": "shuffling again"
+  },
+  {
+    "word": "wainscoting",
+    "partOfSpeech": "noun",
+    "zipf": 2.1,
+    "score": 25.0,
+    "definition": "a wainscoted wall (or wainscoted walls collectively)"
+  },
+  {
+    "word": "butterfingers",
+    "partOfSpeech": "noun",
+    "zipf": 1.98,
+    "score": 25.0,
+    "definition": "someone who drops things (especially one who cannot catch a ball)"
+  },
+  {
+    "word": "groundsman",
+    "partOfSpeech": "noun",
+    "zipf": 1.98,
+    "score": 25.0,
+    "definition": "someone who maintains the grounds (of an estate or park or athletic field)"
+  },
+  {
+    "word": "ingrate",
+    "partOfSpeech": "noun",
+    "zipf": 1.98,
+    "score": 25.0,
+    "definition": "a person who shows no gratitude"
+  },
+  {
+    "word": "poisoner",
+    "partOfSpeech": "noun",
+    "zipf": 1.98,
+    "score": 25.0,
+    "definition": "someone who kills with poison"
+  },
+  {
+    "word": "ruiner",
+    "partOfSpeech": "noun",
+    "zipf": 1.98,
+    "score": 25.0,
+    "definition": "a person who destroys or ruins or lays waste to"
+  },
+  {
+    "word": "toadstool",
+    "partOfSpeech": "noun",
+    "zipf": 1.98,
+    "score": 25.0,
+    "definition": "common name for an inedible or poisonous agaric (contrasting with the edible mushroom)"
+  },
+  {
+    "word": "vender",
+    "partOfSpeech": "noun",
+    "zipf": 1.86,
+    "score": 25.0,
+    "definition": "someone who promotes or exchanges goods or services for money"
+  },
+  {
+    "word": "toucher",
+    "partOfSpeech": "noun",
+    "zipf": 1.74,
+    "score": 25.0,
+    "definition": "a person who causes or allows a part of the body to come in contact with someone or something"
+  },
+  {
+    "word": "arduously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.5,
+    "score": 25.0,
+    "definition": "in an arduous manner"
+  },
+  {
+    "word": "frenetically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.5,
+    "score": 25.0,
+    "definition": "in a very agitated manner; as if possessed by an evil spirit"
+  },
+  {
+    "word": "parenterally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.5,
+    "score": 25.0,
+    "definition": "by parenteral means"
+  },
+  {
+    "word": "reproducibly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.5,
+    "score": 25.0,
+    "definition": "in a manner that is reproducible"
+  },
+  {
+    "word": "sociably",
+    "partOfSpeech": "adverb",
+    "zipf": 1.5,
+    "score": 25.0,
+    "definition": "in a gregarious manner"
+  },
+  {
+    "word": "soundlessly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.5,
+    "score": 25.0,
+    "definition": "without a sound"
+  },
+  {
+    "word": "bursal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.2,
+    "score": 25.0,
+    "definition": "relating to or affecting a bursa"
+  },
+  {
+    "word": "calcific",
+    "partOfSpeech": "adjective",
+    "zipf": 1.2,
+    "score": 25.0,
+    "definition": "involving or resulting from calcification"
+  },
+  {
+    "word": "carroty",
+    "partOfSpeech": "adjective",
+    "zipf": 1.2,
+    "score": 25.0,
+    "definition": "resembling the bright orange of the root of the carrot plant"
+  },
+  {
+    "word": "credal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.2,
+    "score": 25.0,
+    "definition": "of or relating to a creed"
+  },
+  {
+    "word": "ctenoid",
+    "partOfSpeech": "adjective",
+    "zipf": 1.2,
+    "score": 25.0,
+    "definition": "resembling a comb; having projections like the teeth of a comb"
+  },
+  {
+    "word": "diametral",
+    "partOfSpeech": "adjective",
+    "zipf": 1.2,
+    "score": 25.0,
+    "definition": "related to or along a diameter"
+  },
+  {
+    "word": "husbandly",
+    "partOfSpeech": "adjective",
+    "zipf": 1.2,
+    "score": 25.0,
+    "definition": "befitting or characteristic of a husband"
+  },
+  {
+    "word": "phlegmy",
+    "partOfSpeech": "adjective",
+    "zipf": 1.2,
+    "score": 25.0,
+    "definition": "characterized by phlegm"
+  },
+  {
+    "word": "presocratic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.2,
+    "score": 25.0,
+    "definition": "before the time of Socrates"
+  },
+  {
+    "word": "shockable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.2,
+    "score": 25.0,
+    "definition": "capable of being shocked"
+  },
+  {
+    "word": "unfeathered",
+    "partOfSpeech": "adjective",
+    "zipf": 1.2,
+    "score": 25.0,
+    "definition": "having no feathers"
+  },
+  {
+    "word": "cavalryman",
+    "partOfSpeech": "noun",
+    "zipf": 2.09,
+    "score": 24.9,
+    "definition": "a soldier in a motorized army unit"
+  },
+  {
+    "word": "declarer",
+    "partOfSpeech": "noun",
+    "zipf": 2.09,
+    "score": 24.9,
+    "definition": "the bridge player in contract bridge who wins the bidding and can declare which suit is to be trumps"
+  },
+  {
+    "word": "greenhorn",
+    "partOfSpeech": "noun",
+    "zipf": 2.09,
+    "score": 24.9,
+    "definition": "an awkward and inexperienced youth"
+  },
+  {
+    "word": "homegirl",
+    "partOfSpeech": "noun",
+    "zipf": 2.09,
+    "score": 24.9,
+    "definition": "a fellow female member of a youth gang"
+  },
+  {
+    "word": "leveller",
+    "partOfSpeech": "noun",
+    "zipf": 2.09,
+    "score": 24.9,
+    "definition": "a radical who advocates the abolition of social distinctions"
+  },
+  {
+    "word": "philologist",
+    "partOfSpeech": "noun",
+    "zipf": 2.09,
+    "score": 24.9,
+    "definition": "a humanist specializing in classical scholarship"
+  },
+  {
+    "word": "quadrupling",
+    "partOfSpeech": "noun",
+    "zipf": 2.09,
+    "score": 24.9,
+    "definition": "increase by a factor of four"
+  },
+  {
+    "word": "sachem",
+    "partOfSpeech": "noun",
+    "zipf": 2.09,
+    "score": 24.9,
+    "definition": "a political leader (especially of Tammany Hall)"
+  },
+  {
+    "word": "scrubland",
+    "partOfSpeech": "noun",
+    "zipf": 2.09,
+    "score": 24.9,
+    "definition": "an uncultivated region covered with scrub vegetation"
+  },
+  {
+    "word": "shambling",
+    "partOfSpeech": "noun",
+    "zipf": 2.09,
+    "score": 24.9,
+    "definition": "walking with a slow dragging motion without lifting your feet"
+  },
+  {
+    "word": "suzerainty",
+    "partOfSpeech": "noun",
+    "zipf": 2.09,
+    "score": 24.9,
+    "definition": "the position or authority of a suzerain"
+  },
+  {
+    "word": "comprehensiveness",
+    "partOfSpeech": "noun",
+    "zipf": 1.97,
+    "score": 24.9,
+    "definition": "completeness over a broad scope"
+  },
+  {
+    "word": "dingbat",
+    "partOfSpeech": "noun",
+    "zipf": 1.97,
+    "score": 24.9,
+    "definition": "a silly empty-headed person"
+  },
+  {
+    "word": "easiness",
+    "partOfSpeech": "noun",
+    "zipf": 1.97,
+    "score": 24.9,
+    "definition": "a feeling of refreshing tranquility and an absence of tension or worry"
+  },
+  {
+    "word": "flautist",
+    "partOfSpeech": "noun",
+    "zipf": 1.97,
+    "score": 24.9,
+    "definition": "someone who plays the flute"
+  },
+  {
+    "word": "malingering",
+    "partOfSpeech": "noun",
+    "zipf": 1.97,
+    "score": 24.9,
+    "definition": "evading duty or work by pretending to be incapacitated"
+  },
+  {
+    "word": "naif",
+    "partOfSpeech": "noun",
+    "zipf": 1.97,
+    "score": 24.9,
+    "definition": "a naive or inexperienced person"
+  },
+  {
+    "word": "orangery",
+    "partOfSpeech": "noun",
+    "zipf": 1.97,
+    "score": 24.9,
+    "definition": "a place where oranges are grown; a plantation of orange trees in warm climes or a greenhouse in cooler areas"
+  },
+  {
+    "word": "seneschal",
+    "partOfSpeech": "noun",
+    "zipf": 1.97,
+    "score": 24.9,
+    "definition": "the chief steward or butler of a great household"
+  },
+  {
+    "word": "smallholding",
+    "partOfSpeech": "noun",
+    "zipf": 1.97,
+    "score": 24.9,
+    "definition": "a piece of land under 50 acres that is sold or let to someone for cultivation"
+  },
+  {
+    "word": "sublimity",
+    "partOfSpeech": "noun",
+    "zipf": 1.97,
+    "score": 24.9,
+    "definition": "nobility in thought or feeling or style"
+  },
+  {
+    "word": "teleconferencing",
+    "partOfSpeech": "noun",
+    "zipf": 1.97,
+    "score": 24.9,
+    "definition": "a conference of people who are in different locations that is made possible by the use of such telecommunications equipment as closed-circuit television"
+  },
+  {
+    "word": "housemaster",
+    "partOfSpeech": "noun",
+    "zipf": 1.85,
+    "score": 24.9,
+    "definition": "teacher in charge of a school boardinghouse"
+  },
+  {
+    "word": "pithily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.49,
+    "score": 24.9,
+    "definition": "in a pithy sententious manner"
+  },
+  {
+    "word": "suavely",
+    "partOfSpeech": "adverb",
+    "zipf": 1.49,
+    "score": 24.9,
+    "definition": "with suavity; in a suave manner"
+  },
+  {
+    "word": "ultrasonically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.49,
+    "score": 24.9,
+    "definition": "by ultrasonic means"
+  },
+  {
+    "word": "campanulate",
+    "partOfSpeech": "adjective",
+    "zipf": 1.19,
+    "score": 24.9,
+    "definition": "shaped like a bell or campana"
+  },
+  {
+    "word": "cinerary",
+    "partOfSpeech": "adjective",
+    "zipf": 1.19,
+    "score": 24.9,
+    "definition": "containing or used for ashes of the cremated dead"
+  },
+  {
+    "word": "crustaceous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.19,
+    "score": 24.9,
+    "definition": "of or belonging to the class Crustacea"
+  },
+  {
+    "word": "downstair",
+    "partOfSpeech": "adjective",
+    "zipf": 1.19,
+    "score": 24.9,
+    "definition": "on or of lower floors of a building"
+  },
+  {
+    "word": "fibreoptic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.19,
+    "score": 24.9,
+    "definition": "of or relating to fiber optics"
+  },
+  {
+    "word": "filar",
+    "partOfSpeech": "adjective",
+    "zipf": 1.19,
+    "score": 24.9,
+    "definition": "related to or having filaments (especially across a field of view as in the eyepiece of a telescope)"
+  },
+  {
+    "word": "germfree",
+    "partOfSpeech": "adjective",
+    "zipf": 1.19,
+    "score": 24.9,
+    "definition": "free from germs or pathogenic organisms; sterile"
+  },
+  {
+    "word": "meagerly",
+    "partOfSpeech": "adjective",
+    "zipf": 1.19,
+    "score": 24.9,
+    "definition": "deficient in amount or quality or extent"
+  },
+  {
+    "word": "morphophonemic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.19,
+    "score": 24.9,
+    "definition": "of or relating to morphophonemics"
+  },
+  {
+    "word": "sublunary",
+    "partOfSpeech": "adjective",
+    "zipf": 1.19,
+    "score": 24.9,
+    "definition": "situated between the earth and the moon"
+  }
+]

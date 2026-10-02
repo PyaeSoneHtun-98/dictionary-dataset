@@ -1,14 +1,14 @@
 {
-  "count": 2600,
+  "count": 5000,
   "priorKeys": 50522,
   "counts": {
-    "adjective": 834,
+    "adjective": 1184,
     "verb": 606,
-    "noun": 932,
-    "adverb": 228
+    "noun": 2677,
+    "adverb": 533
   },
   "first": "used",
-  "last": "caustically",
+  "last": "intima",
   "zipfMin": 1.01,
   "zipfMax": 5.96
 }

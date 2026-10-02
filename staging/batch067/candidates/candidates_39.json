@@ -1,0 +1,702 @@
+[
+  {
+    "word": "garbanzo",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "the seed of the chickpea plant"
+  },
+  {
+    "word": "hazan",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "the official of a synagogue who conducts the liturgical part of the service and sings or chants the prayers intended to be performed as solos"
+  },
+  {
+    "word": "hydroelectricity",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "electricity produced by water power"
+  },
+  {
+    "word": "ileum",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "the part of the small intestine between the jejunum and the cecum"
+  },
+  {
+    "word": "inappropriateness",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "inappropriate conduct"
+  },
+  {
+    "word": "interchangeability",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "the quality of being capable of exchange or interchange"
+  },
+  {
+    "word": "mayoress",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "the wife of a mayor"
+  },
+  {
+    "word": "metalhead",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "a fan of heavy metal music"
+  },
+  {
+    "word": "minge",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "vulgar term for a woman's pubic hair or genitals"
+  },
+  {
+    "word": "monetisation",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "establishing something (e.g. gold or silver) as the legal tender of a country"
+  },
+  {
+    "word": "motet",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "an unaccompanied choral composition with sacred lyrics; intended to be sung as part of a church service; originated in the 13th century"
+  },
+  {
+    "word": "mottling",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "the act of coloring with areas of different shades"
+  },
+  {
+    "word": "novelette",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "a short novel"
+  },
+  {
+    "word": "olfaction",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "the faculty that enables us to distinguish scents"
+  },
+  {
+    "word": "ouzo",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "a Greek liquor flavored with anise"
+  },
+  {
+    "word": "papilla",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "(botany) a tiny outgrowth on the surface of a petal or leaf"
+  },
+  {
+    "word": "phlebotomy",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "surgical incision into a vein; used to treat hemochromatosis"
+  },
+  {
+    "word": "pianissimo",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "(music) low loudness"
+  },
+  {
+    "word": "puffiness",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "an abnormal protuberance or localized enlargement"
+  },
+  {
+    "word": "relaxin",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "hormone secreted by the corpus luteum during the last days of pregnancy; relaxes the pelvic ligaments and prepares the uterus for labor"
+  },
+  {
+    "word": "revivalism",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "an attempt to reawaken the evangelical faith"
+  },
+  {
+    "word": "roadhog",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "a driver who obstructs others"
+  },
+  {
+    "word": "septicemia",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "invasion of the bloodstream by virulent microorganisms from a focus of infection"
+  },
+  {
+    "word": "sepulcher",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "a chamber that is used as a grave"
+  },
+  {
+    "word": "shogi",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "a form of chess played on a board of 81 squares; each player has 20 pieces"
+  },
+  {
+    "word": "slating",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "thin layers of rock used for roofing"
+  },
+  {
+    "word": "snaffle",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "a simple jointed bit for a horse; without a curb"
+  },
+  {
+    "word": "soldiery",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "soldiers collectively"
+  },
+  {
+    "word": "spearfish",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "any of several large vigorous pelagic fishes resembling sailfishes but with first dorsal fin much reduced; worldwide but rare"
+  },
+  {
+    "word": "thromboembolism",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "occlusion of a blood vessel by an embolus that has broken away from a thrombus"
+  },
+  {
+    "word": "tossup",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "an unpredictable phenomenon"
+  },
+  {
+    "word": "touchback",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "(American football) a play in which the opposing team has kicked the football into your end zone"
+  },
+  {
+    "word": "troglodyte",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "one who lives in solitude"
+  },
+  {
+    "word": "verticality",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "position at right angles to the horizon"
+  },
+  {
+    "word": "viscountess",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "a wife or widow of a viscount"
+  },
+  {
+    "word": "auscultation",
+    "partOfSpeech": "noun",
+    "zipf": 1.84,
+    "score": 23.6,
+    "definition": "listening to sounds within the body (usually with a stethoscope)"
+  },
+  {
+    "word": "busywork",
+    "partOfSpeech": "noun",
+    "zipf": 1.84,
+    "score": 23.6,
+    "definition": "active work of little value"
+  },
+  {
+    "word": "chatelaine",
+    "partOfSpeech": "noun",
+    "zipf": 1.84,
+    "score": 23.6,
+    "definition": "the mistress of a chateau or large country house"
+  },
+  {
+    "word": "miniaturist",
+    "partOfSpeech": "noun",
+    "zipf": 1.84,
+    "score": 23.6,
+    "definition": "someone who paints tiny pictures in great detail"
+  },
+  {
+    "word": "sufferance",
+    "partOfSpeech": "noun",
+    "zipf": 1.84,
+    "score": 23.6,
+    "definition": "patient endurance especially of pain or distress"
+  },
+  {
+    "word": "armourer",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 23.6,
+    "definition": "a worker skilled in making armor or arms"
+  },
+  {
+    "word": "plaint",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 23.6,
+    "definition": "(United Kingdom) a written statement of the grounds of complaint made to court of law asking for the grievance to be redressed"
+  },
+  {
+    "word": "aslant",
+    "partOfSpeech": "adverb",
+    "zipf": 1.36,
+    "score": 23.6,
+    "definition": "over or across in a slanting direction"
+  },
+  {
+    "word": "conjecturally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.36,
+    "score": 23.6,
+    "definition": "in a manner involving or inclined to conjecture and supposition"
+  },
+  {
+    "word": "cozily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.36,
+    "score": 23.6,
+    "definition": "in a cozy manner"
+  },
+  {
+    "word": "defectively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.36,
+    "score": 23.6,
+    "definition": "in a defective manner"
+  },
+  {
+    "word": "patronizingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.36,
+    "score": 23.6,
+    "definition": "with condescension; in a patronizing manner"
+  },
+  {
+    "word": "penetratingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.36,
+    "score": 23.6,
+    "definition": "with ability to see into deeply"
+  },
+  {
+    "word": "privily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.36,
+    "score": 23.6,
+    "definition": "confidentially or in secret"
+  },
+  {
+    "word": "rearwards",
+    "partOfSpeech": "adverb",
+    "zipf": 1.36,
+    "score": 23.6,
+    "definition": "at or to or toward the back or rear"
+  },
+  {
+    "word": "revoltingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.36,
+    "score": 23.6,
+    "definition": "in a disgusting manner or to a disgusting degree"
+  },
+  {
+    "word": "sanctimoniously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.36,
+    "score": 23.6,
+    "definition": "in a sanctimonious manner"
+  },
+  {
+    "word": "sinuously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.36,
+    "score": 23.6,
+    "definition": "in a sinuous manner"
+  },
+  {
+    "word": "sketchily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.36,
+    "score": 23.6,
+    "definition": "in a sketchy incomplete manner"
+  },
+  {
+    "word": "tactlessly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.36,
+    "score": 23.6,
+    "definition": "without tact; in a tactless manner"
+  },
+  {
+    "word": "tiresomely",
+    "partOfSpeech": "adverb",
+    "zipf": 1.36,
+    "score": 23.6,
+    "definition": "in a tedious manner"
+  },
+  {
+    "word": "tumultuously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.36,
+    "score": 23.6,
+    "definition": "in a tumultuous and riotous manner"
+  },
+  {
+    "word": "anencephalic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.06,
+    "score": 23.6,
+    "definition": "characterized by partial or total absence of a brain"
+  },
+  {
+    "word": "bridgeable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.06,
+    "score": 23.6,
+    "definition": "capable of being connected by a bridge or as if by a bridge"
+  },
+  {
+    "word": "caecal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.06,
+    "score": 23.6,
+    "definition": "of or like a cecum"
+  },
+  {
+    "word": "centesimal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.06,
+    "score": 23.6,
+    "definition": "relating to or divided into hundredths"
+  },
+  {
+    "word": "cousinly",
+    "partOfSpeech": "adjective",
+    "zipf": 1.06,
+    "score": 23.6,
+    "definition": "like or befitting a cousin"
+  },
+  {
+    "word": "cursorial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.06,
+    "score": 23.6,
+    "definition": "(of limbs and feet) adapted for running"
+  },
+  {
+    "word": "flowerless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.06,
+    "score": 23.6,
+    "definition": "without flower or bloom and not producing seeds"
+  },
+  {
+    "word": "gallinaceous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.06,
+    "score": 23.6,
+    "definition": "of or relating to or resembling a gallinacean"
+  },
+  {
+    "word": "gonadotropic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.06,
+    "score": 23.6,
+    "definition": "of or relating to or involving gonadotropin"
+  },
+  {
+    "word": "hydrolyzable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.06,
+    "score": 23.6,
+    "definition": "capable of undergoing hydrolysis"
+  },
+  {
+    "word": "monocarpic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.06,
+    "score": 23.6,
+    "definition": "dying after bearing fruit only once"
+  },
+  {
+    "word": "myopathic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.06,
+    "score": 23.6,
+    "definition": "of or relating to any disease of the muscles that is not caused by nerve dysfunction"
+  },
+  {
+    "word": "scurfy",
+    "partOfSpeech": "adjective",
+    "zipf": 1.06,
+    "score": 23.6,
+    "definition": "having or producing or covered with scurf"
+  },
+  {
+    "word": "unfocussed",
+    "partOfSpeech": "adjective",
+    "zipf": 1.06,
+    "score": 23.6,
+    "definition": "(of an image) not being in or brought into focus"
+  },
+  {
+    "word": "vigesimal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.06,
+    "score": 23.6,
+    "definition": "relating to or based on the number twenty"
+  },
+  {
+    "word": "antiepileptic",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "a drug used to treat or prevent convulsions (as in epilepsy)"
+  },
+  {
+    "word": "archbishopric",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "the territorial jurisdiction of an archbishop"
+  },
+  {
+    "word": "atomization",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "separating something into fine particles"
+  },
+  {
+    "word": "catatonia",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "extreme tonus; muscular rigidity; a common symptom in catatonic schizophrenia"
+  },
+  {
+    "word": "cornu",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "(anatomy) any structure that resembles a horn in shape"
+  },
+  {
+    "word": "decolonisation",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "the action of changing from colonial to independent status"
+  },
+  {
+    "word": "dodecahedron",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "any polyhedron having twelve plane faces"
+  },
+  {
+    "word": "donee",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "the recipient of funds or other benefits"
+  },
+  {
+    "word": "dotage",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "mental infirmity as a consequence of old age; sometimes shown by foolish infatuations"
+  },
+  {
+    "word": "educationist",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "a specialist in the theory of education"
+  },
+  {
+    "word": "eidos",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "(anthropology) the distinctive expression of the cognitive or intellectual character of a culture or a social group"
+  },
+  {
+    "word": "federalization",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "the state of being under federal control"
+  },
+  {
+    "word": "forsythia",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "any of various early blooming oleaceous shrubs of the genus Forsythia; native to eastern Asia and southern Europe but widely cultivated for their branches of bright yellow bell-shaped flowers"
+  },
+  {
+    "word": "grannie",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "the mother of your father or mother"
+  },
+  {
+    "word": "hematocrit",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "the ratio of the volume occupied by packed red blood cells to the volume of the whole blood as measured by a hematocrit"
+  },
+  {
+    "word": "heth",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "the 8th letter of the Hebrew alphabet"
+  },
+  {
+    "word": "hexagram",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "a regular polygon formed by extending each of the sides of a regular hexagon to form two equilateral triangles"
+  },
+  {
+    "word": "hollowness",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "the state of being hollow: having an empty space within"
+  },
+  {
+    "word": "hydroplane",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "an airplane that can land on or take off from water"
+  },
+  {
+    "word": "hyperlipidemia",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "presence of excess lipids in the blood"
+  },
+  {
+    "word": "inanity",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "total lack of meaning or ideas"
+  },
+  {
+    "word": "kilohertz",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "one thousand periods per second"
+  },
+  {
+    "word": "meetinghouse",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "a building for religious assembly (especially Nonconformists, e.g., Quakers)"
+  },
+  {
+    "word": "meteoroid",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "(astronomy) any of the small solid extraterrestrial bodies that hits the earth's atmosphere"
+  },
+  {
+    "word": "naturopath",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "a therapist who practices naturopathy"
+  },
+  {
+    "word": "oddness",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "the parity of odd numbers (not divisible by two)"
+  },
+  {
+    "word": "oligosaccharide",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "any of the carbohydrates that yield only a few monosaccharide molecules on complete hydrolysis"
+  },
+  {
+    "word": "organophosphate",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "an insecticide that interferes with an insect's nervous system"
+  }
+]

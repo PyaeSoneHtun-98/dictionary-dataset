@@ -1,0 +1,702 @@
+[
+  {
+    "word": "cutch",
+    "partOfSpeech": "noun",
+    "zipf": 2.14,
+    "score": 25.4,
+    "definition": "tannin extract derived from any of several mangrove barks of Pacific areas"
+  },
+  {
+    "word": "fatso",
+    "partOfSpeech": "noun",
+    "zipf": 2.14,
+    "score": 25.4,
+    "definition": "a rotund individual"
+  },
+  {
+    "word": "hame",
+    "partOfSpeech": "noun",
+    "zipf": 2.14,
+    "score": 25.4,
+    "definition": "stable gear consisting of either of two curved supports that are attached to the collar of a draft horse and that hold the traces"
+  },
+  {
+    "word": "yelping",
+    "partOfSpeech": "noun",
+    "zipf": 2.14,
+    "score": 25.4,
+    "definition": "a sharp high-pitched cry (especially by a dog)"
+  },
+  {
+    "word": "inoculum",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 25.4,
+    "definition": "a substance (a virus or toxin or immune serum) that is introduced into the body to produce or increase immunity to a particular disease"
+  },
+  {
+    "word": "pedagogue",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 25.4,
+    "definition": "someone who educates young people"
+  },
+  {
+    "word": "reabsorption",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 25.4,
+    "definition": "the organic process in which the substance of some differentiated structure that has been produced by the body undergoes lysis and assimilation"
+  },
+  {
+    "word": "sadomasochism",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 25.4,
+    "definition": "sadism and masochism combined in one person"
+  },
+  {
+    "word": "bigamist",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 25.4,
+    "definition": "someone who marries one person while already legally married to another"
+  },
+  {
+    "word": "splicer",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 25.4,
+    "definition": "a woodworker who joins pieces of wood with a splice"
+  },
+  {
+    "word": "flirtatiously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.54,
+    "score": 25.4,
+    "definition": "in a flirtatious manner"
+  },
+  {
+    "word": "palmately",
+    "partOfSpeech": "adverb",
+    "zipf": 1.54,
+    "score": 25.4,
+    "definition": "in a palmate manner"
+  },
+  {
+    "word": "presumptuously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.54,
+    "score": 25.4,
+    "definition": "in a presumptuous manner"
+  },
+  {
+    "word": "azido",
+    "partOfSpeech": "adjective",
+    "zipf": 1.24,
+    "score": 25.4,
+    "definition": "relating to or containing the azido group N3"
+  },
+  {
+    "word": "bacillary",
+    "partOfSpeech": "adjective",
+    "zipf": 1.24,
+    "score": 25.4,
+    "definition": "relating to or produced by or containing bacilli"
+  },
+  {
+    "word": "boracic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.24,
+    "score": 25.4,
+    "definition": "of or relating to or derived from or containing boron"
+  },
+  {
+    "word": "echoic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.24,
+    "score": 25.4,
+    "definition": "(of words) formed in imitation of a natural sound; ; - Harry Hoijer"
+  },
+  {
+    "word": "egoistical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.24,
+    "score": 25.4,
+    "definition": "limited to or caring only about yourself and your own needs"
+  },
+  {
+    "word": "epenthetic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.24,
+    "score": 25.4,
+    "definition": "of or pertaining to epenthesis"
+  },
+  {
+    "word": "paniculate",
+    "partOfSpeech": "adjective",
+    "zipf": 1.24,
+    "score": 25.4,
+    "definition": "having a panicle"
+  },
+  {
+    "word": "prosthodontic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.24,
+    "score": 25.4,
+    "definition": "of or relating to prosthodontics"
+  },
+  {
+    "word": "retractile",
+    "partOfSpeech": "adjective",
+    "zipf": 1.24,
+    "score": 25.4,
+    "definition": "capable of retraction; capable of being drawn back"
+  },
+  {
+    "word": "unmodulated",
+    "partOfSpeech": "adjective",
+    "zipf": 1.24,
+    "score": 25.4,
+    "definition": "characterized by lack of variation in pitch, tone, or volume"
+  },
+  {
+    "word": "vegetational",
+    "partOfSpeech": "adjective",
+    "zipf": 1.24,
+    "score": 25.4,
+    "definition": "composed of vegetation or plants"
+  },
+  {
+    "word": "caducous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.12,
+    "score": 25.4,
+    "definition": "shed at an early stage of development"
+  },
+  {
+    "word": "novitiate",
+    "partOfSpeech": "noun",
+    "zipf": 2.13,
+    "score": 25.3,
+    "definition": "the period during which you are a novice (especially in a religious order)"
+  },
+  {
+    "word": "sniveling",
+    "partOfSpeech": "noun",
+    "zipf": 2.13,
+    "score": 25.3,
+    "definition": "whining in a tearful manner"
+  },
+  {
+    "word": "symbolist",
+    "partOfSpeech": "noun",
+    "zipf": 2.13,
+    "score": 25.3,
+    "definition": "a member of an artistic movement that expressed ideas indirectly via symbols"
+  },
+  {
+    "word": "vaulter",
+    "partOfSpeech": "noun",
+    "zipf": 2.13,
+    "score": 25.3,
+    "definition": "an athlete who jumps over a high crossbar with the aid of a long pole"
+  },
+  {
+    "word": "cichlid",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 25.3,
+    "definition": "freshwater fishes of tropical America and Africa and Asia similar to American sunfishes; some are food fishes; many small ones are popular in aquariums"
+  },
+  {
+    "word": "dendrite",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 25.3,
+    "definition": "short fiber that conducts toward the cell body of the neuron"
+  },
+  {
+    "word": "emotionality",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 25.3,
+    "definition": "emotional nature or quality"
+  },
+  {
+    "word": "excreta",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 25.3,
+    "definition": "waste matter (as urine or sweat but especially feces) discharged from the body"
+  },
+  {
+    "word": "granuloma",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 25.3,
+    "definition": "a tumor composed of granulation tissue resulting from injury or inflammation or infection"
+  },
+  {
+    "word": "housebreaking",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 25.3,
+    "definition": "trespassing for an unlawful purpose; illegal entrance into premises with criminal intent"
+  },
+  {
+    "word": "jabberwocky",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 25.3,
+    "definition": "nonsensical language (according to Lewis Carroll)"
+  },
+  {
+    "word": "laundress",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 25.3,
+    "definition": "a working woman who takes in washing"
+  },
+  {
+    "word": "millwright",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 25.3,
+    "definition": "a workman who designs or erects mills and milling machinery"
+  },
+  {
+    "word": "pieta",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 25.3,
+    "definition": "a representation of the Virgin Mary mourning over the dead body of Jesus"
+  },
+  {
+    "word": "tetralogy",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 25.3,
+    "definition": "a series of four related works (plays or operas or novels)"
+  },
+  {
+    "word": "tiro",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 25.3,
+    "definition": "someone new to a field or activity"
+  },
+  {
+    "word": "xylose",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "score": 25.3,
+    "definition": "a sugar extracted from wood or straw; used in foods for diabetics"
+  },
+  {
+    "word": "davit",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 25.3,
+    "definition": "a crane-like device (usually one of a pair) for suspending or lowering equipment (as a lifeboat)"
+  },
+  {
+    "word": "handcart",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 25.3,
+    "definition": "wheeled vehicle that can be pushed by a person; may have one or two or four wheels"
+  },
+  {
+    "word": "pedlar",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 25.3,
+    "definition": "someone who travels about selling his wares (as on the streets or at carnivals)"
+  },
+  {
+    "word": "cosily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.53,
+    "score": 25.3,
+    "definition": "in a cozy manner"
+  },
+  {
+    "word": "drearily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.53,
+    "score": 25.3,
+    "definition": "in a cheerless manner"
+  },
+  {
+    "word": "neurotically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.53,
+    "score": 25.3,
+    "definition": "in a neurotic manner"
+  },
+  {
+    "word": "adnexal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.23,
+    "score": 25.3,
+    "definition": "of or pertaining to adnexa"
+  },
+  {
+    "word": "camphorated",
+    "partOfSpeech": "adjective",
+    "zipf": 1.23,
+    "score": 25.3,
+    "definition": "impregnated with camphor"
+  },
+  {
+    "word": "chartaceous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.23,
+    "score": 25.3,
+    "definition": "of or like paper"
+  },
+  {
+    "word": "hydrographical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.23,
+    "score": 25.3,
+    "definition": "of or relating to the science of hydrography"
+  },
+  {
+    "word": "petaloid",
+    "partOfSpeech": "adjective",
+    "zipf": 1.23,
+    "score": 25.3,
+    "definition": "resembling a flower petal"
+  },
+  {
+    "word": "precedented",
+    "partOfSpeech": "adjective",
+    "zipf": 1.23,
+    "score": 25.3,
+    "definition": "having or supported or justified by a precedent"
+  },
+  {
+    "word": "sulcate",
+    "partOfSpeech": "adjective",
+    "zipf": 1.23,
+    "score": 25.3,
+    "definition": "having deep narrow furrows or grooves"
+  },
+  {
+    "word": "undeciphered",
+    "partOfSpeech": "adjective",
+    "zipf": 1.23,
+    "score": 25.3,
+    "definition": "not deciphered"
+  },
+  {
+    "word": "agon",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 25.2,
+    "definition": "a festivity in ancient Greece at which competitors contended for prizes"
+  },
+  {
+    "word": "barbecuing",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 25.2,
+    "definition": "roasting a large piece of meat on a revolving spit out of doors over an open fire"
+  },
+  {
+    "word": "boxcars",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 25.2,
+    "definition": "(usually plural) an expression used when two dice are thrown and both come up showing six spots"
+  },
+  {
+    "word": "choirmaster",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 25.2,
+    "definition": "the musical director of a choir"
+  },
+  {
+    "word": "dowsing",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 25.2,
+    "definition": "searching for underground water or minerals by using a dowsing rod"
+  },
+  {
+    "word": "dryad",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 25.2,
+    "definition": "a deity or nymph of the woods"
+  },
+  {
+    "word": "hurdling",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 25.2,
+    "definition": "a footrace in which contestants must negotiate a series of hurdles"
+  },
+  {
+    "word": "inducer",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 25.2,
+    "definition": "an agent capable of activating specific genes"
+  },
+  {
+    "word": "jobcentre",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 25.2,
+    "definition": "a government office in a town where information about available jobs is displayed and where unemployment benefits are administered"
+  },
+  {
+    "word": "jotting",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 25.2,
+    "definition": "a brief (and hurriedly handwritten) note"
+  },
+  {
+    "word": "leafing",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 25.2,
+    "definition": "(botany) the process of forming leaves"
+  },
+  {
+    "word": "verger",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 25.2,
+    "definition": "a church officer who takes care of the interior of the building and acts as an attendant (carries the verge) during ceremonies"
+  },
+  {
+    "word": "woodcutter",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 25.2,
+    "definition": "cuts down trees and chops wood as a job"
+  },
+  {
+    "word": "gearshift",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 25.2,
+    "definition": "a mechanical device for engaging and disengaging gears"
+  },
+  {
+    "word": "malnourishment",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 25.2,
+    "definition": "not having enough food to develop or function normally"
+  },
+  {
+    "word": "milkmaid",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 25.2,
+    "definition": "a woman who works in a dairy"
+  },
+  {
+    "word": "novation",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 25.2,
+    "definition": "(law) the replacement of one obligation by another by mutual agreement of both parties; usually the replacement of one of the original parties to a contract with the consent of the remaining party"
+  },
+  {
+    "word": "supergrass",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 25.2,
+    "definition": "a police informer who implicates many people"
+  },
+  {
+    "word": "togs",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 25.2,
+    "definition": "informal terms for clothing"
+  },
+  {
+    "word": "victuals",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 25.2,
+    "definition": "a stock or supply of foods"
+  },
+  {
+    "word": "wallah",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 25.2,
+    "definition": "usually in combination: person in charge of or employed at a particular thing"
+  },
+  {
+    "word": "barbarously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.52,
+    "score": 25.2,
+    "definition": "in a barbarous manner"
+  },
+  {
+    "word": "bountifully",
+    "partOfSpeech": "adverb",
+    "zipf": 1.52,
+    "score": 25.2,
+    "definition": "in a bountiful manner"
+  },
+  {
+    "word": "deceivingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.52,
+    "score": 25.2,
+    "definition": "in a misleading way"
+  },
+  {
+    "word": "foully",
+    "partOfSpeech": "adverb",
+    "zipf": 1.52,
+    "score": 25.2,
+    "definition": "in an unfair and insulting manner"
+  },
+  {
+    "word": "fraternally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.52,
+    "score": 25.2,
+    "definition": "in a brotherly manner"
+  },
+  {
+    "word": "hospitably",
+    "partOfSpeech": "adverb",
+    "zipf": 1.52,
+    "score": 25.2,
+    "definition": "in a hospitable manner"
+  },
+  {
+    "word": "sceptically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.52,
+    "score": 25.2,
+    "definition": "with scepticism; in a sceptical manner"
+  },
+  {
+    "word": "tautly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.52,
+    "score": 25.2,
+    "definition": "in a taut manner"
+  },
+  {
+    "word": "copular",
+    "partOfSpeech": "adjective",
+    "zipf": 1.22,
+    "score": 25.2,
+    "definition": "of or relating to a copula"
+  },
+  {
+    "word": "disarranged",
+    "partOfSpeech": "adjective",
+    "zipf": 1.22,
+    "score": 25.2,
+    "definition": "having the arrangement disturbed; not in order"
+  },
+  {
+    "word": "prelapsarian",
+    "partOfSpeech": "adjective",
+    "zipf": 1.22,
+    "score": 25.2,
+    "definition": "of or relating to the time before the Fall of Adam and Eve"
+  },
+  {
+    "word": "proconsular",
+    "partOfSpeech": "adjective",
+    "zipf": 1.22,
+    "score": 25.2,
+    "definition": "of or relating to or typical of a proconsul"
+  },
+  {
+    "word": "sublimed",
+    "partOfSpeech": "adjective",
+    "zipf": 1.22,
+    "score": 25.2,
+    "definition": "passing or having passed from the solid to the gaseous state (or vice versa) without becoming liquid"
+  },
+  {
+    "word": "unaccommodating",
+    "partOfSpeech": "adjective",
+    "zipf": 1.22,
+    "score": 25.2,
+    "definition": "not accommodating"
+  },
+  {
+    "word": "alcalde",
+    "partOfSpeech": "noun",
+    "zipf": 2.11,
+    "score": 25.1,
+    "definition": "a mayor or chief magistrate of a Spanish town"
+  },
+  {
+    "word": "cockfighting",
+    "partOfSpeech": "noun",
+    "zipf": 2.11,
+    "score": 25.1,
+    "definition": "participation in the sport of matching gamecocks in a cockfight"
+  },
+  {
+    "word": "functionalist",
+    "partOfSpeech": "noun",
+    "zipf": 2.11,
+    "score": 25.1,
+    "definition": "an adherent of functionalism"
+  },
+  {
+    "word": "palaeontologist",
+    "partOfSpeech": "noun",
+    "zipf": 2.11,
+    "score": 25.1,
+    "definition": "a specialist in paleontology"
+  },
+  {
+    "word": "paparazzo",
+    "partOfSpeech": "noun",
+    "zipf": 2.11,
+    "score": 25.1,
+    "definition": "a freelance photographer who pursues celebrities trying to take candid photographs of them to sell to newspapers or magazines"
+  },
+  {
+    "word": "phot",
+    "partOfSpeech": "noun",
+    "zipf": 2.11,
+    "score": 25.1,
+    "definition": "a unit of illumination equal to 1 lumen per square centimeter; 10,000 phots equal 1 lux"
+  },
+  {
+    "word": "reseda",
+    "partOfSpeech": "noun",
+    "zipf": 2.11,
+    "score": 25.1,
+    "definition": "any plant of the genus Reseda"
+  },
+  {
+    "word": "sandlot",
+    "partOfSpeech": "noun",
+    "zipf": 2.11,
+    "score": 25.1,
+    "definition": "a vacant lot used by city boys to play games"
+  },
+  {
+    "word": "seductress",
+    "partOfSpeech": "noun",
+    "zipf": 2.11,
+    "score": 25.1,
+    "definition": "a woman who seduces"
+  }
+]

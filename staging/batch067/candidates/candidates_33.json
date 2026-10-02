@@ -1,0 +1,702 @@
+[
+  {
+    "word": "scholastically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.46,
+    "score": 24.6,
+    "definition": "with respect to scholastic activities"
+  },
+  {
+    "word": "superstitiously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.46,
+    "score": 24.6,
+    "definition": "in a superstitious manner"
+  },
+  {
+    "word": "volubly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.46,
+    "score": 24.6,
+    "definition": "in a chatty manner"
+  },
+  {
+    "word": "scienter",
+    "partOfSpeech": "adverb",
+    "zipf": 1.34,
+    "score": 24.6,
+    "definition": "(law) deliberately or knowingly"
+  },
+  {
+    "word": "adsorptive",
+    "partOfSpeech": "adjective",
+    "zipf": 1.16,
+    "score": 24.6,
+    "definition": "having capacity or tendency to adsorb or cause to accumulate on a surface"
+  },
+  {
+    "word": "apomictic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.16,
+    "score": 24.6,
+    "definition": "of or relating to a plant that reproduces by apomixis"
+  },
+  {
+    "word": "extradural",
+    "partOfSpeech": "adjective",
+    "zipf": 1.16,
+    "score": 24.6,
+    "definition": "on or outside the dura mater"
+  },
+  {
+    "word": "terrene",
+    "partOfSpeech": "adjective",
+    "zipf": 1.16,
+    "score": 24.6,
+    "definition": "of or relating to or inhabiting the land as opposed to the sea or air"
+  },
+  {
+    "word": "challah",
+    "partOfSpeech": "noun",
+    "zipf": 2.05,
+    "score": 24.5,
+    "definition": "(Judaism) a loaf of white bread containing eggs and leavened with yeast; often formed into braided loaves and glazed with eggs before baking"
+  },
+  {
+    "word": "ecclesiology",
+    "partOfSpeech": "noun",
+    "zipf": 2.05,
+    "score": 24.5,
+    "definition": "the branch of theology concerned with the nature and the constitution and the functions of a church"
+  },
+  {
+    "word": "foundering",
+    "partOfSpeech": "noun",
+    "zipf": 2.05,
+    "score": 24.5,
+    "definition": "(of a ship) sinking"
+  },
+  {
+    "word": "giantess",
+    "partOfSpeech": "noun",
+    "zipf": 2.05,
+    "score": 24.5,
+    "definition": "a female giant"
+  },
+  {
+    "word": "hullo",
+    "partOfSpeech": "noun",
+    "zipf": 2.05,
+    "score": 24.5,
+    "definition": "an expression of greeting"
+  },
+  {
+    "word": "manana",
+    "partOfSpeech": "noun",
+    "zipf": 2.05,
+    "score": 24.5,
+    "definition": "an indefinite time in the future"
+  },
+  {
+    "word": "minimus",
+    "partOfSpeech": "noun",
+    "zipf": 2.05,
+    "score": 24.5,
+    "definition": "the fifth digit; the little finger or little toe"
+  },
+  {
+    "word": "pleasance",
+    "partOfSpeech": "noun",
+    "zipf": 2.05,
+    "score": 24.5,
+    "definition": "a pleasant and secluded part of a garden; usually attached to a mansion"
+  },
+  {
+    "word": "sagamore",
+    "partOfSpeech": "noun",
+    "zipf": 2.05,
+    "score": 24.5,
+    "definition": "a chief of a North American tribe or confederation (especially an Algonquian chief)"
+  },
+  {
+    "word": "sene",
+    "partOfSpeech": "noun",
+    "zipf": 2.05,
+    "score": 24.5,
+    "definition": "100 sene equal 1 tala in Western Samoa"
+  },
+  {
+    "word": "stabling",
+    "partOfSpeech": "noun",
+    "zipf": 2.05,
+    "score": 24.5,
+    "definition": "accommodation for animals (especially for horses)"
+  },
+  {
+    "word": "upsilon",
+    "partOfSpeech": "noun",
+    "zipf": 2.05,
+    "score": 24.5,
+    "definition": "the 20th letter of the Greek alphabet"
+  },
+  {
+    "word": "cachexia",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 24.5,
+    "definition": "any general reduction in vitality and strength of body and mind resulting from a debilitating chronic disease"
+  },
+  {
+    "word": "coarseness",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 24.5,
+    "definition": "language or humor that is down-to-earth"
+  },
+  {
+    "word": "contestation",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 24.5,
+    "definition": "a contentious speech act; a dispute where there is strong disagreement"
+  },
+  {
+    "word": "cuirass",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 24.5,
+    "definition": "medieval body armor that covers the chest and back"
+  },
+  {
+    "word": "exultation",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 24.5,
+    "definition": "a feeling of extreme joy"
+  },
+  {
+    "word": "flyleaf",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 24.5,
+    "definition": "a blank leaf in the front or back of a book"
+  },
+  {
+    "word": "grapheme",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 24.5,
+    "definition": "a written symbol that is used to represent speech"
+  },
+  {
+    "word": "groomsman",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 24.5,
+    "definition": "a male attendant of the bridegroom at a wedding"
+  },
+  {
+    "word": "habitus",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 24.5,
+    "definition": "person's predisposition to be affected by something (as a disease)"
+  },
+  {
+    "word": "hawala",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 24.5,
+    "definition": "an underground banking system based on trust whereby money can be made available internationally without actually moving it or leaving a record of the transaction"
+  },
+  {
+    "word": "lungi",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 24.5,
+    "definition": "a long piece of brightly colored cloth (cotton or silk) used as clothing (a skirt or loincloth or sash etc.) in India and Pakistan and Burma"
+  },
+  {
+    "word": "magnifico",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 24.5,
+    "definition": "a person of distinguished rank or appearance"
+  },
+  {
+    "word": "rentier",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 24.5,
+    "definition": "someone whose income is from property rents or bond interest and other investments"
+  },
+  {
+    "word": "scrounger",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 24.5,
+    "definition": "someone who mooches or cadges (tries to get something free)"
+  },
+  {
+    "word": "submissiveness",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 24.5,
+    "definition": "the trait of being willing to yield to the will of another person or a superior force etc."
+  },
+  {
+    "word": "subrogation",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 24.5,
+    "definition": "(law) the act of substituting of one creditor for another"
+  },
+  {
+    "word": "paraprofessional",
+    "partOfSpeech": "noun",
+    "zipf": 1.81,
+    "score": 24.5,
+    "definition": "a trained worker who is not a member of a profession but who assists a professional"
+  },
+  {
+    "word": "straightjacket",
+    "partOfSpeech": "noun",
+    "zipf": 1.81,
+    "score": 24.5,
+    "definition": "a garment similar to a jacket that is used to bind the arms tightly against the body as a means of restraining a violent person"
+  },
+  {
+    "word": "blackleg",
+    "partOfSpeech": "noun",
+    "zipf": 1.69,
+    "score": 24.5,
+    "definition": "someone who works (or provides workers) during a strike"
+  },
+  {
+    "word": "basely",
+    "partOfSpeech": "adverb",
+    "zipf": 1.45,
+    "score": 24.5,
+    "definition": "in a despicable, ignoble manner"
+  },
+  {
+    "word": "decorously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.45,
+    "score": 24.5,
+    "definition": "in a proper and decorous manner"
+  },
+  {
+    "word": "heedlessly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.45,
+    "score": 24.5,
+    "definition": "without care or concern"
+  },
+  {
+    "word": "leastways",
+    "partOfSpeech": "adverb",
+    "zipf": 1.45,
+    "score": 24.5,
+    "definition": "if nothing else (`leastwise' is informal and `leastways' is colloquial)"
+  },
+  {
+    "word": "lifelessly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.45,
+    "score": 24.5,
+    "definition": "without animation or vitality"
+  },
+  {
+    "word": "parasitically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.45,
+    "score": 24.5,
+    "definition": "in a parasitic manner"
+  },
+  {
+    "word": "patchily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.45,
+    "score": 24.5,
+    "definition": "in spots"
+  },
+  {
+    "word": "plastically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.45,
+    "score": 24.5,
+    "definition": "in a plastic manner"
+  },
+  {
+    "word": "seasonably",
+    "partOfSpeech": "adverb",
+    "zipf": 1.45,
+    "score": 24.5,
+    "definition": "in accordance with the season"
+  },
+  {
+    "word": "trenchantly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.45,
+    "score": 24.5,
+    "definition": "in a vigorous and effective manner"
+  },
+  {
+    "word": "typographically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.45,
+    "score": 24.5,
+    "definition": "in a typographic way"
+  },
+  {
+    "word": "lingually",
+    "partOfSpeech": "adverb",
+    "zipf": 1.33,
+    "score": 24.5,
+    "definition": "with respect to language"
+  },
+  {
+    "word": "acidotic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.15,
+    "score": 24.5,
+    "definition": "having or being characterized by acidosis"
+  },
+  {
+    "word": "adaptative",
+    "partOfSpeech": "adjective",
+    "zipf": 1.15,
+    "score": 24.5,
+    "definition": "having a capacity for adaptation"
+  },
+  {
+    "word": "areolate",
+    "partOfSpeech": "adjective",
+    "zipf": 1.15,
+    "score": 24.5,
+    "definition": "relating to or like or divided into areolae"
+  },
+  {
+    "word": "avocational",
+    "partOfSpeech": "adjective",
+    "zipf": 1.15,
+    "score": 24.5,
+    "definition": "of or involved in an avocation"
+  },
+  {
+    "word": "exergonic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.15,
+    "score": 24.5,
+    "definition": "(biochemistry) of a process accompanied by the release of energy"
+  },
+  {
+    "word": "isomorphous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.15,
+    "score": 24.5,
+    "definition": "having similar appearance but genetically different"
+  },
+  {
+    "word": "meanspirited",
+    "partOfSpeech": "adjective",
+    "zipf": 1.15,
+    "score": 24.5,
+    "definition": "lacking in magnanimity; - Times Litt. Sup."
+  },
+  {
+    "word": "microcephalic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.15,
+    "score": 24.5,
+    "definition": "having an abnormally small head and underdeveloped brain"
+  },
+  {
+    "word": "morphemic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.15,
+    "score": 24.5,
+    "definition": "of or relating to morphemes"
+  },
+  {
+    "word": "seeable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.15,
+    "score": 24.5,
+    "definition": "capable of being seen; or open to easy view"
+  },
+  {
+    "word": "adulteress",
+    "partOfSpeech": "noun",
+    "zipf": 2.04,
+    "score": 24.4,
+    "definition": "a woman adulterer"
+  },
+  {
+    "word": "bairn",
+    "partOfSpeech": "noun",
+    "zipf": 2.04,
+    "score": 24.4,
+    "definition": "a child: son or daughter"
+  },
+  {
+    "word": "baster",
+    "partOfSpeech": "noun",
+    "zipf": 2.04,
+    "score": 24.4,
+    "definition": "a cook who bastes roasting meat with melted fat or gravy"
+  },
+  {
+    "word": "chorister",
+    "partOfSpeech": "noun",
+    "zipf": 2.04,
+    "score": 24.4,
+    "definition": "a singer in a choir"
+  },
+  {
+    "word": "demonetization",
+    "partOfSpeech": "noun",
+    "zipf": 2.04,
+    "score": 24.4,
+    "definition": "ending something (e.g. gold or silver) as no longer the legal tender of a country"
+  },
+  {
+    "word": "greengrocer",
+    "partOfSpeech": "noun",
+    "zipf": 2.04,
+    "score": 24.4,
+    "definition": "a grocer who sells fresh fruits and vegetables"
+  },
+  {
+    "word": "legionary",
+    "partOfSpeech": "noun",
+    "zipf": 2.04,
+    "score": 24.4,
+    "definition": "a soldier who is a member of a legion (especially the French Foreign Legion)"
+  },
+  {
+    "word": "matins",
+    "partOfSpeech": "noun",
+    "zipf": 2.04,
+    "score": 24.4,
+    "definition": "the first canonical hour; at daybreak"
+  },
+  {
+    "word": "milord",
+    "partOfSpeech": "noun",
+    "zipf": 2.04,
+    "score": 24.4,
+    "definition": "a term of address for an English lord"
+  },
+  {
+    "word": "smooching",
+    "partOfSpeech": "noun",
+    "zipf": 2.04,
+    "score": 24.4,
+    "definition": "affectionate play (or foreplay without contact with the genital organs)"
+  },
+  {
+    "word": "tripos",
+    "partOfSpeech": "noun",
+    "zipf": 2.04,
+    "score": 24.4,
+    "definition": "final honors degree examinations at Cambridge University"
+  },
+  {
+    "word": "canonisation",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "score": 24.4,
+    "definition": "(Roman Catholic and Eastern Orthodox Church) the act of admitting a deceased person into the canon of saints"
+  },
+  {
+    "word": "crossbench",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "score": 24.4,
+    "definition": "any of the seats in the House of Commons used by members who do not vote regularly with either the government or the Opposition"
+  },
+  {
+    "word": "daydreamer",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "score": 24.4,
+    "definition": "someone who indulges in idle or absentminded daydreaming"
+  },
+  {
+    "word": "languor",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "score": 24.4,
+    "definition": "a relaxed comfortable feeling"
+  },
+  {
+    "word": "musculus",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "score": 24.4,
+    "definition": "one of the contractile organs of the body"
+  },
+  {
+    "word": "racialist",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "score": 24.4,
+    "definition": "a person with a prejudiced belief that one race is superior to others"
+  },
+  {
+    "word": "specifier",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "score": 24.4,
+    "definition": "someone who draws up specifications giving details (as for obtaining a patent)"
+  },
+  {
+    "word": "superintendence",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "score": 24.4,
+    "definition": "management by overseeing the performance or operation of a person or group"
+  },
+  {
+    "word": "suppleness",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "score": 24.4,
+    "definition": "the gracefulness of a person or animal that is flexible and supple"
+  },
+  {
+    "word": "dicer",
+    "partOfSpeech": "noun",
+    "zipf": 1.8,
+    "score": 24.4,
+    "definition": "a mechanical device used for dicing food"
+  },
+  {
+    "word": "cloyingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.44,
+    "score": 24.4,
+    "definition": "in an overly sweet manner"
+  },
+  {
+    "word": "luxuriantly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.44,
+    "score": 24.4,
+    "definition": "in an abundant and luxuriant manner"
+  },
+  {
+    "word": "obsequiously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.44,
+    "score": 24.4,
+    "definition": "in an obsequious manner"
+  },
+  {
+    "word": "palely",
+    "partOfSpeech": "adverb",
+    "zipf": 1.44,
+    "score": 24.4,
+    "definition": "in a manner lacking interest or vitality"
+  },
+  {
+    "word": "ambulacral",
+    "partOfSpeech": "adjective",
+    "zipf": 1.14,
+    "score": 24.4,
+    "definition": "pertaining to the ambulacra of radial echinoderms"
+  },
+  {
+    "word": "artefactual",
+    "partOfSpeech": "adjective",
+    "zipf": 1.14,
+    "score": 24.4,
+    "definition": "of or relating to artifacts"
+  },
+  {
+    "word": "botryoidal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.14,
+    "score": 24.4,
+    "definition": "resembling a cluster of grapes in form"
+  },
+  {
+    "word": "carbocyclic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.14,
+    "score": 24.4,
+    "definition": "having or relating to or characterized by a ring composed of carbon atoms"
+  },
+  {
+    "word": "cherty",
+    "partOfSpeech": "adjective",
+    "zipf": 1.14,
+    "score": 24.4,
+    "definition": "resembling or containing chert"
+  },
+  {
+    "word": "diluvial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.14,
+    "score": 24.4,
+    "definition": "of or connected with a deluge"
+  },
+  {
+    "word": "emulous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.14,
+    "score": 24.4,
+    "definition": "characterized by or arising from emulation or imitation"
+  },
+  {
+    "word": "flexile",
+    "partOfSpeech": "adjective",
+    "zipf": 1.14,
+    "score": 24.4,
+    "definition": "able to flex; able to bend easily"
+  },
+  {
+    "word": "heedful",
+    "partOfSpeech": "adjective",
+    "zipf": 1.14,
+    "score": 24.4,
+    "definition": "taking heed; giving close and thoughtful attention"
+  },
+  {
+    "word": "piscatorial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.14,
+    "score": 24.4,
+    "definition": "relating to or characteristic of the activity of fishing"
+  },
+  {
+    "word": "synclinal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.14,
+    "score": 24.4,
+    "definition": "sloping downward toward each other to create a trough"
+  },
+  {
+    "word": "unfledged",
+    "partOfSpeech": "adjective",
+    "zipf": 1.14,
+    "score": 24.4,
+    "definition": "(of birds) not yet having developed feathers"
+  },
+  {
+    "word": "biggin",
+    "partOfSpeech": "noun",
+    "zipf": 2.03,
+    "score": 24.3,
+    "definition": "a child's tight-fitting cap; often ties under the chin"
+  },
+  {
+    "word": "bonheur",
+    "partOfSpeech": "noun",
+    "zipf": 2.03,
+    "score": 24.3,
+    "definition": "(French) happiness and good humor"
+  }
+]

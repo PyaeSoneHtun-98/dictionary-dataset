@@ -1,0 +1,702 @@
+[
+  {
+    "word": "killingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.65,
+    "score": 26.5,
+    "definition": "in a very humorous manner"
+  },
+  {
+    "word": "raucously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.65,
+    "score": 26.5,
+    "definition": "with a raucous sound"
+  },
+  {
+    "word": "restrictively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.65,
+    "score": 26.5,
+    "definition": "in a restrictive manner"
+  },
+  {
+    "word": "sourly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.65,
+    "score": 26.5,
+    "definition": "in a sour manner"
+  },
+  {
+    "word": "vilely",
+    "partOfSpeech": "adverb",
+    "zipf": 1.65,
+    "score": 26.5,
+    "definition": "in a vile manner"
+  },
+  {
+    "word": "aetiological",
+    "partOfSpeech": "adjective",
+    "zipf": 1.35,
+    "score": 26.5,
+    "definition": "of or relating to the philosophical study of causation"
+  },
+  {
+    "word": "cryptogamic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.35,
+    "score": 26.5,
+    "definition": "of or relating to a cryptogam"
+  },
+  {
+    "word": "empyreal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.35,
+    "score": 26.5,
+    "definition": "of or relating to the sky or heavens"
+  },
+  {
+    "word": "micaceous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.35,
+    "score": 26.5,
+    "definition": "hydrous silicates of or relating to or resembling mica"
+  },
+  {
+    "word": "suppurative",
+    "partOfSpeech": "adjective",
+    "zipf": 1.35,
+    "score": 26.5,
+    "definition": "relating to or characterized by suppuration"
+  },
+  {
+    "word": "diam",
+    "partOfSpeech": "noun",
+    "zipf": 2.24,
+    "score": 26.4,
+    "definition": "the length of a straight line passing through the center of a circle and connecting two points on the circumference"
+  },
+  {
+    "word": "manservant",
+    "partOfSpeech": "noun",
+    "zipf": 2.24,
+    "score": 26.4,
+    "definition": "a man servant"
+  },
+  {
+    "word": "pluralist",
+    "partOfSpeech": "noun",
+    "zipf": 2.24,
+    "score": 26.4,
+    "definition": "a cleric who holds more than one benefice at a time"
+  },
+  {
+    "word": "assessee",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 26.4,
+    "definition": "a person (or property) that is assessed"
+  },
+  {
+    "word": "crasher",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 26.4,
+    "definition": "someone who gets in (to a party) without an invitation or without paying"
+  },
+  {
+    "word": "perfumer",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 26.4,
+    "definition": "a person who makes (and sells) perfumes"
+  },
+  {
+    "word": "stonemason",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 26.4,
+    "definition": "a craftsman who works with stone or brick"
+  },
+  {
+    "word": "whipper",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 26.4,
+    "definition": "a person who administers punishment by wielding a switch or whip"
+  },
+  {
+    "word": "chromatically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.64,
+    "score": 26.4,
+    "definition": "with respect to color"
+  },
+  {
+    "word": "extemporaneously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.64,
+    "score": 26.4,
+    "definition": "without prior preparation"
+  },
+  {
+    "word": "grumpily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.64,
+    "score": 26.4,
+    "definition": "in an ill-natured manner"
+  },
+  {
+    "word": "hygienically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.64,
+    "score": 26.4,
+    "definition": "in a hygienic manner"
+  },
+  {
+    "word": "nastily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.64,
+    "score": 26.4,
+    "definition": "in a nasty ill-tempered manner"
+  },
+  {
+    "word": "pleasurably",
+    "partOfSpeech": "adverb",
+    "zipf": 1.64,
+    "score": 26.4,
+    "definition": "in a very pleasurable manner"
+  },
+  {
+    "word": "bioclimatic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.34,
+    "score": 26.4,
+    "definition": "of or concerned with the relations of climate and living organisms"
+  },
+  {
+    "word": "maturational",
+    "partOfSpeech": "adjective",
+    "zipf": 1.34,
+    "score": 26.4,
+    "definition": "relating to or involved in maturation"
+  },
+  {
+    "word": "neckless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.34,
+    "score": 26.4,
+    "definition": "lacking or apparently lacking a neck"
+  },
+  {
+    "word": "positivistic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.34,
+    "score": 26.4,
+    "definition": "of or relating to positivism"
+  },
+  {
+    "word": "pyrogenic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.34,
+    "score": 26.4,
+    "definition": "produced by or producing fever"
+  },
+  {
+    "word": "sexagesimal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.34,
+    "score": 26.4,
+    "definition": "of or relating to or reckoning in sixtieths"
+  },
+  {
+    "word": "tertian",
+    "partOfSpeech": "adjective",
+    "zipf": 1.34,
+    "score": 26.4,
+    "definition": "relating to symptoms (especially malarial fever) that appear every other day"
+  },
+  {
+    "word": "uncombed",
+    "partOfSpeech": "adjective",
+    "zipf": 1.34,
+    "score": 26.4,
+    "definition": "(of hair) not combed"
+  },
+  {
+    "word": "vesical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.34,
+    "score": 26.4,
+    "definition": "of or relating to a bladder (especially the urinary bladder)"
+  },
+  {
+    "word": "altricial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.22,
+    "score": 26.4,
+    "definition": "(of hatchlings) naked and blind and dependent on parents for food"
+  },
+  {
+    "word": "afters",
+    "partOfSpeech": "noun",
+    "zipf": 2.23,
+    "score": 26.3,
+    "definition": "a dish served as the last course of a meal"
+  },
+  {
+    "word": "effendi",
+    "partOfSpeech": "noun",
+    "zipf": 2.23,
+    "score": 26.3,
+    "definition": "a former Turkish term of respect; especially for government officials"
+  },
+  {
+    "word": "eisteddfod",
+    "partOfSpeech": "noun",
+    "zipf": 2.23,
+    "score": 26.3,
+    "definition": "any of several annual Welsh festivals involving artistic competitions (especially in singing)"
+  },
+  {
+    "word": "midden",
+    "partOfSpeech": "noun",
+    "zipf": 2.23,
+    "score": 26.3,
+    "definition": "(archeology) a mound of domestic refuse containing shells and animal bones marking the site of a prehistoric settlement"
+  },
+  {
+    "word": "molting",
+    "partOfSpeech": "noun",
+    "zipf": 2.23,
+    "score": 26.3,
+    "definition": "periodic shedding of the cuticle in arthropods or the outer skin in reptiles"
+  },
+  {
+    "word": "pricking",
+    "partOfSpeech": "noun",
+    "zipf": 2.23,
+    "score": 26.3,
+    "definition": "the act of puncturing with a small point"
+  },
+  {
+    "word": "quartering",
+    "partOfSpeech": "noun",
+    "zipf": 2.23,
+    "score": 26.3,
+    "definition": "a coat of arms that occupies one quarter of an escutcheon; combining four coats of arms on one shield usually represented intermarriages"
+  },
+  {
+    "word": "substratum",
+    "partOfSpeech": "noun",
+    "zipf": 2.23,
+    "score": 26.3,
+    "definition": "a surface on which an organism grows or is attached"
+  },
+  {
+    "word": "suturing",
+    "partOfSpeech": "noun",
+    "zipf": 2.23,
+    "score": 26.3,
+    "definition": "surgical joining of two surfaces"
+  },
+  {
+    "word": "anthropoid",
+    "partOfSpeech": "noun",
+    "zipf": 2.11,
+    "score": 26.3,
+    "definition": "person who resembles a nonhuman primate"
+  },
+  {
+    "word": "herdsman",
+    "partOfSpeech": "noun",
+    "zipf": 2.11,
+    "score": 26.3,
+    "definition": "someone who drives a herd"
+  },
+  {
+    "word": "twerp",
+    "partOfSpeech": "noun",
+    "zipf": 2.11,
+    "score": 26.3,
+    "definition": "someone who is regarded as contemptible"
+  },
+  {
+    "word": "yeller",
+    "partOfSpeech": "noun",
+    "zipf": 2.11,
+    "score": 26.3,
+    "definition": "someone who communicates vocally in a very loud voice"
+  },
+  {
+    "word": "genially",
+    "partOfSpeech": "adverb",
+    "zipf": 1.63,
+    "score": 26.3,
+    "definition": "in an affable manner"
+  },
+  {
+    "word": "outspokenly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.63,
+    "score": 26.3,
+    "definition": "in an outspoken manner"
+  },
+  {
+    "word": "pessimistically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.63,
+    "score": 26.3,
+    "definition": "with pessimism; in a pessimistic manner"
+  },
+  {
+    "word": "ruinously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.63,
+    "score": 26.3,
+    "definition": "in a ruinous manner or to a ruinous degree"
+  },
+  {
+    "word": "atmospherical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.33,
+    "score": 26.3,
+    "definition": "relating to or located in the atmosphere"
+  },
+  {
+    "word": "categoric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.33,
+    "score": 26.3,
+    "definition": "relating to or included in a category or categories"
+  },
+  {
+    "word": "cosmogonic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.33,
+    "score": 26.3,
+    "definition": "pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe"
+  },
+  {
+    "word": "diametrical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.33,
+    "score": 26.3,
+    "definition": "related to or along a diameter"
+  },
+  {
+    "word": "diaphyseal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.33,
+    "score": 26.3,
+    "definition": "relating to the diaphysis of a bone"
+  },
+  {
+    "word": "discalced",
+    "partOfSpeech": "adjective",
+    "zipf": 1.33,
+    "score": 26.3,
+    "definition": "(used of certain religious orders) barefoot or wearing only sandals"
+  },
+  {
+    "word": "hydric",
+    "partOfSpeech": "adjective",
+    "zipf": 1.33,
+    "score": 26.3,
+    "definition": "having or characterized by excessive moisture"
+  },
+  {
+    "word": "immunotherapeutic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.33,
+    "score": 26.3,
+    "definition": "of or relating to immunotherapy"
+  },
+  {
+    "word": "kinaesthetic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.33,
+    "score": 26.3,
+    "definition": "of or relating to kinesthesis"
+  },
+  {
+    "word": "limnological",
+    "partOfSpeech": "adjective",
+    "zipf": 1.33,
+    "score": 26.3,
+    "definition": "of or relating to limnology"
+  },
+  {
+    "word": "lipless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.33,
+    "score": 26.3,
+    "definition": "without a lip or lips"
+  },
+  {
+    "word": "lysogenic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.33,
+    "score": 26.3,
+    "definition": "of or relating to lysogeny"
+  },
+  {
+    "word": "thermodynamical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.33,
+    "score": 26.3,
+    "definition": "of or concerned with thermodynamics"
+  },
+  {
+    "word": "conquistador",
+    "partOfSpeech": "noun",
+    "zipf": 2.22,
+    "score": 26.2,
+    "definition": "an adventurer (especially one who led the Spanish conquest of Mexico and Peru in the 16th century)"
+  },
+  {
+    "word": "elbowing",
+    "partOfSpeech": "noun",
+    "zipf": 2.22,
+    "score": 26.2,
+    "definition": "jostling with the elbows"
+  },
+  {
+    "word": "hydrodynamics",
+    "partOfSpeech": "noun",
+    "zipf": 2.22,
+    "score": 26.2,
+    "definition": "study of fluids in motion"
+  },
+  {
+    "word": "outcropping",
+    "partOfSpeech": "noun",
+    "zipf": 2.22,
+    "score": 26.2,
+    "definition": "the part of a rock formation that appears above the surface of the surrounding land"
+  },
+  {
+    "word": "subaltern",
+    "partOfSpeech": "noun",
+    "zipf": 2.22,
+    "score": 26.2,
+    "definition": "a British commissioned army officer below the rank of captain"
+  },
+  {
+    "word": "wavefront",
+    "partOfSpeech": "noun",
+    "zipf": 2.22,
+    "score": 26.2,
+    "definition": "(physics) an imaginary surface joining all points in space that are reached at the same instant by a wave propagating through a medium"
+  },
+  {
+    "word": "strawman",
+    "partOfSpeech": "noun",
+    "zipf": 2.1,
+    "score": 26.2,
+    "definition": "a person used as a cover for some questionable activity"
+  },
+  {
+    "word": "agriculturist",
+    "partOfSpeech": "noun",
+    "zipf": 1.98,
+    "score": 26.2,
+    "definition": "someone concerned with the science or art or business of cultivating the soil"
+  },
+  {
+    "word": "lawgiver",
+    "partOfSpeech": "noun",
+    "zipf": 1.98,
+    "score": 26.2,
+    "definition": "a maker of laws; someone who gives a code of laws"
+  },
+  {
+    "word": "arithmetically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.62,
+    "score": 26.2,
+    "definition": "with respect to arithmetic"
+  },
+  {
+    "word": "boyishly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.62,
+    "score": 26.2,
+    "definition": "like a boy"
+  },
+  {
+    "word": "breezily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.62,
+    "score": 26.2,
+    "definition": "in a breezy manner"
+  },
+  {
+    "word": "conformably",
+    "partOfSpeech": "adverb",
+    "zipf": 1.62,
+    "score": 26.2,
+    "definition": "in a conformable manner"
+  },
+  {
+    "word": "counterintuitively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.62,
+    "score": 26.2,
+    "definition": "in a counterintuitive manner"
+  },
+  {
+    "word": "obligatorily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.62,
+    "score": 26.2,
+    "definition": "in an obligatory manner"
+  },
+  {
+    "word": "pedantically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.62,
+    "score": 26.2,
+    "definition": "in a pedantic manner"
+  },
+  {
+    "word": "vocationally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.62,
+    "score": 26.2,
+    "definition": "affecting the pursuit of a vocation or occupation"
+  },
+  {
+    "word": "antepartum",
+    "partOfSpeech": "adjective",
+    "zipf": 1.32,
+    "score": 26.2,
+    "definition": "occurring or existing before birth"
+  },
+  {
+    "word": "artifactual",
+    "partOfSpeech": "adjective",
+    "zipf": 1.32,
+    "score": 26.2,
+    "definition": "of or relating to artifacts"
+  },
+  {
+    "word": "atonic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.32,
+    "score": 26.2,
+    "definition": "characterized by a lack of tonus"
+  },
+  {
+    "word": "cartographical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.32,
+    "score": 26.2,
+    "definition": "of or relating to the making of maps or charts"
+  },
+  {
+    "word": "chemiluminescent",
+    "partOfSpeech": "adjective",
+    "zipf": 1.32,
+    "score": 26.2,
+    "definition": "relating to the phenomenon of chemiluminescence"
+  },
+  {
+    "word": "ferial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.32,
+    "score": 26.2,
+    "definition": "of or relating to or being a feria"
+  },
+  {
+    "word": "undrained",
+    "partOfSpeech": "adjective",
+    "zipf": 1.32,
+    "score": 26.2,
+    "definition": "not drained"
+  },
+  {
+    "word": "unrhymed",
+    "partOfSpeech": "adjective",
+    "zipf": 1.32,
+    "score": 26.2,
+    "definition": "not having rhyme"
+  },
+  {
+    "word": "unshelled",
+    "partOfSpeech": "adjective",
+    "zipf": 1.32,
+    "score": 26.2,
+    "definition": "of animals or fruits that have no shell"
+  },
+  {
+    "word": "anagrams",
+    "partOfSpeech": "noun",
+    "zipf": 2.21,
+    "score": 26.1,
+    "definition": "a game whose object is to form words from a group of randomly chosen letters"
+  },
+  {
+    "word": "psalmist",
+    "partOfSpeech": "noun",
+    "zipf": 2.21,
+    "score": 26.1,
+    "definition": "a composer of sacred songs"
+  },
+  {
+    "word": "theist",
+    "partOfSpeech": "noun",
+    "zipf": 2.21,
+    "score": 26.1,
+    "definition": "one who believes in the existence of a god or gods"
+  },
+  {
+    "word": "bleeder",
+    "partOfSpeech": "noun",
+    "zipf": 2.09,
+    "score": 26.1,
+    "definition": "someone who has hemophilia and is subject to uncontrollable bleeding"
+  },
+  {
+    "word": "hellion",
+    "partOfSpeech": "noun",
+    "zipf": 2.09,
+    "score": 26.1,
+    "definition": "a rowdy or mischievous person (usually a young man)"
+  },
+  {
+    "word": "marathoner",
+    "partOfSpeech": "noun",
+    "zipf": 2.09,
+    "score": 26.1,
+    "definition": "someone who participates in long-distance races (especially in marathons)"
+  },
+  {
+    "word": "overworking",
+    "partOfSpeech": "noun",
+    "zipf": 2.09,
+    "score": 26.1,
+    "definition": "the act of working too much or too long"
+  },
+  {
+    "word": "verifier",
+    "partOfSpeech": "noun",
+    "zipf": 2.09,
+    "score": 26.1,
+    "definition": "someone who vouches for another or for the correctness of a statement"
+  },
+  {
+    "word": "exploiter",
+    "partOfSpeech": "noun",
+    "zipf": 1.97,
+    "score": 26.1,
+    "definition": "a person who uses something or someone selfishly or unethically"
+  },
+  {
+    "word": "damnably",
+    "partOfSpeech": "adverb",
+    "zipf": 1.61,
+    "score": 26.1,
+    "definition": "in a damnable manner"
+  }
+]

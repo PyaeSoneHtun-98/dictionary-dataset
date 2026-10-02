@@ -1,0 +1,702 @@
+[
+  {
+    "word": "bunter",
+    "partOfSpeech": "noun",
+    "zipf": 2.03,
+    "score": 24.3,
+    "definition": "a batter who bunts"
+  },
+  {
+    "word": "faery",
+    "partOfSpeech": "noun",
+    "zipf": 2.03,
+    "score": 24.3,
+    "definition": "a small being, human in form, playful and having magical powers"
+  },
+  {
+    "word": "madwoman",
+    "partOfSpeech": "noun",
+    "zipf": 2.03,
+    "score": 24.3,
+    "definition": "a woman lunatic"
+  },
+  {
+    "word": "nursemaid",
+    "partOfSpeech": "noun",
+    "zipf": 2.03,
+    "score": 24.3,
+    "definition": "a woman who is the custodian of children"
+  },
+  {
+    "word": "plastique",
+    "partOfSpeech": "noun",
+    "zipf": 2.03,
+    "score": 24.3,
+    "definition": "an explosive material that is easily molded around the object it is intended to destroy"
+  },
+  {
+    "word": "primula",
+    "partOfSpeech": "noun",
+    "zipf": 2.03,
+    "score": 24.3,
+    "definition": "any of numerous short-stemmed plants of the genus Primula having tufted basal leaves and showy flowers clustered in umbels or heads"
+  },
+  {
+    "word": "sabbat",
+    "partOfSpeech": "noun",
+    "zipf": 2.03,
+    "score": 24.3,
+    "definition": "a midnight meeting of witches to practice witchcraft and sorcery; in the Middle Ages it was supposed to be a demonic orgy"
+  },
+  {
+    "word": "silvan",
+    "partOfSpeech": "noun",
+    "zipf": 2.03,
+    "score": 24.3,
+    "definition": "a spirit that lives in or frequents the woods"
+  },
+  {
+    "word": "stovepipe",
+    "partOfSpeech": "noun",
+    "zipf": 2.03,
+    "score": 24.3,
+    "definition": "chimney consisting of a metal pipe of large diameter that is used to connect a stove to a flue"
+  },
+  {
+    "word": "theodicy",
+    "partOfSpeech": "noun",
+    "zipf": 2.03,
+    "score": 24.3,
+    "definition": "the branch of theology that defends God's goodness and justice in the face of the existence of evil"
+  },
+  {
+    "word": "tobacconist",
+    "partOfSpeech": "noun",
+    "zipf": 2.03,
+    "score": 24.3,
+    "definition": "a retail dealer in tobacco and tobacco-related articles"
+  },
+  {
+    "word": "anteroom",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 24.3,
+    "definition": "a large entrance or reception room or area"
+  },
+  {
+    "word": "bedsit",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 24.3,
+    "definition": "a furnished sitting room with sleeping accommodations (and some plumbing)"
+  },
+  {
+    "word": "clockmaker",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 24.3,
+    "definition": "someone whose occupation is making or repairing clocks and watches"
+  },
+  {
+    "word": "hesitance",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 24.3,
+    "definition": "a feeling of diffidence and indecision about doing something"
+  },
+  {
+    "word": "persuader",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 24.3,
+    "definition": "someone who tries to persuade or induce or lead on"
+  },
+  {
+    "word": "phlebotomist",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 24.3,
+    "definition": "someone who practices phlebotomy"
+  },
+  {
+    "word": "resister",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 24.3,
+    "definition": "someone who systematically obstructs some action that others want to take"
+  },
+  {
+    "word": "roughage",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 24.3,
+    "definition": "coarse, indigestible plant food low in nutrients; its bulk stimulates intestinal peristalsis"
+  },
+  {
+    "word": "valgus",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 24.3,
+    "definition": "a deformity in which there is an abnormal displacement of part of a limb away from the midline of the body"
+  },
+  {
+    "word": "vendee",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 24.3,
+    "definition": "a person who buys"
+  },
+  {
+    "word": "boundlessly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.43,
+    "score": 24.3,
+    "definition": "without bounds"
+  },
+  {
+    "word": "dexterously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.43,
+    "score": 24.3,
+    "definition": "with dexterity; in a dexterous manner"
+  },
+  {
+    "word": "efficaciously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.43,
+    "score": 24.3,
+    "definition": "in an effective manner"
+  },
+  {
+    "word": "horridly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.43,
+    "score": 24.3,
+    "definition": "in a hideous manner"
+  },
+  {
+    "word": "nohow",
+    "partOfSpeech": "adverb",
+    "zipf": 1.43,
+    "score": 24.3,
+    "definition": "in no manner; in no way"
+  },
+  {
+    "word": "sweepingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.43,
+    "score": 24.3,
+    "definition": "in a sweeping manner"
+  },
+  {
+    "word": "wanly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.43,
+    "score": 24.3,
+    "definition": "in a weak or pale or languid manner"
+  },
+  {
+    "word": "wholesomely",
+    "partOfSpeech": "adverb",
+    "zipf": 1.43,
+    "score": 24.3,
+    "definition": "in a wholesome manner"
+  },
+  {
+    "word": "alkalic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.13,
+    "score": 24.3,
+    "definition": "relating to or containing an alkali; having a pH greater than 7"
+  },
+  {
+    "word": "bronchoscopic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.13,
+    "score": 24.3,
+    "definition": "of or relating to an instrument for examining the interior of the bronchi"
+  },
+  {
+    "word": "calcic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.13,
+    "score": 24.3,
+    "definition": "derived from or containing calcium or lime"
+  },
+  {
+    "word": "disconfirming",
+    "partOfSpeech": "adjective",
+    "zipf": 1.13,
+    "score": 24.3,
+    "definition": "not indicating the presence of microorganisms or disease or a specific condition"
+  },
+  {
+    "word": "fibrillose",
+    "partOfSpeech": "adjective",
+    "zipf": 1.13,
+    "score": 24.3,
+    "definition": "covered with fibrils more or less evenly disposed"
+  },
+  {
+    "word": "hyperemic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.13,
+    "score": 24.3,
+    "definition": "relating to or caused by hyperemia"
+  },
+  {
+    "word": "illative",
+    "partOfSpeech": "adjective",
+    "zipf": 1.13,
+    "score": 24.3,
+    "definition": "relating to or having the nature of illation or inference"
+  },
+  {
+    "word": "radiolucent",
+    "partOfSpeech": "adjective",
+    "zipf": 1.13,
+    "score": 24.3,
+    "definition": "almost complete transparent to X-rays or other forms of radiation"
+  },
+  {
+    "word": "unlubricated",
+    "partOfSpeech": "adjective",
+    "zipf": 1.13,
+    "score": 24.3,
+    "definition": "not lubricated"
+  },
+  {
+    "word": "afterbirth",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "the placenta and fetal membranes that are expelled from the uterus after the baby is born"
+  },
+  {
+    "word": "banns",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "a public announcement of a proposed marriage"
+  },
+  {
+    "word": "belling",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "a noisy mock serenade (made by banging pans and kettles) to a newly married couple"
+  },
+  {
+    "word": "caroling",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "singing joyful religious songs (especially at Christmas)"
+  },
+  {
+    "word": "carping",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "persistent petty and unjustified criticism"
+  },
+  {
+    "word": "commensal",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "either of two different animal or plant species living in close association but not interdependent"
+  },
+  {
+    "word": "covetousness",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "an envious eagerness to possess something"
+  },
+  {
+    "word": "dyskinesia",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "abnormality in performing voluntary muscle movements"
+  },
+  {
+    "word": "enzymology",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "the branch of biochemistry dealing with the chemical nature and biological activity of enzymes"
+  },
+  {
+    "word": "ethnographer",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "an anthropologist who does ethnography"
+  },
+  {
+    "word": "familiarization",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "the experience of becoming familiar with something"
+  },
+  {
+    "word": "flambeau",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "a flaming torch (such as are used in processions at night)"
+  },
+  {
+    "word": "flavonoid",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "any of a large class of plant pigments having a chemical structure based on or similar to flavone"
+  },
+  {
+    "word": "haematoma",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "a localized swelling filled with blood"
+  },
+  {
+    "word": "hemostasis",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "surgical procedure of stopping the flow of blood (as with a hemostat)"
+  },
+  {
+    "word": "hybridisation",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "(genetics) the act of mixing different species or varieties of animals or plants and thus to produce hybrids"
+  },
+  {
+    "word": "indeterminacy",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "the quality of being vague and poorly defined"
+  },
+  {
+    "word": "literalism",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "the doctrine of realistic (literal) portrayal in art or literature"
+  },
+  {
+    "word": "meaningfulness",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "the quality of having great value or significance"
+  },
+  {
+    "word": "mononucleosis",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "an acute disease characterized by fever and swollen lymph nodes and an abnormal increase of mononuclear leucocytes or monocytes in the bloodstream; not highly contagious; some believe it can be transmitted by kissing"
+  },
+  {
+    "word": "nightjar",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "mainly crepuscular or nocturnal nonpasserine birds with mottled greyish-brown plumage and large eyes; feed on insects"
+  },
+  {
+    "word": "notability",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "a celebrity who is an inspiration to others"
+  },
+  {
+    "word": "pestis",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "a serious (sometimes fatal) infection of rodents caused by Yersinia pestis and accidentally transmitted to humans by the bite of a flea that has bitten an infected animal"
+  },
+  {
+    "word": "philosophizing",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "the exposition (often superficially) of a particular philosophy"
+  },
+  {
+    "word": "phosphine",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "a colorless gas with a strong fishy smell; used as a pesticide"
+  },
+  {
+    "word": "pizzicato",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "a note or passage that is played pizzicato"
+  },
+  {
+    "word": "poliomyelitis",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "an acute viral disease marked by inflammation of nerve cells of the brain stem and spinal cord"
+  },
+  {
+    "word": "punning",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "a humorous play on words"
+  },
+  {
+    "word": "reduplication",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "repetition of the final words of a sentence or line at the beginning of the next"
+  },
+  {
+    "word": "sociality",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "the tendency to associate with others and to form social groups"
+  },
+  {
+    "word": "studentship",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "the position of student"
+  },
+  {
+    "word": "tearjerker",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "an excessively sentimental narrative"
+  },
+  {
+    "word": "temporality",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "the worldly possessions of a church"
+  },
+  {
+    "word": "tercentenary",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "the 300th anniversary (or the celebration of it)"
+  },
+  {
+    "word": "tubeless",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "pneumatic tire not needing an inner tube to be airtight"
+  },
+  {
+    "word": "winnowing",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "the act of separating grain from chaff"
+  },
+  {
+    "word": "analects",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 24.2,
+    "definition": "a collection of excerpts from a literary work"
+  },
+  {
+    "word": "chooser",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 24.2,
+    "definition": "a person who chooses or selects out"
+  },
+  {
+    "word": "croupier",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 24.2,
+    "definition": "someone who collects and pays bets at a gaming table"
+  },
+  {
+    "word": "divisibility",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 24.2,
+    "definition": "the quality of being divisible; the capacity to be divided into parts or divided among a number of persons"
+  },
+  {
+    "word": "handspring",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 24.2,
+    "definition": "an acrobatic feat in which a person goes from a standing position to a handstand and back again"
+  },
+  {
+    "word": "keloid",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 24.2,
+    "definition": "raised pinkish scar tissue at the site of an injury; results from excessive tissue repair"
+  },
+  {
+    "word": "manikin",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 24.2,
+    "definition": "a person who is very small but who is not otherwise deformed or abnormal"
+  },
+  {
+    "word": "protectiveness",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 24.2,
+    "definition": "a feeling of protective affection"
+  },
+  {
+    "word": "unselfishness",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 24.2,
+    "definition": "the quality of not putting yourself first but being willing to give your time or money or effort etc. for others"
+  },
+  {
+    "word": "whelk",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 24.2,
+    "definition": "large marine snail much used as food in Europe"
+  },
+  {
+    "word": "mender",
+    "partOfSpeech": "noun",
+    "zipf": 1.78,
+    "score": 24.2,
+    "definition": "a skilled worker who mends or repairs things"
+  },
+  {
+    "word": "crossly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.42,
+    "score": 24.2,
+    "definition": "in an ill-natured manner"
+  },
+  {
+    "word": "diagrammatically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.42,
+    "score": 24.2,
+    "definition": "in a diagrammatic manner"
+  },
+  {
+    "word": "hereinbefore",
+    "partOfSpeech": "adverb",
+    "zipf": 1.42,
+    "score": 24.2,
+    "definition": "in the preceding part of the current text"
+  },
+  {
+    "word": "jerkily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.42,
+    "score": 24.2,
+    "definition": "with spasms"
+  },
+  {
+    "word": "preeminently",
+    "partOfSpeech": "adverb",
+    "zipf": 1.42,
+    "score": 24.2,
+    "definition": "to a preeminent degree; with superiority or distinction above others; in a preeminent manner"
+  },
+  {
+    "word": "rurally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.42,
+    "score": 24.2,
+    "definition": "in a rural manner"
+  },
+  {
+    "word": "skimpily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.42,
+    "score": 24.2,
+    "definition": "in a skimpy manner"
+  },
+  {
+    "word": "stolidly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.42,
+    "score": 24.2,
+    "definition": "in a stolid manner"
+  },
+  {
+    "word": "apostolical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.12,
+    "score": 24.2,
+    "definition": "proceeding from or ordered by or subject to a pope or the papacy regarded as the successor of the Apostles"
+  },
+  {
+    "word": "basilican",
+    "partOfSpeech": "adjective",
+    "zipf": 1.12,
+    "score": 24.2,
+    "definition": "of or relating to or resembling a basilica"
+  },
+  {
+    "word": "casuistic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.12,
+    "score": 24.2,
+    "definition": "of or relating to or practicing casuistry"
+  },
+  {
+    "word": "fibrinous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.12,
+    "score": 24.2,
+    "definition": "characterized by the presence of fibrin"
+  },
+  {
+    "word": "hydrokinetic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.12,
+    "score": 24.2,
+    "definition": "relating to fluids in motion or the forces that produce or affect such motion"
+  },
+  {
+    "word": "onomatopoetic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.12,
+    "score": 24.2,
+    "definition": "of or relating to or characterized by onomatopoeia"
+  },
+  {
+    "word": "subjacent",
+    "partOfSpeech": "adjective",
+    "zipf": 1.12,
+    "score": 24.2,
+    "definition": "lying nearby but lower"
+  }
+]

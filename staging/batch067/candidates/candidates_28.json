@@ -1,0 +1,702 @@
+[
+  {
+    "word": "deplorably",
+    "partOfSpeech": "adverb",
+    "zipf": 1.61,
+    "score": 26.1,
+    "definition": "in an unfortunate or deplorable manner"
+  },
+  {
+    "word": "despicably",
+    "partOfSpeech": "adverb",
+    "zipf": 1.61,
+    "score": 26.1,
+    "definition": "in a despicable manner"
+  },
+  {
+    "word": "hyperbolically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.61,
+    "score": 26.1,
+    "definition": "in an exaggerated manner"
+  },
+  {
+    "word": "oftener",
+    "partOfSpeech": "adverb",
+    "zipf": 1.61,
+    "score": 26.1,
+    "definition": "more often or more frequently"
+  },
+  {
+    "word": "reflectively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.61,
+    "score": 26.1,
+    "definition": "in a reflective manner"
+  },
+  {
+    "word": "sideway",
+    "partOfSpeech": "adverb",
+    "zipf": 1.61,
+    "score": 26.1,
+    "definition": "with one side forward or to the front"
+  },
+  {
+    "word": "spookily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.61,
+    "score": 26.1,
+    "definition": "in an unnatural eery manner"
+  },
+  {
+    "word": "numbly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.49,
+    "score": 26.1,
+    "definition": "in a numb manner; without feeling"
+  },
+  {
+    "word": "amebic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.31,
+    "score": 26.1,
+    "definition": "pertaining to or resembling amoebae"
+  },
+  {
+    "word": "areolar",
+    "partOfSpeech": "adjective",
+    "zipf": 1.31,
+    "score": 26.1,
+    "definition": "relating to or like or divided into areolae"
+  },
+  {
+    "word": "chondritic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.31,
+    "score": 26.1,
+    "definition": "having a granular structure like that of chondrites"
+  },
+  {
+    "word": "dacitic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.31,
+    "score": 26.1,
+    "definition": "relating to or consisting of dacite"
+  },
+  {
+    "word": "erythropoietic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.31,
+    "score": 26.1,
+    "definition": "of or relating to the formation of red blood cells"
+  },
+  {
+    "word": "homophonous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.31,
+    "score": 26.1,
+    "definition": "characteristic of the phenomenon of words of different origins that are pronounced the same way"
+  },
+  {
+    "word": "postictal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.31,
+    "score": 26.1,
+    "definition": "pertaining to the period following a seizure or convulsion"
+  },
+  {
+    "word": "reparable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.31,
+    "score": 26.1,
+    "definition": "capable of being repaired or rectified"
+  },
+  {
+    "word": "tonsorial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.31,
+    "score": 26.1,
+    "definition": "of or relating to barbers and barbering"
+  },
+  {
+    "word": "unlamented",
+    "partOfSpeech": "adjective",
+    "zipf": 1.31,
+    "score": 26.1,
+    "definition": "not grieved for; causing no mourning"
+  },
+  {
+    "word": "antipodes",
+    "partOfSpeech": "noun",
+    "zipf": 2.2,
+    "score": 26.0,
+    "definition": "any two places or regions on diametrically opposite sides of the Earth"
+  },
+  {
+    "word": "funfair",
+    "partOfSpeech": "noun",
+    "zipf": 2.2,
+    "score": 26.0,
+    "definition": "a commercially operated park with stalls and shows for amusement"
+  },
+  {
+    "word": "masher",
+    "partOfSpeech": "noun",
+    "zipf": 2.2,
+    "score": 26.0,
+    "definition": "a man who is aggressive in making amorous advances to women"
+  },
+  {
+    "word": "sadhu",
+    "partOfSpeech": "noun",
+    "zipf": 2.2,
+    "score": 26.0,
+    "definition": "(Hinduism) an ascetic holy man"
+  },
+  {
+    "word": "shepherdess",
+    "partOfSpeech": "noun",
+    "zipf": 2.2,
+    "score": 26.0,
+    "definition": "a woman shepherd"
+  },
+  {
+    "word": "sugarloaf",
+    "partOfSpeech": "noun",
+    "zipf": 2.2,
+    "score": 26.0,
+    "definition": "a large conical loaf of concentrated refined sugar"
+  },
+  {
+    "word": "masturbator",
+    "partOfSpeech": "noun",
+    "zipf": 2.08,
+    "score": 26.0,
+    "definition": "a person who practices masturbation"
+  },
+  {
+    "word": "stomper",
+    "partOfSpeech": "noun",
+    "zipf": 2.08,
+    "score": 26.0,
+    "definition": "someone who walks with a heavy noisy gait or who stamps on the ground"
+  },
+  {
+    "word": "swashbuckler",
+    "partOfSpeech": "noun",
+    "zipf": 2.08,
+    "score": 26.0,
+    "definition": "a reckless impetuous irresponsible person"
+  },
+  {
+    "word": "aerially",
+    "partOfSpeech": "adverb",
+    "zipf": 1.6,
+    "score": 26.0,
+    "definition": "by means of aircraft"
+  },
+  {
+    "word": "betimes",
+    "partOfSpeech": "adverb",
+    "zipf": 1.6,
+    "score": 26.0,
+    "definition": "in good time"
+  },
+  {
+    "word": "coastwise",
+    "partOfSpeech": "adverb",
+    "zipf": 1.6,
+    "score": 26.0,
+    "definition": "by way of, or along the coast"
+  },
+  {
+    "word": "fatefully",
+    "partOfSpeech": "adverb",
+    "zipf": 1.6,
+    "score": 26.0,
+    "definition": "in a prophetically fateful manner"
+  },
+  {
+    "word": "ibidem",
+    "partOfSpeech": "adverb",
+    "zipf": 1.6,
+    "score": 26.0,
+    "definition": "in the same place (used when citing a reference)"
+  },
+  {
+    "word": "piercingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.6,
+    "score": 26.0,
+    "definition": "extremely and sharply"
+  },
+  {
+    "word": "symptomatically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.6,
+    "score": 26.0,
+    "definition": "by symptoms"
+  },
+  {
+    "word": "temptingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.6,
+    "score": 26.0,
+    "definition": "in a tempting seductive manner"
+  },
+  {
+    "word": "thermostatically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.6,
+    "score": 26.0,
+    "definition": "by thermostat; in a thermostatic manner"
+  },
+  {
+    "word": "vindictively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.6,
+    "score": 26.0,
+    "definition": "in a vindictive, revengeful manner"
+  },
+  {
+    "word": "homewards",
+    "partOfSpeech": "adverb",
+    "zipf": 1.48,
+    "score": 26.0,
+    "definition": "toward home"
+  },
+  {
+    "word": "branchless",
+    "partOfSpeech": "adjective",
+    "zipf": 1.3,
+    "score": 26.0,
+    "definition": "having no branches"
+  },
+  {
+    "word": "capitulary",
+    "partOfSpeech": "adjective",
+    "zipf": 1.3,
+    "score": 26.0,
+    "definition": "of or pertaining to an ecclesiastical chapter"
+  },
+  {
+    "word": "neurotropic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.3,
+    "score": 26.0,
+    "definition": "(of a virus, toxin, or chemical) tending to attack or affect the nervous system preferentially"
+  },
+  {
+    "word": "postnuptial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.3,
+    "score": 26.0,
+    "definition": "relating to events after a marriage"
+  },
+  {
+    "word": "undistinguishable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.3,
+    "score": 26.0,
+    "definition": "not capable of being distinguished or differentiated"
+  },
+  {
+    "word": "ungroomed",
+    "partOfSpeech": "adjective",
+    "zipf": 1.3,
+    "score": 26.0,
+    "definition": "not neat and smart in appearance"
+  },
+  {
+    "word": "unvaried",
+    "partOfSpeech": "adjective",
+    "zipf": 1.3,
+    "score": 26.0,
+    "definition": "lacking variety"
+  },
+  {
+    "word": "unwaxed",
+    "partOfSpeech": "adjective",
+    "zipf": 1.3,
+    "score": 26.0,
+    "definition": "not waxed"
+  },
+  {
+    "word": "autographic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.18,
+    "score": 26.0,
+    "definition": "written in the author's own handwriting"
+  },
+  {
+    "word": "bursar",
+    "partOfSpeech": "noun",
+    "zipf": 2.19,
+    "score": 25.9,
+    "definition": "the treasurer at a college or university"
+  },
+  {
+    "word": "caribe",
+    "partOfSpeech": "noun",
+    "zipf": 2.19,
+    "score": 25.9,
+    "definition": "small voraciously carnivorous freshwater fishes of South America that attack and destroy living animals"
+  },
+  {
+    "word": "handmaid",
+    "partOfSpeech": "noun",
+    "zipf": 2.19,
+    "score": 25.9,
+    "definition": "in a subordinate position"
+  },
+  {
+    "word": "hothead",
+    "partOfSpeech": "noun",
+    "zipf": 2.19,
+    "score": 25.9,
+    "definition": "a belligerent grouch"
+  },
+  {
+    "word": "mnemonics",
+    "partOfSpeech": "noun",
+    "zipf": 2.19,
+    "score": 25.9,
+    "definition": "a method or system for improving the memory"
+  },
+  {
+    "word": "nihil",
+    "partOfSpeech": "noun",
+    "zipf": 2.19,
+    "score": 25.9,
+    "definition": "(Latin) nil; nothing (as used by a sheriff after an unsuccessful effort to serve a writ)"
+  },
+  {
+    "word": "panellist",
+    "partOfSpeech": "noun",
+    "zipf": 2.19,
+    "score": 25.9,
+    "definition": "a member of a panel"
+  },
+  {
+    "word": "rookery",
+    "partOfSpeech": "noun",
+    "zipf": 2.19,
+    "score": 25.9,
+    "definition": "a breeding ground for gregarious birds (such as rooks)"
+  },
+  {
+    "word": "syndicalist",
+    "partOfSpeech": "noun",
+    "zipf": 2.19,
+    "score": 25.9,
+    "definition": "an advocate of anarchism"
+  },
+  {
+    "word": "blasphemer",
+    "partOfSpeech": "noun",
+    "zipf": 2.07,
+    "score": 25.9,
+    "definition": "a person who speaks disrespectfully of sacred things"
+  },
+  {
+    "word": "improver",
+    "partOfSpeech": "noun",
+    "zipf": 2.07,
+    "score": 25.9,
+    "definition": "someone devoted to the promotion of human welfare and to social reforms"
+  },
+  {
+    "word": "martinet",
+    "partOfSpeech": "noun",
+    "zipf": 2.07,
+    "score": 25.9,
+    "definition": "someone who demands exact conformity to rules and forms"
+  },
+  {
+    "word": "cabinetmaker",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 25.9,
+    "definition": "a woodworker who specializes in making furniture"
+  },
+  {
+    "word": "stipendiary",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 25.9,
+    "definition": "(United Kingdom) a paid magistrate (appointed by the Home Secretary) dealing with police cases"
+  },
+  {
+    "word": "fancifully",
+    "partOfSpeech": "adverb",
+    "zipf": 1.59,
+    "score": 25.9,
+    "definition": "in a fanciful manner"
+  },
+  {
+    "word": "hatefully",
+    "partOfSpeech": "adverb",
+    "zipf": 1.59,
+    "score": 25.9,
+    "definition": "in a hateful manner"
+  },
+  {
+    "word": "punitively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.59,
+    "score": 25.9,
+    "definition": "in a punishing manner"
+  },
+  {
+    "word": "thereabout",
+    "partOfSpeech": "adverb",
+    "zipf": 1.59,
+    "score": 25.9,
+    "definition": "near that time or date"
+  },
+  {
+    "word": "adenoidal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.29,
+    "score": 25.9,
+    "definition": "of or pertaining to the adenoids"
+  },
+  {
+    "word": "amaranthine",
+    "partOfSpeech": "adjective",
+    "zipf": 1.29,
+    "score": 25.9,
+    "definition": "of or related to the amaranth plant"
+  },
+  {
+    "word": "caprine",
+    "partOfSpeech": "adjective",
+    "zipf": 1.29,
+    "score": 25.9,
+    "definition": "being or pertaining to or resembling a goat or goats"
+  },
+  {
+    "word": "cislunar",
+    "partOfSpeech": "adjective",
+    "zipf": 1.29,
+    "score": 25.9,
+    "definition": "situated between the earth and the moon"
+  },
+  {
+    "word": "macrocosmic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.29,
+    "score": 25.9,
+    "definition": "relating to or constituting a macrocosm"
+  },
+  {
+    "word": "totipotent",
+    "partOfSpeech": "adjective",
+    "zipf": 1.29,
+    "score": 25.9,
+    "definition": "having the ability to give rise to unlike cells"
+  },
+  {
+    "word": "unsighted",
+    "partOfSpeech": "adjective",
+    "zipf": 1.29,
+    "score": 25.9,
+    "definition": "unable to see; --Kenneth Jernigan"
+  },
+  {
+    "word": "ovoviviparous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.17,
+    "score": 25.9,
+    "definition": "producing living young from eggs that hatch within the body"
+  },
+  {
+    "word": "boeuf",
+    "partOfSpeech": "noun",
+    "zipf": 2.18,
+    "score": 25.8,
+    "definition": "meat from an adult domestic bovine"
+  },
+  {
+    "word": "bugbear",
+    "partOfSpeech": "noun",
+    "zipf": 2.18,
+    "score": 25.8,
+    "definition": "an imaginary monster used to frighten children"
+  },
+  {
+    "word": "daimon",
+    "partOfSpeech": "noun",
+    "zipf": 2.18,
+    "score": 25.8,
+    "definition": "an evil supernatural being"
+  },
+  {
+    "word": "grandee",
+    "partOfSpeech": "noun",
+    "zipf": 2.18,
+    "score": 25.8,
+    "definition": "a nobleman of highest rank in Spain or Portugal"
+  },
+  {
+    "word": "perihelion",
+    "partOfSpeech": "noun",
+    "zipf": 2.18,
+    "score": 25.8,
+    "definition": "periapsis in solar orbit; the point in the orbit of a planet or comet where it is nearest to the sun"
+  },
+  {
+    "word": "pontifex",
+    "partOfSpeech": "noun",
+    "zipf": 2.18,
+    "score": 25.8,
+    "definition": "a member of the highest council of priests in ancient Rome"
+  },
+  {
+    "word": "stitcher",
+    "partOfSpeech": "noun",
+    "zipf": 2.18,
+    "score": 25.8,
+    "definition": "a garmentmaker who performs the finishing steps"
+  },
+  {
+    "word": "compere",
+    "partOfSpeech": "noun",
+    "zipf": 2.06,
+    "score": 25.8,
+    "definition": "British term for someone who introduces television acts or cabarets etc"
+  },
+  {
+    "word": "jailor",
+    "partOfSpeech": "noun",
+    "zipf": 2.06,
+    "score": 25.8,
+    "definition": "someone who guards prisoners"
+  },
+  {
+    "word": "mortgagee",
+    "partOfSpeech": "noun",
+    "zipf": 2.06,
+    "score": 25.8,
+    "definition": "the person who accepts a mortgage"
+  },
+  {
+    "word": "sustainer",
+    "partOfSpeech": "noun",
+    "zipf": 2.06,
+    "score": 25.8,
+    "definition": "someone who upholds or maintains"
+  },
+  {
+    "word": "bindery",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "score": 25.8,
+    "definition": "a workshop where books are bound"
+  },
+  {
+    "word": "esthetician",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "score": 25.8,
+    "definition": "a worker skilled in giving beauty treatments (manicures and facials etc.)"
+  },
+  {
+    "word": "melter",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "score": 25.8,
+    "definition": "a worker who melts substances (metal or wax etc.)"
+  },
+  {
+    "word": "stainer",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "score": 25.8,
+    "definition": "a worker who stains (wood or fabric)"
+  },
+  {
+    "word": "hireling",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 25.8,
+    "definition": "a person who works only for money"
+  },
+  {
+    "word": "garishly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.58,
+    "score": 25.8,
+    "definition": "in a tastelessly garish manner"
+  },
+  {
+    "word": "gratifyingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.58,
+    "score": 25.8,
+    "definition": "in a gratifying manner"
+  },
+  {
+    "word": "lustfully",
+    "partOfSpeech": "adverb",
+    "zipf": 1.58,
+    "score": 25.8,
+    "definition": "in a lustful manner"
+  },
+  {
+    "word": "presciently",
+    "partOfSpeech": "adverb",
+    "zipf": 1.58,
+    "score": 25.8,
+    "definition": "with foresight"
+  },
+  {
+    "word": "raggedly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.58,
+    "score": 25.8,
+    "definition": "in a ragged uneven manner"
+  },
+  {
+    "word": "symbiotically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.58,
+    "score": 25.8,
+    "definition": "in a symbiotic manner"
+  },
+  {
+    "word": "actinomorphic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.28,
+    "score": 25.8,
+    "definition": "capable of division into symmetrical halves by any longitudinal plane passing through the axis"
+  },
+  {
+    "word": "aneuploid",
+    "partOfSpeech": "adjective",
+    "zipf": 1.28,
+    "score": 25.8,
+    "definition": "having a chromosome number that is not an exact multiple of the haploid number"
+  },
+  {
+    "word": "arbitrable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.28,
+    "score": 25.8,
+    "definition": "appropriate for or subject to settlement by arbitration"
+  },
+  {
+    "word": "calculous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.28,
+    "score": 25.8,
+    "definition": "relating to or caused by or having a calculus or calculi"
+  },
+  {
+    "word": "normotensive",
+    "partOfSpeech": "adjective",
+    "zipf": 1.28,
+    "score": 25.8,
+    "definition": "having normal blood pressure"
+  }
+]

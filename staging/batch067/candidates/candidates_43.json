@@ -1,0 +1,702 @@
+[
+  {
+    "word": "cyanosis",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "a bluish discoloration of the skin and mucous membranes; a sign that oxygen in the blood is dangerously diminished (as in carbon monoxide poisoning)"
+  },
+  {
+    "word": "dribbler",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "a basketball player who is dribbling the ball to advance it"
+  },
+  {
+    "word": "endoderm",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "the inner germ layer that develops into the lining of the digestive and respiratory systems"
+  },
+  {
+    "word": "examen",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "a detailed inspection of your conscience (as done daily by Jesuits)"
+  },
+  {
+    "word": "foreleg",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "the forelimb of a quadruped"
+  },
+  {
+    "word": "hypostasis",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "the suppression of a gene by the effect of an unrelated gene"
+  },
+  {
+    "word": "imprecision",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "the quality of lacking precision"
+  },
+  {
+    "word": "kyanite",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "a grey or greenish-blue mineral consisting of aluminum silicate in crystalline form; occurs in metaphoric rock, used as a refractory"
+  },
+  {
+    "word": "licentiousness",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "the quality of being lewd and lascivious"
+  },
+  {
+    "word": "limonene",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "a liquid terpene with a lemon odor; found in lemons and oranges and other essential oils"
+  },
+  {
+    "word": "lysosome",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "an organelle found in the cytoplasm of most cells (especially in leukocytes and liver and kidney cells)"
+  },
+  {
+    "word": "maharani",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "a great rani; a princess in India or the wife of a maharaja"
+  },
+  {
+    "word": "minstrelsy",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "a troupe of minstrels"
+  },
+  {
+    "word": "osteotomy",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "surgical sectioning of bone"
+  },
+  {
+    "word": "outwork",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "subsidiary defensive structure lying outside the main fortified area"
+  },
+  {
+    "word": "papering",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "the application of wallpaper"
+  },
+  {
+    "word": "phosgene",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "a colorless poisonous gas that smells like new-mown hay; used in chemical warfare"
+  },
+  {
+    "word": "physicalism",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "(philosophy) the philosophical theory that matter is the only reality"
+  },
+  {
+    "word": "piffle",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "trivial nonsense"
+  },
+  {
+    "word": "piggery",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "a farm where pigs are raised or kept"
+  },
+  {
+    "word": "pistil",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "the female ovule-bearing part of a flower composed of ovary and style and stigma"
+  },
+  {
+    "word": "planetoid",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "any of numerous small celestial bodies that move around the sun"
+  },
+  {
+    "word": "premolar",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "a tooth having two cusps or points; located between the incisors and the molars"
+  },
+  {
+    "word": "psoas",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "either of two muscles of the abdomen and pelvis that flex the trunk and rotate the thigh"
+  },
+  {
+    "word": "quiescence",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "a state of quiet (but possibly temporary) inaction"
+  },
+  {
+    "word": "relinquishment",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "a verbal act of renouncing a claim or right or position etc."
+  },
+  {
+    "word": "rhomboid",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "a parallelogram with adjacent sides of unequal lengths; an oblique-angled parallelogram with only the opposite sides equal"
+  },
+  {
+    "word": "rondeau",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "a musical form that is often the last movement of a sonata"
+  },
+  {
+    "word": "salivation",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "the secretion of saliva"
+  },
+  {
+    "word": "sauropod",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "very large herbivorous dinosaur of the Jurassic and Cretaceous having a small head a long neck and tail and five-toed limbs; largest known land animal"
+  },
+  {
+    "word": "speedwell",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "any plant of the genus Veronica"
+  },
+  {
+    "word": "subheading",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "a heading of a subdivision of a text"
+  },
+  {
+    "word": "synthesiser",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "an intellectual who synthesizes or uses synthetic methods"
+  },
+  {
+    "word": "tenno",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "the emperor of Japan; when regarded as a religious leader the emperor is called tenno"
+  },
+  {
+    "word": "torchbearer",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "a leader in a campaign or movement"
+  },
+  {
+    "word": "tusker",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "any mammal with prominent tusks (especially an elephant or wild boar)"
+  },
+  {
+    "word": "uncleanness",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "the state of being unsanitary"
+  },
+  {
+    "word": "vanillin",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "a crystalline compound found in vanilla beans and some balsam resins; used in perfumes and flavorings"
+  },
+  {
+    "word": "veldt",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "elevated open grassland in southern Africa"
+  },
+  {
+    "word": "dehiscence",
+    "partOfSpeech": "noun",
+    "zipf": 1.79,
+    "score": 23.1,
+    "definition": "(biology) release of material by splitting open of an organ or tissue; the natural bursting open at maturity of a fruit or other reproductive body to release seeds or spores or the bursting open of a surgically closed wound"
+  },
+  {
+    "word": "filariasis",
+    "partOfSpeech": "noun",
+    "zipf": 1.79,
+    "score": 23.1,
+    "definition": "a disease caused by nematodes in the blood or tissues of the body causing blockage of lymphatic vessels"
+  },
+  {
+    "word": "logotype",
+    "partOfSpeech": "noun",
+    "zipf": 1.79,
+    "score": 23.1,
+    "definition": "a company emblem or device"
+  },
+  {
+    "word": "middlebrow",
+    "partOfSpeech": "noun",
+    "zipf": 1.79,
+    "score": 23.1,
+    "definition": "someone who is neither a highbrow nor a lowbrow"
+  },
+  {
+    "word": "motorcoach",
+    "partOfSpeech": "noun",
+    "zipf": 1.79,
+    "score": 23.1,
+    "definition": "a vehicle carrying many passengers; used for public transport"
+  },
+  {
+    "word": "notepaper",
+    "partOfSpeech": "noun",
+    "zipf": 1.79,
+    "score": 23.1,
+    "definition": "writing paper intended for writing short notes or letters"
+  },
+  {
+    "word": "pharmacopeia",
+    "partOfSpeech": "noun",
+    "zipf": 1.79,
+    "score": 23.1,
+    "definition": "(pharmacology) a book containing a compilation of pharmaceutical products with their formulas and methods of preparation"
+  },
+  {
+    "word": "prole",
+    "partOfSpeech": "noun",
+    "zipf": 1.79,
+    "score": 23.1,
+    "definition": "a member of the working class (not necessarily employed)"
+  },
+  {
+    "word": "spoliation",
+    "partOfSpeech": "noun",
+    "zipf": 1.79,
+    "score": 23.1,
+    "definition": "(law) the intentional destruction of a document or an alteration of it that destroys its value as evidence"
+  },
+  {
+    "word": "teju",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 23.1,
+    "definition": "large (to 3 feet) blackish yellow-banded South American lizard; raid henhouses; used as food"
+  },
+  {
+    "word": "convexly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.31,
+    "score": 23.1,
+    "definition": "in a convex way"
+  },
+  {
+    "word": "dizzily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.31,
+    "score": 23.1,
+    "definition": "in a giddy light-headed manner"
+  },
+  {
+    "word": "farcically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.31,
+    "score": 23.1,
+    "definition": "in a farcical manner"
+  },
+  {
+    "word": "focally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.31,
+    "score": 23.1,
+    "definition": "in a focal manner"
+  },
+  {
+    "word": "lusciously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.31,
+    "score": 23.1,
+    "definition": "so as to produce a delightful taste"
+  },
+  {
+    "word": "opulently",
+    "partOfSpeech": "adverb",
+    "zipf": 1.31,
+    "score": 23.1,
+    "definition": "in a sumptuous and opulent manner"
+  },
+  {
+    "word": "polemically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.31,
+    "score": 23.1,
+    "definition": "involving controversy"
+  },
+  {
+    "word": "precipitately",
+    "partOfSpeech": "adverb",
+    "zipf": 1.31,
+    "score": 23.1,
+    "definition": "at breakneck speed"
+  },
+  {
+    "word": "sombrely",
+    "partOfSpeech": "adverb",
+    "zipf": 1.31,
+    "score": 23.1,
+    "definition": "in a somber manner"
+  },
+  {
+    "word": "sulkily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.31,
+    "score": 23.1,
+    "definition": "in a sulky manner"
+  },
+  {
+    "word": "watchfully",
+    "partOfSpeech": "adverb",
+    "zipf": 1.31,
+    "score": 23.1,
+    "definition": "in a watchful manner"
+  },
+  {
+    "word": "alphanumerical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.01,
+    "score": 23.1,
+    "definition": "of or pertaining to alphanumeric characters"
+  },
+  {
+    "word": "anagrammatic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.01,
+    "score": 23.1,
+    "definition": "related to anagrams or containing or making an anagram"
+  },
+  {
+    "word": "bifilar",
+    "partOfSpeech": "adjective",
+    "zipf": 1.01,
+    "score": 23.1,
+    "definition": "having or using two filaments"
+  },
+  {
+    "word": "cambial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.01,
+    "score": 23.1,
+    "definition": "of or relating to or functioning as a cambium"
+  },
+  {
+    "word": "canalicular",
+    "partOfSpeech": "adjective",
+    "zipf": 1.01,
+    "score": 23.1,
+    "definition": "relating to or like or having a canaliculus"
+  },
+  {
+    "word": "geomorphologic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.01,
+    "score": 23.1,
+    "definition": "pertaining to geological structure"
+  },
+  {
+    "word": "homiletical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.01,
+    "score": 23.1,
+    "definition": "of the nature of a homily or sermon"
+  },
+  {
+    "word": "marmoreal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.01,
+    "score": 23.1,
+    "definition": "of or relating to or characteristic of marble"
+  },
+  {
+    "word": "mediatorial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.01,
+    "score": 23.1,
+    "definition": "of or relating to a mediator or the duties of a mediator"
+  },
+  {
+    "word": "monoatomic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.01,
+    "score": 23.1,
+    "definition": "of or relating to an element consisting of a single atom"
+  },
+  {
+    "word": "prenominal",
+    "partOfSpeech": "adjective",
+    "zipf": 1.01,
+    "score": 23.1,
+    "definition": "of adjectives; placed before the nouns they modify"
+  },
+  {
+    "word": "aloes",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "a purgative made from the leaves of aloe"
+  },
+  {
+    "word": "amblyopia",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "visual impairment without apparent organic pathology"
+  },
+  {
+    "word": "arrester",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "a restraint that slows airplanes as they land on the flight deck of an aircraft carrier"
+  },
+  {
+    "word": "augury",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "an event that is experienced as indicating important things to come"
+  },
+  {
+    "word": "batholith",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "large mass of intrusive igneous rock believed to have solidified deep within the earth"
+  },
+  {
+    "word": "bedclothes",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "coverings that are used on a bed"
+  },
+  {
+    "word": "birefringence",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "splitting a ray into two parallel rays polarized perpendicularly"
+  },
+  {
+    "word": "blaxploitation",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "the exploitation of black people (especially with regard to stereotyped roles in movies)"
+  },
+  {
+    "word": "centerfield",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "the piece of ground in the outfield directly ahead of the catcher"
+  },
+  {
+    "word": "chaplet",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "flower arrangement consisting of a circular band of foliage or flowers for ornamental purposes"
+  },
+  {
+    "word": "chelate",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "a heterocyclic compound having a metal ion attached by coordinate bonds to at least two nonmetal ions"
+  },
+  {
+    "word": "chlorite",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "a generally green or black mineral; it occurs as a constituent of many rocks typically in the form of a flat crystal"
+  },
+  {
+    "word": "copepod",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "minute marine or freshwater crustaceans usually having six pairs of limbs on the thorax; some abundant in plankton and others parasitic on fish"
+  },
+  {
+    "word": "corundum",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "very hard mineral used as an abrasive"
+  },
+  {
+    "word": "cosmologist",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "an astronomer who studies the evolution and space-time relations of the universe"
+  },
+  {
+    "word": "curacy",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "the position of a curate"
+  },
+  {
+    "word": "decarboxylation",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "the process of removing a carboxyl group from a chemical compound (usually replacing it with hydrogen)"
+  },
+  {
+    "word": "denotation",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "the act of indicating or pointing out by name"
+  },
+  {
+    "word": "densification",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "an increase in the density of something"
+  },
+  {
+    "word": "dreck",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "merchandise that is shoddy or inferior"
+  },
+  {
+    "word": "envelopment",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "the act of enclosing something inside something else"
+  },
+  {
+    "word": "episiotomy",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "surgical incision of the perineum to enlarge the vagina and so facilitate delivery during childbirth"
+  },
+  {
+    "word": "exocrine",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "a gland that secretes externally through a duct"
+  },
+  {
+    "word": "fenland",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "low-lying wet land with grassy vegetation; usually is a transition zone between land and water"
+  },
+  {
+    "word": "flashover",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "an unintended electric discharge (as over or around an insulator)"
+  },
+  {
+    "word": "fundament",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "the fundamental assumptions from which something is begun or developed or calculated or explained"
+  },
+  {
+    "word": "homoeopathy",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "a method of treating disease with small amounts of remedies that, in large amounts in healthy people, produce symptoms similar to those being treated"
+  },
+  {
+    "word": "humoring",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "the act of indulging or gratifying a desire"
+  },
+  {
+    "word": "ilmenite",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "a weakly magnetic black mineral found in metamorphic and plutonic rocks; an iron titanium oxide in crystalline form; a source of titanium"
+  }
+]

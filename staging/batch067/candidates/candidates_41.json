@@ -1,0 +1,702 @@
+[
+  {
+    "word": "transaminase",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "score": 23.4,
+    "definition": "a class of transferases that catalyze transamination (that transfer an amino group from an amino acid to another compound)"
+  },
+  {
+    "word": "tsarina",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "score": 23.4,
+    "definition": "the wife or widow of a czar"
+  },
+  {
+    "word": "vacuole",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "score": 23.4,
+    "definition": "a tiny cavity filled with fluid in the cytoplasm of a cell"
+  },
+  {
+    "word": "womaniser",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "score": 23.4,
+    "definition": "a man who likes many women and has short sexual relationships with them"
+  },
+  {
+    "word": "woodcarving",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "score": 23.4,
+    "definition": "a carving created by carving wood"
+  },
+  {
+    "word": "clambake",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 23.4,
+    "definition": "a cookout at the seashore where clams and fish and other foods are cooked--usually on heated stones covered with seaweed"
+  },
+  {
+    "word": "coeval",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 23.4,
+    "definition": "a person of nearly the same age as another"
+  },
+  {
+    "word": "conciseness",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 23.4,
+    "definition": "terseness and economy in writing and speaking achieved by expressing a great deal in just a few words"
+  },
+  {
+    "word": "cookhouse",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 23.4,
+    "definition": "the area for food preparation on a ship"
+  },
+  {
+    "word": "headstand",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 23.4,
+    "definition": "an acrobatic feat in which a person balances on the head (usually with the help of the hands)"
+  },
+  {
+    "word": "hierarch",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 23.4,
+    "definition": "a person who holds a high position in a hierarchy"
+  },
+  {
+    "word": "lathi",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 23.4,
+    "definition": "club consisting of a heavy stick (often bamboo) bound with iron; used by police in India"
+  },
+  {
+    "word": "nucleolus",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 23.4,
+    "definition": "a small round body of protein in a cell nucleus; such organelles contain RNA and are involved in protein synthesis"
+  },
+  {
+    "word": "paleness",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 23.4,
+    "definition": "unnatural lack of color in the skin (as from bruising or sickness or emotional distress)"
+  },
+  {
+    "word": "seeder",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 23.4,
+    "definition": "a person who seeds clouds"
+  },
+  {
+    "word": "similitude",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 23.4,
+    "definition": "similarity in appearance or character or nature between persons or things"
+  },
+  {
+    "word": "wader",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 23.4,
+    "definition": "any of many long-legged birds that wade in water in search of food"
+  },
+  {
+    "word": "washerwoman",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 23.4,
+    "definition": "a working woman who takes in washing"
+  },
+  {
+    "word": "wayfaring",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 23.4,
+    "definition": "traveling (especially on foot)"
+  },
+  {
+    "word": "hudud",
+    "partOfSpeech": "noun",
+    "zipf": 1.7,
+    "score": 23.4,
+    "definition": "Islamic laws stating the limits ordained by Allah and including the deterrent punishments for serious crimes"
+  },
+  {
+    "word": "usurer",
+    "partOfSpeech": "noun",
+    "zipf": 1.7,
+    "score": 23.4,
+    "definition": "someone who lends money at excessive rates of interest"
+  },
+  {
+    "word": "autocratically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.34,
+    "score": 23.4,
+    "definition": "in an overbearingly domineering manner; as a dictator"
+  },
+  {
+    "word": "balefully",
+    "partOfSpeech": "adverb",
+    "zipf": 1.34,
+    "score": 23.4,
+    "definition": "in a baleful manner"
+  },
+  {
+    "word": "departmentally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.34,
+    "score": 23.4,
+    "definition": "dependent on a department"
+  },
+  {
+    "word": "metonymically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.34,
+    "score": 23.4,
+    "definition": "in a metonymic manner"
+  },
+  {
+    "word": "opaquely",
+    "partOfSpeech": "adverb",
+    "zipf": 1.34,
+    "score": 23.4,
+    "definition": "in an opaque manner"
+  },
+  {
+    "word": "terrestrially",
+    "partOfSpeech": "adverb",
+    "zipf": 1.34,
+    "score": 23.4,
+    "definition": "in a worldly manner"
+  },
+  {
+    "word": "tropically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.34,
+    "score": 23.4,
+    "definition": "in a tropical manner"
+  },
+  {
+    "word": "uprightly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.34,
+    "score": 23.4,
+    "definition": "in an honorable manner"
+  },
+  {
+    "word": "atactic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.04,
+    "score": 23.4,
+    "definition": "lacking motor coordination; marked or caused by ataxia"
+  },
+  {
+    "word": "cleistogamous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.04,
+    "score": 23.4,
+    "definition": "exhibiting or relating to cleistogamy"
+  },
+  {
+    "word": "iodised",
+    "partOfSpeech": "adjective",
+    "zipf": 1.04,
+    "score": 23.4,
+    "definition": "treated with iodine"
+  },
+  {
+    "word": "mutative",
+    "partOfSpeech": "adjective",
+    "zipf": 1.04,
+    "score": 23.4,
+    "definition": "of or pertaining to or marked by genetic mutation"
+  },
+  {
+    "word": "neotenous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.04,
+    "score": 23.4,
+    "definition": "of or relating to or characterized by neoteny"
+  },
+  {
+    "word": "postmillennial",
+    "partOfSpeech": "adjective",
+    "zipf": 1.04,
+    "score": 23.4,
+    "definition": "of or relating to the period following the millennium"
+  },
+  {
+    "word": "protrusive",
+    "partOfSpeech": "adjective",
+    "zipf": 1.04,
+    "score": 23.4,
+    "definition": "thrusting outward"
+  },
+  {
+    "word": "pyretic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.04,
+    "score": 23.4,
+    "definition": "causing fever"
+  },
+  {
+    "word": "toxicologic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.04,
+    "score": 23.4,
+    "definition": "of or relating to toxicology"
+  },
+  {
+    "word": "unobligated",
+    "partOfSpeech": "adjective",
+    "zipf": 1.04,
+    "score": 23.4,
+    "definition": "not obligated"
+  },
+  {
+    "word": "anhedonia",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "an inability to experience pleasure"
+  },
+  {
+    "word": "antiperspirant",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "an astringent substance applied to the skin to reduce perspiration"
+  },
+  {
+    "word": "archdeaconry",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "the territorial jurisdiction of an archdeacon"
+  },
+  {
+    "word": "areca",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "any of several tall tropical palms native to southeastern Asia having egg-shaped nuts"
+  },
+  {
+    "word": "asparagine",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "a crystalline amino acid found in proteins and in many plants (e.g., asparagus)"
+  },
+  {
+    "word": "bathymetry",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "measuring the depths of the oceans"
+  },
+  {
+    "word": "breastbone",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "the flat bone that articulates with the clavicles and the first seven pairs of ribs"
+  },
+  {
+    "word": "burthen",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "a variant of `burden'"
+  },
+  {
+    "word": "catarrh",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "inflammation of the nose and throat with increased production of mucus"
+  },
+  {
+    "word": "catechesis",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "oral religious instruction (as before baptism or confirmation)"
+  },
+  {
+    "word": "cattleya",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "any orchid of the genus Cattleya characterized by a three-lobed lip enclosing the column; among the most popular and most extravagantly beautiful orchids known"
+  },
+  {
+    "word": "cauda",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "any taillike structure"
+  },
+  {
+    "word": "codicil",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "a supplement to a will; a testamentary instrument intended to alter an already executed will"
+  },
+  {
+    "word": "cooky",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "the cook on a ranch or at a camp"
+  },
+  {
+    "word": "diorite",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "a granular crystalline intrusive rock"
+  },
+  {
+    "word": "hematuria",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "the presence of blood in the urine; often a symptom of urinary tract disease"
+  },
+  {
+    "word": "holdall",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "a capacious bag or basket"
+  },
+  {
+    "word": "hosier",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "a tradesman who sells hosiery and (in England) knitwear"
+  },
+  {
+    "word": "hypermedia",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "a multimedia system in which related items of information are connected and can be presented together"
+  },
+  {
+    "word": "isoleucine",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "an essential amino acid found in proteins; isomeric with leucine"
+  },
+  {
+    "word": "jackknife",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "a large knife with one or more folding blades"
+  },
+  {
+    "word": "kraal",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "a village of huts for native Africans in southern Africa; usually surrounded by a stockade"
+  },
+  {
+    "word": "lyssa",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "an acute viral disease of the nervous system of warm-blooded animals (usually transmitted by the bite of a rabid animal); rabies is fatal if the virus reaches the brain"
+  },
+  {
+    "word": "meed",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "a fitting reward"
+  },
+  {
+    "word": "mutability",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "the quality of being capable of mutation"
+  },
+  {
+    "word": "neuroma",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "any tumor derived from cells of the nervous system"
+  },
+  {
+    "word": "pallette",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "one of the rounded armor plates at the armpits of a suit of armor"
+  },
+  {
+    "word": "pentacle",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "a star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon"
+  },
+  {
+    "word": "permanganate",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "a dark purple salt of permanganic acid; in water solution it is used as a disinfectant and antiseptic"
+  },
+  {
+    "word": "phial",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "a small bottle that contains a drug (especially a sealed sterile container for injection by needle)"
+  },
+  {
+    "word": "pointlessness",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "total lack of meaning or ideas"
+  },
+  {
+    "word": "promptness",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "the characteristic of doing things without delay"
+  },
+  {
+    "word": "psycholinguistics",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "the branch of cognitive psychology that studies the psychological basis of linguistic competence and performance"
+  },
+  {
+    "word": "puissance",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "power to influence or coerce"
+  },
+  {
+    "word": "quicklime",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "a white crystalline oxide used in the production of calcium hydroxide"
+  },
+  {
+    "word": "reformism",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "a doctrine of reform"
+  },
+  {
+    "word": "rigmarole",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "a set of confused and meaningless statements"
+  },
+  {
+    "word": "ripcord",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "a cord that is pulled to open the gasbag of a balloon wide enough to release gas and so causes the balloon to descend"
+  },
+  {
+    "word": "scaler",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "an electronic pulse counter used to count pulses that occur too rapidly to be recorded individually"
+  },
+  {
+    "word": "semitone",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "the musical interval between adjacent keys on a keyboard instrument"
+  },
+  {
+    "word": "tanager",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "any of numerous New World woodland birds having brightly colored males"
+  },
+  {
+    "word": "tidiness",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "the habit of being tidy"
+  },
+  {
+    "word": "translucency",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "the quality of allowing light to pass diffusely"
+  },
+  {
+    "word": "unworthiness",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "the quality or state of lacking merit or value"
+  },
+  {
+    "word": "vaquero",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "local names for a cowboy (`vaquero' is used especially in southwestern and central Texas and `buckaroo' is used especially in California)"
+  },
+  {
+    "word": "virtu",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "love of or taste for fine objects of art"
+  },
+  {
+    "word": "whalebone",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "a horny material from the upper jaws of certain whales; used as the ribs of fans or as stays in corsets"
+  },
+  {
+    "word": "bootlicker",
+    "partOfSpeech": "noun",
+    "zipf": 1.81,
+    "score": 23.3,
+    "definition": "someone who humbles himself as a sign of respect; who behaves as if he had no self-respect"
+  },
+  {
+    "word": "corticosterone",
+    "partOfSpeech": "noun",
+    "zipf": 1.81,
+    "score": 23.3,
+    "definition": "secreted by the adrenal cortex; involved in regulating water and electrolyte balance in the body"
+  },
+  {
+    "word": "goatherd",
+    "partOfSpeech": "noun",
+    "zipf": 1.81,
+    "score": 23.3,
+    "definition": "a person who tends a flock of goats"
+  },
+  {
+    "word": "guestroom",
+    "partOfSpeech": "noun",
+    "zipf": 1.81,
+    "score": 23.3,
+    "definition": "a bedroom that is kept for the use of guests"
+  },
+  {
+    "word": "listeriosis",
+    "partOfSpeech": "noun",
+    "zipf": 1.81,
+    "score": 23.3,
+    "definition": "an infectious disease of animals and humans (especially newborn or immunosuppressed persons) caused by the bacterium Listeria monocytogenes; in sheep and cattle the infection frequently involves the central nervous system and causes various neurological symptoms"
+  },
+  {
+    "word": "neoconservatism",
+    "partOfSpeech": "noun",
+    "zipf": 1.81,
+    "score": 23.3,
+    "definition": "an approach to politics or theology that represents a return to a traditional point of view (in contrast to more liberal or radical schools of thought of the 1960s)"
+  },
+  {
+    "word": "rescript",
+    "partOfSpeech": "noun",
+    "zipf": 1.81,
+    "score": 23.3,
+    "definition": "a reply by a Pope to an inquiry concerning a point of law or morality"
+  },
+  {
+    "word": "sentimentalist",
+    "partOfSpeech": "noun",
+    "zipf": 1.81,
+    "score": 23.3,
+    "definition": "someone who indulges in excessive sentimentality"
+  },
+  {
+    "word": "layabout",
+    "partOfSpeech": "noun",
+    "zipf": 1.69,
+    "score": 23.3,
+    "definition": "person who does no work"
+  },
+  {
+    "word": "dauntingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.33,
+    "score": 23.3,
+    "definition": "to a degree or in a manner that daunts"
+  },
+  {
+    "word": "malignantly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.33,
+    "score": 23.3,
+    "definition": "in a malignant manner, as of a tumor that spreads"
+  },
+  {
+    "word": "seriatim",
+    "partOfSpeech": "adverb",
+    "zipf": 1.33,
+    "score": 23.3,
+    "definition": "in a series; one after another"
+  },
+  {
+    "word": "vacuously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.33,
+    "score": 23.3,
+    "definition": "in a vacuous manner"
+  },
+  {
+    "word": "allotropic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.03,
+    "score": 23.3,
+    "definition": "of or related to or exhibiting allotropism"
+  }
+]
