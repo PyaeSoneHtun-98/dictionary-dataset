@@ -1,0 +1,1416 @@
+[
+  {
+    "word": "used",
+    "partOfSpeech": "adjective",
+    "zipf": 5.8,
+    "score": 71.0,
+    "definition": "employed in accomplishing something; - H.H.Arnold & I.C.Eaker",
+    "cmu": [
+      "Y",
+      "UW1",
+      "Z",
+      "D"
+    ]
+  },
+  {
+    "word": "harry",
+    "partOfSpeech": "verb",
+    "zipf": 4.72,
+    "score": 65.2,
+    "definition": "annoy continually or chronically",
+    "cmu": [
+      "HH",
+      "EH1",
+      "R",
+      "IY0"
+    ]
+  },
+  {
+    "word": "paid",
+    "partOfSpeech": "adjective",
+    "zipf": 5.12,
+    "score": 64.2,
+    "definition": "marked by the reception of pay",
+    "cmu": [
+      "P",
+      "EY1",
+      "D"
+    ]
+  },
+  {
+    "word": "years",
+    "partOfSpeech": "noun",
+    "zipf": 5.96,
+    "score": 63.6,
+    "definition": "a late time of life",
+    "cmu": [
+      "Y",
+      "IH1",
+      "R",
+      "Z"
+    ]
+  },
+  {
+    "word": "going",
+    "partOfSpeech": "noun",
+    "zipf": 5.94,
+    "score": 63.4,
+    "definition": "the act of departing",
+    "cmu": [
+      "G",
+      "OW1",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "rather",
+    "partOfSpeech": "adverb",
+    "zipf": 5.32,
+    "score": 63.2,
+    "definition": "on the contrary",
+    "cmu": [
+      "R",
+      "AE1",
+      "DH",
+      "ER0"
+    ]
+  },
+  {
+    "word": "interesting",
+    "partOfSpeech": "adjective",
+    "zipf": 5.0,
+    "score": 63.0,
+    "definition": "arousing or holding the attention",
+    "cmu": [
+      "IH1",
+      "N",
+      "T",
+      "R",
+      "AH0",
+      "S",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "loved",
+    "partOfSpeech": "adjective",
+    "zipf": 5.0,
+    "score": 63.0,
+    "definition": "held dear",
+    "cmu": [
+      "L",
+      "AH1",
+      "V",
+      "D"
+    ]
+  },
+  {
+    "word": "sometimes",
+    "partOfSpeech": "adverb",
+    "zipf": 5.28,
+    "score": 62.8,
+    "definition": "on certain occasions or in certain cases but not always",
+    "cmu": [
+      "S",
+      "AH0",
+      "M",
+      "T",
+      "AY1",
+      "M",
+      "Z"
+    ]
+  },
+  {
+    "word": "posted",
+    "partOfSpeech": "adjective",
+    "zipf": 4.97,
+    "score": 62.7,
+    "definition": "publicly announced",
+    "cmu": [
+      "P",
+      "OW1",
+      "S",
+      "T",
+      "IH0",
+      "D"
+    ]
+  },
+  {
+    "word": "interested",
+    "partOfSpeech": "adjective",
+    "zipf": 4.95,
+    "score": 62.5,
+    "definition": "having or showing interest; especially curiosity or fascination or concern",
+    "cmu": [
+      "IH1",
+      "N",
+      "T",
+      "R",
+      "AH0",
+      "S",
+      "T",
+      "IH0",
+      "D"
+    ]
+  },
+  {
+    "word": "greater",
+    "partOfSpeech": "adjective",
+    "zipf": 4.9,
+    "score": 62.0,
+    "definition": "greater in size or importance or degree",
+    "cmu": [
+      "G",
+      "R",
+      "EY1",
+      "T",
+      "ER0"
+    ]
+  },
+  {
+    "word": "better",
+    "partOfSpeech": "noun",
+    "zipf": 5.76,
+    "score": 61.6,
+    "definition": "something superior in quality or condition or effect",
+    "cmu": [
+      "B",
+      "EH1",
+      "T",
+      "ER0"
+    ]
+  },
+  {
+    "word": "signed",
+    "partOfSpeech": "adjective",
+    "zipf": 4.85,
+    "score": 61.5,
+    "definition": "having a handwritten signature",
+    "cmu": [
+      "S",
+      "AY1",
+      "N",
+      "D"
+    ]
+  },
+  {
+    "word": "days",
+    "partOfSpeech": "noun",
+    "zipf": 5.61,
+    "score": 61.3,
+    "definition": "the time during which someone's life continues",
+    "cmu": [
+      "D",
+      "EY1",
+      "Z"
+    ]
+  },
+  {
+    "word": "company",
+    "partOfSpeech": "noun",
+    "zipf": 5.6,
+    "score": 61.2,
+    "definition": "an institution created to conduct business",
+    "cmu": [
+      "K",
+      "AH1",
+      "M",
+      "P",
+      "AH0",
+      "N",
+      "IY2"
+    ]
+  },
+  {
+    "word": "recorded",
+    "partOfSpeech": "adjective",
+    "zipf": 4.66,
+    "score": 60.8,
+    "definition": "set down or registered in a permanent form especially on film or tape for reproduction",
+    "cmu": [
+      "R",
+      "AH0",
+      "K",
+      "AO1",
+      "R",
+      "D",
+      "IH0",
+      "D"
+    ]
+  },
+  {
+    "word": "liked",
+    "partOfSpeech": "adjective",
+    "zipf": 4.76,
+    "score": 60.6,
+    "definition": "found pleasant or attractive; often used as a combining form",
+    "cmu": [
+      "L",
+      "AY1",
+      "K",
+      "T"
+    ]
+  },
+  {
+    "word": "owned",
+    "partOfSpeech": "adjective",
+    "zipf": 4.76,
+    "score": 60.6,
+    "definition": "having an owner; often used in combination",
+    "cmu": [
+      "OW1",
+      "N",
+      "D"
+    ]
+  },
+  {
+    "word": "using",
+    "partOfSpeech": "noun",
+    "zipf": 5.47,
+    "score": 59.9,
+    "definition": "an act that exploits or victimizes someone (treats them unfairly)",
+    "cmu": [
+      "Y",
+      "UW1",
+      "Z",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "listed",
+    "partOfSpeech": "adjective",
+    "zipf": 4.69,
+    "score": 59.9,
+    "definition": "on a list",
+    "cmu": [
+      "L",
+      "IH1",
+      "S",
+      "T",
+      "AH0",
+      "D"
+    ]
+  },
+  {
+    "word": "getting",
+    "partOfSpeech": "noun",
+    "zipf": 5.57,
+    "score": 59.7,
+    "definition": "the act of acquiring something",
+    "cmu": [
+      "G",
+      "EH1",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "times",
+    "partOfSpeech": "noun",
+    "zipf": 5.56,
+    "score": 59.6,
+    "definition": "a more or less definite period of time now or previously present",
+    "cmu": [
+      "T",
+      "AY1",
+      "M",
+      "Z"
+    ]
+  },
+  {
+    "word": "case",
+    "partOfSpeech": "noun",
+    "zipf": 5.55,
+    "score": 59.5,
+    "definition": "an occurrence of something",
+    "cmu": [
+      "K",
+      "EY1",
+      "S"
+    ]
+  },
+  {
+    "word": "registered",
+    "partOfSpeech": "adjective",
+    "zipf": 4.52,
+    "score": 59.4,
+    "definition": "(of animals) officially recorded with or certified by a recognized breed association; especially in a stud book",
+    "cmu": [
+      "R",
+      "EH1",
+      "JH",
+      "IH0",
+      "S",
+      "T",
+      "ER0",
+      "D"
+    ]
+  },
+  {
+    "word": "hours",
+    "partOfSpeech": "noun",
+    "zipf": 5.4,
+    "score": 59.2,
+    "definition": "a period of time assigned for work",
+    "cmu": [
+      "AW1",
+      "ER0",
+      "Z"
+    ]
+  },
+  {
+    "word": "loving",
+    "partOfSpeech": "adjective",
+    "zipf": 4.47,
+    "score": 58.9,
+    "definition": "feeling or showing love and affection",
+    "cmu": [
+      "L",
+      "AH1",
+      "V",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "saying",
+    "partOfSpeech": "noun",
+    "zipf": 5.37,
+    "score": 57.7,
+    "definition": "a word or phrase that particular people use in particular situations",
+    "cmu": [
+      "S",
+      "EY1",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "wait",
+    "partOfSpeech": "noun",
+    "zipf": 5.35,
+    "score": 57.5,
+    "definition": "time during which some action is awaited",
+    "cmu": [
+      "W",
+      "EY1",
+      "T"
+    ]
+  },
+  {
+    "word": "scheduled",
+    "partOfSpeech": "adjective",
+    "zipf": 4.45,
+    "score": 57.5,
+    "definition": "planned or scheduled for some certain time or times",
+    "cmu": [
+      "S",
+      "K",
+      "EH1",
+      "JH",
+      "UH0",
+      "L",
+      "D"
+    ]
+  },
+  {
+    "word": "morning",
+    "partOfSpeech": "noun",
+    "zipf": 5.33,
+    "score": 57.3,
+    "definition": "the time period between dawn and noon",
+    "cmu": [
+      "M",
+      "AO1",
+      "R",
+      "N",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "minutes",
+    "partOfSpeech": "noun",
+    "zipf": 5.31,
+    "score": 57.1,
+    "definition": "a written account of what transpired at a meeting",
+    "cmu": [
+      "M",
+      "IH1",
+      "N",
+      "AH0",
+      "T",
+      "S"
+    ]
+  },
+  {
+    "word": "longer",
+    "partOfSpeech": "noun",
+    "zipf": 5.16,
+    "score": 56.8,
+    "definition": "a person with a strong desire for something",
+    "cmu": [
+      "L",
+      "AO1",
+      "NG",
+      "G",
+      "ER0"
+    ]
+  },
+  {
+    "word": "straight",
+    "partOfSpeech": "noun",
+    "zipf": 5.04,
+    "score": 56.8,
+    "definition": "a heterosexual person; someone having a sexual orientation to persons of the opposite sex",
+    "cmu": [
+      "S",
+      "T",
+      "R",
+      "EY1",
+      "T"
+    ]
+  },
+  {
+    "word": "shaped",
+    "partOfSpeech": "adjective",
+    "zipf": 4.38,
+    "score": 56.8,
+    "definition": "having the shape of",
+    "cmu": [
+      "SH",
+      "EY1",
+      "P",
+      "T"
+    ]
+  },
+  {
+    "word": "words",
+    "partOfSpeech": "noun",
+    "zipf": 5.25,
+    "score": 56.5,
+    "definition": "the words that are spoken",
+    "cmu": [
+      "W",
+      "ER1",
+      "D",
+      "Z"
+    ]
+  },
+  {
+    "word": "painted",
+    "partOfSpeech": "adjective",
+    "zipf": 4.35,
+    "score": 56.5,
+    "definition": "coated with paint",
+    "cmu": [
+      "P",
+      "EY1",
+      "N",
+      "T",
+      "IH0",
+      "D"
+    ]
+  },
+  {
+    "word": "running",
+    "partOfSpeech": "noun",
+    "zipf": 5.23,
+    "score": 56.3,
+    "definition": "(American football) a play in which a player attempts to carry the ball through or past the opposing team",
+    "cmu": [
+      "R",
+      "AH1",
+      "N",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "date",
+    "partOfSpeech": "noun",
+    "zipf": 5.22,
+    "score": 56.2,
+    "definition": "the specified day of the month",
+    "cmu": [
+      "D",
+      "EY1",
+      "T"
+    ]
+  },
+  {
+    "word": "surprising",
+    "partOfSpeech": "adjective",
+    "zipf": 4.28,
+    "score": 55.8,
+    "definition": "causing surprise or wonder or amazement",
+    "cmu": [
+      "S",
+      "ER0",
+      "P",
+      "R",
+      "AY1",
+      "Z",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "sized",
+    "partOfSpeech": "adjective",
+    "zipf": 4.27,
+    "score": 55.7,
+    "definition": "having a specified size",
+    "cmu": [
+      "S",
+      "AY1",
+      "Z",
+      "D"
+    ]
+  },
+  {
+    "word": "landed",
+    "partOfSpeech": "adjective",
+    "zipf": 4.24,
+    "score": 55.4,
+    "definition": "owning or consisting of land or real estate",
+    "cmu": [
+      "L",
+      "AE1",
+      "N",
+      "D",
+      "AH0",
+      "D"
+    ]
+  },
+  {
+    "word": "beat",
+    "partOfSpeech": "noun",
+    "zipf": 5.01,
+    "score": 55.3,
+    "definition": "a regular route for a sentry or policeman",
+    "cmu": [
+      "B",
+      "IY1",
+      "T"
+    ]
+  },
+  {
+    "word": "cancelled",
+    "partOfSpeech": "adjective",
+    "zipf": 4.22,
+    "score": 55.2,
+    "definition": "(of events) no longer planned or scheduled",
+    "cmu": [
+      "K",
+      "AE1",
+      "N",
+      "S",
+      "AH0",
+      "L",
+      "D"
+    ]
+  },
+  {
+    "word": "beaten",
+    "partOfSpeech": "adjective",
+    "zipf": 4.21,
+    "score": 55.1,
+    "definition": "formed or made thin by hammering",
+    "cmu": [
+      "B",
+      "IY1",
+      "T",
+      "AH0",
+      "N"
+    ]
+  },
+  {
+    "word": "terms",
+    "partOfSpeech": "noun",
+    "zipf": 5.1,
+    "score": 55.0,
+    "definition": "status with respect to the relations between people or groups",
+    "cmu": [
+      "T",
+      "ER1",
+      "M",
+      "Z"
+    ]
+  },
+  {
+    "word": "figure",
+    "partOfSpeech": "noun",
+    "zipf": 5.07,
+    "score": 54.7,
+    "definition": "a diagram or picture illustrating textual material",
+    "cmu": [
+      "F",
+      "IH1",
+      "G",
+      "Y",
+      "ER0"
+    ]
+  },
+  {
+    "word": "parts",
+    "partOfSpeech": "noun",
+    "zipf": 5.07,
+    "score": 54.7,
+    "definition": "the local environment",
+    "cmu": [
+      "P",
+      "AA1",
+      "R",
+      "T",
+      "S"
+    ]
+  },
+  {
+    "word": "waiting",
+    "partOfSpeech": "noun",
+    "zipf": 5.06,
+    "score": 54.6,
+    "definition": "the act of waiting (remaining inactive in one place while expecting something)",
+    "cmu": [
+      "W",
+      "EY1",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "ways",
+    "partOfSpeech": "noun",
+    "zipf": 5.06,
+    "score": 54.6,
+    "definition": "structure consisting of a sloping way down to the water from the place where ships are built or repaired",
+    "cmu": [
+      "W",
+      "EY1",
+      "Z"
+    ]
+  },
+  {
+    "word": "sporting",
+    "partOfSpeech": "adjective",
+    "zipf": 4.16,
+    "score": 54.6,
+    "definition": "relating to or used in sports",
+    "cmu": [
+      "S",
+      "P",
+      "AO1",
+      "R",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "suspected",
+    "partOfSpeech": "adjective",
+    "zipf": 4.15,
+    "score": 54.5,
+    "definition": "believed likely",
+    "cmu": [
+      "S",
+      "AH0",
+      "S",
+      "P",
+      "EH1",
+      "K",
+      "T",
+      "IH0",
+      "D"
+    ]
+  },
+  {
+    "word": "seeing",
+    "partOfSpeech": "noun",
+    "zipf": 5.04,
+    "score": 54.4,
+    "definition": "perception by means of the eyes",
+    "cmu": [
+      "S",
+      "IY1",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "graduated",
+    "partOfSpeech": "adjective",
+    "zipf": 4.14,
+    "score": 54.4,
+    "definition": "marked with or divided into degrees",
+    "cmu": [
+      "G",
+      "R",
+      "AE1",
+      "JH",
+      "UW0",
+      "EY2",
+      "T",
+      "IH0",
+      "D"
+    ]
+  },
+  {
+    "word": "fitted",
+    "partOfSpeech": "adjective",
+    "zipf": 4.13,
+    "score": 54.3,
+    "definition": "being the right size and shape to fit as desired",
+    "cmu": [
+      "F",
+      "IH1",
+      "T",
+      "AH0",
+      "D"
+    ]
+  },
+  {
+    "word": "seated",
+    "partOfSpeech": "adjective",
+    "zipf": 3.89,
+    "score": 54.3,
+    "definition": "(of persons) having the torso erect and legs bent with the body supported on the buttocks",
+    "cmu": [
+      "S",
+      "IY1",
+      "T",
+      "IH0",
+      "D"
+    ]
+  },
+  {
+    "word": "sales",
+    "partOfSpeech": "noun",
+    "zipf": 5.02,
+    "score": 54.2,
+    "definition": "income (at invoice values) received for goods and services over some given period of time",
+    "cmu": [
+      "S",
+      "EY1",
+      "L",
+      "Z"
+    ]
+  },
+  {
+    "word": "oriented",
+    "partOfSpeech": "adjective",
+    "zipf": 4.12,
+    "score": 54.2,
+    "definition": "adjusted or located in relation to surroundings or circumstances; sometimes used in combination",
+    "cmu": [
+      "AO1",
+      "R",
+      "IY0",
+      "EH2",
+      "N",
+      "T",
+      "AH0",
+      "D"
+    ]
+  },
+  {
+    "word": "leading",
+    "partOfSpeech": "noun",
+    "zipf": 5.0,
+    "score": 54.0,
+    "definition": "thin strip of metal used to separate lines of type in printing",
+    "cmu": [
+      "L",
+      "IY1",
+      "D",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "drop",
+    "partOfSpeech": "noun",
+    "zipf": 4.99,
+    "score": 53.9,
+    "definition": "a shape that is spherical and small",
+    "cmu": [
+      "D",
+      "R",
+      "AA1",
+      "P"
+    ]
+  },
+  {
+    "word": "winning",
+    "partOfSpeech": "noun",
+    "zipf": 4.98,
+    "score": 53.8,
+    "definition": "succeeding with great difficulty",
+    "cmu": [
+      "W",
+      "IH1",
+      "N",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "lined",
+    "partOfSpeech": "adjective",
+    "zipf": 4.08,
+    "score": 53.8,
+    "definition": "having a lining or a liner; often used in combination",
+    "cmu": [
+      "L",
+      "AY1",
+      "N",
+      "D"
+    ]
+  },
+  {
+    "word": "eating",
+    "partOfSpeech": "noun",
+    "zipf": 4.85,
+    "score": 53.7,
+    "definition": "the act of consuming food",
+    "cmu": [
+      "IY1",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "asking",
+    "partOfSpeech": "noun",
+    "zipf": 4.96,
+    "score": 53.6,
+    "definition": "the verbal act of requesting",
+    "cmu": [
+      "AE1",
+      "S",
+      "K",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "planted",
+    "partOfSpeech": "adjective",
+    "zipf": 4.04,
+    "score": 53.4,
+    "definition": "set in the soil for growth",
+    "cmu": [
+      "P",
+      "L",
+      "AE1",
+      "N",
+      "T",
+      "IH0",
+      "D"
+    ]
+  },
+  {
+    "word": "latest",
+    "partOfSpeech": "noun",
+    "zipf": 4.92,
+    "score": 53.2,
+    "definition": "the most recent news or development",
+    "cmu": [
+      "L",
+      "EY1",
+      "T",
+      "AH0",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "word": "spring",
+    "partOfSpeech": "noun",
+    "zipf": 4.92,
+    "score": 53.2,
+    "definition": "the season of growth",
+    "cmu": [
+      "S",
+      "P",
+      "R",
+      "IH1",
+      "NG"
+    ]
+  },
+  {
+    "word": "mike",
+    "partOfSpeech": "noun",
+    "zipf": 4.8,
+    "score": 53.2,
+    "definition": "device for converting sound waves into electrical energy",
+    "cmu": [
+      "M",
+      "AY1",
+      "K"
+    ]
+  },
+  {
+    "word": "values",
+    "partOfSpeech": "noun",
+    "zipf": 4.67,
+    "score": 53.1,
+    "definition": "beliefs of a person or social group in which they have an emotional investment (either for or against something)",
+    "cmu": [
+      "V",
+      "AE1",
+      "L",
+      "Y",
+      "UW0",
+      "Z"
+    ]
+  },
+  {
+    "word": "documented",
+    "partOfSpeech": "adjective",
+    "zipf": 4.0,
+    "score": 53.0,
+    "definition": "furnished with or supported by documents",
+    "cmu": [
+      "D",
+      "AA1",
+      "K",
+      "Y",
+      "AH0",
+      "M",
+      "EH2",
+      "N",
+      "T",
+      "AH0",
+      "D"
+    ]
+  },
+  {
+    "word": "lots",
+    "partOfSpeech": "noun",
+    "zipf": 4.88,
+    "score": 52.8,
+    "definition": "a large number or amount",
+    "cmu": [
+      "L",
+      "AA1",
+      "T",
+      "S"
+    ]
+  },
+  {
+    "word": "rates",
+    "partOfSpeech": "noun",
+    "zipf": 4.88,
+    "score": 52.8,
+    "definition": "a local tax on property (usually used in the plural)",
+    "cmu": [
+      "R",
+      "EY1",
+      "T",
+      "S"
+    ]
+  },
+  {
+    "word": "rounded",
+    "partOfSpeech": "adjective",
+    "zipf": 3.98,
+    "score": 52.8,
+    "definition": "curving and somewhat round in shape rather than jagged",
+    "cmu": [
+      "R",
+      "AW1",
+      "N",
+      "D",
+      "AH0",
+      "D"
+    ]
+  },
+  {
+    "word": "catch",
+    "partOfSpeech": "noun",
+    "zipf": 4.87,
+    "score": 52.7,
+    "definition": "a drawback or difficulty that is not readily evident",
+    "cmu": [
+      "K",
+      "AE1",
+      "CH"
+    ]
+  },
+  {
+    "word": "evening",
+    "partOfSpeech": "noun",
+    "zipf": 4.86,
+    "score": 52.6,
+    "definition": "the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)",
+    "cmu": [
+      "IY1",
+      "V",
+      "N",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "sitting",
+    "partOfSpeech": "noun",
+    "zipf": 4.86,
+    "score": 52.6,
+    "definition": "(photography) the act of assuming a certain position (as for a photograph or portrait)",
+    "cmu": [
+      "S",
+      "IH1",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "commissioned",
+    "partOfSpeech": "adjective",
+    "zipf": 3.96,
+    "score": 52.6,
+    "definition": "(of military officers) holding by virtue of a commission a rank of second lieutenant or ensign or above",
+    "cmu": [
+      "K",
+      "AH0",
+      "M",
+      "IH1",
+      "SH",
+      "AH0",
+      "N",
+      "D"
+    ]
+  },
+  {
+    "word": "closer",
+    "partOfSpeech": "noun",
+    "zipf": 4.73,
+    "score": 52.5,
+    "definition": "a person who closes something",
+    "cmu": [
+      "K",
+      "L",
+      "OW1",
+      "S",
+      "ER0"
+    ]
+  },
+  {
+    "word": "staged",
+    "partOfSpeech": "adjective",
+    "zipf": 3.83,
+    "score": 52.5,
+    "definition": "written for or performed on the stage",
+    "cmu": [
+      "S",
+      "T",
+      "EY1",
+      "JH",
+      "D"
+    ]
+  },
+  {
+    "word": "acting",
+    "partOfSpeech": "noun",
+    "zipf": 4.82,
+    "score": 52.2,
+    "definition": "the performance of a part or role in a drama",
+    "cmu": [
+      "AE1",
+      "K",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "dick",
+    "partOfSpeech": "noun",
+    "zipf": 4.7,
+    "score": 52.2,
+    "definition": "someone who is a detective",
+    "cmu": [
+      "D",
+      "IH1",
+      "K"
+    ]
+  },
+  {
+    "word": "longest",
+    "partOfSpeech": "adverb",
+    "zipf": 4.22,
+    "score": 52.2,
+    "definition": "for the most time",
+    "cmu": [
+      "L",
+      "AO1",
+      "NG",
+      "G",
+      "AH0",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "word": "coloured",
+    "partOfSpeech": "adjective",
+    "zipf": 3.92,
+    "score": 52.2,
+    "definition": "having color or a certain color; sometimes used in combination",
+    "cmu": [
+      "K",
+      "AH1",
+      "L",
+      "ER0",
+      "D"
+    ]
+  },
+  {
+    "word": "topped",
+    "partOfSpeech": "adjective",
+    "zipf": 3.92,
+    "score": 52.2,
+    "definition": "having a top of a specified character",
+    "cmu": [
+      "T",
+      "AA1",
+      "P",
+      "T"
+    ]
+  },
+  {
+    "word": "closest",
+    "partOfSpeech": "adverb",
+    "zipf": 4.21,
+    "score": 52.1,
+    "definition": "(superlative of `near' or `close') within the shortest distance",
+    "cmu": [
+      "K",
+      "L",
+      "OW1",
+      "S",
+      "AH0",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "word": "labeled",
+    "partOfSpeech": "adjective",
+    "zipf": 3.91,
+    "score": 52.1,
+    "definition": "bearing or marked with a label or tag",
+    "cmu": [
+      "L",
+      "EY1",
+      "B",
+      "AH0",
+      "L",
+      "D"
+    ]
+  },
+  {
+    "word": "parked",
+    "partOfSpeech": "adjective",
+    "zipf": 3.91,
+    "score": 52.1,
+    "definition": "that have been left",
+    "cmu": [
+      "P",
+      "AA1",
+      "R",
+      "K",
+      "T"
+    ]
+  },
+  {
+    "word": "contracted",
+    "partOfSpeech": "adjective",
+    "zipf": 3.89,
+    "score": 51.9,
+    "definition": "reduced in size or pulled together",
+    "cmu": [
+      "K",
+      "AA1",
+      "N",
+      "T",
+      "R",
+      "AE0",
+      "K",
+      "T",
+      "AH0",
+      "D"
+    ]
+  },
+  {
+    "word": "welch",
+    "partOfSpeech": "verb",
+    "zipf": 3.37,
+    "score": 51.7,
+    "definition": "cheat by avoiding payment of a gambling debt",
+    "cmu": [
+      "W",
+      "EH1",
+      "L",
+      "CH"
+    ]
+  },
+  {
+    "word": "buying",
+    "partOfSpeech": "noun",
+    "zipf": 4.75,
+    "score": 51.5,
+    "definition": "the act of buying",
+    "cmu": [
+      "B",
+      "AY1",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "eggs",
+    "partOfSpeech": "noun",
+    "zipf": 4.5,
+    "score": 51.4,
+    "definition": "oval reproductive body of a fowl (especially a hen) used as food",
+    "cmu": [
+      "EH1",
+      "G",
+      "Z"
+    ]
+  },
+  {
+    "word": "branded",
+    "partOfSpeech": "adjective",
+    "zipf": 3.84,
+    "score": 51.4,
+    "definition": "marked with a brand",
+    "cmu": [
+      "B",
+      "R",
+      "AE1",
+      "N",
+      "D",
+      "IH0",
+      "D"
+    ]
+  },
+  {
+    "word": "steps",
+    "partOfSpeech": "noun",
+    "zipf": 4.73,
+    "score": 51.3,
+    "definition": "a flight of stairs or a flight of steps",
+    "cmu": [
+      "S",
+      "T",
+      "EH1",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "word": "cutting",
+    "partOfSpeech": "noun",
+    "zipf": 4.61,
+    "score": 51.3,
+    "definition": "the activity of selecting the scenes to be shown and putting them together to create a film",
+    "cmu": [
+      "K",
+      "AH1",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "curved",
+    "partOfSpeech": "adjective",
+    "zipf": 3.83,
+    "score": 51.3,
+    "definition": "having or marked by a curve or smoothly rounded bend",
+    "cmu": [
+      "K",
+      "ER1",
+      "V",
+      "D"
+    ]
+  },
+  {
+    "word": "tagged",
+    "partOfSpeech": "adjective",
+    "zipf": 3.82,
+    "score": 51.2,
+    "definition": "bearing or marked with a label or tag",
+    "cmu": [
+      "T",
+      "AE1",
+      "G",
+      "D"
+    ]
+  },
+  {
+    "word": "arts",
+    "partOfSpeech": "noun",
+    "zipf": 4.7,
+    "score": 51.0,
+    "definition": "studies intended to provide general knowledge and intellectual skills (rather than occupational or professional skills)",
+    "cmu": [
+      "AA1",
+      "R",
+      "T",
+      "S"
+    ]
+  },
+  {
+    "word": "dating",
+    "partOfSpeech": "noun",
+    "zipf": 4.7,
+    "score": 51.0,
+    "definition": "use of chemical analysis to estimate the age of geological specimens",
+    "cmu": [
+      "D",
+      "EY1",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "teeth",
+    "partOfSpeech": "noun",
+    "zipf": 4.58,
+    "score": 51.0,
+    "definition": "the kind and number and arrangement of teeth (collectively) in a person or animal",
+    "cmu": [
+      "T",
+      "IY1",
+      "TH"
+    ]
+  },
+  {
+    "word": "stained",
+    "partOfSpeech": "adjective",
+    "zipf": 3.79,
+    "score": 50.9,
+    "definition": "marked or dyed or discolored with foreign matter",
+    "cmu": [
+      "S",
+      "T",
+      "EY1",
+      "N",
+      "D"
+    ]
+  }
+]

@@ -1,0 +1,1488 @@
+[
+  {
+    "word": "frizzle",
+    "partOfSpeech": "verb",
+    "zipf": 1.9,
+    "score": 37.0,
+    "definition": "fry something until it curls and becomes crisp",
+    "cmu": [
+      "F",
+      "R",
+      "IH1",
+      "Z",
+      "AH0",
+      "L"
+    ]
+  },
+  {
+    "word": "rioting",
+    "partOfSpeech": "noun",
+    "zipf": 3.27,
+    "score": 36.7,
+    "definition": "a state of disorder involving group violence",
+    "cmu": [
+      "R",
+      "AY1",
+      "AH0",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "seventies",
+    "partOfSpeech": "noun",
+    "zipf": 3.27,
+    "score": 36.7,
+    "definition": "the decade from 1970 to 1979",
+    "cmu": [
+      "S",
+      "EH1",
+      "V",
+      "AH0",
+      "N",
+      "T",
+      "IY0",
+      "Z"
+    ]
+  },
+  {
+    "word": "edging",
+    "partOfSpeech": "noun",
+    "zipf": 3.15,
+    "score": 36.7,
+    "definition": "border consisting of anything placed on the edge to finish something (such as a fringe on clothing or on a rug)",
+    "cmu": [
+      "EH1",
+      "JH",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "ridged",
+    "partOfSpeech": "adjective",
+    "zipf": 2.37,
+    "score": 36.7,
+    "definition": "having a ridge or shaped like a ridge or suggesting the keel of a ship",
+    "cmu": [
+      "R",
+      "IH1",
+      "JH",
+      "D"
+    ]
+  },
+  {
+    "word": "grounding",
+    "partOfSpeech": "noun",
+    "zipf": 3.26,
+    "score": 36.6,
+    "definition": "education or instruction in the fundamentals of a field of knowledge",
+    "cmu": [
+      "G",
+      "R",
+      "AW1",
+      "N",
+      "D",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "narrowing",
+    "partOfSpeech": "noun",
+    "zipf": 3.25,
+    "score": 36.5,
+    "definition": "an instance of becoming narrow",
+    "cmu": [
+      "N",
+      "EH1",
+      "R",
+      "OW0",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "pinning",
+    "partOfSpeech": "noun",
+    "zipf": 3.13,
+    "score": 36.5,
+    "definition": "a mutual promise of a couple not to date anyone else; on college campuses it was once signaled by the giving of a fraternity pin",
+    "cmu": [
+      "P",
+      "IH1",
+      "N",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "branching",
+    "partOfSpeech": "noun",
+    "zipf": 3.24,
+    "score": 36.4,
+    "definition": "the act of branching out or dividing into branches",
+    "cmu": [
+      "B",
+      "R",
+      "AE1",
+      "N",
+      "CH",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "netting",
+    "partOfSpeech": "noun",
+    "zipf": 3.24,
+    "score": 36.4,
+    "definition": "a net of transparent fabric with a loose open weave",
+    "cmu": [
+      "N",
+      "EH1",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "taping",
+    "partOfSpeech": "noun",
+    "zipf": 3.24,
+    "score": 36.4,
+    "definition": "a recording made on magnetic tape",
+    "cmu": [
+      "T",
+      "EY1",
+      "P",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "voicing",
+    "partOfSpeech": "noun",
+    "zipf": 3.24,
+    "score": 36.4,
+    "definition": "the act of adjusting an organ pipe (or wind instrument) so that it conforms to the standards of tone and pitch and color",
+    "cmu": [
+      "V",
+      "OY1",
+      "S",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "bracing",
+    "partOfSpeech": "noun",
+    "zipf": 3.12,
+    "score": 36.4,
+    "definition": "a structural member used to stiffen a framework",
+    "cmu": [
+      "B",
+      "R",
+      "EY1",
+      "S",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "courting",
+    "partOfSpeech": "noun",
+    "zipf": 3.11,
+    "score": 36.3,
+    "definition": "a man's courting of a woman; seeking the affections of a woman (usually with the hope of marriage)",
+    "cmu": [
+      "K",
+      "AO1",
+      "R",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "fives",
+    "partOfSpeech": "noun",
+    "zipf": 3.11,
+    "score": 36.3,
+    "definition": "a game resembling handball; played on a court with a front wall and two side walls",
+    "cmu": [
+      "F",
+      "AY1",
+      "V",
+      "Z"
+    ]
+  },
+  {
+    "word": "drumming",
+    "partOfSpeech": "noun",
+    "zipf": 3.22,
+    "score": 36.2,
+    "definition": "the act of playing drums",
+    "cmu": [
+      "D",
+      "R",
+      "AH1",
+      "M",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "eighties",
+    "partOfSpeech": "noun",
+    "zipf": 3.22,
+    "score": 36.2,
+    "definition": "the decade from 1880 to 1889",
+    "cmu": [
+      "EY1",
+      "T",
+      "IY0",
+      "Z"
+    ]
+  },
+  {
+    "word": "leveling",
+    "partOfSpeech": "noun",
+    "zipf": 3.22,
+    "score": 36.2,
+    "definition": "changing the ground level to a smooth horizontal or gently sloping surface",
+    "cmu": [
+      "L",
+      "EH1",
+      "V",
+      "AH0",
+      "L",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "serge",
+    "partOfSpeech": "noun",
+    "zipf": 3.22,
+    "score": 36.2,
+    "definition": "a twilled woolen fabric",
+    "cmu": [
+      "S",
+      "ER1",
+      "JH"
+    ]
+  },
+  {
+    "word": "sevens",
+    "partOfSpeech": "noun",
+    "zipf": 3.22,
+    "score": 36.2,
+    "definition": "a card game in which you play your sevens and other cards in sequence in the same suit as the sevens; you win if you are the first to use all your cards",
+    "cmu": [
+      "S",
+      "EH1",
+      "V",
+      "AH0",
+      "N",
+      "Z"
+    ]
+  },
+  {
+    "word": "diagnostics",
+    "partOfSpeech": "noun",
+    "zipf": 3.21,
+    "score": 36.1,
+    "definition": "the branch of medical science dealing with the classification of disease",
+    "cmu": [
+      "D",
+      "AY2",
+      "AH0",
+      "G",
+      "N",
+      "AA1",
+      "S",
+      "T",
+      "IH0",
+      "K",
+      "S"
+    ]
+  },
+  {
+    "word": "jerking",
+    "partOfSpeech": "noun",
+    "zipf": 3.21,
+    "score": 36.1,
+    "definition": "an abrupt spasmodic movement",
+    "cmu": [
+      "JH",
+      "ER1",
+      "K",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "lagging",
+    "partOfSpeech": "noun",
+    "zipf": 3.21,
+    "score": 36.1,
+    "definition": "used to wrap around pipes or boilers or laid in attics to prevent loss of heat",
+    "cmu": [
+      "L",
+      "AE1",
+      "G",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "staining",
+    "partOfSpeech": "noun",
+    "zipf": 3.21,
+    "score": 36.1,
+    "definition": "(histology) the use of a dye to color specimens for microscopic study",
+    "cmu": [
+      "S",
+      "T",
+      "EY1",
+      "N",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "penciled",
+    "partOfSpeech": "adjective",
+    "zipf": 2.31,
+    "score": 36.1,
+    "definition": "drawn or written with a pencil",
+    "cmu": [
+      "P",
+      "EH1",
+      "N",
+      "S",
+      "AH0",
+      "L",
+      "D"
+    ]
+  },
+  {
+    "word": "consort",
+    "partOfSpeech": "noun",
+    "zipf": 3.2,
+    "score": 36.0,
+    "definition": "the husband or wife of a reigning monarch",
+    "cmu": [
+      "K",
+      "AH0",
+      "N",
+      "S",
+      "AO1",
+      "R",
+      "T"
+    ]
+  },
+  {
+    "word": "sizing",
+    "partOfSpeech": "noun",
+    "zipf": 3.2,
+    "score": 36.0,
+    "definition": "any glutinous material used to fill pores in surfaces or to stiffen fabrics",
+    "cmu": [
+      "S",
+      "AY1",
+      "Z",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "clipping",
+    "partOfSpeech": "noun",
+    "zipf": 3.19,
+    "score": 35.9,
+    "definition": "an excerpt cut from a newspaper or magazine",
+    "cmu": [
+      "K",
+      "L",
+      "IH1",
+      "P",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "sprawling",
+    "partOfSpeech": "noun",
+    "zipf": 3.19,
+    "score": 35.9,
+    "definition": "an ungainly posture with arms and legs spread about",
+    "cmu": [
+      "S",
+      "P",
+      "R",
+      "AO1",
+      "L",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "britt",
+    "partOfSpeech": "noun",
+    "zipf": 3.18,
+    "score": 35.8,
+    "definition": "the young of a herring or sprat or similar fish",
+    "cmu": [
+      "B",
+      "R",
+      "IH1",
+      "T"
+    ]
+  },
+  {
+    "word": "indexing",
+    "partOfSpeech": "noun",
+    "zipf": 3.18,
+    "score": 35.8,
+    "definition": "the act of classifying and providing an index in order to make items easier to retrieve",
+    "cmu": [
+      "IH1",
+      "N",
+      "D",
+      "EH0",
+      "K",
+      "S",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "stalling",
+    "partOfSpeech": "noun",
+    "zipf": 3.18,
+    "score": 35.8,
+    "definition": "a tactic used to mislead or delay",
+    "cmu": [
+      "S",
+      "T",
+      "AO1",
+      "L",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "disinclined",
+    "partOfSpeech": "adjective",
+    "zipf": 2.28,
+    "score": 35.8,
+    "definition": "unwilling because of mild dislike or disapproval",
+    "cmu": [
+      "D",
+      "IH2",
+      "S",
+      "IH0",
+      "N",
+      "K",
+      "L",
+      "AY1",
+      "N",
+      "D"
+    ]
+  },
+  {
+    "word": "leavened",
+    "partOfSpeech": "adjective",
+    "zipf": 2.27,
+    "score": 35.7,
+    "definition": "made light by aerating, as with yeast or baking powder; often used as a combining form",
+    "cmu": [
+      "L",
+      "EH1",
+      "V",
+      "AH0",
+      "N",
+      "D"
+    ]
+  },
+  {
+    "word": "chipping",
+    "partOfSpeech": "noun",
+    "zipf": 3.16,
+    "score": 35.6,
+    "definition": "the act of chipping something",
+    "cmu": [
+      "CH",
+      "IH1",
+      "P",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "parttime",
+    "partOfSpeech": "adjective",
+    "zipf": 2.26,
+    "score": 35.6,
+    "definition": "involving less than the standard or customary time for an activity",
+    "cmu": [
+      "P",
+      "AA1",
+      "R",
+      "T",
+      "T",
+      "AY2",
+      "M"
+    ]
+  },
+  {
+    "word": "vitiate",
+    "partOfSpeech": "verb",
+    "zipf": 1.76,
+    "score": 35.6,
+    "definition": "corrupt morally or by intemperance or sensuality",
+    "cmu": [
+      "V",
+      "IY1",
+      "SH",
+      "IH0",
+      "EY2",
+      "T"
+    ]
+  },
+  {
+    "word": "skateboarding",
+    "partOfSpeech": "noun",
+    "zipf": 3.15,
+    "score": 35.5,
+    "definition": "the sport of skating on a skateboard",
+    "cmu": [
+      "S",
+      "K",
+      "EY1",
+      "T",
+      "B",
+      "AO2",
+      "R",
+      "D",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "membered",
+    "partOfSpeech": "adjective",
+    "zipf": 2.25,
+    "score": 35.5,
+    "definition": "having members; normally used in chemistry in combination with a number",
+    "cmu": [
+      "M",
+      "EH1",
+      "M",
+      "B",
+      "ER0",
+      "D"
+    ]
+  },
+  {
+    "word": "nineties",
+    "partOfSpeech": "noun",
+    "zipf": 3.14,
+    "score": 35.4,
+    "definition": "the decade from 1890 to 1899",
+    "cmu": [
+      "N",
+      "AY1",
+      "N",
+      "T",
+      "IY0",
+      "Z"
+    ]
+  },
+  {
+    "word": "plating",
+    "partOfSpeech": "noun",
+    "zipf": 3.14,
+    "score": 35.4,
+    "definition": "a thin coating of metal deposited on a surface",
+    "cmu": [
+      "P",
+      "L",
+      "EY1",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "stroking",
+    "partOfSpeech": "noun",
+    "zipf": 3.14,
+    "score": 35.4,
+    "definition": "a light touch with the hands",
+    "cmu": [
+      "S",
+      "T",
+      "R",
+      "OW1",
+      "K",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "thinning",
+    "partOfSpeech": "noun",
+    "zipf": 3.14,
+    "score": 35.4,
+    "definition": "the act of diluting something",
+    "cmu": [
+      "TH",
+      "IH1",
+      "N",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "venting",
+    "partOfSpeech": "noun",
+    "zipf": 3.14,
+    "score": 35.4,
+    "definition": "the act of venting",
+    "cmu": [
+      "V",
+      "EH1",
+      "N",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "leveraging",
+    "partOfSpeech": "noun",
+    "zipf": 3.02,
+    "score": 35.4,
+    "definition": "investing with borrowed money as a way to amplify potential gains (at the risk of greater losses)",
+    "cmu": [
+      "L",
+      "EH1",
+      "V",
+      "R",
+      "IH0",
+      "JH",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "shay",
+    "partOfSpeech": "noun",
+    "zipf": 3.13,
+    "score": 35.3,
+    "definition": "a carriage consisting of two wheels and a calash top; drawn by a single horse",
+    "cmu": [
+      "SH",
+      "EY1"
+    ]
+  },
+  {
+    "word": "tapering",
+    "partOfSpeech": "noun",
+    "zipf": 3.13,
+    "score": 35.3,
+    "definition": "the act of gradually lowering the size or amount",
+    "cmu": [
+      "T",
+      "EY1",
+      "P",
+      "ER0",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "looping",
+    "partOfSpeech": "noun",
+    "zipf": 3.01,
+    "score": 35.3,
+    "definition": "(computer science) executing the same set of instructions a given number of times or until a specified result is obtained",
+    "cmu": [
+      "L",
+      "UW1",
+      "P",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "glassed",
+    "partOfSpeech": "adjective",
+    "zipf": 2.23,
+    "score": 35.3,
+    "definition": "fitted or covered with glass",
+    "cmu": [
+      "G",
+      "L",
+      "AE1",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "word": "limbed",
+    "partOfSpeech": "adjective",
+    "zipf": 2.23,
+    "score": 35.3,
+    "definition": "having or as if having limbs, especially limbs of a specified kind (usually used in combination)",
+    "cmu": [
+      "L",
+      "IH1",
+      "M",
+      "D"
+    ]
+  },
+  {
+    "word": "emulsify",
+    "partOfSpeech": "verb",
+    "zipf": 1.73,
+    "score": 35.3,
+    "definition": "cause to become an emulsion; make into an emulsion",
+    "cmu": [
+      "IH0",
+      "M",
+      "AH1",
+      "L",
+      "S",
+      "AH0",
+      "F",
+      "AY0"
+    ]
+  },
+  {
+    "word": "forswear",
+    "partOfSpeech": "verb",
+    "zipf": 1.73,
+    "score": 35.3,
+    "definition": "formally reject or disavow a formerly held belief, usually under pressure",
+    "cmu": [
+      "F",
+      "AO0",
+      "R",
+      "S",
+      "W",
+      "EH1",
+      "R"
+    ]
+  },
+  {
+    "word": "ancients",
+    "partOfSpeech": "noun",
+    "zipf": 3.12,
+    "score": 35.2,
+    "definition": "people who lived in times long past (especially during the historical period before the fall of the Roman Empire in western Europe)",
+    "cmu": [
+      "EY1",
+      "N",
+      "CH",
+      "AH0",
+      "N",
+      "T",
+      "S"
+    ]
+  },
+  {
+    "word": "looney",
+    "partOfSpeech": "noun",
+    "zipf": 3.0,
+    "score": 35.2,
+    "definition": "someone deranged and possibly dangerous",
+    "cmu": [
+      "L",
+      "UW1",
+      "N",
+      "IY0"
+    ]
+  },
+  {
+    "word": "shambles",
+    "partOfSpeech": "noun",
+    "zipf": 3.11,
+    "score": 35.1,
+    "definition": "a condition of great disorder",
+    "cmu": [
+      "SH",
+      "AE1",
+      "M",
+      "B",
+      "AH0",
+      "L",
+      "Z"
+    ]
+  },
+  {
+    "word": "spectacles",
+    "partOfSpeech": "noun",
+    "zipf": 3.11,
+    "score": 35.1,
+    "definition": "optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision",
+    "cmu": [
+      "S",
+      "P",
+      "EH1",
+      "K",
+      "T",
+      "AH0",
+      "K",
+      "AH0",
+      "L",
+      "Z"
+    ]
+  },
+  {
+    "word": "wailing",
+    "partOfSpeech": "noun",
+    "zipf": 3.11,
+    "score": 35.1,
+    "definition": "loud cries made while weeping",
+    "cmu": [
+      "W",
+      "EY1",
+      "L",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "emmet",
+    "partOfSpeech": "noun",
+    "zipf": 2.87,
+    "score": 35.1,
+    "definition": "social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers",
+    "cmu": [
+      "EH1",
+      "M",
+      "IH0",
+      "T"
+    ]
+  },
+  {
+    "word": "checkers",
+    "partOfSpeech": "noun",
+    "zipf": 3.1,
+    "score": 35.0,
+    "definition": "a checkerboard game for two players who each have 12 pieces; the object is to jump over and so capture the opponent's pieces",
+    "cmu": [
+      "CH",
+      "EH1",
+      "K",
+      "ER0",
+      "Z"
+    ]
+  },
+  {
+    "word": "gleaming",
+    "partOfSpeech": "noun",
+    "zipf": 3.1,
+    "score": 35.0,
+    "definition": "a flash of light (especially reflected light)",
+    "cmu": [
+      "G",
+      "L",
+      "IY1",
+      "M",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "ironing",
+    "partOfSpeech": "noun",
+    "zipf": 3.1,
+    "score": 35.0,
+    "definition": "garments (clothes or linens) that are to be (or have been) ironed",
+    "cmu": [
+      "AY1",
+      "ER0",
+      "N",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "rearing",
+    "partOfSpeech": "noun",
+    "zipf": 3.1,
+    "score": 35.0,
+    "definition": "the properties acquired as a consequence of the way you were treated as a child",
+    "cmu": [
+      "R",
+      "IH1",
+      "R",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "rockers",
+    "partOfSpeech": "noun",
+    "zipf": 3.1,
+    "score": 35.0,
+    "definition": "originally a British youth subculture that evolved out of the teddy boys in the 1960s; wore black leather jackets and jeans and boots; had greased hair and rode motorcycles and listened to rock'n'roll; were largely unskilled manual laborers",
+    "cmu": [
+      "R",
+      "AA1",
+      "K",
+      "ER0",
+      "Z"
+    ]
+  },
+  {
+    "word": "punks",
+    "partOfSpeech": "noun",
+    "zipf": 2.98,
+    "score": 35.0,
+    "definition": "a youth subculture closely associated with punk rock music in the late 1970s; in part a reaction to the hippy subculture; dress was optional but intended to shock (plastic garbage bags or old school uniforms) and hair was dyed in bright colors (in Mohican haircuts or sometimes spiked in bright plumes)",
+    "cmu": [
+      "P",
+      "AH1",
+      "NG",
+      "K",
+      "S"
+    ]
+  },
+  {
+    "word": "angelica",
+    "partOfSpeech": "noun",
+    "zipf": 3.09,
+    "score": 34.9,
+    "definition": "any of various tall and stout herbs of the genus Angelica having pinnately compound leaves and small white or greenish flowers in compound umbels",
+    "cmu": [
+      "AE0",
+      "N",
+      "JH",
+      "EH1",
+      "L",
+      "IH0",
+      "K",
+      "AH0"
+    ]
+  },
+  {
+    "word": "splashing",
+    "partOfSpeech": "noun",
+    "zipf": 3.09,
+    "score": 34.9,
+    "definition": "the act of splashing a (liquid) substance on a surface",
+    "cmu": [
+      "S",
+      "P",
+      "L",
+      "AE1",
+      "SH",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "emptying",
+    "partOfSpeech": "noun",
+    "zipf": 3.08,
+    "score": 34.8,
+    "definition": "the act of removing the contents of something",
+    "cmu": [
+      "EH1",
+      "M",
+      "P",
+      "T",
+      "IY0",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "sacking",
+    "partOfSpeech": "noun",
+    "zipf": 3.07,
+    "score": 34.7,
+    "definition": "coarse fabric used for bags or sacks",
+    "cmu": [
+      "S",
+      "AE1",
+      "K",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "mahatma",
+    "partOfSpeech": "noun",
+    "zipf": 3.06,
+    "score": 34.6,
+    "definition": "(Hinduism) term of respect for a brahmin sage",
+    "cmu": [
+      "M",
+      "AH0",
+      "HH",
+      "AA1",
+      "T",
+      "M",
+      "AH0"
+    ]
+  },
+  {
+    "word": "thieve",
+    "partOfSpeech": "verb",
+    "zipf": 1.66,
+    "score": 34.6,
+    "definition": "take by theft",
+    "cmu": [
+      "TH",
+      "IY1",
+      "V"
+    ]
+  },
+  {
+    "word": "crowding",
+    "partOfSpeech": "noun",
+    "zipf": 3.05,
+    "score": 34.5,
+    "definition": "a situation in which people or things are crowded together",
+    "cmu": [
+      "K",
+      "R",
+      "AW1",
+      "D",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "petting",
+    "partOfSpeech": "noun",
+    "zipf": 3.05,
+    "score": 34.5,
+    "definition": "affectionate play (or foreplay without contact with the genital organs)",
+    "cmu": [
+      "P",
+      "EH1",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "tailoring",
+    "partOfSpeech": "noun",
+    "zipf": 3.05,
+    "score": 34.5,
+    "definition": "the occupation of a tailor",
+    "cmu": [
+      "T",
+      "EY1",
+      "L",
+      "ER0",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "sodomize",
+    "partOfSpeech": "verb",
+    "zipf": 1.65,
+    "score": 34.5,
+    "definition": "copulate with an animal",
+    "cmu": [
+      "S",
+      "AO1",
+      "D",
+      "AH0",
+      "M",
+      "AY2",
+      "Z"
+    ]
+  },
+  {
+    "word": "masted",
+    "partOfSpeech": "adjective",
+    "zipf": 2.14,
+    "score": 34.4,
+    "definition": "having or furnished with a mast; often used in combination; - S.E.Morrison",
+    "cmu": [
+      "M",
+      "AE1",
+      "S",
+      "T",
+      "AH0",
+      "D"
+    ]
+  },
+  {
+    "word": "clustering",
+    "partOfSpeech": "noun",
+    "zipf": 3.03,
+    "score": 34.3,
+    "definition": "a grouping of a number of similar things",
+    "cmu": [
+      "K",
+      "L",
+      "AH1",
+      "S",
+      "T",
+      "ER0",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "fingering",
+    "partOfSpeech": "noun",
+    "zipf": 3.03,
+    "score": 34.3,
+    "definition": "the placement of the fingers for playing different notes (or sequences of notes) on a musical instrument",
+    "cmu": [
+      "F",
+      "IH1",
+      "NG",
+      "G",
+      "ER0",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "fresher",
+    "partOfSpeech": "noun",
+    "zipf": 3.02,
+    "score": 34.2,
+    "definition": "a first-year undergraduate",
+    "cmu": [
+      "F",
+      "R",
+      "EH1",
+      "SH",
+      "ER0"
+    ]
+  },
+  {
+    "word": "smacking",
+    "partOfSpeech": "noun",
+    "zipf": 3.02,
+    "score": 34.2,
+    "definition": "the act of smacking something; a blow delivered with an open hand",
+    "cmu": [
+      "S",
+      "M",
+      "AE1",
+      "K",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "trimmer",
+    "partOfSpeech": "noun",
+    "zipf": 2.78,
+    "score": 34.2,
+    "definition": "a worker who thins out and trims trees and shrubs",
+    "cmu": [
+      "T",
+      "R",
+      "IH1",
+      "M",
+      "ER0"
+    ]
+  },
+  {
+    "word": "angling",
+    "partOfSpeech": "noun",
+    "zipf": 3.01,
+    "score": 34.1,
+    "definition": "fishing with a hook and line (and usually a pole)",
+    "cmu": [
+      "AE1",
+      "NG",
+      "G",
+      "L",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "baiting",
+    "partOfSpeech": "noun",
+    "zipf": 3.01,
+    "score": 34.1,
+    "definition": "harassment especially of a tethered animal",
+    "cmu": [
+      "B",
+      "EY1",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "spiegel",
+    "partOfSpeech": "noun",
+    "zipf": 3.01,
+    "score": 34.1,
+    "definition": "pig iron containing manganese; used as a deoxidizing agent and to raise the manganese content in making steel",
+    "cmu": [
+      "S",
+      "P",
+      "IY1",
+      "G",
+      "AH0",
+      "L"
+    ]
+  },
+  {
+    "word": "combing",
+    "partOfSpeech": "noun",
+    "zipf": 3.0,
+    "score": 34.0,
+    "definition": "the act of drawing a comb through hair",
+    "cmu": [
+      "K",
+      "OW1",
+      "M",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "motoring",
+    "partOfSpeech": "noun",
+    "zipf": 3.0,
+    "score": 34.0,
+    "definition": "the act of driving an automobile",
+    "cmu": [
+      "M",
+      "OW1",
+      "T",
+      "ER0",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "pitting",
+    "partOfSpeech": "noun",
+    "zipf": 3.0,
+    "score": 34.0,
+    "definition": "the formation of small pits in a surface as a consequence of corrosion",
+    "cmu": [
+      "P",
+      "IH1",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "clubbing",
+    "partOfSpeech": "noun",
+    "zipf": 2.99,
+    "score": 33.9,
+    "definition": "a condition in which the ends of toes and fingers become wide and thick; a symptom of heart or lung disease",
+    "cmu": [
+      "K",
+      "L",
+      "AH1",
+      "B",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "rani",
+    "partOfSpeech": "noun",
+    "zipf": 2.99,
+    "score": 33.9,
+    "definition": "(the feminine of raja) a Hindu princess or the wife of a raja",
+    "cmu": [
+      "R",
+      "AA1",
+      "N",
+      "IY0"
+    ]
+  },
+  {
+    "word": "twitching",
+    "partOfSpeech": "noun",
+    "zipf": 2.99,
+    "score": 33.9,
+    "definition": "a sudden muscle spasm; especially one caused by a nervous condition",
+    "cmu": [
+      "T",
+      "W",
+      "IH1",
+      "CH",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "slacker",
+    "partOfSpeech": "noun",
+    "zipf": 2.75,
+    "score": 33.9,
+    "definition": "a person who shirks his work or duty (especially one who tries to evade military service in wartime)",
+    "cmu": [
+      "S",
+      "L",
+      "AE1",
+      "K",
+      "ER0"
+    ]
+  },
+  {
+    "word": "sough",
+    "partOfSpeech": "verb",
+    "zipf": 1.59,
+    "score": 33.9,
+    "definition": "make a murmuring sound",
+    "cmu": [
+      "S",
+      "AW1",
+      "F"
+    ]
+  },
+  {
+    "word": "weighting",
+    "partOfSpeech": "noun",
+    "zipf": 2.98,
+    "score": 33.8,
+    "definition": "(statistics) a coefficient assigned to elements of a frequency distribution in order to represent their relative importance",
+    "cmu": [
+      "W",
+      "EY1",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "splicing",
+    "partOfSpeech": "noun",
+    "zipf": 2.86,
+    "score": 33.8,
+    "definition": "a junction where two things (as paper or film or magnetic tape) have been joined together",
+    "cmu": [
+      "S",
+      "P",
+      "L",
+      "AY1",
+      "S",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "baring",
+    "partOfSpeech": "noun",
+    "zipf": 2.97,
+    "score": 33.7,
+    "definition": "the removal of covering",
+    "cmu": [
+      "B",
+      "EH1",
+      "R",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "farting",
+    "partOfSpeech": "noun",
+    "zipf": 2.97,
+    "score": 33.7,
+    "definition": "a reflex that expels intestinal gas through the anus",
+    "cmu": [
+      "F",
+      "AA1",
+      "R",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "thieving",
+    "partOfSpeech": "noun",
+    "zipf": 2.73,
+    "score": 33.7,
+    "definition": "the act of taking something from someone unlawfully",
+    "cmu": [
+      "TH",
+      "IY1",
+      "V",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "hedging",
+    "partOfSpeech": "noun",
+    "zipf": 2.96,
+    "score": 33.6,
+    "definition": "any technique designed to reduce or eliminate financial risk; for example, taking two positions that will offset each other if prices change",
+    "cmu": [
+      "HH",
+      "EH1",
+      "JH",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "oreo",
+    "partOfSpeech": "noun",
+    "zipf": 2.96,
+    "score": 33.6,
+    "definition": "chocolate cookie with white cream filling",
+    "cmu": [
+      "AO1",
+      "R",
+      "IY0",
+      "OW0"
+    ]
+  },
+  {
+    "word": "rumbling",
+    "partOfSpeech": "noun",
+    "zipf": 2.96,
+    "score": 33.6,
+    "definition": "a loud low dull continuous noise",
+    "cmu": [
+      "R",
+      "AH1",
+      "M",
+      "B",
+      "AH0",
+      "L",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "soldering",
+    "partOfSpeech": "noun",
+    "zipf": 2.96,
+    "score": 33.6,
+    "definition": "fastening firmly together",
+    "cmu": [
+      "S",
+      "AA1",
+      "D",
+      "ER0",
+      "IH0",
+      "NG"
+    ]
+  }
+]

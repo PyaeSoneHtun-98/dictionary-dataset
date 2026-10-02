@@ -1,0 +1,1563 @@
+[
+  {
+    "word": "hindquarters",
+    "partOfSpeech": "noun",
+    "zipf": 2.13,
+    "score": 26.5,
+    "definition": "the fleshy part of the human body that you sit on",
+    "cmu": [
+      "HH",
+      "AY1",
+      "N",
+      "D",
+      "K",
+      "W",
+      "AO2",
+      "R",
+      "T",
+      "ER0",
+      "Z"
+    ]
+  },
+  {
+    "word": "molting",
+    "partOfSpeech": "noun",
+    "zipf": 2.23,
+    "score": 26.3,
+    "definition": "periodic shedding of the cuticle in arthropods or the outer skin in reptiles",
+    "cmu": [
+      "M",
+      "OW1",
+      "L",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "suturing",
+    "partOfSpeech": "noun",
+    "zipf": 2.23,
+    "score": 26.3,
+    "definition": "surgical joining of two surfaces",
+    "cmu": [
+      "S",
+      "UW1",
+      "CH",
+      "ER0",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "elbowing",
+    "partOfSpeech": "noun",
+    "zipf": 2.22,
+    "score": 26.2,
+    "definition": "jostling with the elbows",
+    "cmu": [
+      "EH1",
+      "L",
+      "B",
+      "OW2",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "overworking",
+    "partOfSpeech": "noun",
+    "zipf": 2.09,
+    "score": 26.1,
+    "definition": "the act of working too much or too long",
+    "cmu": [
+      "OW2",
+      "V",
+      "ER0",
+      "W",
+      "ER1",
+      "K",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "oftener",
+    "partOfSpeech": "adverb",
+    "zipf": 1.61,
+    "score": 26.1,
+    "definition": "more often or more frequently",
+    "cmu": [
+      "AO1",
+      "F",
+      "AH0",
+      "N",
+      "ER0"
+    ]
+  },
+  {
+    "word": "antipodes",
+    "partOfSpeech": "noun",
+    "zipf": 2.2,
+    "score": 26.0,
+    "definition": "any two places or regions on diametrically opposite sides of the Earth",
+    "cmu": [
+      "AE2",
+      "N",
+      "T",
+      "IH0",
+      "P",
+      "OW2",
+      "D",
+      "IY0",
+      "Z"
+    ]
+  },
+  {
+    "word": "caribe",
+    "partOfSpeech": "noun",
+    "zipf": 2.19,
+    "score": 25.9,
+    "definition": "small voraciously carnivorous freshwater fishes of South America that attack and destroy living animals",
+    "cmu": [
+      "K",
+      "EH2",
+      "R",
+      "IY1",
+      "B"
+    ]
+  },
+  {
+    "word": "mnemonics",
+    "partOfSpeech": "noun",
+    "zipf": 2.19,
+    "score": 25.9,
+    "definition": "a method or system for improving the memory",
+    "cmu": [
+      "N",
+      "IH0",
+      "M",
+      "AA1",
+      "N",
+      "IH0",
+      "K",
+      "S"
+    ]
+  },
+  {
+    "word": "ovoviviparous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.17,
+    "score": 25.9,
+    "definition": "producing living young from eggs that hatch within the body",
+    "cmu": [
+      "OW2",
+      "V",
+      "OW2",
+      "V",
+      "AY2",
+      "V",
+      "IH1",
+      "P",
+      "ER0",
+      "AH0",
+      "S"
+    ]
+  },
+  {
+    "word": "souring",
+    "partOfSpeech": "noun",
+    "zipf": 2.16,
+    "score": 25.6,
+    "definition": "the process of becoming sour",
+    "cmu": [
+      "S",
+      "AW1",
+      "ER0",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "leavening",
+    "partOfSpeech": "noun",
+    "zipf": 2.04,
+    "score": 25.6,
+    "definition": "an influence that works subtly to lighten or modify something",
+    "cmu": [
+      "L",
+      "EH1",
+      "V",
+      "AH0",
+      "N",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "splattering",
+    "partOfSpeech": "noun",
+    "zipf": 2.15,
+    "score": 25.5,
+    "definition": "the noise of something spattering or sputtering explosively",
+    "cmu": [
+      "S",
+      "P",
+      "L",
+      "AE1",
+      "T",
+      "AH0",
+      "R",
+      "IH2",
+      "NG"
+    ]
+  },
+  {
+    "word": "yodeling",
+    "partOfSpeech": "noun",
+    "zipf": 2.15,
+    "score": 25.5,
+    "definition": "singing by changing back and forth between the chest voice and a falsetto",
+    "cmu": [
+      "Y",
+      "OW1",
+      "D",
+      "AH0",
+      "L",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "neritic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.25,
+    "score": 25.5,
+    "definition": "of or relating to the region of the sea over the continental shelf which is less than 200 meters deep",
+    "cmu": [
+      "N",
+      "ER0",
+      "IH1",
+      "T",
+      "IH0",
+      "K"
+    ]
+  },
+  {
+    "word": "yelping",
+    "partOfSpeech": "noun",
+    "zipf": 2.14,
+    "score": 25.4,
+    "definition": "a sharp high-pitched cry (especially by a dog)",
+    "cmu": [
+      "Y",
+      "EH1",
+      "L",
+      "P",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "barbecuing",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 25.2,
+    "definition": "roasting a large piece of meat on a revolving spit out of doors over an open fire",
+    "cmu": [
+      "B",
+      "AA1",
+      "R",
+      "B",
+      "IH0",
+      "K",
+      "Y",
+      "UW2",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "boxcars",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 25.2,
+    "definition": "(usually plural) an expression used when two dice are thrown and both come up showing six spots",
+    "cmu": [
+      "B",
+      "AA1",
+      "K",
+      "S",
+      "K",
+      "AA2",
+      "R",
+      "Z"
+    ]
+  },
+  {
+    "word": "dowsing",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 25.2,
+    "definition": "searching for underground water or minerals by using a dowsing rod",
+    "cmu": [
+      "D",
+      "AW1",
+      "S",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "hurdling",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 25.2,
+    "definition": "a footrace in which contestants must negotiate a series of hurdles",
+    "cmu": [
+      "HH",
+      "ER1",
+      "D",
+      "AH0",
+      "L",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "leafing",
+    "partOfSpeech": "noun",
+    "zipf": 2.12,
+    "score": 25.2,
+    "definition": "(botany) the process of forming leaves",
+    "cmu": [
+      "L",
+      "IY1",
+      "F",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "togs",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 25.2,
+    "definition": "informal terms for clothing",
+    "cmu": [
+      "T",
+      "AA1",
+      "G",
+      "Z"
+    ]
+  },
+  {
+    "word": "reseda",
+    "partOfSpeech": "noun",
+    "zipf": 2.11,
+    "score": 25.1,
+    "definition": "any plant of the genus Reseda",
+    "cmu": [
+      "R",
+      "EH0",
+      "S",
+      "EY1",
+      "D",
+      "AH0"
+    ]
+  },
+  {
+    "word": "veiling",
+    "partOfSpeech": "noun",
+    "zipf": 2.11,
+    "score": 25.1,
+    "definition": "a net of transparent fabric with a loose open weave",
+    "cmu": [
+      "V",
+      "EY1",
+      "L",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "reshuffling",
+    "partOfSpeech": "noun",
+    "zipf": 2.1,
+    "score": 25.0,
+    "definition": "shuffling again",
+    "cmu": [
+      "R",
+      "IY0",
+      "SH",
+      "AH1",
+      "F",
+      "AH0",
+      "L",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "quadrupling",
+    "partOfSpeech": "noun",
+    "zipf": 2.09,
+    "score": 24.9,
+    "definition": "increase by a factor of four",
+    "cmu": [
+      "K",
+      "W",
+      "AA0",
+      "D",
+      "R",
+      "UW1",
+      "P",
+      "AH0",
+      "L",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "teleconferencing",
+    "partOfSpeech": "noun",
+    "zipf": 1.97,
+    "score": 24.9,
+    "definition": "a conference of people who are in different locations that is made possible by the use of such telecommunications equipment as closed-circuit television",
+    "cmu": [
+      "T",
+      "EH2",
+      "L",
+      "AH0",
+      "K",
+      "AA1",
+      "N",
+      "F",
+      "R",
+      "AH0",
+      "N",
+      "S",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "crustaceous",
+    "partOfSpeech": "adjective",
+    "zipf": 1.19,
+    "score": 24.9,
+    "definition": "of or belonging to the class Crustacea",
+    "cmu": [
+      "K",
+      "R",
+      "AH0",
+      "S",
+      "T",
+      "EY1",
+      "SH",
+      "AH0",
+      "S"
+    ]
+  },
+  {
+    "word": "sylva",
+    "partOfSpeech": "noun",
+    "zipf": 2.08,
+    "score": 24.8,
+    "definition": "the forest trees growing in a country or region",
+    "cmu": [
+      "S",
+      "IH1",
+      "L",
+      "V",
+      "AH0"
+    ]
+  },
+  {
+    "word": "buffeting",
+    "partOfSpeech": "noun",
+    "zipf": 2.07,
+    "score": 24.7,
+    "definition": "repeated heavy blows",
+    "cmu": [
+      "B",
+      "AH0",
+      "F",
+      "EY1",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "margrave",
+    "partOfSpeech": "noun",
+    "zipf": 2.06,
+    "score": 24.6,
+    "definition": "the military governor of a frontier province in medieval Germany",
+    "cmu": [
+      "M",
+      "AA1",
+      "R",
+      "G",
+      "R",
+      "EY2",
+      "V"
+    ]
+  },
+  {
+    "word": "foundering",
+    "partOfSpeech": "noun",
+    "zipf": 2.05,
+    "score": 24.5,
+    "definition": "(of a ship) sinking",
+    "cmu": [
+      "F",
+      "AW1",
+      "N",
+      "D",
+      "ER0",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "rentier",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 24.5,
+    "definition": "someone whose income is from property rents or bond interest and other investments",
+    "cmu": [
+      "R",
+      "EH1",
+      "T",
+      "IY2",
+      "ER0"
+    ]
+  },
+  {
+    "word": "vendee",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 24.3,
+    "definition": "a person who buys",
+    "cmu": [
+      "V",
+      "EH1",
+      "N",
+      "D",
+      "IY1"
+    ]
+  },
+  {
+    "word": "belling",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "a noisy mock serenade (made by banging pans and kettles) to a newly married couple",
+    "cmu": [
+      "B",
+      "EH1",
+      "L",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "carping",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "persistent petty and unjustified criticism",
+    "cmu": [
+      "K",
+      "AA1",
+      "R",
+      "P",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "winnowing",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "score": 24.2,
+    "definition": "the act of separating grain from chaff",
+    "cmu": [
+      "W",
+      "IH1",
+      "N",
+      "OW2",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "beefeater",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 24.1,
+    "definition": "officer in the (ceremonial) bodyguard of the British monarch",
+    "cmu": [
+      "B",
+      "IY1",
+      "F",
+      "IY2",
+      "T",
+      "ER0"
+    ]
+  },
+  {
+    "word": "lapin",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "score": 24.0,
+    "definition": "the fur of a rabbit",
+    "cmu": [
+      "L",
+      "AE1",
+      "P",
+      "IH0",
+      "N"
+    ]
+  },
+  {
+    "word": "cacique",
+    "partOfSpeech": "noun",
+    "zipf": 1.99,
+    "score": 23.9,
+    "definition": "black-and-red or black-and-yellow orioles of the American tropics",
+    "cmu": [
+      "K",
+      "AH0",
+      "S",
+      "IY1",
+      "K"
+    ]
+  },
+  {
+    "word": "lapsing",
+    "partOfSpeech": "noun",
+    "zipf": 1.99,
+    "score": 23.9,
+    "definition": "a failure to maintain a higher state",
+    "cmu": [
+      "L",
+      "AE1",
+      "P",
+      "S",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "osmund",
+    "partOfSpeech": "noun",
+    "zipf": 1.99,
+    "score": 23.9,
+    "definition": "any fern of the genus Osmunda: large ferns with creeping rhizomes; naked sporangia are on modified fronds that resemble flower clusters",
+    "cmu": [
+      "AA1",
+      "S",
+      "M",
+      "AH0",
+      "N",
+      "D"
+    ]
+  },
+  {
+    "word": "hazan",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "the official of a synagogue who conducts the liturgical part of the service and sings or chants the prayers intended to be performed as solos",
+    "cmu": [
+      "HH",
+      "EY1",
+      "Z",
+      "AH0",
+      "N"
+    ]
+  },
+  {
+    "word": "minge",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "vulgar term for a woman's pubic hair or genitals",
+    "cmu": [
+      "M",
+      "IH1",
+      "N",
+      "JH"
+    ]
+  },
+  {
+    "word": "mottling",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "the act of coloring with areas of different shades",
+    "cmu": [
+      "M",
+      "AA1",
+      "T",
+      "AH0",
+      "L",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "slating",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "score": 23.6,
+    "definition": "thin layers of rock used for roofing",
+    "cmu": [
+      "S",
+      "L",
+      "EY1",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "anencephalic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.06,
+    "score": 23.6,
+    "definition": "characterized by partial or total absence of a brain",
+    "cmu": [
+      "AE0",
+      "N",
+      "EH2",
+      "N",
+      "S",
+      "AH0",
+      "F",
+      "AE1",
+      "L",
+      "IH0",
+      "K"
+    ]
+  },
+  {
+    "word": "monocarpic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.06,
+    "score": 23.6,
+    "definition": "dying after bearing fruit only once",
+    "cmu": [
+      "M",
+      "AA2",
+      "N",
+      "AH0",
+      "K",
+      "AA1",
+      "R",
+      "P",
+      "IH0",
+      "K"
+    ]
+  },
+  {
+    "word": "forsythia",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "any of various early blooming oleaceous shrubs of the genus Forsythia; native to eastern Asia and southern Europe but widely cultivated for their branches of bright yellow bell-shaped flowers",
+    "cmu": [
+      "F",
+      "AO0",
+      "R",
+      "S",
+      "IH1",
+      "TH",
+      "IY0",
+      "AH0"
+    ]
+  },
+  {
+    "word": "heth",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "score": 23.5,
+    "definition": "the 8th letter of the Hebrew alphabet",
+    "cmu": [
+      "HH",
+      "EH1",
+      "TH"
+    ]
+  },
+  {
+    "word": "ballade",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "score": 23.4,
+    "definition": "a poem consisting of 3 stanzas and an envoy",
+    "cmu": [
+      "B",
+      "AH0",
+      "L",
+      "AA1",
+      "D"
+    ]
+  },
+  {
+    "word": "dewberry",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "score": 23.4,
+    "definition": "any of several trailing blackberry brambles especially of North America",
+    "cmu": [
+      "D",
+      "UW1",
+      "B",
+      "EH2",
+      "R",
+      "IY0"
+    ]
+  },
+  {
+    "word": "magnesite",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "score": 23.4,
+    "definition": "a white mineral consisting of magnesium carbonate; a source of magnesium",
+    "cmu": [
+      "M",
+      "AE1",
+      "G",
+      "N",
+      "AH0",
+      "S",
+      "AY2",
+      "T"
+    ]
+  },
+  {
+    "word": "pallone",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "score": 23.4,
+    "definition": "an Italian game similar to tennis",
+    "cmu": [
+      "P",
+      "AA0",
+      "L",
+      "OW1",
+      "N",
+      "IY0"
+    ]
+  },
+  {
+    "word": "wader",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 23.4,
+    "definition": "any of many long-legged birds that wade in water in search of food",
+    "cmu": [
+      "W",
+      "EY1",
+      "D",
+      "ER0"
+    ]
+  },
+  {
+    "word": "diorite",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "score": 23.3,
+    "definition": "a granular crystalline intrusive rock",
+    "cmu": [
+      "D",
+      "AY1",
+      "ER0",
+      "AY2",
+      "T"
+    ]
+  },
+  {
+    "word": "muckraking",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "score": 23.2,
+    "definition": "the exposure of scandal (especially about public figures)",
+    "cmu": [
+      "M",
+      "AH1",
+      "K",
+      "R",
+      "EY2",
+      "K",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "pyroxene",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "score": 23.2,
+    "definition": "any of a group of crystalline silicate mineral common in igneous and metamorphic rocks",
+    "cmu": [
+      "P",
+      "AY0",
+      "R",
+      "AA1",
+      "K",
+      "S",
+      "IY0",
+      "N"
+    ]
+  },
+  {
+    "word": "simony",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "score": 23.2,
+    "definition": "traffic in ecclesiastical offices or preferments",
+    "cmu": [
+      "S",
+      "AY1",
+      "M",
+      "AH0",
+      "N",
+      "IY0"
+    ]
+  },
+  {
+    "word": "subsequence",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "score": 23.2,
+    "definition": "something that follows something else",
+    "cmu": [
+      "S",
+      "AH0",
+      "B",
+      "S",
+      "IY1",
+      "K",
+      "W",
+      "AH0",
+      "N",
+      "S"
+    ]
+  },
+  {
+    "word": "tenting",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "score": 23.2,
+    "definition": "the act of encamping and living in tents in a camp",
+    "cmu": [
+      "T",
+      "EH1",
+      "N",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "dovecote",
+    "partOfSpeech": "noun",
+    "zipf": 1.8,
+    "score": 23.2,
+    "definition": "a birdhouse for pigeons",
+    "cmu": [
+      "D",
+      "AH1",
+      "V",
+      "K",
+      "OW2",
+      "T"
+    ]
+  },
+  {
+    "word": "papering",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "the application of wallpaper",
+    "cmu": [
+      "P",
+      "EY1",
+      "P",
+      "ER0",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "pistil",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "the female ovule-bearing part of a flower composed of ovary and style and stigma",
+    "cmu": [
+      "P",
+      "IH1",
+      "S",
+      "T",
+      "AH0",
+      "L"
+    ]
+  },
+  {
+    "word": "rondeau",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "a musical form that is often the last movement of a sonata",
+    "cmu": [
+      "R",
+      "AA0",
+      "N",
+      "D",
+      "OW1"
+    ]
+  },
+  {
+    "word": "vanillin",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "score": 23.1,
+    "definition": "a crystalline compound found in vanilla beans and some balsam resins; used in perfumes and flavorings",
+    "cmu": [
+      "V",
+      "AH0",
+      "N",
+      "IH1",
+      "L",
+      "IH0",
+      "N"
+    ]
+  },
+  {
+    "word": "batholith",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "large mass of intrusive igneous rock believed to have solidified deep within the earth",
+    "cmu": [
+      "B",
+      "AE1",
+      "TH",
+      "AH0",
+      "L",
+      "IH0",
+      "TH"
+    ]
+  },
+  {
+    "word": "corundum",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "very hard mineral used as an abrasive",
+    "cmu": [
+      "K",
+      "ER0",
+      "AH1",
+      "N",
+      "D",
+      "AH0",
+      "M"
+    ]
+  },
+  {
+    "word": "sherbert",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "a frozen dessert made primarily of fruit juice and sugar, but also containing milk or egg-white or gelatin",
+    "cmu": [
+      "SH",
+      "ER1",
+      "B",
+      "ER0",
+      "T"
+    ]
+  },
+  {
+    "word": "teleology",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "score": 23.0,
+    "definition": "(philosophy) a doctrine explaining phenomena by their ends or purposes",
+    "cmu": [
+      "T",
+      "IY1",
+      "L",
+      "IY0",
+      "AO2",
+      "L",
+      "AH0",
+      "JH",
+      "IY2"
+    ]
+  },
+  {
+    "word": "landrover",
+    "partOfSpeech": "noun",
+    "zipf": 1.78,
+    "score": 23.0,
+    "definition": "a car suitable for traveling over rough terrain",
+    "cmu": [
+      "L",
+      "AE1",
+      "N",
+      "D",
+      "R",
+      "OW1",
+      "V",
+      "ER0"
+    ]
+  },
+  {
+    "word": "flatfish",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 22.9,
+    "definition": "sweet lean whitish flesh of any of numerous thin-bodied fish; usually served as thin fillets",
+    "cmu": [
+      "F",
+      "L",
+      "AE1",
+      "T",
+      "F",
+      "IH2",
+      "SH"
+    ]
+  },
+  {
+    "word": "gabbro",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 22.9,
+    "definition": "one of a family of granular intrusive rocks",
+    "cmu": [
+      "G",
+      "AE1",
+      "B",
+      "R",
+      "OW0"
+    ]
+  },
+  {
+    "word": "hackberry",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 22.9,
+    "definition": "any of various trees of the genus Celtis having inconspicuous flowers and small berrylike fruits",
+    "cmu": [
+      "HH",
+      "AE1",
+      "K",
+      "B",
+      "EH2",
+      "R",
+      "IY0"
+    ]
+  },
+  {
+    "word": "horsetail",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 22.9,
+    "definition": "perennial rushlike flowerless herbs with jointed hollow stems and narrow toothlike leaves that spread by creeping rhizomes; tend to become weedy; common in northern hemisphere; some in Africa and South America",
+    "cmu": [
+      "HH",
+      "AO1",
+      "R",
+      "S",
+      "T",
+      "EY2",
+      "L"
+    ]
+  },
+  {
+    "word": "klick",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "score": 22.9,
+    "definition": "a metric unit of length equal to 1000 meters (or 0.621371 miles)",
+    "cmu": [
+      "K",
+      "L",
+      "IH1",
+      "K"
+    ]
+  },
+  {
+    "word": "asper",
+    "partOfSpeech": "noun",
+    "zipf": 1.88,
+    "score": 22.8,
+    "definition": "20 aspers equal 1 kurus in Turkey",
+    "cmu": [
+      "AE1",
+      "S",
+      "P",
+      "ER0"
+    ]
+  },
+  {
+    "word": "coleus",
+    "partOfSpeech": "noun",
+    "zipf": 1.88,
+    "score": 22.8,
+    "definition": "any of various Old World tropical plants of the genus Coleus having multicolored decorative leaves and spikes of blue flowers",
+    "cmu": [
+      "K",
+      "OW1",
+      "L",
+      "IY0",
+      "AH0",
+      "S"
+    ]
+  },
+  {
+    "word": "comfrey",
+    "partOfSpeech": "noun",
+    "zipf": 1.88,
+    "score": 22.8,
+    "definition": "perennial herbs of Europe and Iran; make rapidly growing groundcover for shaded areas",
+    "cmu": [
+      "K",
+      "AH1",
+      "M",
+      "F",
+      "R",
+      "IY0"
+    ]
+  },
+  {
+    "word": "flagellate",
+    "partOfSpeech": "noun",
+    "zipf": 1.88,
+    "score": 22.8,
+    "definition": "a usually nonphotosynthetic free-living protozoan with whiplike appendages; some are pathogens of humans and other animals",
+    "cmu": [
+      "F",
+      "L",
+      "AE1",
+      "JH",
+      "AH0",
+      "L",
+      "EY2",
+      "T"
+    ]
+  },
+  {
+    "word": "indaba",
+    "partOfSpeech": "noun",
+    "zipf": 1.88,
+    "score": 22.8,
+    "definition": "a council at which indigenous peoples of southern Africa meet to discuss some important question",
+    "cmu": [
+      "IH2",
+      "N",
+      "D",
+      "AA1",
+      "B",
+      "AH0"
+    ]
+  },
+  {
+    "word": "junco",
+    "partOfSpeech": "noun",
+    "zipf": 1.88,
+    "score": 22.8,
+    "definition": "small North American finch seen chiefly in winter",
+    "cmu": [
+      "JH",
+      "AH1",
+      "NG",
+      "K",
+      "OW0"
+    ]
+  },
+  {
+    "word": "scads",
+    "partOfSpeech": "noun",
+    "zipf": 1.88,
+    "score": 22.8,
+    "definition": "a large number or amount",
+    "cmu": [
+      "S",
+      "K",
+      "AE1",
+      "D",
+      "Z"
+    ]
+  },
+  {
+    "word": "khanate",
+    "partOfSpeech": "noun",
+    "zipf": 1.87,
+    "score": 22.7,
+    "definition": "the realm of a khan",
+    "cmu": [
+      "K",
+      "AA1",
+      "N",
+      "EY0",
+      "T"
+    ]
+  },
+  {
+    "word": "moussaka",
+    "partOfSpeech": "noun",
+    "zipf": 1.87,
+    "score": 22.7,
+    "definition": "casserole of eggplant and ground lamb with onion and tomatoes bound with white sauce and beaten eggs",
+    "cmu": [
+      "M",
+      "UW0",
+      "S",
+      "AA1",
+      "K",
+      "AH0"
+    ]
+  },
+  {
+    "word": "rhodopsin",
+    "partOfSpeech": "noun",
+    "zipf": 1.87,
+    "score": 22.7,
+    "definition": "a red photopigment in the retinal rods of vertebrates; dissociates into retinene by light",
+    "cmu": [
+      "R",
+      "OW0",
+      "D",
+      "AA1",
+      "P",
+      "S",
+      "AH0",
+      "N"
+    ]
+  },
+  {
+    "word": "tamarisk",
+    "partOfSpeech": "noun",
+    "zipf": 1.87,
+    "score": 22.7,
+    "definition": "any shrub or small tree of the genus Tamarix having small scalelike or needle-shaped leaves and feathery racemes of small white or pinkish flowers; of mostly coastal areas with saline soil",
+    "cmu": [
+      "T",
+      "AE1",
+      "M",
+      "ER0",
+      "IH0",
+      "S",
+      "K"
+    ]
+  },
+  {
+    "word": "persuasiveness",
+    "partOfSpeech": "noun",
+    "zipf": 1.75,
+    "score": 22.7,
+    "definition": "the power to induce the taking of a course of action or the embracing of a point of view by means of argument or entreaty",
+    "cmu": [
+      "P",
+      "ER0",
+      "S",
+      "W",
+      "EY1",
+      "S",
+      "IH0",
+      "V",
+      "N",
+      "AH0",
+      "S"
+    ]
+  },
+  {
+    "word": "euchre",
+    "partOfSpeech": "noun",
+    "zipf": 1.86,
+    "score": 22.6,
+    "definition": "a card game similar to ecarte; each player is dealt 5 cards and the player making trump must take 3 tricks to win a hand",
+    "cmu": [
+      "Y",
+      "UW1",
+      "K",
+      "ER0"
+    ]
+  },
+  {
+    "word": "hundredweight",
+    "partOfSpeech": "noun",
+    "zipf": 1.86,
+    "score": 22.6,
+    "definition": "a unit of weight equal to 100 kilograms",
+    "cmu": [
+      "HH",
+      "AH1",
+      "N",
+      "D",
+      "R",
+      "AH0",
+      "D",
+      "W",
+      "EY2",
+      "T"
+    ]
+  },
+  {
+    "word": "mellowing",
+    "partOfSpeech": "noun",
+    "zipf": 1.86,
+    "score": 22.6,
+    "definition": "the process of becoming mellow",
+    "cmu": [
+      "M",
+      "EH1",
+      "L",
+      "OW0",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "word": "schwa",
+    "partOfSpeech": "noun",
+    "zipf": 1.86,
+    "score": 22.6,
+    "definition": "a neutral middle vowel; occurs in unstressed syllables",
+    "cmu": [
+      "SH",
+      "W",
+      "AA1"
+    ]
+  },
+  {
+    "word": "tunny",
+    "partOfSpeech": "noun",
+    "zipf": 1.86,
+    "score": 22.6,
+    "definition": "important warm-water fatty fish of the genus Thunnus of the family Scombridae; usually served as steaks",
+    "cmu": [
+      "T",
+      "AH1",
+      "N",
+      "IY0"
+    ]
+  },
+  {
+    "word": "notochord",
+    "partOfSpeech": "noun",
+    "zipf": 1.74,
+    "score": 22.6,
+    "definition": "a flexible rodlike structure that forms the supporting axis of the body in the lowest chordates and lowest vertebrates and in embryos of higher vertebrates",
+    "cmu": [
+      "N",
+      "OW1",
+      "T",
+      "AH0",
+      "K",
+      "AO2",
+      "R",
+      "D"
+    ]
+  },
+  {
+    "word": "concavity",
+    "partOfSpeech": "noun",
+    "zipf": 1.85,
+    "score": 22.5,
+    "definition": "a shape that curves or bends inward",
+    "cmu": [
+      "K",
+      "AA0",
+      "N",
+      "K",
+      "AA1",
+      "V",
+      "AH0",
+      "T",
+      "IY2"
+    ]
+  },
+  {
+    "word": "spurge",
+    "partOfSpeech": "noun",
+    "zipf": 1.85,
+    "score": 22.5,
+    "definition": "any of numerous plants of the genus Euphorbia; usually having milky often poisonous juice",
+    "cmu": [
+      "S",
+      "P",
+      "ER1",
+      "JH"
+    ]
+  },
+  {
+    "word": "sartor",
+    "partOfSpeech": "noun",
+    "zipf": 1.73,
+    "score": 22.5,
+    "definition": "a person whose occupation is making and altering garments",
+    "cmu": [
+      "S",
+      "AA1",
+      "R",
+      "T",
+      "ER0"
+    ]
+  },
+  {
+    "word": "chasuble",
+    "partOfSpeech": "noun",
+    "zipf": 1.84,
+    "score": 22.4,
+    "definition": "a long sleeveless vestment worn by a priest when celebrating Mass",
+    "cmu": [
+      "CH",
+      "AA1",
+      "S",
+      "UW2",
+      "B",
+      "AH0",
+      "L"
+    ]
+  },
+  {
+    "word": "blancmange",
+    "partOfSpeech": "noun",
+    "zipf": 1.83,
+    "score": 22.3,
+    "definition": "sweet almond-flavored milk pudding thickened with gelatin or cornstarch; usually molded",
+    "cmu": [
+      "B",
+      "L",
+      "AH0",
+      "M",
+      "AA1",
+      "N",
+      "JH"
+    ]
+  },
+  {
+    "word": "amphibole",
+    "partOfSpeech": "noun",
+    "zipf": 1.82,
+    "score": 22.2,
+    "definition": "a mineral or mineral variety belonging to the amphibole group",
+    "cmu": [
+      "AE1",
+      "M",
+      "F",
+      "AH0",
+      "B",
+      "OW2",
+      "L"
+    ]
+  }
+]
