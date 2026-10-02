@@ -69,11 +69,11 @@ jobs:
               return True
 
           rows=[]; seen=set()
-          for rank,w in enumerate(top_n_list('en',900000),1):
+          for rank,w in enumerate(top_n_list('en',1200000),1):
               w=w.lower().strip()
               if w in seen or not canonical(w): continue
               f=zipf_frequency(w,'en')
-              if not (1.10<=f<=3.80): continue
+              if not (0.50<=f<=3.80): continue
               syns=[s for s in wn.synsets(w) if s.pos() in posmap and any(l.name().lower()==w for l in s.lemmas())]
               if not syns: continue
               s=syns[0]
@@ -88,7 +88,7 @@ jobs:
               seen.add(w)
               if len(rows)>=1800: break
 
-          assert len(rows)>=750, len(rows)
+          assert len(rows)>=1400, len(rows)
           out=root/'staging'/'batch066'/'candidates'
           out.mkdir(parents=True,exist_ok=True)
           for p in out.glob('*'): p.unlink()
