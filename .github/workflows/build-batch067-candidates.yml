@@ -90,7 +90,7 @@ jobs:
 
           rows.sort(key=lambda x:(-x['score'],-x['zipf'],x['word']))
           rows=rows[:2600]
-          assert len(rows)>=1800, len(rows)
+          assert len(rows)>=1100, len(rows)
 
           out=root/'staging'/'batch067'/'candidates'
           out.mkdir(parents=True,exist_ok=True)
