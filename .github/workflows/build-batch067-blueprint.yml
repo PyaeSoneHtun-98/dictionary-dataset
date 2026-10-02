@@ -60,8 +60,9 @@ jobs:
             r'protozoan',r'larvae are parasites',r'genus [A-Z]',
           ]
 
-          def canonical(w):
-              lemmas=getAllLemmas(w, upos=None)
+          uposmap={'noun':'NOUN','verb':'VERB','adjective':'ADJ','adverb':'ADV'}
+          def canonical(w,pos):
+              lemmas=getAllLemmas(w, upos=uposmap[pos])
               bases={x.lower() for vals in lemmas.values() for x in vals if x.isalpha()}
               return not any(b!=w for b in bases)
 
@@ -91,7 +92,7 @@ jobs:
           for x in rows:
               w=x['word']; d=x['definition'].lower(); pos=x['partOfSpeech']
               if w in reject_words or any(re.search(p,d) for p in reject_patterns): continue
-              if not canonical(w): continue
+              if not canonical(w,pos): continue
               ipa=ipa_for(w)
               if not ipa: continue
               score=x['score']
