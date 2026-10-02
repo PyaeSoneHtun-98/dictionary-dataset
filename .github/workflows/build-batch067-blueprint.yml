@@ -1,0 +1,138 @@
+name: Build Batch 067 Blueprint
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'staging/batch067/BUILD_BLUEPRINT'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install lexical resources
+        run: |
+          python -m pip install --quiet eng_to_ipa lemminflect
+      - name: Build curated canonical blueprint
+        run: |
+          python - <<'PY'
+          import base64, json, pathlib, re, zlib
+          import eng_to_ipa as eipa
+          from lemminflect import getAllLemmas, getInflection
+
+          root=pathlib.Path('.')
+          prior=set(zlib.decompress(base64.b64decode(
+              (root/'extension_lookup'/'used_keys_current.zlib.b64').read_text(encoding='ascii').strip()
+          )).decode('utf-8').splitlines())
+          allow={x.strip() for x in (root/'extension_closed_compound_allowlist.txt').read_text(encoding='utf-8').splitlines()
+                 if x.strip() and not x.lstrip().startswith('#')}
+
+          rows=[]
+          for p in sorted((root/'staging'/'batch067'/'candidates').glob('candidates_*.json')):
+              rows.extend(json.loads(p.read_text(encoding='utf-8')))
+
+          reject_words=set('''
+          jeep clarence brent toby sonny malik jasper baba erica milo veronica kylie specs underwood blanc greenwood
+          sherry hobbit highschool dyke retard mina tammy ridley airbus gemma lulu colleen emery margarita
+          serge sevens britt nineties shay fives angelica mahatma spiegel looney rani oreo argyll beryl brant nance
+          clementine firestone thane emmet candida hakeem hakim lindy malacca dauphin angelique sputnik stanhope cochin
+          delft mujahideen technicolor canfield magdalen bitters solon rickey lisle inga paschal saran jodhpur mulatto
+          althea duce sabra havelock mariposa mikado vestal taoiseach sibyl zippo abbe chon morgen shandy domine satsuma
+          herm charterhouse nuncio raper carissa gook mestizo reseda margrave lapin cacique osmund hazan minge forsythia
+          heth ballade magnesite pallone diorite pyroxene pistil rondeau vanillin batholith corundum beefeater
+          hackberry horsetail asper coleus comfrey flagellate junco khanate tamarisk tunny rhodopsin
+          stogie slivovitz anisette rathskeller oenophile
+          '''.split())
+
+          reject_patterns=[
+            r'offensive term',r'ethnic slur',r'vulgar term',r'trademark',r'street name for',
+            r'any plant',r'any tree',r'any shrub',r'any .* bird',r'any .* fish',r'genus of',r'family of',r'breed of',
+            r'unit of (weight|length|measure|pressure|information|capacity)',r'metric unit',r'monetary unit',r'unit of money',
+            r'letter of the .* alphabet',r'king of',r'emperor of',r'prime minister',r'diplomatic representative of the pope',
+            r'card game',r'solitaire',r'gambling',r'betting',
+            r'liquor',r'wine from',r'beer ',r'liqueur',
+            r'pig iron',r'crystalline .* mineral',r'igneous rock',r'feldspar',r'ore of ',
+            r'protozoan',r'larvae are parasites',r'genus [A-Z]',
+          ]
+
+          def canonical(w):
+              lemmas=getAllLemmas(w, upos=None)
+              bases={x.lower() for vals in lemmas.values() for x in vals if x.isalpha()}
+              return not any(b!=w for b in bases)
+
+          def suspicious(w):
+              if w in allow: return False
+              for i in range(3,len(w)-2):
+                  if w[:i] in prior and w[i:] in prior:
+                      return True
+              return False
+
+          def ipa_for(w):
+              s=eipa.convert(w, retrieve_all=False, keep_punct=False).strip().replace(' ','')
+              if not s or '*' in s or '/' in s: return None
+              return '/'+s+'/'
+
+          def forms_for(w,pos):
+              if pos!='verb': return []
+              out=[]
+              for tag in ['VBZ','VBD','VBN','VBG']:
+                  for f in getInflection(w,tag=tag) or ():
+                      f=f.lower().strip()
+                      if f.isalpha() and f!=w and f not in out and f not in prior:
+                          out.append(f)
+              return out
+
+          payload=[]
+          for x in rows:
+              w=x['word']; d=x['definition'].lower(); pos=x['partOfSpeech']
+              if w in reject_words or any(re.search(p,d) for p in reject_patterns): continue
+              if not canonical(w): continue
+              ipa=ipa_for(w)
+              if not ipa: continue
+              score=x['score']
+              if pos=='verb': score+=5
+              elif pos=='adjective': score+=3
+              elif pos=='adverb': score+=2
+              for k in ['person','someone','worker','doctor','patient','crime','law','court','police','money','emotion','feeling','house','home','vehicle','tool','device','equipment','film','stage','speech','argument','food','clothing','work','business','computer','signal','injury','body','school','travel','road','book','writing','language','camera','room']:
+                  if k in d: score+=1.0
+              payload.append({
+                  'word':w,
+                  'pronunciation':ipa,
+                  'forms':forms_for(w,pos),
+                  'partOfSpeech':pos,
+                  'definition':x['definition'],
+                  'zipf':x['zipf'],
+                  'score':round(score,2),
+                  'suspiciousCompound':suspicious(w)
+              })
+
+          payload.sort(key=lambda x:(-x['score'],-x['zipf'],x['word']))
+          assert len(payload)>=550, len(payload)
+          payload=payload[:800]
+
+          outdir=root/'staging'/'batch067'/'blueprint'
+          outdir.mkdir(parents=True,exist_ok=True)
+          for p in outdir.glob('*'): p.unlink()
+          for i in range(0,len(payload),50):
+              (outdir/f'part_{i//50+1:02d}.json').write_text(
+                  json.dumps(payload[i:i+50],ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          counts={}
+          for x in payload: counts[x['partOfSpeech']]=counts.get(x['partOfSpeech'],0)+1
+          (outdir/'SUMMARY.json').write_text(json.dumps({
+              'count':len(payload),'counts':counts,'suspicious':sum(1 for x in payload if x['suspiciousCompound']),
+              'first':payload[0]['word'],'last':payload[-1]['word']
+          },indent=2)+'\n',encoding='utf-8')
+          print(json.dumps({'count':len(payload),'counts':counts,'first20':[x['word'] for x in payload[:20]]},indent=2))
+          PY
+      - name: Commit blueprint
+        run: |
+          git config user.name dictionary-dataset-bot
+          git config user.email actions@users.noreply.github.com
+          git add staging/batch067/blueprint
+          git commit -m 'Build Batch 067 canonical blueprint'
+          git push
