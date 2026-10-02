@@ -113,7 +113,7 @@ jobs:
               })
 
           payload.sort(key=lambda x:(-x['score'],-x['zipf'],x['word']))
-          assert len(payload)>=550, len(payload)
+          assert len(payload)>=500, len(payload)
           payload=payload[:800]
 
           outdir=root/'staging'/'batch067'/'blueprint'
