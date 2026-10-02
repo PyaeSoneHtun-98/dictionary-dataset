@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Install lexical resources
         run: |
-          python -m pip install --quiet wordfreq nltk cmudict
+          python -m pip install --quiet wordfreq nltk
           python - <<'PY'
           import nltk
           nltk.download('wordnet', quiet=True)
@@ -28,7 +28,6 @@ jobs:
           import base64, json, pathlib, re, zlib
           from wordfreq import top_n_list, zipf_frequency
           from nltk.corpus import wordnet as wn
-          import cmudict
 
           root=pathlib.Path('.')
           manifest=json.loads((root/'dictionary_extension_manifest.json').read_text(encoding='utf-8'))
@@ -38,7 +37,6 @@ jobs:
           prior=set(zlib.decompress(base64.b64decode(encoded)).decode('utf-8').splitlines())
           assert len(prior)==50522, len(prior)
 
-          cmu=cmudict.dict()
           posmap={wn.NOUN:'noun',wn.VERB:'verb',wn.ADJ:'adjective',wn.ADV:'adverb'}
           basic=set('the and is are was were be been being a an to of in on at for from with without by as or but if then than this that these those i you he she it we they me him her us them my your his its our their mine yours ours theirs yes no hello good bad okay ok maybe very really just only also now there here have has had do does did get got make made know think want need like love time year day people person thing things one two three four five first last most much many more less little big small new old right wrong well too before after why who what when where how can could would should will shall may might must'.split())
           reject_words=set('html http https jpeg jpg gif php dvd dvds mp3 ipod xbox linux unix wikipedia google facebook instagram tiktok twitter reddit'.split())
@@ -66,7 +64,7 @@ jobs:
           for w in ordered:
               if w in prior or w in basic or w in reject_words: continue
               if not (w.isascii() and w.isalpha() and w==w.lower()): continue
-              if len(w)<4 or len(w)>18 or w not in cmu: continue
+              if len(w)<4 or len(w)>18: continue
               syns=[s for s in wn.synsets(w) if s.pos() in posmap and any(l.name().lower()==w for l in s.lemmas())]
               if not syns: continue
               if any(s.instance_hypernyms() for s in syns): continue
@@ -84,8 +82,7 @@ jobs:
                   'partOfSpeech':posmap[s.pos()],
                   'zipf':round(f,2),
                   'score':round(score,2),
-                  'definition':s.definition(),
-                  'cmu':cmu[w][0]
+                  'definition':s.definition()
               })
 
           rows.sort(key=lambda x:(-x['score'],-x['zipf'],x['word']))
