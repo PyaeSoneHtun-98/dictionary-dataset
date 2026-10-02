@@ -460,43 +460,58 @@
     "suspiciousCompound": false
   },
   {
-    "word": "veiling",
-    "pronunciation": "/ˈveɪlɪŋ/",
-    "forms": [],
-    "partOfSpeech": "noun",
-    "definition": "a net of transparent fabric with a loose open weave",
-    "zipf": 2.11,
-    "score": 25.1,
+    "word": "disembody",
+    "pronunciation": "/dɪsɪˈbɑdi/",
+    "forms": [
+      "disembodies",
+      "disembodying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "free from a body or physical form or reality",
+    "zipf": 0.0,
+    "score": 25.2,
     "suspiciousCompound": false
   },
   {
-    "word": "reshuffling",
-    "pronunciation": "/riˈʃəfəlɪŋ/",
-    "forms": [],
-    "partOfSpeech": "noun",
-    "definition": "shuffling again",
-    "zipf": 2.1,
-    "score": 25.0,
+    "word": "electioneer",
+    "pronunciation": "/ɪˌlɛkʃəˈnɪr/",
+    "forms": [
+      "electioneers",
+      "electioneered",
+      "electioneering"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "work actively for a political candidate or a party",
+    "zipf": 0.0,
+    "score": 25.2,
     "suspiciousCompound": false
   },
   {
-    "word": "quadrupling",
-    "pronunciation": "/kwɑˈdrupəlɪŋ/",
-    "forms": [],
-    "partOfSpeech": "noun",
-    "definition": "increase by a factor of four",
-    "zipf": 2.09,
-    "score": 24.9,
+    "word": "recriminate",
+    "pronunciation": "/rɪˌkrɪmɪˈneɪt/",
+    "forms": [
+      "recriminates",
+      "recriminated",
+      "recriminating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "return an accusation against someone or engage in mutual accusations; charge in return",
+    "zipf": 0.0,
+    "score": 25.2,
     "suspiciousCompound": false
   },
   {
-    "word": "sylva",
-    "pronunciation": "/ˈsɪlvə/",
-    "forms": [],
-    "partOfSpeech": "noun",
-    "definition": "the forest trees growing in a country or region",
-    "zipf": 2.08,
-    "score": 24.8,
+    "word": "speechify",
+    "pronunciation": "/ˈspiʧəˌfaɪ/",
+    "forms": [
+      "speechifies",
+      "speechified",
+      "speechifying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make speeches; hold forth, or harangue with a certain degree of formality",
+    "zipf": 0.0,
+    "score": 25.2,
     "suspiciousCompound": false
   }
 ]

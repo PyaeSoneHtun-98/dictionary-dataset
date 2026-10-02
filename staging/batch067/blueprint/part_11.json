@@ -1,5 +1,83 @@
 [
   {
+    "word": "stultify",
+    "pronunciation": "/ˈstəltəˌfaɪ/",
+    "forms": [
+      "stultifies",
+      "stultified",
+      "stultifying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "prove to be of unsound mind or demonstrate someone's incompetence",
+    "zipf": 0.0,
+    "score": 25.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "underdevelop",
+    "pronunciation": "/ˌəndərdɪˈvɛləp/",
+    "forms": [
+      "underdevelops",
+      "underdeveloped",
+      "underdeveloping"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "process (a film or photographic plate) less than the required time or in an ineffective solution or at an insufficiently high temperature",
+    "zipf": 0.0,
+    "score": 25.2,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "veiling",
+    "pronunciation": "/ˈveɪlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a net of transparent fabric with a loose open weave",
+    "zipf": 2.11,
+    "score": 25.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "reshuffling",
+    "pronunciation": "/riˈʃəfəlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "shuffling again",
+    "zipf": 2.1,
+    "score": 25.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "stemmer",
+    "pronunciation": "/ˈstɛmər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a worker who strips the stems from moistened tobacco leaves and binds the leaves together into books",
+    "zipf": 1.44,
+    "score": 25.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "quadrupling",
+    "pronunciation": "/kwɑˈdrupəlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "increase by a factor of four",
+    "zipf": 2.09,
+    "score": 24.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "sylva",
+    "pronunciation": "/ˈsɪlvə/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the forest trees growing in a country or region",
+    "zipf": 2.08,
+    "score": 24.8,
+    "suspiciousCompound": false
+  },
+  {
     "word": "buffeting",
     "pronunciation": "/ˈbəfətɪŋ/",
     "forms": [],
@@ -160,6 +238,16 @@
     "suspiciousCompound": false
   },
   {
+    "word": "killifish",
+    "pronunciation": "/ˈkɪlɪfɪʃ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "small mostly marine warm-water carp-like schooling fishes; used as bait or aquarium fishes or in mosquito control",
+    "zipf": 1.69,
+    "score": 23.1,
+    "suspiciousCompound": false
+  },
+  {
     "word": "sherbert",
     "pronunciation": "/ˈʃərbərt/",
     "forms": [],
@@ -180,6 +268,16 @@
     "suspiciousCompound": false
   },
   {
+    "word": "sciara",
+    "pronunciation": "/ˈʃɑrɑ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "minute blackish gregarious flies destructive to mushrooms and seedlings",
+    "zipf": 1.65,
+    "score": 22.7,
+    "suspiciousCompound": false
+  },
+  {
     "word": "mellowing",
     "pronunciation": "/ˈmɛloʊɪŋ/",
     "forms": [],
@@ -190,12 +288,42 @@
     "suspiciousCompound": false
   },
   {
+    "word": "cocooning",
+    "pronunciation": "/kəˈkunɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "retreating to the seclusion of your home (as for privacy or escape)",
+    "zipf": 1.64,
+    "score": 22.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "thill",
+    "pronunciation": "/θɪl/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "one of two shafts extending from the body of a cart or carriage on either side of the animal that pulls it",
+    "zipf": 1.64,
+    "score": 22.6,
+    "suspiciousCompound": false
+  },
+  {
     "word": "spurge",
     "pronunciation": "/spərʤ/",
     "forms": [],
     "partOfSpeech": "noun",
     "definition": "any of numerous plants of the genus Euphorbia; usually having milky often poisonous juice",
     "zipf": 1.85,
+    "score": 22.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "bawd",
+    "pronunciation": "/bɔd/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a woman who engages in sexual intercourse for money",
+    "zipf": 1.63,
     "score": 22.5,
     "suspiciousCompound": false
   },
@@ -237,6 +365,146 @@
     "definition": "solid swollen underground bulb-shaped stem or stem base and serving as a reproductive structure",
     "zipf": 1.81,
     "score": 22.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "landgrave",
+    "pronunciation": "/ˈlændˌgreɪv/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a count who had jurisdiction over a large territory in medieval Germany",
+    "zipf": 1.81,
+    "score": 22.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "nephrite",
+    "pronunciation": "/ˈnɛfraɪt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an amphibole mineral consisting of calcium magnesium silicate in monoclinic crystalline form; a source of jade that is less valuable than from jadeite; once believed to cure kidney disorders",
+    "zipf": 1.81,
+    "score": 22.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "accenting",
+    "pronunciation": "/ˈæksɛntɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of giving special importance or significance to something",
+    "zipf": 1.79,
+    "score": 21.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "ament",
+    "pronunciation": "/ˈæmɪnt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a cylindrical spikelike inflorescence",
+    "zipf": 1.79,
+    "score": 21.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "buttressing",
+    "pronunciation": "/ˈbətrəsɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a support usually of stone or brick; supports the wall of a building",
+    "zipf": 1.78,
+    "score": 21.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "gametophyte",
+    "pronunciation": "/gəˈmitəˌfaɪt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the gamete-bearing individual or phase in the life cycle of a plant having alternation of generations",
+    "zipf": 1.78,
+    "score": 21.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "mizen",
+    "pronunciation": "/ˈmaɪzən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "third mast from the bow in a vessel having three or more masts; the after and shorter mast of a yawl, ketch, or dandy",
+    "zipf": 1.78,
+    "score": 21.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "paramecium",
+    "pronunciation": "/ˌpɛrəˈmisiəm/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "any member of the genus Paramecium",
+    "zipf": 1.78,
+    "score": 21.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "dichromate",
+    "pronunciation": "/ˈdaɪkroʊˌmeɪt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a salt of the hypothetical dichromic acid",
+    "zipf": 1.77,
+    "score": 21.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "gastrulation",
+    "pronunciation": "/ˌgæstrəˈleɪʃən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the process in which a gastrula develops from a blastula by the inward migration of cells",
+    "zipf": 1.77,
+    "score": 21.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "porker",
+    "pronunciation": "/ˈpɔrkər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a pig fattened to provide meat",
+    "zipf": 1.77,
+    "score": 21.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "frier",
+    "pronunciation": "/fraɪər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "flesh of a medium-sized young chicken suitable for frying",
+    "zipf": 1.76,
+    "score": 21.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "grosbeak",
+    "pronunciation": "/ˈgroʊsˌbik/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "any of various finches of Europe or America having a massive and powerful bill",
+    "zipf": 1.76,
+    "score": 21.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "hornblende",
+    "pronunciation": "/ˈhɔrnˌblɛnd/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a green to black mineral of the amphibole group; consists of silicates of calcium and sodium and magnesium and iron",
+    "zipf": 1.76,
+    "score": 21.6,
     "suspiciousCompound": false
   }
 ]

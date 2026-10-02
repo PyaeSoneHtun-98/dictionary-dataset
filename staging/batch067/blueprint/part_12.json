@@ -1,0 +1,492 @@
+[
+  {
+    "word": "leafhopper",
+    "pronunciation": "/ˈlifˌhɑpər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "small leaping insect that sucks the juices of plants",
+    "zipf": 1.74,
+    "score": 21.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "tamarin",
+    "pronunciation": "/ˈtæmərən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "small South American marmoset with silky fur and long nonprehensile tail",
+    "zipf": 1.74,
+    "score": 21.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "esker",
+    "pronunciation": "/ˈɛskər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "(geology) a long winding ridge of post glacial gravel and other sediment; deposited by meltwater from glaciers or ice sheets",
+    "zipf": 1.73,
+    "score": 21.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "ethnos",
+    "pronunciation": "/ˈɛθnoʊs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "people of the same race or nationality who share a distinctive culture",
+    "zipf": 1.73,
+    "score": 21.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "gallina",
+    "pronunciation": "/gɑˈlinə/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "small Asiatic wild bird; believed to be ancestral to domestic fowl",
+    "zipf": 1.73,
+    "score": 21.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "seigniorage",
+    "pronunciation": "/ˌsigˈniərɪʤ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "charged by a government for coining bullion",
+    "zipf": 1.73,
+    "score": 21.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "mujahedeen",
+    "pronunciation": "/ˌmuʤəhɛˈdin/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a military force of Muslim guerilla warriors engaged in a jihad",
+    "zipf": 1.72,
+    "score": 21.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "peafowl",
+    "pronunciation": "/ˈpiˌfaʊl/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "very large terrestrial southeast Asian pheasant often raised as an ornamental bird",
+    "zipf": 1.72,
+    "score": 21.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "umbel",
+    "pronunciation": "/ˈəmbəl/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "flat-topped or rounded inflorescence characteristic of the family Umbelliferae in which the individual flower stalks arise from about the same point; youngest flowers are at the center",
+    "zipf": 1.72,
+    "score": 21.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "caracara",
+    "pronunciation": "/ˌkɑrəˈkɑrə/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "any of various long-legged carrion-eating hawks of South America and Central America",
+    "zipf": 1.7,
+    "score": 21.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "armiger",
+    "pronunciation": "/ˈɑrmɪgər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a squire carrying the armor of a knight",
+    "zipf": 1.69,
+    "score": 20.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "centrex",
+    "pronunciation": "/ˈsɛntrəks/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "(CENTRal EXchange) a kind of telephone exchange",
+    "zipf": 1.69,
+    "score": 20.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "clomipramine",
+    "pronunciation": "/ˈkloʊmɪprəˌmaɪn/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a tricyclic antidepressant drug",
+    "zipf": 1.69,
+    "score": 20.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "liposome",
+    "pronunciation": "/ˈlɪpəˌsoʊm/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an artificially made microscopic vesicle into which nucleic acids can be packaged; used in molecular biology as a transducing vector",
+    "zipf": 1.69,
+    "score": 20.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "scilla",
+    "pronunciation": "/ˈsɪlə/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an Old World plant of the genus Scilla having narrow basal leaves and pink or blue or white racemose flowers",
+    "zipf": 1.69,
+    "score": 20.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "balas",
+    "pronunciation": "/ˈbæləs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a pale rose-colored variety of the ruby spinel",
+    "zipf": 1.68,
+    "score": 20.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "kittiwake",
+    "pronunciation": "/ˈkɪtɪˌweɪk/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "small pearl-grey gull of northern regions; nests on cliffs and has a rudimentary hind toe",
+    "zipf": 1.68,
+    "score": 20.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "libration",
+    "pronunciation": "/ˌlaɪˈbreɪʃən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "(astronomy) a real or apparent slow oscillation of a moon or satellite",
+    "zipf": 1.68,
+    "score": 20.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "probenecid",
+    "pronunciation": "/ˌprɑˈbɛnəsɪd/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a uricosuric drug that reduces the level of uric acid in the blood; used to treat gout",
+    "zipf": 1.66,
+    "score": 20.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "polarimeter",
+    "pronunciation": "/ˌpoʊlərˈɪmətər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an optical device used to measure the rotation of the plane of vibration of polarized light",
+    "zipf": 1.39,
+    "score": 20.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "pottle",
+    "pronunciation": "/ˈpɑtəl/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a pot that holds 2 quarts",
+    "zipf": 1.59,
+    "score": 19.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "salmi",
+    "pronunciation": "/ˈsɑlmi/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "ragout of game in a rich sauce",
+    "zipf": 1.59,
+    "score": 19.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "somersaulting",
+    "pronunciation": "/ˈsəmərˌsɔltɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an acrobatic feat in which the feet roll over the head (either forward or backward) and return",
+    "zipf": 1.59,
+    "score": 19.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "fluorspar",
+    "pronunciation": "/ˈflʊrˌspɑr/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a soft mineral (calcium fluoride) that is fluorescent in ultraviolet light; chief source of fluorine",
+    "zipf": 1.58,
+    "score": 19.8,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "urokinase",
+    "pronunciation": "/ˌjərəkəˈneɪz/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "protease produced in the kidney that converts plasminogen to plasmin and so initiates fibrinolysis",
+    "zipf": 1.58,
+    "score": 19.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "benzine",
+    "pronunciation": "/ˈbɛnzin/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a colorless liquid hydrocarbon; highly inflammable; carcinogenic; the simplest of the aromatic compounds",
+    "zipf": 1.57,
+    "score": 19.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "coneflower",
+    "pronunciation": "/ˈkoʊnˌflaʊər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "any of various plants of the genus Rudbeckia cultivated for their large usually yellow daisies with prominent central cones",
+    "zipf": 1.57,
+    "score": 19.7,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "loosestrife",
+    "pronunciation": "/ˈluˌstraɪf/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "any of numerous herbs and subshrubs of the genus Lythrum",
+    "zipf": 1.57,
+    "score": 19.7,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "prothorax",
+    "pronunciation": "/proʊˈθɔræks/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the anterior part of an insect's thorax; bears the first pair of legs",
+    "zipf": 1.57,
+    "score": 19.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "lobsterman",
+    "pronunciation": "/ˈlɑbstərmən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a person whose occupation is catching lobsters",
+    "zipf": 1.35,
+    "score": 19.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "heterosis",
+    "pronunciation": "/ˌhɛtərˈoʊsəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "(genetics) the tendency of a crossbred organism to have qualities superior to those of either parent",
+    "zipf": 1.56,
+    "score": 19.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "phenolphthalein",
+    "pronunciation": "/ˌfɛnɑlfˈθeɪlən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a laxative used in many preparations under various trade names; also used as an acid-base indicator in titrations involving weak acids and strong bases because it is brilliant red at high alkalinity and colorless below pH 8",
+    "zipf": 1.56,
+    "score": 19.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "tilth",
+    "pronunciation": "/tɪlθ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the state of aggregation of soil and its condition for supporting plant growth",
+    "zipf": 1.54,
+    "score": 19.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "hyson",
+    "pronunciation": "/ˈhaɪsən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a Chinese green tea with twisted leaves",
+    "zipf": 1.53,
+    "score": 19.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "pitchblende",
+    "pronunciation": "/ˈpɪʧˌblɛnd/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a mineral consisting of uranium oxide and trace amounts of radium and thorium and polonium and lead and helium; uraninite in massive form is called pitchblende which is the chief uranium ore",
+    "zipf": 1.52,
+    "score": 19.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "planarian",
+    "pronunciation": "/pləˈnɛriən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "free-swimming mostly freshwater flatworms; popular in laboratory studies for the ability to regenerate lost parts",
+    "zipf": 1.52,
+    "score": 19.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "cottier",
+    "pronunciation": "/ˈkɑtiər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a medieval English villein",
+    "zipf": 1.51,
+    "score": 19.1,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "minium",
+    "pronunciation": "/ˈmɪniəm/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a reddish oxide of lead (Pb3O4) used as a pigment in paints and in glass and ceramics",
+    "zipf": 1.51,
+    "score": 19.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "baldric",
+    "pronunciation": "/ˈbældrɪk/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a wide (ornamented) belt worn over the right shoulder to support a sword or bugle by the left hip",
+    "zipf": 1.5,
+    "score": 19.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "toweling",
+    "pronunciation": "/ˈtaʊəlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "any of various fabrics (linen or cotton) used to make towels",
+    "zipf": 1.5,
+    "score": 19.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "haik",
+    "pronunciation": "/heɪk/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an outer garment consisting of a large piece of white cloth; worn by men and women in northern Africa",
+    "zipf": 1.49,
+    "score": 18.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "vernonia",
+    "pronunciation": "/vərˈnoʊniə/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "any of various plants of the genus Vernonia of tropical and warm regions of especially North America that take their name from their loose heads of purple to rose flowers that quickly take on a rusty hue",
+    "zipf": 1.49,
+    "score": 18.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "espalier",
+    "pronunciation": "/ɛˈspæljər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a trellis on which ornamental shrub or fruit tree is trained to grow flat",
+    "zipf": 1.48,
+    "score": 18.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "gnatcatcher",
+    "pronunciation": "/ˈnætˌkæʧər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "very small North American and South American warblers",
+    "zipf": 1.48,
+    "score": 18.8,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "lindane",
+    "pronunciation": "/ˈlɪnˌdeɪn/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a white crystalline powder used as an agricultural insecticide",
+    "zipf": 1.48,
+    "score": 18.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "paleobotany",
+    "pronunciation": "/ˌpeɪlioʊˈbɑtəni/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the study of fossil plants",
+    "zipf": 1.48,
+    "score": 18.8,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "farrowing",
+    "pronunciation": "/ˈfæˌroʊɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the production of a litter of pigs",
+    "zipf": 1.47,
+    "score": 18.7,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "sinusoid",
+    "pronunciation": "/ˈsaɪnəˌsɔɪd/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "tiny endothelium-lined passages for blood in the tissue of an organ",
+    "zipf": 1.47,
+    "score": 18.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "aguacate",
+    "pronunciation": "/ˈægwəˌkeɪt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a pear-shaped tropical fruit with green or blackish skin and rich yellowish pulp enclosing a single large seed",
+    "zipf": 1.46,
+    "score": 18.6,
+    "suspiciousCompound": false
+  }
+]
