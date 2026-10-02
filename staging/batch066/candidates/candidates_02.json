@@ -1,0 +1,1574 @@
+[
+  {
+    "rank": 61107,
+    "word": "shandy",
+    "partOfSpeech": "noun",
+    "zipf": 2.38,
+    "definition": "a drink made of beer and lemonade",
+    "cmu": [
+      "SH",
+      "AE1",
+      "N",
+      "D",
+      "IY0"
+    ]
+  },
+  {
+    "rank": 64325,
+    "word": "domine",
+    "partOfSpeech": "noun",
+    "zipf": 2.33,
+    "definition": "a clergyman; especially a settled minister or parson",
+    "cmu": [
+      "D",
+      "OW0",
+      "M",
+      "IY1",
+      "N",
+      "IY0"
+    ]
+  },
+  {
+    "rank": 64686,
+    "word": "satsuma",
+    "partOfSpeech": "noun",
+    "zipf": 2.33,
+    "definition": "a variety of mandarin orange",
+    "cmu": [
+      "S",
+      "AE2",
+      "T",
+      "S",
+      "UW1",
+      "M",
+      "AH0"
+    ]
+  },
+  {
+    "rank": 65181,
+    "word": "herm",
+    "partOfSpeech": "noun",
+    "zipf": 2.32,
+    "definition": "a statue consisting of a squared stone pillar with a carved head (usually a bearded Hermes) on top; used in ancient Greece as a boundary marker or signpost",
+    "cmu": [
+      "HH",
+      "ER1",
+      "M"
+    ]
+  },
+  {
+    "rank": 66555,
+    "word": "charterhouse",
+    "partOfSpeech": "noun",
+    "zipf": 2.3,
+    "definition": "a Carthusian monastery",
+    "cmu": [
+      "CH",
+      "AA1",
+      "R",
+      "T",
+      "ER0",
+      "HH",
+      "AW2",
+      "S"
+    ]
+  },
+  {
+    "rank": 66884,
+    "word": "nuncio",
+    "partOfSpeech": "noun",
+    "zipf": 2.3,
+    "definition": "(Roman Catholic Church) a diplomatic representative of the Pope having ambassadorial status",
+    "cmu": [
+      "N",
+      "AH1",
+      "N",
+      "S",
+      "IY0",
+      "OW0"
+    ]
+  },
+  {
+    "rank": 66967,
+    "word": "raper",
+    "partOfSpeech": "noun",
+    "zipf": 2.3,
+    "definition": "someone who forces another to have sexual intercourse",
+    "cmu": [
+      "R",
+      "EY1",
+      "P",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 67295,
+    "word": "carissa",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "definition": "a shrub of the genus Carissa having fragrant white flowers and plumlike red to purple-black fruits",
+    "cmu": [
+      "K",
+      "AA0",
+      "R",
+      "IY1",
+      "S",
+      "AH0"
+    ]
+  },
+  {
+    "rank": 67481,
+    "word": "gook",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "definition": "any thick, viscous matter",
+    "cmu": [
+      "G",
+      "UH1",
+      "K"
+    ]
+  },
+  {
+    "rank": 67643,
+    "word": "mestizo",
+    "partOfSpeech": "noun",
+    "zipf": 2.29,
+    "definition": "a person of mixed racial ancestry (especially mixed European and Native American ancestry)",
+    "cmu": [
+      "M",
+      "EH0",
+      "S",
+      "T",
+      "IY1",
+      "Z",
+      "OW0"
+    ]
+  },
+  {
+    "rank": 68381,
+    "word": "layperson",
+    "partOfSpeech": "noun",
+    "zipf": 2.28,
+    "definition": "someone who is not a clergyman or a professional person",
+    "cmu": [
+      "L",
+      "EY0",
+      "P",
+      "ER1",
+      "S",
+      "IH0",
+      "N"
+    ]
+  },
+  {
+    "rank": 68591,
+    "word": "ringmaster",
+    "partOfSpeech": "noun",
+    "zipf": 2.28,
+    "definition": "the person in charge of performances in a circus ring",
+    "cmu": [
+      "R",
+      "IH1",
+      "NG",
+      "M",
+      "AE2",
+      "S",
+      "T",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 69571,
+    "word": "waggoner",
+    "partOfSpeech": "noun",
+    "zipf": 2.27,
+    "definition": "the driver of a wagon",
+    "cmu": [
+      "W",
+      "AE1",
+      "G",
+      "AH0",
+      "N",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 70150,
+    "word": "parttime",
+    "partOfSpeech": "adjective",
+    "zipf": 2.26,
+    "definition": "involving less than the standard or customary time for an activity",
+    "cmu": [
+      "P",
+      "AA1",
+      "R",
+      "T",
+      "T",
+      "AY2",
+      "M"
+    ]
+  },
+  {
+    "rank": 70895,
+    "word": "membered",
+    "partOfSpeech": "adjective",
+    "zipf": 2.25,
+    "definition": "having members; normally used in chemistry in combination with a number",
+    "cmu": [
+      "M",
+      "EH1",
+      "M",
+      "B",
+      "ER0",
+      "D"
+    ]
+  },
+  {
+    "rank": 74724,
+    "word": "antipodes",
+    "partOfSpeech": "noun",
+    "zipf": 2.2,
+    "definition": "any two places or regions on diametrically opposite sides of the Earth",
+    "cmu": [
+      "AE2",
+      "N",
+      "T",
+      "IH0",
+      "P",
+      "OW2",
+      "D",
+      "IY0",
+      "Z"
+    ]
+  },
+  {
+    "rank": 75702,
+    "word": "caribe",
+    "partOfSpeech": "noun",
+    "zipf": 2.19,
+    "definition": "small voraciously carnivorous freshwater fishes of South America that attack and destroy living animals",
+    "cmu": [
+      "K",
+      "EH2",
+      "R",
+      "IY1",
+      "B"
+    ]
+  },
+  {
+    "rank": 76338,
+    "word": "signore",
+    "partOfSpeech": "noun",
+    "zipf": 2.19,
+    "definition": "an Italian title of respect for a man; equivalent to the English `sir'; used separately (not prefixed to his name)",
+    "cmu": [
+      "S",
+      "IY0",
+      "N",
+      "Y",
+      "AO1",
+      "R",
+      "EY0"
+    ]
+  },
+  {
+    "rank": 83349,
+    "word": "hoofed",
+    "partOfSpeech": "adjective",
+    "zipf": 2.11,
+    "definition": "having or resembling hoofs",
+    "cmu": [
+      "HH",
+      "UH1",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "rank": 83678,
+    "word": "reseda",
+    "partOfSpeech": "noun",
+    "zipf": 2.11,
+    "definition": "any plant of the genus Reseda",
+    "cmu": [
+      "R",
+      "EH0",
+      "S",
+      "EY1",
+      "D",
+      "AH0"
+    ]
+  },
+  {
+    "rank": 85759,
+    "word": "semifinalist",
+    "partOfSpeech": "noun",
+    "zipf": 2.09,
+    "definition": "one of four competitors remaining in a tournament by elimination",
+    "cmu": [
+      "S",
+      "EH2",
+      "M",
+      "IY0",
+      "F",
+      "AY1",
+      "N",
+      "AH0",
+      "L",
+      "IH0",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "rank": 86225,
+    "word": "doubletree",
+    "partOfSpeech": "noun",
+    "zipf": 2.08,
+    "definition": "a crossbar on a wagon or carriage to which two whiffletrees are attached in order to harness two horses abreast",
+    "cmu": [
+      "D",
+      "AH1",
+      "B",
+      "AH0",
+      "L",
+      "T",
+      "R",
+      "IY2"
+    ]
+  },
+  {
+    "rank": 86227,
+    "word": "duelist",
+    "partOfSpeech": "noun",
+    "zipf": 2.08,
+    "definition": "a person who fights duels",
+    "cmu": [
+      "D",
+      "UW1",
+      "AH0",
+      "L",
+      "IH0",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "rank": 86516,
+    "word": "mineralogist",
+    "partOfSpeech": "noun",
+    "zipf": 2.08,
+    "definition": "a scientist trained in mineralogy",
+    "cmu": [
+      "M",
+      "IH2",
+      "N",
+      "ER0",
+      "AE1",
+      "L",
+      "AH0",
+      "JH",
+      "IH0",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "rank": 88582,
+    "word": "margrave",
+    "partOfSpeech": "noun",
+    "zipf": 2.06,
+    "definition": "the military governor of a frontier province in medieval Germany",
+    "cmu": [
+      "M",
+      "AA1",
+      "R",
+      "G",
+      "R",
+      "EY2",
+      "V"
+    ]
+  },
+  {
+    "rank": 92917,
+    "word": "newspeak",
+    "partOfSpeech": "noun",
+    "zipf": 2.02,
+    "definition": "deliberately ambiguous and contradictory language use to mislead and manipulate the public",
+    "cmu": [
+      "N",
+      "UW1",
+      "S",
+      "P",
+      "IY2",
+      "K"
+    ]
+  },
+  {
+    "rank": 93636,
+    "word": "downswing",
+    "partOfSpeech": "noun",
+    "zipf": 2.01,
+    "definition": "a swing downward of a golf club",
+    "cmu": [
+      "D",
+      "AW1",
+      "N",
+      "S",
+      "W",
+      "IH2",
+      "NG"
+    ]
+  },
+  {
+    "rank": 95059,
+    "word": "lapin",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "definition": "the fur of a rabbit",
+    "cmu": [
+      "L",
+      "AE1",
+      "P",
+      "IH0",
+      "N"
+    ]
+  },
+  {
+    "rank": 95401,
+    "word": "seventieth",
+    "partOfSpeech": "noun",
+    "zipf": 2.0,
+    "definition": "position 70 in a countable series of things",
+    "cmu": [
+      "S",
+      "EH1",
+      "V",
+      "AH0",
+      "N",
+      "T",
+      "IY0",
+      "IH0",
+      "TH"
+    ]
+  },
+  {
+    "rank": 95789,
+    "word": "cacique",
+    "partOfSpeech": "noun",
+    "zipf": 1.99,
+    "definition": "black-and-red or black-and-yellow orioles of the American tropics",
+    "cmu": [
+      "K",
+      "AH0",
+      "S",
+      "IY1",
+      "K"
+    ]
+  },
+  {
+    "rank": 96322,
+    "word": "osmund",
+    "partOfSpeech": "noun",
+    "zipf": 1.99,
+    "definition": "any fern of the genus Osmunda: large ferns with creeping rhizomes; naked sporangia are on modified fronds that resemble flower clusters",
+    "cmu": [
+      "AA1",
+      "S",
+      "M",
+      "AH0",
+      "N",
+      "D"
+    ]
+  },
+  {
+    "rank": 99347,
+    "word": "hazan",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "definition": "the official of a synagogue who conducts the liturgical part of the service and sings or chants the prayers intended to be performed as solos",
+    "cmu": [
+      "HH",
+      "EY1",
+      "Z",
+      "AH0",
+      "N"
+    ]
+  },
+  {
+    "rank": 99574,
+    "word": "minge",
+    "partOfSpeech": "noun",
+    "zipf": 1.96,
+    "definition": "vulgar term for a woman's pubic hair or genitals",
+    "cmu": [
+      "M",
+      "IH1",
+      "N",
+      "JH"
+    ]
+  },
+  {
+    "rank": 100466,
+    "word": "forsythia",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "definition": "any of various early blooming oleaceous shrubs of the genus Forsythia; native to eastern Asia and southern Europe but widely cultivated for their branches of bright yellow bell-shaped flowers",
+    "cmu": [
+      "F",
+      "AO0",
+      "R",
+      "S",
+      "IH1",
+      "TH",
+      "IY0",
+      "AH0"
+    ]
+  },
+  {
+    "rank": 100550,
+    "word": "heth",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "definition": "the 8th letter of the Hebrew alphabet",
+    "cmu": [
+      "HH",
+      "EH1",
+      "TH"
+    ]
+  },
+  {
+    "rank": 101061,
+    "word": "steelworker",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "definition": "a worker engaged in making steel",
+    "cmu": [
+      "S",
+      "T",
+      "IY1",
+      "L",
+      "W",
+      "ER2",
+      "K",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 101177,
+    "word": "videocassette",
+    "partOfSpeech": "noun",
+    "zipf": 1.95,
+    "definition": "a cassette for videotape",
+    "cmu": [
+      "V",
+      "IH1",
+      "D",
+      "IY0",
+      "OW0",
+      "K",
+      "AE0",
+      "S",
+      "EH2",
+      "T"
+    ]
+  },
+  {
+    "rank": 101322,
+    "word": "ballade",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "definition": "a poem consisting of 3 stanzas and an envoy",
+    "cmu": [
+      "B",
+      "AH0",
+      "L",
+      "AA1",
+      "D"
+    ]
+  },
+  {
+    "rank": 101501,
+    "word": "deerskin",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "definition": "leather from the hide of a deer",
+    "cmu": [
+      "D",
+      "IH1",
+      "R",
+      "S",
+      "K",
+      "IH2",
+      "N"
+    ]
+  },
+  {
+    "rank": 101515,
+    "word": "dewberry",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "definition": "any of several trailing blackberry brambles especially of North America",
+    "cmu": [
+      "D",
+      "UW1",
+      "B",
+      "EH2",
+      "R",
+      "IY0"
+    ]
+  },
+  {
+    "rank": 101539,
+    "word": "drumhead",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "definition": "a membrane that is stretched taut over a drum",
+    "cmu": [
+      "D",
+      "R",
+      "AH1",
+      "M",
+      "HH",
+      "EH2",
+      "D"
+    ]
+  },
+  {
+    "rank": 101567,
+    "word": "eightieth",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "definition": "position 80 in a countable series of things",
+    "cmu": [
+      "EY1",
+      "T",
+      "IY0",
+      "IH0",
+      "TH"
+    ]
+  },
+  {
+    "rank": 101855,
+    "word": "lightship",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "definition": "a ship equipped like a lighthouse and anchored where a permanent lighthouse would be impracticable",
+    "cmu": [
+      "L",
+      "AY1",
+      "T",
+      "SH",
+      "IH2",
+      "P"
+    ]
+  },
+  {
+    "rank": 101883,
+    "word": "magnesite",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "definition": "a white mineral consisting of magnesium carbonate; a source of magnesium",
+    "cmu": [
+      "M",
+      "AE1",
+      "G",
+      "N",
+      "AH0",
+      "S",
+      "AY2",
+      "T"
+    ]
+  },
+  {
+    "rank": 101985,
+    "word": "nonesuch",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "definition": "model of excellence or perfection of a kind; one having no equal",
+    "cmu": [
+      "N",
+      "AH1",
+      "N",
+      "S",
+      "AH1",
+      "CH"
+    ]
+  },
+  {
+    "rank": 102027,
+    "word": "pallone",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "definition": "an Italian game similar to tennis",
+    "cmu": [
+      "P",
+      "AA0",
+      "L",
+      "OW1",
+      "N",
+      "IY0"
+    ]
+  },
+  {
+    "rank": 102174,
+    "word": "sharecropper",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "definition": "small farmers and tenants",
+    "cmu": [
+      "SH",
+      "EH1",
+      "R",
+      "K",
+      "R",
+      "AA2",
+      "P",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 102244,
+    "word": "supergiant",
+    "partOfSpeech": "noun",
+    "zipf": 1.94,
+    "definition": "an extremely bright star of very large diameter and low density",
+    "cmu": [
+      "S",
+      "UW1",
+      "P",
+      "ER0",
+      "JH",
+      "AY1",
+      "AH0",
+      "N",
+      "T"
+    ]
+  },
+  {
+    "rank": 102251,
+    "word": "tabulate",
+    "partOfSpeech": "verb",
+    "zipf": 1.94,
+    "definition": "arrange or enter in tabular form",
+    "cmu": [
+      "T",
+      "AE1",
+      "B",
+      "Y",
+      "AH0",
+      "L",
+      "EY2",
+      "T"
+    ]
+  },
+  {
+    "rank": 102665,
+    "word": "diorite",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "definition": "a granular crystalline intrusive rock",
+    "cmu": [
+      "D",
+      "AY1",
+      "ER0",
+      "AY2",
+      "T"
+    ]
+  },
+  {
+    "rank": 102723,
+    "word": "eyestrain",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "definition": "a tiredness of the eyes caused by prolonged close work by a person with an uncorrected vision problem",
+    "cmu": [
+      "AY1",
+      "S",
+      "T",
+      "R",
+      "EY2",
+      "N"
+    ]
+  },
+  {
+    "rank": 103143,
+    "word": "overflight",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "definition": "a flight by an aircraft over a particular area (especially over an area in foreign territory)",
+    "cmu": [
+      "OW1",
+      "V",
+      "ER0",
+      "F",
+      "L",
+      "AY2",
+      "T"
+    ]
+  },
+  {
+    "rank": 103249,
+    "word": "rentable",
+    "partOfSpeech": "adjective",
+    "zipf": 1.93,
+    "definition": "that is able or fit be rented",
+    "cmu": [
+      "R",
+      "EH1",
+      "N",
+      "T",
+      "AH0",
+      "B",
+      "AH0",
+      "L"
+    ]
+  },
+  {
+    "rank": 103250,
+    "word": "rentier",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "definition": "someone whose income is from property rents or bond interest and other investments",
+    "cmu": [
+      "R",
+      "EH1",
+      "T",
+      "IY2",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 103374,
+    "word": "stockyard",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "definition": "enclosed yard where cattle, pigs, horses, or sheep are kept temporarily",
+    "cmu": [
+      "S",
+      "T",
+      "AA1",
+      "K",
+      "Y",
+      "AA2",
+      "R",
+      "D"
+    ]
+  },
+  {
+    "rank": 103434,
+    "word": "toehold",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "definition": "a relatively insignificant position from which future progress might be made",
+    "cmu": [
+      "T",
+      "OW1",
+      "HH",
+      "OW2",
+      "L",
+      "D"
+    ]
+  },
+  {
+    "rank": 103459,
+    "word": "turndown",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "definition": "the act of refusing an offer",
+    "cmu": [
+      "T",
+      "ER1",
+      "N",
+      "D",
+      "AW2",
+      "N"
+    ]
+  },
+  {
+    "rank": 103537,
+    "word": "wrongdoer",
+    "partOfSpeech": "noun",
+    "zipf": 1.93,
+    "definition": "a person who transgresses moral or civil law",
+    "cmu": [
+      "R",
+      "AO1",
+      "NG",
+      "D",
+      "UW1",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 104050,
+    "word": "hornbill",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "definition": "bird of tropical Africa and Asia having a very large bill surmounted by a bony protuberance; related to kingfishers",
+    "cmu": [
+      "HH",
+      "AO1",
+      "R",
+      "N",
+      "B",
+      "IH2",
+      "L"
+    ]
+  },
+  {
+    "rank": 104415,
+    "word": "plasterwork",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "definition": "a surface of hardened plaster (as on a wall or ceiling)",
+    "cmu": [
+      "P",
+      "L",
+      "AE1",
+      "S",
+      "T",
+      "ER0",
+      "W",
+      "ER2",
+      "K"
+    ]
+  },
+  {
+    "rank": 104458,
+    "word": "pyroxene",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "definition": "any of a group of crystalline silicate mineral common in igneous and metamorphic rocks",
+    "cmu": [
+      "P",
+      "AY0",
+      "R",
+      "AA1",
+      "K",
+      "S",
+      "IY0",
+      "N"
+    ]
+  },
+  {
+    "rank": 104586,
+    "word": "simony",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "definition": "traffic in ecclesiastical offices or preferments",
+    "cmu": [
+      "S",
+      "AY1",
+      "M",
+      "AH0",
+      "N",
+      "IY0"
+    ]
+  },
+  {
+    "rank": 104636,
+    "word": "subsequence",
+    "partOfSpeech": "noun",
+    "zipf": 1.92,
+    "definition": "something that follows something else",
+    "cmu": [
+      "S",
+      "AH0",
+      "B",
+      "S",
+      "IY1",
+      "K",
+      "W",
+      "AH0",
+      "N",
+      "S"
+    ]
+  },
+  {
+    "rank": 105125,
+    "word": "downstage",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "definition": "the front half of the stage (as seen from the audience)",
+    "cmu": [
+      "D",
+      "AW1",
+      "N",
+      "S",
+      "T",
+      "EY2",
+      "JH"
+    ]
+  },
+  {
+    "rank": 105298,
+    "word": "hemline",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "definition": "the line formed by the lower edge of a skirt or coat",
+    "cmu": [
+      "HH",
+      "EH1",
+      "M",
+      "L",
+      "AY2",
+      "N"
+    ]
+  },
+  {
+    "rank": 105341,
+    "word": "hypertonic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.91,
+    "definition": "(of living tissue) in a state of abnormally high tension",
+    "cmu": [
+      "HH",
+      "AY2",
+      "P",
+      "ER0",
+      "T",
+      "AA1",
+      "N",
+      "IH0",
+      "K"
+    ]
+  },
+  {
+    "rank": 105658,
+    "word": "openwork",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "definition": "ornamental work (such as embroidery or latticework) having a pattern of openings",
+    "cmu": [
+      "OW1",
+      "P",
+      "AH0",
+      "N",
+      "W",
+      "ER2",
+      "K"
+    ]
+  },
+  {
+    "rank": 105718,
+    "word": "pistil",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "definition": "the female ovule-bearing part of a flower composed of ovary and style and stigma",
+    "cmu": [
+      "P",
+      "IH1",
+      "S",
+      "T",
+      "AH0",
+      "L"
+    ]
+  },
+  {
+    "rank": 105815,
+    "word": "rondeau",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "definition": "a musical form that is often the last movement of a sonata",
+    "cmu": [
+      "R",
+      "AA0",
+      "N",
+      "D",
+      "OW1"
+    ]
+  },
+  {
+    "rank": 106023,
+    "word": "vanillin",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "definition": "a crystalline compound found in vanilla beans and some balsam resins; used in perfumes and flavorings",
+    "cmu": [
+      "V",
+      "AH0",
+      "N",
+      "IH1",
+      "L",
+      "IH0",
+      "N"
+    ]
+  },
+  {
+    "rank": 106028,
+    "word": "vendee",
+    "partOfSpeech": "noun",
+    "zipf": 1.91,
+    "definition": "a person who buys",
+    "cmu": [
+      "V",
+      "EH1",
+      "N",
+      "D",
+      "IY1"
+    ]
+  },
+  {
+    "rank": 106209,
+    "word": "batholith",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "definition": "large mass of intrusive igneous rock believed to have solidified deep within the earth",
+    "cmu": [
+      "B",
+      "AE1",
+      "TH",
+      "AH0",
+      "L",
+      "IH0",
+      "TH"
+    ]
+  },
+  {
+    "rank": 106363,
+    "word": "corundum",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "definition": "very hard mineral used as an abrasive",
+    "cmu": [
+      "K",
+      "ER0",
+      "AH1",
+      "N",
+      "D",
+      "AH0",
+      "M"
+    ]
+  },
+  {
+    "rank": 106538,
+    "word": "frizzle",
+    "partOfSpeech": "verb",
+    "zipf": 1.9,
+    "definition": "fry something until it curls and becomes crisp",
+    "cmu": [
+      "F",
+      "R",
+      "IH1",
+      "Z",
+      "AH0",
+      "L"
+    ]
+  },
+  {
+    "rank": 106651,
+    "word": "hydrometer",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "definition": "a measuring instrument for determining the specific gravity of a liquid or solid",
+    "cmu": [
+      "HH",
+      "AY0",
+      "D",
+      "R",
+      "AA1",
+      "M",
+      "AH0",
+      "T",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 106682,
+    "word": "interweave",
+    "partOfSpeech": "verb",
+    "zipf": 1.9,
+    "definition": "interlace by or as if by weaving",
+    "cmu": [
+      "IH2",
+      "N",
+      "T",
+      "ER0",
+      "W",
+      "IY1",
+      "V"
+    ]
+  },
+  {
+    "rank": 107092,
+    "word": "sherbert",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "definition": "a frozen dessert made primarily of fruit juice and sugar, but also containing milk or egg-white or gelatin",
+    "cmu": [
+      "SH",
+      "ER1",
+      "B",
+      "ER0",
+      "T"
+    ]
+  },
+  {
+    "rank": 107194,
+    "word": "teleology",
+    "partOfSpeech": "noun",
+    "zipf": 1.9,
+    "definition": "(philosophy) a doctrine explaining phenomena by their ends or purposes",
+    "cmu": [
+      "T",
+      "IY1",
+      "L",
+      "IY0",
+      "AO2",
+      "L",
+      "AH0",
+      "JH",
+      "IY2"
+    ]
+  },
+  {
+    "rank": 107251,
+    "word": "undersell",
+    "partOfSpeech": "verb",
+    "zipf": 1.9,
+    "definition": "sell cheaper than one's competition",
+    "cmu": [
+      "AH1",
+      "N",
+      "D",
+      "ER0",
+      "S",
+      "EH2",
+      "L"
+    ]
+  },
+  {
+    "rank": 107474,
+    "word": "beefeater",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "definition": "officer in the (ceremonial) bodyguard of the British monarch",
+    "cmu": [
+      "B",
+      "IY1",
+      "F",
+      "IY2",
+      "T",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 107499,
+    "word": "bitchiness",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "definition": "malevolence by virtue of being malicious or spiteful or nasty",
+    "cmu": [
+      "B",
+      "IH1",
+      "CH",
+      "IY0",
+      "N",
+      "AH0",
+      "S"
+    ]
+  },
+  {
+    "rank": 107757,
+    "word": "flatfish",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "definition": "sweet lean whitish flesh of any of numerous thin-bodied fish; usually served as thin fillets",
+    "cmu": [
+      "F",
+      "L",
+      "AE1",
+      "T",
+      "F",
+      "IH2",
+      "SH"
+    ]
+  },
+  {
+    "rank": 107843,
+    "word": "hackberry",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "definition": "any of various trees of the genus Celtis having inconspicuous flowers and small berrylike fruits",
+    "cmu": [
+      "HH",
+      "AE1",
+      "K",
+      "B",
+      "EH2",
+      "R",
+      "IY0"
+    ]
+  },
+  {
+    "rank": 107844,
+    "word": "hackle",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "definition": "long slender feather on the necks of e.g. turkeys and pheasants",
+    "cmu": [
+      "HH",
+      "AE1",
+      "K",
+      "AH0",
+      "L"
+    ]
+  },
+  {
+    "rank": 107851,
+    "word": "handbill",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "definition": "an advertisement (usually printed on a page or in a leaflet) intended for wide distribution",
+    "cmu": [
+      "HH",
+      "AE1",
+      "N",
+      "D",
+      "B",
+      "IH2",
+      "L"
+    ]
+  },
+  {
+    "rank": 107886,
+    "word": "hoarseness",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "definition": "a throaty harshness",
+    "cmu": [
+      "HH",
+      "AO1",
+      "R",
+      "S",
+      "N",
+      "AH0",
+      "S"
+    ]
+  },
+  {
+    "rank": 107895,
+    "word": "horsetail",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "definition": "perennial rushlike flowerless herbs with jointed hollow stems and narrow toothlike leaves that spread by creeping rhizomes; tend to become weedy; common in northern hemisphere; some in Africa and South America",
+    "cmu": [
+      "HH",
+      "AO1",
+      "R",
+      "S",
+      "T",
+      "EY2",
+      "L"
+    ]
+  },
+  {
+    "rank": 107988,
+    "word": "klick",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "definition": "a metric unit of length equal to 1000 meters (or 0.621371 miles)",
+    "cmu": [
+      "K",
+      "L",
+      "IH1",
+      "K"
+    ]
+  },
+  {
+    "rank": 108363,
+    "word": "roundworm",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "definition": "infections of the skin or nails caused by fungi and appearing as itching circular patches",
+    "cmu": [
+      "R",
+      "AW1",
+      "N",
+      "D",
+      "W",
+      "ER0",
+      "M"
+    ]
+  },
+  {
+    "rank": 108541,
+    "word": "transferability",
+    "partOfSpeech": "noun",
+    "zipf": 1.89,
+    "definition": "the quality of being transferable or exchangeable",
+    "cmu": [
+      "T",
+      "R",
+      "AE2",
+      "N",
+      "S",
+      "F",
+      "ER0",
+      "AH0",
+      "B",
+      "IH1",
+      "L",
+      "IH0",
+      "T",
+      "IY0"
+    ]
+  },
+  {
+    "rank": 108734,
+    "word": "asper",
+    "partOfSpeech": "noun",
+    "zipf": 1.88,
+    "definition": "20 aspers equal 1 kurus in Turkey",
+    "cmu": [
+      "AE1",
+      "S",
+      "P",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 108892,
+    "word": "cleanness",
+    "partOfSpeech": "noun",
+    "zipf": 1.88,
+    "definition": "the state of being clean; without dirt or other impurities",
+    "cmu": [
+      "K",
+      "L",
+      "IY1",
+      "N",
+      "IH0",
+      "S"
+    ]
+  },
+  {
+    "rank": 108911,
+    "word": "coleus",
+    "partOfSpeech": "noun",
+    "zipf": 1.88,
+    "definition": "any of various Old World tropical plants of the genus Coleus having multicolored decorative leaves and spikes of blue flowers",
+    "cmu": [
+      "K",
+      "OW1",
+      "L",
+      "IY0",
+      "AH0",
+      "S"
+    ]
+  },
+  {
+    "rank": 108916,
+    "word": "comfrey",
+    "partOfSpeech": "noun",
+    "zipf": 1.88,
+    "definition": "perennial herbs of Europe and Iran; make rapidly growing groundcover for shaded areas",
+    "cmu": [
+      "K",
+      "AH1",
+      "M",
+      "F",
+      "R",
+      "IY0"
+    ]
+  },
+  {
+    "rank": 109074,
+    "word": "flagellate",
+    "partOfSpeech": "noun",
+    "zipf": 1.88,
+    "definition": "a usually nonphotosynthetic free-living protozoan with whiplike appendages; some are pathogens of humans and other animals",
+    "cmu": [
+      "F",
+      "L",
+      "AE1",
+      "JH",
+      "AH0",
+      "L",
+      "EY2",
+      "T"
+    ]
+  },
+  {
+    "rank": 109134,
+    "word": "grapeshot",
+    "partOfSpeech": "noun",
+    "zipf": 1.88,
+    "definition": "a cluster of small projectiles fired together from a cannon to produce a hail of shot",
+    "cmu": [
+      "G",
+      "R",
+      "EY1",
+      "P",
+      "SH",
+      "AA2",
+      "T"
+    ]
+  },
+  {
+    "rank": 109216,
+    "word": "indaba",
+    "partOfSpeech": "noun",
+    "zipf": 1.88,
+    "definition": "a council at which indigenous peoples of southern Africa meet to discuss some important question",
+    "cmu": [
+      "IH2",
+      "N",
+      "D",
+      "AA1",
+      "B",
+      "AH0"
+    ]
+  },
+  {
+    "rank": 109250,
+    "word": "junco",
+    "partOfSpeech": "noun",
+    "zipf": 1.88,
+    "definition": "small North American finch seen chiefly in winter",
+    "cmu": [
+      "JH",
+      "AH1",
+      "NG",
+      "K",
+      "OW0"
+    ]
+  },
+  {
+    "rank": 109521,
+    "word": "parochialism",
+    "partOfSpeech": "noun",
+    "zipf": 1.88,
+    "definition": "a limitation of views or interests like that defined by a local parish",
+    "cmu": [
+      "P",
+      "ER0",
+      "OW1",
+      "K",
+      "IY0",
+      "AH0",
+      "L",
+      "IH2",
+      "Z",
+      "AH0",
+      "M"
+    ]
+  },
+  {
+    "rank": 110470,
+    "word": "homophone",
+    "partOfSpeech": "noun",
+    "zipf": 1.87,
+    "definition": "two words are homophones if they are pronounced the same way but differ in meaning or spelling or both (e.g. bare and bear)",
+    "cmu": [
+      "HH",
+      "OW1",
+      "M",
+      "OW0",
+      "F",
+      "OW2",
+      "N"
+    ]
+  }
+]
