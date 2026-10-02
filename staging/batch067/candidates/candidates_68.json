@@ -1,0 +1,702 @@
+[
+  {
+    "word": "frontbencher",
+    "partOfSpeech": "noun",
+    "zipf": 1.49,
+    "score": 20.1,
+    "definition": "a member of the House of Commons who is a minister in the government or who holds an official position in an opposition party"
+  },
+  {
+    "word": "lasciviousness",
+    "partOfSpeech": "noun",
+    "zipf": 1.49,
+    "score": 20.1,
+    "definition": "feeling morbid sexual desire or a propensity to lewdness"
+  },
+  {
+    "word": "quester",
+    "partOfSpeech": "noun",
+    "zipf": 1.49,
+    "score": 20.1,
+    "definition": "someone making a search or inquiry"
+  },
+  {
+    "word": "rewriter",
+    "partOfSpeech": "noun",
+    "zipf": 1.49,
+    "score": 20.1,
+    "definition": "someone who puts text into appropriate form for publication"
+  },
+  {
+    "word": "sawhorse",
+    "partOfSpeech": "noun",
+    "zipf": 1.49,
+    "score": 20.1,
+    "definition": "a framework for holding wood that is being sawed"
+  },
+  {
+    "word": "stopcock",
+    "partOfSpeech": "noun",
+    "zipf": 1.49,
+    "score": 20.1,
+    "definition": "faucet consisting of a rotating device for regulating flow of a liquid"
+  },
+  {
+    "word": "uvea",
+    "partOfSpeech": "noun",
+    "zipf": 1.49,
+    "score": 20.1,
+    "definition": "the part of the eye that contains the iris and ciliary body and choroid"
+  },
+  {
+    "word": "dogsbody",
+    "partOfSpeech": "noun",
+    "zipf": 1.37,
+    "score": 20.1,
+    "definition": "a worker who has to do all the unpleasant or boring jobs that no one else wants to do"
+  },
+  {
+    "word": "geothermally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.01,
+    "score": 20.1,
+    "definition": "by means of heat from the interior of the earth"
+  },
+  {
+    "word": "literatim",
+    "partOfSpeech": "adverb",
+    "zipf": 1.01,
+    "score": 20.1,
+    "definition": "letter for letter"
+  },
+  {
+    "word": "plaguy",
+    "partOfSpeech": "adverb",
+    "zipf": 1.01,
+    "score": 20.1,
+    "definition": "in a disagreeable manner"
+  },
+  {
+    "word": "reservedly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.01,
+    "score": 20.1,
+    "definition": "with reserve; in a reserved manner"
+  },
+  {
+    "word": "thriftily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.01,
+    "score": 20.1,
+    "definition": "in a thrifty manner"
+  },
+  {
+    "word": "acceptation",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "acceptance as true or valid"
+  },
+  {
+    "word": "achillea",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "any of several plants of the genus Achillea native to Europe and having small white flowers in flat-topped flower heads"
+  },
+  {
+    "word": "ackee",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "red pear-shaped tropical fruit with poisonous seeds; flesh is poisonous when unripe or overripe"
+  },
+  {
+    "word": "acylation",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "the process of introducing an acyl group into a compound"
+  },
+  {
+    "word": "ampulla",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "the dilated portion of a canal or duct especially of the semicircular canals of the ear"
+  },
+  {
+    "word": "anointment",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "the act of applying oil or an oily liquid"
+  },
+  {
+    "word": "antiparticle",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "a particle that has the same mass as another particle but has opposite values for its other properties; interaction of a particle and its antiparticle results in annihilation and the production of radiant energy"
+  },
+  {
+    "word": "audibility",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "quality or fact or degree of being audible or perceptible by the ear"
+  },
+  {
+    "word": "ayin",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "the 16th letter of the Hebrew alphabet"
+  },
+  {
+    "word": "bastardy",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "the status of being born to parents who were not married"
+  },
+  {
+    "word": "bentwood",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "wood that is steamed until it becomes pliable and then is shaped for use in making furniture"
+  },
+  {
+    "word": "brasier",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "large metal container in which coal or charcoal is burned; warms people who must stay outside for long times"
+  },
+  {
+    "word": "bryozoan",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "sessile aquatic animal forming mossy colonies of small polyps each having a curved or circular ridge bearing tentacles; attach to stones or seaweed and reproduce by budding"
+  },
+  {
+    "word": "butterbean",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "small flat green bean similar to lima beans"
+  },
+  {
+    "word": "chorion",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "the outermost membranous sac enclosing the embryo in higher vertebrates (reptiles, birds and mammals)"
+  },
+  {
+    "word": "cingulum",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "(anatomy) an encircling structure (as the ridge around the base of a tooth)"
+  },
+  {
+    "word": "cowhand",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "a hired hand who tends cattle and performs other duties on horseback"
+  },
+  {
+    "word": "crawdad",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "tiny lobster-like crustaceans usually boiled briefly"
+  },
+  {
+    "word": "cryostat",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "a thermostat that operates at very low temperatures"
+  },
+  {
+    "word": "deuteron",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "the nucleus of deuterium; consists of one proton and one neutron; used as a bombarding particle in accelerators"
+  },
+  {
+    "word": "eclogue",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "a short poem descriptive of rural or pastoral life"
+  },
+  {
+    "word": "effortlessness",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "the quality of requiring little effort"
+  },
+  {
+    "word": "enology",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "the art of wine making"
+  },
+  {
+    "word": "epicondyle",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "a projection on a bone above a condyle serving for the attachment of muscles and ligaments"
+  },
+  {
+    "word": "epistaxis",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "bleeding from the nose"
+  },
+  {
+    "word": "faithlessness",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "unfaithfulness by virtue of being unreliable or treacherous"
+  },
+  {
+    "word": "flakiness",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "informal terms for insanity"
+  },
+  {
+    "word": "graffito",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "a rude decoration inscribed on rocks or walls"
+  },
+  {
+    "word": "handbell",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "a bell that is held in the hand"
+  },
+  {
+    "word": "hawser",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "large heavy rope for nautical use"
+  },
+  {
+    "word": "hepatoma",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "carcinoma of the liver"
+  },
+  {
+    "word": "hymenium",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "spore-bearing layer of cells in certain fungi containing asci or basidia"
+  },
+  {
+    "word": "icepick",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "pick consisting of a steel rod with a sharp point; used for breaking up blocks of ice"
+  },
+  {
+    "word": "ileus",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "blockage of the intestine (especially the ileum) that prevents the contents of the intestine from passing to the lower bowel"
+  },
+  {
+    "word": "isomerism",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "the state of being an isomer; the complex of chemical and physical phenomena characteristic of isomers"
+  },
+  {
+    "word": "isometry",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "the growth rates in different parts of a growing organism are the same"
+  },
+  {
+    "word": "isothiocyanate",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "a family of compounds derived from horseradish and radishes and onions and mustards; source of the hotness of those plants and preparations"
+  },
+  {
+    "word": "kludge",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "a badly assembled collection of parts hastily assembled to serve some particular purpose (often used to refer to computing systems or software that has been badly put together)"
+  },
+  {
+    "word": "leptospira",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "important pathogens causing Weil's disease or canicola fever"
+  },
+  {
+    "word": "lubricator",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "a substance capable of reducing friction by making surfaces smooth or slippery"
+  },
+  {
+    "word": "malvasia",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "used to make malmsey wine"
+  },
+  {
+    "word": "mesentery",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "a double layer of peritoneum that attaches to the back wall of the abdominal cavity and supports the small intestines"
+  },
+  {
+    "word": "millilitre",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "a metric unit of volume equal to one thousandth of a liter"
+  },
+  {
+    "word": "particularism",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "a focus on something particular"
+  },
+  {
+    "word": "perisher",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "bounder"
+  },
+  {
+    "word": "posset",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "sweet spiced hot milk curdled with ale or beer"
+  },
+  {
+    "word": "pyelonephritis",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "inflammation of the kidney and its pelvis caused by bacterial infection"
+  },
+  {
+    "word": "sardonyx",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "an onyx characterized by parallel layers of sard and a different colored mineral"
+  },
+  {
+    "word": "shaytan",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "(Islam) a rebellious jinni who leads men astray"
+  },
+  {
+    "word": "shebeen",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "unlicensed drinking establishment"
+  },
+  {
+    "word": "silicide",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "any of various compounds of silicon with a more electropositive element or radical"
+  },
+  {
+    "word": "spawner",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "a female fish at spawning time"
+  },
+  {
+    "word": "stocktaking",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "reappraisal of a situation or position or outlook"
+  },
+  {
+    "word": "torero",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "a matador or one of the supporting team during a bull fight"
+  },
+  {
+    "word": "tramcar",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "a four-wheeled wagon that runs on tracks in a mine"
+  },
+  {
+    "word": "transmogrification",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "the act of changing into a different form or appearance (especially a fantastic or grotesque one)"
+  },
+  {
+    "word": "traumatology",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "the branch of medicine that deals with the surgical repair of injuries and wounds arising from accidents"
+  },
+  {
+    "word": "trematode",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "parasitic flatworms having external suckers for attaching to a host"
+  },
+  {
+    "word": "varan",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "any of various large tropical carnivorous lizards of Africa and Asia and Australia; fabled to warn of crocodiles"
+  },
+  {
+    "word": "villus",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "a minute hairlike projection on mucous membrane"
+  },
+  {
+    "word": "wantonness",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "the trait of lacking restraint or control; reckless freedom from inhibition or worry"
+  },
+  {
+    "word": "wheedling",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "the act of urging by means of teasing or flattery"
+  },
+  {
+    "word": "whitecap",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 20.0,
+    "definition": "a wave that is blown by the wind so its crest is broken and appears white"
+  },
+  {
+    "word": "appeaser",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "someone who tries to bring peace by acceding to demands; --Winston Churchill"
+  },
+  {
+    "word": "bookfair",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "fair organized by publishers or booksellers to promote the sale of books"
+  },
+  {
+    "word": "canonist",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "a specialist in canon law"
+  },
+  {
+    "word": "cocotte",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "a woman who engages in sexual intercourse for money"
+  },
+  {
+    "word": "crosshead",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "a heading of a subsection printed within the body of the text"
+  },
+  {
+    "word": "deinonychus",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "swift agile wolf-sized bipedal dinosaur having a large curved claw on each hind foot; of the Cretaceous"
+  },
+  {
+    "word": "dreaminess",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "a relaxed comfortable feeling"
+  },
+  {
+    "word": "luxuria",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "self-indulgent sexual desire (personified as one of the deadly sins)"
+  },
+  {
+    "word": "monstera",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "any plant of the genus Monstera; often grown as houseplants"
+  },
+  {
+    "word": "moonshiner",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "someone who makes or sells illegal liquor"
+  },
+  {
+    "word": "mutilator",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "a person who mutilates or destroys or disfigures or cripples"
+  },
+  {
+    "word": "parapsychologist",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "someone who studies the evidence for such psychological phenomena as psychokinesis and telepathy and clairvoyance"
+  },
+  {
+    "word": "phrenologist",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "someone who claims to be able to read your character from the shape of your skull"
+  },
+  {
+    "word": "praesidium",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "a permanent executive committee in socialist countries that has all the powers of some larger legislative body and that acts for it when it is not in session"
+  },
+  {
+    "word": "pyrexia",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "a rise in the temperature of the body; frequently a symptom of infection"
+  },
+  {
+    "word": "requiescat",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "a prayer for the repose of the soul of a dead person"
+  },
+  {
+    "word": "schoolfriend",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "a friend who attends the same school"
+  },
+  {
+    "word": "schoolmarm",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "a woman schoolteacher (especially one regarded as strict)"
+  },
+  {
+    "word": "scrag",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "a person who is unusually thin and scrawny"
+  },
+  {
+    "word": "sunbather",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "someone who basks in the sunshine in order to get a suntan"
+  },
+  {
+    "word": "tinner",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "someone who makes or repairs tinware"
+  },
+  {
+    "word": "totalisator",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "computer that registers bets and divides the total amount bet among those who won"
+  },
+  {
+    "word": "turnstone",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 20.0,
+    "definition": "migratory shorebirds of the plover family that turn over stones in searching for food"
+  },
+  {
+    "word": "tachograph",
+    "partOfSpeech": "noun",
+    "zipf": 1.36,
+    "score": 20.0,
+    "definition": "a tachometer that produces a graphical record of its readings; used to record the speed and duration of trips in a motor vehicle"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "word": "pinny",
+    "partOfSpeech": "noun",
+    "zipf": 1.61,
+    "score": 21.3,
+    "definition": "a sleeveless dress resembling an apron; worn over other clothing"
+  },
+  {
+    "word": "presentiment",
+    "partOfSpeech": "noun",
+    "zipf": 1.61,
+    "score": 21.3,
+    "definition": "a feeling of evil to come"
+  },
+  {
+    "word": "pseud",
+    "partOfSpeech": "noun",
+    "zipf": 1.61,
+    "score": 21.3,
+    "definition": "a person who makes deceitful pretenses"
+  },
+  {
+    "word": "ranter",
+    "partOfSpeech": "noun",
+    "zipf": 1.61,
+    "score": 21.3,
+    "definition": "someone who rants and raves; speaks in a violent or loud manner"
+  },
+  {
+    "word": "reenactor",
+    "partOfSpeech": "noun",
+    "zipf": 1.61,
+    "score": 21.3,
+    "definition": "a person who enacts a role in an event that occurred earlier"
+  },
+  {
+    "word": "salvor",
+    "partOfSpeech": "noun",
+    "zipf": 1.61,
+    "score": 21.3,
+    "definition": "someone who salvages"
+  },
+  {
+    "word": "sirdar",
+    "partOfSpeech": "noun",
+    "zipf": 1.61,
+    "score": 21.3,
+    "definition": "an important person in India"
+  },
+  {
+    "word": "spanker",
+    "partOfSpeech": "noun",
+    "zipf": 1.61,
+    "score": 21.3,
+    "definition": "a hitter who slaps (usually another person) with an open hand"
+  },
+  {
+    "word": "toiler",
+    "partOfSpeech": "noun",
+    "zipf": 1.61,
+    "score": 21.3,
+    "definition": "one who works strenuously"
+  },
+  {
+    "word": "toxicant",
+    "partOfSpeech": "noun",
+    "zipf": 1.61,
+    "score": 21.3,
+    "definition": "any substance that causes injury or illness or death of a living organism"
+  },
+  {
+    "word": "swagman",
+    "partOfSpeech": "noun",
+    "zipf": 1.37,
+    "score": 21.3,
+    "definition": "an itinerant Australian laborer who carries his personal belongings in a bundle as he travels around in search of work"
+  },
+  {
+    "word": "blamelessly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.13,
+    "score": 21.3,
+    "definition": "in an irreproachable and blameless manner"
+  },
+  {
+    "word": "bombastically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.13,
+    "score": 21.3,
+    "definition": "in a turgid manner"
+  },
+  {
+    "word": "endwise",
+    "partOfSpeech": "adverb",
+    "zipf": 1.13,
+    "score": 21.3,
+    "definition": "on end or upright"
+  },
+  {
+    "word": "lingeringly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.13,
+    "score": 21.3,
+    "definition": "in a slow, leisurely or prolonged way;  -Rossetti"
+  },
+  {
+    "word": "peevishly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.13,
+    "score": 21.3,
+    "definition": "in a peevish manner"
+  },
+  {
+    "word": "reprehensibly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.13,
+    "score": 21.3,
+    "definition": "in a manner or to a degree deserving blame or censure"
+  },
+  {
+    "word": "traitorously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.13,
+    "score": 21.3,
+    "definition": "in a disloyal and faithless manner"
+  },
+  {
+    "word": "aggrandisement",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "the act of increasing the wealth or prestige or power or scope of something"
+  },
+  {
+    "word": "amphipod",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "a kind of malacostracan crustacean"
+  },
+  {
+    "word": "buckboard",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "an open horse-drawn carriage with four wheels; has a seat attached to a flexible board between the two axles"
+  },
+  {
+    "word": "catechin",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "a tannic acid that is extracted from black catechu as a white crystalline substance"
+  },
+  {
+    "word": "cockatrice",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "monster hatched by a reptile from a cock's egg; able to kill with a glance"
+  },
+  {
+    "word": "conjuncture",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "a critical combination of events or circumstances"
+  },
+  {
+    "word": "convolvulus",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "any of numerous plants of the genus Convolvulus"
+  },
+  {
+    "word": "cowpox",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "a viral disease of cattle causing a mild skin disease affecting the udder; formerly used to inoculate humans against smallpox"
+  },
+  {
+    "word": "dayspring",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "the first light of day"
+  },
+  {
+    "word": "demoiselle",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "a young unmarried woman"
+  },
+  {
+    "word": "dependance",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs)"
+  },
+  {
+    "word": "dichloromethane",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "a nonflammable liquid used as a solvent and paint remover and refrigerant"
+  },
+  {
+    "word": "didactics",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "the activities of educating or instructing; activities that impart knowledge or skill"
+  },
+  {
+    "word": "dirndl",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "a full skirt with a gathered waistband"
+  },
+  {
+    "word": "doohickey",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "something unspecified whose name is either forgotten or not known"
+  },
+  {
+    "word": "educationalist",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "a specialist in the theory of education"
+  },
+  {
+    "word": "encasement",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "the act of enclosing something in a case"
+  },
+  {
+    "word": "evolutionism",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "(biology) a scientific theory of the origin of species of plants and animals"
+  },
+  {
+    "word": "experimentalism",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "an empirical doctrine that advocates experimental principles"
+  },
+  {
+    "word": "haversack",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "a bag carried by a strap on your back or shoulder"
+  },
+  {
+    "word": "heartlessness",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "an absence of concern for the welfare of others"
+  },
+  {
+    "word": "hyperextension",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "greater than normal extension"
+  },
+  {
+    "word": "jennet",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "female donkey"
+  },
+  {
+    "word": "linocut",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "a print that is made from a design carved in relief into a block of linoleum"
+  },
+  {
+    "word": "mesenchyme",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "mesodermal tissue that forms connective tissue and blood and smooth muscles"
+  },
+  {
+    "word": "metonymy",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "substituting the name of an attribute or feature for the name of the thing itself (as in `they counted heads')"
+  },
+  {
+    "word": "mujahedeen",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "a military force of Muslim guerilla warriors engaged in a jihad"
+  },
+  {
+    "word": "neocolonialism",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "control by a powerful country of its former colonies (or other less developed countries) by economic pressures"
+  },
+  {
+    "word": "outsole",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "the outer sole of a shoe or boot that is the bottom of the shoe and makes contact with the ground"
+  },
+  {
+    "word": "overexploitation",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "exploitation to the point of diminishing returns"
+  },
+  {
+    "word": "passerine",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "perching birds mostly small and living near the ground with feet having 4 toes arranged to allow for gripping the perch; most are songbirds; hatchlings are helpless"
+  },
+  {
+    "word": "peafowl",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "very large terrestrial southeast Asian pheasant often raised as an ornamental bird"
+  },
+  {
+    "word": "pectus",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "the part of the human torso between the neck and the diaphragm or the corresponding part in other vertebrates"
+  },
+  {
+    "word": "phimosis",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "an abnormal tightness of the foreskin preventing retraction over the glans"
+  },
+  {
+    "word": "propanol",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "a clear colorless volatile liquid (alcohol) used as a solvent and antiseptic"
+  },
+  {
+    "word": "radiogram",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "a message transmitted by wireless telegraphy"
+  },
+  {
+    "word": "roulade",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "a dish consisting of a slice of meat that is rolled around a filling and cooked"
+  },
+  {
+    "word": "separability",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "the capability of being separated"
+  },
+  {
+    "word": "slipperiness",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "a slippery smoothness"
+  },
+  {
+    "word": "spiritism",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "concern with things of the spirit"
+  },
+  {
+    "word": "subconsciousness",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "a state of mind not immediately available to consciousness"
+  },
+  {
+    "word": "subvention",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "grant of financial aid as from a government to an educational institution"
+  },
+  {
+    "word": "taenia",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "a narrow headband or strip of ribbon worn as a headband"
+  },
+  {
+    "word": "thundercloud",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "a dark cloud of great vertical extent charged with electricity; associated with thunderstorms"
+  },
+  {
+    "word": "transvestism",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "the practice of adopting the clothes or the manner or the sexual role of the opposite sex"
+  },
+  {
+    "word": "tuberosity",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "a protuberance on a bone especially for attachment of a muscle or ligament"
+  },
+  {
+    "word": "typographer",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "one who sets written material into type"
+  },
+  {
+    "word": "umbel",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "flat-topped or rounded inflorescence characteristic of the family Umbelliferae in which the individual flower stalks arise from about the same point; youngest flowers are at the center"
+  },
+  {
+    "word": "volvulus",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "abnormal twisting of the intestines (usually in the area of the ileum or sigmoid colon) resulting in intestinal obstruction"
+  },
+  {
+    "word": "wiggler",
+    "partOfSpeech": "noun",
+    "zipf": 1.72,
+    "score": 21.2,
+    "definition": "one who can't stay still (especially a child)"
+  },
+  {
+    "word": "assignor",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 21.2,
+    "definition": "(law) the party who makes an assignment"
+  },
+  {
+    "word": "scatterbrain",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 21.2,
+    "definition": "a flighty and disorganized person"
+  },
+  {
+    "word": "tinsmith",
+    "partOfSpeech": "noun",
+    "zipf": 1.6,
+    "score": 21.2,
+    "definition": "someone who makes or repairs tinware"
+  },
+  {
+    "word": "perfecter",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 21.2,
+    "definition": "a skilled worker who perfects something"
+  },
+  {
+    "word": "cuttingly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.12,
+    "score": 21.2,
+    "definition": "in an intentionally unkind way"
+  },
+  {
+    "word": "dourly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.12,
+    "score": 21.2,
+    "definition": "in a sullen manner"
+  },
+  {
+    "word": "felicitously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.12,
+    "score": 21.2,
+    "definition": "in a felicitous manner"
+  },
+  {
+    "word": "isotropically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.12,
+    "score": 21.2,
+    "definition": "in an isotropic manner"
+  },
+  {
+    "word": "lackadaisically",
+    "partOfSpeech": "adverb",
+    "zipf": 1.12,
+    "score": 21.2,
+    "definition": "in an idle and lackadaisical manner"
+  },
+  {
+    "word": "limitedly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.12,
+    "score": 21.2,
+    "definition": "in a limited manner"
+  },
+  {
+    "word": "lopsidedly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.12,
+    "score": 21.2,
+    "definition": "in a crooked lopsided manner"
+  },
+  {
+    "word": "manipulatively",
+    "partOfSpeech": "adverb",
+    "zipf": 1.12,
+    "score": 21.2,
+    "definition": "in an artfully manipulative manner"
+  },
+  {
+    "word": "parochially",
+    "partOfSpeech": "adverb",
+    "zipf": 1.12,
+    "score": 21.2,
+    "definition": "in a parochial manner"
+  },
+  {
+    "word": "pertly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.12,
+    "score": 21.2,
+    "definition": "in an impudent or impertinent manner"
+  },
+  {
+    "word": "prodigally",
+    "partOfSpeech": "adverb",
+    "zipf": 1.12,
+    "score": 21.2,
+    "definition": "to a wasteful manner or to a wasteful degree"
+  },
+  {
+    "word": "thirdhand",
+    "partOfSpeech": "adverb",
+    "zipf": 1.12,
+    "score": 21.2,
+    "definition": "by doubly indirect means"
+  },
+  {
+    "word": "abasement",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 21.1,
+    "definition": "a low or downcast state; - H.L.Menchken"
+  },
+  {
+    "word": "almsgiving",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 21.1,
+    "definition": "making voluntary contributions to aid the poor"
+  },
+  {
+    "word": "anthelmintic",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 21.1,
+    "definition": "a medication capable of causing the evacuation of parasitic intestinal worms"
+  },
+  {
+    "word": "antiarrhythmic",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 21.1,
+    "definition": "a drug used to treat an abnormal heart rhythm"
+  },
+  {
+    "word": "aquavit",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 21.1,
+    "definition": "Scandinavian liquor usually flavored with caraway seeds"
+  },
+  {
+    "word": "aril",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 21.1,
+    "definition": "fleshy and usually brightly colored cover of some seeds that develops from the ovule stalk and partially or entirely envelopes the seed"
+  },
+  {
+    "word": "bathos",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 21.1,
+    "definition": "triteness or triviality of style"
+  },
+  {
+    "word": "benthos",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 21.1,
+    "definition": "a region including the bottom of the sea and the littoral zones"
+  },
+  {
+    "word": "benzocaine",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 21.1,
+    "definition": "a white crystalline ester used as a local anesthetic"
+  },
+  {
+    "word": "binnacle",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 21.1,
+    "definition": "a nonmagnetic housing for a ship's compass (usually in front of the helm)"
+  },
+  {
+    "word": "calcination",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 21.1,
+    "definition": "the conversion of metals into their oxides as a result of heating to a high temperature"
+  },
+  {
+    "word": "candlewick",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 21.1,
+    "definition": "the wick of a candle"
+  },
+  {
+    "word": "chignon",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 21.1,
+    "definition": "a roll of hair worn at the nape of the neck"
+  },
+  {
+    "word": "cilium",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 21.1,
+    "definition": "a hairlike projection from the surface of a cell; provides locomotion in free-swimming unicellular organisms"
+  },
+  {
+    "word": "collimation",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 21.1,
+    "definition": "the accurate adjustment of the line of sight of a telescope"
+  },
+  {
+    "word": "conferral",
+    "partOfSpeech": "noun",
+    "zipf": 1.71,
+    "score": 21.1,
+    "definition": "the act of conferring an honor or presenting a gift"
+  }
+]

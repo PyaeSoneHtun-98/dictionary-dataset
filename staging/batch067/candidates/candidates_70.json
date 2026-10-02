@@ -1,0 +1,702 @@
+[
+  {
+    "word": "heaver",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "a bar used as a lever (as in twisting rope)"
+  },
+  {
+    "word": "ignitor",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "a substance used to ignite or kindle a fire"
+  },
+  {
+    "word": "interpenetration",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "the action of penetrating between or among"
+  },
+  {
+    "word": "kalmia",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "any plant of the genus Kalmia"
+  },
+  {
+    "word": "lahar",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "an avalanche of volcanic water and mud down the slopes of a volcano"
+  },
+  {
+    "word": "lobule",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "a small lobe or subdivision of a lobe"
+  },
+  {
+    "word": "maranta",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "any of numerous herbs of the genus Maranta having tuberous starchy roots and large sheathing leaves"
+  },
+  {
+    "word": "mestiza",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "a woman of mixed racial ancestry (especially mixed European and Native American ancestry)"
+  },
+  {
+    "word": "myometrium",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "the smooth muscle forming the wall of the uterus"
+  },
+  {
+    "word": "neap",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "a less than average tide occurring at the first and third quarters of the moon"
+  },
+  {
+    "word": "opsin",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "retinal protein formed by the action of light on rhodopsin"
+  },
+  {
+    "word": "outturn",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "what is produced in a given time period"
+  },
+  {
+    "word": "pennon",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "a long flag; often tapering"
+  },
+  {
+    "word": "petrification",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "the process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape"
+  },
+  {
+    "word": "phalarope",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "small sandpiper-like shorebird having lobate toes and being good swimmers; breed in the Arctic and winter in the tropics"
+  },
+  {
+    "word": "pilau",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "rice cooked in well-seasoned broth with onions or celery and usually poultry or game or shellfish and sometimes tomatoes"
+  },
+  {
+    "word": "polysemy",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "the ambiguity of an individual word or phrase that can be used (in different contexts) to express two or more different meanings"
+  },
+  {
+    "word": "praetorium",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "the tent of an ancient Roman general"
+  },
+  {
+    "word": "primatology",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "the branch of zoology that studies primates"
+  },
+  {
+    "word": "quizmaster",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "the host or chairman of a radio or tv quiz show or panel game"
+  },
+  {
+    "word": "sailplane",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "aircraft supported only by the dynamic action of air against its surfaces"
+  },
+  {
+    "word": "saponin",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "any of various plant glucosides that form soapy lathers when mixed and agitated with water; used in detergents and foaming agents and emulsifiers"
+  },
+  {
+    "word": "sporangium",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "organ containing or producing spores"
+  },
+  {
+    "word": "streetwalker",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "a prostitute who attracts customers by walking the streets"
+  },
+  {
+    "word": "tantalite",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "a mineral consisting of tantalum oxide of iron and manganese that occurs with niobite or in coarse granite; an ore of tantalum"
+  },
+  {
+    "word": "teras",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "(medicine) a grossly malformed and usually nonviable fetus"
+  },
+  {
+    "word": "tricorn",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "cocked hat with the brim turned up to form three points"
+  },
+  {
+    "word": "tutorship",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "teaching pupils individually (usually by a tutor hired privately)"
+  },
+  {
+    "word": "urokinase",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "protease produced in the kidney that converts plasminogen to plasmin and so initiates fibrinolysis"
+  },
+  {
+    "word": "wigging",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "British slang for a scolding"
+  },
+  {
+    "word": "winepress",
+    "partOfSpeech": "noun",
+    "zipf": 1.58,
+    "score": 19.8,
+    "definition": "a press that is used to extract the juice from grapes"
+  },
+  {
+    "word": "appreciator",
+    "partOfSpeech": "noun",
+    "zipf": 1.46,
+    "score": 19.8,
+    "definition": "a person who is fully aware of something and understands it"
+  },
+  {
+    "word": "bestower",
+    "partOfSpeech": "noun",
+    "zipf": 1.46,
+    "score": 19.8,
+    "definition": "person who makes a gift of property"
+  },
+  {
+    "word": "dowser",
+    "partOfSpeech": "noun",
+    "zipf": 1.46,
+    "score": 19.8,
+    "definition": "someone who uses a divining rod to find underground water"
+  },
+  {
+    "word": "groundbreaker",
+    "partOfSpeech": "noun",
+    "zipf": 1.46,
+    "score": 19.8,
+    "definition": "someone who helps to open up a new line of research or technology or art"
+  },
+  {
+    "word": "heartiness",
+    "partOfSpeech": "noun",
+    "zipf": 1.46,
+    "score": 19.8,
+    "definition": "active strength of body or mind"
+  },
+  {
+    "word": "ingathering",
+    "partOfSpeech": "noun",
+    "zipf": 1.46,
+    "score": 19.8,
+    "definition": "request for a sum of money"
+  },
+  {
+    "word": "jocularity",
+    "partOfSpeech": "noun",
+    "zipf": 1.46,
+    "score": 19.8,
+    "definition": "a feeling facetious merriment"
+  },
+  {
+    "word": "layette",
+    "partOfSpeech": "noun",
+    "zipf": 1.46,
+    "score": 19.8,
+    "definition": "kit consisting of a complete outfit (clothing and accessories) for a new baby"
+  },
+  {
+    "word": "locater",
+    "partOfSpeech": "noun",
+    "zipf": 1.46,
+    "score": 19.8,
+    "definition": "a person who fixes the boundaries of land claims"
+  },
+  {
+    "word": "nurturance",
+    "partOfSpeech": "noun",
+    "zipf": 1.46,
+    "score": 19.8,
+    "definition": "physical and emotional care and nourishment"
+  },
+  {
+    "word": "skivvy",
+    "partOfSpeech": "noun",
+    "zipf": 1.46,
+    "score": 19.8,
+    "definition": "a female domestic servant who does all kinds of menial work"
+  },
+  {
+    "word": "struggler",
+    "partOfSpeech": "noun",
+    "zipf": 1.46,
+    "score": 19.8,
+    "definition": "a person who struggles with difficulties or with great effort"
+  },
+  {
+    "word": "stupefaction",
+    "partOfSpeech": "noun",
+    "zipf": 1.46,
+    "score": 19.8,
+    "definition": "a feeling of stupefied astonishment"
+  },
+  {
+    "word": "sybarite",
+    "partOfSpeech": "noun",
+    "zipf": 1.46,
+    "score": 19.8,
+    "definition": "a person addicted to luxury and pleasures of the senses"
+  },
+  {
+    "word": "tenter",
+    "partOfSpeech": "noun",
+    "zipf": 1.46,
+    "score": 19.8,
+    "definition": "a framework with hooks used for stretching and drying cloth"
+  },
+  {
+    "word": "waveband",
+    "partOfSpeech": "noun",
+    "zipf": 1.46,
+    "score": 19.8,
+    "definition": "a band of adjacent radio frequencies (e.g., assigned for transmitting radio or television signals)"
+  },
+  {
+    "word": "striver",
+    "partOfSpeech": "noun",
+    "zipf": 1.34,
+    "score": 19.8,
+    "definition": "someone who works as hard as a slave"
+  },
+  {
+    "word": "advertizing",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "a public promotion of some product or service"
+  },
+  {
+    "word": "asthenia",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "an abnormal loss of strength"
+  },
+  {
+    "word": "bargello",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "needlepoint embroidery stitch that produces zigzag lines"
+  },
+  {
+    "word": "bayat",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "an oath of allegiance to an emir"
+  },
+  {
+    "word": "benzine",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "a colorless liquid hydrocarbon; highly inflammable; carcinogenic; the simplest of the aromatic compounds"
+  },
+  {
+    "word": "capelin",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "very small northern fish; forage for sea birds and marine mammals and other fishes"
+  },
+  {
+    "word": "cavy",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "short-tailed rough-haired South American rodent"
+  },
+  {
+    "word": "chandlery",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "candles and other commodities sold by a chandler"
+  },
+  {
+    "word": "chough",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "a European corvine bird of small or medium size with red legs and glossy black plumage"
+  },
+  {
+    "word": "chromatid",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "one of two identical strands into which a chromosome splits during mitosis"
+  },
+  {
+    "word": "chromosphere",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "a gaseous layer of the sun's atmosphere (extending from the photosphere to the corona) that is visible during a total eclipse of the sun"
+  },
+  {
+    "word": "clostridia",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "spindle-shaped bacterial cell especially one swollen at the center by an endospore"
+  },
+  {
+    "word": "coneflower",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "any of various plants of the genus Rudbeckia cultivated for their large usually yellow daisies with prominent central cones"
+  },
+  {
+    "word": "corpuscle",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "(nontechnical usage) a tiny piece of anything"
+  },
+  {
+    "word": "crassness",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "the quality of being crass--devoid of refinement"
+  },
+  {
+    "word": "disembowelment",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "the act of removing the bowels or viscera; the act of cutting so as to cause the viscera to protrude"
+  },
+  {
+    "word": "draba",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "any of numerous low-growing cushion-forming plants of the genus Draba having rosette-forming leaves and terminal racemes of small flowers with scapose or leafy stems; fruit is a dehiscent oblong or linear silique"
+  },
+  {
+    "word": "dumpsite",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "a piece of land where waste materials are dumped"
+  },
+  {
+    "word": "egocentrism",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "concern for your own interests and welfare"
+  },
+  {
+    "word": "epiphysis",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "the end of a long bone; initially separated from the main bone by a layer of cartilage that eventually ossifies so the parts become fused"
+  },
+  {
+    "word": "fanlight",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "a window above a door that is usually hinged to a horizontal crosspiece over the door"
+  },
+  {
+    "word": "forename",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "the name that precedes the surname"
+  },
+  {
+    "word": "frippery",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "something of little value or significance"
+  },
+  {
+    "word": "fucus",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "any member of the genus Fucus"
+  },
+  {
+    "word": "gastrostomy",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "surgical creation of an opening through the abdominal wall into the stomach (as for gastrogavage)"
+  },
+  {
+    "word": "gelly",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "a type of dynamite in which the nitroglycerin is absorbed in a base of wood pulp and sodium or potassium nitrate"
+  },
+  {
+    "word": "gunite",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "a mixture of cement and sand and water that is sprayed on a surface under pneumatic pressure"
+  },
+  {
+    "word": "haem",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "a complex red organic pigment containing iron and other atoms to which oxygen binds"
+  },
+  {
+    "word": "hardpan",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "crust or layer of hard subsoil encrusted with calcium-carbonate occurring in arid or semiarid regions"
+  },
+  {
+    "word": "haziness",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "vagueness attributable to being not clearly defined"
+  },
+  {
+    "word": "histiocytosis",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "a blood disease characterized by an abnormal multiplication of macrophages"
+  },
+  {
+    "word": "husking",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "the removal of covering"
+  },
+  {
+    "word": "indigence",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "a state of extreme poverty or destitution"
+  },
+  {
+    "word": "inhumation",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "the ritual placing of a corpse in a grave"
+  },
+  {
+    "word": "irruption",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "a sudden violent entrance; a bursting in"
+  },
+  {
+    "word": "loosestrife",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "any of numerous herbs and subshrubs of the genus Lythrum"
+  },
+  {
+    "word": "malediction",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "the act of calling down a curse that invokes evil (and usually serves as an insult)"
+  },
+  {
+    "word": "melasma",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "a tan discoloration of a woman's face that is associated with pregnancy or with the use of oral contraceptives"
+  },
+  {
+    "word": "mundanity",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "the quality or character of being intellectually sophisticated and worldly through cultivation or experience or disillusionment"
+  },
+  {
+    "word": "natatorium",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "pool that provides a facility for swimming"
+  },
+  {
+    "word": "navigability",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "the quality of being suitable for the passage of a ship or aircraft"
+  },
+  {
+    "word": "neighbourliness",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "a disposition to be friendly and helpful to neighbors"
+  },
+  {
+    "word": "porc",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "meat from a domestic hog or pig"
+  },
+  {
+    "word": "prothorax",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "the anterior part of an insect's thorax; bears the first pair of legs"
+  },
+  {
+    "word": "psyllid",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "small active cicada-like insect with hind legs adapted for leaping; feeds on plant juices"
+  },
+  {
+    "word": "pyrites",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "any of various metallic-looking sulfides (of which pyrite is the commonest)"
+  },
+  {
+    "word": "radiochemistry",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "the chemistry of radioactive substances"
+  },
+  {
+    "word": "rebozo",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "a long woolen or linen scarf covering the head and shoulders (also used as a sling for holding a baby); traditionally worn by Latin-American women"
+  },
+  {
+    "word": "revers",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "a lapel on a woman's garment; turned back to show the reverse side"
+  },
+  {
+    "word": "scrummage",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "(rugby) the method of beginning play in which the forwards of each team crouch side by side with locked arms; play starts when the ball is thrown in between them and the two sides compete for possession"
+  },
+  {
+    "word": "shingling",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "(geology) sediment in which flat pebbles are uniformly tilted in the same direction"
+  },
+  {
+    "word": "snuffle",
+    "partOfSpeech": "noun",
+    "zipf": 1.57,
+    "score": 19.7,
+    "definition": "the act of breathing heavily through the nose (as when the nose is congested)"
+  }
+]

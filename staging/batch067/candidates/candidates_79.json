@@ -1,0 +1,702 @@
+[
+  {
+    "word": "proctology",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 18.8,
+    "definition": "the branch of medicine dealing with the diagnosis and treatment of disorders of the colon or rectum or anus"
+  },
+  {
+    "word": "propene",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 18.8,
+    "definition": "a flammable gas obtained by cracking petroleum; used in organic synthesis"
+  },
+  {
+    "word": "propinquity",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 18.8,
+    "definition": "the property of being close together"
+  },
+  {
+    "word": "pullet",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 18.8,
+    "definition": "flesh of a medium-sized young chicken suitable for frying"
+  },
+  {
+    "word": "radiotelegraph",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 18.8,
+    "definition": "telegraphy that uses transmission by radio rather than by wire"
+  },
+  {
+    "word": "reata",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 18.8,
+    "definition": "a long noosed rope used to catch animals"
+  },
+  {
+    "word": "resorcinol",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 18.8,
+    "definition": "a crystalline phenol obtained from various resins; used in ointments for acne and in dandruff shampoos"
+  },
+  {
+    "word": "roundelay",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 18.8,
+    "definition": "a song in which a line or phrase is repeated as the refrain"
+  },
+  {
+    "word": "sapience",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 18.8,
+    "definition": "ability to apply knowledge or experience or understanding or common sense and insight"
+  },
+  {
+    "word": "scission",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 18.8,
+    "definition": "the act of dividing by cutting or splitting"
+  },
+  {
+    "word": "shahadah",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 18.8,
+    "definition": "the first pillar of Islam is an affirmation of faith"
+  },
+  {
+    "word": "solfeggio",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 18.8,
+    "definition": "singing using solfa syllables to denote the notes of the scale of C major"
+  },
+  {
+    "word": "subhead",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 18.8,
+    "definition": "a heading of a subdivision of a text"
+  },
+  {
+    "word": "tetherball",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 18.8,
+    "definition": "a game with two players who use rackets to strike a ball that is tethered to the top of a pole; the object is to wrap the string around the pole"
+  },
+  {
+    "word": "unhealthiness",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 18.8,
+    "definition": "a state in which you are unable to function normally and without pain"
+  },
+  {
+    "word": "varicocele",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 18.8,
+    "definition": "dilatation of the veins associated with the spermatic cord in the testes"
+  },
+  {
+    "word": "vermis",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 18.8,
+    "definition": "the narrow central part of the cerebellum between the two hemispheres"
+  },
+  {
+    "word": "xeroderma",
+    "partOfSpeech": "noun",
+    "zipf": 1.48,
+    "score": 18.8,
+    "definition": "a mild form of ichthyosis characterized by abnormal dryness and roughness of the skin"
+  },
+  {
+    "word": "bilharzia",
+    "partOfSpeech": "noun",
+    "zipf": 1.36,
+    "score": 18.8,
+    "definition": "an infestation with or a resulting infection caused by a parasite of the genus Schistosoma; common in the tropics and Far East; symptoms depend on the part of the body infected"
+  },
+  {
+    "word": "blastula",
+    "partOfSpeech": "noun",
+    "zipf": 1.36,
+    "score": 18.8,
+    "definition": "early stage of an embryo produced by cleavage of an ovum; a liquid-filled sphere whose wall is composed of a single layer of cells; during this stage (about eight days after fertilization) implantation in the wall of the uterus occurs"
+  },
+  {
+    "word": "curiosa",
+    "partOfSpeech": "noun",
+    "zipf": 1.36,
+    "score": 18.8,
+    "definition": "books on strange or unusual subjects (especially erotica)"
+  },
+  {
+    "word": "diplegia",
+    "partOfSpeech": "noun",
+    "zipf": 1.36,
+    "score": 18.8,
+    "definition": "paralysis of corresponding parts on both sides of the body"
+  },
+  {
+    "word": "embracement",
+    "partOfSpeech": "noun",
+    "zipf": 1.36,
+    "score": 18.8,
+    "definition": "the act of clasping another person in the arms (as in greeting or affection)"
+  },
+  {
+    "word": "fervency",
+    "partOfSpeech": "noun",
+    "zipf": 1.36,
+    "score": 18.8,
+    "definition": "feelings of great warmth and intensity"
+  },
+  {
+    "word": "forgiver",
+    "partOfSpeech": "noun",
+    "zipf": 1.36,
+    "score": 18.8,
+    "definition": "a person who pardons or forgives or excuses a fault or offense"
+  },
+  {
+    "word": "hareem",
+    "partOfSpeech": "noun",
+    "zipf": 1.36,
+    "score": 18.8,
+    "definition": "living quarters reserved for wives and concubines and female relatives in a Muslim household"
+  },
+  {
+    "word": "lexicology",
+    "partOfSpeech": "noun",
+    "zipf": 1.36,
+    "score": 18.8,
+    "definition": "the branch of linguistics that studies the lexical component of language"
+  },
+  {
+    "word": "malingerer",
+    "partOfSpeech": "noun",
+    "zipf": 1.36,
+    "score": 18.8,
+    "definition": "someone shirking their duty by feigning illness or incapacity"
+  },
+  {
+    "word": "moneyman",
+    "partOfSpeech": "noun",
+    "zipf": 1.36,
+    "score": 18.8,
+    "definition": "a person skilled in large scale financial transactions"
+  },
+  {
+    "word": "nanus",
+    "partOfSpeech": "noun",
+    "zipf": 1.36,
+    "score": 18.8,
+    "definition": "a person who is markedly small"
+  },
+  {
+    "word": "nonperformance",
+    "partOfSpeech": "noun",
+    "zipf": 1.36,
+    "score": 18.8,
+    "definition": "failure to act with the prudence that a reasonable person would exercise under the same circumstances"
+  },
+  {
+    "word": "pyramiding",
+    "partOfSpeech": "noun",
+    "zipf": 1.36,
+    "score": 18.8,
+    "definition": "a fraudulent business practice involving some form of pyramid scheme e.g., the chain of distribution is artificially expanded by an excessive number of distributors selling to other distributors at progressively higher wholesale prices until retail prices are unnecessarily inflated"
+  },
+  {
+    "word": "sexagenarian",
+    "partOfSpeech": "noun",
+    "zipf": 1.36,
+    "score": 18.8,
+    "definition": "someone whose age is in the sixties"
+  },
+  {
+    "word": "stodge",
+    "partOfSpeech": "noun",
+    "zipf": 1.36,
+    "score": 18.8,
+    "definition": "heavy and filling (and usually starchy) food"
+  },
+  {
+    "word": "trumpery",
+    "partOfSpeech": "noun",
+    "zipf": 1.36,
+    "score": 18.8,
+    "definition": "nonsensical talk or writing"
+  },
+  {
+    "word": "villein",
+    "partOfSpeech": "noun",
+    "zipf": 1.36,
+    "score": 18.8,
+    "definition": "(Middle Ages) a person who is bound to the land and owned by the feudal lord"
+  },
+  {
+    "word": "dysphasia",
+    "partOfSpeech": "noun",
+    "zipf": 1.24,
+    "score": 18.8,
+    "definition": "an impairment of language (especially speech production) that is usually due to brain damage"
+  },
+  {
+    "word": "respectfulness",
+    "partOfSpeech": "noun",
+    "zipf": 1.24,
+    "score": 18.8,
+    "definition": "courteous regard for people's feelings"
+  },
+  {
+    "word": "scoffer",
+    "partOfSpeech": "noun",
+    "zipf": 1.24,
+    "score": 18.8,
+    "definition": "someone who eats food rapidly and greedily"
+  },
+  {
+    "word": "agranulocytosis",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "an acute blood disorder (often caused by radiation or drug therapy) characterized by severe reduction in granulocytes"
+  },
+  {
+    "word": "ailanthus",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "any of several deciduous Asian trees of the genus Ailanthus"
+  },
+  {
+    "word": "basophil",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a leukocyte with basophilic granules easily stained by basic stains"
+  },
+  {
+    "word": "biochip",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a microchip that uses tiny strands of DNA to latch onto and quickly recognize thousands of genes at a time; intended for use in a biological environment"
+  },
+  {
+    "word": "bitartrate",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "an acid tartrate; a hydrogen tartrate"
+  },
+  {
+    "word": "bloater",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "large fatty herring lightly salted and briefly smoked"
+  },
+  {
+    "word": "camion",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a large truck designed to carry heavy loads; usually without sides"
+  },
+  {
+    "word": "cataloguer",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a librarian who classifies publication according to a categorial system"
+  },
+  {
+    "word": "centrefold",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a magazine center spread; especially a foldout of a large photograph or map or other feature"
+  },
+  {
+    "word": "cladistics",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a system of biological taxonomy based on the quantitative analysis of comparative data and used to reconstruct cladograms summarizing the (assumed) phylogenetic relations and evolutionary history of groups of organisms"
+  },
+  {
+    "word": "clavus",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a hard thickening of the skin (especially on the top or sides of the toes) caused by the pressure of ill-fitting shoes"
+  },
+  {
+    "word": "coarctation",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "tight or narrow compression"
+  },
+  {
+    "word": "cobber",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "Australian term for a pal"
+  },
+  {
+    "word": "counterpoise",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a weight that balances another weight"
+  },
+  {
+    "word": "crosshatch",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "shading consisting of multiple crossing lines"
+  },
+  {
+    "word": "cryptologist",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "decoder skilled in the analysis of codes and cryptograms"
+  },
+  {
+    "word": "decubitus",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a reclining position (as in a bed)"
+  },
+  {
+    "word": "desideratum",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "something desired as a necessity"
+  },
+  {
+    "word": "desquamation",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "loss of bits of outer skin by peeling or shedding or coming off in scales"
+  },
+  {
+    "word": "diencephalon",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "the posterior division of the forebrain; connects the cerebral hemispheres with the mesencephalon"
+  },
+  {
+    "word": "discussant",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a participant in a formal discussion"
+  },
+  {
+    "word": "endarterectomy",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "surgical removal of the inner lining of an artery that is clogged with atherosclerosis"
+  },
+  {
+    "word": "excrescence",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "something that bulges out or is protuberant or projects from its surroundings"
+  },
+  {
+    "word": "farrowing",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "the production of a litter of pigs"
+  },
+  {
+    "word": "flatus",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a reflex that expels intestinal gas through the anus"
+  },
+  {
+    "word": "footedness",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "the property of favoring one foot over the other (as in kicking a ball)"
+  },
+  {
+    "word": "geomancer",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "one who practices geomancy"
+  },
+  {
+    "word": "gibberellin",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a plant hormone isolated from a fungus; used in promoting plant growth"
+  },
+  {
+    "word": "glossa",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity"
+  },
+  {
+    "word": "groschen",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "100 groschen equal 1 schilling in Austria"
+  },
+  {
+    "word": "hatband",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a band around the crown of a hat just above the brim"
+  },
+  {
+    "word": "humectant",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "any substance that is added to another substance to keep it moist"
+  },
+  {
+    "word": "hydatid",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "cyst filled with liquid; forms as a result of infestation by tapeworm larvae (as in echinococcosis)"
+  },
+  {
+    "word": "ichthyologist",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a zoologist who studies fishes"
+  },
+  {
+    "word": "ictus",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a sudden occurrence (or recurrence) of a disease"
+  },
+  {
+    "word": "idolization",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "the act of admiring strongly"
+  },
+  {
+    "word": "indispensability",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "the quality possessed by something that you cannot possibly do without"
+  },
+  {
+    "word": "lavalier",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "jeweled pendant worn on a chain around the neck"
+  },
+  {
+    "word": "lepidopteran",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "insect that in the adult state has four wings more or less covered with tiny scales"
+  },
+  {
+    "word": "loofa",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "the dried fibrous part of the fruit of a plant of the genus Luffa; used as a washing sponge or strainer"
+  },
+  {
+    "word": "mantlet",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "portable bulletproof shelter"
+  },
+  {
+    "word": "metatarsus",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "the skeleton of the human foot between the toes and the tarsus; the corresponding part of the foot in birds or of the hind foot in quadrupeds"
+  },
+  {
+    "word": "oenology",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "the art of wine making"
+  },
+  {
+    "word": "ornithopter",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "heavier-than-air craft that is propelled by the flapping of wings"
+  },
+  {
+    "word": "orthophosphate",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a salt of phosphoric acid"
+  },
+  {
+    "word": "pasteboard",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "stiff cardboard made by pasting together layers of paper"
+  },
+  {
+    "word": "pedagogics",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "the principles and methods of instruction"
+  },
+  {
+    "word": "perambulation",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a walk around a territory (a parish or manor or forest etc.) in order to officially assert and record its boundaries"
+  },
+  {
+    "word": "philistinism",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a desire for wealth and material possessions with little interest in ethical or spiritual matters"
+  },
+  {
+    "word": "randomisation",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a deliberately haphazard arrangement of observations so as to simulate chance"
+  },
+  {
+    "word": "rectorship",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "the office or station of a rector"
+  },
+  {
+    "word": "saccharide",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "an essential structural component of living cells and source of energy for animals; includes simple sugars with small molecules as well as macromolecular substances; are classified according to the number of monosaccharide groups they contain"
+  },
+  {
+    "word": "secretin",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a gastrointestinal hormone that stimulates the secretion of water and bicarbonate from the pancreas and bile ducts whenever the stomach empties too much acid into the small intestine"
+  },
+  {
+    "word": "sexploitation",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "the commercial exploitation of sex or sexuality or explicit sexual material"
+  },
+  {
+    "word": "sinusoid",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "tiny endothelium-lined passages for blood in the tissue of an organ"
+  },
+  {
+    "word": "snakeroot",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a plant of the genus Sanicula having palmately compound leaves and unisexual flowers in panicled umbels followed by bristly fruit; reputed to have healing powers"
+  },
+  {
+    "word": "tangibility",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "the quality of being perceivable by touch"
+  },
+  {
+    "word": "tenia",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a narrow headband or strip of ribbon worn as a headband"
+  },
+  {
+    "word": "terribleness",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "a quality of extreme unpleasantness"
+  },
+  {
+    "word": "thyroglobulin",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "an iodine containing protein that is obtained from the thyroid gland and exhibits the general properties of the globulins"
+  },
+  {
+    "word": "ullage",
+    "partOfSpeech": "noun",
+    "zipf": 1.47,
+    "score": 18.7,
+    "definition": "the amount that a container (as a wine bottle or tank) lacks of being full"
+  }
+]

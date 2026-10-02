@@ -1,0 +1,702 @@
+[
+  {
+    "word": "bushwhacker",
+    "partOfSpeech": "noun",
+    "zipf": 1.56,
+    "score": 20.8,
+    "definition": "a disparaging term for an unsophisticated person"
+  },
+  {
+    "word": "casuistry",
+    "partOfSpeech": "noun",
+    "zipf": 1.56,
+    "score": 20.8,
+    "definition": "argumentation that is specious or excessively subtle and intended to be misleading"
+  },
+  {
+    "word": "gasman",
+    "partOfSpeech": "noun",
+    "zipf": 1.56,
+    "score": 20.8,
+    "definition": "someone employed by a gas company"
+  },
+  {
+    "word": "metalanguage",
+    "partOfSpeech": "noun",
+    "zipf": 1.56,
+    "score": 20.8,
+    "definition": "a language that can be used to describe languages"
+  },
+  {
+    "word": "presentism",
+    "partOfSpeech": "noun",
+    "zipf": 1.56,
+    "score": 20.8,
+    "definition": "the doctrine that the Scripture prophecies of the Apocalypse (as in the Book of Revelations) are presently in the course of being fulfilled"
+  },
+  {
+    "word": "tailgater",
+    "partOfSpeech": "noun",
+    "zipf": 1.56,
+    "score": 20.8,
+    "definition": "a driver who follows too closely behind another motor vehicle"
+  },
+  {
+    "word": "vaporiser",
+    "partOfSpeech": "noun",
+    "zipf": 1.56,
+    "score": 20.8,
+    "definition": "a device that puts out a substance in the form of a vapor (especially for medicinal inhalation)"
+  },
+  {
+    "word": "dunderhead",
+    "partOfSpeech": "noun",
+    "zipf": 1.44,
+    "score": 20.8,
+    "definition": "a stupid person; these words are used to express a low opinion of someone's intelligence"
+  },
+  {
+    "word": "abaxially",
+    "partOfSpeech": "adverb",
+    "zipf": 1.08,
+    "score": 20.8,
+    "definition": "in an abaxial manner"
+  },
+  {
+    "word": "flimsily",
+    "partOfSpeech": "adverb",
+    "zipf": 1.08,
+    "score": 20.8,
+    "definition": "in a weak and flimsy manner"
+  },
+  {
+    "word": "objectionably",
+    "partOfSpeech": "adverb",
+    "zipf": 1.08,
+    "score": 20.8,
+    "definition": "in an obnoxious manner"
+  },
+  {
+    "word": "poisonously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.08,
+    "score": 20.8,
+    "definition": "in a very malevolent manner"
+  },
+  {
+    "word": "tunelessly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.08,
+    "score": 20.8,
+    "definition": "in a tuneless fashion"
+  },
+  {
+    "word": "aliveness",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "the condition of living or the state of being alive"
+  },
+  {
+    "word": "ambulation",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "walking about"
+  },
+  {
+    "word": "antipode",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "direct opposite"
+  },
+  {
+    "word": "antispasmodic",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a drug used to relieve or prevent spasms (especially of the smooth muscles)"
+  },
+  {
+    "word": "approver",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "an authority with power to approve"
+  },
+  {
+    "word": "austenite",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a solid solution of ferric carbide or carbon in iron; cools to form pearlite or martensite"
+  },
+  {
+    "word": "bisection",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "dividing into two equal parts"
+  },
+  {
+    "word": "camarilla",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a clique (often secret) that seeks power usually through intrigue"
+  },
+  {
+    "word": "castling",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "interchanging the positions of the king and a rook"
+  },
+  {
+    "word": "chieftainship",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "the position of chieftain"
+  },
+  {
+    "word": "chlorosis",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "iron deficiency anemia in young women; characterized by weakness and menstrual disturbances and a green color to the skin"
+  },
+  {
+    "word": "circumscription",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "the act of circumscribing"
+  },
+  {
+    "word": "conceptualism",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "the doctrine that the application of a general term to various objects indicates the existence of a mental entity that mediates the application"
+  },
+  {
+    "word": "congener",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a minor chemical constituent that gives a wine or liquor its distinctive character"
+  },
+  {
+    "word": "countersign",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a secret word or phrase known only to a restricted group"
+  },
+  {
+    "word": "crocket",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "an architectural ornament of curved foliage used at the edge of a spire or gable"
+  },
+  {
+    "word": "damselfly",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "slender non-stinging insect similar to but smaller than the dragonfly but having wings folded when at rest"
+  },
+  {
+    "word": "deathblow",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "the blow that kills (usually mercifully)"
+  },
+  {
+    "word": "demonisation",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "to represent as diabolically evil"
+  },
+  {
+    "word": "dunghill",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a foul or degraded condition"
+  },
+  {
+    "word": "eclat",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "enthusiastic approval"
+  },
+  {
+    "word": "enuresis",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "inability to control the flow of urine and involuntary urination"
+  },
+  {
+    "word": "felicitation",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "(usually plural) an expression of pleasure at the success or good fortune of another"
+  },
+  {
+    "word": "flugelhorn",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a brass instrument resembling a cornet but with a wider bore"
+  },
+  {
+    "word": "foundress",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a woman founder"
+  },
+  {
+    "word": "hotfoot",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a practical joke that involves inserting a match surreptitiously between the sole and upper of the victim's shoe and then lighting it"
+  },
+  {
+    "word": "hushing",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a fricative sound (especially as an expression of disapproval)"
+  },
+  {
+    "word": "hypersomnia",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "an inability to stay awake"
+  },
+  {
+    "word": "imbecility",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "retardation more severe than a moron but not as severe as an idiot"
+  },
+  {
+    "word": "inadmissibility",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "unacceptability as a consequence of not being admissible"
+  },
+  {
+    "word": "incus",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "the ossicle between the malleus and the stapes"
+  },
+  {
+    "word": "intussusception",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "the folding in of an outer layer so as to form a pocket in the surface"
+  },
+  {
+    "word": "limeade",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "sweetened beverage of lime juice and water"
+  },
+  {
+    "word": "mujahidin",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a military force of Muslim guerilla warriors engaged in a jihad"
+  },
+  {
+    "word": "multiversity",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a university system having several separate campuses and colleges and research centers"
+  },
+  {
+    "word": "musette",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a small bagpipe formerly popular in France"
+  },
+  {
+    "word": "nominalism",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "(philosophy) the doctrine that the various objects labeled by the same term have nothing in common but their name"
+  },
+  {
+    "word": "occiput",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "back part of the head or skull"
+  },
+  {
+    "word": "optative",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a mood (as in Greek or Sanskrit) that expresses a wish or hope; expressed in English by modal verbs"
+  },
+  {
+    "word": "osteoblast",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a cell from which bone develops"
+  },
+  {
+    "word": "overcompensation",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "(psychiatry) an attempt to overcome a real or imagined defect or unwanted trait by overly exaggerating its opposite"
+  },
+  {
+    "word": "oxaloacetate",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a salt or ester of oxalacetic acid"
+  },
+  {
+    "word": "pageboy",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a boy who is employed to run errands"
+  },
+  {
+    "word": "pegmatite",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a form of igneous rock consisting of extremely coarse granite resulting from the crystallization of magma rich in rare elements"
+  },
+  {
+    "word": "petrolatum",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a semisolid mixture of hydrocarbons obtained from petroleum; used in medicinal ointments and for lubrication"
+  },
+  {
+    "word": "photoemission",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "an emission of photoelectrons (especially from a metallic surface)"
+  },
+  {
+    "word": "pneumoconiosis",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "chronic respiratory disease caused by inhaling metallic or mineral particles"
+  },
+  {
+    "word": "polyploid",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "(genetics) an organism or cell having more than twice the haploid number of chromosomes"
+  },
+  {
+    "word": "receptiveness",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "willingness or readiness to receive (especially impressions or ideas)"
+  },
+  {
+    "word": "ritualist",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "an advocate of strict observance of ritualistic forms"
+  },
+  {
+    "word": "sclerotinia",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "any fungus of the genus Sclerotinia; some causing brown rot diseases in plants"
+  },
+  {
+    "word": "sheepfold",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a pen for sheep"
+  },
+  {
+    "word": "shortener",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "any agent that shortens"
+  },
+  {
+    "word": "sodalite",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a vitreous mineral consisting of sodium aluminum silicate and sodium chloride in crystalline form; occurs in igneous rocks"
+  },
+  {
+    "word": "splenomegaly",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "an abnormal enlargement of the spleen"
+  },
+  {
+    "word": "spondylolisthesis",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a forward dislocation of one vertebra over the one beneath it producing pressure on spinal nerves"
+  },
+  {
+    "word": "stockinette",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "knit used especially for infants' wear and undergarments"
+  },
+  {
+    "word": "stuffiness",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "state of obstruction or stoppage or air in the nose or throat"
+  },
+  {
+    "word": "sweetmeat",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a sweetened delicacy (as a preserve or pastry)"
+  },
+  {
+    "word": "theogony",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "the study of the origins and genealogy of the gods"
+  },
+  {
+    "word": "tody",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "tiny insectivorous West Indian bird having red-and-green plumage and a long straight bill"
+  },
+  {
+    "word": "trireme",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "ancient Greek or Roman galley or warship having three tiers of oars on each side"
+  },
+  {
+    "word": "turps",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "volatile liquid distilled from turpentine oleoresin; used as paint thinner and solvent and medicinally"
+  },
+  {
+    "word": "waxwing",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "brown velvety-plumaged songbirds of the northern hemisphere having crested heads and red waxy wing tips"
+  },
+  {
+    "word": "windjammer",
+    "partOfSpeech": "noun",
+    "zipf": 1.67,
+    "score": 20.7,
+    "definition": "a large sailing ship"
+  },
+  {
+    "word": "codswallop",
+    "partOfSpeech": "noun",
+    "zipf": 1.55,
+    "score": 20.7,
+    "definition": "nonsensical talk or writing"
+  },
+  {
+    "word": "demurrer",
+    "partOfSpeech": "noun",
+    "zipf": 1.55,
+    "score": 20.7,
+    "definition": "(law) a formal objection to an opponent's pleadings"
+  },
+  {
+    "word": "humourist",
+    "partOfSpeech": "noun",
+    "zipf": 1.55,
+    "score": 20.7,
+    "definition": "someone who acts speaks or writes in an amusing way"
+  },
+  {
+    "word": "missioner",
+    "partOfSpeech": "noun",
+    "zipf": 1.55,
+    "score": 20.7,
+    "definition": "someone sent on a mission--especially a religious or charitable mission to a foreign country"
+  },
+  {
+    "word": "muscleman",
+    "partOfSpeech": "noun",
+    "zipf": 1.55,
+    "score": 20.7,
+    "definition": "a bully employed as a thug or bodyguard"
+  },
+  {
+    "word": "obscurantist",
+    "partOfSpeech": "noun",
+    "zipf": 1.55,
+    "score": 20.7,
+    "definition": "a person who is deliberately vague"
+  },
+  {
+    "word": "pickax",
+    "partOfSpeech": "noun",
+    "zipf": 1.55,
+    "score": 20.7,
+    "definition": "a heavy iron tool with a wooden handle and a curved head that is pointed on both ends"
+  },
+  {
+    "word": "threnody",
+    "partOfSpeech": "noun",
+    "zipf": 1.55,
+    "score": 20.7,
+    "definition": "a song or hymn of mourning composed or performed as a memorial to a dead person"
+  },
+  {
+    "word": "undernourishment",
+    "partOfSpeech": "noun",
+    "zipf": 1.55,
+    "score": 20.7,
+    "definition": "not having enough food to develop or function normally"
+  },
+  {
+    "word": "nullifier",
+    "partOfSpeech": "noun",
+    "zipf": 1.43,
+    "score": 20.7,
+    "definition": "an advocate of nullification; someone who believes that a state can resist federal laws"
+  },
+  {
+    "word": "drably",
+    "partOfSpeech": "adverb",
+    "zipf": 1.07,
+    "score": 20.7,
+    "definition": "in a drab manner"
+  },
+  {
+    "word": "speciously",
+    "partOfSpeech": "adverb",
+    "zipf": 1.07,
+    "score": 20.7,
+    "definition": "in a specious manner"
+  },
+  {
+    "word": "truculently",
+    "partOfSpeech": "adverb",
+    "zipf": 1.07,
+    "score": 20.7,
+    "definition": "in an aggressively truculent manner"
+  },
+  {
+    "word": "alpinist",
+    "partOfSpeech": "noun",
+    "zipf": 1.66,
+    "score": 20.6,
+    "definition": "a mountain climber who specializes in difficult climbs"
+  },
+  {
+    "word": "amphibolite",
+    "partOfSpeech": "noun",
+    "zipf": 1.66,
+    "score": 20.6,
+    "definition": "a metamorphic rock composed chiefly of amphibole and plagioclase"
+  },
+  {
+    "word": "apostleship",
+    "partOfSpeech": "noun",
+    "zipf": 1.66,
+    "score": 20.6,
+    "definition": "the position of apostle"
+  },
+  {
+    "word": "barbet",
+    "partOfSpeech": "noun",
+    "zipf": 1.66,
+    "score": 20.6,
+    "definition": "small brightly colored stout-billed tropical bird having short weak wings"
+  },
+  {
+    "word": "barong",
+    "partOfSpeech": "noun",
+    "zipf": 1.66,
+    "score": 20.6,
+    "definition": "a knife resembling a cleaver; used in the Philippines"
+  },
+  {
+    "word": "bigeye",
+    "partOfSpeech": "noun",
+    "zipf": 1.66,
+    "score": 20.6,
+    "definition": "red fishes of American coastal tropical waters having very large eyes and rough scales"
+  },
+  {
+    "word": "blurriness",
+    "partOfSpeech": "noun",
+    "zipf": 1.66,
+    "score": 20.6,
+    "definition": "the quality of being indistinct and without sharp outlines"
+  },
+  {
+    "word": "cementum",
+    "partOfSpeech": "noun",
+    "zipf": 1.66,
+    "score": 20.6,
+    "definition": "a specialized bony substance covering the root of a tooth"
+  },
+  {
+    "word": "cobalamin",
+    "partOfSpeech": "noun",
+    "zipf": 1.66,
+    "score": 20.6,
+    "definition": "a B vitamin that is used to treat pernicious anemia"
+  }
+]

@@ -1,14 +1,14 @@
 {
-  "count": 5000,
+  "count": 8000,
   "priorKeys": 50522,
   "counts": {
     "adjective": 1184,
-    "verb": 606,
-    "noun": 2677,
-    "adverb": 533
+    "verb": 711,
+    "noun": 5423,
+    "adverb": 682
   },
   "first": "used",
-  "last": "intima",
-  "zipfMin": 1.01,
+  "last": "catling",
+  "zipfMin": 0.0,
   "zipfMax": 5.96
 }
