@@ -1,0 +1,10 @@
+{
+  "count": 28938,
+  "excludedLookupKeys": 51040,
+  "sources": [
+    "NLTK WordNet (including adjective satellites)",
+    "wordfreq",
+    "lemminflect POS-aware lemma suggestions"
+  ],
+  "selection": "Requires manual lexical and subtitle-usefulness review; no automatic translations"
+}

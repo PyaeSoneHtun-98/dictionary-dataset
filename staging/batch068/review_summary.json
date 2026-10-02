@@ -1,0 +1,19 @@
+{
+  "batch": 68,
+  "candidatePool": 28938,
+  "reviewBlueprint": 544,
+  "entries": 500,
+  "burmeseGlosses": 568,
+  "storedForms": 578,
+  "POSBlocks": {
+    "noun": 107,
+    "verb": 170,
+    "preposition": 1,
+    "adjective": 128,
+    "adverb": 100
+  },
+  "suspiciousCompoundFlags": 0,
+  "priorLookupKeys": 51040,
+  "manualIPAOverrides": 426,
+  "batchSha256": "9944953610c79154e26986c12bf9999d3dd000d0c62a7f9bbb1cf34258bcecdd"
+}

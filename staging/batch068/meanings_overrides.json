@@ -1,0 +1,26 @@
+{
+  "love": [
+    {"partOfSpeech": "noun", "burmese": ["ချစ်ခြင်းမေတ္တာ"]},
+    {"partOfSpeech": "verb", "burmese": ["ချစ်သည်"]}
+  ],
+  "land": [
+    {"partOfSpeech": "noun", "burmese": ["ကုန်းမြေ", "ပိုင်ဆိုင်သည့် မြေကွက်"]},
+    {"partOfSpeech": "verb", "burmese": ["ဆင်းသက်သည်"]}
+  ],
+  "page": [
+    {"partOfSpeech": "noun", "burmese": ["စာမျက်နှာ"]},
+    {"partOfSpeech": "verb", "burmese": ["ကြေညာစက် သို့မဟုတ် အချက်ပေးစက်မှတစ်ဆင့် ခေါ်သည်"]}
+  ],
+  "wake": [
+    {"partOfSpeech": "verb", "burmese": ["အိပ်ရာမှ နိုးသည်", "အိပ်ရာမှ နှိုးသည်"]},
+    {"partOfSpeech": "noun", "burmese": ["ကွယ်လွန်သူကို စောင့်ရင်း နှုတ်ဆက်သည့် စုဝေးပွဲ"]}
+  ],
+  "worth": [
+    {"partOfSpeech": "noun", "burmese": ["တန်ဖိုး"]},
+    {"partOfSpeech": "preposition", "burmese": ["တန်ဖိုးနှင့် ထိုက်တန်သော", "လုပ်ရကျိုးနပ်သော"]}
+  ],
+  "sweet": [
+    {"partOfSpeech": "adjective", "burmese": ["ချိုသော", "ချစ်ဖို့ကောင်းသော"]},
+    {"partOfSpeech": "noun", "burmese": ["အချိုမုန့်"]}
+  ]
+}

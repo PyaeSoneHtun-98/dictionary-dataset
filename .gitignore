@@ -1,0 +1,5 @@
+.local-venv/
+.local-nltk/
+.local-temp/
+__pycache__/
+*.pyc

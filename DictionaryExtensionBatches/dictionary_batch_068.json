@@ -1,0 +1,7434 @@
+{
+  "version": 1,
+  "batch": 68,
+  "entries": [
+    {
+      "word": "love",
+      "pronunciation": "/lʌv/",
+      "forms": [
+        "loves"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချစ်ခြင်းမေတ္တာ"
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ချစ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "land",
+      "pronunciation": "/lænd/",
+      "forms": [
+        "lands"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကုန်းမြေ",
+            "ပိုင်ဆိုင်သည့် မြေကွက်"
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဆင်းသက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "page",
+      "pronunciation": "/peɪdʒ/",
+      "forms": [
+        "pages",
+        "paged"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စာမျက်နှာ"
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ကြေညာစက် သို့မဟုတ် အချက်ပေးစက်မှတစ်ဆင့် ခေါ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "earth",
+      "pronunciation": "/ɝθ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကမ္ဘာမြေ",
+            "မြေကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hill",
+      "pronunciation": "/hɪl/",
+      "forms": [
+        "hills"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တောင်ကုန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jack",
+      "pronunciation": "/dʒæk/",
+      "forms": [
+        "jacks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယာဉ်ကို မြှောက်သည့် ကိရိယာ",
+            "ဖဲချပ်ထဲက လူငယ်မင်းသားပုံအချပ်",
+            "ကြိုးပလပ် ထိုးသည့် အပေါက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "worth",
+      "pronunciation": "/wɝθ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တန်ဖိုး"
+          ]
+        },
+        {
+          "partOfSpeech": "preposition",
+          "burmese": [
+            "တန်ဖိုးနှင့် ထိုက်တန်သော",
+            "လုပ်ရကျိုးနပ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wake",
+      "pronunciation": "/weɪk/",
+      "forms": [
+        "wakes",
+        "woke",
+        "woken"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အိပ်ရာမှ နိုးသည်",
+            "အိပ်ရာမှ နှိုးသည်"
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကွယ်လွန်သူကို စောင့်ရင်း နှုတ်ဆက်သည့် စုဝေးပွဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bird",
+      "pronunciation": "/bɝd/",
+      "forms": [
+        "birds"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ငှက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bell",
+      "pronunciation": "/bɛl/",
+      "forms": [
+        "bells"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခေါင်းလောင်း",
+            "တံခါးခေါင်းလောင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "grace",
+      "pronunciation": "/ɡreɪs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျက်သရေရှိမှု",
+            "သက်ညှာကြင်နာမှု",
+            "အစာမစားမီ ကျေးဇူးတင်ဆုတောင်းခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sweet",
+      "pronunciation": "/swit/",
+      "forms": [
+        "sweets",
+        "sweeter",
+        "sweetest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ချိုသော",
+            "ချစ်ဖို့ကောင်းသော"
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အချိုမုန့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gray",
+      "pronunciation": "/ɡreɪ/",
+      "forms": [
+        "grayer",
+        "grayest"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မီးခိုးရောင်ဖြစ်သော",
+            "ရှင်းရှင်းလင်းလင်း မခွဲခြားနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "twin",
+      "pronunciation": "/twɪn/",
+      "forms": [
+        "twins"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမြွှာ",
+            "တစ်ထပ်တည်း တူညီသည့် အရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cooper",
+      "pronunciation": "/ˈkupɚ/",
+      "forms": [
+        "coopers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သစ်သားစည် လုပ်သူ သို့မဟုတ် ပြုပြင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hull",
+      "pronunciation": "/hʌl/",
+      "forms": [
+        "hulls"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သင်္ဘောကိုယ်ထည်",
+            "အစေ့အဆန်၏ အခွံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "funk",
+      "pronunciation": "/fʌŋk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စိတ်ဓာတ်ကျ၍ ကြောက်ရွံ့နေသည့် အခြေအနေ",
+            "ဘေ့စ်သံနှင့် စည်းချက်အားကောင်းသည့် အကဂီတတစ်မျိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "smith",
+      "pronunciation": "/smɪθ/",
+      "forms": [
+        "smiths"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပန်းပဲဆရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hall",
+      "pronunciation": "/hɔl/",
+      "forms": [
+        "halls"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခန်းမ",
+            "အဆောက်အအုံတွင်း လျှောက်လမ်း",
+            "ဝင်ပေါက်ခန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "eddy",
+      "pronunciation": "/ˈɛdi/",
+      "forms": [
+        "eddies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရေဝဲ",
+            "လေဝဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "riff",
+      "pronunciation": "/rɪf/",
+      "forms": [
+        "riffs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂီတတွင် ထပ်ခါတလဲလဲ တီးသည့် တေးသံအပိုင်းတို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "miller",
+      "pronunciation": "/ˈmɪlɚ/",
+      "forms": [
+        "millers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြိတ်စက် လုပ်ကိုင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "walker",
+      "pronunciation": "/ˈwɔkɚ/",
+      "forms": [
+        "walkers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လမ်းလျှောက်သူ",
+            "လမ်းလျှောက်ရာတွင် ထောက်ကူသည့် ဘောင်ကိရိယာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dragon",
+      "pronunciation": "/ˈdræɡən/",
+      "forms": [
+        "dragons"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မီးမှုတ်နိုင်သည့် ဒဏ္ဍာရီလာ နဂါး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "kink",
+      "pronunciation": "/kɪŋk/",
+      "forms": [
+        "kinks"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြိုးစသည်တွင် ခေါက်ကွေးနေသည့် နေရာ",
+            "ဖြေရှင်းရမည့် ချို့ယွင်းချက်ငယ်",
+            "ထူးခြားသည့် လိင်အကြိုက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dean",
+      "pronunciation": "/din/",
+      "forms": [
+        "deans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တက္ကသိုလ် ဌာနမှူး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "perm",
+      "pronunciation": "/pɝm/",
+      "forms": [
+        "perms"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆံပင်ကို ကြာရှည်ခံအောင် ကောက်ထားခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sully",
+      "pronunciation": "/ˈsʌli/",
+      "forms": [
+        "sullies",
+        "sullied",
+        "sullying"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဂုဏ်သိက္ခာကို ညှိုးနွမ်းစေသည်",
+            "ညစ်ပေစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "prof",
+      "pronunciation": "/prɑf/",
+      "forms": [
+        "profs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပါမောက္ခ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "capitol",
+      "pronunciation": "/ˈkæpɪtəl/",
+      "forms": [
+        "capitols"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြည်နယ် လွှတ်တော်အဆောက်အအုံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "domicile",
+      "pronunciation": "/ˈdɑməsaɪl/",
+      "forms": [
+        "domiciles"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဥပဒေအရ အမြဲတမ်း နေထိုင်ရာအရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "thatch",
+      "pronunciation": "/θætʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမိုးမိုးရန် အသုံးပြုသည့် သက်ကယ်",
+            "သက်ကယ်မိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "trinity",
+      "pronunciation": "/ˈtrɪnəti/",
+      "forms": [
+        "trinities"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တစ်စုတစ်စည်းတည်း ဖြစ်နေသည့် သုံးခု သို့မဟုတ် သုံးဦး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dragoon",
+      "pronunciation": "/drəˈɡun/",
+      "forms": [
+        "dragoons",
+        "dragooned",
+        "dragooning"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ခြိမ်းခြောက်၍ အတင်းအကျပ် လုပ်ခိုင်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "providence",
+      "pronunciation": "/ˈprɑvədəns/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘုရားသခင်၏ စောင့်ရှောက်လမ်းညွှန်မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hamlet",
+      "pronunciation": "/ˈhæmlət/",
+      "forms": [
+        "hamlets"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရွာငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stein",
+      "pronunciation": "/staɪn/",
+      "forms": [
+        "steins"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်ကိုင်ပါ ဘီယာခွက်ကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sonny",
+      "pronunciation": "/ˈsʌni/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သားငယ်ကို ချစ်စနိုး ခေါ်သည့် စကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "midfield",
+      "pronunciation": "/ˈmɪdfild/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘောလုံးကွင်း၏ အလယ်ပိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "paddy",
+      "pronunciation": "/ˈpædi/",
+      "forms": [
+        "paddies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စပါး",
+            "စပါးစိုက် လယ်ကွက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ventriloquist",
+      "pronunciation": "/vɛnˈtrɪləkwɪst/",
+      "forms": [
+        "ventriloquists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပါးစပ်မလှုပ်ဘဲ တခြားနေရာမှ အသံထွက်သလို ပြောနိုင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bourbon",
+      "pronunciation": "/ˈbɝbən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြောင်းကို အဓိကထား ချက်လုပ်သည့် ဝီစကီအရက်တစ်မျိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sheikh",
+      "pronunciation": "/ʃik/",
+      "forms": [
+        "sheikhs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အာရပ် လူမျိုးစုခေါင်းဆောင် သို့မဟုတ် ဘာသာရေးဆရာကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "slaver",
+      "pronunciation": "/ˈsleɪvɚ/",
+      "forms": [
+        "slavers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကျွန်ကုန်ကူးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chamberlain",
+      "pronunciation": "/ˈtʃeɪmbɚlən/",
+      "forms": [
+        "chamberlains"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘုရင် သို့မဟုတ် မင်းမျိုး၏ နန်းတွင်းအိမ်ရာကို စီမံသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tang",
+      "pronunciation": "/tæŋ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စူးရှရှ အရသာ သို့မဟုတ် အနံ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "colt",
+      "pronunciation": "/koʊlt/",
+      "forms": [
+        "colts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မြင်းထီးပေါက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rosemary",
+      "pronunciation": "/ˈroʊzˌmɛri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစားအစာတွင် ဟင်းခတ်ရန် သုံးသည့် အနံ့မွှေးအရွက်တစ်မျိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pompadour",
+      "pronunciation": "/ˈpɑmpədɔr/",
+      "forms": [
+        "pompadours"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နဖူးအထက် ဆံပင်ကို မြင့်မြင့်ပုံတင်ထားသည့် ဆံပင်ပုံစံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "scamp",
+      "pronunciation": "/skæmp/",
+      "forms": [
+        "scamps"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆိုးနွဲ့သော်လည်း ချစ်ဖို့ကောင်းသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mesa",
+      "pronunciation": "/ˈmeɪsə/",
+      "forms": [
+        "mesas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ထိပ်ပြားပြီး ဘေးနံရံမတ်စောက်သည့် တောင်ကုန်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "teller",
+      "pronunciation": "/ˈtɛlɚ/",
+      "forms": [
+        "tellers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘဏ်တွင် ငွေသွင်းငွေထုတ် လက်ခံဆောင်ရွက်သူ",
+            "မဲရေတွက်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sharia",
+      "pronunciation": "/ʃəˈriə/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစ္စလာမ်ဘာသာ၏ တရားဥပဒေစနစ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "julienne",
+      "pronunciation": "/ˌdʒuliˈɛn/",
+      "forms": [
+        "juliennes",
+        "julienned",
+        "julienning"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဟင်းသီးဟင်းရွက်ကို မျှင်သေးသေးရှည်ရှည် လှီးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sherry",
+      "pronunciation": "/ˈʃɛri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရက်ပါဝင်မှု မြှင့်ထားသည့် စပျစ်ဝိုင်တစ်မျိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "maxim",
+      "pronunciation": "/ˈmæksəm/",
+      "forms": [
+        "maxims"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘဝလမ်းညွှန် ဆုံးမစကားတို"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rationalist",
+      "pronunciation": "/ˈræʃənəlɪst/",
+      "forms": [
+        "rationalists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ယုံကြည်မှုထက် အကြောင်းအကျိုးနှင့် ဆင်ခြင်တုံတရားကို အဓိကထားသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "toady",
+      "pronunciation": "/ˈtoʊdi/",
+      "forms": [
+        "toadies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်ကျိုးအတွက် မျက်နှာချိုသွေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mace",
+      "pronunciation": "/meɪs/",
+      "forms": [
+        "maces"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ထိပ်တွင် အလေးလုံးတပ်ထားသည့် လက်နက်တုတ်",
+            "မျက်စိစပ်စေသည့် ကိုယ်ကာကွယ်ရေး ဖျန်းဆေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "estuarine",
+      "pronunciation": "/ˈɛstuəraɪn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မြစ်ဝနှင့် သက်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "metatarsal",
+      "pronunciation": "/ˌmɛtəˈtɑrsəl/",
+      "forms": [
+        "metatarsals"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခြေချင်းဝတ်နှင့် ခြေချောင်းတို့အကြားရှိ ခြေဖမိုးရိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sommelier",
+      "pronunciation": "/ˌsʌməlˈjeɪ/",
+      "forms": [
+        "sommeliers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စားသောက်ဆိုင်တွင် ဝိုင်ရွေးချယ်မှုကို အကြံပေးပြီး ဝိုင်တည်ခင်းပေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cricketer",
+      "pronunciation": "/ˈkrɪkətɚ/",
+      "forms": [
+        "cricketers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ခရစ်ကတ်ကစားသမား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "brownie",
+      "pronunciation": "/ˈbraʊni/",
+      "forms": [
+        "brownies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ချောကလက်ကိတ်မုန့် အတုံးငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "coiffure",
+      "pronunciation": "/kwɑˈfjʊr/",
+      "forms": [
+        "coiffures"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဆံပင်ပြင်ဆင်ထားသည့် ပုံစံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "seaman",
+      "pronunciation": "/ˈsimən/",
+      "forms": [
+        "seamen"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သင်္ဘောသား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "existentialist",
+      "pronunciation": "/ˌɛɡzɪˈstɛnʃəlɪst/",
+      "forms": [
+        "existentialists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လူ့ဘဝ၏ အဓိပ္ပာယ်ကို ကိုယ်ပိုင်ရွေးချယ်မှုနှင့် တာဝန်ယူမှုဖြင့် သတ်မှတ်သည်ဟု ယူဆသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fettle",
+      "pronunciation": "/ˈfɛtəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်ခန္ဓာ၏ ကျန်းမာသန်စွမ်းမှု အခြေအနေ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reproof",
+      "pronunciation": "/rɪˈpruf/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အပြစ်တင်ဆုံးမခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "selector",
+      "pronunciation": "/səˈlɛktɚ/",
+      "forms": [
+        "selectors"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရွေးချယ်သူ",
+            "ရွေးချယ်ရန် အသုံးပြုသည့် ခလုတ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "maxillofacial",
+      "pronunciation": "/mækˌsɪloʊˈfeɪʃəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မေးရိုးနှင့် မျက်နှာပိုင်းဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "carom",
+      "pronunciation": "/ˈkærəm/",
+      "forms": [
+        "caroms",
+        "caromed",
+        "caroming"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တစ်စုံတစ်ခုကို ထိပြီး ပြန်ကန်ထွက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "confab",
+      "pronunciation": "/ˈkɑnfæb/",
+      "forms": [
+        "confabs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အလွတ်သဘော စကားစမြည်ဝိုင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "thrum",
+      "pronunciation": "/θrʌm/",
+      "forms": [
+        "thrums",
+        "thrummed",
+        "thrumming"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "နိမ့်နိမ့်တုန်တုန် မြည်ဟည်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "verdigris",
+      "pronunciation": "/ˈvɝdəɡris/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကြေးဝါ သို့မဟုတ် ကြေးနီပေါ်တွင် တက်သည့် အစိမ်းရောင်ချေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "calve",
+      "pronunciation": "/kæv/",
+      "forms": [
+        "calved"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "နွားစသည့် တိရစ္ဆာန်က သားပေါက်သည်",
+            "ရေခဲမြစ်မှ ရေခဲတုံးကြီးများ ကွဲထွက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "keyboardist",
+      "pronunciation": "/ˈkibɔrdɪst/",
+      "forms": [
+        "keyboardists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကီးဘုတ်တူရိယာ တီးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "debar",
+      "pronunciation": "/dɪˈbɑr/",
+      "forms": [
+        "debars",
+        "debarred",
+        "debarring"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဝင်ရောက်ခွင့် သို့မဟုတ် ပါဝင်ခွင့်ကို ပိတ်ပင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "snaffle",
+      "pronunciation": "/ˈsnæfəl/",
+      "forms": [
+        "snaffles",
+        "snaffled",
+        "snaffling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အလျင်အမြန် ယူထားလိုက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "antisemitism",
+      "pronunciation": "/ˌæntiˈsɛmɪˌtɪzəm/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဂျူးလူမျိုးအပေါ် မုန်းတီးခွဲခြားမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hydroplane",
+      "pronunciation": "/ˈhaɪdroʊpleɪn/",
+      "forms": [
+        "hydroplanes",
+        "hydroplaned",
+        "hydroplaning"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ရေစိုလမ်းပေါ်တွင် ယာဉ်ဘီးက ကုပ်အားပျောက်ပြီး လျှောထွက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "schlep",
+      "pronunciation": "/ʃlɛp/",
+      "forms": [
+        "schleps",
+        "schlepped",
+        "schlepping"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ခက်ခက်ခဲခဲ သယ်ပိုးသွားသည်",
+            "ပင်ပန်းစွာ ခရီးသွားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "refract",
+      "pronunciation": "/rɪˈfrækt/",
+      "forms": [
+        "refracts",
+        "refracted",
+        "refracting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အလင်းရောင်ကို လမ်းကြောင်းကွေ့သွားစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disinherit",
+      "pronunciation": "/ˌdɪsɪnˈhɛrɪt/",
+      "forms": [
+        "disinherits",
+        "disinherited",
+        "disinheriting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အမွေဆက်ခံခွင့်ကို ရုပ်သိမ်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "garrote",
+      "pronunciation": "/ɡəˈrɑt/",
+      "forms": [
+        "garrotes",
+        "garroted",
+        "garroting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဝါယာကြိုးစသည်ဖြင့် လည်ပင်းညှစ်သတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "prickle",
+      "pronunciation": "/ˈprɪkəl/",
+      "forms": [
+        "prickles",
+        "prickled",
+        "prickling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အပ်နှင့်ထိုးသလို စူးရှသည့် ခံစားမှုဖြစ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bisect",
+      "pronunciation": "/ˈbaɪsɛkt/",
+      "forms": [
+        "bisects",
+        "bisected",
+        "bisecting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "နှစ်ပိုင်းခွဲသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "piffle",
+      "pronunciation": "/ˈpɪfəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရေးမပါသည့် အဓိပ္ပာယ်မရှိသော စကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dory",
+      "pronunciation": "/ˈdɔri/",
+      "forms": [
+        "dories"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လှော်တက်ဖြင့် လှော်သည့် အောက်ခြေပြန့်လှေငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "epicurean",
+      "pronunciation": "/ˌɛpəkjʊˈriən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အစားအသောက်ကောင်းနှင့် ဘဝအရသာကို နှစ်သက်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "aerate",
+      "pronunciation": "/ˈɛreɪt/",
+      "forms": [
+        "aerates",
+        "aerated",
+        "aerating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လေဝင်အောင် ပြုလုပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "convulse",
+      "pronunciation": "/kənˈvʌls/",
+      "forms": [
+        "convulses",
+        "convulsed",
+        "convulsing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ခန္ဓာကိုယ် တဆတ်ဆတ် တုန်ခါသည်",
+            "ရယ်လွန်း၍ ကိုယ်တုန်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "frizzle",
+      "pronunciation": "/ˈfrɪzəl/",
+      "forms": [
+        "frizzles",
+        "frizzling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အစားအစာကို လိပ်ကွေးပြီး ကြွပ်လာသည်အထိ ကြော်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "abseil",
+      "pronunciation": "/ˈæbseɪl/",
+      "forms": [
+        "abseils",
+        "abseiled",
+        "abseiling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ကြိုးဖြင့် အမြင့်မှ လျှောဆင်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stipple",
+      "pronunciation": "/ˈstɪpəl/",
+      "forms": [
+        "stipples",
+        "stippled",
+        "stippling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အစက်ငယ်များဖြင့် ပုံဆွဲသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "teetotal",
+      "pronunciation": "/ˌtiˈtoʊtəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အရက်လုံးဝ မသောက်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unbind",
+      "pronunciation": "/ʌnˈbaɪnd/",
+      "forms": [
+        "unbinds",
+        "unbinding"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ချည်နှောင်ထားသည်ကို ဖြည်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dilettante",
+      "pronunciation": "/ˌdɪləˈtɑnti/",
+      "forms": [
+        "dilettantes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တစ်ခုခုကို လေးလေးနက်နက် မလေ့လာဘဲ အပေါ်ယံ ဝါသနာပါသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "filtrate",
+      "pronunciation": "/ˈfɪltreɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "စစ်ထုတ်ပြီး ရရှိသည့် အရည် သို့မဟုတ် ဓာတ်ငွေ့"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "potentiate",
+      "pronunciation": "/pəˈtɛnʃieɪt/",
+      "forms": [
+        "potentiates",
+        "potentiated",
+        "potentiating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဆေး၏ အာနိသင်ကို ပိုအားကောင်းစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "systematize",
+      "pronunciation": "/ˈsɪstəmətaɪz/",
+      "forms": [
+        "systematizes",
+        "systematized",
+        "systematizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "စနစ်တကျ စီစဉ်ဖွဲ့စည်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dapple",
+      "pronunciation": "/ˈdæpəl/",
+      "forms": [
+        "dapples",
+        "dappling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အရောင်မတူသည့် အစက်အကွက်များ ဖြစ်စေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unmake",
+      "pronunciation": "/ʌnˈmeɪk/",
+      "forms": [
+        "unmakes",
+        "unmaking"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တည်ဆောက်ထားသည့် အရာကို ဖျက်သိမ်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "whomp",
+      "pronunciation": "/wɑmp/",
+      "forms": [
+        "whomps",
+        "whomped",
+        "whomping"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပြင်းပြင်းထန်ထန် ရိုက်သည်",
+            "အပြတ်အသတ် အနိုင်ယူသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fetishize",
+      "pronunciation": "/ˈfɛtɪʃaɪz/",
+      "forms": [
+        "fetishizes",
+        "fetishized",
+        "fetishizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တစ်စုံတစ်ရာကို အလွန်အကျူး စွဲလမ်းအရေးပေးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "magnetize",
+      "pronunciation": "/ˈmæɡnətaɪz/",
+      "forms": [
+        "magnetizes",
+        "magnetizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "သံလိုက်ဓာတ် ရှိလာစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unpick",
+      "pronunciation": "/ʌnˈpɪk/",
+      "forms": [
+        "unpicks",
+        "unpicked",
+        "unpicking"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ချုပ်ရိုးကို ဖြည်သည်",
+            "ပြဿနာကို အပိုင်းလိုက် စိစစ်ဖြေရှင်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "braze",
+      "pronunciation": "/breɪz/",
+      "forms": [
+        "brazes",
+        "brazed",
+        "brazing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အပူမြင့်တွင် အရည်ပျော်သည့် သတ္တုဖြင့် သတ္တုအစိတ်အပိုင်းများ ဆက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "titrate",
+      "pronunciation": "/ˈtaɪtreɪt/",
+      "forms": [
+        "titrates",
+        "titrated",
+        "titrating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဆေးပမာဏကို အခြေအနေအလိုက် တဖြည်းဖြည်း ချိန်ညှိသည်",
+            "ဓာတုရည်ကို တိုင်းတာ၍ ဖြည်းဖြည်းထည့်ကာ ပါဝင်နှုန်း စမ်းသပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "philosophize",
+      "pronunciation": "/fəˈlɑsəfaɪz/",
+      "forms": [
+        "philosophizes",
+        "philosophized",
+        "philosophizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဘဝနှင့် အကြောင်းတရားများကို ဒဿနသဘောဖြင့် ဆွေးနွေးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spectate",
+      "pronunciation": "/ˈspɛkteɪt/",
+      "forms": [
+        "spectates",
+        "spectated",
+        "spectating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အားကစားပွဲကို ပရိသတ်အဖြစ် ကြည့်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "splutter",
+      "pronunciation": "/ˈsplʌtɚ/",
+      "forms": [
+        "splutters",
+        "spluttered",
+        "spluttering"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "စကားကို ထစ်ထစ်ငေါ့ငေါ့ အထွေးလိုက် ပြောသည်",
+            "စက်က ပြတ်တောင်းပြတ်တောင်း ဆူညံသံ ထွက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ingrain",
+      "pronunciation": "/ɪnˈɡreɪn/",
+      "forms": [
+        "ingrains",
+        "ingraining"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အလေ့အထ သို့မဟုတ် ယုံကြည်မှုကို နက်နက်ရှိုင်းရှိုင်း စွဲဝင်စေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "repot",
+      "pronunciation": "/riˈpɑt/",
+      "forms": [
+        "repots",
+        "repotted",
+        "repotting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အပင်ကို အိုးအသစ်ထဲ ပြောင်းစိုက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "retransmit",
+      "pronunciation": "/ˌritrænzˈmɪt/",
+      "forms": [
+        "retransmits",
+        "retransmitted",
+        "retransmitting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ထပ်မံ ထုတ်လွှင့်ပို့လွှတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "expat",
+      "pronunciation": "/ˈɛkspæt/",
+      "forms": [
+        "expats"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ့်နိုင်ငံပြင်ပတွင် နေထိုင်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "puritan",
+      "pronunciation": "/ˈpjʊrətən/",
+      "forms": [
+        "puritans"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပျော်ပါးမှုကို ရှောင်ပြီး ကိုယ်ကျင့်တရားကို တင်းကျပ်စွာ လိုက်နာသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "theist",
+      "pronunciation": "/ˈθiɪst/",
+      "forms": [
+        "theists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဘုရားသခင် တည်ရှိသည်ဟု ယုံကြည်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chamfer",
+      "pronunciation": "/ˈtʃæmfɚ/",
+      "forms": [
+        "chamfers",
+        "chamfered",
+        "chamfering"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ထောင့်စွန်းကို စောင်းဖြတ်၍ ချောမွေ့အောင် လုပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pulsate",
+      "pronunciation": "/ˈpʌlseɪt/",
+      "forms": [
+        "pulsates",
+        "pulsated",
+        "pulsating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "စည်းချက်မှန်မှန် ခုန်သည် သို့မဟုတ် တုန်ခါသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "regularize",
+      "pronunciation": "/ˈrɛɡjələraɪz/",
+      "forms": [
+        "regularizes",
+        "regularized",
+        "regularizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "စည်းမျဉ်းနှင့် ကိုက်ညီအောင် ပြုလုပ်သည်",
+            "တရားဝင် အခြေအနေ ရရှိအောင် ပြုလုပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "remonstrate",
+      "pronunciation": "/rɪˈmɑnstreɪt/",
+      "forms": [
+        "remonstrates",
+        "remonstrated",
+        "remonstrating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "မသင့်လျော်ကြောင်း အကြောင်းပြ၍ ကန့်ကွက်ပြောဆိုသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "positivist",
+      "pronunciation": "/ˈpɑzətɪvɪst/",
+      "forms": [
+        "positivists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အတွေ့အကြုံနှင့် သိပ္ပံနည်းကျ သက်သေကိုသာ အခြေခံသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cannonade",
+      "pronunciation": "/ˌkænəˈneɪd/",
+      "forms": [
+        "cannonades"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမြောက်ဖြင့် အဆက်မပြတ် ပစ်ခတ်ခြင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "countermand",
+      "pronunciation": "/ˌkaʊntɚˈmænd/",
+      "forms": [
+        "countermands",
+        "countermanded",
+        "countermanding"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အမိန့်ကို ပြန်လည် ရုပ်သိမ်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mimeograph",
+      "pronunciation": "/ˈmɪmiəˌɡræf/",
+      "forms": [
+        "mimeographs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဖယောင်းစာရွက်ဖြင့် စာမိတ္တူထုတ်သည့် စက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "occlude",
+      "pronunciation": "/əˈklud/",
+      "forms": [
+        "occludes",
+        "occluded",
+        "occluding"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လမ်းကြောင်း သို့မဟုတ် အပေါက်ကို ပိတ်ဆို့သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reacquaint",
+      "pronunciation": "/ˌriəˈkweɪnt/",
+      "forms": [
+        "reacquaints",
+        "reacquainted",
+        "reacquainting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပြန်လည် ရင်းနှီးသိကျွမ်းစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lowbrow",
+      "pronunciation": "/ˈloʊbraʊ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လေးနက်မှုမရှိဘဲ အပျော်ကြည့် အပျော်ဖတ်သဘော ဖြစ်သော",
+            "အဆင့်မြင့် အနုပညာကို စိတ်မဝင်စားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disembowel",
+      "pronunciation": "/ˌdɪsɪmˈbaʊəl/",
+      "forms": [
+        "disembowels",
+        "disembowelled",
+        "disemboweled",
+        "disembowelling",
+        "disemboweling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဝမ်းဗိုက်ကို ဖောက်၍ အူများ ထုတ်ပစ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emend",
+      "pronunciation": "/ɪˈmɛnd/",
+      "forms": [
+        "emends",
+        "emended",
+        "emending"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "စာသားအမှားကို ပြင်ဆင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gambol",
+      "pronunciation": "/ˈɡæmbəl/",
+      "forms": [
+        "gambols",
+        "gambolled",
+        "gamboled",
+        "gambolling",
+        "gamboling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "မြူးတူးစွာ ခုန်ပေါက်ပြေးလွှားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adjudicator",
+      "pronunciation": "/əˈdʒudɪkeɪtɚ/",
+      "forms": [
+        "adjudicators"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အငြင်းပွားမှုကို စီရင်ဆုံးဖြတ်ပေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reprove",
+      "pronunciation": "/rɪˈpruv/",
+      "forms": [
+        "reproves",
+        "reproved",
+        "reproving"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အပြစ်တင်ဆုံးမသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "externalize",
+      "pronunciation": "/ɪkˈstɝnəlaɪz/",
+      "forms": [
+        "externalizes",
+        "externalized",
+        "externalizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အတွင်းစိတ် ခံစားချက်ကို အပြင်ပန်း ထုတ်ဖော်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "respire",
+      "pronunciation": "/rɪˈspaɪr/",
+      "forms": [
+        "respires",
+        "respired",
+        "respiring"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အသက်ရှူသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unbuckle",
+      "pronunciation": "/ʌnˈbʌkəl/",
+      "forms": [
+        "unbuckles",
+        "unbuckled",
+        "unbuckling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ခါးပတ်စသည့် အရာ၏ ခေါင်းချိတ်ကို ဖြုတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deglaze",
+      "pronunciation": "/diˈɡleɪz/",
+      "forms": [
+        "deglazes",
+        "deglazed",
+        "deglazing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ချက်ပြီးသား ဒယ်အိုးထဲ အရည်ထည့်၍ ကပ်နေသည့် အနှစ်များကို ပျော်စေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wheedle",
+      "pronunciation": "/ˈwidəl/",
+      "forms": [
+        "wheedles",
+        "wheedled",
+        "wheedling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ချိုချိုသာသာ ချော့မော့ပြော၍ ကိုယ့်အလိုပါအောင် လုပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "contralto",
+      "pronunciation": "/kənˈtræltoʊ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အမျိုးသမီး၏ အနိမ့်ဆုံး သီချင်းဆိုသံ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bunco",
+      "pronunciation": "/ˈbʌŋkoʊ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လိမ်လည်ငွေယူမှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vitiate",
+      "pronunciation": "/ˈvɪʃieɪt/",
+      "forms": [
+        "vitiates",
+        "vitiated",
+        "vitiating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ထိရောက်မှု သို့မဟုတ် တရားဝင်မှုကို ပျက်ပြယ်စေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "supernumerary",
+      "pronunciation": "/ˌsupɚˈnuməˌrɛri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လိုအပ်သည်ထက် ပိုနေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "elide",
+      "pronunciation": "/ɪˈlaɪd/",
+      "forms": [
+        "elides",
+        "elided",
+        "eliding"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အသံ သို့မဟုတ် စကားလုံးတစ်ပိုင်းကို ချန်လှပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gibber",
+      "pronunciation": "/ˈdʒɪbɚ/",
+      "forms": [
+        "gibbers",
+        "gibbered",
+        "gibbering"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "နားမလည်နိုင်သည့် စကားကို လျှောက်ပြောသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mottle",
+      "pronunciation": "/ˈmɑtəl/",
+      "forms": [
+        "mottles",
+        "mottled"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အရောင်အစက်အကွက်များ ဖြစ်စေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "creeper",
+      "pronunciation": "/ˈkripɚ/",
+      "forms": [
+        "creepers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တွယ်တက်သည့် အပင်",
+            "လျှို့ဝှက်စောင့်ကြည့်သဖြင့် စိတ်မလုံခြုံစေသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "braggart",
+      "pronunciation": "/ˈbræɡɚt/",
+      "forms": [
+        "braggarts"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မိမိအကြောင်း အလွန်အကျူး ကြွားဝါသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bruit",
+      "pronunciation": "/brut/",
+      "forms": [
+        "bruits",
+        "bruited",
+        "bruiting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "သတင်း သို့မဟုတ် ကောလာဟလကို ဖြန့်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "refashion",
+      "pronunciation": "/riˈfæʃən/",
+      "forms": [
+        "refashions",
+        "refashioned",
+        "refashioning"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပုံစံအသစ် ပြန်ပြင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emulsify",
+      "pronunciation": "/ɪˈmʌlsəfaɪ/",
+      "forms": [
+        "emulsifies",
+        "emulsified",
+        "emulsifying"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အဆီနှင့် ရေကဲ့သို့ မရောစပ်သည့် အရည်များကို ပျံ့နှံ့ရောစပ်စေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "requite",
+      "pronunciation": "/rɪˈkwaɪt/",
+      "forms": [
+        "requites",
+        "requited",
+        "requiting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ကျေးဇူး သို့မဟုတ် မေတ္တာကို ပြန်လည် တုံ့ပြန်သည်",
+            "ပြုခဲ့သည့် အမှုအတွက် ပြန်လည် ပေးဆပ်စေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "souse",
+      "pronunciation": "/saʊs/",
+      "forms": [
+        "souses",
+        "soused",
+        "sousing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အရည်ထဲ နှစ်သည် သို့မဟုတ် အရည်ဖြင့် ရွှဲစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "palpate",
+      "pronunciation": "/ˈpælpeɪt/",
+      "forms": [
+        "palpates",
+        "palpated",
+        "palpating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ရောဂါစစ်ဆေးရန် ကိုယ်ခန္ဓာကို လက်ဖြင့် စမ်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "subvention",
+      "pronunciation": "/səbˈvɛnʃən/",
+      "forms": [
+        "subventions"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ငွေကြေးထောက်ပံ့မှု"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "genuflect",
+      "pronunciation": "/ˈdʒɛnjəflɛkt/",
+      "forms": [
+        "genuflects",
+        "genuflected",
+        "genuflecting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဒူးတစ်ဖက်ထောက်၍ အရိုအသေပြုသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "debauch",
+      "pronunciation": "/dɪˈbɔtʃ/",
+      "forms": [
+        "debauches",
+        "debauched",
+        "debauching"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အပျော်အပါးလွန်၍ ကိုယ်ကျင့်တရား ပျက်စီးစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "refloat",
+      "pronunciation": "/riˈfloʊt/",
+      "forms": [
+        "refloats",
+        "refloated",
+        "refloating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "နစ်နေသော သင်္ဘောကို ရေပေါ် ပြန်တင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adduce",
+      "pronunciation": "/əˈdus/",
+      "forms": [
+        "adduces",
+        "adduced",
+        "adducing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "သက်သေ သို့မဟုတ် အကြောင်းပြချက်ကို တင်ပြသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dodder",
+      "pronunciation": "/ˈdɑdɚ/",
+      "forms": [
+        "dodders",
+        "doddered"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အသက်ကြီး၍ မတည်မငြိမ် တုန်တုန်ချည့်ချည့် သွားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "notate",
+      "pronunciation": "/ˈnoʊteɪt/",
+      "forms": [
+        "notates",
+        "notated",
+        "notating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အမှတ်အသား သို့မဟုတ် သင်္ကေတများဖြင့် မှတ်တမ်းတင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "solemnize",
+      "pronunciation": "/ˈsɑləmnaɪz/",
+      "forms": [
+        "solemnizes",
+        "solemnized",
+        "solemnizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "မင်္ဂလာပွဲကို တရားဝင် ကျင်းပပေးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unfasten",
+      "pronunciation": "/ʌnˈfæsən/",
+      "forms": [
+        "unfastens",
+        "unfastened",
+        "unfastening"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ချိတ် သို့မဟုတ် ချည်နှောင်ထားသည့် အရာကို ဖြုတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "biodegrade",
+      "pronunciation": "/ˌbaɪoʊdɪˈɡreɪd/",
+      "forms": [
+        "biodegrades",
+        "biodegraded",
+        "biodegrading"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "သက်ရှိအဏုဇီဝများကြောင့် သဘာဝအတိုင်း ဆွေးမြည့်ပျက်စီးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stupefy",
+      "pronunciation": "/ˈstupəfaɪ/",
+      "forms": [
+        "stupefies"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အံ့ဩလွန်း၍ မှင်သက်သွားစေသည်",
+            "အသိစိတ် ထိုင်းမှိုင်းသွားစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "geezer",
+      "pronunciation": "/ˈɡizɚ/",
+      "forms": [
+        "geezers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဘိုးကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inflect",
+      "pronunciation": "/ɪnˈflɛkt/",
+      "forms": [
+        "inflects",
+        "inflecting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "သဒ္ဒါအရ စကားလုံး၏ ပုံစံကို ပြောင်းသည်",
+            "အသံအနိမ့်အမြင့် ပြောင်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "thieve",
+      "pronunciation": "/θiv/",
+      "forms": [
+        "thieved"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ခိုးယူသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "supplicate",
+      "pronunciation": "/ˈsʌplɪkeɪt/",
+      "forms": [
+        "supplicates",
+        "supplicated",
+        "supplicating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အလေးအနက် ပန်ကြားတောင်းပန်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "judder",
+      "pronunciation": "/ˈdʒʌdɚ/",
+      "forms": [
+        "judders",
+        "juddered",
+        "juddering"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပြင်းပြင်းထန်ထန် တဆတ်ဆတ် တုန်ခါသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rehouse",
+      "pronunciation": "/riˈhaʊz/",
+      "forms": [
+        "rehouses",
+        "rehoused",
+        "rehousing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "နေရာအသစ်တွင် နေထိုင်စေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "resect",
+      "pronunciation": "/rɪˈsɛkt/",
+      "forms": [
+        "resects",
+        "resected",
+        "resecting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ရောဂါရှိသည့် ကိုယ်ခန္ဓာအစိတ်အပိုင်းကို ခွဲစိတ်ဖယ်ရှားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "skive",
+      "pronunciation": "/skaɪv/",
+      "forms": [
+        "skives",
+        "skived",
+        "skiving"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အလုပ် သို့မဟုတ် ကျောင်းကို အကြောင်းပြ၍ ရှောင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "splotch",
+      "pronunciation": "/splɑtʃ/",
+      "forms": [
+        "splotches"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အရောင် သို့မဟုတ် အရည် အကွက်ကြီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tweeze",
+      "pronunciation": "/twiz/",
+      "forms": [
+        "tweezes",
+        "tweezed",
+        "tweezing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ညှပ်ဖြင့် ဆွဲနှုတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unclip",
+      "pronunciation": "/ʌnˈklɪp/",
+      "forms": [
+        "unclips",
+        "unclipped",
+        "unclipping"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ကလစ် သို့မဟုတ် ညှပ်ကို ဖြုတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disambiguate",
+      "pronunciation": "/ˌdɪsæmˈbɪɡjueɪt/",
+      "forms": [
+        "disambiguates",
+        "disambiguated",
+        "disambiguating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အဓိပ္ပာယ်ကွဲနိုင်သည်ကို ရှင်းလင်းတိကျစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "italicize",
+      "pronunciation": "/ɪˈtælɪsaɪz/",
+      "forms": [
+        "italicizes",
+        "italicized",
+        "italicizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "စာလုံးကို စောင်းစာလုံးအဖြစ် ပြောင်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "snarf",
+      "pronunciation": "/snɑrf/",
+      "forms": [
+        "snarfs",
+        "snarfed",
+        "snarfing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အငမ်းမရ စားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tenderize",
+      "pronunciation": "/ˈtɛndəraɪz/",
+      "forms": [
+        "tenderizes",
+        "tenderized",
+        "tenderizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အသားကို နူးညံ့အောင် လုပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bedazzle",
+      "pronunciation": "/bɪˈdæzəl/",
+      "forms": [
+        "bedazzles",
+        "bedazzled",
+        "bedazzling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တောက်ပလွန်း၍ မျက်စိကျိန်းစေသည်",
+            "အလွန် စွဲမက်သွားစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deplane",
+      "pronunciation": "/diˈpleɪn/",
+      "forms": [
+        "deplanes",
+        "deplaned",
+        "deplaning"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လေယာဉ်ပေါ်မှ ဆင်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "decolonize",
+      "pronunciation": "/diˈkɑlənaɪz/",
+      "forms": [
+        "decolonizes",
+        "decolonized",
+        "decolonizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ကိုလိုနီအုပ်ချုပ်မှုမှ လွတ်လပ်ခွင့် ပေးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "untwist",
+      "pronunciation": "/ʌnˈtwɪst/",
+      "forms": [
+        "untwists",
+        "untwisted",
+        "untwisting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လိမ်နေသည်ကို ဖြည်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "despoil",
+      "pronunciation": "/dɪˈspɔɪl/",
+      "forms": [
+        "despoils",
+        "despoiled",
+        "despoiling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လုယက်ဖျက်ဆီးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gesticulate",
+      "pronunciation": "/dʒɛˈstɪkjəleɪt/",
+      "forms": [
+        "gesticulates",
+        "gesticulated",
+        "gesticulating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လက်ဟန်ခြေဟန်များဖြင့် ပြောဆိုသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "snuffle",
+      "pronunciation": "/ˈsnʌfəl/",
+      "forms": [
+        "snuffles",
+        "snuffled",
+        "snuffling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "နှာခေါင်းပိတ်၍ ရှူသံရှိုက်သံ ထွက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "quantize",
+      "pronunciation": "/ˈkwɑntaɪz/",
+      "forms": [
+        "quantizes",
+        "quantized",
+        "quantizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အဆင့်တစ်ဆင့်ချင်းရှိသည့် တန်ဖိုးများအဖြစ် ပြောင်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "transfigure",
+      "pronunciation": "/trænsˈfɪɡjɚ/",
+      "forms": [
+        "transfigures",
+        "transfigured",
+        "transfiguring"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အသွင်အပြင်ကို လုံးဝ ပြောင်းလဲစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "yowl",
+      "pronunciation": "/jaʊl/",
+      "forms": [
+        "yowls",
+        "yowled",
+        "yowling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ရှည်ရှည်ဆွဲ၍ အော်မြည်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "atomize",
+      "pronunciation": "/ˈætəmaɪz/",
+      "forms": [
+        "atomizes",
+        "atomized",
+        "atomizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အရည်ကို အမှုန်အမွှားများအဖြစ် ဖြန်းထုတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reify",
+      "pronunciation": "/ˈriəfaɪ/",
+      "forms": [
+        "reifies",
+        "reified",
+        "reifying"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "စိတ်ကူးအယူအဆကို တကယ့်အရာဝတ္ထုတစ်ခုလို သဘောထားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "desalinate",
+      "pronunciation": "/diˈsæləneɪt/",
+      "forms": [
+        "desalinates",
+        "desalinated",
+        "desalinating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ရေထဲက ဆားကို ဖယ်ရှားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "enthrone",
+      "pronunciation": "/ɪnˈθroʊn/",
+      "forms": [
+        "enthrones",
+        "enthroned",
+        "enthroning"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "နန်းတင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "granulate",
+      "pronunciation": "/ˈɡrænjəleɪt/",
+      "forms": [
+        "granulates",
+        "granulated",
+        "granulating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အမှုန်အလုံးငယ်များအဖြစ် ပြောင်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "habituate",
+      "pronunciation": "/həˈbɪtʃueɪt/",
+      "forms": [
+        "habituates",
+        "habituated",
+        "habituating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တဖြည်းဖြည်း ရင်းနှီးနေသားကျစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "transliterate",
+      "pronunciation": "/trænzˈlɪtəreɪt/",
+      "forms": [
+        "transliterates",
+        "transliterated",
+        "transliterating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဘာသာတစ်ခု၏ အသံကို အခြားအက္ခရာဖြင့် ရေးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "betroth",
+      "pronunciation": "/bɪˈtroʊð/",
+      "forms": [
+        "betroths",
+        "betrothing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လက်ထပ်ရန် စေ့စပ်ပေးသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gabble",
+      "pronunciation": "/ˈɡæbəl/",
+      "forms": [
+        "gabbles",
+        "gabbled",
+        "gabbling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "မြန်မြန်နှင့် မပီမသ လျှောက်ပြောသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "propitiate",
+      "pronunciation": "/prəˈpɪʃieɪt/",
+      "forms": [
+        "propitiates",
+        "propitiated",
+        "propitiating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဒေါသပြေ၍ ကျေနပ်လာအောင် လုပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "conjectural",
+      "pronunciation": "/kənˈdʒɛktʃərəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ခန့်မှန်းချက်ကို အခြေခံထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "genitourinary",
+      "pronunciation": "/ˌdʒɛnɪtoʊˈjʊrəˌnɛri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မျိုးပွားအင်္ဂါနှင့် ဆီးလမ်းကြောင်းဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hematological",
+      "pronunciation": "/ˌhimətəˈlɑdʒɪkəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သွေးနှင့် သွေးရောဂါဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sadomasochistic",
+      "pronunciation": "/ˌseɪdoʊˌmæsəˈkɪstɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နာကျင်မှု ပေးခြင်း သို့မဟုတ် ခံယူခြင်းမှ လိင်စိတ်ကျေနပ်မှု ရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "senescent",
+      "pronunciation": "/səˈnɛsənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အိုမင်းလာသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "syncretic",
+      "pronunciation": "/sɪŋˈkrɛtɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မတူညီသည့် ယုံကြည်မှုများကို ရောနှောပေါင်းစပ်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tautological",
+      "pronunciation": "/ˌtɔtəˈlɑdʒɪkəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အဓိပ္ပာယ်တူ စကားကို အကြောင်းမဲ့ ထပ်ပြောထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vertiginous",
+      "pronunciation": "/vɚˈtɪdʒənəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ခေါင်းမူးစေသော",
+            "မူးဝေလောက်အောင် မြင့်မားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bactericidal",
+      "pronunciation": "/bækˌtɪrəˈsaɪdəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဘက်တီးရီးယားကို သေစေနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "extemporaneous",
+      "pronunciation": "/ɪkˌstɛmpəˈreɪniəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကြိုတင်ပြင်ဆင်မထားဘဲ လက်တန်း ပြောဆိုသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "grotty",
+      "pronunciation": "/ˈɡrɑti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ညစ်ပတ်စုတ်ပြတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spatiotemporal",
+      "pronunciation": "/ˌspeɪʃioʊˈtɛmpərəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နေရာနှင့် အချိန် နှစ်မျိုးစလုံးနှင့် သက်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "streptococcal",
+      "pronunciation": "/ˌstrɛptəˈkɑkəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လည်ချောင်းနာစသည့် ရောဂါများ ဖြစ်စေသော ဘက်တီးရီးယားတစ်မျိုးနှင့် သက်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "youngish",
+      "pronunciation": "/ˈjʌŋɪʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အသက်အတော်ငယ်သေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adamantine",
+      "pronunciation": "/ˌædəˈmæntaɪn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကျောက်ကဲ့သို့ မာကျောသော",
+            "မယိမ်းမယိုင် ခိုင်မာသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "analogical",
+      "pronunciation": "/ˌænəˈlɑdʒɪkəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဆင်တူမှုကို နှိုင်းယှဉ်၍ ဆင်ခြင်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crinkly",
+      "pronunciation": "/ˈkrɪŋkli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တွန့်တွန့်ခေါက်ခေါက် ဖြစ်နေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cultivable",
+      "pronunciation": "/ˈkʌltəvəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စိုက်ပျိုးနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "numinous",
+      "pronunciation": "/ˈnumɪnəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လျှို့ဝှက်ဆန်းကြယ်ပြီး ဘာသာရေးဆန်သည့် ကြည်ညိုမှု ဖြစ်စေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "perceivable",
+      "pronunciation": "/pɚˈsivəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အာရုံဖြင့် သိမြင်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pupillary",
+      "pronunciation": "/ˈpjupəˌlɛri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မျက်စိသူငယ်အိမ်နှင့် သက်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "syntactical",
+      "pronunciation": "/sɪnˈtæktɪkəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဝါကျတည်ဆောက်ပုံဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "translatable",
+      "pronunciation": "/trænzˈleɪtəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဘာသာပြန်ဆိုနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "viscoelastic",
+      "pronunciation": "/ˌvɪskoʊɪˈlæstɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပျစ်စေးမှုနှင့် ဆွဲဆန့်ပြီး ပြန်ကျုံ့နိုင်မှု နှစ်မျိုးစလုံး ရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "clownish",
+      "pronunciation": "/ˈklaʊnɪʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လူရွှင်တော်လို ရယ်စရာ ဖြစ်နေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "coterminous",
+      "pronunciation": "/koʊˈtɝmənəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နယ်နိမိတ် တစ်ထပ်တည်းကျသော",
+            "ကာလအတိုင်းအတာ တူညီသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gangrenous",
+      "pronunciation": "/ˈɡæŋɡrənəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သွေးမလျှောက်သဖြင့် အသားသေ ပုပ်ပွနေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nondenominational",
+      "pronunciation": "/ˌnɑndɪˌnɑməˈneɪʃənəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဘာသာရေးဂိုဏ်း တစ်ခုခုကို သီးသန့် မလိုက်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "auricular",
+      "pronunciation": "/ɔˈrɪkjəlɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နားရွက်နှင့် သက်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "libidinous",
+      "pronunciation": "/lɪˈbɪdənəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လိင်ဆန္ဒ ပြင်းပြသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "opalescent",
+      "pronunciation": "/ˌoʊpəˈlɛsənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလင်းပြောင်းလျှင် နို့နှစ်ရောင်မှ သက်တံရောင်လို ပြောင်းတောက်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "catabolic",
+      "pronunciation": "/ˌkætəˈbɑlɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကိုယ်ခန္ဓာတွင် ပစ္စည်းများကို ဖြိုခွဲ၍ စွမ်းအင်ထုတ်ပေးသည့် ဖြစ်စဉ်ဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "conjunctive",
+      "pronunciation": "/kənˈdʒʌŋktɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပေါင်းစပ်ချိတ်ဆက်ပေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "diarrheal",
+      "pronunciation": "/ˌdaɪəˈriəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဝမ်းလျှောခြင်းနှင့် သက်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fecund",
+      "pronunciation": "/ˈfɛkənd/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မျိုးပွားနိုင်စွမ်း ကောင်းသော",
+            "စိတ်ကူးအကြံဉာဏ် ပေါကြွယ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gustatory",
+      "pronunciation": "/ˈɡʌstəˌtɔri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အရသာခံခြင်းဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jangly",
+      "pronunciation": "/ˈdʒæŋɡli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သတ္တုသံ ချွင်ချွင်မြည်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nasopharyngeal",
+      "pronunciation": "/ˌneɪzoʊfəˈrɪndʒiəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နှာခေါင်းနောက်ရှိ အာခေါင်ပိုင်းနှင့် သက်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "procreative",
+      "pronunciation": "/ˈproʊkrieɪtɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သားသမီးပွားများခြင်းဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "volitional",
+      "pronunciation": "/voʊˈlɪʃənəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မိမိဆန္ဒဖြင့် ရွေးချယ်လုပ်ဆောင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "destructible",
+      "pronunciation": "/dɪˈstrʌktəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဖျက်ဆီးနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "eidetic",
+      "pronunciation": "/aɪˈdɛtɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မြင်ဖူးသည့် အရာကို အသေးစိတ် ရှင်းလင်းစွာ မှတ်မိနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "flaxen",
+      "pronunciation": "/ˈflæksən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အဝါဖျော့ရောင် ဆံပင်ရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fleshly",
+      "pronunciation": "/ˈflɛʃli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကိုယ်ခန္ဓာ အာသာဆန္ဒဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "paramedical",
+      "pronunciation": "/ˌpærəˈmɛdɪkəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဆရာဝန်၏ ဆေးကုသမှုကို အထောက်အကူပြုသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "proinflammatory",
+      "pronunciation": "/ˌproʊɪnˈflæməˌtɔri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရောင်ရမ်းမှု ဖြစ်စေ သို့မဟုတ် ပိုဆိုးစေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sepulchral",
+      "pronunciation": "/səˈpʌlkrəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သင်္ချိုင်းလို မှောင်မိုက်ခြောက်ခြားဖွယ် ဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "syphilitic",
+      "pronunciation": "/ˌsɪfəˈlɪtɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဆစ်ဖလစ် လိင်ကူးစက်ရောဂါနှင့် သက်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pebbly",
+      "pronunciation": "/ˈpɛbli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကျောက်စရစ်ခဲများ ရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "retrievable",
+      "pronunciation": "/rɪˈtrivəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပြန်လည် ရယူနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spidery",
+      "pronunciation": "/ˈspaɪdəri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပင့်ကူခြေထောက်လို ပါးလျပြီး ရှည်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "transcultural",
+      "pronunciation": "/trænzˈkʌltʃərəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ယဉ်ကျေးမှုအမျိုးမျိုးကို ဖြတ်ကျော် ဆက်စပ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "criminological",
+      "pronunciation": "/ˌkrɪmənəˈlɑdʒɪkəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မှုခင်းနှင့် ရာဇဝတ်မှု လေ့လာရေးဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "datable",
+      "pronunciation": "/ˈdeɪtəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မည်သည့်ကာလက ဖြစ်ကြောင်း သတ်မှတ်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "iatrogenic",
+      "pronunciation": "/aɪˌætrəˈdʒɛnɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဆေးကုသမှုကြောင့် ဖြစ်ပေါ်လာသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "licit",
+      "pronunciation": "/ˈlɪsɪt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဥပဒေက ခွင့်ပြုထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "oaken",
+      "pronunciation": "/ˈoʊkən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဝက်သစ်ချသားဖြင့် လုပ်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "postprandial",
+      "pronunciation": "/poʊstˈprændiəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အစာစားပြီးနောက် ဖြစ်ပေါ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rancorous",
+      "pronunciation": "/ˈræŋkɚəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အငြိုးအတေး ပြင်းထန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "realizable",
+      "pronunciation": "/ˈriəlaɪzəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လက်တွေ့ အကောင်အထည်ဖော်နိုင်သော",
+            "ငွေသားအဖြစ် ပြောင်းနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "risible",
+      "pronunciation": "/ˈrɪzəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လှောင်ရယ်စရာ ကောင်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tomboyish",
+      "pronunciation": "/ˈtɑmbɔɪɪʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မိန်းကလေးဖြစ်သော်လည်း ယောက်ျားလေးလို နေထိုင်ကစားတတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wakeful",
+      "pronunciation": "/ˈweɪkfəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အိပ်မပျော်ဘဲ နိုးနေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "yeasty",
+      "pronunciation": "/ˈjisti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "တဆေး၏ အနံ့ သို့မဟုတ် အရသာရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "exploitive",
+      "pronunciation": "/ɪkˈsplɔɪtɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သူတစ်ပါးကို မတရား အမြတ်ထုတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nociceptive",
+      "pronunciation": "/ˌnoʊsɪˈsɛptɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နာကျင်စေသည့် လှုံ့ဆော်မှုကို အာရုံခံခြင်းဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "premenopausal",
+      "pronunciation": "/ˌprimɛnəˈpɔzəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သွေးဆုံးချိန် မရောက်မီဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "purulent",
+      "pronunciation": "/ˈpjʊrələnt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပြည်ပါသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "roseate",
+      "pronunciation": "/ˈroʊziət/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပန်းရောင်သန်းသော",
+            "အကောင်းမြင်၍ မျှော်လင့်ချက်ပြည့်နေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stroppy",
+      "pronunciation": "/ˈstrɑpi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စိတ်တို၍ ကလန်ကဆန် လုပ်တတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "twinkly",
+      "pronunciation": "/ˈtwɪŋkli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လင်းလက်တောက်ပသော",
+            "မျက်လုံးတွင် ပျော်ရွှင်သည့် အရိပ်အယောင်ရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "willowy",
+      "pronunciation": "/ˈwɪloʊi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အရပ်ရှည်ပြီး ကိုယ်လုံးသွယ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "diagnosable",
+      "pronunciation": "/ˌdaɪəɡˈnoʊsəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ရောဂါအမျိုးအစားကို စစ်ဆေးသတ်မှတ်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "diffusive",
+      "pronunciation": "/dɪˈfjusɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပတ်ဝန်းကျင်သို့ ပျံ့နှံ့သွားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "notifiable",
+      "pronunciation": "/ˈnoʊtəfaɪəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အာဏာပိုင်ထံ မဖြစ်မနေ အကြောင်းကြားရသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pubertal",
+      "pronunciation": "/ˈpjubɚtəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အပျိုဖော် လူပျိုဖော်ဝင်ချိန်နှင့် သက်ဆိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sensorial",
+      "pronunciation": "/sɛnˈsɔriəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အာရုံခံစားမှုဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "transposable",
+      "pronunciation": "/trænzˈpoʊzəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "နေရာပြောင်း အစားထိုးနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "billowy",
+      "pronunciation": "/ˈbɪloʊi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လှိုင်းလို ဖောင်းကြွလှုပ်ရှားနေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "domiciliary",
+      "pronunciation": "/ˌdɑməˈsɪliˌɛri/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အိမ်တွင်း နေထိုင်မှု သို့မဟုတ် အိမ်တိုင်ရာရောက် ဆောင်ရွက်မှုဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "obsessional",
+      "pronunciation": "/əbˈsɛʃənəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စွဲလမ်းသည့် အတွေးကို မဖယ်ရှားနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "peevish",
+      "pronunciation": "/ˈpivɪʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အကြောင်းမဲ့ စိတ်တိုညည်းတွားတတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "plutocratic",
+      "pronunciation": "/ˌplutəˈkrætɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ချမ်းသာသူများက အာဏာချုပ်ကိုင်ထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "scabrous",
+      "pronunciation": "/ˈskæbrəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကြမ်းတမ်း အဖုအထစ်ရှိသော",
+            "ညစ်ညမ်း၍ အငြင်းပွားဖွယ် ဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "scatological",
+      "pronunciation": "/ˌskætəˈlɑdʒɪkəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မစင်နှင့် အိမ်သာကိစ္စများကို ညစ်ညမ်းစွာ ပြောဆိုသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "slothful",
+      "pronunciation": "/ˈsloʊθfəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပျင်းရိ၍ အလုပ်မလုပ်ချင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "coplanar",
+      "pronunciation": "/koʊˈpleɪnɚ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပြင်ညီ တစ်ခုတည်းပေါ်တွင် ရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "exocrine",
+      "pronunciation": "/ˈɛksoʊkrɪn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပြွန်မှတစ်ဆင့် အရည်ထုတ်ပေးသည့် ဂလင်းဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "languorous",
+      "pronunciation": "/ˈlæŋɡərəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အေးအေးဆေးဆေး နုံးခွေနေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "leprous",
+      "pronunciation": "/ˈlɛprəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အနာကြီးရောဂါ ဖြစ်နေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "proprioceptive",
+      "pronunciation": "/ˌproʊprioʊˈsɛptɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မိမိကိုယ်ခန္ဓာ၏ အနေအထားနှင့် လှုပ်ရှားမှုကို အာရုံခံခြင်းဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "venial",
+      "pronunciation": "/ˈviniəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ခွင့်လွှတ်နိုင်လောက်အောင် အသေးအဖွဲဖြစ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wifely",
+      "pronunciation": "/ˈwaɪfli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဇနီးတစ်ဦး၏ သဘောသဘာဝနှင့် ကိုက်ညီသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pimply",
+      "pronunciation": "/ˈpɪmpli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဝက်ခြံများ ထွက်နေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unshaken",
+      "pronunciation": "/ənˈʃeɪkən/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ယုံကြည်ချက် မယိမ်းမယိုင်ရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bounteous",
+      "pronunciation": "/ˈbaʊntiəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပေါကြွယ်သော",
+            "ရက်ရောသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "constrictive",
+      "pronunciation": "/kənˈstrɪktɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကျဉ်းမြောင်းစေ သို့မဟုတ် ညှစ်ပိတ်စေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "geostrategic",
+      "pronunciation": "/ˌdʒioʊstrəˈtidʒɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပထဝီအနေအထားကို အခြေခံသည့် စစ်ရေး သို့မဟုတ် နိုင်ငံရေး မဟာဗျူဟာဆိုင်ရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "curmudgeonly",
+      "pronunciation": "/kɚˈmʌdʒənli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စိတ်တိုညည်းတွား၍ လူမုန်းများသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "collusive",
+      "pronunciation": "/kəˈlusɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လျှို့ဝှက်ပူးပေါင်း၍ လိမ်လည်မှု ပါဝင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cheekily",
+      "pronunciation": "/ˈtʃikəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ရိုသေမှုမထားဘဲ ခပ်ပြောင်ပြောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "horrifyingly",
+      "pronunciation": "/ˈhɔrəfaɪɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ထိတ်လန့်ဖွယ်ကောင်းလောက်အောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "exuberantly",
+      "pronunciation": "/ɪɡˈzubərəntli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အားရပါးရ မြူးတူးစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "entertainingly",
+      "pronunciation": "/ˌɛntɚˈteɪnɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ပျော်ရွှင်စိတ်ဝင်စားဖွယ် ဖြစ်အောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sensually",
+      "pronunciation": "/ˈsɛnʃuəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အာရုံခံ အပျော်အပါးကို ခံစားလျက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fascinatingly",
+      "pronunciation": "/ˈfæsəneɪtɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "စွဲမက်စိတ်ဝင်စားဖွယ်ကောင်းအောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "endearingly",
+      "pronunciation": "/ɪnˈdɪrɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ချစ်ခင်စရာကောင်းအောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "excitingly",
+      "pronunciation": "/ɪkˈsaɪtɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "စိတ်လှုပ်ရှားဖွယ်ကောင်းအောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "touchingly",
+      "pronunciation": "/ˈtʌtʃɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ရင်ထဲထိပြီး စိတ်လှုပ်ရှားစရာကောင်းအောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inconspicuously",
+      "pronunciation": "/ˌɪnkənˈspɪkjuəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "လူသတိမထားမိအောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "oppressively",
+      "pronunciation": "/əˈprɛsɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ဖိနှိပ်ချုပ်ချယ်စွာ",
+            "မွန်းကျပ်ပင်ပန်းစေလောက်အောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "crushingly",
+      "pronunciation": "/ˈkrʌʃɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "စိတ်ဓာတ်လုံးဝ ကျသွားစေလောက်အောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "exorbitantly",
+      "pronunciation": "/ɪɡˈzɔrbɪtəntli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ဈေးနှုန်း အလွန်အကျူး ကြီးမြင့်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "expressively",
+      "pronunciation": "/ɪkˈsprɛsɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ခံစားချက်ကို ပေါ်လွင်စွာ ဖော်ပြလျက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "illegitimately",
+      "pronunciation": "/ˌɪləˈdʒɪtəmətli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "တရားမဝင်ဘဲ",
+            "သင့်လျော်သည့် အခွင့်အရေးမရှိဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vigilantly",
+      "pronunciation": "/ˈvɪdʒələntli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မပြတ် စောင့်ကြည့်သတိထားလျက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tamely",
+      "pronunciation": "/ˈteɪmli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အတိုက်အခံ မလုပ်ဘဲ အေးအေးဆေးဆေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pejoratively",
+      "pronunciation": "/pɪˈdʒɔrətɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "နှိမ့်ချအပြစ်တင်သည့် သဘောဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "scathingly",
+      "pronunciation": "/ˈskeɪðɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ပြင်းပြင်းထန်ထန် ထိုးနှက်ဝေဖန်လျက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lucidly",
+      "pronunciation": "/ˈlusɪdli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ရှင်းလင်း နားလည်လွယ်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "radiantly",
+      "pronunciation": "/ˈreɪdiəntli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "တောက်ပစွာ",
+            "ပျော်ရွှင်ဝင်းပစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "engagingly",
+      "pronunciation": "/ɪnˈɡeɪdʒɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "နှစ်သက်စိတ်ဝင်စားလာစေအောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "guiltily",
+      "pronunciation": "/ˈɡɪltəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အပြစ်ရှိသလို ခံစားလျက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "animatedly",
+      "pronunciation": "/ˈænəmeɪtɪdli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အသက်ဝင် တက်ကြွစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "atypically",
+      "pronunciation": "/eɪˈtɪpɪkəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ပုံမှန်နှင့် မတူဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "legibly",
+      "pronunciation": "/ˈlɛdʒəbli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ဖတ်လို့ရအောင် ရှင်းရှင်းလင်းလင်း"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "audaciously",
+      "pronunciation": "/ɔˈdeɪʃəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မကြောက်မရွံ့ ရဲတင်းစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "quizzically",
+      "pronunciation": "/ˈkwɪzɪkəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "နားမလည်၍ မေးခွန်းထုတ်သည့် အမူအရာဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cutely",
+      "pronunciation": "/ˈkjutli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ချစ်စရာကောင်းစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "forlornly",
+      "pronunciation": "/fɚˈlɔrnli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အထီးကျန် အားငယ်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gruesomely",
+      "pronunciation": "/ˈɡrusəmli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "သွေးပျက်ထိတ်လန့်ဖွယ်ကောင်းစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "stupendously",
+      "pronunciation": "/stuˈpɛndəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မယုံနိုင်လောက်အောင် ကြီးမားကောင်းမွန်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uproariously",
+      "pronunciation": "/ʌpˈrɔriəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ဆူညံပွက်လောရိုက်စွာ",
+            "ဝါးလုံးကွဲအောင် ရယ်လျက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "messily",
+      "pronunciation": "/ˈmɛsəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ရှုပ်ပွညစ်ပတ်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "perceptibly",
+      "pronunciation": "/pɚˈsɛptəbli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "သိသိသာသာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "preposterously",
+      "pronunciation": "/prɪˈpɑstərəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "လုံးဝ အဓိပ္ပာယ်မရှိလောက်အောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "proficiently",
+      "pronunciation": "/prəˈfɪʃəntli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ကျွမ်းကျင်နိုင်နင်းစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "remorselessly",
+      "pronunciation": "/rɪˈmɔrsləsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "နောင်တမရဘဲ ရက်စက်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wondrously",
+      "pronunciation": "/ˈwʌndrəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အံ့ဩဖွယ်ကောင်းစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "craftily",
+      "pronunciation": "/ˈkræftəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ကောက်ကျစ်လိမ္မာစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "snidely",
+      "pronunciation": "/ˈsnaɪdli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "လှောင်ပြောင်ထိုးနှက်သည့် သဘောဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "benevolently",
+      "pronunciation": "/bəˈnɛvələntli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "စေတနာကောင်းဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "delightedly",
+      "pronunciation": "/dɪˈlaɪtɪdli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ဝမ်းသာအားရစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "adoringly",
+      "pronunciation": "/əˈdɔrɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ချစ်မြတ်နိုးအားကိုးစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jovially",
+      "pronunciation": "/ˈdʒoʊviəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ရွှင်ရွှင်ပြပြ ရင်းရင်းနှီးနှီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fastidiously",
+      "pronunciation": "/fæˈstɪdiəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အသေးစိတ်ကို အလွန် ဂရုစိုက်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pensively",
+      "pronunciation": "/ˈpɛnsɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ငြိမ်သက်စွာ တွေးတောလျက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "exaggeratedly",
+      "pronunciation": "/ɪɡˈzædʒəreɪtɪdli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အမှန်ထက် ချဲ့ကားလွန်ကဲစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "murderously",
+      "pronunciation": "/ˈmɝdərəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "သတ်ဖြတ်လိုသည့် ဒေါသဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pompously",
+      "pronunciation": "/ˈpɑmpəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မိမိကိုယ်ကို အထင်ကြီး၍ ဟိတ်ဟန်ထုတ်လျက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "promisingly",
+      "pronunciation": "/ˈprɑməsɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အလားအလာကောင်းသည့် ပုံစံဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rapturously",
+      "pronunciation": "/ˈræptʃərəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အလွန်အမင်း ကြည်နူးပျော်ရွှင်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tidily",
+      "pronunciation": "/ˈtaɪdəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "သပ်သပ်ရပ်ရပ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "abusively",
+      "pronunciation": "/əˈbjusɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ကြမ်းတမ်းစော်ကားစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "articulately",
+      "pronunciation": "/ɑrˈtɪkjələtli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ပြောချင်သည့် အကြောင်းကို ရှင်းလင်းပီသစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "monotonously",
+      "pronunciation": "/məˈnɑtənəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "တစ်သမတ်တည်း ပျင်းစရာကောင်းစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "confusedly",
+      "pronunciation": "/kənˈfjuzɪdli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မရှင်းမလင်း ဇဝေဇဝါဖြစ်လျက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deviously",
+      "pronunciation": "/ˈdiviəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "လှည့်စားကောက်ကျစ်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "offhandedly",
+      "pronunciation": "/ˌɔfˈhændɪdli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ပေါ့ပေါ့ဆဆ ဂရုမစိုက်သည့် ပုံစံဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "worriedly",
+      "pronunciation": "/ˈwɝidli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "စိုးရိမ်ပူပန်လျက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "giddily",
+      "pronunciation": "/ˈɡɪdəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ခေါင်းမူး၍ မတည်မငြိမ်",
+            "ပျော်လွန်း၍ မငြိမ်မသက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jarringly",
+      "pronunciation": "/ˈdʒɑrɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "နားထောင်သူ သို့မဟုတ် ကြည့်သူအတွက် အနှောင့်အယှက် ဖြစ်စေအောင်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "perceptively",
+      "pronunciation": "/pɚˈsɛptɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အခြေအနေကို ထိုးထွင်းသိမြင်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "plentifully",
+      "pronunciation": "/ˈplɛntɪfəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ပေါပေါများများ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "shoddily",
+      "pronunciation": "/ˈʃɑdəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ညံ့ဖျင်းပေါ့ဆစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "boisterously",
+      "pronunciation": "/ˈbɔɪstərəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "တက်ကြွဆူညံစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "jubilantly",
+      "pronunciation": "/ˈdʒubələntli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အောင်ပွဲရသလို ဝမ်းသာပျော်ရွှင်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "magnanimously",
+      "pronunciation": "/mæɡˈnænəməsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "သဘောထားကြီး၍ ရက်ရောစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ravenously",
+      "pronunciation": "/ˈrævənəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အလွန်ဆာလောင်၍ အငမ်းမရ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tiredly",
+      "pronunciation": "/ˈtaɪɚdli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ပင်ပန်းနွမ်းနယ်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "heartlessly",
+      "pronunciation": "/ˈhɑrtləsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မညှာမတာ ရက်စက်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "precociously",
+      "pronunciation": "/prɪˈkoʊʃəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အသက်အရွယ်ထက် ပို၍ စောစော တတ်သိလျက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "faultlessly",
+      "pronunciation": "/ˈfɔltləsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အပြစ်အနာအဆာ မရှိစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "submissively",
+      "pronunciation": "/səbˈmɪsɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ငြင်းဆန်မှုမရှိဘဲ အောက်ကျခံ နာခံစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "virtuously",
+      "pronunciation": "/ˈvɝtʃuəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ကိုယ်ကျင့်တရားကောင်းမွန်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dejectedly",
+      "pronunciation": "/dɪˈdʒɛktɪdli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "စိတ်ဓာတ်ကျ အားငယ်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "petulantly",
+      "pronunciation": "/ˈpɛtʃələntli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ကလေးလို စိတ်ကောက်ညည်းတွားလျက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "promiscuously",
+      "pronunciation": "/prəˈmɪskjuəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "လိင်ဖော် အမျိုးမျိုးနှင့် ဆက်ဆံလျက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "comfortingly",
+      "pronunciation": "/ˈkʌmfɚtɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "နှစ်သိမ့်အားပေးသည့် ပုံစံဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sanely",
+      "pronunciation": "/ˈseɪnli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "စိတ်မှန်လက်မှန်ဖြင့် ဆင်ခြင်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vacantly",
+      "pronunciation": "/ˈveɪkəntli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ဘာမျှ မတွေးမသိသည့် အမူအရာဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "outlandishly",
+      "pronunciation": "/aʊtˈlændɪʃli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ထူးဆန်းလွန်ကဲစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rampantly",
+      "pronunciation": "/ˈræmpəntli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ထိန်းမရအောင် ကျယ်ပြန့်ပျံ့နှံ့လျက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spotlessly",
+      "pronunciation": "/ˈspɑtləsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အညစ်အကြေး လုံးဝမရှိဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vulgarly",
+      "pronunciation": "/ˈvʌlɡɚli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ရိုင်းစိုင်းညစ်ညမ်းစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "considerately",
+      "pronunciation": "/kənˈsɪdərətli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "သူတစ်ပါးကို ထည့်သွင်းစဉ်းစား ညှာတာစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "noiselessly",
+      "pronunciation": "/ˈnɔɪzləsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အသံမထွက်ဘဲ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pretentiously",
+      "pronunciation": "/prɪˈtɛnʃəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "တကယ်ရှိသည်ထက် ပိုအဆင့်မြင့်သလို ဟန်ဆောင်လျက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "raucously",
+      "pronunciation": "/ˈrɔkəsli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အသံဩဩနှင့် ဆူညံစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "grumpily",
+      "pronunciation": "/ˈɡrʌmpəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "စိတ်တိုမျက်နှာထားဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nastily",
+      "pronunciation": "/ˈnæstəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "ယုတ်မာရိုင်းစိုင်းစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "genially",
+      "pronunciation": "/ˈdʒiniəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "နွေးထွေး ရင်းနှီးဖော်ရွေစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deplorably",
+      "pronunciation": "/dɪˈplɔrəbli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "လွန်စွာ ဆိုးရွားစိတ်ပျက်ဖွယ်ဖြစ်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "despicably",
+      "pronunciation": "/dɪˈspɪkəbli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "မုန်းတီးရွံရှာဖွယ်ကောင်းစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spookily",
+      "pronunciation": "/ˈspukəli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "တစ္ဆေခြောက်သလို ထိတ်လန့်ဖွယ်ဖြစ်စွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "piercingly",
+      "pronunciation": "/ˈpɪrsɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "စူးရှစွာ",
+            "ထိုးထွင်းသိမြင်သည့် ပုံစံဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "temptingly",
+      "pronunciation": "/ˈtɛmptɪŋli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "စိတ်ပါချင်လာအောင် ဆွဲဆောင်လျက်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vindictively",
+      "pronunciation": "/vɪnˈdɪktɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အငြိုးထား၍ လက်စားချေလိုစိတ်ဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "punitively",
+      "pronunciation": "/ˈpjunətɪvli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အပြစ်ပေးဒဏ်ခတ်သည့် ပုံစံဖြင့်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "garishly",
+      "pronunciation": "/ˈɡɛrɪʃli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "burmese": [
+            "အရောင်စူးစူးနှင့် မျက်စိကျိန်းစရာကောင်းစွာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reseat",
+      "pronunciation": "/riˈsit/",
+      "forms": [
+        "reseats",
+        "reseated",
+        "reseating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "နေရာ ပြန်ချသည်",
+            "တပ်ဆင်ထားသည့် အစိတ်အပိုင်းကို ဖြုတ်ပြီး သေချာ ပြန်တပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tyrannize",
+      "pronunciation": "/ˈtɪrənaɪz/",
+      "forms": [
+        "tyrannizes",
+        "tyrannized",
+        "tyrannizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အာဏာဖြင့် ဖိနှိပ်ချုပ်ချယ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inveigle",
+      "pronunciation": "/ɪnˈveɪɡəl/",
+      "forms": [
+        "inveigles",
+        "inveigled",
+        "inveigling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ချော့မော့လှည့်စား၍ လိုရာလုပ်ခိုင်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "macerate",
+      "pronunciation": "/ˈmæsəreɪt/",
+      "forms": [
+        "macerates",
+        "macerated",
+        "macerating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အရည်ထဲ စိမ်၍ ပျော့ပျောင်းစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uncross",
+      "pronunciation": "/ʌnˈkrɔs/",
+      "forms": [
+        "uncrosses",
+        "uncrossed",
+        "uncrossing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ကြက်ခြေခတ်ထားသည့် လက် သို့မဟုတ် ခြေကို ပြန်ဖြေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unsay",
+      "pronunciation": "/ʌnˈseɪ/",
+      "forms": [
+        "unsays",
+        "unsaying"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပြောပြီးသား စကားကို ပြန်ရုပ်သိမ်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "defoliate",
+      "pronunciation": "/diˈfoʊlieɪt/",
+      "forms": [
+        "defoliates",
+        "defoliated",
+        "defoliating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "သစ်ရွက်များကို ဖယ်ရှားသည် သို့မဟုတ် ကြွေကျစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "suborn",
+      "pronunciation": "/səˈbɔrn/",
+      "forms": [
+        "suborns",
+        "suborned",
+        "suborning"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လာဘ်ပေး၍ မမှန်သက်သေထွက်ရန် သို့မဟုတ် အမှားလုပ်ရန် ခိုင်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deflower",
+      "pronunciation": "/diˈflaʊɚ/",
+      "forms": [
+        "deflowers",
+        "deflowered",
+        "deflowering"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အပျိုစင်နှင့် ပထမဆုံးအကြိမ် လိင်ဆက်ဆံသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "orate",
+      "pronunciation": "/ɔˈreɪt/",
+      "forms": [
+        "orates",
+        "orated",
+        "orating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဟိတ်ဟန်ဖြင့် တရားဟောသလို မိန့်ခွန်းပြောသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unsheathe",
+      "pronunciation": "/ʌnˈʃið/",
+      "forms": [
+        "unsheathes",
+        "unsheathed",
+        "unsheathing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဓားကို ဓားအိမ်မှ ဆွဲထုတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "upchuck",
+      "pronunciation": "/ˈʌptʃʌk/",
+      "forms": [
+        "upchucks",
+        "upchucked",
+        "upchucking"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အန်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "clomp",
+      "pronunciation": "/klɑmp/",
+      "forms": [
+        "clomps",
+        "clomped",
+        "clomping"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ခြေသံကျယ်ကျယ်ဖြင့် လေးလေးပင်ပင် လျှောက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fuddle",
+      "pronunciation": "/ˈfʌdəl/",
+      "forms": [
+        "fuddles",
+        "fuddled",
+        "fuddling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အတွေးအခေါ်ကို ရှုပ်ထွေးဝေဝါးစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tousle",
+      "pronunciation": "/ˈtaʊzəl/",
+      "forms": [
+        "tousles",
+        "tousled",
+        "tousling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဆံပင်ကို ရှုပ်ပွဖွာလန်အောင် လုပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "secularize",
+      "pronunciation": "/ˈsɛkjələraɪz/",
+      "forms": [
+        "secularizes",
+        "secularized",
+        "secularizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဘာသာရေး လွှမ်းမိုးမှုမှ ဖယ်ထုတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reface",
+      "pronunciation": "/riˈfeɪs/",
+      "forms": [
+        "refaces",
+        "refaced",
+        "refacing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "မျက်နှာပြင်ကို အသစ် ပြန်လုပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reforge",
+      "pronunciation": "/riˈfɔrdʒ/",
+      "forms": [
+        "reforges",
+        "reforged",
+        "reforging"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "သတ္တုကို ပြန်ပူပေး၍ ထုလုပ်သည်",
+            "အသစ်တဖန် ပြန်လည် တည်ဆောက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "rescale",
+      "pronunciation": "/riˈskeɪl/",
+      "forms": [
+        "rescales",
+        "rescaled",
+        "rescaling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အရွယ်အစား သို့မဟုတ် တိုင်းတာသည့် စကေးကို ပြောင်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "putrefy",
+      "pronunciation": "/ˈpjutrəfaɪ/",
+      "forms": [
+        "putrefies",
+        "putrefied",
+        "putrefying"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပုပ်ပွဆွေးမြည့်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ulcerate",
+      "pronunciation": "/ˈʌlsəreɪt/",
+      "forms": [
+        "ulcerates",
+        "ulcerated",
+        "ulcerating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အနာခွက် ဖြစ်လာသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unpin",
+      "pronunciation": "/ʌnˈpɪn/",
+      "forms": [
+        "unpins",
+        "unpinned",
+        "unpinning"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တွယ်ချိတ်ထားသည့် ပင်ကို ဖြုတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "importune",
+      "pronunciation": "/ˌɪmpɚˈtun/",
+      "forms": [
+        "importunes",
+        "importuned",
+        "importuning"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "မရမချင်း ထပ်တလဲလဲ ပူဆာတောင်းဆိုသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bewail",
+      "pronunciation": "/bɪˈweɪl/",
+      "forms": [
+        "bewails",
+        "bewailed",
+        "bewailing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဝမ်းနည်းစွာ ငိုကြွေးမြည်တမ်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "declaw",
+      "pronunciation": "/diˈklɔ/",
+      "forms": [
+        "declaws",
+        "declawed",
+        "declawing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "တိရစ္ဆာန်၏ ခြေသည်းကို ခွဲစိတ်ဖယ်ရှားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "manacle",
+      "pronunciation": "/ˈmænəkəl/",
+      "forms": [
+        "manacles",
+        "manacled",
+        "manacling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လက်ထိပ် သို့မဟုတ် ခြေထိပ် ခတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "engorge",
+      "pronunciation": "/ɪnˈɡɔrdʒ/",
+      "forms": [
+        "engorges",
+        "engorged",
+        "engorging"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အရည် သို့မဟုတ် သွေးဖြင့် ပြည့်ဖောင်းလာသည်",
+            "အငမ်းမရ စားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "neaten",
+      "pronunciation": "/ˈnitən/",
+      "forms": [
+        "neatens",
+        "neatened",
+        "neatening"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "သပ်ရပ်အောင် ပြင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ambulate",
+      "pronunciation": "/ˈæmbjəˌleɪt/",
+      "forms": [
+        "ambulates",
+        "ambulated",
+        "ambulating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လမ်းလျှောက်သွားလာသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dematerialize",
+      "pronunciation": "/ˌdiməˈtɪriəlaɪz/",
+      "forms": [
+        "dematerializes",
+        "dematerialized",
+        "dematerializing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ရုပ်ဝတ္ထုပုံစံ ပျောက်ကွယ်သွားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "outmatch",
+      "pronunciation": "/aʊtˈmætʃ/",
+      "forms": [
+        "outmatches",
+        "outmatched",
+        "outmatching"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အရည်အချင်း သို့မဟုတ် အင်အားအရ သာလွန်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "revivify",
+      "pronunciation": "/rɪˈvɪvəfaɪ/",
+      "forms": [
+        "revivifies",
+        "revivified",
+        "revivifying"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပြန်လည် အသက်ဝင်လာစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "snivel",
+      "pronunciation": "/ˈsnɪvəl/",
+      "forms": [
+        "snivels",
+        "snivelled",
+        "sniveled",
+        "snivelling",
+        "sniveling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "နှာရည်ယို၍ ငိုရှိုက်သည်",
+            "စိတ်မချမ်းသာစရာ ပူဆာညည်းတွားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "defang",
+      "pronunciation": "/diˈfæŋ/",
+      "forms": [
+        "defangs",
+        "defanged",
+        "defanging"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အစွယ်များကို ဖယ်ရှားသည်",
+            "အန္တရာယ်ပေးနိုင်စွမ်းကို ဖယ်ရှားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "defrock",
+      "pronunciation": "/diˈfrɑk/",
+      "forms": [
+        "defrocks",
+        "defrocked",
+        "defrocking"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဘာသာရေးဝန်ထမ်း၏ ရာထူးကို ရုပ်သိမ်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gallivant",
+      "pronunciation": "/ˈɡæləvænt/",
+      "forms": [
+        "gallivants",
+        "gallivanted",
+        "gallivanting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပျော်ပါးရန် ဟိုဟိုဒီဒီ လျှောက်သွားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "masticate",
+      "pronunciation": "/ˈmæstɪkeɪt/",
+      "forms": [
+        "masticates",
+        "masticated",
+        "masticating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အစာကို ဝါးကြိတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disenchant",
+      "pronunciation": "/ˌdɪsɪnˈtʃænt/",
+      "forms": [
+        "disenchants",
+        "disenchanting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အထင်ကြီးစွဲမက်နေရာမှ စိတ်ပျက်သွားစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ligate",
+      "pronunciation": "/ˈlaɪɡeɪt/",
+      "forms": [
+        "ligates",
+        "ligated",
+        "ligating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "သွေးကြောစသည့် ပြွန်ကို ချည်ပိတ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "roughen",
+      "pronunciation": "/ˈrʌfən/",
+      "forms": [
+        "roughens",
+        "roughened",
+        "roughening"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "မျက်နှာပြင်ကို ကြမ်းတမ်းစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "canoodle",
+      "pronunciation": "/kəˈnudəl/",
+      "forms": [
+        "canoodles",
+        "canoodled",
+        "canoodling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ချစ်သူနှင့် ပွေ့ဖက်နမ်းရှုပ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "debone",
+      "pronunciation": "/diˈboʊn/",
+      "forms": [
+        "debones",
+        "deboned",
+        "deboning"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အသား သို့မဟုတ် ငါးမှ အရိုးများ ဖယ်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "drowse",
+      "pronunciation": "/draʊz/",
+      "forms": [
+        "drowses",
+        "drowsed",
+        "drowsing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ငိုက်မျဉ်းသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "retie",
+      "pronunciation": "/riˈtaɪ/",
+      "forms": [
+        "reties",
+        "retied",
+        "retying"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပြန်ချည်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "degrease",
+      "pronunciation": "/diˈɡris/",
+      "forms": [
+        "degreases",
+        "degreased",
+        "degreasing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အဆီအညစ်အကြေးကို ဖယ်ရှားသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "palliate",
+      "pronunciation": "/ˈpælieɪt/",
+      "forms": [
+        "palliates",
+        "palliated",
+        "palliating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ရောဂါလက္ခဏာ သို့မဟုတ် နာကျင်မှုကို သက်သာစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deodorize",
+      "pronunciation": "/diˈoʊdəraɪz/",
+      "forms": [
+        "deodorizes",
+        "deodorized",
+        "deodorizing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အနံ့ဆိုးကို ပျောက်စေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disinter",
+      "pronunciation": "/ˌdɪsɪnˈtɝ/",
+      "forms": [
+        "disinters",
+        "disinterred",
+        "disinterring"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "မြှုပ်ထားသည့် ရုပ်အလောင်းကို ပြန်ဖော်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "uncurl",
+      "pronunciation": "/ʌnˈkɝl/",
+      "forms": [
+        "uncurls",
+        "uncurled",
+        "uncurling"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "လိပ်ကွေးနေသည်ကို ဖြန့်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "maltreat",
+      "pronunciation": "/mælˈtrit/",
+      "forms": [
+        "maltreats",
+        "maltreating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ညှဉ်းပန်းနှိပ်စက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mislay",
+      "pronunciation": "/mɪsˈleɪ/",
+      "forms": [
+        "mislays",
+        "mislaying"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ဘယ်နေရာတွင် ထားမိမှန်း မမှတ်မိတော့သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reline",
+      "pronunciation": "/riˈlaɪn/",
+      "forms": [
+        "relines",
+        "relined",
+        "relining"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အတွင်းနံရံ သို့မဟုတ် အတွင်းခံလွှာကို အသစ် ပြန်လဲသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "enervate",
+      "pronunciation": "/ˈɛnɚveɪt/",
+      "forms": [
+        "enervates",
+        "enervated",
+        "enervating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အားအင် ကုန်ခမ်းစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "steepen",
+      "pronunciation": "/ˈstipən/",
+      "forms": [
+        "steepens",
+        "steepened",
+        "steepening"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပို၍ မတ်စောက်လာစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unknot",
+      "pronunciation": "/ʌnˈnɑt/",
+      "forms": [
+        "unknots",
+        "unknotted",
+        "unknotting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အထုံးကို ဖြည်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vivify",
+      "pronunciation": "/ˈvɪvəfaɪ/",
+      "forms": [
+        "vivifies",
+        "vivified",
+        "vivifying"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အသက်ဝင်လှုပ်ရှားလာစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "discomfit",
+      "pronunciation": "/dɪsˈkʌmfɪt/",
+      "forms": [
+        "discomfits",
+        "discomfited",
+        "discomfiting"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အခက်တွေ့၍ အနေခက်သွားစေသည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "effervesce",
+      "pronunciation": "/ˌɛfɚˈvɛs/",
+      "forms": [
+        "effervesces",
+        "effervesced",
+        "effervescing"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ပူဖောင်းများ ထ၍ အမြှုပ်ထွက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "expostulate",
+      "pronunciation": "/ɪkˈspɑstʃəleɪt/",
+      "forms": [
+        "expostulates",
+        "expostulated",
+        "expostulating"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "မသင့်လျော်ကြောင်း အလေးအနက် ပြော၍ တားမြစ်ကန့်ကွက်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "malinger",
+      "pronunciation": "/məˈlɪŋɡɚ/",
+      "forms": [
+        "malingers",
+        "malingered",
+        "malingering"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "အလုပ် သို့မဟုတ် တာဝန်ကို ရှောင်ရန် နေမကောင်းဟန် ဆောင်သည်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "booger",
+      "pronunciation": "/ˈbʊɡɚ/",
+      "forms": [
+        "boogers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "နှာခေါင်းထဲက ခြောက်နေသည့် နှာချေး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "physiotherapist",
+      "pronunciation": "/ˌfɪzioʊˈθɛrəpɪst/",
+      "forms": [
+        "physiotherapists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လေ့ကျင့်ခန်းနှင့် ကိုယ်ခန္ဓာလှုပ်ရှားမှုဖြင့် ကုသပေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "hoarder",
+      "pronunciation": "/ˈhɔrdɚ/",
+      "forms": [
+        "hoarders"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မလိုအပ်သည့် ပစ္စည်းများကိုပါ အလွန်အကျူး စုထားသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dominatrix",
+      "pronunciation": "/ˌdɑməˈneɪtrɪks/",
+      "forms": [
+        "dominatrices",
+        "dominatrixes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လိင်ဆက်ဆံမှုတွင် လွှမ်းမိုးအမိန့်ပေးသည့် အခန်းကဏ္ဍ ယူသော အမျိုးသမီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "gramps",
+      "pronunciation": "/ɡræmps/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဘိုးကို ချစ်စနိုး ခေါ်သည့် စကား"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "masseuse",
+      "pronunciation": "/mæˈsus/",
+      "forms": [
+        "masseuses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အနှိပ်သည် အမျိုးသမီး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tradesman",
+      "pronunciation": "/ˈtreɪdzmən/",
+      "forms": [
+        "tradesmen"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်မှုပညာဖြင့် လုပ်ကိုင်စားသောက်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "doppelganger",
+      "pronunciation": "/ˈdɑpəlˌɡæŋɚ/",
+      "forms": [
+        "doppelgangers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "တစ်ဦးနှင့် ပုံစံတစ်ထပ်တည်းတူသည့် အခြားလူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "enchantress",
+      "pronunciation": "/ɪnˈtʃæntrəs/",
+      "forms": [
+        "enchantresses"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ညှို့အားကောင်း၍ စွဲမက်စေသည့် အမျိုးသမီး",
+            "မိန်းမမှော်ဆရာ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bruiser",
+      "pronunciation": "/ˈbruzɚ/",
+      "forms": [
+        "bruisers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်ထည်ကြီးပြီး ရန်လိုတိုက်ခိုက်တတ်သူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bursa",
+      "pronunciation": "/ˈbɝsə/",
+      "forms": [
+        "bursae",
+        "bursas"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အဆစ်တွင် ပွတ်တိုက်မှု လျော့စေသည့် အရည်ပါ အိတ်ငယ်"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "choker",
+      "pronunciation": "/ˈtʃoʊkɚ/",
+      "forms": [
+        "chokers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လည်ပင်းတွင် ကပ်ကပ်ပတ် ဝတ်သည့် ဆွဲကြိုး"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "convener",
+      "pronunciation": "/kənˈvinɚ/",
+      "forms": [
+        "conveners"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အစည်းအဝေး စီစဉ်ခေါ်ယူသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "locum",
+      "pronunciation": "/ˈloʊkəm/",
+      "forms": [
+        "locums"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "မရှိသည့် ဆရာဝန်ကို ယာယီ အစားထိုးလုပ်ပေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "usurper",
+      "pronunciation": "/juˈsɝpɚ/",
+      "forms": [
+        "usurpers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "အာဏာ သို့မဟုတ် ရာထူးကို အခွင့်မရှိဘဲ လုယူထားသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lodger",
+      "pronunciation": "/ˈlɑdʒɚ/",
+      "forms": [
+        "lodgers"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "သူတစ်ပါးအိမ်တွင် အခန်းငှားနေသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "brainiac",
+      "pronunciation": "/ˈbreɪniˌæk/",
+      "forms": [
+        "brainiacs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ဉာဏ်အလွန်ကောင်းသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "homophobe",
+      "pronunciation": "/ˈhoʊməfoʊb/",
+      "forms": [
+        "homophobes"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လိင်တူချစ်သူများကို မုန်းတီးခွဲခြားသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "postdoc",
+      "pronunciation": "/ˈpoʊstdɑk/",
+      "forms": [
+        "postdocs"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပါရဂူဘွဲ့ရပြီးနောက် သုတေသနဆက်လုပ်နေသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "escapist",
+      "pronunciation": "/ɪˈskeɪpɪst/",
+      "forms": [
+        "escapists"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "လက်တွေ့ဘဝ အခက်အခဲများကို စိတ်ကူးယဉ်ပျော်ပါးမှုဖြင့် ရှောင်ပြေးသူ"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deniable",
+      "pronunciation": "/dɪˈnaɪəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မိမိနှင့် ပတ်သက်ကြောင်း ငြင်းဆိုနိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "suggestible",
+      "pronunciation": "/səˈdʒɛstəbəl/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "သူတစ်ပါးပြောသမျှကို အလွယ်တကူ ယုံ၍ လိုက်လုပ်တတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "malodorous",
+      "pronunciation": "/mælˈoʊdərəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အနံ့ဆိုးထွက်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "corroborative",
+      "pronunciation": "/kɚˈɑbɚəˌtɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အဆို သို့မဟုတ် သက်သေကို ထပ်မံ အတည်ပြုပေးသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "straggly",
+      "pronunciation": "/ˈstræɡli/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မသပ်မရပ် ရှည်ထွက်ပြန့်ကျဲနေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tetchy",
+      "pronunciation": "/ˈtɛtʃi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလွယ်တကူ စိတ်တိုသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "timorous",
+      "pronunciation": "/ˈtɪmɚəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကြောက်ရွံ့တွန့်ဆုတ်တတ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sagacious",
+      "pronunciation": "/səˈɡeɪʃəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ပညာဉာဏ်နှင့် ဆင်ခြင်တုံတရား ပြည့်ဝသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "choleric",
+      "pronunciation": "/ˈkɑlɚɪk/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဒေါသထွက်လွယ်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "babyish",
+      "pronunciation": "/ˈbeɪbiɪʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကလေးငယ်ဆန်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chintzy",
+      "pronunciation": "/ˈtʃɪntsi/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ဈေးပေါ၍ အရည်အသွေးညံ့သော",
+            "ကပ်စေးနည်းသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "munificent",
+      "pronunciation": "/mjuˈnɪfəsənt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အလွန် ရက်ရောသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "punctilious",
+      "pronunciation": "/pəŋkˈtɪliəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "စည်းကမ်းနှင့် အမူအကျင့်ကို အသေးစိတ် ဂရုစိုက်လိုက်နာသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "factitious",
+      "pronunciation": "/fækˈtɪʃəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အမှန်တကယ် မဖြစ်ဘဲ ဖန်တီးထားသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vituperative",
+      "pronunciation": "/ˌvaɪˈtupɚətɪv/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ကြမ်းတမ်းစော်ကား၍ ပြစ်တင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "somnolent",
+      "pronunciation": "/ˈsɑmnələnt/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "ငိုက်မျဉ်း အိပ်ချင်နေသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "aquiline",
+      "pronunciation": "/ˈækwəlaɪn/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "လင်းယုန်နှုတ်သီးလို ကွေး၍ ချွန်သော နှာခေါင်းရှိသော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "perspicacious",
+      "pronunciation": "/pɚspəˈkeɪʃəs/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အခြေအနေကို လျင်မြန်စွာ ထိုးထွင်းသိမြင်နိုင်သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "oafish",
+      "pronunciation": "/ˈoʊfɪʃ/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "မိုက်မဲကြမ်းတမ်း၍ အပြုအမူ မချောမွေ့သော"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "persnickety",
+      "pronunciation": "/pɚˈsnɪkəti/",
+      "forms": [],
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "burmese": [
+            "အသေးအဖွဲများကို အလွန် ဇီဇာကြောင်သော"
+          ]
+        }
+      ]
+    }
+  ]
+}
