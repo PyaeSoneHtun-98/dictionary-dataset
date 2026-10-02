@@ -128,7 +128,8 @@ jobs:
                   'partOfSpeech':x['partOfSpeech'],
                   'definition':x['definition'],
                   'zipf':x['zipf'],
-                  'score':round(score,2),\n                  'suspiciousCompound':suspicious(w)
+                  'score':round(score,2),
+                  'suspiciousCompound':suspicious(x['word'])
               })
           for i in range(0,len(payload),50):
               (outdir/f'part_{i//50+1:02d}.json').write_text(
