@@ -421,5 +421,915 @@
       "M",
       "ER0"
     ]
+  },
+  {
+    "rank": 286042,
+    "word": "chaffy",
+    "partOfSpeech": "adjective",
+    "zipf": 1.09,
+    "definition": "abounding in or covered with or resembling or consisting of chaff",
+    "cmu": [
+      "CH",
+      "AE1",
+      "F",
+      "IY0"
+    ]
+  },
+  {
+    "rank": 286544,
+    "word": "falanga",
+    "partOfSpeech": "noun",
+    "zipf": 1.09,
+    "definition": "a form of torture in which the soles of the feet are beaten with whips or cudgels",
+    "cmu": [
+      "F",
+      "AA0",
+      "L",
+      "AA1",
+      "NG",
+      "G",
+      "AH0"
+    ]
+  },
+  {
+    "rank": 288537,
+    "word": "strikebreaker",
+    "partOfSpeech": "noun",
+    "zipf": 1.09,
+    "definition": "someone who works (or provides workers) during a strike",
+    "cmu": [
+      "S",
+      "T",
+      "R",
+      "AY1",
+      "K",
+      "B",
+      "R",
+      "EY2",
+      "K",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 288775,
+    "word": "undiversified",
+    "partOfSpeech": "adjective",
+    "zipf": 1.09,
+    "definition": "not diversified",
+    "cmu": [
+      "AH2",
+      "N",
+      "D",
+      "IH0",
+      "V",
+      "ER1",
+      "S",
+      "IH0",
+      "F",
+      "AY2",
+      "D"
+    ]
+  },
+  {
+    "rank": 291709,
+    "word": "posthole",
+    "partOfSpeech": "noun",
+    "zipf": 1.08,
+    "definition": "a hole dug in the ground to hold a fence post",
+    "cmu": [
+      "P",
+      "OW1",
+      "S",
+      "T",
+      "HH",
+      "OW2",
+      "L"
+    ]
+  },
+  {
+    "rank": 291860,
+    "word": "reorientate",
+    "partOfSpeech": "verb",
+    "zipf": 1.08,
+    "definition": "orient once again, after a disorientation",
+    "cmu": [
+      "R",
+      "IY0",
+      "AO1",
+      "R",
+      "IY0",
+      "EH0",
+      "N",
+      "T",
+      "EY0",
+      "T"
+    ]
+  },
+  {
+    "rank": 292101,
+    "word": "shirtsleeve",
+    "partOfSpeech": "noun",
+    "zipf": 1.08,
+    "definition": "the sleeve of a shirt",
+    "cmu": [
+      "SH",
+      "ER1",
+      "T",
+      "S",
+      "L",
+      "IY2",
+      "V"
+    ]
+  },
+  {
+    "rank": 292935,
+    "word": "allomorph",
+    "partOfSpeech": "noun",
+    "zipf": 1.07,
+    "definition": "any of several different crystalline forms of the same chemical compound",
+    "cmu": [
+      "AE1",
+      "L",
+      "AH0",
+      "M",
+      "AO0",
+      "R",
+      "F"
+    ]
+  },
+  {
+    "rank": 293034,
+    "word": "artiodactyl",
+    "partOfSpeech": "noun",
+    "zipf": 1.07,
+    "definition": "placental mammal having hooves with an even number of functional toes on each foot",
+    "cmu": [
+      "AA2",
+      "R",
+      "T",
+      "IY0",
+      "OW0",
+      "D",
+      "AE1",
+      "K",
+      "T",
+      "AH0",
+      "L"
+    ]
+  },
+  {
+    "rank": 293120,
+    "word": "bankbook",
+    "partOfSpeech": "noun",
+    "zipf": 1.07,
+    "definition": "a record of deposits and withdrawals and interest held by depositors at certain banks",
+    "cmu": [
+      "B",
+      "AE1",
+      "NG",
+      "K",
+      "B",
+      "UH2",
+      "K"
+    ]
+  },
+  {
+    "rank": 293319,
+    "word": "cahoot",
+    "partOfSpeech": "noun",
+    "zipf": 1.07,
+    "definition": "collusion",
+    "cmu": [
+      "K",
+      "AH0",
+      "HH",
+      "UW1",
+      "T"
+    ]
+  },
+  {
+    "rank": 293515,
+    "word": "constipate",
+    "partOfSpeech": "verb",
+    "zipf": 1.07,
+    "definition": "impede with a clog or as if with a clog",
+    "cmu": [
+      "K",
+      "AA1",
+      "N",
+      "S",
+      "T",
+      "AH0",
+      "P",
+      "EY2",
+      "T"
+    ]
+  },
+  {
+    "rank": 293536,
+    "word": "couchette",
+    "partOfSpeech": "noun",
+    "zipf": 1.07,
+    "definition": "a compartment on a European passenger train; contains 4 to 6 berths for sleeping",
+    "cmu": [
+      "K",
+      "UW2",
+      "SH",
+      "EH1",
+      "T"
+    ]
+  },
+  {
+    "rank": 293648,
+    "word": "delouse",
+    "partOfSpeech": "verb",
+    "zipf": 1.07,
+    "definition": "free of lice",
+    "cmu": [
+      "D",
+      "IY2",
+      "L",
+      "AW1",
+      "Z"
+    ]
+  },
+  {
+    "rank": 294152,
+    "word": "gradate",
+    "partOfSpeech": "verb",
+    "zipf": 1.07,
+    "definition": "arrange according to grades",
+    "cmu": [
+      "G",
+      "R",
+      "EY1",
+      "D",
+      "EY0",
+      "T"
+    ]
+  },
+  {
+    "rank": 295068,
+    "word": "molter",
+    "partOfSpeech": "noun",
+    "zipf": 1.07,
+    "definition": "an animal (especially birds and arthropods and reptiles) that periodically shed their outer layer (feathers or cuticle or skin or hair)",
+    "cmu": [
+      "M",
+      "OW1",
+      "L",
+      "T",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 296021,
+    "word": "sternpost",
+    "partOfSpeech": "noun",
+    "zipf": 1.07,
+    "definition": "(nautical) the principal upright timber at the stern of a vessel",
+    "cmu": [
+      "S",
+      "T",
+      "ER1",
+      "N",
+      "P",
+      "OW2",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "rank": 296418,
+    "word": "vulgarization",
+    "partOfSpeech": "noun",
+    "zipf": 1.07,
+    "definition": "the act of rendering something coarse and unrefined",
+    "cmu": [
+      "V",
+      "AH2",
+      "L",
+      "G",
+      "ER0",
+      "IH0",
+      "Z",
+      "EY1",
+      "SH",
+      "AH0",
+      "N"
+    ]
+  },
+  {
+    "rank": 296546,
+    "word": "yawner",
+    "partOfSpeech": "noun",
+    "zipf": 1.07,
+    "definition": "a person who yawns",
+    "cmu": [
+      "Y",
+      "AO1",
+      "N",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 296704,
+    "word": "alkahest",
+    "partOfSpeech": "noun",
+    "zipf": 1.06,
+    "definition": "hypothetical universal solvent once sought by alchemists",
+    "cmu": [
+      "AE1",
+      "L",
+      "K",
+      "AH0",
+      "HH",
+      "EH2",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "rank": 296745,
+    "word": "anencephalic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.06,
+    "definition": "characterized by partial or total absence of a brain",
+    "cmu": [
+      "AE0",
+      "N",
+      "EH2",
+      "N",
+      "S",
+      "AH0",
+      "F",
+      "AE1",
+      "L",
+      "IH0",
+      "K"
+    ]
+  },
+  {
+    "rank": 297135,
+    "word": "caterwaul",
+    "partOfSpeech": "noun",
+    "zipf": 1.06,
+    "definition": "the yowling sound made by a cat in heat",
+    "cmu": [
+      "K",
+      "AE1",
+      "T",
+      "ER0",
+      "W",
+      "AA0",
+      "L"
+    ]
+  },
+  {
+    "rank": 297316,
+    "word": "countercharge",
+    "partOfSpeech": "noun",
+    "zipf": 1.06,
+    "definition": "a charge brought by an accused person against the accuser",
+    "cmu": [
+      "K",
+      "AW1",
+      "N",
+      "T",
+      "ER0",
+      "CH",
+      "AA2",
+      "R",
+      "JH"
+    ]
+  },
+  {
+    "rank": 297724,
+    "word": "flabbergast",
+    "partOfSpeech": "verb",
+    "zipf": 1.06,
+    "definition": "overcome with amazement",
+    "cmu": [
+      "F",
+      "L",
+      "AE1",
+      "B",
+      "ER0",
+      "G",
+      "AE2",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "rank": 298106,
+    "word": "hymeneal",
+    "partOfSpeech": "noun",
+    "zipf": 1.06,
+    "definition": "a wedding hymn",
+    "cmu": [
+      "HH",
+      "IH2",
+      "M",
+      "AH0",
+      "N",
+      "IY1",
+      "AH0",
+      "L"
+    ]
+  },
+  {
+    "rank": 298307,
+    "word": "kelter",
+    "partOfSpeech": "noun",
+    "zipf": 1.06,
+    "definition": "in working order",
+    "cmu": [
+      "K",
+      "EH1",
+      "L",
+      "T",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 298755,
+    "word": "monocarpic",
+    "partOfSpeech": "adjective",
+    "zipf": 1.06,
+    "definition": "dying after bearing fruit only once",
+    "cmu": [
+      "M",
+      "AA2",
+      "N",
+      "AH0",
+      "K",
+      "AA1",
+      "R",
+      "P",
+      "IH0",
+      "K"
+    ]
+  },
+  {
+    "rank": 299121,
+    "word": "piddock",
+    "partOfSpeech": "noun",
+    "zipf": 1.06,
+    "definition": "marine bivalve that bores into rock or clay or wood by means of saw-like shells",
+    "cmu": [
+      "P",
+      "IH1",
+      "D",
+      "AH0",
+      "K"
+    ]
+  },
+  {
+    "rank": 299508,
+    "word": "seedpod",
+    "partOfSpeech": "noun",
+    "zipf": 1.06,
+    "definition": "a several-seeded dehiscent fruit as e.g. of a leguminous plant",
+    "cmu": [
+      "S",
+      "IY1",
+      "D",
+      "P",
+      "AA2",
+      "D"
+    ]
+  },
+  {
+    "rank": 299695,
+    "word": "stigmatism",
+    "partOfSpeech": "noun",
+    "zipf": 1.06,
+    "definition": "the condition of having or being marked by stigmata",
+    "cmu": [
+      "S",
+      "T",
+      "IH1",
+      "G",
+      "M",
+      "AH0",
+      "T",
+      "IH2",
+      "Z",
+      "AH0",
+      "M"
+    ]
+  },
+  {
+    "rank": 301013,
+    "word": "crosscurrent",
+    "partOfSpeech": "noun",
+    "zipf": 1.05,
+    "definition": "a stretch of turbulent water in a river or the sea caused by one current flowing into or across another current",
+    "cmu": [
+      "K",
+      "R",
+      "AO1",
+      "S",
+      "K",
+      "ER2",
+      "AH0",
+      "N",
+      "T"
+    ]
+  },
+  {
+    "rank": 301083,
+    "word": "dehumidify",
+    "partOfSpeech": "verb",
+    "zipf": 1.05,
+    "definition": "make less humid",
+    "cmu": [
+      "D",
+      "IY0",
+      "HH",
+      "Y",
+      "UW0",
+      "M",
+      "IH1",
+      "D",
+      "AH0",
+      "F",
+      "AY0"
+    ]
+  },
+  {
+    "rank": 301709,
+    "word": "honeymooner",
+    "partOfSpeech": "noun",
+    "zipf": 1.05,
+    "definition": "someone recently married",
+    "cmu": [
+      "HH",
+      "AH1",
+      "N",
+      "IY0",
+      "M",
+      "UW2",
+      "N",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 302532,
+    "word": "nephrosis",
+    "partOfSpeech": "noun",
+    "zipf": 1.05,
+    "definition": "a syndrome characterized by edema and large amounts of protein in the urine and usually increased blood cholesterol; usually associated with glomerulonephritis or with a complication of various systemic diseases",
+    "cmu": [
+      "N",
+      "AH0",
+      "F",
+      "R",
+      "OW1",
+      "S",
+      "AH0",
+      "S"
+    ]
+  },
+  {
+    "rank": 304172,
+    "word": "actinomycosis",
+    "partOfSpeech": "noun",
+    "zipf": 1.04,
+    "definition": "disease of cattle that can be transmitted to humans; results from infection with actinomycetes; characterized by hard swellings that exude pus through long sinuses",
+    "cmu": [
+      "AE2",
+      "K",
+      "T",
+      "IH2",
+      "N",
+      "OW0",
+      "M",
+      "AY2",
+      "K",
+      "OW1",
+      "S",
+      "IH0",
+      "S"
+    ]
+  },
+  {
+    "rank": 305313,
+    "word": "evenhandedly",
+    "partOfSpeech": "adverb",
+    "zipf": 1.04,
+    "definition": "without favoring one party, in a fair evenhanded manner",
+    "cmu": [
+      "EH1",
+      "V",
+      "AH0",
+      "N",
+      "HH",
+      "AE2",
+      "N",
+      "D",
+      "IH0",
+      "D",
+      "L",
+      "IY0"
+    ]
+  },
+  {
+    "rank": 305385,
+    "word": "fingerpointing",
+    "partOfSpeech": "noun",
+    "zipf": 1.04,
+    "definition": "the imputation of blame",
+    "cmu": [
+      "F",
+      "IH1",
+      "NG",
+      "G",
+      "ER0",
+      "P",
+      "OY2",
+      "N",
+      "T",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "rank": 306589,
+    "word": "negatron",
+    "partOfSpeech": "noun",
+    "zipf": 1.04,
+    "definition": "an elementary particle with negative charge",
+    "cmu": [
+      "N",
+      "EH1",
+      "G",
+      "AH0",
+      "T",
+      "R",
+      "AA0",
+      "N"
+    ]
+  },
+  {
+    "rank": 307106,
+    "word": "rockrose",
+    "partOfSpeech": "noun",
+    "zipf": 1.04,
+    "definition": "any of numerous varieties of helianthemums having small rose-like yellow or white or reddish flowers",
+    "cmu": [
+      "R",
+      "AA1",
+      "K",
+      "R",
+      "OW2",
+      "Z"
+    ]
+  },
+  {
+    "rank": 307470,
+    "word": "strangulate",
+    "partOfSpeech": "verb",
+    "zipf": 1.04,
+    "definition": "kill by squeezing the throat of so as to cut off the air",
+    "cmu": [
+      "S",
+      "T",
+      "R",
+      "AE1",
+      "NG",
+      "G",
+      "Y",
+      "AH0",
+      "L",
+      "EY2",
+      "T"
+    ]
+  },
+  {
+    "rank": 307819,
+    "word": "viatical",
+    "partOfSpeech": "adjective",
+    "zipf": 1.04,
+    "definition": "pertaining to the purchase of insurance policies from terminally ill policy holders",
+    "cmu": [
+      "V",
+      "AY2",
+      "AE1",
+      "T",
+      "IH0",
+      "K",
+      "AH0",
+      "L"
+    ]
+  },
+  {
+    "rank": 308839,
+    "word": "corncrib",
+    "partOfSpeech": "noun",
+    "zipf": 1.03,
+    "definition": "a crib for storing and drying ears of corn",
+    "cmu": [
+      "K",
+      "AO1",
+      "R",
+      "N",
+      "K",
+      "R",
+      "IH2",
+      "B"
+    ]
+  },
+  {
+    "rank": 308862,
+    "word": "crispen",
+    "partOfSpeech": "verb",
+    "zipf": 1.03,
+    "definition": "make brown and crisp by heating",
+    "cmu": [
+      "K",
+      "R",
+      "IH1",
+      "S",
+      "P",
+      "AH0",
+      "N"
+    ]
+  },
+  {
+    "rank": 310378,
+    "word": "moue",
+    "partOfSpeech": "noun",
+    "zipf": 1.03,
+    "definition": "a disdainful grimace",
+    "cmu": [
+      "M",
+      "UW1"
+    ]
+  },
+  {
+    "rank": 310560,
+    "word": "obtrude",
+    "partOfSpeech": "verb",
+    "zipf": 1.03,
+    "definition": "push to thrust outward",
+    "cmu": [
+      "AH0",
+      "B",
+      "T",
+      "R",
+      "UW1",
+      "D"
+    ]
+  },
+  {
+    "rank": 311126,
+    "word": "scantiness",
+    "partOfSpeech": "noun",
+    "zipf": 1.03,
+    "definition": "the quality of being meager; -George Eliot",
+    "cmu": [
+      "S",
+      "K",
+      "AE1",
+      "N",
+      "T",
+      "IY0",
+      "N",
+      "AH0",
+      "S"
+    ]
+  },
+  {
+    "rank": 311289,
+    "word": "skycap",
+    "partOfSpeech": "noun",
+    "zipf": 1.03,
+    "definition": "a porter who helps passengers with their baggage at an airport",
+    "cmu": [
+      "S",
+      "K",
+      "AY1",
+      "K",
+      "AE2",
+      "P"
+    ]
+  },
+  {
+    "rank": 311922,
+    "word": "womanize",
+    "partOfSpeech": "verb",
+    "zipf": 1.03,
+    "definition": "have amorous affairs; of men",
+    "cmu": [
+      "W",
+      "UH1",
+      "M",
+      "AH0",
+      "N",
+      "AY2",
+      "Z"
+    ]
+  },
+  {
+    "rank": 314579,
+    "word": "overprotect",
+    "partOfSpeech": "verb",
+    "zipf": 1.02,
+    "definition": "care for like a mother",
+    "cmu": [
+      "OW2",
+      "V",
+      "ER0",
+      "P",
+      "R",
+      "AH0",
+      "T",
+      "EH1",
+      "K",
+      "T"
+    ]
+  },
+  {
+    "rank": 315058,
+    "word": "schnook",
+    "partOfSpeech": "noun",
+    "zipf": 1.02,
+    "definition": "(Yiddish) a gullible simpleton more to be pitied than despised",
+    "cmu": [
+      "SH",
+      "N",
+      "UH1",
+      "K"
+    ]
+  },
+  {
+    "rank": 315082,
+    "word": "seamster",
+    "partOfSpeech": "noun",
+    "zipf": 1.02,
+    "definition": "a person whose occupation is making and altering garments",
+    "cmu": [
+      "S",
+      "IY1",
+      "M",
+      "S",
+      "T",
+      "ER0"
+    ]
+  },
+  {
+    "rank": 316633,
+    "word": "collateralize",
+    "partOfSpeech": "verb",
+    "zipf": 1.01,
+    "definition": "pledge as a collateral",
+    "cmu": [
+      "K",
+      "AH0",
+      "L",
+      "AE1",
+      "T",
+      "ER0",
+      "AH0",
+      "L",
+      "AY2",
+      "Z"
+    ]
+  },
+  {
+    "rank": 316966,
+    "word": "encyclopedist",
+    "partOfSpeech": "noun",
+    "zipf": 1.01,
+    "definition": "a person who compiles information for encyclopedias",
+    "cmu": [
+      "IH0",
+      "N",
+      "S",
+      "AY2",
+      "K",
+      "L",
+      "AH0",
+      "P",
+      "IY1",
+      "D",
+      "AH0",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "rank": 319426,
+    "word": "teethe",
+    "partOfSpeech": "verb",
+    "zipf": 1.01,
+    "definition": "grow teeth; cut the baby teeth",
+    "cmu": [
+      "T",
+      "IY1",
+      "DH"
+    ]
   }
 ]
