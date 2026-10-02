@@ -1,0 +1,502 @@
+[
+  {
+    "word": "incoordination",
+    "pronunciation": "/ˌɪnˌkoʊˈɔrdəˌneɪʃən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a lack of coordination of movements",
+    "zipf": 1.32,
+    "score": 17.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "troche",
+    "pronunciation": "/trɑʧ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a medicated lozenge used to soothe the throat",
+    "zipf": 1.32,
+    "score": 17.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "handclasp",
+    "pronunciation": "/ˈhændˌklæsp/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "grasping and shaking a person's hand (as to acknowledge an introduction or to agree on a contract)",
+    "zipf": 1.17,
+    "score": 17.2,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "percipient",
+    "pronunciation": "/pərˈsɪpjənt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a person who becomes aware (of things or events) through the senses",
+    "zipf": 1.17,
+    "score": 17.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "vagary",
+    "pronunciation": "/ˈveɪgəri/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an unexpected and inexplicable change in something (in a situation or a person's behavior, etc.)",
+    "zipf": 1.17,
+    "score": 17.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "incrustation",
+    "pronunciation": "/ˌɪnkrəˈsteɪʃən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the formation of a crust",
+    "zipf": 1.31,
+    "score": 17.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "maraud",
+    "pronunciation": "/mərɔd/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a sudden short attack",
+    "zipf": 1.31,
+    "score": 17.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "megadeath",
+    "pronunciation": "/ˈmɛgəˌdɛθ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the death of a million people",
+    "zipf": 1.31,
+    "score": 17.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "ribaldry",
+    "pronunciation": "/ˈraɪbɑldri/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "ribald humor",
+    "zipf": 1.31,
+    "score": 17.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "stockholding",
+    "pronunciation": "/ˈstɑˌkhoʊldɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a specific number of stocks or shares owned",
+    "zipf": 1.31,
+    "score": 17.1,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "bigram",
+    "pronunciation": "/ˈbaɪgræm/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a word that is written with two letters in an alphabetic writing system",
+    "zipf": 1.16,
+    "score": 17.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "microcircuit",
+    "pronunciation": "/ˈmaɪkroʊˌsərkət/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a microelectronic computer circuit incorporated into a chip or semiconductor; a whole system rather than a single component",
+    "zipf": 1.16,
+    "score": 17.1,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "starer",
+    "pronunciation": "/ˈstɛrər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a viewer who gazes fixedly (often with hostility)",
+    "zipf": 1.3,
+    "score": 17.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "brickbat",
+    "pronunciation": "/ˈbrɪkˌbæt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a fragment of brick used as a weapon",
+    "zipf": 1.29,
+    "score": 16.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "eyespot",
+    "pronunciation": "/ˈaɪˌspɑt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an eyelike marking (as on the wings of some butterflies); usually a spot of color inside a ring of another color",
+    "zipf": 1.29,
+    "score": 16.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "pleonasm",
+    "pronunciation": "/ˈpliəˌnæzm/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "using more words than necessary",
+    "zipf": 1.29,
+    "score": 16.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "scatology",
+    "pronunciation": "/skæˈtɔləʤi/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a preoccupation with obscenity (especially that dealing with excrement or excretory functions)",
+    "zipf": 1.29,
+    "score": 16.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "slyness",
+    "pronunciation": "/sˈlaɪnəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "shrewdness as demonstrated by being skilled in deception",
+    "zipf": 1.29,
+    "score": 16.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "stoutness",
+    "pronunciation": "/ˈstaʊtnəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the property of being strong and resolute",
+    "zipf": 1.29,
+    "score": 16.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "taxability",
+    "pronunciation": "/ˌtæksəˈbɪlɪti/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "liability to taxation",
+    "zipf": 1.29,
+    "score": 16.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "analysand",
+    "pronunciation": "/æˈnælɪˌzænd/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a person undergoing psychoanalysis",
+    "zipf": 1.14,
+    "score": 16.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "bargainer",
+    "pronunciation": "/ˈbɑrgɪnər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "someone who purchases and maintains an inventory of goods to be sold",
+    "zipf": 1.14,
+    "score": 16.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "oenophile",
+    "pronunciation": "/ˈinəˌfaɪl/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "someone who appreciates wine",
+    "zipf": 1.14,
+    "score": 16.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "reimposition",
+    "pronunciation": "/ˌriɪmpəˈzɪʃən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "imposition again",
+    "zipf": 1.28,
+    "score": 16.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "tatter",
+    "pronunciation": "/ˈtætər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a small piece of cloth or paper",
+    "zipf": 1.28,
+    "score": 16.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "wangler",
+    "pronunciation": "/ˈwæŋglər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a deceiver who uses crafty misleading methods",
+    "zipf": 1.28,
+    "score": 16.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "vernonia",
+    "pronunciation": "/vərˈnoʊniə/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "any of various plants of the genus Vernonia of tropical and warm regions of especially North America that take their name from their loose heads of purple to rose flowers that quickly take on a rusty hue",
+    "zipf": 1.49,
+    "score": 16.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "hotcake",
+    "pronunciation": "/ˈhɑtˌkeɪk/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a flat cake of thin batter fried on both sides on a griddle",
+    "zipf": 1.27,
+    "score": 16.7,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "roominess",
+    "pronunciation": "/ˈruminəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "intellectual breadth",
+    "zipf": 1.27,
+    "score": 16.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "closedown",
+    "pronunciation": "/ˈkloʊzˌdaʊn/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "termination of operations",
+    "zipf": 1.26,
+    "score": 16.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "dyestuff",
+    "pronunciation": "/ˈdaɪˌstəf/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a usually soluble substance for staining or coloring e.g. fabrics or hair",
+    "zipf": 1.26,
+    "score": 16.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "eyeshade",
+    "pronunciation": "/ˈaɪˌʃeɪd/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a brim that projects to the front to shade the eyes",
+    "zipf": 1.26,
+    "score": 16.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "onomastics",
+    "pronunciation": "/ˌɑnəˈmæstɪks/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the branch of lexicology that studies the forms and origins of proper names",
+    "zipf": 1.26,
+    "score": 16.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "liposome",
+    "pronunciation": "/ˈlɪpəˌsoʊm/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an artificially made microscopic vesicle into which nucleic acids can be packaged; used in molecular biology as a transducing vector",
+    "zipf": 1.69,
+    "score": 16.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "groundling",
+    "pronunciation": "/ˈgraʊndlɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "in Elizabethan theater: a playgoer in the cheap standing section",
+    "zipf": 1.25,
+    "score": 16.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "lorgnette",
+    "pronunciation": "/lɔrnˈjɛt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "eyeglasses that are held to the eyes with a long handle",
+    "zipf": 1.25,
+    "score": 16.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "millibar",
+    "pronunciation": "/ˈmɪləˌbɑr/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a unit of atmospheric pressure equal to one thousandth of a bar",
+    "zipf": 1.25,
+    "score": 16.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "moreen",
+    "pronunciation": "/mɔˈrin/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a heavy fabric of wool (or wool and cotton) used mostly in upholstery or for curtains",
+    "zipf": 1.25,
+    "score": 16.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "slovenliness",
+    "pronunciation": "/sˈləvənlinəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a lack of order and tidiness; not cared for",
+    "zipf": 1.25,
+    "score": 16.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "underperformer",
+    "pronunciation": "/ˈəndərpərˌfɔrmər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a student who does not perform as well as expected or as well as the IQ indicates",
+    "zipf": 1.1,
+    "score": 16.5,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "bounciness",
+    "pronunciation": "/ˈbaʊnsinəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the quality of a substance that is able to rebound",
+    "zipf": 1.24,
+    "score": 16.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "communization",
+    "pronunciation": "/ˌkɑmjənəˈzeɪʃən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a change from private property to public property owned by the community",
+    "zipf": 1.24,
+    "score": 16.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "hindquarter",
+    "pronunciation": "/ˈhaɪndkˌwɔrtər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the back half of a side of meat",
+    "zipf": 1.24,
+    "score": 16.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "plaudit",
+    "pronunciation": "/ˈplɔdɪt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "enthusiastic approval",
+    "zipf": 1.24,
+    "score": 16.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "gnarl",
+    "pronunciation": "/nɑrl/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "something twisted and tight and swollen",
+    "zipf": 1.23,
+    "score": 16.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "palmist",
+    "pronunciation": "/ˈpɑmɪst/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "fortuneteller who predicts your future by the lines on your palms",
+    "zipf": 1.23,
+    "score": 16.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "provenience",
+    "pronunciation": "/prəˈvɛniəns/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "where something originated or was nurtured in its early existence",
+    "zipf": 1.23,
+    "score": 16.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "yawner",
+    "pronunciation": "/ˈjɔnər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a person who yawns",
+    "zipf": 1.07,
+    "score": 16.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "connecter",
+    "pronunciation": "/kəˈnɛktər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an instrumentality that connects",
+    "zipf": 1.22,
+    "score": 16.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "analyticity",
+    "pronunciation": "/ˌænələˈtɪsəti/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the property of being analytic",
+    "zipf": 1.21,
+    "score": 16.1,
+    "suspiciousCompound": false
+  }
+]

@@ -1,0 +1,636 @@
+[
+  {
+    "word": "urbanize",
+    "pronunciation": "/ˈərbəˌnaɪz/",
+    "forms": [
+      "urbanizes",
+      "urbanized",
+      "urbanizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make more industrial or city-like",
+    "zipf": 1.33,
+    "score": 31.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "layperson",
+    "pronunciation": "/leɪˈpərsɪn/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "someone who is not a clergyman or a professional person",
+    "zipf": 2.28,
+    "score": 31.3,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "upholster",
+    "pronunciation": "/əˈpoʊlstər/",
+    "forms": [
+      "upholsters",
+      "upholstered",
+      "upholstering"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "provide furniture with padding, springs, webbing, and covers",
+    "zipf": 1.32,
+    "score": 31.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "limbless",
+    "pronunciation": "/ˈlɪmləs/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having no limbs",
+    "zipf": 1.82,
+    "score": 31.2,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "depersonalize",
+    "pronunciation": "/diˈpərsənəˌlaɪz/",
+    "forms": [
+      "depersonalizes",
+      "depersonalized",
+      "depersonalizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make impersonal or present as an object",
+    "zipf": 1.17,
+    "score": 31.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "touchable",
+    "pronunciation": "/ˈtəʧəbəl/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "perceptible by the senses especially the sense of touch",
+    "zipf": 1.81,
+    "score": 31.1,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "prerecord",
+    "pronunciation": "/ˌprirɪˈkɔrd/",
+    "forms": [
+      "prerecords",
+      "prerecorded",
+      "prerecording"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "record before presentation, as of a broadcast",
+    "zipf": 1.16,
+    "score": 31.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "infatuate",
+    "pronunciation": "/ˌɪnˈfæʧuˌeɪt/",
+    "forms": [
+      "infatuates",
+      "infatuating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "arouse unreasoning love or passion in and cause to behave in an irrational way",
+    "zipf": 1.3,
+    "score": 31.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "angulate",
+    "pronunciation": "/ˈæŋgjuˌleɪt/",
+    "forms": [
+      "angulates",
+      "angulated",
+      "angulating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make or become angular",
+    "zipf": 1.29,
+    "score": 30.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "fictionalize",
+    "pronunciation": "/ˈfɪkʃənəˌlaɪz/",
+    "forms": [
+      "fictionalizes",
+      "fictionalized",
+      "fictionalizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make into fiction",
+    "zipf": 1.28,
+    "score": 30.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "unhitch",
+    "pronunciation": "/ənˈhɪʧ/",
+    "forms": [
+      "unhitches",
+      "unhitched",
+      "unhitching"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "unfasten or release from or as if from a hitch",
+    "zipf": 1.28,
+    "score": 30.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "enmesh",
+    "pronunciation": "/ɛnˈmɛʃ/",
+    "forms": [
+      "enmeshes",
+      "enmeshed",
+      "enmeshing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "entangle or catch in (or as if in) a mesh",
+    "zipf": 1.27,
+    "score": 30.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "bedeck",
+    "pronunciation": "/bɪˈdɛk/",
+    "forms": [
+      "bedecks",
+      "bedecked",
+      "bedecking"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "decorate",
+    "zipf": 1.26,
+    "score": 30.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "chlorinate",
+    "pronunciation": "/ˈklɔrəˌneɪt/",
+    "forms": [
+      "chlorinates",
+      "chlorinated",
+      "chlorinating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "treat or combine with chlorine",
+    "zipf": 1.26,
+    "score": 30.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "palpitate",
+    "pronunciation": "/ˈpælpəteɪt/",
+    "forms": [
+      "palpitates",
+      "palpitated",
+      "palpitating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cause to throb or beat rapidly",
+    "zipf": 1.26,
+    "score": 30.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "beatify",
+    "pronunciation": "/biˈætəˌfaɪ/",
+    "forms": [
+      "beatifies",
+      "beatified",
+      "beatifying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "fill with sublime emotion",
+    "zipf": 1.11,
+    "score": 30.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "deject",
+    "pronunciation": "/dɪˈʤɛkt/",
+    "forms": [
+      "dejects",
+      "dejecting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "lower someone's spirits; make downhearted",
+    "zipf": 1.11,
+    "score": 30.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "countervail",
+    "pronunciation": "/ˈkaʊntərˌveɪl/",
+    "forms": [
+      "countervails",
+      "countervailed"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "compensate for or counterbalance",
+    "zipf": 1.25,
+    "score": 30.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "nauseate",
+    "pronunciation": "/ˈnɔziˌeɪt/",
+    "forms": [
+      "nauseates",
+      "nauseated",
+      "nauseating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "upset and make nauseated",
+    "zipf": 1.25,
+    "score": 30.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "overpopulate",
+    "pronunciation": "/ˌoʊvərˈpɑpjəleɪt/",
+    "forms": [
+      "overpopulates",
+      "overpopulated",
+      "overpopulating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cause to have too great a population",
+    "zipf": 1.25,
+    "score": 30.5,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "rotationally",
+    "pronunciation": "/roʊˈteɪʃənəli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a rotational manner",
+    "zipf": 1.79,
+    "score": 30.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "misremember",
+    "pronunciation": "/mɪsriˈmɛmbər/",
+    "forms": [
+      "misremembers",
+      "misremembered",
+      "misremembering"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "remember incorrectly",
+    "zipf": 1.24,
+    "score": 30.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "outdistance",
+    "pronunciation": "/ˈaʊtˈdɪstəns/",
+    "forms": [
+      "outdistances",
+      "outdistanced",
+      "outdistancing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "go far ahead of",
+    "zipf": 1.24,
+    "score": 30.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "ductless",
+    "pronunciation": "/ˈdəktləs/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "not having a duct",
+    "zipf": 1.72,
+    "score": 30.2,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "seasonable",
+    "pronunciation": "/ˈsizənəbəl/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "in keeping with the season",
+    "zipf": 1.72,
+    "score": 30.2,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "witting",
+    "pronunciation": "/ˈwɪtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "aware or knowing",
+    "zipf": 1.72,
+    "score": 30.2,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "misstate",
+    "pronunciation": "/mɪˈsteɪt/",
+    "forms": [
+      "misstates",
+      "misstated",
+      "misstating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "state something incorrectly",
+    "zipf": 1.22,
+    "score": 30.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "hopple",
+    "pronunciation": "/ˈhɑpəl/",
+    "forms": [
+      "hopples",
+      "hoppled",
+      "hoppling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "strap the foreleg and hind leg together on each side (of a horse) in order to keep the legs on the same side moving in unison",
+    "zipf": 1.21,
+    "score": 30.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "ruckle",
+    "pronunciation": "/ˈrəkəl/",
+    "forms": [
+      "ruckles",
+      "ruckled",
+      "ruckling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make a hoarse, rattling sound",
+    "zipf": 1.21,
+    "score": 30.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "enrapture",
+    "pronunciation": "/ɛnˈræpʧər/",
+    "forms": [
+      "enraptures",
+      "enrapturing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "hold spellbound",
+    "zipf": 1.2,
+    "score": 30.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "misperceive",
+    "pronunciation": "/mɪspərˈsiv/",
+    "forms": [
+      "misperceives",
+      "misperceived",
+      "misperceiving"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "perceive incorrectly",
+    "zipf": 1.2,
+    "score": 30.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "moneyless",
+    "pronunciation": "/ˈmənilɪs/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "not based on the possession of money",
+    "zipf": 1.54,
+    "score": 29.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "embitter",
+    "pronunciation": "/ɛmˈbɪtər/",
+    "forms": [
+      "embitters",
+      "embittering"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cause to be bitter or resentful",
+    "zipf": 1.19,
+    "score": 29.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "ringmaster",
+    "pronunciation": "/ˈrɪŋˌmæstər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the person in charge of performances in a circus ring",
+    "zipf": 2.28,
+    "score": 29.8,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "ramify",
+    "pronunciation": "/ˈræməˌfaɪ/",
+    "forms": [
+      "ramifies",
+      "ramified",
+      "ramifying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "have or develop complicating consequences",
+    "zipf": 1.18,
+    "score": 29.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "rhapsodize",
+    "pronunciation": "/ˈræpsəˌdaɪz/",
+    "forms": [
+      "rhapsodizes",
+      "rhapsodized",
+      "rhapsodizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "recite a rhapsody",
+    "zipf": 1.18,
+    "score": 29.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "temporize",
+    "pronunciation": "/ˈtɛmpərˌaɪz/",
+    "forms": [
+      "temporizes",
+      "temporized",
+      "temporizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "draw out a discussion or process in order to gain time",
+    "zipf": 1.18,
+    "score": 29.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "latinate",
+    "pronunciation": "/ˈlætəˌneɪt/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "derived from or imitative of Latin",
+    "zipf": 1.67,
+    "score": 29.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "pleomorphic",
+    "pronunciation": "/ˌpliəˈmɔfɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "relating to or characterized by pleomorphism",
+    "zipf": 1.67,
+    "score": 29.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "demodulate",
+    "pronunciation": "/ˌdiˌmɑʤəˈleɪt/",
+    "forms": [
+      "demodulates",
+      "demodulated",
+      "demodulating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "extract information from a modulated carrier wave",
+    "zipf": 1.16,
+    "score": 29.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "canonic",
+    "pronunciation": "/kəˈnɑnək/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "appearing in a biblical canon",
+    "zipf": 1.66,
+    "score": 29.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "chitinous",
+    "pronunciation": "/ˈkaɪtənəs/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or resembling chitin",
+    "zipf": 1.65,
+    "score": 29.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "estrous",
+    "pronunciation": "/ˈɛstrəs/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "(of lower mammals) showing or in a state of estrus; in heat",
+    "zipf": 1.65,
+    "score": 29.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "polyphase",
+    "pronunciation": "/ˈpɑˌliˌfeɪz/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of an electrical system that uses or generates two or more alternating voltages of the same frequency but differing in phase angle",
+    "zipf": 1.65,
+    "score": 29.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "anglicize",
+    "pronunciation": "/ˈæŋlɪˌsaɪz/",
+    "forms": [
+      "anglicizes",
+      "anglicized",
+      "anglicizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make English in appearance",
+    "zipf": 1.15,
+    "score": 29.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "roister",
+    "pronunciation": "/ˈrɔɪstər/",
+    "forms": [
+      "roisters",
+      "roistered",
+      "roistering"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "engage in boisterous, drunken merrymaking",
+    "zipf": 1.15,
+    "score": 29.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "syncopate",
+    "pronunciation": "/ˈsɪŋkəˌpeɪt/",
+    "forms": [
+      "syncopates",
+      "syncopated",
+      "syncopating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "omit a sound or letter in a word",
+    "zipf": 1.15,
+    "score": 29.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "enshroud",
+    "pronunciation": "/ɪnʃˈraʊd/",
+    "forms": [
+      "enshrouds",
+      "enshrouded",
+      "enshrouding"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cover as if with a shroud",
+    "zipf": 1.14,
+    "score": 29.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "variegate",
+    "pronunciation": "/ˈvɛrɪgeɪt/",
+    "forms": [
+      "variegates",
+      "variegating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "change the appearance of, especially by marking with different colors",
+    "zipf": 1.14,
+    "score": 29.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "ensconce",
+    "pronunciation": "/ɪnˈskɑns/",
+    "forms": [
+      "ensconces",
+      "ensconced",
+      "ensconcing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "fix firmly",
+    "zipf": 1.13,
+    "score": 29.3,
+    "suspiciousCompound": false
+  }
+]

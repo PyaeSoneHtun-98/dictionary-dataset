@@ -1,0 +1,630 @@
+[
+  {
+    "word": "housekeeping",
+    "pronunciation": "/ˈhaʊˌskipɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the work of cleaning and running a house",
+    "zipf": 3.24,
+    "score": 39.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "interrelate",
+    "pronunciation": "/ˌɪntərrɪˈleɪt/",
+    "forms": [
+      "interrelates",
+      "interrelated",
+      "interrelating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "be in a relationship with",
+    "zipf": 1.67,
+    "score": 37.7,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "tabulate",
+    "pronunciation": "/ˈtæbjəˌleɪt/",
+    "forms": [
+      "tabulates",
+      "tabulated",
+      "tabulating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "arrange or enter in tabular form",
+    "zipf": 1.94,
+    "score": 37.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "interweave",
+    "pronunciation": "/ˌɪntərˈwiv/",
+    "forms": [
+      "interweaves",
+      "interweaved",
+      "interwove",
+      "interweaving"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "interlace by or as if by weaving",
+    "zipf": 1.9,
+    "score": 37.0,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "undersell",
+    "pronunciation": "/ˈəndərˌsɛl/",
+    "forms": [
+      "undersells",
+      "undersold",
+      "underselling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "sell cheaper than one's competition",
+    "zipf": 1.9,
+    "score": 37.0,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "intermarry",
+    "pronunciation": "/ˌɪntərˈmæri/",
+    "forms": [
+      "intermarries",
+      "intermarried",
+      "intermarrying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "marry within the same ethnic, social, or family group",
+    "zipf": 1.86,
+    "score": 36.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "thirties",
+    "pronunciation": "/ˈθərtiz/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the time of life between 30 and 40",
+    "zipf": 3.24,
+    "score": 36.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "fifties",
+    "pronunciation": "/ˈfɪftiz/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the decade from 1950 to 1959",
+    "zipf": 3.21,
+    "score": 36.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "westwards",
+    "pronunciation": "/ˈwɛstwərdz/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "toward the west",
+    "zipf": 2.51,
+    "score": 36.1,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "weightlifting",
+    "pronunciation": "/ˈweɪˌtlɪftɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "bodybuilding by exercise that involves lifting weights",
+    "zipf": 3.05,
+    "score": 36.0,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "underplay",
+    "pronunciation": "/ˌəndərˈpleɪ/",
+    "forms": [
+      "underplays",
+      "underplayed",
+      "underplaying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "act (a role) with great restraint",
+    "zipf": 1.77,
+    "score": 35.7,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "parttime",
+    "pronunciation": "/ˈpɑrtˌtaɪm/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "involving less than the standard or customary time for an activity",
+    "zipf": 2.26,
+    "score": 35.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "pussyfoot",
+    "pronunciation": "/ˈpʊsiˈfʊt/",
+    "forms": [
+      "pussyfoots",
+      "pussyfooted",
+      "pussyfooting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "to go stealthily or furtively",
+    "zipf": 1.75,
+    "score": 35.5,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "interpose",
+    "pronunciation": "/ˌɪntərˈpoʊz/",
+    "forms": [
+      "interposes",
+      "interposed",
+      "interposing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "be or come between",
+    "zipf": 1.72,
+    "score": 35.2,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "overextend",
+    "pronunciation": "/ˌoʊvərɪkˈstɛnd/",
+    "forms": [
+      "overextends",
+      "overextended",
+      "overextending"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "strain excessively",
+    "zipf": 1.71,
+    "score": 35.1,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "woodworking",
+    "pronunciation": "/ˈwʊdˌwərkɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the craft of a carpenter: making things out of wood",
+    "zipf": 3.06,
+    "score": 34.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "interleave",
+    "pronunciation": "/ˌɪntərˈliv/",
+    "forms": [
+      "interleaves",
+      "interleaved",
+      "interleaving"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "provide (books) with blank leaves",
+    "zipf": 1.51,
+    "score": 34.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "underbid",
+    "pronunciation": "/ˈəndərˌbɪd/",
+    "forms": [
+      "underbids",
+      "underbidding"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "bid (a hand of cards) at less than the strength of the hand warrants",
+    "zipf": 1.66,
+    "score": 34.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "sodomize",
+    "pronunciation": "/ˈsɔdəˌmaɪz/",
+    "forms": [
+      "sodomizes",
+      "sodomized",
+      "sodomizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "copulate with an animal",
+    "zipf": 1.65,
+    "score": 34.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "bunting",
+    "pronunciation": "/ˈbəntɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a loosely woven fabric used for flags, etc.",
+    "zipf": 3.04,
+    "score": 34.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "overcrowd",
+    "pronunciation": "/ˌoʊvərˈkraʊd/",
+    "forms": [
+      "overcrowds"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cause to crowd together too much",
+    "zipf": 1.61,
+    "score": 34.1,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "hoofed",
+    "pronunciation": "/hʊft/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having or resembling hoofs",
+    "zipf": 2.11,
+    "score": 34.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "conjoin",
+    "pronunciation": "/ˌkɑnˈʤɔɪn/",
+    "forms": [
+      "conjoins",
+      "conjoined",
+      "conjoining"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make contact or come together",
+    "zipf": 1.55,
+    "score": 33.5,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "membered",
+    "pronunciation": "/ˈmɛmbərd/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having members; normally used in chemistry in combination with a number",
+    "zipf": 2.25,
+    "score": 33.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "overfly",
+    "pronunciation": "/ˌoʊvərˈflaɪ/",
+    "forms": [
+      "overflies",
+      "overflied",
+      "overflying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "fly over",
+    "zipf": 1.52,
+    "score": 33.2,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "silverplate",
+    "pronunciation": "/ˈsɪlvərˈpleɪt/",
+    "forms": [
+      "silverplates",
+      "silverplated",
+      "silverplating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "plate with silver",
+    "zipf": 1.49,
+    "score": 32.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "smatter",
+    "pronunciation": "/sˈmætər/",
+    "forms": [
+      "smatters",
+      "smattered"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "work with in an amateurish manner",
+    "zipf": 1.17,
+    "score": 32.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "overtax",
+    "pronunciation": "/ˈoʊvərˌtæks/",
+    "forms": [
+      "overtaxes",
+      "overtaxed",
+      "overtaxing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "tax excessively",
+    "zipf": 1.46,
+    "score": 32.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "caprice",
+    "pronunciation": "/kəˈpris/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a sudden desire",
+    "zipf": 2.86,
+    "score": 32.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "overprice",
+    "pronunciation": "/ˌoʊvərˈpraɪs/",
+    "forms": [
+      "overprices",
+      "overpriced",
+      "overpricing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "price excessively high",
+    "zipf": 1.45,
+    "score": 32.5,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "overdress",
+    "pronunciation": "/ˈoʊvərˌdrɛs/",
+    "forms": [
+      "overdresses",
+      "overdressing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "dress too warmly",
+    "zipf": 1.44,
+    "score": 32.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "rentable",
+    "pronunciation": "/ˈrɛntəbəl/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "that is able or fit be rented",
+    "zipf": 1.93,
+    "score": 32.3,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "misapply",
+    "pronunciation": "/mɪsəˈplaɪ/",
+    "forms": [
+      "misapplies",
+      "misapplied",
+      "misapplying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "apply to a wrong thing or person; apply badly or incorrectly",
+    "zipf": 1.28,
+    "score": 32.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "misspeak",
+    "pronunciation": "/mɪˈspik/",
+    "forms": [
+      "misspeaks",
+      "misspeaked",
+      "misspeaking"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "pronounce a word incorrectly",
+    "zipf": 1.41,
+    "score": 32.1,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "hypertonic",
+    "pronunciation": "/ˌhaɪpərˈtɑnɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "(of living tissue) in a state of abnormally high tension",
+    "zipf": 1.91,
+    "score": 32.1,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "discombobulate",
+    "pronunciation": "/ˌdɪskəmˈbɔbjuleɪt/",
+    "forms": [
+      "discombobulates",
+      "discombobulated",
+      "discombobulating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cause to be confused emotionally",
+    "zipf": 1.25,
+    "score": 32.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "domineer",
+    "pronunciation": "/ˌdɑməˈnɪr/",
+    "forms": [
+      "domineers",
+      "domineered"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "rule or exercise power over (somebody) in a cruel and autocratic manner",
+    "zipf": 1.1,
+    "score": 32.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "contestable",
+    "pronunciation": "/kənˈtɛstəbəl/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "capable of being contested",
+    "zipf": 1.86,
+    "score": 31.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "exportable",
+    "pronunciation": "/ɛkˈspɔrtəbəl/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "suitable for export",
+    "zipf": 1.84,
+    "score": 31.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "pantheistic",
+    "pronunciation": "/ˌpænθiˈɪstɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to pantheism",
+    "zipf": 1.84,
+    "score": 31.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "collectivize",
+    "pronunciation": "/kəˈlɛktɪˌvaɪz/",
+    "forms": [
+      "collectivizes",
+      "collectivized",
+      "collectivizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "bring under collective control; of farms and industrial enterprises",
+    "zipf": 1.34,
+    "score": 31.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "flummox",
+    "pronunciation": "/fləˈmɔks/",
+    "forms": [
+      "flummoxes",
+      "flummoxed",
+      "flummoxing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "be a mystery or bewildering to",
+    "zipf": 1.34,
+    "score": 31.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "furbish",
+    "pronunciation": "/ˈfərbɪʃ/",
+    "forms": [
+      "furbishes",
+      "furbished"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "polish and make shiny",
+    "zipf": 1.34,
+    "score": 31.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "ossify",
+    "pronunciation": "/ˈɑsəˌfaɪ/",
+    "forms": [
+      "ossifies",
+      "ossifying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "become bony",
+    "zipf": 1.34,
+    "score": 31.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "agglutinate",
+    "pronunciation": "/əˈglutɪˌneɪt/",
+    "forms": [
+      "agglutinates",
+      "agglutinated",
+      "agglutinating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "string together (morphemes in an agglutinating language)",
+    "zipf": 1.19,
+    "score": 31.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "barnstorm",
+    "pronunciation": "/ˈbɑrnˌstɔrm/",
+    "forms": [
+      "barnstorms",
+      "barnstormed",
+      "barnstorming"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "appear at county fairs and carnivals as a stunt flier and parachute jumper",
+    "zipf": 1.33,
+    "score": 31.3,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "elate",
+    "pronunciation": "/ɪˈleɪt/",
+    "forms": [
+      "elates",
+      "elating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "fill with high spirits; fill with optimism",
+    "zipf": 1.33,
+    "score": 31.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "emblazon",
+    "pronunciation": "/ɛmˈbleɪzən/",
+    "forms": [
+      "emblazons",
+      "emblazoned",
+      "emblazoning"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "decorate with colors",
+    "zipf": 1.33,
+    "score": 31.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "prognosticate",
+    "pronunciation": "/ˌprɑgˈnɑstəˌkeɪt/",
+    "forms": [
+      "prognosticates",
+      "prognosticated",
+      "prognosticating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make a prediction about; tell in advance",
+    "zipf": 1.33,
+    "score": 31.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "reave",
+    "pronunciation": "/riv/",
+    "forms": [
+      "reaves",
+      "reaved",
+      "reaving"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "steal goods; take as spoils",
+    "zipf": 1.33,
+    "score": 31.3,
+    "suspiciousCompound": false
+  }
+]

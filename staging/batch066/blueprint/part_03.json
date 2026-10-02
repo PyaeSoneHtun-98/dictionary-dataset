@@ -1,0 +1,572 @@
+[
+  {
+    "word": "reinsure",
+    "pronunciation": "/ˌriɪnˈʃʊr/",
+    "forms": [
+      "reinsures",
+      "reinsured",
+      "reinsuring"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "provide additional insurance for",
+    "zipf": 1.13,
+    "score": 29.3,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "appealable",
+    "pronunciation": "/əˈpiləbəl/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "capable of being appealed especially to a higher tribunal; - New Republic",
+    "zipf": 1.62,
+    "score": 29.2,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "organismic",
+    "pronunciation": "/ˌɔrgəˈnɪzmɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to or belonging to an organism (considered as a whole)",
+    "zipf": 1.62,
+    "score": 29.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "encrust",
+    "pronunciation": "/ɛnˈkrəst/",
+    "forms": [
+      "encrusts",
+      "encrusted",
+      "encrusting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "cover or coat with a crust",
+    "zipf": 1.12,
+    "score": 29.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "forebode",
+    "pronunciation": "/fɔrˈboʊd/",
+    "forms": [
+      "forebodes",
+      "foreboded"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make a prediction about; tell in advance",
+    "zipf": 1.12,
+    "score": 29.2,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "reflate",
+    "pronunciation": "/riˈfleɪt/",
+    "forms": [
+      "reflates",
+      "reflated",
+      "reflating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "economics: experience reflation",
+    "zipf": 1.12,
+    "score": 29.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "passably",
+    "pronunciation": "/ˈpæsəbli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "to a moderately sufficient extent or degree",
+    "zipf": 1.82,
+    "score": 29.2,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "autotrophic",
+    "pronunciation": "/ˌɔtəˈtroʊfɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to organisms (as green plants) that can make complex organic nutritive compounds from simple inorganic sources by photosynthesis",
+    "zipf": 1.61,
+    "score": 29.1,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "beleaguer",
+    "pronunciation": "/bɪˈligər/",
+    "forms": [
+      "beleaguers",
+      "beleaguering"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "annoy persistently",
+    "zipf": 1.11,
+    "score": 29.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "restitute",
+    "pronunciation": "/ˈrɛstɪˌtut/",
+    "forms": [
+      "restitutes",
+      "restituted",
+      "restituting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "give or bring back",
+    "zipf": 1.11,
+    "score": 29.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "virological",
+    "pronunciation": "/vaɪrəˈlɑʤɪkəl/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to the science of virology",
+    "zipf": 1.6,
+    "score": 29.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "mesodermal",
+    "pronunciation": "/ˌmɛzəˈdərməl/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "relating to or derived from the mesoderm",
+    "zipf": 1.59,
+    "score": 28.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "monatomic",
+    "pronunciation": "/ˌmɑnəˈtɑmɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to an element consisting of a single atom",
+    "zipf": 1.58,
+    "score": 28.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "reorientate",
+    "pronunciation": "/riˈɔriɛnteɪt/",
+    "forms": [
+      "reorientates",
+      "reorientated",
+      "reorientating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "orient once again, after a disorientation",
+    "zipf": 1.08,
+    "score": 28.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "constipate",
+    "pronunciation": "/ˈkɑnstəˌpeɪt/",
+    "forms": [
+      "constipates",
+      "constipating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "impede with a clog or as if with a clog",
+    "zipf": 1.07,
+    "score": 28.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "delouse",
+    "pronunciation": "/ˌdiˈlaʊz/",
+    "forms": [
+      "delouses",
+      "deloused",
+      "delousing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "free of lice",
+    "zipf": 1.07,
+    "score": 28.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "gradate",
+    "pronunciation": "/ˈgreɪdeɪt/",
+    "forms": [
+      "gradates",
+      "gradated",
+      "gradating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "arrange according to grades",
+    "zipf": 1.07,
+    "score": 28.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "bullfighting",
+    "pronunciation": "/ˈbʊlˌfaɪtɪŋ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the activity at a bullfight",
+    "zipf": 2.46,
+    "score": 28.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "flabbergast",
+    "pronunciation": "/ˈflæbərˌgæst/",
+    "forms": [
+      "flabbergasts",
+      "flabbergasting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "overcome with amazement",
+    "zipf": 1.06,
+    "score": 28.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "dehumidify",
+    "pronunciation": "/dihjuˈmɪdəfaɪ/",
+    "forms": [
+      "dehumidifies",
+      "dehumidified",
+      "dehumidifying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make less humid",
+    "zipf": 1.05,
+    "score": 28.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "strangulate",
+    "pronunciation": "/ˈstræŋgjəˌleɪt/",
+    "forms": [
+      "strangulates",
+      "strangulated",
+      "strangulating"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "kill by squeezing the throat of so as to cut off the air",
+    "zipf": 1.04,
+    "score": 28.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "crispen",
+    "pronunciation": "/ˈkrɪspən/",
+    "forms": [
+      "crispens",
+      "crispened",
+      "crispening"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "make brown and crisp by heating",
+    "zipf": 1.03,
+    "score": 28.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "obtrude",
+    "pronunciation": "/əbˈtrud/",
+    "forms": [
+      "obtrudes",
+      "obtruded",
+      "obtruding"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "push to thrust outward",
+    "zipf": 1.03,
+    "score": 28.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "womanize",
+    "pronunciation": "/ˈwʊməˌnaɪz/",
+    "forms": [
+      "womanizes",
+      "womanized",
+      "womanizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "have amorous affairs; of men",
+    "zipf": 1.03,
+    "score": 28.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "proteinaceous",
+    "pronunciation": "/ˌproʊtɪˈneɪʃəs/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "relating to or of the nature of protein",
+    "zipf": 1.52,
+    "score": 28.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "overprotect",
+    "pronunciation": "/ˌoʊvərprəˈtɛkt/",
+    "forms": [
+      "overprotects",
+      "overprotected",
+      "overprotecting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "care for like a mother",
+    "zipf": 1.02,
+    "score": 28.2,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "hornless",
+    "pronunciation": "/ˈhɔrnləs/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "having no horns",
+    "zipf": 1.51,
+    "score": 28.1,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "collateralize",
+    "pronunciation": "/kəˈlætərəˌlaɪz/",
+    "forms": [
+      "collateralizes",
+      "collateralizing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "pledge as a collateral",
+    "zipf": 1.01,
+    "score": 28.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "teethe",
+    "pronunciation": "/tið/",
+    "forms": [
+      "teethes",
+      "teethed"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "grow teeth; cut the baby teeth",
+    "zipf": 1.01,
+    "score": 28.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "sigmoidal",
+    "pronunciation": "/ˌsɪgˈmɔɪdəl/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to the sigmoid flexure in the large intestine",
+    "zipf": 1.5,
+    "score": 28.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "tetravalent",
+    "pronunciation": "/ˌtɛtrəˈveɪlənt/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "haveing a valence of four",
+    "zipf": 1.5,
+    "score": 28.0,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "lightship",
+    "pronunciation": "/ˈlaɪtˌʃɪp/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a ship equipped like a lighthouse and anchored where a permanent lighthouse would be impracticable",
+    "zipf": 1.94,
+    "score": 27.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "spasmodically",
+    "pronunciation": "/spæzˈmɔdɪkli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "with spasms",
+    "zipf": 1.69,
+    "score": 27.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "volcanically",
+    "pronunciation": "/vɑlˈkænɪkli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "by or like volcanoes",
+    "zipf": 1.68,
+    "score": 27.8,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "earless",
+    "pronunciation": "/ˈɪrləs/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "lacking external ears",
+    "zipf": 1.47,
+    "score": 27.7,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "everyplace",
+    "pronunciation": "/ˈɛvriˌpleɪs/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "to or in any or all places; ; ; ; ; (`everyplace' is used informally for `everywhere')",
+    "zipf": 1.65,
+    "score": 27.5,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "harmfully",
+    "pronunciation": "/ˈhɑrmfəli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a detrimental manner",
+    "zipf": 1.5,
+    "score": 27.5,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "metrically",
+    "pronunciation": "/ˈmɛtrɪkəli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "with regard to meter",
+    "zipf": 1.86,
+    "score": 27.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "signore",
+    "pronunciation": "/sinˈjɔreɪ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an Italian title of respect for a man; equivalent to the English `sir'; used separately (not prefixed to his name)",
+    "zipf": 2.19,
+    "score": 27.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "microelectronics",
+    "pronunciation": "/ˌmaɪkroʊɪlɛkˈtrɑnɪks/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the branch of electronics that deals with miniature components",
+    "zipf": 2.48,
+    "score": 27.3,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "newspeak",
+    "pronunciation": "/ˈnuˌspik/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "deliberately ambiguous and contradictory language use to mislead and manipulate the public",
+    "zipf": 2.02,
+    "score": 27.2,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "sidewise",
+    "pronunciation": "/ˈsaɪdˌwaɪz/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "toward one side",
+    "zipf": 1.6,
+    "score": 27.0,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "stochastically",
+    "pronunciation": "/stoʊˈkæstɪkəˌli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "by stochastic means",
+    "zipf": 1.6,
+    "score": 27.0,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "wishfully",
+    "pronunciation": "/ˈwɪʃfəli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "in a wishful manner",
+    "zipf": 1.44,
+    "score": 26.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "onomastic",
+    "pronunciation": "/ˌɑnəˈmæstɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or related to onomastics",
+    "zipf": 1.39,
+    "score": 26.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "semiannually",
+    "pronunciation": "/ˌsɛmiˈænuəli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "twice a year",
+    "zipf": 1.57,
+    "score": 26.7,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "raptorial",
+    "pronunciation": "/ˌræpˈtɔriəl/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "relating to or characteristic of birds of prey",
+    "zipf": 1.37,
+    "score": 26.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "waggoner",
+    "pronunciation": "/ˈwægənər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the driver of a wagon",
+    "zipf": 2.27,
+    "score": 26.7,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "logographic",
+    "pronunciation": "/ˌlɔgəˈgræfɪk/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to logograms or logographs",
+    "zipf": 1.36,
+    "score": 26.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "steelworker",
+    "pronunciation": "/ˈstilˌwərkər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a worker engaged in making steel",
+    "zipf": 1.95,
+    "score": 26.5,
+    "suspiciousCompound": true
+  }
+]

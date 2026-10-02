@@ -1,0 +1,502 @@
+[
+  {
+    "word": "densitometer",
+    "pronunciation": "/ˌdɛnsəˈtɑmətər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a measuring instrument for determining optical or photographic density",
+    "zipf": 1.21,
+    "score": 16.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "potpie",
+    "pronunciation": "/ˈpɑtˌpaɪ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "deep-dish meat and vegetable pie or a meat stew with dumplings",
+    "zipf": 1.21,
+    "score": 16.1,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "countercharge",
+    "pronunciation": "/ˈkaʊnərˌʧɑrʤ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a charge brought by an accused person against the accuser",
+    "zipf": 1.06,
+    "score": 16.1,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "kelter",
+    "pronunciation": "/ˈkɛltər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "in working order",
+    "zipf": 1.06,
+    "score": 16.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "engrossment",
+    "pronunciation": "/ɪnˈgroʊsmənt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "complete attention; intense mental effort",
+    "zipf": 1.2,
+    "score": 16.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "ghastliness",
+    "pronunciation": "/ˈgæstlinəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the quality of being ghastly",
+    "zipf": 1.2,
+    "score": 16.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "greave",
+    "pronunciation": "/griv/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "armor plate that protects legs below the knee",
+    "zipf": 1.2,
+    "score": 16.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "gyrocompass",
+    "pronunciation": "/ˈʤaɪroʊˌkəmpəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a compass that does not depend on magnetism but uses a gyroscope instead",
+    "zipf": 1.2,
+    "score": 16.0,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "thanatology",
+    "pronunciation": "/θænəˈtɔləʤi/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the branch of science that studies death (especially its social and psychological aspects)",
+    "zipf": 1.2,
+    "score": 16.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "honeymooner",
+    "pronunciation": "/ˈhəniˌmunər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "someone recently married",
+    "zipf": 1.05,
+    "score": 16.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "nephrosis",
+    "pronunciation": "/nəˈfroʊsəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a syndrome characterized by edema and large amounts of protein in the urine and usually increased blood cholesterol; usually associated with glomerulonephritis or with a complication of various systemic diseases",
+    "zipf": 1.05,
+    "score": 16.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "nonintervention",
+    "pronunciation": "/ˌnɑˌnɪntərˈvɛnʃən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a foreign policy of staying out of other countries' disputes",
+    "zipf": 1.34,
+    "score": 15.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "countryfolk",
+    "pronunciation": "/ˈkəntriˌfoʊk/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "people living in the same country; compatriots",
+    "zipf": 1.19,
+    "score": 15.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "crosspiece",
+    "pronunciation": "/ˈkrɔˌspis/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a horizontal beam that extends across something",
+    "zipf": 1.19,
+    "score": 15.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "enlistee",
+    "pronunciation": "/ɛnˌlɪˈsti/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "any new member or supporter (as in the armed forces)",
+    "zipf": 1.19,
+    "score": 15.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "lumper",
+    "pronunciation": "/ˈləmpər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a laborer who loads and unloads vessels in a port",
+    "zipf": 1.19,
+    "score": 15.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "flashgun",
+    "pronunciation": "/ˈflæʃgən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a lamp for providing momentary light to take a photograph",
+    "zipf": 1.18,
+    "score": 15.8,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "skittishness",
+    "pronunciation": "/ˈskɪtɪʃnəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "characterized by nervousness and quickness to take fright",
+    "zipf": 1.18,
+    "score": 15.8,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "diamagnetism",
+    "pronunciation": "/ˌdaɪəˈmægnɪˌtɪzəm/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "phenomenon exhibited by materials like copper or bismuth that become magnetized in a magnetic field with a polarity opposite to the magnetic force; unlike iron they are slightly repelled by a magnet",
+    "zipf": 1.17,
+    "score": 15.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "thingamabob",
+    "pronunciation": "/ˈθɪŋəməˌbɑb/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "something unspecified whose name is either forgotten or not known",
+    "zipf": 1.17,
+    "score": 15.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "seamster",
+    "pronunciation": "/ˈsimstər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a person whose occupation is making and altering garments",
+    "zipf": 1.02,
+    "score": 15.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "fingerpaint",
+    "pronunciation": "/ˈfɪŋgərˌpeɪnt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "paint that has the consistency of jelly",
+    "zipf": 1.16,
+    "score": 15.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "scrod",
+    "pronunciation": "/skrɑd/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "flesh of young Atlantic cod weighing up to 2 pounds; also young haddock and pollock; often broiled",
+    "zipf": 1.16,
+    "score": 15.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "thundershower",
+    "pronunciation": "/ˈθəndərˌʃaʊwər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a short rainstorm accompanied by thunder and lightning",
+    "zipf": 1.16,
+    "score": 15.6,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "encyclopedist",
+    "pronunciation": "/ɪnˌsaɪkləˈpidəst/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a person who compiles information for encyclopedias",
+    "zipf": 1.01,
+    "score": 15.6,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "logogram",
+    "pronunciation": "/ˈlɔgəˌgræm/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a single written symbol that represents an entire word or phrase without indicating its pronunciation",
+    "zipf": 1.15,
+    "score": 15.5,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "mastoiditis",
+    "pronunciation": "/ˌmæstɔɪˈdaɪtəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "inflammation of the mastoid",
+    "zipf": 1.15,
+    "score": 15.5,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "hiccough",
+    "pronunciation": "/ˈhɪkəp/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "(usually plural) the state of having reflex spasms of the diaphragm accompanied by a rapid closure of the glottis producing an audible sound; sometimes a symptom of indigestion",
+    "zipf": 1.14,
+    "score": 15.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "licenser",
+    "pronunciation": "/ˈlaɪsənsər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an official who can issue a license or give authoritative permission (especially one who licenses publications)",
+    "zipf": 1.14,
+    "score": 15.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "mustachio",
+    "pronunciation": "/məˈstæʃiˌoʊ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a large bushy moustache (with hair growing sometimes down the sides of the mouth)",
+    "zipf": 1.14,
+    "score": 15.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "storminess",
+    "pronunciation": "/ˈstɔrminɪs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the state of being stormy",
+    "zipf": 1.14,
+    "score": 15.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "yobbo",
+    "pronunciation": "/ˈjɑˌboʊ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a cruel and brutal fellow",
+    "zipf": 1.14,
+    "score": 15.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "hectograph",
+    "pronunciation": "/ˈhɛktəˌgræf/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "duplicator consisting of a gelatin plate from which ink can be taken to make a copy",
+    "zipf": 1.13,
+    "score": 15.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "scriber",
+    "pronunciation": "/ˈskraɪbər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a sharp-pointed awl for marking wood or metal to be cut",
+    "zipf": 1.13,
+    "score": 15.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "antiknock",
+    "pronunciation": "/ˌæntiˈnɑk/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "any of various compounds that are added to gasoline to reduce engine knocking",
+    "zipf": 1.12,
+    "score": 15.2,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "confect",
+    "pronunciation": "/kənˈfɛkt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a rich sweet made of flavored sugar and often combined with fruit or nuts",
+    "zipf": 1.11,
+    "score": 15.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "pentimento",
+    "pronunciation": "/ˌpɛntɪˈmɛntoʊ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the reappearance in a painting of an underlying image that had been painted over (usually when the later painting becomes transparent with age)",
+    "zipf": 1.11,
+    "score": 15.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "saccule",
+    "pronunciation": "/ˈsæˌkjul/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a small sac or pouch (especially the smaller chamber of the membranous labyrinth)",
+    "zipf": 1.11,
+    "score": 15.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "determent",
+    "pronunciation": "/dɪˈtərmənt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a communication that makes you afraid to try something",
+    "zipf": 1.1,
+    "score": 15.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "gasohol",
+    "pronunciation": "/ˈgæsəˌhɔl/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a gasoline substitute consisting of 90% gasoline and 10% grain alcohol from corn",
+    "zipf": 1.1,
+    "score": 15.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "falanga",
+    "pronunciation": "/fɑˈlɑŋgə/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a form of torture in which the soles of the feet are beaten with whips or cudgels",
+    "zipf": 1.09,
+    "score": 14.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "posthole",
+    "pronunciation": "/ˈpoʊˌsthoʊl/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a hole dug in the ground to hold a fence post",
+    "zipf": 1.08,
+    "score": 14.8,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "shirtsleeve",
+    "pronunciation": "/ˈʃərtsˌliv/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the sleeve of a shirt",
+    "zipf": 1.08,
+    "score": 14.8,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "artiodactyl",
+    "pronunciation": "/ˌɑrtioʊˈdæktəl/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "placental mammal having hooves with an even number of functional toes on each foot",
+    "zipf": 1.07,
+    "score": 14.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "bankbook",
+    "pronunciation": "/ˈbæŋkˌbʊk/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a record of deposits and withdrawals and interest held by depositors at certain banks",
+    "zipf": 1.07,
+    "score": 14.7,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "cahoot",
+    "pronunciation": "/kəˈhut/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "collusion",
+    "zipf": 1.07,
+    "score": 14.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "couchette",
+    "pronunciation": "/ˌkuˈʃɛt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a compartment on a European passenger train; contains 4 to 6 berths for sleeping",
+    "zipf": 1.07,
+    "score": 14.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "molter",
+    "pronunciation": "/ˈmoʊltər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an animal (especially birds and arthropods and reptiles) that periodically shed their outer layer (feathers or cuticle or skin or hair)",
+    "zipf": 1.07,
+    "score": 14.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "sternpost",
+    "pronunciation": "/ˈstərnˌpoʊst/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "(nautical) the principal upright timber at the stern of a vessel",
+    "zipf": 1.07,
+    "score": 14.7,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "vulgarization",
+    "pronunciation": "/ˌvəlgərɪˈzeɪʃən/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of rendering something coarse and unrefined",
+    "zipf": 1.07,
+    "score": 14.7,
+    "suspiciousCompound": false
+  }
+]

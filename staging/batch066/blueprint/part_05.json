@@ -1,0 +1,502 @@
+[
+  {
+    "word": "videocassette",
+    "pronunciation": "/ˈvɪdioʊkæˌsɛt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a cassette for videotape",
+    "zipf": 1.95,
+    "score": 23.5,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "piecework",
+    "pronunciation": "/ˈpisˌwərk/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "work paid for according to the quantity produced",
+    "zipf": 1.8,
+    "score": 23.5,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "deerskin",
+    "pronunciation": "/ˈdɪrˌskɪn/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "leather from the hide of a deer",
+    "zipf": 1.94,
+    "score": 23.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "drumhead",
+    "pronunciation": "/ˈdrəmˌhɛd/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a membrane that is stretched taut over a drum",
+    "zipf": 1.94,
+    "score": 23.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "eightieth",
+    "pronunciation": "/ˈeɪtiɪθ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "position 80 in a countable series of things",
+    "zipf": 1.94,
+    "score": 23.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "nonesuch",
+    "pronunciation": "/ˈnənˈsəʧ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "model of excellence or perfection of a kind; one having no equal",
+    "zipf": 1.94,
+    "score": 23.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "sharecropper",
+    "pronunciation": "/ˈʃɛrˌkrɑpər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "small farmers and tenants",
+    "zipf": 1.94,
+    "score": 23.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "binger",
+    "pronunciation": "/ˈbɪŋʤər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "someone addicted to crack cocaine",
+    "zipf": 1.79,
+    "score": 23.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "groupware",
+    "pronunciation": "/ˈgrupˌwɛr/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "software that can be used by a group of people who are working on the same information but may be distributed in space",
+    "zipf": 1.79,
+    "score": 23.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "steelmaker",
+    "pronunciation": "/ˈstilˌmeɪkər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a worker engaged in making steel",
+    "zipf": 1.64,
+    "score": 23.4,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "viatical",
+    "pronunciation": "/ˌvaɪˈætɪkəl/",
+    "forms": [],
+    "partOfSpeech": "adjective",
+    "definition": "pertaining to the purchase of insurance policies from terminally ill policy holders",
+    "zipf": 1.04,
+    "score": 23.4,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "stockyard",
+    "pronunciation": "/ˈstɑˌkjɑrd/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "enclosed yard where cattle, pigs, horses, or sheep are kept temporarily",
+    "zipf": 1.93,
+    "score": 23.3,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "toehold",
+    "pronunciation": "/ˈtoʊˌhoʊld/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a relatively insignificant position from which future progress might be made",
+    "zipf": 1.93,
+    "score": 23.3,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "turndown",
+    "pronunciation": "/ˈtərnˌdaʊn/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the act of refusing an offer",
+    "zipf": 1.93,
+    "score": 23.3,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "lamplighter",
+    "pronunciation": "/ˈlæmˌplaɪtər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "(when gas was used for streetlights) a person who lights and extinguishes streetlights",
+    "zipf": 1.78,
+    "score": 23.3,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "landrover",
+    "pronunciation": "/ˈlænˈdroʊvər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a car suitable for traveling over rough terrain",
+    "zipf": 1.78,
+    "score": 23.3,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "neckwear",
+    "pronunciation": "/ˈnɛkˌwɛr/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "articles of clothing worn about the neck",
+    "zipf": 1.78,
+    "score": 23.3,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "sensitiveness",
+    "pronunciation": "/ˈsɛnsətɪvnəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "sensitivity to emotional feelings (of self and others)",
+    "zipf": 1.63,
+    "score": 23.3,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "bracero",
+    "pronunciation": "/brɑˈʧɛroʊ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a Mexican laborer who worked in the United States on farms and railroads in order to ease labor shortages during World War II",
+    "zipf": 1.62,
+    "score": 23.2,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "metalworker",
+    "pronunciation": "/ˈmɛtəlˌwərkər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "someone who works metal (especially by hammering it when it is hot and malleable)",
+    "zipf": 1.62,
+    "score": 23.2,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "hornbill",
+    "pronunciation": "/ˈhɔrnˌbɪl/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "bird of tropical Africa and Asia having a very large bill surmounted by a bony protuberance; related to kingfishers",
+    "zipf": 1.92,
+    "score": 23.2,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "simony",
+    "pronunciation": "/ˈsaɪməni/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "traffic in ecclesiastical offices or preferments",
+    "zipf": 1.92,
+    "score": 23.2,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "officeholder",
+    "pronunciation": "/ˈɔfəsˌhoʊldər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "someone who is appointed or elected to an office and who holds a position of trust",
+    "zipf": 1.77,
+    "score": 23.2,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "ovule",
+    "pronunciation": "/ˈoʊvjul/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a small body that contains the female germ cell of a plant; develops into a seed after fertilization",
+    "zipf": 1.76,
+    "score": 23.1,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "hemline",
+    "pronunciation": "/ˈhɛmˌlaɪn/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the line formed by the lower edge of a skirt or coat",
+    "zipf": 1.91,
+    "score": 23.1,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "hydrometer",
+    "pronunciation": "/haɪˈdrɑmətər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a measuring instrument for determining the specific gravity of a liquid or solid",
+    "zipf": 1.9,
+    "score": 23.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "sherbert",
+    "pronunciation": "/ˈʃərbərt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a frozen dessert made primarily of fruit juice and sugar, but also containing milk or egg-white or gelatin",
+    "zipf": 1.9,
+    "score": 23.0,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "stonecutter",
+    "pronunciation": "/ˈstoʊnˌkətər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "someone who cuts or carves stone",
+    "zipf": 1.75,
+    "score": 23.0,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "bitchiness",
+    "pronunciation": "/ˈbɪʧinəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "malevolence by virtue of being malicious or spiteful or nasty",
+    "zipf": 1.89,
+    "score": 22.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "hackle",
+    "pronunciation": "/ˈhækəl/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "long slender feather on the necks of e.g. turkeys and pheasants",
+    "zipf": 1.89,
+    "score": 22.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "handbill",
+    "pronunciation": "/ˈhændˌbɪl/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "an advertisement (usually printed on a page or in a leaflet) intended for wide distribution",
+    "zipf": 1.89,
+    "score": 22.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "hoarseness",
+    "pronunciation": "/ˈhɔrsnəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a throaty harshness",
+    "zipf": 1.89,
+    "score": 22.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "roundworm",
+    "pronunciation": "/ˈraʊndwərm/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "infections of the skin or nails caused by fungi and appearing as itching circular patches",
+    "zipf": 1.89,
+    "score": 22.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "lungfish",
+    "pronunciation": "/ˈləŋˌfɪʃ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "air-breathing fish having an elongated body and fleshy paired fins; certain species construct mucus-lined mud coverings in which to survive drought",
+    "zipf": 1.74,
+    "score": 22.9,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "notochord",
+    "pronunciation": "/ˈnoʊtəˌkɔrd/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a flexible rodlike structure that forms the supporting axis of the body in the lowest chordates and lowest vertebrates and in embryos of higher vertebrates",
+    "zipf": 1.74,
+    "score": 22.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "stemmer",
+    "pronunciation": "/ˈstɛmər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a worker who strips the stems from moistened tobacco leaves and binds the leaves together into books",
+    "zipf": 1.44,
+    "score": 22.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "evenhandedly",
+    "pronunciation": "/ˈɛvənˌhændɪdli/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "without favoring one party, in a fair evenhanded manner",
+    "zipf": 1.04,
+    "score": 22.9,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "sartor",
+    "pronunciation": "/ˈsɑrtər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a person whose occupation is making and altering garments",
+    "zipf": 1.73,
+    "score": 22.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "seigniorage",
+    "pronunciation": "/ˌsigˈniərɪʤ/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "charged by a government for coining bullion",
+    "zipf": 1.73,
+    "score": 22.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "cleanness",
+    "pronunciation": "/ˈklinɪs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the state of being clean; without dirt or other impurities",
+    "zipf": 1.88,
+    "score": 22.8,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "grapeshot",
+    "pronunciation": "/ˈgreɪpˌʃɑt/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a cluster of small projectiles fired together from a cannon to produce a hail of shot",
+    "zipf": 1.88,
+    "score": 22.8,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "indaba",
+    "pronunciation": "/ˌɪnˈdɑbə/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a council at which indigenous peoples of southern Africa meet to discuss some important question",
+    "zipf": 1.88,
+    "score": 22.8,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "parochialism",
+    "pronunciation": "/pərˈoʊkiəˌlɪzəm/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a limitation of views or interests like that defined by a local parish",
+    "zipf": 1.88,
+    "score": 22.8,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "homophone",
+    "pronunciation": "/ˈhoʊmoʊˌfoʊn/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "two words are homophones if they are pronounced the same way but differ in meaning or spelling or both (e.g. bare and bear)",
+    "zipf": 1.87,
+    "score": 22.7,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "outspokenness",
+    "pronunciation": "/aʊtˈspoʊkənəs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the trait of being blunt and outspoken",
+    "zipf": 1.87,
+    "score": 22.7,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "bagpiper",
+    "pronunciation": "/ˈbægˌpaɪpər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "someone who plays the bagpipe",
+    "zipf": 1.72,
+    "score": 22.7,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "largeness",
+    "pronunciation": "/ˈlɑrʤnɪs/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "the capacity to understand a broad range of topics",
+    "zipf": 1.72,
+    "score": 22.7,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "semitrailer",
+    "pronunciation": "/ˌsɛmɪˈtreɪlər/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a trailer having wheels only in the rear; the front is supported by the towing vehicle",
+    "zipf": 1.72,
+    "score": 22.7,
+    "suspiciousCompound": true
+  },
+  {
+    "word": "astraddle",
+    "pronunciation": "/əˈstrædəl/",
+    "forms": [],
+    "partOfSpeech": "adverb",
+    "definition": "with one leg on each side",
+    "zipf": 1.17,
+    "score": 22.7,
+    "suspiciousCompound": false
+  },
+  {
+    "word": "mineralogist",
+    "pronunciation": "/ˌmɪnərˈɑləʤɪst/",
+    "forms": [],
+    "partOfSpeech": "noun",
+    "definition": "a scientist trained in mineralogy",
+    "zipf": 2.08,
+    "score": 22.6,
+    "suspiciousCompound": false
+  }
+]
