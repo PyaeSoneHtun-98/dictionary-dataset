@@ -9,6 +9,11 @@ on:
       - "extension_lookup/**"
       - "scripts/validate_extension_batch.py"
       - "scripts/rebuild_extension_lookup.py"
+      - "scripts/build_extension_artifact.py"
+      - "extension_closed_compound_allowlist.txt"
+      - "extension_rejected_headwords.txt"
+      - "dist/dictionary_extension*.json"
+      - "tests/test_extension_dictionary.py"
       - ".github/workflows/validate-dictionary-extension.yml"
   workflow_dispatch:
 
@@ -38,3 +43,11 @@ jobs:
         run: |
           test -s lookup/used_keys_current.zlib.b64
           echo "Extension batches validated against frozen v1 lookup."
+
+      # Sync writes derived state in a separate job; validate a fresh snapshot
+      # here so a newly pushed batch is not rejected for pre-sync metadata.
+      - name: Build and test extension snapshot
+        run: |
+          python scripts/rebuild_extension_lookup.py --write
+          python scripts/build_extension_artifact.py --write
+          python -m unittest tests/test_extension_dictionary.py

@@ -17,6 +17,9 @@ ALLOWED_POS = {
     "conjunction", "interjection", "determiner", "modal", "auxiliary",
 }
 ASCII_LETTER = re.compile(r"[A-Za-z]")
+ENGLISH_WORD = re.compile(r"^[a-z]+$")
+MYANMAR_LETTER = re.compile(r"[\u1000-\u102a\u103f\u1050-\u1055\u105a-\u105d\u1061\u1065-\u1066\u106e-\u1070\u1075-\u1081\u108e]")
+IPA_CHARACTERS = set("abcdefghijklmnopqrstuvwxyzæðŋɑɒɔəɚɛɝɡɪɹʃʊʌʒʤʧˈˌːˑ.θɾɫɐʔ̩̯̃͡")
 BATCH_RE = re.compile(r"^dictionary_batch_(\d{3})\.json$")
 
 
@@ -48,11 +51,14 @@ def load_prior_keys(base_lookup: Path, batches_dir: Path, batch_number: int) -> 
 
 
 def main() -> int:
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
     ap = argparse.ArgumentParser()
     ap.add_argument("batch", type=Path)
     ap.add_argument("--base-lookup", type=Path, default=Path("lookup/used_keys_current.zlib.b64"))
     ap.add_argument("--batches-dir", type=Path, default=Path("DictionaryExtensionBatches"))
     ap.add_argument("--expected-batch", type=int)
+    ap.add_argument("--rejected-headwords", type=Path, default=Path("extension_rejected_headwords.txt"))
     ap.add_argument(
         "--closed-compound-allowlist",
         type=Path,
@@ -75,9 +81,14 @@ def main() -> int:
         print("-", f"invalid UTF-8 JSON: {exc}")
         return 1
 
-    if data.get("version") != 1:
+    if not isinstance(data, dict):
+        print("INVALID\n- batch must be an object")
+        return 1
+    if set(data) != {"version", "batch", "entries"}:
+        errors.append("batch fields must be exactly version, batch, entries")
+    if type(data.get("version")) is not int or data.get("version") != 1:
         errors.append("version must be 1")
-    if data.get("batch") != batch_number:
+    if type(data.get("batch")) is not int or data.get("batch") != batch_number:
         errors.append(f"JSON batch must match filename batch {batch_number}")
     if args.expected_batch is not None and batch_number != args.expected_batch:
         errors.append(f"batch must be {args.expected_batch}")
@@ -93,10 +104,19 @@ def main() -> int:
     approved_closed_compounds: set[str] = set()
     if args.closed_compound_allowlist.exists():
         approved_closed_compounds = {
-            norm(line)
+            line.strip()
             for line in args.closed_compound_allowlist.read_text(encoding="utf-8").splitlines()
             if line.strip() and not line.lstrip().startswith("#")
         }
+    rejected_headwords = set()
+    if args.rejected_headwords.exists():
+        rejected_headwords = {
+            line.strip() for line in args.rejected_headwords.read_text(encoding="utf-8").splitlines()
+            if line.strip() and not line.lstrip().startswith("#")
+        }
+    for label, words in [("allowlist", approved_closed_compounds), ("rejected-headword record", rejected_headwords)]:
+        if any(not ENGLISH_WORD.fullmatch(w) for w in words):
+            errors.append(f"{label}: keys must be lowercase English letters only")
 
     new_headwords: set[str] = set()
     owner_by_key: dict[str, str] = {}
@@ -106,12 +126,18 @@ def main() -> int:
         if not isinstance(entry, dict):
             errors.append(f"{where}: entry must be an object")
             continue
+        if set(entry) != {"word", "pronunciation", "forms", "meanings"}:
+            errors.append(f"{where}: fields must be exactly word, pronunciation, forms, meanings")
 
         word = entry.get("word")
         if not isinstance(word, str) or not word.strip():
             errors.append(f"{where}: missing word")
             continue
         key = norm(word)
+        if not ENGLISH_WORD.fullmatch(word):
+            errors.append(f"{where} {word!r}: headword must contain lowercase English letters only")
+        if key in rejected_headwords:
+            errors.append(f"{where} {word!r}: editorially rejected headword; an allowlist cannot override this")
         if word != word.lower() or word != word.strip():
             errors.append(f"{where} {word!r}: headword must be lowercase and trimmed")
         if any(ch.isspace() for ch in word) or "-" in word:
@@ -139,18 +165,19 @@ def main() -> int:
         pronunciation = entry.get("pronunciation")
         if (
             not isinstance(pronunciation, str)
-            or not re.fullmatch(r"/.+/", pronunciation.strip())
+            or not re.fullmatch(r"/[^/]+/", pronunciation)
         ):
             errors.append(f"{where} {word!r}: pronunciation must be slash-delimited IPA")
-        elif any(unicodedata.category(ch) == "Cf" for ch in pronunciation):
+        elif any(unicodedata.category(ch) in {"Cf", "Cc"} for ch in pronunciation):
             errors.append(f"{where} {word!r}: pronunciation contains invisible format characters")
         else:
-            ipa_body = pronunciation.strip()[1:-1].strip()
-            if any(ch.isspace() for ch in ipa_body):
+            if any(ch.isspace() for ch in pronunciation):
                 errors.append(
                     f"{where} {word!r}: single-word IPA must not contain whitespace; "
                     "this usually indicates an open/hyphenated multi-word expression was glued together"
                 )
+            elif any(ch not in IPA_CHARACTERS for ch in pronunciation[1:-1]):
+                errors.append(f"{where} {word!r}: pronunciation contains non-IPA characters")
 
         forms = entry.get("forms")
         if not isinstance(forms, list):
@@ -162,6 +189,10 @@ def main() -> int:
                 errors.append(f"{where} {word!r}: invalid form")
                 continue
             form_key = norm(form)
+            if form_key in rejected_headwords:
+                errors.append(f"{where} {word!r}: editorially rejected lookup form {form!r}")
+            if not ENGLISH_WORD.fullmatch(form):
+                errors.append(f"{where} {word!r}: form must contain lowercase English letters only: {form!r}")
             if any(ch.isspace() for ch in form.strip()):
                 errors.append(f"{where} {word!r}: form must be a single word: {form!r}")
             if form_key == key:
@@ -187,11 +218,17 @@ def main() -> int:
 
         total_glosses = 0
         seen_pos: set[str] = set()
+        seen_glosses: set[str] = set()
         for meaning in meanings:
             if not isinstance(meaning, dict):
                 errors.append(f"{where} {word!r}: meaning must be an object")
                 continue
+            if set(meaning) != {"partOfSpeech", "burmese"}:
+                errors.append(f"{where} {word!r}: meaning fields must be exactly partOfSpeech, burmese")
             pos = meaning.get("partOfSpeech")
+            if not isinstance(pos, str):
+                errors.append(f"{where} {word!r}: POS must be a string")
+                pos = ""
             if pos not in ALLOWED_POS:
                 errors.append(f"{where} {word!r}: invalid POS {pos!r}")
             if pos in seen_pos:
@@ -208,6 +245,14 @@ def main() -> int:
                     errors.append(f"{where} {word!r}: empty Burmese gloss")
                 elif ASCII_LETTER.search(gloss):
                     errors.append(f"{where} {word!r}: English/Latin text in Burmese gloss {gloss!r}")
+                else:
+                    if not MYANMAR_LETTER.search(gloss):
+                        errors.append(f"{where} {word!r}: gloss must contain Myanmar letters")
+                    if gloss != gloss.strip() or any(unicodedata.category(ch) in {"Cf", "Cc"} for ch in gloss):
+                        errors.append(f"{where} {word!r}: gloss contains surrounding whitespace or invisible/control characters")
+                    if gloss in seen_glosses:
+                        errors.append(f"{where} {word!r}: duplicate Burmese gloss")
+                    seen_glosses.add(gloss)
 
         if total_glosses > 3:
             errors.append(f"{where} {word!r}: more than 3 Burmese semantic meanings")

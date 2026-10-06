@@ -1,6 +1,22 @@
 {
   "version": 1,
-  "project": "Subtitle Bridge English-Burmese Dictionary Extension",
+  "artifact": "dist/dictionary_extension.json",
+  "sha256": "53b42c8c45a5bf0e956deed2d1764d0b40381edf88e141c5591461522b45f8cd",
+  "sha256Scope": "utf8-lf",
+  "firstBatch": 61,
+  "throughBatch": 70,
+  "batchCount": 10,
+  "headwords": 5000,
+  "storedForms": 3783,
+  "lookupKeys": 8783,
+  "burmeseMeanings": 5329,
+  "posBlockCounts": {
+    "adjective": 824,
+    "adverb": 446,
+    "noun": 3014,
+    "preposition": 1,
+    "verb": 723
+  },
   "baseRelease": {
     "version": "1.0.0",
     "artifact": "dist/dictionary_v1.json",
@@ -9,14 +25,7 @@
     "storedForms": 15864,
     "lookupKeys": 45817
   },
-  "entriesPerBatch": 500,
-  "latestBatch": 70,
-  "nextBatch": 71,
-  "extensionBatchCount": 10,
-  "extensionHeadwords": 5000,
-  "totalHeadwords": 35000,
-  "batchFilenamePattern": "DictionaryExtensionBatches/dictionary_batch_XXX.json",
-  "lookup": {
+  "combinedLookup": {
     "path": "extension_lookup/used_keys_current.zlib.b64",
     "encoding": "base64(zlib(utf8 newline-separated keys))",
     "baseLookup": "lookup/used_keys_current.zlib.b64",
@@ -26,6 +35,5 @@
     "uniqueStoredForms": 19647,
     "sha256": "e1a9c98ad790da3e1b11b0777e420dc3bf1c427cfacba927146e9cff602d2b0b",
     "sha256Scope": "base64-trimmed"
-  },
-  "status": "in_progress"
+  }
 }

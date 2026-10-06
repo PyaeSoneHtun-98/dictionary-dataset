@@ -1,0 +1,8265 @@
+{
+  "summaries": [
+    {
+      "batch": 61,
+      "headwords": 500,
+      "forms": 186,
+      "glosses": 503,
+      "pos": {
+        "noun": 377,
+        "verb": 40,
+        "adjective": 85
+      }
+    },
+    {
+      "batch": 62,
+      "headwords": 500,
+      "forms": 391,
+      "glosses": 500,
+      "pos": {
+        "adjective": 69,
+        "noun": 383,
+        "verb": 47,
+        "adverb": 1
+      }
+    },
+    {
+      "batch": 63,
+      "headwords": 500,
+      "forms": 343,
+      "glosses": 500,
+      "pos": {
+        "verb": 18,
+        "noun": 426,
+        "adjective": 56
+      }
+    },
+    {
+      "batch": 64,
+      "headwords": 500,
+      "forms": 273,
+      "glosses": 527,
+      "pos": {
+        "verb": 96,
+        "adjective": 44,
+        "noun": 339,
+        "adverb": 21
+      }
+    },
+    {
+      "batch": 65,
+      "headwords": 500,
+      "forms": 273,
+      "glosses": 524,
+      "pos": {
+        "adjective": 14,
+        "noun": 375,
+        "verb": 97,
+        "adverb": 14
+      }
+    },
+    {
+      "batch": 66,
+      "headwords": 500,
+      "forms": 239,
+      "glosses": 533,
+      "pos": {
+        "noun": 366,
+        "verb": 87,
+        "adverb": 20,
+        "adjective": 27
+      }
+    },
+    {
+      "batch": 67,
+      "headwords": 500,
+      "forms": 18,
+      "glosses": 526,
+      "pos": {
+        "adjective": 138,
+        "verb": 7,
+        "adverb": 3,
+        "noun": 352
+      }
+    },
+    {
+      "batch": 68,
+      "headwords": 500,
+      "forms": 578,
+      "glosses": 568,
+      "pos": {
+        "noun": 107,
+        "verb": 170,
+        "preposition": 1,
+        "adjective": 128,
+        "adverb": 100
+      }
+    },
+    {
+      "batch": 69,
+      "headwords": 500,
+      "forms": 458,
+      "glosses": 567,
+      "pos": {
+        "adverb": 100,
+        "verb": 89,
+        "adjective": 110,
+        "noun": 201
+      }
+    },
+    {
+      "batch": 70,
+      "headwords": 500,
+      "forms": 293,
+      "glosses": 567,
+      "pos": {
+        "adjective": 146,
+        "noun": 197,
+        "verb": 53,
+        "adverb": 104
+      }
+    }
+  ],
+  "strictIssues": [],
+  "newKeyCount": 8052,
+  "uniqueNewKeys": 8052,
+  "baseOverlap": 0,
+  "unownedInflectionSuggestions": [
+    {
+      "batch": 61,
+      "word": "weatherize",
+      "missing": [
+        "weatherizes",
+        "weatherized",
+        "weatherizing"
+      ],
+      "stored": []
+    },
+    {
+      "batch": 61,
+      "word": "circularize",
+      "missing": [
+        "circularizes",
+        "circularized",
+        "circularizing"
+      ],
+      "stored": []
+    },
+    {
+      "batch": 65,
+      "word": "enthral",
+      "missing": [
+        "enthraled",
+        "enthraling"
+      ],
+      "stored": [
+        "enthrals"
+      ]
+    },
+    {
+      "batch": 65,
+      "word": "unbend",
+      "missing": [
+        "unbended"
+      ],
+      "stored": [
+        "unbends",
+        "unbending"
+      ]
+    },
+    {
+      "batch": 68,
+      "word": "wake",
+      "missing": [
+        "waked"
+      ],
+      "stored": [
+        "wakes",
+        "woke",
+        "woken"
+      ]
+    },
+    {
+      "batch": 68,
+      "word": "unmake",
+      "missing": [
+        "unmaked"
+      ],
+      "stored": [
+        "unmakes",
+        "unmaking"
+      ]
+    },
+    {
+      "batch": 69,
+      "word": "bestride",
+      "missing": [
+        "betrode",
+        "bestrid"
+      ],
+      "stored": [
+        "bestrides",
+        "bestrode",
+        "bestridden",
+        "bestriding"
+      ]
+    }
+  ],
+  "zeroFormVerbs": [
+    {
+      "batch": 61,
+      "entry": {
+        "word": "deplatform",
+        "pronunciation": "/diːˈplætfɔːrm/",
+        "forms": [],
+        "meanings": [
+          {
+            "partOfSpeech": "verb",
+            "burmese": [
+              "အွန်လိုင်းပလက်ဖောင်းမှ အသုံးပြုခွင့် ဖယ်ရှားသည်"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "batch": 61,
+      "entry": {
+        "word": "shadowban",
+        "pronunciation": "/ˈʃædoʊˌbæn/",
+        "forms": [],
+        "meanings": [
+          {
+            "partOfSpeech": "verb",
+            "burmese": [
+              "အသုံးပြုသူမသိအောင် သူ၏အကြောင်းအရာ မြင်ရမှုကို ကန့်သတ်သည်"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "batch": 61,
+      "entry": {
+        "word": "prebunk",
+        "pronunciation": "/ˌpriːˈbʌŋk/",
+        "forms": [],
+        "meanings": [
+          {
+            "partOfSpeech": "verb",
+            "burmese": [
+              "မှားယွင်းသတင်း မပျံ့မီ ကြိုတင်ရှင်းလင်းကာ ကာကွယ်သည်"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "batch": 61,
+      "entry": {
+        "word": "gamify",
+        "pronunciation": "/ˈɡeɪməˌfaɪ/",
+        "forms": [],
+        "meanings": [
+          {
+            "partOfSpeech": "verb",
+            "burmese": [
+              "လုပ်ငန်းတစ်ခုကို ဂိမ်းဆန်အောင် ပြောင်းသည်"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "batch": 61,
+      "entry": {
+        "word": "photobomb",
+        "pronunciation": "/ˈfoʊtoʊˌbɑːm/",
+        "forms": [],
+        "meanings": [
+          {
+            "partOfSpeech": "verb",
+            "burmese": [
+              "သူများဓာတ်ပုံထဲ မမျှော်လင့်ဘဲ ဝင်ပေါ်၍ ရယ်စရာဖြစ်အောင် လုပ်သည်"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "batch": 61,
+      "entry": {
+        "word": "misgender",
+        "pronunciation": "/ˌmɪsˈdʒɛndɚ/",
+        "forms": [],
+        "meanings": [
+          {
+            "partOfSpeech": "verb",
+            "burmese": [
+              "လူတစ်ဦး၏ လိင်အမှတ်အသားကို မှားယွင်းစွာ ခေါ်ဆိုသည်"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "batch": 61,
+      "entry": {
+        "word": "overshare",
+        "pronunciation": "/ˌoʊvɚˈʃɛr/",
+        "forms": [],
+        "meanings": [
+          {
+            "partOfSpeech": "verb",
+            "burmese": [
+              "ကိုယ်ရေးကိုယ်တာအချက်အလက်ကို လိုအပ်တာထက်ပို ပြောပြသည်"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "batch": 61,
+      "entry": {
+        "word": "crowdsource",
+        "pronunciation": "/ˈkraʊdˌsɔːrs/",
+        "forms": [],
+        "meanings": [
+          {
+            "partOfSpeech": "verb",
+            "burmese": [
+              "အလုပ် သို့မဟုတ် အကြံကို လူအများထံမှ စုယူသည်"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "batch": 61,
+      "entry": {
+        "word": "upsell",
+        "pronunciation": "/ˈʌpˌsɛl/",
+        "forms": [],
+        "meanings": [
+          {
+            "partOfSpeech": "verb",
+            "burmese": [
+              "ပိုဈေးကြီးသော သို့မဟုတ် ပိုကောင်းသော ပစ္စည်း ဝယ်စေရန် တိုက်တွန်းသည်"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "batch": 61,
+      "entry": {
+        "word": "downsell",
+        "pronunciation": "/ˈdaʊnˌsɛl/",
+        "forms": [],
+        "meanings": [
+          {
+            "partOfSpeech": "verb",
+            "burmese": [
+              "ဖောက်သည် မဝယ်တော့မည့်အခါ ပိုဈေးသက်သာသော ရွေးချယ်မှု ပေးသည်"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "batch": 61,
+      "entry": {
+        "word": "rewild",
+        "pronunciation": "/riːˈwaɪld/",
+        "forms": [],
+        "meanings": [
+          {
+            "partOfSpeech": "verb",
+            "burmese": [
+              "သဘာဝဒေသကို လူ့ဝင်ရောက်မှု လျှော့ချပြီး တောရိုင်းသဘာဝ ပြန်လည်ဖြစ်ပေါ်စေသည်"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "batch": 61,
+      "entry": {
+        "word": "weatherize",
+        "pronunciation": "/ˈwɛðɚˌraɪz/",
+        "forms": [],
+        "meanings": [
+          {
+            "partOfSpeech": "verb",
+            "burmese": [
+              "အဆောက်အအုံကို အပူ၊ အအေးနှင့် ရာသီဥတုဒဏ် ခံနိုင်အောင် ပြုပြင်သည်"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "batch": 61,
+      "entry": {
+        "word": "circularize",
+        "pronunciation": "/ˈsɝːkjələˌraɪz/",
+        "forms": [],
+        "meanings": [
+          {
+            "partOfSpeech": "verb",
+            "burmese": [
+              "လုပ်ငန်း သို့မဟုတ် ထုတ်ကုန်စနစ်ကို အရင်းအမြစ်ပြန်သုံးသည့် ပတ်လည်စီးပွားပုံစံအဖြစ် ပြောင်းသည်"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "batch": 61,
+      "entry": {
+        "word": "terraform",
+        "pronunciation": "/ˈtɛrəˌfɔːrm/",
+        "forms": [],
+        "meanings": [
+          {
+            "partOfSpeech": "verb",
+            "burmese": [
+              "အခြားဂြိုဟ် သို့မဟုတ် လကို လူနေထိုင်နိုင်သည့် ပတ်ဝန်းကျင်ဖြစ်အောင် ပြောင်းလဲသည်"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "batch": 61,
+      "entry": {
+        "word": "declutter",
+        "pronunciation": "/diːˈklʌtɚ/",
+        "forms": [],
+        "meanings": [
+          {
+            "partOfSpeech": "verb",
+            "burmese": [
+              "မလိုအပ်သော ပစ္စည်းများ ဖယ်ရှားပြီး နေရာကို ရှင်းလင်းစနစ်တကျ လုပ်သည်"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "frozenArtifact": {
+    "headwords": 30000,
+    "committedSha256": "fcdb26986ed62bfaa130732ed0e88cc2e30bbc7f964b4b16de47f809783ed325",
+    "workingLfSha256": "fcdb26986ed62bfaa130732ed0e88cc2e30bbc7f964b4b16de47f809783ed325"
+  },
+  "auditDate": "2026-10-05",
+  "datasetRevision": "ff7e738f03134796fb6422502b6d39f0c0ed5983",
+  "decision": "not_ready_for_production",
+  "existingBatchValidators": "all_ten_pass",
+  "deterministicLookupManifestCheck": "pass",
+  "storedVerbFormTypoHeuristic": {
+    "highConfidenceLikelyTypos": 0
+  },
+  "rawVerbAudit": {
+    "version": 1,
+    "summary": {
+      "verbRowsNeedingReview": 383,
+      "zeroStoredForms": 15,
+      "withMissingSuggestions": 76,
+      "withConflictingSuggestions": 17,
+      "withExtraStoredForms": 293
+    },
+    "rows": [
+      {
+        "word": "doomscroll",
+        "batch": 61,
+        "entryIndex": 6,
+        "existing": [
+          "doomscrolls",
+          "doomscrolled",
+          "doomscrolling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "doomscrolls",
+          "doomscrolled",
+          "doomscrolling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "geotag",
+        "batch": 61,
+        "entryIndex": 15,
+        "existing": [
+          "geotags",
+          "geotagged",
+          "geotagging"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "geotags",
+          "geotagged",
+          "geotagging"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "unfriend",
+        "batch": 61,
+        "entryIndex": 27,
+        "existing": [
+          "unfriends",
+          "unfriended",
+          "unfriending"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "unfriends",
+          "unfriended",
+          "unfriending"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "unfollow",
+        "batch": 61,
+        "entryIndex": 28,
+        "existing": [
+          "unfollows",
+          "unfollowed",
+          "unfollowing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "unfollows",
+          "unfollowed",
+          "unfollowing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "respawn",
+        "batch": 61,
+        "entryIndex": 37,
+        "existing": [
+          "respawns",
+          "respawned",
+          "respawning"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "respawns",
+          "respawned",
+          "respawning"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "remaster",
+        "batch": 61,
+        "entryIndex": 38,
+        "existing": [
+          "remasters",
+          "remastered",
+          "remastering"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "remasters",
+          "remastered",
+          "remastering"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "rewatch",
+        "batch": 61,
+        "entryIndex": 40,
+        "existing": [
+          "rewatches",
+          "rewatched",
+          "rewatching"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "rewatches",
+          "rewatched",
+          "rewatching"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "upskill",
+        "batch": 61,
+        "entryIndex": 58,
+        "existing": [
+          "upskills",
+          "upskilled",
+          "upskilling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "upskills",
+          "upskilled",
+          "upskilling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "reskill",
+        "batch": 61,
+        "entryIndex": 59,
+        "existing": [
+          "reskills",
+          "reskilled",
+          "reskilling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "reskills",
+          "reskilled",
+          "reskilling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "extubate",
+        "batch": 61,
+        "entryIndex": 70,
+        "existing": [
+          "extubates",
+          "extubated",
+          "extubating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "extubates",
+          "extubated",
+          "extubating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "defibrillate",
+        "batch": 61,
+        "entryIndex": 72,
+        "existing": [
+          "defibrillates",
+          "defibrillated",
+          "defibrillating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "defibrillates",
+          "defibrillated",
+          "defibrillating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "catastrophize",
+        "batch": 61,
+        "entryIndex": 87,
+        "existing": [
+          "catastrophizes",
+          "catastrophized",
+          "catastrophizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "catastrophizes",
+          "catastrophized",
+          "catastrophizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "retraumatize",
+        "batch": 61,
+        "entryIndex": 95,
+        "existing": [
+          "retraumatizes",
+          "retraumatized",
+          "retraumatizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "retraumatizes",
+          "retraumatized",
+          "retraumatizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "decarbonize",
+        "batch": 61,
+        "entryIndex": 105,
+        "existing": [
+          "decarbonizes",
+          "decarbonized",
+          "decarbonizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "decarbonizes",
+          "decarbonized",
+          "decarbonizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "deplatform",
+        "batch": 61,
+        "entryIndex": 187,
+        "existing": [],
+        "suggested": [],
+        "missing": [],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "shadowban",
+        "batch": 61,
+        "entryIndex": 188,
+        "existing": [],
+        "suggested": [],
+        "missing": [],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "prebunk",
+        "batch": 61,
+        "entryIndex": 189,
+        "existing": [],
+        "suggested": [],
+        "missing": [],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "gamify",
+        "batch": 61,
+        "entryIndex": 193,
+        "existing": [],
+        "suggested": [],
+        "missing": [],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "photobomb",
+        "batch": 61,
+        "entryIndex": 195,
+        "existing": [],
+        "suggested": [],
+        "missing": [],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "misgender",
+        "batch": 61,
+        "entryIndex": 216,
+        "existing": [],
+        "suggested": [],
+        "missing": [],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "overshare",
+        "batch": 61,
+        "entryIndex": 222,
+        "existing": [],
+        "suggested": [],
+        "missing": [],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "crowdsource",
+        "batch": 61,
+        "entryIndex": 302,
+        "existing": [],
+        "suggested": [],
+        "missing": [],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "upsell",
+        "batch": 61,
+        "entryIndex": 328,
+        "existing": [],
+        "suggested": [],
+        "missing": [],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "downsell",
+        "batch": 61,
+        "entryIndex": 329,
+        "existing": [],
+        "suggested": [],
+        "missing": [],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "rewild",
+        "batch": 61,
+        "entryIndex": 331,
+        "existing": [],
+        "suggested": [],
+        "missing": [],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "weatherize",
+        "batch": 61,
+        "entryIndex": 333,
+        "existing": [],
+        "suggested": [
+          "weatherizes",
+          "weatherized",
+          "weatherizing"
+        ],
+        "missing": [
+          "weatherizes",
+          "weatherized",
+          "weatherizing"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "circularize",
+        "batch": 61,
+        "entryIndex": 342,
+        "existing": [],
+        "suggested": [
+          "circularizes",
+          "circularized",
+          "circularizing"
+        ],
+        "missing": [
+          "circularizes",
+          "circularized",
+          "circularizing"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "terraform",
+        "batch": 61,
+        "entryIndex": 355,
+        "existing": [],
+        "suggested": [],
+        "missing": [],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "misclick",
+        "batch": 61,
+        "entryIndex": 378,
+        "existing": [
+          "misclicks",
+          "misclicked",
+          "misclicking"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "misclicks",
+          "misclicked",
+          "misclicking"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "declutter",
+        "batch": 61,
+        "entryIndex": 390,
+        "existing": [],
+        "suggested": [],
+        "missing": [],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "viralize",
+        "batch": 61,
+        "entryIndex": 426,
+        "existing": [
+          "viralizes",
+          "viralized",
+          "viralizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "viralizes",
+          "viralized",
+          "viralizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "demonetize",
+        "batch": 61,
+        "entryIndex": 427,
+        "existing": [
+          "demonetizes",
+          "demonetized",
+          "demonetizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "demonetizes",
+          "demonetized",
+          "demonetizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "rebrand",
+        "batch": 61,
+        "entryIndex": 446,
+        "existing": [
+          "rebrands",
+          "rebranded",
+          "rebranding"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "rebrands",
+          "rebranded",
+          "rebranding"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "crowdfund",
+        "batch": 61,
+        "entryIndex": 448,
+        "existing": [
+          "crowdfunds",
+          "crowdfunded"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "crowdfunds",
+          "crowdfunded"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "vectorize",
+        "batch": 61,
+        "entryIndex": 457,
+        "existing": [
+          "vectorizes",
+          "vectorized",
+          "vectorizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "vectorizes",
+          "vectorized",
+          "vectorizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "doxx",
+        "batch": 61,
+        "entryIndex": 474,
+        "existing": [
+          "doxxes",
+          "doxxed"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "doxxes",
+          "doxxed"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "deanonymize",
+        "batch": 61,
+        "entryIndex": 479,
+        "existing": [
+          "deanonymizes",
+          "deanonymized",
+          "deanonymizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "deanonymizes",
+          "deanonymized",
+          "deanonymizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "unsubscribe",
+        "batch": 61,
+        "entryIndex": 485,
+        "existing": [
+          "unsubscribes",
+          "unsubscribed",
+          "unsubscribing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "unsubscribes",
+          "unsubscribed",
+          "unsubscribing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "resubscribe",
+        "batch": 61,
+        "entryIndex": 486,
+        "existing": [
+          "resubscribes",
+          "resubscribed",
+          "resubscribing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "resubscribes",
+          "resubscribed",
+          "resubscribing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "nerf",
+        "batch": 62,
+        "entryIndex": 6,
+        "existing": [
+          "nerfs",
+          "nerfed",
+          "nerfing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "nerfs",
+          "nerfed",
+          "nerfing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "pixelate",
+        "batch": 62,
+        "entryIndex": 20,
+        "existing": [
+          "pixelates",
+          "pixelated",
+          "pixelating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "pixelates",
+          "pixelated",
+          "pixelating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "biohack",
+        "batch": 62,
+        "entryIndex": 37,
+        "existing": [
+          "biohacks",
+          "biohacked"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "biohacks",
+          "biohacked"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "neurostimulate",
+        "batch": 62,
+        "entryIndex": 40,
+        "existing": [
+          "neurostimulates",
+          "neurostimulated",
+          "neurostimulating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "neurostimulates",
+          "neurostimulated",
+          "neurostimulating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "reinfect",
+        "batch": 62,
+        "entryIndex": 54,
+        "existing": [
+          "reinfects",
+          "reinfected",
+          "reinfecting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "reinfects",
+          "reinfected",
+          "reinfecting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "rehydrate",
+        "batch": 62,
+        "entryIndex": 55,
+        "existing": [
+          "rehydrates",
+          "rehydrated",
+          "rehydrating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "rehydrates",
+          "rehydrated",
+          "rehydrating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "mansplain",
+        "batch": 62,
+        "entryIndex": 66,
+        "existing": [
+          "mansplains",
+          "mansplained"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "mansplains",
+          "mansplained"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "dogpile",
+        "batch": 62,
+        "entryIndex": 83,
+        "existing": [
+          "dogpiles",
+          "dogpiled",
+          "dogpiling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "dogpiles",
+          "dogpiled",
+          "dogpiling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "repost",
+        "batch": 62,
+        "entryIndex": 84,
+        "existing": [
+          "reposts",
+          "reposted",
+          "reposting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "reposts",
+          "reposted",
+          "reposting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "geolocate",
+        "batch": 62,
+        "entryIndex": 92,
+        "existing": [
+          "geolocates",
+          "geolocated",
+          "geolocating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "geolocates",
+          "geolocated",
+          "geolocating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "downscale",
+        "batch": 62,
+        "entryIndex": 98,
+        "existing": [
+          "downscales",
+          "downscaled",
+          "downscaling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "downscales",
+          "downscaled",
+          "downscaling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "whistleblow",
+        "batch": 62,
+        "entryIndex": 149,
+        "existing": [
+          "whistleblows",
+          "whistleblew",
+          "whistleblown"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "whistleblows",
+          "whistleblew",
+          "whistleblown"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "exfiltrate",
+        "batch": 62,
+        "entryIndex": 156,
+        "existing": [
+          "exfiltrates",
+          "exfiltrated",
+          "exfiltrating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "exfiltrates",
+          "exfiltrated",
+          "exfiltrating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "overdub",
+        "batch": 62,
+        "entryIndex": 158,
+        "existing": [
+          "overdubs",
+          "overdubbed",
+          "overdubbing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "overdubs",
+          "overdubbed",
+          "overdubbing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "transcode",
+        "batch": 62,
+        "entryIndex": 160,
+        "existing": [
+          "transcodes",
+          "transcoded",
+          "transcoding"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "transcodes",
+          "transcoded",
+          "transcoding"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "carpool",
+        "batch": 62,
+        "entryIndex": 168,
+        "existing": [
+          "carpools",
+          "carpooled"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "carpools",
+          "carpooled"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "beatbox",
+        "batch": 62,
+        "entryIndex": 170,
+        "existing": [
+          "beatboxes",
+          "beatboxed",
+          "beatboxing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "beatboxes",
+          "beatboxed",
+          "beatboxing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "breakdance",
+        "batch": 62,
+        "entryIndex": 171,
+        "existing": [
+          "breakdances",
+          "breakdanced",
+          "breakdancing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "breakdances",
+          "breakdanced",
+          "breakdancing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "backport",
+        "batch": 62,
+        "entryIndex": 177,
+        "existing": [
+          "backports",
+          "backported",
+          "backporting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "backports",
+          "backported",
+          "backporting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "overclock",
+        "batch": 62,
+        "entryIndex": 194,
+        "existing": [
+          "overclocks",
+          "overclocked",
+          "overclocking"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "overclocks",
+          "overclocked",
+          "overclocking"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "packetize",
+        "batch": 62,
+        "entryIndex": 195,
+        "existing": [
+          "packetizes",
+          "packetized",
+          "packetizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "packetizes",
+          "packetized",
+          "packetizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "refactor",
+        "batch": 62,
+        "entryIndex": 197,
+        "existing": [
+          "refactors",
+          "refactored",
+          "refactoring"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "refactors",
+          "refactored",
+          "refactoring"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "sideload",
+        "batch": 62,
+        "entryIndex": 200,
+        "existing": [
+          "sideloads",
+          "sideloaded",
+          "sideloading"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "sideloads",
+          "sideloaded",
+          "sideloading"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "upvote",
+        "batch": 62,
+        "entryIndex": 210,
+        "existing": [
+          "upvotes",
+          "upvoted",
+          "upvoting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "upvotes",
+          "upvoted",
+          "upvoting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "downvote",
+        "batch": 62,
+        "entryIndex": 211,
+        "existing": [
+          "downvotes",
+          "downvoted",
+          "downvoting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "downvotes",
+          "downvoted",
+          "downvoting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "virtualize",
+        "batch": 62,
+        "entryIndex": 215,
+        "existing": [
+          "virtualizes",
+          "virtualized",
+          "virtualizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "virtualizes",
+          "virtualized",
+          "virtualizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "rescore",
+        "batch": 62,
+        "entryIndex": 224,
+        "existing": [
+          "rescores",
+          "rescored",
+          "rescoring"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "rescores",
+          "rescored",
+          "rescoring"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "geoblock",
+        "batch": 62,
+        "entryIndex": 274,
+        "existing": [
+          "geoblocks",
+          "geoblocked",
+          "geoblocking"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "geoblocks",
+          "geoblocked",
+          "geoblocking"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "autodelete",
+        "batch": 62,
+        "entryIndex": 290,
+        "existing": [
+          "autodeletes",
+          "autodeleted",
+          "autodeleting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "autodeletes",
+          "autodeleted",
+          "autodeleting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "autopause",
+        "batch": 62,
+        "entryIndex": 291,
+        "existing": [
+          "autopauses",
+          "autopaused",
+          "autopausing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "autopauses",
+          "autopaused",
+          "autopausing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "aerosolize",
+        "batch": 62,
+        "entryIndex": 309,
+        "existing": [
+          "aerosolizes",
+          "aerosolized",
+          "aerosolizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "aerosolizes",
+          "aerosolized",
+          "aerosolizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "bioaccumulate",
+        "batch": 62,
+        "entryIndex": 344,
+        "existing": [
+          "bioaccumulates",
+          "bioaccumulated",
+          "bioaccumulating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "bioaccumulates",
+          "bioaccumulated",
+          "bioaccumulating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "carbonize",
+        "batch": 62,
+        "entryIndex": 346,
+        "existing": [
+          "carbonizes",
+          "carbonized",
+          "carbonizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "carbonizes",
+          "carbonized",
+          "carbonizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "greenwash",
+        "batch": 62,
+        "entryIndex": 347,
+        "existing": [
+          "greenwashes",
+          "greenwashed"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "greenwashes",
+          "greenwashed"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "upcycle",
+        "batch": 62,
+        "entryIndex": 349,
+        "existing": [
+          "upcycles",
+          "upcycled"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "upcycles",
+          "upcycled"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "backfill",
+        "batch": 62,
+        "entryIndex": 361,
+        "existing": [
+          "backfills",
+          "backfilled",
+          "backfilling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "backfills",
+          "backfilled",
+          "backfilling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "overbook",
+        "batch": 62,
+        "entryIndex": 384,
+        "existing": [
+          "overbooks",
+          "overbooking"
+        ],
+        "suggested": [
+          "overbooks",
+          "overbooked",
+          "overbooking"
+        ],
+        "missing": [
+          "overbooked"
+        ],
+        "extra": [],
+        "conflicts": [
+          {
+            "form": "overbooked",
+            "existingOwners": [
+              "overbooked"
+            ]
+          }
+        ]
+      },
+      {
+        "word": "telecommute",
+        "batch": 62,
+        "entryIndex": 392,
+        "existing": [
+          "telecommutes",
+          "telecommuted"
+        ],
+        "suggested": [
+          "telecommutes",
+          "telecommuted",
+          "telecommuting"
+        ],
+        "missing": [
+          "telecommuting"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "carjack",
+        "batch": 62,
+        "entryIndex": 394,
+        "existing": [
+          "carjacks",
+          "carjacked"
+        ],
+        "suggested": [
+          "carjacks",
+          "carjacked",
+          "carjacking"
+        ],
+        "missing": [
+          "carjacking"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "crashland",
+        "batch": 62,
+        "entryIndex": 406,
+        "existing": [
+          "crashlands",
+          "crashlanded",
+          "crashlanding"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "crashlands",
+          "crashlanded",
+          "crashlanding"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "undercook",
+        "batch": 62,
+        "entryIndex": 454,
+        "existing": [
+          "undercooks",
+          "undercooked",
+          "undercooking"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "undercooks",
+          "undercooked",
+          "undercooking"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "underpay",
+        "batch": 62,
+        "entryIndex": 455,
+        "existing": [
+          "underpays",
+          "underpaying"
+        ],
+        "suggested": [
+          "underpays",
+          "underpaid",
+          "underpaying"
+        ],
+        "missing": [
+          "underpaid"
+        ],
+        "extra": [],
+        "conflicts": [
+          {
+            "form": "underpaid",
+            "existingOwners": [
+              "underpaid"
+            ]
+          }
+        ]
+      },
+      {
+        "word": "underprice",
+        "batch": 62,
+        "entryIndex": 456,
+        "existing": [
+          "underprices",
+          "underpriced",
+          "underpricing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "underprices",
+          "underpriced",
+          "underpricing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "sightsee",
+        "batch": 62,
+        "entryIndex": 497,
+        "existing": [
+          "sightsees",
+          "sightsaw",
+          "sightseen"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "sightsees",
+          "sightsaw",
+          "sightseen"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "housesit",
+        "batch": 63,
+        "entryIndex": 0,
+        "existing": [
+          "housesits",
+          "housesat",
+          "housesitting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "housesits",
+          "housesat",
+          "housesitting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "couchsurf",
+        "batch": 63,
+        "entryIndex": 1,
+        "existing": [
+          "couchsurfs",
+          "couchsurfed",
+          "couchsurfing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "couchsurfs",
+          "couchsurfed",
+          "couchsurfing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "futureproof",
+        "batch": 63,
+        "entryIndex": 7,
+        "existing": [
+          "futureproofs",
+          "futureproofed",
+          "futureproofing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "futureproofs",
+          "futureproofed",
+          "futureproofing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "unghost",
+        "batch": 63,
+        "entryIndex": 45,
+        "existing": [
+          "unghosts",
+          "unghosted",
+          "unghosting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "unghosts",
+          "unghosted",
+          "unghosting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "unmatch",
+        "batch": 63,
+        "entryIndex": 46,
+        "existing": [
+          "unmatches",
+          "unmatching"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "unmatches",
+          "unmatching"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "fandomize",
+        "batch": 63,
+        "entryIndex": 50,
+        "existing": [
+          "fandomizes",
+          "fandomized",
+          "fandomizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "fandomizes",
+          "fandomized",
+          "fandomizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "recut",
+        "batch": 63,
+        "entryIndex": 163,
+        "existing": [
+          "recuts",
+          "recutting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "recuts",
+          "recutting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "rerelease",
+        "batch": 63,
+        "entryIndex": 164,
+        "existing": [
+          "rereleases",
+          "rereleased",
+          "rereleasing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "rereleases",
+          "rereleased",
+          "rereleasing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "rewear",
+        "batch": 63,
+        "entryIndex": 203,
+        "existing": [
+          "rewears",
+          "rewore",
+          "reworn"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "rewears",
+          "rewore",
+          "reworn"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "rebook",
+        "batch": 63,
+        "entryIndex": 211,
+        "existing": [
+          "rebooks",
+          "rebooked",
+          "rebooking"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "rebooks",
+          "rebooked",
+          "rebooking"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "autoload",
+        "batch": 63,
+        "entryIndex": 254,
+        "existing": [
+          "autoloads",
+          "autoloaded",
+          "autoloading"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "autoloads",
+          "autoloaded",
+          "autoloading"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "autoskip",
+        "batch": 63,
+        "entryIndex": 255,
+        "existing": [
+          "autoskips",
+          "autoskipped",
+          "autoskipping"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "autoskips",
+          "autoskipped",
+          "autoskipping"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "catheterize",
+        "batch": 63,
+        "entryIndex": 284,
+        "existing": [
+          "catheterizes",
+          "catheterized",
+          "catheterizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "catheterizes",
+          "catheterized",
+          "catheterizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "playtest",
+        "batch": 63,
+        "entryIndex": 300,
+        "existing": [
+          "playtests",
+          "playtested"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "playtests",
+          "playtested"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "hackback",
+        "batch": 63,
+        "entryIndex": 359,
+        "existing": [
+          "hackbacks",
+          "hackbacked",
+          "hackbacking"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "hackbacks",
+          "hackbacked",
+          "hackbacking"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "screenmirror",
+        "batch": 63,
+        "entryIndex": 373,
+        "existing": [
+          "screenmirrors",
+          "screenmirrored",
+          "screenmirroring"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "screenmirrors",
+          "screenmirrored",
+          "screenmirroring"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "chevy",
+        "batch": 64,
+        "entryIndex": 0,
+        "existing": [
+          "chevies",
+          "chevied",
+          "chevying"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "chevies",
+          "chevied",
+          "chevying"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "introspect",
+        "batch": 64,
+        "entryIndex": 60,
+        "existing": [
+          "introspects",
+          "introspected",
+          "introspecting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "introspects",
+          "introspected",
+          "introspecting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "embalm",
+        "batch": 64,
+        "entryIndex": 63,
+        "existing": [
+          "embalms",
+          "embalmed"
+        ],
+        "suggested": [
+          "embalms",
+          "embalmed",
+          "embalming"
+        ],
+        "missing": [
+          "embalming"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "transect",
+        "batch": 64,
+        "entryIndex": 73,
+        "existing": [
+          "transects",
+          "transected",
+          "transecting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "transects",
+          "transected",
+          "transecting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "impoverish",
+        "batch": 64,
+        "entryIndex": 74,
+        "existing": [
+          "impoverishes",
+          "impoverishing"
+        ],
+        "suggested": [
+          "impoverishes",
+          "impoverished",
+          "impoverishing"
+        ],
+        "missing": [
+          "impoverished"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "traipse",
+        "batch": 64,
+        "entryIndex": 77,
+        "existing": [
+          "traipses",
+          "traipsed",
+          "traipsing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "traipses",
+          "traipsed",
+          "traipsing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "hyphenate",
+        "batch": 64,
+        "entryIndex": 79,
+        "existing": [
+          "hyphenates",
+          "hyphenating"
+        ],
+        "suggested": [
+          "hyphenates",
+          "hyphenated",
+          "hyphenating"
+        ],
+        "missing": [
+          "hyphenated"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "mystify",
+        "batch": 64,
+        "entryIndex": 82,
+        "existing": [
+          "mystifies",
+          "mystifying"
+        ],
+        "suggested": [
+          "mystifies",
+          "mystified",
+          "mystifying"
+        ],
+        "missing": [
+          "mystified"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "metamorphose",
+        "batch": 64,
+        "entryIndex": 84,
+        "existing": [
+          "metamorphosed",
+          "metamorphosing"
+        ],
+        "suggested": [
+          "metamorphoses",
+          "metamorphosed",
+          "metamorphosing"
+        ],
+        "missing": [
+          "metamorphoses"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "unnerve",
+        "batch": 64,
+        "entryIndex": 86,
+        "existing": [
+          "unnerves",
+          "unnerved"
+        ],
+        "suggested": [
+          "unnerves",
+          "unnerved",
+          "unnerving"
+        ],
+        "missing": [
+          "unnerving"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "brattle",
+        "batch": 64,
+        "entryIndex": 87,
+        "existing": [
+          "brattles",
+          "brattled",
+          "brattling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "brattles",
+          "brattled",
+          "brattling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "perturb",
+        "batch": 64,
+        "entryIndex": 90,
+        "existing": [
+          "perturbs",
+          "perturbing"
+        ],
+        "suggested": [
+          "perturbs",
+          "perturbed",
+          "perturbing"
+        ],
+        "missing": [
+          "perturbed"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "reseal",
+        "batch": 64,
+        "entryIndex": 96,
+        "existing": [
+          "reseals",
+          "resealed",
+          "resealing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "reseals",
+          "resealed",
+          "resealing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "cumber",
+        "batch": 64,
+        "entryIndex": 102,
+        "existing": [
+          "cumbers",
+          "cumbered",
+          "cumbering"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "cumbers",
+          "cumbered",
+          "cumbering"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "heterodyne",
+        "batch": 64,
+        "entryIndex": 106,
+        "existing": [
+          "heterodynes",
+          "heterodyned",
+          "heterodyning"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "heterodynes",
+          "heterodyned",
+          "heterodyning"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "hydrolyze",
+        "batch": 64,
+        "entryIndex": 107,
+        "existing": [
+          "hydrolyzes",
+          "hydrolyzed",
+          "hydrolyzing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "hydrolyzes",
+          "hydrolyzed",
+          "hydrolyzing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "individualize",
+        "batch": 64,
+        "entryIndex": 108,
+        "existing": [
+          "individualizes",
+          "individualizing"
+        ],
+        "suggested": [
+          "individualizes",
+          "individualized",
+          "individualizing"
+        ],
+        "missing": [
+          "individualized"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "foliate",
+        "batch": 64,
+        "entryIndex": 117,
+        "existing": [
+          "foliates",
+          "foliated",
+          "foliating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "foliates",
+          "foliated",
+          "foliating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "spang",
+        "batch": 64,
+        "entryIndex": 118,
+        "existing": [
+          "spangs",
+          "spanged",
+          "spanging"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "spangs",
+          "spanged",
+          "spanging"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "preoccupy",
+        "batch": 64,
+        "entryIndex": 121,
+        "existing": [
+          "preoccupies",
+          "preoccupying"
+        ],
+        "suggested": [
+          "preoccupies",
+          "preoccupied",
+          "preoccupying"
+        ],
+        "missing": [
+          "preoccupied"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "hobnob",
+        "batch": 64,
+        "entryIndex": 126,
+        "existing": [
+          "hobnobs",
+          "hobnobbed",
+          "hobnobbing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "hobnobs",
+          "hobnobbed",
+          "hobnobbing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "serrate",
+        "batch": 64,
+        "entryIndex": 128,
+        "existing": [
+          "serrates",
+          "serrating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "serrates",
+          "serrating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "wedel",
+        "batch": 64,
+        "entryIndex": 130,
+        "existing": [
+          "wedels",
+          "wedeled",
+          "wedeling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "wedels",
+          "wedeled",
+          "wedeling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "engross",
+        "batch": 64,
+        "entryIndex": 135,
+        "existing": [
+          "engrosses"
+        ],
+        "suggested": [
+          "engrosses",
+          "engrossed",
+          "engrossing"
+        ],
+        "missing": [
+          "engrossed",
+          "engrossing"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "colly",
+        "batch": 64,
+        "entryIndex": 140,
+        "existing": [
+          "collies",
+          "collied",
+          "collying"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "collies",
+          "collied",
+          "collying"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "serialize",
+        "batch": 64,
+        "entryIndex": 146,
+        "existing": [
+          "serializes",
+          "serializing"
+        ],
+        "suggested": [
+          "serializes",
+          "serialized",
+          "serializing"
+        ],
+        "missing": [
+          "serialized"
+        ],
+        "extra": [],
+        "conflicts": [
+          {
+            "form": "serialized",
+            "existingOwners": [
+              "serialized"
+            ]
+          }
+        ]
+      },
+      {
+        "word": "stratify",
+        "batch": 64,
+        "entryIndex": 147,
+        "existing": [
+          "stratifies",
+          "stratifying"
+        ],
+        "suggested": [
+          "stratifies",
+          "stratified",
+          "stratifying"
+        ],
+        "missing": [
+          "stratified"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "professionalize",
+        "batch": 64,
+        "entryIndex": 149,
+        "existing": [
+          "professionalizes",
+          "professionalized",
+          "professionalizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "professionalizes",
+          "professionalized",
+          "professionalizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "finagle",
+        "batch": 64,
+        "entryIndex": 155,
+        "existing": [
+          "finagles",
+          "finagled",
+          "finagling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "finagles",
+          "finagled",
+          "finagling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "caramelize",
+        "batch": 64,
+        "entryIndex": 162,
+        "existing": [
+          "caramelizes",
+          "caramelized",
+          "caramelizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "caramelizes",
+          "caramelized",
+          "caramelizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "cavort",
+        "batch": 64,
+        "entryIndex": 168,
+        "existing": [
+          "cavorts",
+          "cavorted",
+          "cavorting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "cavorts",
+          "cavorted",
+          "cavorting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "felicitate",
+        "batch": 64,
+        "entryIndex": 171,
+        "existing": [
+          "felicitates",
+          "felicitated",
+          "felicitating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "felicitates",
+          "felicitated",
+          "felicitating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "jaywalk",
+        "batch": 64,
+        "entryIndex": 172,
+        "existing": [
+          "jaywalks",
+          "jaywalked"
+        ],
+        "suggested": [
+          "jaywalks",
+          "jaywalked",
+          "jaywalking"
+        ],
+        "missing": [
+          "jaywalking"
+        ],
+        "extra": [],
+        "conflicts": [
+          {
+            "form": "jaywalking",
+            "existingOwners": [
+              "jaywalking"
+            ]
+          }
+        ]
+      },
+      {
+        "word": "uprise",
+        "batch": 64,
+        "entryIndex": 173,
+        "existing": [
+          "uprises",
+          "uprose",
+          "uprisen"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "uprises",
+          "uprose",
+          "uprisen"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "rehear",
+        "batch": 65,
+        "entryIndex": 7,
+        "existing": [
+          "rehears"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "rehears"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "misguide",
+        "batch": 65,
+        "entryIndex": 8,
+        "existing": [
+          "misguides",
+          "misguiding"
+        ],
+        "suggested": [
+          "misguides",
+          "misguided",
+          "misguiding"
+        ],
+        "missing": [
+          "misguided"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "reabsorb",
+        "batch": 65,
+        "entryIndex": 16,
+        "existing": [
+          "reabsorbs",
+          "reabsorbed",
+          "reabsorbing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "reabsorbs",
+          "reabsorbed",
+          "reabsorbing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "petrify",
+        "batch": 65,
+        "entryIndex": 19,
+        "existing": [
+          "petrifies",
+          "petrifying"
+        ],
+        "suggested": [
+          "petrifies",
+          "petrified",
+          "petrifying"
+        ],
+        "missing": [
+          "petrified"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "polymerize",
+        "batch": 65,
+        "entryIndex": 20,
+        "existing": [
+          "polymerizes",
+          "polymerized",
+          "polymerizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "polymerizes",
+          "polymerized",
+          "polymerizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "stickle",
+        "batch": 65,
+        "entryIndex": 24,
+        "existing": [
+          "stickles",
+          "stickled",
+          "stickling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "stickles",
+          "stickled",
+          "stickling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "garble",
+        "batch": 65,
+        "entryIndex": 26,
+        "existing": [
+          "garbles",
+          "garbling"
+        ],
+        "suggested": [
+          "garbles",
+          "garbled",
+          "garbling"
+        ],
+        "missing": [
+          "garbled"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "globalize",
+        "batch": 65,
+        "entryIndex": 33,
+        "existing": [
+          "globalizes",
+          "globalizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "globalizes",
+          "globalizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "swelter",
+        "batch": 65,
+        "entryIndex": 40,
+        "existing": [
+          "swelters",
+          "sweltered"
+        ],
+        "suggested": [
+          "swelters",
+          "sweltered",
+          "sweltering"
+        ],
+        "missing": [
+          "sweltering"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "enthral",
+        "batch": 65,
+        "entryIndex": 42,
+        "existing": [
+          "enthrals"
+        ],
+        "suggested": [
+          "enthrals",
+          "enthraled",
+          "enthraling"
+        ],
+        "missing": [
+          "enthraled",
+          "enthraling"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "reseed",
+        "batch": 65,
+        "entryIndex": 43,
+        "existing": [
+          "reseeds",
+          "reseeded",
+          "reseeding"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "reseeds",
+          "reseeded",
+          "reseeding"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "schnorr",
+        "batch": 65,
+        "entryIndex": 46,
+        "existing": [
+          "schnorrs",
+          "schnorred",
+          "schnorring"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "schnorrs",
+          "schnorred",
+          "schnorring"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "tranquilize",
+        "batch": 65,
+        "entryIndex": 49,
+        "existing": [
+          "tranquilizes",
+          "tranquilized",
+          "tranquilizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "tranquilizes",
+          "tranquilized",
+          "tranquilizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "unbolt",
+        "batch": 65,
+        "entryIndex": 50,
+        "existing": [
+          "unbolts",
+          "unbolted",
+          "unbolting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "unbolts",
+          "unbolted",
+          "unbolting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "colorize",
+        "batch": 65,
+        "entryIndex": 51,
+        "existing": [
+          "colorizes",
+          "colorized",
+          "colorizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "colorizes",
+          "colorized",
+          "colorizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "undock",
+        "batch": 65,
+        "entryIndex": 53,
+        "existing": [
+          "undocks",
+          "undocked",
+          "undocking"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "undocks",
+          "undocked",
+          "undocking"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "indite",
+        "batch": 65,
+        "entryIndex": 54,
+        "existing": [
+          "indites",
+          "indited",
+          "inditing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "indites",
+          "indited",
+          "inditing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "commingle",
+        "batch": 65,
+        "entryIndex": 56,
+        "existing": [
+          "commingles",
+          "commingled",
+          "commingling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "commingles",
+          "commingled",
+          "commingling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "hearten",
+        "batch": 65,
+        "entryIndex": 62,
+        "existing": [
+          "heartens",
+          "heartened"
+        ],
+        "suggested": [
+          "heartens",
+          "heartened",
+          "heartening"
+        ],
+        "missing": [
+          "heartening"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "aggress",
+        "batch": 65,
+        "entryIndex": 63,
+        "existing": [
+          "aggresses",
+          "aggressed",
+          "aggressing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "aggresses",
+          "aggressed",
+          "aggressing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "smoothen",
+        "batch": 65,
+        "entryIndex": 65,
+        "existing": [
+          "smoothens",
+          "smoothened",
+          "smoothening"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "smoothens",
+          "smoothened",
+          "smoothening"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "exhilarate",
+        "batch": 65,
+        "entryIndex": 67,
+        "existing": [
+          "exhilarates",
+          "exhilarated"
+        ],
+        "suggested": [
+          "exhilarates",
+          "exhilarated",
+          "exhilarating"
+        ],
+        "missing": [
+          "exhilarating"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "congest",
+        "batch": 65,
+        "entryIndex": 69,
+        "existing": [
+          "congests",
+          "congesting"
+        ],
+        "suggested": [
+          "congests",
+          "congested",
+          "congesting"
+        ],
+        "missing": [
+          "congested"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "chitter",
+        "batch": 65,
+        "entryIndex": 70,
+        "existing": [
+          "chitters",
+          "chittered",
+          "chittering"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "chitters",
+          "chittered",
+          "chittering"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "derange",
+        "batch": 65,
+        "entryIndex": 71,
+        "existing": [
+          "deranges",
+          "deranging"
+        ],
+        "suggested": [
+          "deranges",
+          "deranged",
+          "deranging"
+        ],
+        "missing": [
+          "deranged"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "bouse",
+        "batch": 65,
+        "entryIndex": 72,
+        "existing": [
+          "bouses",
+          "boused",
+          "bousing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "bouses",
+          "boused",
+          "bousing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "convolute",
+        "batch": 65,
+        "entryIndex": 76,
+        "existing": [
+          "convolutes",
+          "convoluting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "convolutes",
+          "convoluting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "disorganize",
+        "batch": 65,
+        "entryIndex": 78,
+        "existing": [
+          "disorganizes",
+          "disorganizing"
+        ],
+        "suggested": [
+          "disorganizes",
+          "disorganized",
+          "disorganizing"
+        ],
+        "missing": [
+          "disorganized"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "parch",
+        "batch": 65,
+        "entryIndex": 81,
+        "existing": [
+          "parches",
+          "parching"
+        ],
+        "suggested": [
+          "parches",
+          "parched",
+          "parching"
+        ],
+        "missing": [
+          "parched"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "diffract",
+        "batch": 65,
+        "entryIndex": 92,
+        "existing": [
+          "diffracts",
+          "diffracted",
+          "diffracting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "diffracts",
+          "diffracted",
+          "diffracting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "deprave",
+        "batch": 65,
+        "entryIndex": 93,
+        "existing": [
+          "depraves",
+          "depraving"
+        ],
+        "suggested": [
+          "depraves",
+          "depraved",
+          "depraving"
+        ],
+        "missing": [
+          "depraved"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "depressurize",
+        "batch": 65,
+        "entryIndex": 94,
+        "existing": [
+          "depressurizes",
+          "depressurized",
+          "depressurizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "depressurizes",
+          "depressurized",
+          "depressurizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "cosset",
+        "batch": 65,
+        "entryIndex": 95,
+        "existing": [
+          "cossets",
+          "cosseted",
+          "cosseting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "cossets",
+          "cosseted",
+          "cosseting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "remold",
+        "batch": 65,
+        "entryIndex": 99,
+        "existing": [
+          "remolds",
+          "remolded",
+          "remolding"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "remolds",
+          "remolded",
+          "remolding"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "unbend",
+        "batch": 65,
+        "entryIndex": 101,
+        "existing": [
+          "unbends",
+          "unbending"
+        ],
+        "suggested": [
+          "unbends",
+          "unbent",
+          "unbended",
+          "unbending"
+        ],
+        "missing": [
+          "unbent",
+          "unbended"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "protract",
+        "batch": 65,
+        "entryIndex": 102,
+        "existing": [
+          "protracts",
+          "protracting"
+        ],
+        "suggested": [
+          "protracts",
+          "protracted",
+          "protracting"
+        ],
+        "missing": [
+          "protracted"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "mineralize",
+        "batch": 65,
+        "entryIndex": 107,
+        "existing": [
+          "mineralizes",
+          "mineralized",
+          "mineralizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "mineralizes",
+          "mineralized",
+          "mineralizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "interweave",
+        "batch": 66,
+        "entryIndex": 3,
+        "existing": [
+          "interweaves",
+          "interweaved",
+          "interwove",
+          "interweaving"
+        ],
+        "suggested": [
+          "interweaves",
+          "interweaved",
+          "interwove",
+          "interwoven",
+          "interweaving"
+        ],
+        "missing": [
+          "interwoven"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "underbid",
+        "batch": 66,
+        "entryIndex": 16,
+        "existing": [
+          "underbids",
+          "underbidding"
+        ],
+        "suggested": [
+          "underbids",
+          "underbidding"
+        ],
+        "missing": [],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "overcrowd",
+        "batch": 66,
+        "entryIndex": 18,
+        "existing": [
+          "overcrowds"
+        ],
+        "suggested": [
+          "overcrowds",
+          "overcrowded",
+          "overcrowding"
+        ],
+        "missing": [
+          "overcrowded",
+          "overcrowding"
+        ],
+        "extra": [],
+        "conflicts": [
+          {
+            "form": "overcrowding",
+            "existingOwners": [
+              "overcrowding"
+            ]
+          }
+        ]
+      },
+      {
+        "word": "overfly",
+        "batch": 66,
+        "entryIndex": 21,
+        "existing": [
+          "overflies",
+          "overflying"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "overflies",
+          "overflying"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "silverplate",
+        "batch": 66,
+        "entryIndex": 22,
+        "existing": [
+          "silverplates",
+          "silverplated",
+          "silverplating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "silverplates",
+          "silverplated",
+          "silverplating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "smatter",
+        "batch": 66,
+        "entryIndex": 23,
+        "existing": [
+          "smatters",
+          "smattered"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "smatters",
+          "smattered"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "overprice",
+        "batch": 66,
+        "entryIndex": 26,
+        "existing": [
+          "overprices",
+          "overpriced",
+          "overpricing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "overprices",
+          "overpriced",
+          "overpricing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "overdress",
+        "batch": 66,
+        "entryIndex": 27,
+        "existing": [
+          "overdresses",
+          "overdressing"
+        ],
+        "suggested": [
+          "overdresses",
+          "overdressed",
+          "overdressing"
+        ],
+        "missing": [
+          "overdressed"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "misspeak",
+        "batch": 66,
+        "entryIndex": 30,
+        "existing": [
+          "misspeaks",
+          "misspeaking"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "misspeaks",
+          "misspeaking"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "discombobulate",
+        "batch": 66,
+        "entryIndex": 32,
+        "existing": [
+          "discombobulates",
+          "discombobulated",
+          "discombobulating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "discombobulates",
+          "discombobulated",
+          "discombobulating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "domineer",
+        "batch": 66,
+        "entryIndex": 33,
+        "existing": [
+          "domineers",
+          "domineered"
+        ],
+        "suggested": [
+          "domineers",
+          "domineered",
+          "domineering"
+        ],
+        "missing": [
+          "domineering"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "furbish",
+        "batch": 66,
+        "entryIndex": 39,
+        "existing": [
+          "furbishes",
+          "furbished"
+        ],
+        "suggested": [
+          "furbishes",
+          "furbished",
+          "furbishing"
+        ],
+        "missing": [
+          "furbishing"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "ossify",
+        "batch": 66,
+        "entryIndex": 40,
+        "existing": [
+          "ossifies",
+          "ossifying"
+        ],
+        "suggested": [
+          "ossifies",
+          "ossified",
+          "ossifying"
+        ],
+        "missing": [
+          "ossified"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "elate",
+        "batch": 66,
+        "entryIndex": 43,
+        "existing": [
+          "elates",
+          "elating"
+        ],
+        "suggested": [
+          "elates",
+          "elated",
+          "elating"
+        ],
+        "missing": [
+          "elated"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "reave",
+        "batch": 66,
+        "entryIndex": 46,
+        "existing": [
+          "reaves",
+          "reaved",
+          "reaving"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "reaves",
+          "reaved",
+          "reaving"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "depersonalize",
+        "batch": 66,
+        "entryIndex": 51,
+        "existing": [
+          "depersonalizes",
+          "depersonalized",
+          "depersonalizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "depersonalizes",
+          "depersonalized",
+          "depersonalizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "infatuate",
+        "batch": 66,
+        "entryIndex": 54,
+        "existing": [
+          "infatuates",
+          "infatuating"
+        ],
+        "suggested": [
+          "infatuates",
+          "infatuated",
+          "infatuating"
+        ],
+        "missing": [
+          "infatuated"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "angulate",
+        "batch": 66,
+        "entryIndex": 55,
+        "existing": [
+          "angulates",
+          "angulated",
+          "angulating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "angulates",
+          "angulated",
+          "angulating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "unhitch",
+        "batch": 66,
+        "entryIndex": 57,
+        "existing": [
+          "unhitches",
+          "unhitched",
+          "unhitching"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "unhitches",
+          "unhitched",
+          "unhitching"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "deject",
+        "batch": 66,
+        "entryIndex": 63,
+        "existing": [
+          "dejects",
+          "dejecting"
+        ],
+        "suggested": [
+          "dejects",
+          "dejected",
+          "dejecting"
+        ],
+        "missing": [
+          "dejected"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "countervail",
+        "batch": 66,
+        "entryIndex": 64,
+        "existing": [
+          "countervails",
+          "countervailed"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "countervails",
+          "countervailed"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "misremember",
+        "batch": 66,
+        "entryIndex": 68,
+        "existing": [
+          "misremembers",
+          "misremembered",
+          "misremembering"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "misremembers",
+          "misremembered",
+          "misremembering"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "hopple",
+        "batch": 66,
+        "entryIndex": 74,
+        "existing": [
+          "hopples",
+          "hoppled",
+          "hoppling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "hopples",
+          "hoppled",
+          "hoppling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "ruckle",
+        "batch": 66,
+        "entryIndex": 75,
+        "existing": [
+          "ruckles",
+          "ruckled",
+          "ruckling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "ruckles",
+          "ruckled",
+          "ruckling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "enrapture",
+        "batch": 66,
+        "entryIndex": 76,
+        "existing": [
+          "enraptures",
+          "enrapturing"
+        ],
+        "suggested": [
+          "enraptures",
+          "enraptured",
+          "enrapturing"
+        ],
+        "missing": [
+          "enraptured"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "misperceive",
+        "batch": 66,
+        "entryIndex": 77,
+        "existing": [
+          "misperceives",
+          "misperceived",
+          "misperceiving"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "misperceives",
+          "misperceived",
+          "misperceiving"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "embitter",
+        "batch": 66,
+        "entryIndex": 79,
+        "existing": [
+          "embitters",
+          "embittering"
+        ],
+        "suggested": [
+          "embitters",
+          "embittered",
+          "embittering"
+        ],
+        "missing": [
+          "embittered"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "demodulate",
+        "batch": 66,
+        "entryIndex": 85,
+        "existing": [
+          "demodulates",
+          "demodulated",
+          "demodulating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "demodulates",
+          "demodulated",
+          "demodulating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "anglicize",
+        "batch": 66,
+        "entryIndex": 86,
+        "existing": [
+          "anglicizes",
+          "anglicized",
+          "anglicizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "anglicizes",
+          "anglicized",
+          "anglicizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "variegate",
+        "batch": 66,
+        "entryIndex": 90,
+        "existing": [
+          "variegates",
+          "variegating"
+        ],
+        "suggested": [
+          "variegates",
+          "variegated",
+          "variegating"
+        ],
+        "missing": [
+          "variegated"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "reinsure",
+        "batch": 66,
+        "entryIndex": 92,
+        "existing": [
+          "reinsures",
+          "reinsured",
+          "reinsuring"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "reinsures",
+          "reinsured",
+          "reinsuring"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "forebode",
+        "batch": 66,
+        "entryIndex": 95,
+        "existing": [
+          "forebodes",
+          "foreboded"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "forebodes",
+          "foreboded"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "reflate",
+        "batch": 66,
+        "entryIndex": 96,
+        "existing": [
+          "reflates",
+          "reflated",
+          "reflating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "reflates",
+          "reflated",
+          "reflating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "beleaguer",
+        "batch": 66,
+        "entryIndex": 98,
+        "existing": [
+          "beleaguers",
+          "beleaguering"
+        ],
+        "suggested": [
+          "beleaguers",
+          "beleaguered",
+          "beleaguering"
+        ],
+        "missing": [
+          "beleaguered"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "restitute",
+        "batch": 66,
+        "entryIndex": 99,
+        "existing": [
+          "restitutes",
+          "restituted",
+          "restituting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "restitutes",
+          "restituted",
+          "restituting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "reorientate",
+        "batch": 66,
+        "entryIndex": 100,
+        "existing": [
+          "reorientates",
+          "reorientated",
+          "reorientating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "reorientates",
+          "reorientated",
+          "reorientating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "constipate",
+        "batch": 66,
+        "entryIndex": 101,
+        "existing": [
+          "constipates",
+          "constipating"
+        ],
+        "suggested": [
+          "constipates",
+          "constipated",
+          "constipating"
+        ],
+        "missing": [
+          "constipated"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "delouse",
+        "batch": 66,
+        "entryIndex": 102,
+        "existing": [
+          "delouses",
+          "deloused",
+          "delousing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "delouses",
+          "deloused",
+          "delousing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "gradate",
+        "batch": 66,
+        "entryIndex": 103,
+        "existing": [
+          "gradates",
+          "gradated",
+          "gradating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "gradates",
+          "gradated",
+          "gradating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "flabbergast",
+        "batch": 66,
+        "entryIndex": 105,
+        "existing": [
+          "flabbergasts",
+          "flabbergasting"
+        ],
+        "suggested": [
+          "flabbergasts",
+          "flabbergasted",
+          "flabbergasting"
+        ],
+        "missing": [
+          "flabbergasted"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "crispen",
+        "batch": 66,
+        "entryIndex": 108,
+        "existing": [
+          "crispens",
+          "crispened",
+          "crispening"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "crispens",
+          "crispened",
+          "crispening"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "overprotect",
+        "batch": 66,
+        "entryIndex": 111,
+        "existing": [
+          "overprotects",
+          "overprotected",
+          "overprotecting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "overprotects",
+          "overprotected",
+          "overprotecting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "collateralize",
+        "batch": 66,
+        "entryIndex": 113,
+        "existing": [
+          "collateralizes",
+          "collateralizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "collateralizes",
+          "collateralizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "teethe",
+        "batch": 66,
+        "entryIndex": 114,
+        "existing": [
+          "teethes",
+          "teethed"
+        ],
+        "suggested": [
+          "teethes",
+          "teethed",
+          "teething"
+        ],
+        "missing": [
+          "teething"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "harry",
+        "batch": 67,
+        "entryIndex": 1,
+        "existing": [
+          "harries",
+          "harrying"
+        ],
+        "suggested": [
+          "harries",
+          "harried",
+          "harrying"
+        ],
+        "missing": [
+          "harried"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "disembody",
+        "batch": 67,
+        "entryIndex": 459,
+        "existing": [
+          "disembodies",
+          "disembodying"
+        ],
+        "suggested": [
+          "disembodies",
+          "disembodied",
+          "disembodying"
+        ],
+        "missing": [
+          "disembodied"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "electioneer",
+        "batch": 67,
+        "entryIndex": 460,
+        "existing": [
+          "electioneers",
+          "electioneered"
+        ],
+        "suggested": [
+          "electioneers",
+          "electioneered",
+          "electioneering"
+        ],
+        "missing": [
+          "electioneering"
+        ],
+        "extra": [],
+        "conflicts": [
+          {
+            "form": "electioneering",
+            "existingOwners": [
+              "electioneering"
+            ]
+          }
+        ]
+      },
+      {
+        "word": "speechify",
+        "batch": 67,
+        "entryIndex": 462,
+        "existing": [
+          "speechifies",
+          "speechified",
+          "speechifying"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "speechifies",
+          "speechified",
+          "speechifying"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "underdevelop",
+        "batch": 67,
+        "entryIndex": 464,
+        "existing": [
+          "underdevelops",
+          "underdeveloped",
+          "underdeveloping"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "underdevelops",
+          "underdeveloped",
+          "underdeveloping"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "love",
+        "batch": 68,
+        "entryIndex": 0,
+        "existing": [
+          "loves"
+        ],
+        "suggested": [
+          "loves",
+          "loved",
+          "loving"
+        ],
+        "missing": [
+          "loved",
+          "loving"
+        ],
+        "extra": [],
+        "conflicts": [
+          {
+            "form": "loved",
+            "existingOwners": [
+              "loved"
+            ]
+          },
+          {
+            "form": "loving",
+            "existingOwners": [
+              "loving"
+            ]
+          }
+        ]
+      },
+      {
+        "word": "land",
+        "batch": 68,
+        "entryIndex": 1,
+        "existing": [
+          "lands"
+        ],
+        "suggested": [
+          "lands",
+          "landed",
+          "landing"
+        ],
+        "missing": [
+          "landed",
+          "landing"
+        ],
+        "extra": [],
+        "conflicts": [
+          {
+            "form": "landed",
+            "existingOwners": [
+              "landed"
+            ]
+          }
+        ]
+      },
+      {
+        "word": "page",
+        "batch": 68,
+        "entryIndex": 2,
+        "existing": [
+          "pages",
+          "paged"
+        ],
+        "suggested": [
+          "pages",
+          "paged",
+          "paging"
+        ],
+        "missing": [
+          "paging"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "wake",
+        "batch": 68,
+        "entryIndex": 7,
+        "existing": [
+          "wakes",
+          "woke",
+          "woken"
+        ],
+        "suggested": [
+          "wakes",
+          "woke",
+          "waked",
+          "woken",
+          "waking"
+        ],
+        "missing": [
+          "waked",
+          "waking"
+        ],
+        "extra": [],
+        "conflicts": [
+          {
+            "form": "waking",
+            "existingOwners": [
+              "waking"
+            ]
+          }
+        ]
+      },
+      {
+        "word": "julienne",
+        "batch": 68,
+        "entryIndex": 53,
+        "existing": [
+          "juliennes",
+          "julienned",
+          "julienning"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "juliennes",
+          "julienned",
+          "julienning"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "carom",
+        "batch": 68,
+        "entryIndex": 71,
+        "existing": [
+          "caroms",
+          "caromed",
+          "caroming"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "caroms",
+          "caromed",
+          "caroming"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "calve",
+        "batch": 68,
+        "entryIndex": 75,
+        "existing": [
+          "calved"
+        ],
+        "suggested": [
+          "calves",
+          "calved",
+          "calving"
+        ],
+        "missing": [
+          "calves",
+          "calving"
+        ],
+        "extra": [],
+        "conflicts": [
+          {
+            "form": "calving",
+            "existingOwners": [
+              "calving"
+            ]
+          }
+        ]
+      },
+      {
+        "word": "schlep",
+        "batch": 68,
+        "entryIndex": 81,
+        "existing": [
+          "schleps",
+          "schlepped",
+          "schlepping"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "schleps",
+          "schlepped",
+          "schlepping"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "frizzle",
+        "batch": 68,
+        "entryIndex": 92,
+        "existing": [
+          "frizzles",
+          "frizzling"
+        ],
+        "suggested": [
+          "frizzles",
+          "frizzled",
+          "frizzling"
+        ],
+        "missing": [
+          "frizzled"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "abseil",
+        "batch": 68,
+        "entryIndex": 93,
+        "existing": [
+          "abseils",
+          "abseiled",
+          "abseiling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "abseils",
+          "abseiled",
+          "abseiling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "unbind",
+        "batch": 68,
+        "entryIndex": 96,
+        "existing": [
+          "unbinds",
+          "unbinding"
+        ],
+        "suggested": [
+          "unbinds",
+          "unbound",
+          "unbinding"
+        ],
+        "missing": [
+          "unbound"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "potentiate",
+        "batch": 68,
+        "entryIndex": 99,
+        "existing": [
+          "potentiates",
+          "potentiated",
+          "potentiating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "potentiates",
+          "potentiated",
+          "potentiating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "dapple",
+        "batch": 68,
+        "entryIndex": 101,
+        "existing": [
+          "dapples",
+          "dappling"
+        ],
+        "suggested": [
+          "dapples",
+          "dappled",
+          "dappling"
+        ],
+        "missing": [
+          "dappled"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "unmake",
+        "batch": 68,
+        "entryIndex": 102,
+        "existing": [
+          "unmakes",
+          "unmaking"
+        ],
+        "suggested": [
+          "unmakes",
+          "unmaked",
+          "unmaking"
+        ],
+        "missing": [
+          "unmaked"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "whomp",
+        "batch": 68,
+        "entryIndex": 103,
+        "existing": [
+          "whomps",
+          "whomped",
+          "whomping"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "whomps",
+          "whomped",
+          "whomping"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "fetishize",
+        "batch": 68,
+        "entryIndex": 104,
+        "existing": [
+          "fetishizes",
+          "fetishized",
+          "fetishizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "fetishizes",
+          "fetishized",
+          "fetishizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "magnetize",
+        "batch": 68,
+        "entryIndex": 105,
+        "existing": [
+          "magnetizes",
+          "magnetizing"
+        ],
+        "suggested": [
+          "magnetizes",
+          "magnetized",
+          "magnetizing"
+        ],
+        "missing": [
+          "magnetized"
+        ],
+        "extra": [],
+        "conflicts": [
+          {
+            "form": "magnetized",
+            "existingOwners": [
+              "magnetized"
+            ]
+          }
+        ]
+      },
+      {
+        "word": "braze",
+        "batch": 68,
+        "entryIndex": 107,
+        "existing": [
+          "brazes",
+          "brazed",
+          "brazing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "brazes",
+          "brazed",
+          "brazing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "titrate",
+        "batch": 68,
+        "entryIndex": 108,
+        "existing": [
+          "titrates",
+          "titrated",
+          "titrating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "titrates",
+          "titrated",
+          "titrating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "spectate",
+        "batch": 68,
+        "entryIndex": 110,
+        "existing": [
+          "spectates",
+          "spectated",
+          "spectating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "spectates",
+          "spectated",
+          "spectating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "ingrain",
+        "batch": 68,
+        "entryIndex": 112,
+        "existing": [
+          "ingrains",
+          "ingraining"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "ingrains",
+          "ingraining"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "repot",
+        "batch": 68,
+        "entryIndex": 113,
+        "existing": [
+          "repots",
+          "repotted",
+          "repotting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "repots",
+          "repotted",
+          "repotting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "retransmit",
+        "batch": 68,
+        "entryIndex": 114,
+        "existing": [
+          "retransmits",
+          "retransmitted",
+          "retransmitting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "retransmits",
+          "retransmitted",
+          "retransmitting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "chamfer",
+        "batch": 68,
+        "entryIndex": 118,
+        "existing": [
+          "chamfers",
+          "chamfered",
+          "chamfering"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "chamfers",
+          "chamfered",
+          "chamfering"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "reacquaint",
+        "batch": 68,
+        "entryIndex": 127,
+        "existing": [
+          "reacquaints",
+          "reacquainted",
+          "reacquainting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "reacquaints",
+          "reacquainted",
+          "reacquainting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "externalize",
+        "batch": 68,
+        "entryIndex": 134,
+        "existing": [
+          "externalizes",
+          "externalized",
+          "externalizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "externalizes",
+          "externalized",
+          "externalizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "deglaze",
+        "batch": 68,
+        "entryIndex": 137,
+        "existing": [
+          "deglazes",
+          "deglazed",
+          "deglazing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "deglazes",
+          "deglazed",
+          "deglazing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "mottle",
+        "batch": 68,
+        "entryIndex": 145,
+        "existing": [
+          "mottles",
+          "mottled"
+        ],
+        "suggested": [
+          "mottles",
+          "mottled",
+          "mottling"
+        ],
+        "missing": [
+          "mottling"
+        ],
+        "extra": [],
+        "conflicts": [
+          {
+            "form": "mottling",
+            "existingOwners": [
+              "mottling"
+            ]
+          }
+        ]
+      },
+      {
+        "word": "bruit",
+        "batch": 68,
+        "entryIndex": 148,
+        "existing": [
+          "bruits",
+          "bruited",
+          "bruiting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "bruits",
+          "bruited",
+          "bruiting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "refloat",
+        "batch": 68,
+        "entryIndex": 157,
+        "existing": [
+          "refloats",
+          "refloated",
+          "refloating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "refloats",
+          "refloated",
+          "refloating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "dodder",
+        "batch": 68,
+        "entryIndex": 159,
+        "existing": [
+          "dodders",
+          "doddered"
+        ],
+        "suggested": [
+          "dodders",
+          "doddered",
+          "doddering"
+        ],
+        "missing": [
+          "doddering"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "notate",
+        "batch": 68,
+        "entryIndex": 160,
+        "existing": [
+          "notates",
+          "notated",
+          "notating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "notates",
+          "notated",
+          "notating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "biodegrade",
+        "batch": 68,
+        "entryIndex": 163,
+        "existing": [
+          "biodegrades",
+          "biodegraded",
+          "biodegrading"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "biodegrades",
+          "biodegraded",
+          "biodegrading"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "stupefy",
+        "batch": 68,
+        "entryIndex": 164,
+        "existing": [
+          "stupefies"
+        ],
+        "suggested": [
+          "stupefies",
+          "stupefied",
+          "stupefying"
+        ],
+        "missing": [
+          "stupefied",
+          "stupefying"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "inflect",
+        "batch": 68,
+        "entryIndex": 166,
+        "existing": [
+          "inflects",
+          "inflecting"
+        ],
+        "suggested": [
+          "inflects",
+          "inflected",
+          "inflecting"
+        ],
+        "missing": [
+          "inflected"
+        ],
+        "extra": [],
+        "conflicts": [
+          {
+            "form": "inflected",
+            "existingOwners": [
+              "inflected"
+            ]
+          }
+        ]
+      },
+      {
+        "word": "thieve",
+        "batch": 68,
+        "entryIndex": 167,
+        "existing": [
+          "thieved"
+        ],
+        "suggested": [
+          "thieves",
+          "thieved",
+          "thieving"
+        ],
+        "missing": [
+          "thieves",
+          "thieving"
+        ],
+        "extra": [],
+        "conflicts": [
+          {
+            "form": "thieving",
+            "existingOwners": [
+              "thieving"
+            ]
+          }
+        ]
+      },
+      {
+        "word": "judder",
+        "batch": 68,
+        "entryIndex": 169,
+        "existing": [
+          "judders",
+          "juddered",
+          "juddering"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "judders",
+          "juddered",
+          "juddering"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "rehouse",
+        "batch": 68,
+        "entryIndex": 170,
+        "existing": [
+          "rehouses",
+          "rehoused",
+          "rehousing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "rehouses",
+          "rehoused",
+          "rehousing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "resect",
+        "batch": 68,
+        "entryIndex": 171,
+        "existing": [
+          "resects",
+          "resected",
+          "resecting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "resects",
+          "resected",
+          "resecting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "skive",
+        "batch": 68,
+        "entryIndex": 172,
+        "existing": [
+          "skives",
+          "skived",
+          "skiving"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "skives",
+          "skived",
+          "skiving"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "tweeze",
+        "batch": 68,
+        "entryIndex": 174,
+        "existing": [
+          "tweezes",
+          "tweezed",
+          "tweezing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "tweezes",
+          "tweezed",
+          "tweezing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "unclip",
+        "batch": 68,
+        "entryIndex": 175,
+        "existing": [
+          "unclips",
+          "unclipped",
+          "unclipping"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "unclips",
+          "unclipped",
+          "unclipping"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "snarf",
+        "batch": 68,
+        "entryIndex": 178,
+        "existing": [
+          "snarfs",
+          "snarfed",
+          "snarfing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "snarfs",
+          "snarfed",
+          "snarfing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "deplane",
+        "batch": 68,
+        "entryIndex": 181,
+        "existing": [
+          "deplanes",
+          "deplaned",
+          "deplaning"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "deplanes",
+          "deplaned",
+          "deplaning"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "quantize",
+        "batch": 68,
+        "entryIndex": 187,
+        "existing": [
+          "quantizes",
+          "quantized",
+          "quantizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "quantizes",
+          "quantized",
+          "quantizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "atomize",
+        "batch": 68,
+        "entryIndex": 190,
+        "existing": [
+          "atomizes",
+          "atomized",
+          "atomizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "atomizes",
+          "atomized",
+          "atomizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "reify",
+        "batch": 68,
+        "entryIndex": 191,
+        "existing": [
+          "reifies",
+          "reified",
+          "reifying"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "reifies",
+          "reified",
+          "reifying"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "betroth",
+        "batch": 68,
+        "entryIndex": 197,
+        "existing": [
+          "betroths",
+          "betrothing"
+        ],
+        "suggested": [
+          "betroths",
+          "betrothed",
+          "betrothing"
+        ],
+        "missing": [
+          "betrothed"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "reseat",
+        "batch": 68,
+        "entryIndex": 400,
+        "existing": [
+          "reseats",
+          "reseated",
+          "reseating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "reseats",
+          "reseated",
+          "reseating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "uncross",
+        "batch": 68,
+        "entryIndex": 404,
+        "existing": [
+          "uncrosses",
+          "uncrossed",
+          "uncrossing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "uncrosses",
+          "uncrossed",
+          "uncrossing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "unsay",
+        "batch": 68,
+        "entryIndex": 405,
+        "existing": [
+          "unsays",
+          "unsaying"
+        ],
+        "suggested": [
+          "unsays",
+          "unsaid",
+          "unsaying"
+        ],
+        "missing": [
+          "unsaid"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "deflower",
+        "batch": 68,
+        "entryIndex": 408,
+        "existing": [
+          "deflowers",
+          "deflowered",
+          "deflowering"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "deflowers",
+          "deflowered",
+          "deflowering"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "upchuck",
+        "batch": 68,
+        "entryIndex": 411,
+        "existing": [
+          "upchucks",
+          "upchucked",
+          "upchucking"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "upchucks",
+          "upchucked",
+          "upchucking"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "clomp",
+        "batch": 68,
+        "entryIndex": 412,
+        "existing": [
+          "clomps",
+          "clomped",
+          "clomping"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "clomps",
+          "clomped",
+          "clomping"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "reface",
+        "batch": 68,
+        "entryIndex": 416,
+        "existing": [
+          "refaces",
+          "refaced",
+          "refacing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "refaces",
+          "refaced",
+          "refacing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "reforge",
+        "batch": 68,
+        "entryIndex": 417,
+        "existing": [
+          "reforges",
+          "reforged",
+          "reforging"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "reforges",
+          "reforged",
+          "reforging"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "rescale",
+        "batch": 68,
+        "entryIndex": 418,
+        "existing": [
+          "rescales",
+          "rescaled",
+          "rescaling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "rescales",
+          "rescaled",
+          "rescaling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "declaw",
+        "batch": 68,
+        "entryIndex": 424,
+        "existing": [
+          "declaws",
+          "declawed",
+          "declawing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "declaws",
+          "declawed",
+          "declawing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "neaten",
+        "batch": 68,
+        "entryIndex": 427,
+        "existing": [
+          "neatens",
+          "neatened",
+          "neatening"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "neatens",
+          "neatened",
+          "neatening"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "ambulate",
+        "batch": 68,
+        "entryIndex": 428,
+        "existing": [
+          "ambulates",
+          "ambulated",
+          "ambulating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "ambulates",
+          "ambulated",
+          "ambulating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "dematerialize",
+        "batch": 68,
+        "entryIndex": 429,
+        "existing": [
+          "dematerializes",
+          "dematerialized",
+          "dematerializing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "dematerializes",
+          "dematerialized",
+          "dematerializing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "outmatch",
+        "batch": 68,
+        "entryIndex": 430,
+        "existing": [
+          "outmatches",
+          "outmatched",
+          "outmatching"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "outmatches",
+          "outmatched",
+          "outmatching"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "defang",
+        "batch": 68,
+        "entryIndex": 433,
+        "existing": [
+          "defangs",
+          "defanged",
+          "defanging"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "defangs",
+          "defanged",
+          "defanging"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "defrock",
+        "batch": 68,
+        "entryIndex": 434,
+        "existing": [
+          "defrocks",
+          "defrocked",
+          "defrocking"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "defrocks",
+          "defrocked",
+          "defrocking"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "gallivant",
+        "batch": 68,
+        "entryIndex": 435,
+        "existing": [
+          "gallivants",
+          "gallivanted",
+          "gallivanting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "gallivants",
+          "gallivanted",
+          "gallivanting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "disenchant",
+        "batch": 68,
+        "entryIndex": 437,
+        "existing": [
+          "disenchants",
+          "disenchanting"
+        ],
+        "suggested": [
+          "disenchants",
+          "disenchanted",
+          "disenchanting"
+        ],
+        "missing": [
+          "disenchanted"
+        ],
+        "extra": [],
+        "conflicts": [
+          {
+            "form": "disenchanted",
+            "existingOwners": [
+              "disenchanted"
+            ]
+          }
+        ]
+      },
+      {
+        "word": "ligate",
+        "batch": 68,
+        "entryIndex": 438,
+        "existing": [
+          "ligates",
+          "ligated",
+          "ligating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "ligates",
+          "ligated",
+          "ligating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "canoodle",
+        "batch": 68,
+        "entryIndex": 440,
+        "existing": [
+          "canoodles",
+          "canoodled",
+          "canoodling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "canoodles",
+          "canoodled",
+          "canoodling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "debone",
+        "batch": 68,
+        "entryIndex": 441,
+        "existing": [
+          "debones",
+          "deboned",
+          "deboning"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "debones",
+          "deboned",
+          "deboning"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "retie",
+        "batch": 68,
+        "entryIndex": 443,
+        "existing": [
+          "reties",
+          "retied",
+          "retying"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "reties",
+          "retied",
+          "retying"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "degrease",
+        "batch": 68,
+        "entryIndex": 444,
+        "existing": [
+          "degreases",
+          "degreased",
+          "degreasing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "degreases",
+          "degreased",
+          "degreasing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "uncurl",
+        "batch": 68,
+        "entryIndex": 448,
+        "existing": [
+          "uncurls",
+          "uncurled",
+          "uncurling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "uncurls",
+          "uncurled",
+          "uncurling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "maltreat",
+        "batch": 68,
+        "entryIndex": 449,
+        "existing": [
+          "maltreats",
+          "maltreating"
+        ],
+        "suggested": [
+          "maltreats",
+          "maltreated",
+          "maltreating"
+        ],
+        "missing": [
+          "maltreated"
+        ],
+        "extra": [],
+        "conflicts": [
+          {
+            "form": "maltreated",
+            "existingOwners": [
+              "maltreated"
+            ]
+          }
+        ]
+      },
+      {
+        "word": "mislay",
+        "batch": 68,
+        "entryIndex": 450,
+        "existing": [
+          "mislays",
+          "mislaying"
+        ],
+        "suggested": [
+          "mislays",
+          "mislaid",
+          "mislaying"
+        ],
+        "missing": [
+          "mislaid"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "reline",
+        "batch": 68,
+        "entryIndex": 451,
+        "existing": [
+          "relines",
+          "relined",
+          "relining"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "relines",
+          "relined",
+          "relining"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "steepen",
+        "batch": 68,
+        "entryIndex": 453,
+        "existing": [
+          "steepens",
+          "steepened",
+          "steepening"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "steepens",
+          "steepened",
+          "steepening"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "unknot",
+        "batch": 68,
+        "entryIndex": 454,
+        "existing": [
+          "unknots",
+          "unknotted",
+          "unknotting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "unknots",
+          "unknotted",
+          "unknotting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "accrete",
+        "batch": 69,
+        "entryIndex": 1,
+        "existing": [
+          "accretes",
+          "accreted",
+          "accreting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "accretes",
+          "accreted",
+          "accreting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "acculturate",
+        "batch": 69,
+        "entryIndex": 2,
+        "existing": [
+          "acculturates",
+          "acculturated",
+          "acculturating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "acculturates",
+          "acculturated",
+          "acculturating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "alliterate",
+        "batch": 69,
+        "entryIndex": 9,
+        "existing": [
+          "alliterates",
+          "alliterated",
+          "alliterating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "alliterates",
+          "alliterated",
+          "alliterating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "analogize",
+        "batch": 69,
+        "entryIndex": 11,
+        "existing": [
+          "analogizes",
+          "analogized",
+          "analogizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "analogizes",
+          "analogized",
+          "analogizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "anthropomorphize",
+        "batch": 69,
+        "entryIndex": 18,
+        "existing": [
+          "anthropomorphizes",
+          "anthropomorphized",
+          "anthropomorphizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "anthropomorphizes",
+          "anthropomorphized",
+          "anthropomorphizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "aviate",
+        "batch": 69,
+        "entryIndex": 27,
+        "existing": [
+          "aviates",
+          "aviated",
+          "aviating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "aviates",
+          "aviated",
+          "aviating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "bestride",
+        "batch": 69,
+        "entryIndex": 43,
+        "existing": [
+          "bestrides",
+          "bestrode",
+          "bestridden",
+          "bestriding"
+        ],
+        "suggested": [
+          "bestrides",
+          "betrode",
+          "bestridden",
+          "bestrid",
+          "bestrode",
+          "bestriding"
+        ],
+        "missing": [
+          "betrode",
+          "bestrid"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "blazon",
+        "batch": 69,
+        "entryIndex": 47,
+        "existing": [
+          "blazons",
+          "blazoned",
+          "blazoning"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "blazons",
+          "blazoned",
+          "blazoning"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "bloviate",
+        "batch": 69,
+        "entryIndex": 52,
+        "existing": [
+          "bloviates",
+          "bloviated",
+          "bloviating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "bloviates",
+          "bloviated",
+          "bloviating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "bodge",
+        "batch": 69,
+        "entryIndex": 53,
+        "existing": [
+          "bodges",
+          "bodged",
+          "bodging"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "bodges",
+          "bodged",
+          "bodging"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "collocate",
+        "batch": 69,
+        "entryIndex": 76,
+        "existing": [
+          "collocates",
+          "collocated",
+          "collocating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "collocates",
+          "collocated",
+          "collocating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "concretize",
+        "batch": 69,
+        "entryIndex": 80,
+        "existing": [
+          "concretizes",
+          "concretized",
+          "concretizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "concretizes",
+          "concretized",
+          "concretizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "deaccession",
+        "batch": 69,
+        "entryIndex": 96,
+        "existing": [
+          "deaccessions",
+          "deaccessioned",
+          "deaccessioning"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "deaccessions",
+          "deaccessioned",
+          "deaccessioning"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "defenestrate",
+        "batch": 69,
+        "entryIndex": 101,
+        "existing": [
+          "defenestrates",
+          "defenestrated",
+          "defenestrating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "defenestrates",
+          "defenestrated",
+          "defenestrating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "depolarize",
+        "batch": 69,
+        "entryIndex": 108,
+        "existing": [
+          "depolarizes",
+          "depolarized",
+          "depolarizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "depolarizes",
+          "depolarized",
+          "depolarizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "destress",
+        "batch": 69,
+        "entryIndex": 114,
+        "existing": [
+          "destresses",
+          "destressed",
+          "destressing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "destresses",
+          "destressed",
+          "destressing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "digitalize",
+        "batch": 69,
+        "entryIndex": 117,
+        "existing": [
+          "digitalizes",
+          "digitalized",
+          "digitalizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "digitalizes",
+          "digitalized",
+          "digitalizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "disinvest",
+        "batch": 69,
+        "entryIndex": 119,
+        "existing": [
+          "disinvests",
+          "disinvested",
+          "disinvesting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "disinvests",
+          "disinvested",
+          "disinvesting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "enkindle",
+        "batch": 69,
+        "entryIndex": 137,
+        "existing": [
+          "enkindles",
+          "enkindled",
+          "enkindling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "enkindles",
+          "enkindled",
+          "enkindling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "entrain",
+        "batch": 69,
+        "entryIndex": 138,
+        "existing": [
+          "entrains",
+          "entrained",
+          "entraining"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "entrains",
+          "entrained",
+          "entraining"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "envenom",
+        "batch": 69,
+        "entryIndex": 139,
+        "existing": [
+          "envenoms",
+          "envenomed",
+          "envenoming"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "envenoms",
+          "envenomed",
+          "envenoming"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "feminize",
+        "batch": 69,
+        "entryIndex": 153,
+        "existing": [
+          "feminizes",
+          "feminized",
+          "feminizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "feminizes",
+          "feminized",
+          "feminizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "flitter",
+        "batch": 69,
+        "entryIndex": 161,
+        "existing": [
+          "flitters",
+          "flittered",
+          "flittering"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "flitters",
+          "flittered",
+          "flittering"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "fractionate",
+        "batch": 69,
+        "entryIndex": 164,
+        "existing": [
+          "fractionates",
+          "fractionated",
+          "fractionating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "fractionates",
+          "fractionated",
+          "fractionating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "ideate",
+        "batch": 69,
+        "entryIndex": 202,
+        "existing": [
+          "ideates",
+          "ideated",
+          "ideating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "ideates",
+          "ideated",
+          "ideating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "individuate",
+        "batch": 69,
+        "entryIndex": 208,
+        "existing": [
+          "individuates",
+          "individuated",
+          "individuating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "individuates",
+          "individuated",
+          "individuating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "joggle",
+        "batch": 69,
+        "entryIndex": 216,
+        "existing": [
+          "joggles",
+          "joggled",
+          "joggling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "joggles",
+          "joggled",
+          "joggling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "jubilate",
+        "batch": 69,
+        "entryIndex": 217,
+        "existing": [
+          "jubilates",
+          "jubilated",
+          "jubilating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "jubilates",
+          "jubilated",
+          "jubilating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "luminesce",
+        "batch": 69,
+        "entryIndex": 232,
+        "existing": [
+          "luminesces",
+          "luminesced",
+          "luminescing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "luminesces",
+          "luminesced",
+          "luminescing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "misalign",
+        "batch": 69,
+        "entryIndex": 257,
+        "existing": [
+          "misaligns",
+          "misaligned",
+          "misaligning"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "misaligns",
+          "misaligned",
+          "misaligning"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "misplay",
+        "batch": 69,
+        "entryIndex": 259,
+        "existing": [
+          "misplays",
+          "misplayed",
+          "misplaying"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "misplays",
+          "misplayed",
+          "misplaying"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "parallelize",
+        "batch": 69,
+        "entryIndex": 289,
+        "existing": [
+          "parallelizes",
+          "parallelized",
+          "parallelizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "parallelizes",
+          "parallelized",
+          "parallelizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "perfuse",
+        "batch": 69,
+        "entryIndex": 299,
+        "existing": [
+          "perfuses",
+          "perfused",
+          "perfusing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "perfuses",
+          "perfused",
+          "perfusing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "politick",
+        "batch": 69,
+        "entryIndex": 316,
+        "existing": [
+          "politicks",
+          "politicked"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "politicks",
+          "politicked"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "pronate",
+        "batch": 69,
+        "entryIndex": 345,
+        "existing": [
+          "pronates",
+          "pronated",
+          "pronating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "pronates",
+          "pronated",
+          "pronating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "rebury",
+        "batch": 69,
+        "entryIndex": 359,
+        "existing": [
+          "reburies",
+          "reburied",
+          "reburying"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "reburies",
+          "reburied",
+          "reburying"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "reconvert",
+        "batch": 69,
+        "entryIndex": 361,
+        "existing": [
+          "reconverts",
+          "reconverted",
+          "reconverting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "reconverts",
+          "reconverted",
+          "reconverting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "rejig",
+        "batch": 69,
+        "entryIndex": 366,
+        "existing": [
+          "rejigs",
+          "rejigged",
+          "rejigging"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "rejigs",
+          "rejigged",
+          "rejigging"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "relativize",
+        "batch": 69,
+        "entryIndex": 367,
+        "existing": [
+          "relativizes",
+          "relativized",
+          "relativizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "relativizes",
+          "relativized",
+          "relativizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "reship",
+        "batch": 69,
+        "entryIndex": 369,
+        "existing": [
+          "reships",
+          "reshipped",
+          "reshipping"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "reships",
+          "reshipped",
+          "reshipping"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "resorb",
+        "batch": 69,
+        "entryIndex": 370,
+        "existing": [
+          "resorbs",
+          "resorbed",
+          "resorbing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "resorbs",
+          "resorbed",
+          "resorbing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "resurge",
+        "batch": 69,
+        "entryIndex": 372,
+        "existing": [
+          "resurges",
+          "resurged",
+          "resurging"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "resurges",
+          "resurged",
+          "resurging"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "retranslate",
+        "batch": 69,
+        "entryIndex": 373,
+        "existing": [
+          "retranslates",
+          "retranslated",
+          "retranslating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "retranslates",
+          "retranslated",
+          "retranslating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "tessellate",
+        "batch": 69,
+        "entryIndex": 454,
+        "existing": [
+          "tessellates",
+          "tessellated",
+          "tessellating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "tessellates",
+          "tessellated",
+          "tessellating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "translocate",
+        "batch": 69,
+        "entryIndex": 460,
+        "existing": [
+          "translocates",
+          "translocated",
+          "translocating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "translocates",
+          "translocated",
+          "translocating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "transmogrify",
+        "batch": 69,
+        "entryIndex": 461,
+        "existing": [
+          "transmogrifies",
+          "transmogrified",
+          "transmogrifying"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "transmogrifies",
+          "transmogrified",
+          "transmogrifying"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "unclutter",
+        "batch": 69,
+        "entryIndex": 470,
+        "existing": [
+          "unclutters",
+          "uncluttered",
+          "uncluttering"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "unclutters",
+          "uncluttered",
+          "uncluttering"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "uncompress",
+        "batch": 69,
+        "entryIndex": 471,
+        "existing": [
+          "uncompresses",
+          "uncompressed",
+          "uncompressing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "uncompresses",
+          "uncompressed",
+          "uncompressing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "uncrate",
+        "batch": 69,
+        "entryIndex": 472,
+        "existing": [
+          "uncrates",
+          "uncrated",
+          "uncrating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "uncrates",
+          "uncrated",
+          "uncrating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "universalize",
+        "batch": 69,
+        "entryIndex": 473,
+        "existing": [
+          "universalizes",
+          "universalized",
+          "universalizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "universalizes",
+          "universalized",
+          "universalizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "unstrap",
+        "batch": 69,
+        "entryIndex": 474,
+        "existing": [
+          "unstraps",
+          "unstrapped",
+          "unstrapping"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "unstraps",
+          "unstrapped",
+          "unstrapping"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "vend",
+        "batch": 69,
+        "entryIndex": 480,
+        "existing": [
+          "vends",
+          "vended"
+        ],
+        "suggested": [
+          "vends",
+          "vended",
+          "vending"
+        ],
+        "missing": [
+          "vending"
+        ],
+        "extra": [],
+        "conflicts": [
+          {
+            "form": "vending",
+            "existingOwners": [
+              "vending"
+            ]
+          }
+        ]
+      },
+      {
+        "word": "vitrify",
+        "batch": 69,
+        "entryIndex": 485,
+        "existing": [
+          "vitrifies",
+          "vitrifying"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "vitrifies",
+          "vitrifying"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "anathematize",
+        "batch": 70,
+        "entryIndex": 8,
+        "existing": [
+          "anathematizes",
+          "anathematized",
+          "anathematizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "anathematizes",
+          "anathematized",
+          "anathematizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "anatomize",
+        "batch": 70,
+        "entryIndex": 9,
+        "existing": [
+          "anatomizes",
+          "anatomized",
+          "anatomizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "anatomizes",
+          "anatomized",
+          "anatomizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "annunciate",
+        "batch": 70,
+        "entryIndex": 11,
+        "existing": [
+          "annunciates",
+          "annunciated",
+          "annunciating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "annunciates",
+          "annunciated",
+          "annunciating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "anodize",
+        "batch": 70,
+        "entryIndex": 12,
+        "existing": [
+          "anodizes",
+          "anodized",
+          "anodizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "anodizes",
+          "anodized",
+          "anodizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "appose",
+        "batch": 70,
+        "entryIndex": 18,
+        "existing": [
+          "apposes",
+          "apposed",
+          "apposing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "apposes",
+          "apposed",
+          "apposing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "auscultate",
+        "batch": 70,
+        "entryIndex": 25,
+        "existing": [
+          "auscultates",
+          "auscultated",
+          "auscultating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "auscultates",
+          "auscultated",
+          "auscultating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "becloud",
+        "batch": 70,
+        "entryIndex": 30,
+        "existing": [
+          "beclouds",
+          "beclouded",
+          "beclouding"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "beclouds",
+          "beclouded",
+          "beclouding"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "bethink",
+        "batch": 70,
+        "entryIndex": 32,
+        "existing": [
+          "bethinks",
+          "bethought",
+          "bethinking"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "bethinks",
+          "bethought",
+          "bethinking"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "chuff",
+        "batch": 70,
+        "entryIndex": 61,
+        "existing": [
+          "chuffs",
+          "chuffed",
+          "chuffing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "chuffs",
+          "chuffed",
+          "chuffing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "collimate",
+        "batch": 70,
+        "entryIndex": 70,
+        "existing": [
+          "collimates",
+          "collimated",
+          "collimating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "collimates",
+          "collimated",
+          "collimating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "defog",
+        "batch": 70,
+        "entryIndex": 100,
+        "existing": [
+          "defogs",
+          "defogged",
+          "defogging"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "defogs",
+          "defogged",
+          "defogging"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "detrain",
+        "batch": 70,
+        "entryIndex": 103,
+        "existing": [
+          "detrains",
+          "detrained",
+          "detraining"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "detrains",
+          "detrained",
+          "detraining"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "disport",
+        "batch": 70,
+        "entryIndex": 110,
+        "existing": [
+          "disports",
+          "disported",
+          "disporting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "disports",
+          "disported",
+          "disporting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "emplace",
+        "batch": 70,
+        "entryIndex": 127,
+        "existing": [
+          "emplaces",
+          "emplaced",
+          "emplacing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "emplaces",
+          "emplaced",
+          "emplacing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "enwrap",
+        "batch": 70,
+        "entryIndex": 129,
+        "existing": [
+          "enwraps",
+          "enwrapped",
+          "enwrapping"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "enwraps",
+          "enwrapped",
+          "enwrapping"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "freewheel",
+        "batch": 70,
+        "entryIndex": 163,
+        "existing": [
+          "freewheels",
+          "freewheeled"
+        ],
+        "suggested": [
+          "freewheels",
+          "freewheeled",
+          "freewheeling"
+        ],
+        "missing": [
+          "freewheeling"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "hornswoggle",
+        "batch": 70,
+        "entryIndex": 191,
+        "existing": [
+          "hornswoggles",
+          "hornswoggled",
+          "hornswoggling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "hornswoggles",
+          "hornswoggled",
+          "hornswoggling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "isomerize",
+        "batch": 70,
+        "entryIndex": 211,
+        "existing": [
+          "isomerizes",
+          "isomerized",
+          "isomerizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "isomerizes",
+          "isomerized",
+          "isomerizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "jounce",
+        "batch": 70,
+        "entryIndex": 214,
+        "existing": [
+          "jounces",
+          "jounced",
+          "jouncing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "jounces",
+          "jounced",
+          "jouncing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "masculinize",
+        "batch": 70,
+        "entryIndex": 241,
+        "existing": [
+          "masculinizes",
+          "masculinized",
+          "masculinizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "masculinizes",
+          "masculinized",
+          "masculinizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "maunder",
+        "batch": 70,
+        "entryIndex": 242,
+        "existing": [
+          "maunders",
+          "maundered",
+          "maundering"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "maunders",
+          "maundered",
+          "maundering"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "micturate",
+        "batch": 70,
+        "entryIndex": 245,
+        "existing": [
+          "micturates",
+          "micturated",
+          "micturating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "micturates",
+          "micturated",
+          "micturating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "outfight",
+        "batch": 70,
+        "entryIndex": 289,
+        "existing": [
+          "outfights",
+          "outfought",
+          "outfighting"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "outfights",
+          "outfought",
+          "outfighting"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "prorogue",
+        "batch": 70,
+        "entryIndex": 336,
+        "existing": [
+          "prorogues",
+          "prorogued",
+          "proroguing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "prorogues",
+          "prorogued",
+          "proroguing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "repine",
+        "batch": 70,
+        "entryIndex": 355,
+        "existing": [
+          "repines",
+          "repined",
+          "repining"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "repines",
+          "repined",
+          "repining"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "resole",
+        "batch": 70,
+        "entryIndex": 360,
+        "existing": [
+          "resoles",
+          "resoled",
+          "resoling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "resoles",
+          "resoled",
+          "resoling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "rusticate",
+        "batch": 70,
+        "entryIndex": 370,
+        "existing": [
+          "rusticates",
+          "rusticated",
+          "rusticating"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "rusticates",
+          "rusticated",
+          "rusticating"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "scintillate",
+        "batch": 70,
+        "entryIndex": 379,
+        "existing": [
+          "scintillates",
+          "scintillated"
+        ],
+        "suggested": [
+          "scintillates",
+          "scintillated",
+          "scintillating"
+        ],
+        "missing": [
+          "scintillating"
+        ],
+        "extra": [],
+        "conflicts": []
+      },
+      {
+        "word": "sinter",
+        "batch": 70,
+        "entryIndex": 400,
+        "existing": [
+          "sinters",
+          "sintered",
+          "sintering"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "sinters",
+          "sintered",
+          "sintering"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "steamroll",
+        "batch": 70,
+        "entryIndex": 425,
+        "existing": [
+          "steamrolls",
+          "steamrolled",
+          "steamrolling"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "steamrolls",
+          "steamrolled",
+          "steamrolling"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "transship",
+        "batch": 70,
+        "entryIndex": 455,
+        "existing": [
+          "transships",
+          "transshipped",
+          "transshipping"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "transships",
+          "transshipped",
+          "transshipping"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "unsex",
+        "batch": 70,
+        "entryIndex": 468,
+        "existing": [
+          "unsexes",
+          "unsexed",
+          "unsexing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "unsexes",
+          "unsexed",
+          "unsexing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "volatilize",
+        "batch": 70,
+        "entryIndex": 485,
+        "existing": [
+          "volatilizes",
+          "volatilized",
+          "volatilizing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "volatilizes",
+          "volatilized",
+          "volatilizing"
+        ],
+        "conflicts": []
+      },
+      {
+        "word": "wassail",
+        "batch": 70,
+        "entryIndex": 489,
+        "existing": [
+          "wassails",
+          "wassailed",
+          "wassailing"
+        ],
+        "suggested": [],
+        "missing": [],
+        "extra": [
+          "wassails",
+          "wassailed",
+          "wassailing"
+        ],
+        "conflicts": []
+      }
+    ]
+  },
+  "separatedSpellingReviewCandidates": [
+    {
+      "batch": 61,
+      "word": "trendsetter",
+      "wordnetSeparatedSpellings": [
+        "trend-setter"
+      ]
+    },
+    {
+      "batch": 61,
+      "word": "tastemaker",
+      "wordnetSeparatedSpellings": [
+        "taste-maker"
+      ]
+    },
+    {
+      "batch": 61,
+      "word": "roadmap",
+      "wordnetSeparatedSpellings": [
+        "road_map"
+      ]
+    },
+    {
+      "batch": 61,
+      "word": "spinoff",
+      "wordnetSeparatedSpellings": [
+        "spin-off",
+        "spin_off"
+      ]
+    },
+    {
+      "batch": 61,
+      "word": "backchannel",
+      "wordnetSeparatedSpellings": [
+        "back-channel",
+        "back_channel"
+      ]
+    },
+    {
+      "batch": 61,
+      "word": "cyberterrorism",
+      "wordnetSeparatedSpellings": [
+        "cyber-terrorism"
+      ]
+    },
+    {
+      "batch": 61,
+      "word": "callout",
+      "wordnetSeparatedSpellings": [
+        "call-out",
+        "call_out"
+      ]
+    },
+    {
+      "batch": 61,
+      "word": "moonshot",
+      "wordnetSeparatedSpellings": [
+        "moon_shot"
+      ]
+    },
+    {
+      "batch": 61,
+      "word": "frontman",
+      "wordnetSeparatedSpellings": [
+        "front_man"
+      ]
+    },
+    {
+      "batch": 61,
+      "word": "spinout",
+      "wordnetSeparatedSpellings": [
+        "spin_out"
+      ]
+    },
+    {
+      "batch": 61,
+      "word": "cashout",
+      "wordnetSeparatedSpellings": [
+        "cash_out"
+      ]
+    },
+    {
+      "batch": 61,
+      "word": "walkthrough",
+      "wordnetSeparatedSpellings": [
+        "walk-through",
+        "walk_through"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "flashforward",
+      "wordnetSeparatedSpellings": [
+        "flash-forward"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "jumpcut",
+      "wordnetSeparatedSpellings": [
+        "jump_cut"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "showbiz",
+      "wordnetSeparatedSpellings": [
+        "show_biz"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "cliffhanging",
+      "wordnetSeparatedSpellings": [
+        "cliff-hanging"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "chainmail",
+      "wordnetSeparatedSpellings": [
+        "chain_mail"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "logline",
+      "wordnetSeparatedSpellings": [
+        "log_line"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "carpool",
+      "wordnetSeparatedSpellings": [
+        "car_pool"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "breakdance",
+      "wordnetSeparatedSpellings": [
+        "break-dance",
+        "break_dance"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "concertgoer",
+      "wordnetSeparatedSpellings": [
+        "concert-goer"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "screensaver",
+      "wordnetSeparatedSpellings": [
+        "screen_saver"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "signup",
+      "wordnetSeparatedSpellings": [
+        "sign_up"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "stylesheet",
+      "wordnetSeparatedSpellings": [
+        "style_sheet"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "widescreen",
+      "wordnetSeparatedSpellings": [
+        "wide-screen",
+        "wide_screen"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "bedwetting",
+      "wordnetSeparatedSpellings": [
+        "bed-wetting"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "breadmaker",
+      "wordnetSeparatedSpellings": [
+        "bread_maker"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "nightlight",
+      "wordnetSeparatedSpellings": [
+        "night-light"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "showercap",
+      "wordnetSeparatedSpellings": [
+        "shower_cap"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "dogcatcher",
+      "wordnetSeparatedSpellings": [
+        "dog_catcher"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "nightwatchman",
+      "wordnetSeparatedSpellings": [
+        "night_watchman"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "zookeeper",
+      "wordnetSeparatedSpellings": [
+        "zoo_keeper"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "framebuffer",
+      "wordnetSeparatedSpellings": [
+        "frame_buffer"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "deepwater",
+      "wordnetSeparatedSpellings": [
+        "deep-water",
+        "deep_water"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "groundswell",
+      "wordnetSeparatedSpellings": [
+        "ground_swell"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "icepack",
+      "wordnetSeparatedSpellings": [
+        "ice_pack"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "jetlag",
+      "wordnetSeparatedSpellings": [
+        "jet_lag"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "teabag",
+      "wordnetSeparatedSpellings": [
+        "tea_bag"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "timesheet",
+      "wordnetSeparatedSpellings": [
+        "time_sheet"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "barfly",
+      "wordnetSeparatedSpellings": [
+        "bar_fly"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "bellyflop",
+      "wordnetSeparatedSpellings": [
+        "belly-flop",
+        "belly_flop"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "crashland",
+      "wordnetSeparatedSpellings": [
+        "crash_land"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "handbrake",
+      "wordnetSeparatedSpellings": [
+        "hand_brake"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "homebuyer",
+      "wordnetSeparatedSpellings": [
+        "home_buyer"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "keyring",
+      "wordnetSeparatedSpellings": [
+        "key_ring"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "motorhome",
+      "wordnetSeparatedSpellings": [
+        "motor_home"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "overcrowding",
+      "wordnetSeparatedSpellings": [
+        "over-crowding"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "playgroup",
+      "wordnetSeparatedSpellings": [
+        "play_group"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "battlecruiser",
+      "wordnetSeparatedSpellings": [
+        "battle_cruiser"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "bodysuit",
+      "wordnetSeparatedSpellings": [
+        "body_suit"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "pushback",
+      "wordnetSeparatedSpellings": [
+        "push_back"
+      ]
+    },
+    {
+      "batch": 62,
+      "word": "keyword",
+      "wordnetSeparatedSpellings": [
+        "key_word"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "hairdryer",
+      "wordnetSeparatedSpellings": [
+        "hair_dryer"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "carveout",
+      "wordnetSeparatedSpellings": [
+        "carve_out"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "coffeemaker",
+      "wordnetSeparatedSpellings": [
+        "coffee_maker"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "farmworker",
+      "wordnetSeparatedSpellings": [
+        "farm_worker"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "snowblower",
+      "wordnetSeparatedSpellings": [
+        "snow_blower"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "snowline",
+      "wordnetSeparatedSpellings": [
+        "snow_line"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "icefield",
+      "wordnetSeparatedSpellings": [
+        "ice_field"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "houseproud",
+      "wordnetSeparatedSpellings": [
+        "house-proud"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "handcrafted",
+      "wordnetSeparatedSpellings": [
+        "hand-crafted"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "airhole",
+      "wordnetSeparatedSpellings": [
+        "air_hole"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "airhorn",
+      "wordnetSeparatedSpellings": [
+        "air_horn"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "airshaft",
+      "wordnetSeparatedSpellings": [
+        "air_shaft"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "bathwater",
+      "wordnetSeparatedSpellings": [
+        "bath_water"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "breadbin",
+      "wordnetSeparatedSpellings": [
+        "bread-bin"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "letterbox",
+      "wordnetSeparatedSpellings": [
+        "letter_box"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "dustsheet",
+      "wordnetSeparatedSpellings": [
+        "dust_sheet"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "putdown",
+      "wordnetSeparatedSpellings": [
+        "put-down",
+        "put_down"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "cooldown",
+      "wordnetSeparatedSpellings": [
+        "cool_down"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "hitlist",
+      "wordnetSeparatedSpellings": [
+        "hit_list"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "dropzone",
+      "wordnetSeparatedSpellings": [
+        "drop_zone"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "killzone",
+      "wordnetSeparatedSpellings": [
+        "kill_zone"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "airwell",
+      "wordnetSeparatedSpellings": [
+        "air_well"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "bathchair",
+      "wordnetSeparatedSpellings": [
+        "bath_chair"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "bathoil",
+      "wordnetSeparatedSpellings": [
+        "bath_oil"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "bedcovering",
+      "wordnetSeparatedSpellings": [
+        "bed_covering"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "dishrack",
+      "wordnetSeparatedSpellings": [
+        "dish_rack"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "burnedout",
+      "wordnetSeparatedSpellings": [
+        "burned-out"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "lookoutman",
+      "wordnetSeparatedSpellings": [
+        "lookout_man"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "breadknife",
+      "wordnetSeparatedSpellings": [
+        "bread_knife"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "soapdish",
+      "wordnetSeparatedSpellings": [
+        "soap_dish"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "coffeemill",
+      "wordnetSeparatedSpellings": [
+        "coffee_mill"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "cookiecutter",
+      "wordnetSeparatedSpellings": [
+        "cookie-cutter",
+        "cookie_cutter"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "butterknife",
+      "wordnetSeparatedSpellings": [
+        "butter_knife"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "kneepad",
+      "wordnetSeparatedSpellings": [
+        "knee_pad"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "handtowel",
+      "wordnetSeparatedSpellings": [
+        "hand_towel"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "airpump",
+      "wordnetSeparatedSpellings": [
+        "air_pump"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "choppingboard",
+      "wordnetSeparatedSpellings": [
+        "chopping_board"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "coffeetable",
+      "wordnetSeparatedSpellings": [
+        "coffee_table"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "eggtimer",
+      "wordnetSeparatedSpellings": [
+        "egg_timer"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "ironingboard",
+      "wordnetSeparatedSpellings": [
+        "ironing_board"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "servingdish",
+      "wordnetSeparatedSpellings": [
+        "serving_dish"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "towelrail",
+      "wordnetSeparatedSpellings": [
+        "towel_rail"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "tourguide",
+      "wordnetSeparatedSpellings": [
+        "tour_guide"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "airfilter",
+      "wordnetSeparatedSpellings": [
+        "air_filter"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "floorlamp",
+      "wordnetSeparatedSpellings": [
+        "floor_lamp"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "meatgrinder",
+      "wordnetSeparatedSpellings": [
+        "meat_grinder"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "piecrust",
+      "wordnetSeparatedSpellings": [
+        "pie_crust"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "elbowpad",
+      "wordnetSeparatedSpellings": [
+        "elbow_pad"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "tanktop",
+      "wordnetSeparatedSpellings": [
+        "tank_top"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "dustjacket",
+      "wordnetSeparatedSpellings": [
+        "dust_jacket"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "lineworker",
+      "wordnetSeparatedSpellings": [
+        "line_worker"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "cookiejar",
+      "wordnetSeparatedSpellings": [
+        "cookie_jar"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "mixingbowl",
+      "wordnetSeparatedSpellings": [
+        "mixing_bowl"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "canopener",
+      "wordnetSeparatedSpellings": [
+        "can_opener"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "bottleopener",
+      "wordnetSeparatedSpellings": [
+        "bottle_opener"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "foodprocessor",
+      "wordnetSeparatedSpellings": [
+        "food_processor"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "waterbottle",
+      "wordnetSeparatedSpellings": [
+        "water_bottle"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "duffelbag",
+      "wordnetSeparatedSpellings": [
+        "duffel_bag"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "garmentbag",
+      "wordnetSeparatedSpellings": [
+        "garment_bag"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "raincheck",
+      "wordnetSeparatedSpellings": [
+        "rain_check"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "candleholder",
+      "wordnetSeparatedSpellings": [
+        "candle_holder"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "trashcan",
+      "wordnetSeparatedSpellings": [
+        "trash_can"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "lovechild",
+      "wordnetSeparatedSpellings": [
+        "love_child"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "cinecamera",
+      "wordnetSeparatedSpellings": [
+        "cine-camera"
+      ]
+    },
+    {
+      "batch": 63,
+      "word": "traveltime",
+      "wordnetSeparatedSpellings": [
+        "travel_time"
+      ]
+    }
+  ],
+  "notes": [
+    "Morphology library suggestions and WordNet separated-spelling candidates require manual verification and are not confirmed errors.",
+    "Editorial sampling covers 100 systematically selected entries plus targeted findings; full native/bilingual review and application integration were not performed."
+  ]
+}

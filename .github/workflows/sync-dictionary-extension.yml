@@ -5,6 +5,10 @@ on:
     branches: [master]
     paths:
       - "DictionaryExtensionBatches/**"
+      - "extension_closed_compound_allowlist.txt"
+      - "extension_rejected_headwords.txt"
+      - "scripts/build_extension_artifact.py"
+      - "scripts/rebuild_extension_lookup.py"
   workflow_dispatch:
 
 permissions:
@@ -34,17 +38,20 @@ jobs:
       - name: Rebuild extension lookup and manifest
         run: python scripts/rebuild_extension_lookup.py --write
 
+      - name: Package separate extension artifact
+        run: python scripts/build_extension_artifact.py --write
+
       - name: Commit synchronized extension state
         shell: bash
         run: |
-          if git diff --quiet -- dictionary_extension_manifest.json extension_lookup/used_keys_current.zlib.b64; then
+          git add dictionary_extension_manifest.json extension_lookup/used_keys_current.zlib.b64 dist/dictionary_extension.json dist/dictionary_extension.metadata.json
+          if git diff --cached --quiet; then
             echo "Extension state already synchronized."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dictionary_extension_manifest.json extension_lookup/used_keys_current.zlib.b64
           git commit -m "Sync dictionary extension state"
 
           for attempt in 1 2 3 4 5; do
