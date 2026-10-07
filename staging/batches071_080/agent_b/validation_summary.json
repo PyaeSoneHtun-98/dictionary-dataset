@@ -1,0 +1,29 @@
+{
+  "entries": 737,
+  "storedForms": 234,
+  "lookupKeys": 971,
+  "burmeseMeanings": 814,
+  "posCounts": {
+    "preposition": 4,
+    "conjunction": 1,
+    "modal": 1,
+    "pronoun": 10,
+    "interjection": 6,
+    "noun": 461,
+    "verb": 12,
+    "adjective": 164,
+    "adverb": 78
+  },
+  "structuralErrors": 0,
+  "priorCollisions": 0,
+  "withinPoolCollisions": 0,
+  "unreviewedIPA": 0,
+  "flaggedLexicalHeadwords": 207,
+  "verifiedLexicalRecords": 218,
+  "deferredLexicalCandidates": 4,
+  "notes": [
+    "Final canonical extension validator must run after root integrates predecessors.",
+    "Root must resolve form collisions across the global ten-batch candidate pool.",
+    "No 500-entry batch or repository state was changed; root chooses and numbers the final quality-qualified batches."
+  ]
+}

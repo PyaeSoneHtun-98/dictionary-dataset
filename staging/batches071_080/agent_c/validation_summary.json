@@ -1,0 +1,23 @@
+{
+  "result": "PASS",
+  "selectedHeadwords": 577,
+  "storedForms": 174,
+  "lookupKeys": 751,
+  "meanings": 619,
+  "partOfSpeechCounts": {
+    "adverb": 121,
+    "pronoun": 2,
+    "modal": 2,
+    "preposition": 4,
+    "conjunction": 1,
+    "interjection": 6,
+    "adjective": 135,
+    "noun": 297,
+    "determiner": 1,
+    "verb": 8
+  },
+  "lexicalReviews": 164,
+  "suspiciousSplitsVerified": 136,
+  "sha256": "b6a8867f0afcd035a419c95d8e4f8687e1eaa4b71798b53d67cd5e816bb5e8af",
+  "scope": "Staged candidate schema, exclusion, spelling-format, IPA-format, gloss-count, and within-selection collision checks. Root runs canonical exactly-500 batch validation after global integration."
+}

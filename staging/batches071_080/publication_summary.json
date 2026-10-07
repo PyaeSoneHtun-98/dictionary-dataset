@@ -1,0 +1,43 @@
+{
+  "reviewDate": "2026-10-07",
+  "baselineCommit": "7be581cc925e8c097cf89efdf973b1f65a62da66",
+  "requestedBatches": 10,
+  "publishedBatches": 3,
+  "nextBatch": 74,
+  "batches": [
+    {
+      "batch": 71,
+      "headwords": 500,
+      "forms": 234,
+      "glosses": 547,
+      "sha256": "ebdeb23972b2b95cabd791f40c4461d2caf9990c4105c8ccceb2534e389bbedc",
+      "sha256Scope": "utf8-lf"
+    },
+    {
+      "batch": 72,
+      "headwords": 500,
+      "forms": 195,
+      "glosses": 563,
+      "sha256": "be9d69b0f9649330bceb2e393ba3f3b0b00e1b321b22fbcf9464a1df0a854777",
+      "sha256Scope": "utf8-lf"
+    },
+    {
+      "batch": 73,
+      "headwords": 500,
+      "forms": 174,
+      "glosses": 558,
+      "sha256": "1015d67025bee6a94f0e75895d24053d3a0764b3d019ea4438e328ee6e59e075",
+      "sha256Scope": "utf8-lf"
+    }
+  ],
+  "headwords": 1500,
+  "forms": 603,
+  "glosses": 1668,
+  "newLookupKeys": 2103,
+  "newAllowlistRecords": 460,
+  "lexicalEvidenceRecords": 545,
+  "collisions": 0,
+  "frozenV1Modified": false,
+  "nativeSpeakerSignOff": false,
+  "windowsAppIntegrationTested": false
+}

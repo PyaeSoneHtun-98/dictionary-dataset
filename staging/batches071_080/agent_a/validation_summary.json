@@ -1,0 +1,22 @@
+{
+  "entries": 437,
+  "forms": 152,
+  "lookupKeys": 589,
+  "burmeseMeanings": 490,
+  "partOfSpeech": {
+    "noun": 280,
+    "verb": 10,
+    "adjective": 40,
+    "adverb": 89,
+    "conjunction": 2,
+    "pronoun": 6,
+    "determiner": 1,
+    "preposition": 3,
+    "interjection": 6
+  },
+  "priorCollisions": 0,
+  "internalCollisions": 0,
+  "lexicallyReviewed": 161,
+  "missingIPA": 0,
+  "sourceSHA256": "ae417cd34a25a0295c2cb18c91eab256e2e4221bf8f05347fcec4adf3080baba"
+}

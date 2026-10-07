@@ -1,0 +1,1591 @@
+[
+  {
+    "word": "itself",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/itself",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "whenever",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/whenever",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "whereby",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/whereby",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "whichever",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/whichever",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "emoji",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/emoji",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "motorsport",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/motorsport",
+    "suspiciousSplits": [
+      "motor+sport",
+      "motors+port"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "wildcard",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/wildcard",
+    "suspiciousSplits": [
+      "wild+card"
+    ],
+    "decision": "Closed spelling explicitly documented for computing sense; selected gloss restricted to this sense."
+  },
+  {
+    "word": "viewership",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/viewership",
+    "suspiciousSplits": [
+      "viewer+ship",
+      "viewers+hip"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "shirtless",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/shirtless",
+    "suspiciousSplits": [
+      "shirt+less"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "repo",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/repo",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "preorder",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/preorder",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "pfft",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.collinsdictionary.com/us/dictionary/english/pfft",
+    "suspiciousSplits": [],
+    "decision": "Lexicalized interjection; American pronunciation /ft/ consulted."
+  },
+  {
+    "word": "config",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.collinsdictionary.com/us/dictionary/english/config",
+    "suspiciousSplits": [
+      "con+fig"
+    ],
+    "decision": "Established clipping of configuration; con+fig is a heuristic false positive."
+  },
+  {
+    "word": "underrepresented",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/underrepresented",
+    "suspiciousSplits": [
+      "under+represented"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "psychosocial",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/psychosocial",
+    "suspiciousSplits": [
+      "psycho+social"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "multiverse",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/multiverse",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "mentorship",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/mentorship",
+    "suspiciousSplits": [
+      "mentor+ship",
+      "mentors+hip"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "spacetime",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.dictionary.com/browse/spacetime",
+    "suspiciousSplits": [
+      "space+time"
+    ],
+    "decision": "Explicit closed variant of space-time."
+  },
+  {
+    "word": "bubblegum",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/bubblegum",
+    "suspiciousSplits": [
+      "bubble+gum"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "underserved",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/underserved",
+    "suspiciousSplits": [
+      "under+served"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "parkour",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/parkour",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "fuckery",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/fuckery",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "butthurt",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/butthurt",
+    "suspiciousSplits": [
+      "butt+hurt"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "preterm",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/preterm",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "underfunded",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/underfunded",
+    "suspiciousSplits": [
+      "under+funded"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "ridership",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/ridership",
+    "suspiciousSplits": [
+      "rider+ship",
+      "riders+hip"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "matcha",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/matcha",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "subpar",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/subpar",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "kaiju",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/kaiju",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "interactivity",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/interactivity",
+    "suspiciousSplits": [
+      "inter+activity"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "rebar",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/rebar",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "freeform",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://ahdictionary.com/word/search.html?q=freeform",
+    "suspiciousSplits": [
+      "free+form"
+    ],
+    "decision": "American Heritage gives the closed adjective headword; also Dictionary.com explicitly lists freeform as a variant."
+  },
+  {
+    "word": "nonzero",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/nonzero",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "undercard",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/undercard",
+    "suspiciousSplits": [
+      "under+card"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "underutilized",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/underutilized",
+    "suspiciousSplits": [
+      "under+utilized"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "suboptimal",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/suboptimal",
+    "suspiciousSplits": [
+      "sub+optimal"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "logistically",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/logistically",
+    "suspiciousSplits": [
+      "logistic+ally"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "biofilm",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/biofilm",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "unsub",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/unsub",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "repurpose",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/repurpose",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "ginormous",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/ginormous",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "partway",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/partway",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "polycystic",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/polycystic",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "supermajority",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/supermajority",
+    "suspiciousSplits": [
+      "super+majority"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "undersized",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/undersized",
+    "suspiciousSplits": [
+      "under+sized"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "undernourished",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/undernourished",
+    "suspiciousSplits": [
+      "under+nourished"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "semiarid",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/semiarid",
+    "suspiciousSplits": [
+      "semi+arid"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "overweening",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/overweening",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "nonliving",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/nonliving",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "transmittable",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/transmittable",
+    "suspiciousSplits": [
+      "transmit+table"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "tuneless",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/tuneless",
+    "suspiciousSplits": [
+      "tune+less"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "lightless",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/lightless",
+    "suspiciousSplits": [
+      "light+less"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "alienable",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/alienable",
+    "suspiciousSplits": [
+      "alien+able"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "amendable",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/amendable",
+    "suspiciousSplits": [
+      "amend+able"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "semiconscious",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/semiconscious",
+    "suspiciousSplits": [
+      "semi+conscious"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "spiritless",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/spiritless",
+    "suspiciousSplits": [
+      "spirit+less"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "cleanable",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/cleanable",
+    "suspiciousSplits": [
+      "clean+able"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "merchantable",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/merchantable",
+    "suspiciousSplits": [
+      "merchant+able"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "frolicsome",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/frolicsome",
+    "suspiciousSplits": [
+      "frolic+some"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "venturesome",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/venturesome",
+    "suspiciousSplits": [
+      "venture+some"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "toilsome",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/toilsome",
+    "suspiciousSplits": [
+      "toil+some"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "conscienceless",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/conscienceless",
+    "suspiciousSplits": [
+      "conscience+less"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "technophobic",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/technophobic",
+    "suspiciousSplits": [
+      "techno+phobic"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "shockable",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/shockable",
+    "suspiciousSplits": [
+      "shock+able"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "germfree",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/germfree",
+    "suspiciousSplits": [
+      "germ+free"
+    ],
+    "decision": "Merriam-Webster explicitly lists germfree as a closed variant of germ-free; not an invented glued spelling."
+  },
+  {
+    "word": "footsore",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/footsore",
+    "suspiciousSplits": [
+      "foot+sore"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "seriocomic",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/seriocomic",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "colorfast",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/colorfast",
+    "suspiciousSplits": [
+      "color+fast"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "undersexed",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/undersexed",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "organizationally",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/organizationally",
+    "suspiciousSplits": [
+      "organization+ally"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "socioeconomically",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/socioeconomically",
+    "suspiciousSplits": [
+      "socioeconomic+ally"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "radioactively",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/radioactively",
+    "suspiciousSplits": [
+      "radio+actively"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "macroscopically",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/macroscopically",
+    "suspiciousSplits": [
+      "macroscopic+ally"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "typographically",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/typographically",
+    "suspiciousSplits": [
+      "typo+graphically",
+      "typographic+ally"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "polemically",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/polemically",
+    "suspiciousSplits": [
+      "polemic+ally"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "lethargically",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/lethargically",
+    "suspiciousSplits": [
+      "lethargic+ally"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "remorsefully",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/remorsefully",
+    "suspiciousSplits": [
+      "remorse+fully"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "ascetically",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/ascetically",
+    "suspiciousSplits": [
+      "ascetic+ally"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "egotistically",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/egotistically",
+    "suspiciousSplits": [
+      "egotistic+ally"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "hectically",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/hectically",
+    "suspiciousSplits": [
+      "hectic+ally"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "detestably",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/detestably",
+    "suspiciousSplits": [
+      "detest+ably"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "manageably",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/manageably",
+    "suspiciousSplits": [
+      "manage+ably"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "mirthfully",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/mirthfully",
+    "suspiciousSplits": [
+      "mirth+fully"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "pardonably",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/pardonably",
+    "suspiciousSplits": [
+      "pardon+ably"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "phlegmatically",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/phlegmatically",
+    "suspiciousSplits": [
+      "phlegmatic+ally"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "trustfully",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/trustfully",
+    "suspiciousSplits": [
+      "trust+fully"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "vitriolically",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://dictionary.cambridge.org/dictionary/english/vitriolically",
+    "suspiciousSplits": [
+      "vitriolic+ally"
+    ],
+    "decision": "Established manner adverb; US IPA consulted."
+  },
+  {
+    "word": "voyeuristically",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/voyeuristically",
+    "suspiciousSplits": [
+      "voyeuristic+ally"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "sundries",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/sundries",
+    "suspiciousSplits": [
+      "sun+dries"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "swashbuckler",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/swashbuckler",
+    "suspiciousSplits": [
+      "swash+buckler"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "literalism",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/literalism",
+    "suspiciousSplits": [
+      "literal+ism"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "overestimation",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/overestimation",
+    "suspiciousSplits": [
+      "over+estimation"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "wretchedness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/wretchedness",
+    "suspiciousSplits": [
+      "wretched+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "exactness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/exactness",
+    "suspiciousSplits": [
+      "exact+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "kiloton",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/kiloton",
+    "suspiciousSplits": [
+      "kilo+ton"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "dingbat",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/dingbat",
+    "suspiciousSplits": [
+      "ding+bat"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "straightness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/straightness",
+    "suspiciousSplits": [
+      "straight+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "counterargument",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/counterargument",
+    "suspiciousSplits": [
+      "counter+argument"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "oddness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/oddness",
+    "suspiciousSplits": [
+      "odd+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "pointlessness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/pointlessness",
+    "suspiciousSplits": [
+      "pointless+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "aloneness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/aloneness",
+    "suspiciousSplits": [
+      "alone+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "antiserum",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/antiserum",
+    "suspiciousSplits": [
+      "anti+serum"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "uncleanness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/uncleanness",
+    "suspiciousSplits": [
+      "unclean+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "offensiveness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/offensiveness",
+    "suspiciousSplits": [
+      "offensive+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "protectiveness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/protectiveness",
+    "suspiciousSplits": [
+      "protective+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "unselfishness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/unselfishness",
+    "suspiciousSplits": [
+      "unselfish+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "mentalism",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/mentalism",
+    "suspiciousSplits": [
+      "mental+ism"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "repetitiveness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/repetitiveness",
+    "suspiciousSplits": [
+      "repetitive+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "interposition",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/interposition",
+    "suspiciousSplits": [
+      "inter+position"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "straightforwardness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/straightforwardness",
+    "suspiciousSplits": [
+      "straightforward+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "handsomeness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/handsomeness",
+    "suspiciousSplits": [
+      "handsome+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "merchantability",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/merchantability",
+    "suspiciousSplits": [
+      "merchant+ability"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "spittoon",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/spittoon",
+    "suspiciousSplits": [
+      "spit+toon"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "obliviousness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/obliviousness",
+    "suspiciousSplits": [
+      "oblivious+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "conciseness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/conciseness",
+    "suspiciousSplits": [
+      "concise+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "falseness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/falseness",
+    "suspiciousSplits": [
+      "false+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "slickness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/slickness",
+    "suspiciousSplits": [
+      "slick+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "conformism",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/conformism",
+    "suspiciousSplits": [
+      "conform+ism"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "exclusiveness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/exclusiveness",
+    "suspiciousSplits": [
+      "exclusive+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "religiousness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/religiousness",
+    "suspiciousSplits": [
+      "religious+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "monarchism",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/monarchism",
+    "suspiciousSplits": [
+      "monarch+ism"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "photophobia",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/photophobia",
+    "suspiciousSplits": [
+      "photo+phobia"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "seaworthiness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/seaworthiness",
+    "suspiciousSplits": [
+      "sea+worthiness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "archduchess",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/archduchess",
+    "suspiciousSplits": [
+      "arch+duchess"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "distinctness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/distinctness",
+    "suspiciousSplits": [
+      "distinct+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "originalism",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/originalism",
+    "suspiciousSplits": [
+      "original+ism"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "senselessness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/senselessness",
+    "suspiciousSplits": [
+      "senseless+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "deceitfulness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/deceitfulness",
+    "suspiciousSplits": [
+      "deceitful+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "expansiveness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/expansiveness",
+    "suspiciousSplits": [
+      "expansive+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "innovativeness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/innovativeness",
+    "suspiciousSplits": [
+      "innovative+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "hyperextension",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/hyperextension",
+    "suspiciousSplits": [
+      "hyper+extension"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "sexpot",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/sexpot",
+    "suspiciousSplits": [
+      "sex+pot"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "overexertion",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/overexertion",
+    "suspiciousSplits": [
+      "over+exertion"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "deviousness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/deviousness",
+    "suspiciousSplits": [
+      "devious+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "leanness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/leanness",
+    "suspiciousSplits": [
+      "lean+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "inattentiveness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/inattentiveness",
+    "suspiciousSplits": [
+      "inattentive+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "unresponsiveness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/unresponsiveness",
+    "suspiciousSplits": [
+      "unresponsive+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "connoisseurship",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/connoisseurship",
+    "suspiciousSplits": [
+      "connoisseur+ship"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "kilobyte",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/kilobyte",
+    "suspiciousSplits": [
+      "kilo+byte"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "lushness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/lushness",
+    "suspiciousSplits": [
+      "lush+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "warmness",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/warmness",
+    "suspiciousSplits": [
+      "warm+ness"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "monotheist",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/monotheist",
+    "suspiciousSplits": [
+      "mono+theist"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "nymphomania",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/nymphomania",
+    "suspiciousSplits": [
+      "nympho+mania"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "roughhouse",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/roughhouse",
+    "suspiciousSplits": [
+      "rough+house"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "housebreak",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/housebreak",
+    "suspiciousSplits": [
+      "house+break"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "jackknife",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/jackknife",
+    "suspiciousSplits": [
+      "jack+knife"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "bonehead",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/bonehead",
+    "suspiciousSplits": [
+      "bone+head"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "fuckhead",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://ahdictionary.com/word/search.html?q=fuckhead",
+    "suspiciousSplits": [
+      "fuck+head"
+    ],
+    "decision": "American Heritage gives the closed vulgar noun headword."
+  },
+  {
+    "word": "tearaway",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/tearaway",
+    "suspiciousSplits": [
+      "tear+away"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "knockabout",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/knockabout",
+    "suspiciousSplits": [
+      "knock+about"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "pallbearer",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/pallbearer",
+    "suspiciousSplits": [
+      "pall+bearer"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "schoolmistress",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/schoolmistress",
+    "suspiciousSplits": [
+      "school+mistress"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "nightspot",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/nightspot",
+    "suspiciousSplits": [
+      "night+spot"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "eyewash",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/eyewash",
+    "suspiciousSplits": [
+      "eye+wash"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "leaseholder",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/leaseholder",
+    "suspiciousSplits": [
+      "lease+holder"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "highchair",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://ahdictionary.com/word/search.html?q=highchair",
+    "suspiciousSplits": [
+      "high+chair"
+    ],
+    "decision": "American Heritage gives the closed noun headword."
+  },
+  {
+    "word": "weedkiller",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/weedkiller",
+    "suspiciousSplits": [
+      "weed+killer"
+    ],
+    "decision": "Oxford gives the closed noun headword and American IPA."
+  },
+  {
+    "word": "headstand",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/headstand",
+    "suspiciousSplits": [
+      "head+stand"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "gumdrop",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/gumdrop",
+    "suspiciousSplits": [
+      "gum+drop"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "moonshiner",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/moonshiner",
+    "suspiciousSplits": [
+      "moon+shiner"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "shopfront",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://dictionary.cambridge.org/us/dictionary/english/shopfront",
+    "suspiciousSplits": [
+      "shop+front"
+    ],
+    "decision": "Cambridge gives the closed noun headword and American IPA."
+  },
+  {
+    "word": "horsefly",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/horsefly",
+    "suspiciousSplits": [
+      "horse+fly"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "popgun",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/popgun",
+    "suspiciousSplits": [],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  },
+  {
+    "word": "snuffbox",
+    "status": "verified",
+    "reviewedDate": "2026-10-07",
+    "url": "https://www.merriam-webster.com/dictionary/snuffbox",
+    "suspiciousSplits": [
+      "snuff+box"
+    ],
+    "decision": "Current dictionary confirms the closed headword or explicitly lists the closed derivative/variant."
+  }
+]

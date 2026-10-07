@@ -1,0 +1,8630 @@
+[
+  {
+    "word": "when",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/wɛn/"
+  },
+  {
+    "word": "which",
+    "partOfSpeech": "pronoun",
+    "formPolicy": "p",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/wɪtʃ/"
+  },
+  {
+    "word": "could",
+    "partOfSpeech": "modal",
+    "formPolicy": "o",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/kʊd/"
+  },
+  {
+    "word": "itself",
+    "partOfSpeech": "pronoun",
+    "formPolicy": "p",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˌɪtˈsɛlf/"
+  },
+  {
+    "word": "during",
+    "partOfSpeech": "preposition",
+    "formPolicy": "r",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈdʊrɪŋ/"
+  },
+  {
+    "word": "against",
+    "partOfSpeech": "preposition",
+    "formPolicy": "r",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/əˈɡɛnst/"
+  },
+  {
+    "word": "shall",
+    "partOfSpeech": "modal",
+    "formPolicy": "o",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ʃæl/"
+  },
+  {
+    "word": "whenever",
+    "partOfSpeech": "conjunction",
+    "formPolicy": "c",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/wɛnˈɛvɚ/"
+  },
+  {
+    "word": "nope",
+    "partOfSpeech": "interjection",
+    "formPolicy": "i",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/noʊp/"
+  },
+  {
+    "word": "legit",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈlɛdʒɪt/"
+  },
+  {
+    "word": "unto",
+    "partOfSpeech": "preposition",
+    "formPolicy": "r",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈʌntu/"
+  },
+  {
+    "word": "admin",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "admins"
+    ],
+    "stored": [
+      "admins"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈædmɪn/"
+  },
+  {
+    "word": "promo",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "promos"
+    ],
+    "stored": [
+      "promos"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈproʊˌmoʊ/"
+  },
+  {
+    "word": "whereby",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/wɛrˈbaɪ/"
+  },
+  {
+    "word": "whichever",
+    "partOfSpeech": "determiner",
+    "formPolicy": "t",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/wɪtʃˈɛvɚ/"
+  },
+  {
+    "word": "dang",
+    "partOfSpeech": "interjection",
+    "formPolicy": "i",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/dæŋ/"
+  },
+  {
+    "word": "sans",
+    "partOfSpeech": "preposition",
+    "formPolicy": "r",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/sænz/"
+  },
+  {
+    "word": "mister",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "misters"
+    ],
+    "stored": [
+      "misters"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈmɪstɚ/"
+  },
+  {
+    "word": "noir",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/nwɑr/"
+  },
+  {
+    "word": "geez",
+    "partOfSpeech": "interjection",
+    "formPolicy": "i",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/dʒiz/"
+  },
+  {
+    "word": "gotcha",
+    "partOfSpeech": "interjection",
+    "formPolicy": "i",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈɡɑtʃə/"
+  },
+  {
+    "word": "sorta",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈsɔrtə/"
+  },
+  {
+    "word": "emoji",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "emojis"
+    ],
+    "stored": [
+      "emojis"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ɪˈmoʊdʒi/"
+  },
+  {
+    "word": "vape",
+    "partOfSpeech": "verb",
+    "formPolicy": "v",
+    "proposed": [
+      "vapes",
+      "vaped",
+      "vaping"
+    ],
+    "stored": [
+      "vapes",
+      "vaped",
+      "vaping"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/veɪp/"
+  },
+  {
+    "word": "kiddo",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "kiddos"
+    ],
+    "stored": [
+      "kiddos"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkɪdoʊ/"
+  },
+  {
+    "word": "motorsport",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmoʊtɚˌspɔrt/"
+  },
+  {
+    "word": "wildcard",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "wildcards"
+    ],
+    "stored": [
+      "wildcards"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈwaɪldˌkɑrd/"
+  },
+  {
+    "word": "viewership",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈvjuɚʃɪp/"
+  },
+  {
+    "word": "hiya",
+    "partOfSpeech": "interjection",
+    "formPolicy": "i",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈhaɪjə/"
+  },
+  {
+    "word": "pointy",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈpɔɪnti/"
+  },
+  {
+    "word": "shirtless",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈʃɝtləs/"
+  },
+  {
+    "word": "repo",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "repos"
+    ],
+    "stored": [
+      "repos"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈripoʊ/"
+  },
+  {
+    "word": "multidisciplinary",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌmʌltiˈdɪsəpləˌnɛri/"
+  },
+  {
+    "word": "preorder",
+    "partOfSpeech": "verb",
+    "formPolicy": "v",
+    "proposed": [
+      "preorders",
+      "preordered",
+      "preordering"
+    ],
+    "stored": [
+      "preorders",
+      "preordered",
+      "preordering"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌpriˈɔrdɚ/"
+  },
+  {
+    "word": "programmable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈproʊɡræməbəl/"
+  },
+  {
+    "word": "quinoa",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkinwɑ/"
+  },
+  {
+    "word": "celeb",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "celebs"
+    ],
+    "stored": [
+      "celebs"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/səˈlɛb/"
+  },
+  {
+    "word": "transformational",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌtrænsfɚˈmeɪʃənəl/"
+  },
+  {
+    "word": "pfft",
+    "partOfSpeech": "interjection",
+    "formPolicy": "i",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ft/"
+  },
+  {
+    "word": "customizable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkʌstəmaɪzəbəl/"
+  },
+  {
+    "word": "config",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "configs"
+    ],
+    "stored": [
+      "configs"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/kənˈfɪɡ/"
+  },
+  {
+    "word": "twink",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "twinks"
+    ],
+    "stored": [
+      "twinks"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/twɪŋk/"
+  },
+  {
+    "word": "matchday",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "matchdays"
+    ],
+    "stored": [
+      "matchdays"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "relaunch",
+    "partOfSpeech": "verb",
+    "formPolicy": "v",
+    "proposed": [
+      "relaunches",
+      "relaunched",
+      "relaunching"
+    ],
+    "stored": [
+      "relaunches",
+      "relaunched",
+      "relaunching"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/riˈlɔntʃ/"
+  },
+  {
+    "word": "underrepresented",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌʌndɚˌrɛprɪˈzɛntɪd/"
+  },
+  {
+    "word": "psychosocial",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌsaɪkoʊˈsoʊʃəl/"
+  },
+  {
+    "word": "carer",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "carers"
+    ],
+    "stored": [
+      "carers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈkɛrɚ/"
+  },
+  {
+    "word": "multiverse",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "multiverses"
+    ],
+    "stored": [
+      "multiverses"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmʌltiˌvɝs/"
+  },
+  {
+    "word": "mentorship",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈmɛntɚˌʃɪp/"
+  },
+  {
+    "word": "physio",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈfɪzioʊ/"
+  },
+  {
+    "word": "tween",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "tweens"
+    ],
+    "stored": [
+      "tweens"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/twin/"
+  },
+  {
+    "word": "katana",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "katanas"
+    ],
+    "stored": [
+      "katanas"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/kəˈtɑnə/"
+  },
+  {
+    "word": "spacetime",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈspeɪsˌtaɪm/"
+  },
+  {
+    "word": "proactively",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/proʊˈæktɪvli/"
+  },
+  {
+    "word": "bubblegum",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈbʌbəlˌɡʌm/"
+  },
+  {
+    "word": "underserved",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˌʌndɚˈsɝvd/"
+  },
+  {
+    "word": "genocidal",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌdʒɛnəˈsaɪdəl/"
+  },
+  {
+    "word": "parkour",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/pɑrˈkʊr/"
+  },
+  {
+    "word": "transgenic",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˌtrænzˈdʒɛnɪk/"
+  },
+  {
+    "word": "fuckery",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈfʌkɚi/"
+  },
+  {
+    "word": "butthurt",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈbʌtˌhɝt/"
+  },
+  {
+    "word": "preterm",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈpritɚm/"
+  },
+  {
+    "word": "underfunded",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌʌndɚˈfʌndɪd/"
+  },
+  {
+    "word": "surrogacy",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈsɝəɡəsi/"
+  },
+  {
+    "word": "unmet",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ənˈmɛt/"
+  },
+  {
+    "word": "saggy",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈsæɡi/"
+  },
+  {
+    "word": "convective",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/kənˈvɛktɪv/"
+  },
+  {
+    "word": "cantina",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "cantinas"
+    ],
+    "stored": [
+      "cantinas"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˌkænˈtinə/"
+  },
+  {
+    "word": "ridership",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈraɪdɚˌʃɪp/"
+  },
+  {
+    "word": "matcha",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmɑtʃə/"
+  },
+  {
+    "word": "bizarrely",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/bəˈzɑrli/"
+  },
+  {
+    "word": "orgasmic",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ɔrˈɡæzmɪk/"
+  },
+  {
+    "word": "unaffordable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ənəˈfɔrdəbəl/"
+  },
+  {
+    "word": "predefined",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˌpridɪˈfaɪnd/"
+  },
+  {
+    "word": "snark",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/snɑrk/"
+  },
+  {
+    "word": "subpar",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/səbˈpɑr/"
+  },
+  {
+    "word": "aspirational",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌæspəˈreɪʃənəl/"
+  },
+  {
+    "word": "geotechnical",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "gastro",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈɡæstroʊ/"
+  },
+  {
+    "word": "phenom",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "phenoms"
+    ],
+    "stored": [
+      "phenoms"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈfɛnəm/"
+  },
+  {
+    "word": "preppy",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈprɛpi/"
+  },
+  {
+    "word": "kaiju",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkaɪdʒu/"
+  },
+  {
+    "word": "cryo",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "compressive",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/kəmˈprɛsɪv/"
+  },
+  {
+    "word": "interactivity",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˌɪntɚˌækˈtɪvɪti/"
+  },
+  {
+    "word": "ombre",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɑmbreɪ/"
+  },
+  {
+    "word": "caffeinated",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈkæfɪˌneɪtəd/"
+  },
+  {
+    "word": "bioavailability",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "extractive",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "personalization",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˌpɝsənələˈzeɪʃən/"
+  },
+  {
+    "word": "rebar",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈriˌbɑr/"
+  },
+  {
+    "word": "salicylic",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "bendy",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈbɛndi/"
+  },
+  {
+    "word": "freeform",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈfriˌfɔrm/"
+  },
+  {
+    "word": "nonzero",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌnɑnˈzɪroʊ/"
+  },
+  {
+    "word": "undercard",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "undercards"
+    ],
+    "stored": [
+      "undercards"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈʌndɚˌkɑrd/"
+  },
+  {
+    "word": "beachy",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈbitʃi/"
+  },
+  {
+    "word": "underutilized",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌʌndɚˈjutəlaɪzd/"
+  },
+  {
+    "word": "deejay",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "deejays"
+    ],
+    "stored": [
+      "deejays"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈdiˌdʒeɪ/"
+  },
+  {
+    "word": "defund",
+    "partOfSpeech": "verb",
+    "formPolicy": "v",
+    "proposed": [
+      "defunds",
+      "defunded",
+      "defunding"
+    ],
+    "stored": [
+      "defunds",
+      "defunded",
+      "defunding"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/diˈfʌnd/"
+  },
+  {
+    "word": "statically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "suboptimal",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/sʌbˈɑptəməl/"
+  },
+  {
+    "word": "infamously",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɪnfəməsli/"
+  },
+  {
+    "word": "logistically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ləˈdʒɪstɪkli/"
+  },
+  {
+    "word": "poutine",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/puˈtin/"
+  },
+  {
+    "word": "tingly",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈtɪŋɡli/"
+  },
+  {
+    "word": "doozy",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "doozies"
+    ],
+    "stored": [
+      "doozies"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈduzi/"
+  },
+  {
+    "word": "pretreatment",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌpriˈtritmənt/"
+  },
+  {
+    "word": "reflexively",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/riˈflɛksɪvli/"
+  },
+  {
+    "word": "unfazed",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ənˈfeɪzd/"
+  },
+  {
+    "word": "biofilm",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "biofilms"
+    ],
+    "stored": [
+      "biofilms"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈbaɪoʊˌfɪlm/"
+  },
+  {
+    "word": "posteriorly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "underused",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˌʌndɚˈjuzd/"
+  },
+  {
+    "word": "unsub",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "unsubs"
+    ],
+    "stored": [
+      "unsubs"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈʌnsʌb/"
+  },
+  {
+    "word": "biomechanical",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "pairwise",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "survivorship",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "repurpose",
+    "partOfSpeech": "verb",
+    "formPolicy": "v",
+    "proposed": [
+      "repurposes",
+      "repurposed",
+      "repurposing"
+    ],
+    "stored": [
+      "repurposes",
+      "repurposed",
+      "repurposing"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌriˈpɝpəs/"
+  },
+  {
+    "word": "epigenetics",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "ginormous",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/dʒaɪˈnɔrməs/"
+  },
+  {
+    "word": "historicity",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "partway",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈpɑrtˌweɪ/"
+  },
+  {
+    "word": "polycystic",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌpɑliˈsɪstɪk/"
+  },
+  {
+    "word": "supermajority",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "supermajorities"
+    ],
+    "stored": [
+      "supermajorities"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌsupɚməˈdʒɔrəti/"
+  },
+  {
+    "word": "episcopal",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ɪˈpɪskəpəl/"
+  },
+  {
+    "word": "phylogenetic",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "versed",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/vɝst/"
+  },
+  {
+    "word": "perverted",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/pɚˈvɝtɪd/"
+  },
+  {
+    "word": "teenaged",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈtiˌneɪdʒd/"
+  },
+  {
+    "word": "undersized",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈʌndɚˌsaɪzd/"
+  },
+  {
+    "word": "predestined",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˌpriˈdɛstənd/"
+  },
+  {
+    "word": "raring",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈrɛrɪŋ/"
+  },
+  {
+    "word": "cussed",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkʌsɪd/"
+  },
+  {
+    "word": "undernourished",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˌʌndɚˈnɝɪʃt/"
+  },
+  {
+    "word": "unpowered",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnˈpaʊɚd/"
+  },
+  {
+    "word": "semiarid",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌsɛmiˈærɪd/"
+  },
+  {
+    "word": "unframed",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnˈfreɪmd/"
+  },
+  {
+    "word": "ungraded",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnˈɡreɪdəd/"
+  },
+  {
+    "word": "unfertilized",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "unrewarding",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnrɪˈwɔrdɪŋ/"
+  },
+  {
+    "word": "cruciferous",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/kruˈsɪfɚəs/"
+  },
+  {
+    "word": "untucked",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnˈtʌkt/"
+  },
+  {
+    "word": "uncorroborated",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌʌnkəˈrɑbəreɪtɪd/"
+  },
+  {
+    "word": "unrevealed",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnrɪˈvild/"
+  },
+  {
+    "word": "uncertified",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnˈsɝtəˌfaɪd/"
+  },
+  {
+    "word": "unsorted",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnˈsɔrtɪd/"
+  },
+  {
+    "word": "untagged",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnˈtæɡd/"
+  },
+  {
+    "word": "iodized",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈaɪəˌdaɪzd/"
+  },
+  {
+    "word": "overweening",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌoʊvɚˈwinɪŋ/"
+  },
+  {
+    "word": "unselected",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "unaccredited",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌʌnəˈkrɛdɪtɪd/"
+  },
+  {
+    "word": "unprejudiced",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnˈprɛdʒədəst/"
+  },
+  {
+    "word": "unimagined",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˌʌnɪˈmædʒənd/"
+  },
+  {
+    "word": "untrimmed",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnˈtrɪmd/"
+  },
+  {
+    "word": "compensable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/kəmˈpɛnsəbəl/"
+  },
+  {
+    "word": "unstinting",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ənˈstɪntɪŋ/"
+  },
+  {
+    "word": "unhealed",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnˈhild/"
+  },
+  {
+    "word": "nonliving",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌnɑnˈlɪvɪŋ/"
+  },
+  {
+    "word": "unplaced",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ənˈpleɪst/"
+  },
+  {
+    "word": "unpredicted",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnprɪˈdɪktɪd/"
+  },
+  {
+    "word": "transmittable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/trænzˈmɪtəbəl/"
+  },
+  {
+    "word": "fulminant",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "uncaused",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "unremarked",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ənrɪˈmɑrkt/"
+  },
+  {
+    "word": "unshared",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnˈʃɛrd/"
+  },
+  {
+    "word": "tuneless",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈtunləs/"
+  },
+  {
+    "word": "uninfluenced",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "canonic",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/kəˈnɑnək/"
+  },
+  {
+    "word": "isochronous",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "unexpurgated",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌʌnˈɛkspɚˌɡeɪtɪd/"
+  },
+  {
+    "word": "unconsidered",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnkənˈsɪdɚd/"
+  },
+  {
+    "word": "lightless",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈlaɪtləs/"
+  },
+  {
+    "word": "alienable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈeɪliənəbəl/"
+  },
+  {
+    "word": "biggish",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈbɪɡɪʃ/"
+  },
+  {
+    "word": "gamy",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɡeɪmi/"
+  },
+  {
+    "word": "lambent",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈlæmbənt/"
+  },
+  {
+    "word": "tiddly",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈtɪdli/"
+  },
+  {
+    "word": "premedical",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌpriˈmɛdɪkəl/"
+  },
+  {
+    "word": "stereotypic",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "hierarchic",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "decomposable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌdikəmˈpoʊzəbəl/"
+  },
+  {
+    "word": "unseeing",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnˈsiɪŋ/"
+  },
+  {
+    "word": "wonted",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "coequal",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/koʊˈikwəl/"
+  },
+  {
+    "word": "deconstructionist",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "protuberant",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/proʊˈtubɚənt/"
+  },
+  {
+    "word": "scatty",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈskæti/"
+  },
+  {
+    "word": "serried",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈsɛrid/"
+  },
+  {
+    "word": "stoppable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈstɑpəbəl/"
+  },
+  {
+    "word": "pointillist",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "bounden",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "fungicidal",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌfʌndʒɪˈsaɪdəl/"
+  },
+  {
+    "word": "leftish",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈlɛftɪʃ/"
+  },
+  {
+    "word": "rivalrous",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "precursory",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "puckish",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈpʌkɪʃ/"
+  },
+  {
+    "word": "viscid",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈvɪsɪd/"
+  },
+  {
+    "word": "amendable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/əˈmɛndəbəl/"
+  },
+  {
+    "word": "phantasmal",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/fænˈtæzməl/"
+  },
+  {
+    "word": "treacly",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈtrikəli/"
+  },
+  {
+    "word": "piggish",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈpɪɡɪʃ/"
+  },
+  {
+    "word": "satisfiable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "slangy",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈslæŋi/"
+  },
+  {
+    "word": "defeasible",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "semiconscious",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌsɛmiˈkɑnʃəs/"
+  },
+  {
+    "word": "adulatory",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "commutable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "apelike",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈeɪˌplaɪk/"
+  },
+  {
+    "word": "rheumy",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈrumi/"
+  },
+  {
+    "word": "spiritless",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈspɪrətləs/"
+  },
+  {
+    "word": "squeezable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈskwizəbəl/"
+  },
+  {
+    "word": "supererogatory",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "braggy",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "cleanable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈklinəbəl/"
+  },
+  {
+    "word": "gristly",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɡrɪstli/"
+  },
+  {
+    "word": "substitutable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "gnomish",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "platitudinous",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "merchantable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmɝtʃəntəbəl/"
+  },
+  {
+    "word": "spangly",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈspæŋɡli/"
+  },
+  {
+    "word": "starkers",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈstɑrkɚz/"
+  },
+  {
+    "word": "frolicsome",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈfrɑlɪksəm/"
+  },
+  {
+    "word": "ignitable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ɪɡˈnaɪtəbəl/"
+  },
+  {
+    "word": "cliquish",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈklikɪʃ/"
+  },
+  {
+    "word": "expectable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "jocund",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈdʒɑkənd/"
+  },
+  {
+    "word": "mulish",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmjulɪʃ/"
+  },
+  {
+    "word": "venturesome",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈvɛntʃɚsəm/"
+  },
+  {
+    "word": "toilsome",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈtɔɪlsəm/"
+  },
+  {
+    "word": "maidenly",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "doltish",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈdoʊltɪʃ/"
+  },
+  {
+    "word": "conscienceless",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkɑnʃənsləs/"
+  },
+  {
+    "word": "rectifiable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈrɛktəˌfaɪəbəl/"
+  },
+  {
+    "word": "dutiable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈdutiəbəl/"
+  },
+  {
+    "word": "nephrotoxic",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌnɛfroʊˈtɑksɪk/"
+  },
+  {
+    "word": "doddery",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈdɑdɚi/"
+  },
+  {
+    "word": "perspicuous",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/pɚˈspɪkjuəs/"
+  },
+  {
+    "word": "technophobic",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌtɛknoʊˈfoʊbɪk/"
+  },
+  {
+    "word": "acquirable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "expansible",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "coltish",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkoʊltɪʃ/"
+  },
+  {
+    "word": "concupiscent",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "heathenish",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "refulgent",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/rɪˈfʊldʒənt/"
+  },
+  {
+    "word": "sesquipedalian",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "voguish",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈvoʊɡɪʃ/"
+  },
+  {
+    "word": "waggish",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈwæɡɪʃ/"
+  },
+  {
+    "word": "counteractive",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "drugless",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "numerable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "phlegmy",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈflɛmi/"
+  },
+  {
+    "word": "shockable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈʃɑkəbəl/"
+  },
+  {
+    "word": "germfree",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈdʒɝmˌfri/"
+  },
+  {
+    "word": "guileful",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɡaɪlfəl/"
+  },
+  {
+    "word": "rumbustious",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/rʌmˈbʌstʃəs/"
+  },
+  {
+    "word": "seeable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "gradational",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "footsore",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈfʊtˌsɔr/"
+  },
+  {
+    "word": "seriocomic",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌsɪrioʊˈkɑmɪk/"
+  },
+  {
+    "word": "ponderable",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "colorfast",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈkʌlɚˌfæst/"
+  },
+  {
+    "word": "unobligated",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "unblushing",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnˈblʌʃɪŋ/"
+  },
+  {
+    "word": "inspiriting",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "unweaned",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "undersexed",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌʌndɚˈsɛkst/"
+  },
+  {
+    "word": "abeyant",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "minatory",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmɪnəˌtɔri/"
+  },
+  {
+    "word": "unbraced",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "unpressed",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnˈprɛst/"
+  },
+  {
+    "word": "undesigned",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "unrigged",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "organizationally",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌɔrɡənəˈzeɪʃənəli/"
+  },
+  {
+    "word": "spherically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈsfɛrɪkəli/"
+  },
+  {
+    "word": "lexically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈlɛksɪkəli/"
+  },
+  {
+    "word": "socioeconomically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌsoʊsioʊˌɛkəˈnɑmɪkəli/"
+  },
+  {
+    "word": "logarithmically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "radioactively",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌreɪdioʊˈæktɪvli/"
+  },
+  {
+    "word": "macroscopically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌmækroʊˈskɑpɪkəli/"
+  },
+  {
+    "word": "pictorially",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/pɪkˈtɔriəli/"
+  },
+  {
+    "word": "typographically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌtaɪpəˈɡræfɪkəli/"
+  },
+  {
+    "word": "nohow",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "sweepingly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈswipɪŋli/"
+  },
+  {
+    "word": "diagrammatically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌdaɪəɡrəˈmætɪkəli/"
+  },
+  {
+    "word": "polemically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/pəˈlɛməkəli/"
+  },
+  {
+    "word": "matrilineally",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "queerly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkwɪrli/"
+  },
+  {
+    "word": "practicably",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "fulsomely",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "patrilineally",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "magisterially",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "meritoriously",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "dazedly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈdeɪzdli/"
+  },
+  {
+    "word": "captivatingly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkæptɪˌveɪtɪŋli/"
+  },
+  {
+    "word": "superfluously",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/suˈpɝfluəsli/"
+  },
+  {
+    "word": "uncontroversially",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌʌnˌkɑntrəˈvɝʃəli/"
+  },
+  {
+    "word": "frostily",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈfrɔstili/"
+  },
+  {
+    "word": "gratingly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɡreɪtɪŋli/"
+  },
+  {
+    "word": "servilely",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈsɝvəli/"
+  },
+  {
+    "word": "lethargically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ləˈθɑrdʒɪkəli/"
+  },
+  {
+    "word": "wonderingly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈwʌndɚɪŋli/"
+  },
+  {
+    "word": "frigidly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈfrɪdʒədli/"
+  },
+  {
+    "word": "thirstily",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈθɝstili/"
+  },
+  {
+    "word": "vivaciously",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/vəˈveɪʃəsli/"
+  },
+  {
+    "word": "blamelessly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈbleɪmləsli/"
+  },
+  {
+    "word": "lingeringly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈlɪŋɡɚɪŋli/"
+  },
+  {
+    "word": "reprehensibly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌrɛprɪˈhɛnsəbli/"
+  },
+  {
+    "word": "traitorously",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈtreɪtɚəsli/"
+  },
+  {
+    "word": "lopsidedly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌlɑpˈsaɪdɪdli/"
+  },
+  {
+    "word": "manipulatively",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/məˈnɪpjələtɪvli/"
+  },
+  {
+    "word": "pertly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈpɝtli/"
+  },
+  {
+    "word": "smashingly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "contritely",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/kənˈtraɪtli/"
+  },
+  {
+    "word": "lawlessly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈlɔləsli/"
+  },
+  {
+    "word": "ashamedly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/əˈʃeɪmdli/"
+  },
+  {
+    "word": "remorsefully",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/rɪˈmɔrsfəli/"
+  },
+  {
+    "word": "flimsily",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈflɪmzili/"
+  },
+  {
+    "word": "poisonously",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈpɔɪzənəsli/"
+  },
+  {
+    "word": "speciously",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈspiʃəsli/"
+  },
+  {
+    "word": "ascetically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/əˈsɛtɪkəli/"
+  },
+  {
+    "word": "disadvantageously",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌdɪsədvænˈteɪdʒəsli/"
+  },
+  {
+    "word": "egotistically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌiɡəˈtɪstɪkəli/"
+  },
+  {
+    "word": "munificently",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "cagily",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkeɪdʒəli/"
+  },
+  {
+    "word": "hectically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈhɛktɪkəli/"
+  },
+  {
+    "word": "inconsequentially",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌɪnkɑnsəˈkwɛnʃəli/"
+  },
+  {
+    "word": "joylessly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈdʒɔɪləsli/"
+  },
+  {
+    "word": "falteringly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈfɔltɚɪŋli/"
+  },
+  {
+    "word": "martially",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "permissively",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/pɚˈmɪsɪvli/"
+  },
+  {
+    "word": "pluckily",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈplʌkili/"
+  },
+  {
+    "word": "geothermally",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌdʒioʊˈθɝməli/"
+  },
+  {
+    "word": "reservedly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/rɪˈzɝvdli/"
+  },
+  {
+    "word": "thriftily",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈθrɪftəli/"
+  },
+  {
+    "word": "abstractedly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/əbˈstræktɪdli/"
+  },
+  {
+    "word": "adulterously",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/əˈdʌltɚəsli/"
+  },
+  {
+    "word": "affectedly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/əˈfɛktɪdli/"
+  },
+  {
+    "word": "alliteratively",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "avariciously",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌævəˈrɪʃəsli/"
+  },
+  {
+    "word": "banteringly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈbæntɚɪŋli/"
+  },
+  {
+    "word": "befittingly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "bestially",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈbɛstʃəli/"
+  },
+  {
+    "word": "brutishly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈbrutɪʃli/"
+  },
+  {
+    "word": "clammily",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈklæmili/"
+  },
+  {
+    "word": "complainingly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/kəmˈpleɪnɪŋli/"
+  },
+  {
+    "word": "conceitedly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/kənˈsitədli/"
+  },
+  {
+    "word": "daftly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈdæftli/"
+  },
+  {
+    "word": "deprecatively",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "detestably",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/dɪˈtɛstəbli/"
+  },
+  {
+    "word": "dictatorially",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌdɪktəˈtɔriəli/"
+  },
+  {
+    "word": "ebulliently",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ɪˈbʊljəntli/"
+  },
+  {
+    "word": "enterprisingly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "excusably",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ɪkˈskjuzəbli/"
+  },
+  {
+    "word": "feetfirst",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "fishily",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈfɪʃili/"
+  },
+  {
+    "word": "flashily",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈflæʃili/"
+  },
+  {
+    "word": "forgivingly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/fɚˈɡɪvɪŋli/"
+  },
+  {
+    "word": "gloatingly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɡloʊtɪŋli/"
+  },
+  {
+    "word": "greasily",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɡrisəli/"
+  },
+  {
+    "word": "gushingly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɡʌʃɪŋli/"
+  },
+  {
+    "word": "humorlessly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈhjumɚləsli/"
+  },
+  {
+    "word": "individualistically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "lukewarmly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌlukˈwɔrmli/"
+  },
+  {
+    "word": "manageably",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmænɪdʒəbli/"
+  },
+  {
+    "word": "menially",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "mincingly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmɪnsɪŋli/"
+  },
+  {
+    "word": "mirthfully",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmɝθfəli/"
+  },
+  {
+    "word": "murkily",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmɝkili/"
+  },
+  {
+    "word": "nuttily",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "pacifistically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "pardonably",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈpɑrdənəbli/"
+  },
+  {
+    "word": "perplexedly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/pɚˈplɛkstli/"
+  },
+  {
+    "word": "pettishly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈpɛtɪʃli/"
+  },
+  {
+    "word": "phlegmatically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/flɛɡˈmætɪkəli/"
+  },
+  {
+    "word": "piquantly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "pitiably",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈpɪtiəbli/"
+  },
+  {
+    "word": "profitlessly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "propitiously",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "prudishly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈprudɪʃli/"
+  },
+  {
+    "word": "pruriently",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈprʊriəntli/"
+  },
+  {
+    "word": "puritanically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "quaveringly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkweɪvɚɪŋli/"
+  },
+  {
+    "word": "rapaciously",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/rəˈpæʃɪsli/"
+  },
+  {
+    "word": "raspingly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈræspɪŋli/"
+  },
+  {
+    "word": "repellently",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "salaciously",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/səˈleɪʃəsli/"
+  },
+  {
+    "word": "scrappily",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "scrumptiously",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈskrʌmpʃəsli/"
+  },
+  {
+    "word": "shiftily",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈʃɪftili/"
+  },
+  {
+    "word": "skittishly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈskɪtɪʃli/"
+  },
+  {
+    "word": "slackly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈslækli/"
+  },
+  {
+    "word": "slanderously",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈslændɚəsli/"
+  },
+  {
+    "word": "slantwise",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "slightingly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "sobbingly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈsɑbɪŋli/"
+  },
+  {
+    "word": "somnolently",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈsɑmnələntli/"
+  },
+  {
+    "word": "sordidly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈsɔrdədli/"
+  },
+  {
+    "word": "soullessly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈsoʊlləsli/"
+  },
+  {
+    "word": "speechlessly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈspitʃləsli/"
+  },
+  {
+    "word": "stickily",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈstɪkili/"
+  },
+  {
+    "word": "subserviently",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/səbˈsɝviəntli/"
+  },
+  {
+    "word": "superciliously",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌsupɚˈsɪliəsli/"
+  },
+  {
+    "word": "talkatively",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈtɔkətɪvli/"
+  },
+  {
+    "word": "tastily",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈteɪstili/"
+  },
+  {
+    "word": "tawdrily",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈtɔdrili/"
+  },
+  {
+    "word": "tritely",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈtraɪtli/"
+  },
+  {
+    "word": "trustfully",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈtrʌstfəli/"
+  },
+  {
+    "word": "valorously",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "venally",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "vitriolically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌvɪtriˈɑlɪkəli/"
+  },
+  {
+    "word": "voyeuristically",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌvwɑjɚˈɪstɪkəli/"
+  },
+  {
+    "word": "weightily",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈweɪtili/"
+  },
+  {
+    "word": "wheezingly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈwizɪŋli/"
+  },
+  {
+    "word": "yearningly",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈjɝnɪŋli/"
+  },
+  {
+    "word": "zestily",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "benefice",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "benefices"
+    ],
+    "stored": [
+      "benefices"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "beryl",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈbɛrəl/"
+  },
+  {
+    "word": "rapporteur",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "rapporteurs"
+    ],
+    "stored": [
+      "rapporteurs"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌræpɔrˈtɝ/"
+  },
+  {
+    "word": "fricassee",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌfrɪkəˈsi/"
+  },
+  {
+    "word": "fortissimo",
+    "partOfSpeech": "adverb",
+    "formPolicy": "d",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/fɔrˈtɪsɪˌmoʊ/"
+  },
+  {
+    "word": "pygmy",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "pygmies"
+    ],
+    "stored": [
+      "pygmies"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈpɪɡmi/"
+  },
+  {
+    "word": "marquise",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "marquises"
+    ],
+    "stored": [
+      "marquises"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/mɑrˈkiz/"
+  },
+  {
+    "word": "bitters",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈbɪtɚz/"
+  },
+  {
+    "word": "rounders",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈraʊndɚz/"
+  },
+  {
+    "word": "saree",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "sarees"
+    ],
+    "stored": [
+      "sarees"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈsɑri/"
+  },
+  {
+    "word": "changeling",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "changelings"
+    ],
+    "stored": [
+      "changelings"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈtʃeɪndʒlɪŋ/"
+  },
+  {
+    "word": "contrabass",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "contrabasses"
+    ],
+    "stored": [
+      "contrabasses"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkɑntrəˌbeɪs/"
+  },
+  {
+    "word": "gramma",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "grammas"
+    ],
+    "stored": [
+      "grammas"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɡræmə/"
+  },
+  {
+    "word": "zakat",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/zəˈkɑt/"
+  },
+  {
+    "word": "satsuma",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "satsumas"
+    ],
+    "stored": [
+      "satsumas"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˌsætˈsumə/"
+  },
+  {
+    "word": "tosser",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "tossers"
+    ],
+    "stored": [
+      "tossers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈtɔsɚ/"
+  },
+  {
+    "word": "orientalist",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "orientalists"
+    ],
+    "stored": [
+      "orientalists"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "tyro",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "tyros"
+    ],
+    "stored": [
+      "tyros"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈtaɪroʊ/"
+  },
+  {
+    "word": "homunculus",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "homunculi",
+      "homunculuses"
+    ],
+    "stored": [
+      "homunculi",
+      "homunculuses"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/hoʊˈmʌŋkjələs/"
+  },
+  {
+    "word": "ilium",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "ilia"
+    ],
+    "stored": [
+      "ilia"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɪliəm/"
+  },
+  {
+    "word": "effendi",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "effendis"
+    ],
+    "stored": [
+      "effendis"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "fakir",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "fakirs"
+    ],
+    "stored": [
+      "fakirs"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "rookery",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "rookeries"
+    ],
+    "stored": [
+      "rookeries"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈrʊkɚi/"
+  },
+  {
+    "word": "syndicalist",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "syndicalists"
+    ],
+    "stored": [
+      "syndicalists"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "centroid",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "centroids"
+    ],
+    "stored": [
+      "centroids"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "hajji",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "hajjis"
+    ],
+    "stored": [
+      "hajjis"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "agnate",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "agnates"
+    ],
+    "stored": [
+      "agnates"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "sundries",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈsʌndriz/"
+  },
+  {
+    "word": "poltroon",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "poltroons"
+    ],
+    "stored": [
+      "poltroons"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "licentiate",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "licentiates"
+    ],
+    "stored": [
+      "licentiates"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "swashbuckler",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "swashbucklers"
+    ],
+    "stored": [
+      "swashbucklers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈswɑʃˌbʌklɚ/"
+  },
+  {
+    "word": "constitutionalist",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "constitutionalists"
+    ],
+    "stored": [
+      "constitutionalists"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "literalism",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈlɪtɚəlˌɪzəm/"
+  },
+  {
+    "word": "temporality",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "banns",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "poetess",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "poetesses"
+    ],
+    "stored": [
+      "poetesses"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈpoʊətəs/"
+  },
+  {
+    "word": "scholasticism",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "tetralogy",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "tetralogies"
+    ],
+    "stored": [
+      "tetralogies"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "novation",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/noʊˈveɪʃən/"
+  },
+  {
+    "word": "overestimation",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌoʊvɚˌɛstəˈmeɪʃən/"
+  },
+  {
+    "word": "picador",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "picadors"
+    ],
+    "stored": [
+      "picadors"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "synecdoche",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "wretchedness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈrɛtʃɪdnəs/"
+  },
+  {
+    "word": "exactness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ɪɡˈzæktnəs/"
+  },
+  {
+    "word": "conurbation",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "conurbations"
+    ],
+    "stored": [
+      "conurbations"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌkɑnɚˈbeɪʃən/"
+  },
+  {
+    "word": "consanguinity",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌkɑnsæŋˈɡwɪnəti/"
+  },
+  {
+    "word": "kiloton",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "kilotons"
+    ],
+    "stored": [
+      "kilotons"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkɪləˌtʌn/"
+  },
+  {
+    "word": "visualizer",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "visualizers"
+    ],
+    "stored": [
+      "visualizers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "decoupage",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌdeɪkuˈpɑʒ/"
+  },
+  {
+    "word": "dingbat",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "dingbats"
+    ],
+    "stored": [
+      "dingbats"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈdɪŋˌbæt/"
+  },
+  {
+    "word": "flautist",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "flautists"
+    ],
+    "stored": [
+      "flautists"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈflaʊtɪst/"
+  },
+  {
+    "word": "straightness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈstreɪtnəs/"
+  },
+  {
+    "word": "counterargument",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "counterarguments"
+    ],
+    "stored": [
+      "counterarguments"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkaʊntɚˌɑrɡjəmənt/"
+  },
+  {
+    "word": "dampener",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "dampeners"
+    ],
+    "stored": [
+      "dampeners"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈdæmpənɚ/"
+  },
+  {
+    "word": "ducat",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "ducats"
+    ],
+    "stored": [
+      "ducats"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈdʌkət/"
+  },
+  {
+    "word": "ileum",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "ilea"
+    ],
+    "stored": [
+      "ilea"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɪliəm/"
+  },
+  {
+    "word": "mayoress",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "mayoresses"
+    ],
+    "stored": [
+      "mayoresses"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmeɪɚəs/"
+  },
+  {
+    "word": "verticality",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌvɝtɪˈkæləti/"
+  },
+  {
+    "word": "atomization",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌætəməˈzeɪʃən/"
+  },
+  {
+    "word": "diptych",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "diptychs"
+    ],
+    "stored": [
+      "diptychs"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈdɪptɪk/"
+  },
+  {
+    "word": "donee",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "donees"
+    ],
+    "stored": [
+      "donees"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/doʊˈni/"
+  },
+  {
+    "word": "gigahertz",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "gigahertz"
+    ],
+    "stored": [],
+    "excluded": [
+      "gigahertz"
+    ],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɡɪɡəˌhɝts/"
+  },
+  {
+    "word": "hexagram",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "hexagrams"
+    ],
+    "stored": [
+      "hexagrams"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈhɛksəˌɡræm/"
+  },
+  {
+    "word": "oddness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɑdnəs/"
+  },
+  {
+    "word": "pronation",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "simultaneity",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌsaɪməlˈteɪniəti/"
+  },
+  {
+    "word": "stomatitis",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "terpene",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "terpenes"
+    ],
+    "stored": [
+      "terpenes"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "souvlaki",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/suˈvlɑki/"
+  },
+  {
+    "word": "tsarina",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "tsarinas"
+    ],
+    "stored": [
+      "tsarinas"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/zɑˈrinə/"
+  },
+  {
+    "word": "vacuole",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "vacuoles"
+    ],
+    "stored": [
+      "vacuoles"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "grapheme",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "graphemes"
+    ],
+    "stored": [
+      "graphemes"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "hypermedia",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "phial",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "phials"
+    ],
+    "stored": [
+      "phials"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "pointlessness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈpɔɪntləsnəs/"
+  },
+  {
+    "word": "psycholinguistics",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "rentier",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "rentiers"
+    ],
+    "stored": [
+      "rentiers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/rɑnˈtjeɪ/"
+  },
+  {
+    "word": "scaler",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "scalers"
+    ],
+    "stored": [
+      "scalers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "semitone",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "semitones"
+    ],
+    "stored": [
+      "semitones"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "subrogation",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌsʌbroʊˈɡeɪʃən/"
+  },
+  {
+    "word": "aloneness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/əˈloʊnnəs/"
+  },
+  {
+    "word": "briquette",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "briquettes"
+    ],
+    "stored": [
+      "briquettes"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/brɪˈkɛt/"
+  },
+  {
+    "word": "elision",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ɪˈlɪʒən/"
+  },
+  {
+    "word": "entablature",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "entablatures"
+    ],
+    "stored": [
+      "entablatures"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "fugu",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈfuɡu/"
+  },
+  {
+    "word": "malamute",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "malamutes"
+    ],
+    "stored": [
+      "malamutes"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmæləˌmjut/"
+  },
+  {
+    "word": "plenitude",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈplɛnəˌtud/"
+  },
+  {
+    "word": "raita",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈraɪtə/"
+  },
+  {
+    "word": "specifier",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "specifiers"
+    ],
+    "stored": [
+      "specifiers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "transcendentalism",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "antiserum",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌæntiˈsɪrəm/"
+  },
+  {
+    "word": "conveyancer",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "conveyancers"
+    ],
+    "stored": [
+      "conveyancers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/kənˈveɪənsɚ/"
+  },
+  {
+    "word": "endoderm",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "phosgene",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈfɑsdʒin/"
+  },
+  {
+    "word": "tiler",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "tilers"
+    ],
+    "stored": [
+      "tilers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈtaɪlɚ/"
+  },
+  {
+    "word": "uncleanness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnˈklinnəs/"
+  },
+  {
+    "word": "augury",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "auguries",
+      "augury"
+    ],
+    "stored": [
+      "auguries"
+    ],
+    "excluded": [
+      "augury"
+    ],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɔɡjɚi/"
+  },
+  {
+    "word": "cockatiel",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "cockatiels"
+    ],
+    "stored": [
+      "cockatiels"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌkɑkəˈtil/"
+  },
+  {
+    "word": "curacy",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "curacies"
+    ],
+    "stored": [
+      "curacies"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "denotation",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌdinoʊˈteɪʃən/"
+  },
+  {
+    "word": "densification",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌdɛnsɪfɪˈkeɪʃən/"
+  },
+  {
+    "word": "divisibility",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/dɪˌvɪzəˈbɪləti/"
+  },
+  {
+    "word": "intercalation",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "offensiveness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/əˈfɛnsɪvnəs/"
+  },
+  {
+    "word": "protectiveness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/prəˈtɛktɪvnəs/"
+  },
+  {
+    "word": "teleology",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈtiliˌɔləˌdʒi/"
+  },
+  {
+    "word": "transitivity",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "unselfishness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnˈsɛlfɪʃnəs/"
+  },
+  {
+    "word": "viceroyalty",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "viceroyalties"
+    ],
+    "stored": [
+      "viceroyalties"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "adiposity",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "barramundi",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "barramundis"
+    ],
+    "stored": [
+      "barramundis"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "coltan",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkoʊltæn/"
+  },
+  {
+    "word": "cosmetologist",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "cosmetologists"
+    ],
+    "stored": [
+      "cosmetologists"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌkɑzməˈtɑlədʒɪst/"
+  },
+  {
+    "word": "holism",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈhoʊlɪzəm/"
+  },
+  {
+    "word": "mentalism",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmɛntəlˌɪzəm/"
+  },
+  {
+    "word": "neuritis",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/nʊˈraɪtɪs/"
+  },
+  {
+    "word": "pneumonitis",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌnuməˈnaɪtɪs/"
+  },
+  {
+    "word": "qualm",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "qualms"
+    ],
+    "stored": [
+      "qualms"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/kwɑm/"
+  },
+  {
+    "word": "repetitiveness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/rɪˈpɛtɪtɪvnəs/"
+  },
+  {
+    "word": "trapezius",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "trapezii"
+    ],
+    "stored": [
+      "trapezii"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/trəˈpiziəs/"
+  },
+  {
+    "word": "vibraphone",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "vibraphones"
+    ],
+    "stored": [
+      "vibraphones"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈvaɪbrəˌfoʊn/"
+  },
+  {
+    "word": "cadastre",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "cadastres"
+    ],
+    "stored": [
+      "cadastres"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "carbonization",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌkɑrbənəˈzeɪʃən/"
+  },
+  {
+    "word": "embalmer",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "embalmers"
+    ],
+    "stored": [
+      "embalmers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ɪmˈbɑmɚ/"
+  },
+  {
+    "word": "interposition",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌɪntɚpəˈzɪʃən/"
+  },
+  {
+    "word": "kabob",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "kabobs"
+    ],
+    "stored": [
+      "kabobs"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/kəˈbɑb/"
+  },
+  {
+    "word": "mummery",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "prothrombin",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "toreador",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "toreadors"
+    ],
+    "stored": [
+      "toreadors"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "bilberry",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "bilberries"
+    ],
+    "stored": [
+      "bilberries"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "catechist",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "catechists"
+    ],
+    "stored": [
+      "catechists"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "expositor",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "expositors"
+    ],
+    "stored": [
+      "expositors"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "individualization",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "parvo",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "plectrum",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "plectra",
+      "plectrums"
+    ],
+    "stored": [
+      "plectra",
+      "plectrums"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "quietude",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkwaɪəˌtud/"
+  },
+  {
+    "word": "straightforwardness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌstreɪtˈfɔrwɚdnəs/"
+  },
+  {
+    "word": "substring",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "substrings"
+    ],
+    "stored": [
+      "substrings"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "amenorrhea",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/əˌmɛnəˈriə/"
+  },
+  {
+    "word": "factotum",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "factotums"
+    ],
+    "stored": [
+      "factotums"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/fækˈtoʊtəm/"
+  },
+  {
+    "word": "handsomeness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈhænsəmnəs/"
+  },
+  {
+    "word": "menarche",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmɛnˌɑrki/"
+  },
+  {
+    "word": "remora",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "remoras"
+    ],
+    "stored": [
+      "remoras"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "schwa",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "schwas"
+    ],
+    "stored": [
+      "schwas"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ʃwɑ/"
+  },
+  {
+    "word": "sodomite",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "sodomites"
+    ],
+    "stored": [
+      "sodomites"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "sparsity",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈspɑrsəti/"
+  },
+  {
+    "word": "stylization",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌstaɪləˈzeɪʃən/"
+  },
+  {
+    "word": "avulsion",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/əˈvʌlʃən/"
+  },
+  {
+    "word": "conjuration",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "conjurations"
+    ],
+    "stored": [
+      "conjurations"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌkɑndʒəˈreɪʃən/"
+  },
+  {
+    "word": "dolmen",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "dolmens"
+    ],
+    "stored": [
+      "dolmens"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "dotard",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "dotards"
+    ],
+    "stored": [
+      "dotards"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈdoʊtɚd/"
+  },
+  {
+    "word": "instillation",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌɪnstəˈleɪʃən/"
+  },
+  {
+    "word": "jujube",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "jujubes",
+      "jujube"
+    ],
+    "stored": [
+      "jujubes"
+    ],
+    "excluded": [
+      "jujube"
+    ],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈdʒuˌdʒub/"
+  },
+  {
+    "word": "krait",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "kraits"
+    ],
+    "stored": [
+      "kraits"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/kraɪt/"
+  },
+  {
+    "word": "merchantability",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌmɝtʃəntəˈbɪləti/"
+  },
+  {
+    "word": "premix",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "premixes"
+    ],
+    "stored": [
+      "premixes"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈpriˌmɪks/"
+  },
+  {
+    "word": "radicchio",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/rəˈdɪkioʊ/"
+  },
+  {
+    "word": "shalwar",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "shalwars"
+    ],
+    "stored": [
+      "shalwars"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "shillelagh",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "shillelaghs"
+    ],
+    "stored": [
+      "shillelaghs"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "spittoon",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "spittoons"
+    ],
+    "stored": [
+      "spittoons"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/spɪˈtun/"
+  },
+  {
+    "word": "topicality",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌtɑpɪˈkæləti/"
+  },
+  {
+    "word": "urbanity",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ɝˈbænəti/"
+  },
+  {
+    "word": "embolus",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "emboli"
+    ],
+    "stored": [
+      "emboli"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɛmbələs/"
+  },
+  {
+    "word": "mazurka",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "mazurkas"
+    ],
+    "stored": [
+      "mazurkas"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "obliviousness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/əˈblɪviəsnəs/"
+  },
+  {
+    "word": "stye",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "styes"
+    ],
+    "stored": [
+      "styes"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/staɪ/"
+  },
+  {
+    "word": "dinette",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "dinettes"
+    ],
+    "stored": [
+      "dinettes"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/daɪˈnɛt/"
+  },
+  {
+    "word": "haunch",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "haunches"
+    ],
+    "stored": [
+      "haunches"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/hɔntʃ/"
+  },
+  {
+    "word": "horniness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈhɔrninəs/"
+  },
+  {
+    "word": "isopropanol",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌaɪsoʊˈproʊpəˌnɔl/"
+  },
+  {
+    "word": "minyan",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "minyans"
+    ],
+    "stored": [
+      "minyans"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "paddler",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "paddlers"
+    ],
+    "stored": [
+      "paddlers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈpædlɚ/"
+  },
+  {
+    "word": "portraitist",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "portraitists"
+    ],
+    "stored": [
+      "portraitists"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈpɔrtrətɪst/"
+  },
+  {
+    "word": "purism",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈpjʊrɪzəm/"
+  },
+  {
+    "word": "respecter",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "respecters"
+    ],
+    "stored": [
+      "respecters"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "rockery",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "rockeries"
+    ],
+    "stored": [
+      "rockeries"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈrɑkɚi/"
+  },
+  {
+    "word": "adventuress",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "adventuresses"
+    ],
+    "stored": [
+      "adventuresses"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "conciseness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/kənˈsaɪsnəs/"
+  },
+  {
+    "word": "coverlet",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "coverlets"
+    ],
+    "stored": [
+      "coverlets"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkʌvɚlət/"
+  },
+  {
+    "word": "emolument",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "emoluments"
+    ],
+    "stored": [
+      "emoluments"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ɪˈmɑljəmənt/"
+  },
+  {
+    "word": "falseness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈfɔlsnəs/"
+  },
+  {
+    "word": "quango",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "quangos"
+    ],
+    "stored": [
+      "quangos"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkwæŋɡoʊ/"
+  },
+  {
+    "word": "spermicide",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈspɝməˌsaɪd/"
+  },
+  {
+    "word": "teratoma",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "teratomas"
+    ],
+    "stored": [
+      "teratomas"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌtɛrəˈtoʊmə/"
+  },
+  {
+    "word": "twofer",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "twofers"
+    ],
+    "stored": [
+      "twofers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈtufɚ/"
+  },
+  {
+    "word": "unreason",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnˈrizən/"
+  },
+  {
+    "word": "biltong",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈbɪlˌtɔŋ/"
+  },
+  {
+    "word": "byre",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "byres"
+    ],
+    "stored": [
+      "byres"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "chorea",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "dissimulation",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/dɪˌsɪmjəˈleɪʃən/"
+  },
+  {
+    "word": "floozy",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "floozies"
+    ],
+    "stored": [
+      "floozies"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈfluzi/"
+  },
+  {
+    "word": "neoconservatism",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌnioʊkənˈsɝvəˌtɪzəm/"
+  },
+  {
+    "word": "paraprofessional",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "paraprofessionals"
+    ],
+    "stored": [
+      "paraprofessionals"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌpærəprəˈfɛʃənəl/"
+  },
+  {
+    "word": "remonstrance",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "remonstrances",
+      "remonstrance"
+    ],
+    "stored": [
+      "remonstrances"
+    ],
+    "excluded": [
+      "remonstrance"
+    ],
+    "pronunciationResource": "manual",
+    "ipa": "/rɪˈmɑnstrəns/"
+  },
+  {
+    "word": "samizdat",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈsɑmɪzˌdɑt/"
+  },
+  {
+    "word": "sentimentalist",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "sentimentalists"
+    ],
+    "stored": [
+      "sentimentalists"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌsɛntəˈmɛntəlɪst/"
+  },
+  {
+    "word": "slickness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈslɪknəs/"
+  },
+  {
+    "word": "bafflement",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈbæfəlmənt/"
+  },
+  {
+    "word": "conformism",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/kənˈfɔrmɪzəm/"
+  },
+  {
+    "word": "discriminator",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "discriminators"
+    ],
+    "stored": [
+      "discriminators"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/dɪˈskrɪməˌneɪtɚ/"
+  },
+  {
+    "word": "exclusiveness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ɪkˈsklusɪvnəs/"
+  },
+  {
+    "word": "fontanelle",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "fontanelles"
+    ],
+    "stored": [
+      "fontanelles"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌfɑntəˈnɛl/"
+  },
+  {
+    "word": "religiousness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/rɪˈlɪdʒəsnəs/"
+  },
+  {
+    "word": "codger",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "codgers"
+    ],
+    "stored": [
+      "codgers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkɑdʒɚ/"
+  },
+  {
+    "word": "diopter",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "diopters"
+    ],
+    "stored": [
+      "diopters"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/daɪˈɑptɚ/"
+  },
+  {
+    "word": "quintillion",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "quintillions"
+    ],
+    "stored": [
+      "quintillions"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "apposition",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌæpəˈzɪʃən/"
+  },
+  {
+    "word": "arteritis",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "contiguity",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌkɑntɪˈɡjuəti/"
+  },
+  {
+    "word": "curettage",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "hemangioma",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "hemangiomas"
+    ],
+    "stored": [
+      "hemangiomas"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "kyphosis",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "laminectomy",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "laminectomies"
+    ],
+    "stored": [
+      "laminectomies"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "mesosphere",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmɛzoʊˌsfɪr/"
+  },
+  {
+    "word": "monarchism",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmɑnɚˌkɪzəm/"
+  },
+  {
+    "word": "photophobia",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌfoʊtoʊˈfoʊbiə/"
+  },
+  {
+    "word": "pillock",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "pillocks"
+    ],
+    "stored": [
+      "pillocks"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈpɪlək/"
+  },
+  {
+    "word": "pointillism",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "proprietress",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "proprietresses"
+    ],
+    "stored": [
+      "proprietresses"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/prəˈpraɪətrəs/"
+  },
+  {
+    "word": "seaworthiness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈsiˌwɔrðinəs/"
+  },
+  {
+    "word": "smegma",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈsmɛɡmə/"
+  },
+  {
+    "word": "abruption",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "brooder",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "brooders"
+    ],
+    "stored": [
+      "brooders"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈbrudɚ/"
+  },
+  {
+    "word": "effacement",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ɪˈfeɪsmənt/"
+  },
+  {
+    "word": "mucilage",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "pharyngitis",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌfærənˈdʒaɪtɪs/"
+  },
+  {
+    "word": "psychophysiology",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "stenography",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/stəˈnɑɡrəfi/"
+  },
+  {
+    "word": "vivarium",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "vivaria",
+      "vivariums"
+    ],
+    "stored": [
+      "vivaria",
+      "vivariums"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/vaɪˈvɛriəm/"
+  },
+  {
+    "word": "archduchess",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "archduchesses"
+    ],
+    "stored": [
+      "archduchesses"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɑrtʃˌdʌtʃəs/"
+  },
+  {
+    "word": "baronetcy",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "baronetcies"
+    ],
+    "stored": [
+      "baronetcies"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈbærənətsi/"
+  },
+  {
+    "word": "distinctness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/dɪˈstɪŋktnəs/"
+  },
+  {
+    "word": "exemplification",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ɪɡˌzɛmplɪfɪˈkeɪʃən/"
+  },
+  {
+    "word": "hypokalemia",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "mortgagor",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "mortgagors"
+    ],
+    "stored": [
+      "mortgagors"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌmɔrɡɪˈdʒɔr/"
+  },
+  {
+    "word": "originalism",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/əˈrɪdʒənəlˌɪzəm/"
+  },
+  {
+    "word": "pureness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "senselessness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈsɛnsləsnəs/"
+  },
+  {
+    "word": "tontine",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "tontines"
+    ],
+    "stored": [
+      "tontines"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "trichotillomania",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "wastrel",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "wastrels"
+    ],
+    "stored": [
+      "wastrels"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈweɪstrəl/"
+  },
+  {
+    "word": "deceitfulness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/dəˈsitfəlnəs/"
+  },
+  {
+    "word": "emancipator",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "emancipators"
+    ],
+    "stored": [
+      "emancipators"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ɪˈmænsəˌpeɪtɚ/"
+  },
+  {
+    "word": "expansiveness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ɪkˈspænsɪvnəs/"
+  },
+  {
+    "word": "griot",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "griots"
+    ],
+    "stored": [
+      "griots"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "munificence",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/mjuˈnɪfəsəns/"
+  },
+  {
+    "word": "paresthesia",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌpærəsˈθiʒə/"
+  },
+  {
+    "word": "paroxysm",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "paroxysms"
+    ],
+    "stored": [
+      "paroxysms"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈpærəkˌsɪzəm/"
+  },
+  {
+    "word": "theodolite",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "theodolites"
+    ],
+    "stored": [
+      "theodolites"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/θiˈɑdəˌlaɪt/"
+  },
+  {
+    "word": "witticism",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "witticisms"
+    ],
+    "stored": [
+      "witticisms"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈwɪtəˌsɪzəm/"
+  },
+  {
+    "word": "dirtiness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈdɝtinəs/"
+  },
+  {
+    "word": "fossilization",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌfɑsələˈzeɪʃən/"
+  },
+  {
+    "word": "innovativeness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɪnəˌveɪtɪvnəs/"
+  },
+  {
+    "word": "myalgia",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/maɪˈældʒiə/"
+  },
+  {
+    "word": "upholder",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "upholders"
+    ],
+    "stored": [
+      "upholders"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌpˈhoʊldɚ/"
+  },
+  {
+    "word": "deponent",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "deponents"
+    ],
+    "stored": [
+      "deponents"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/dɪˈpoʊnənt/"
+  },
+  {
+    "word": "grumpiness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɡrʌmpinəs/"
+  },
+  {
+    "word": "homeopath",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "homeopaths"
+    ],
+    "stored": [
+      "homeopaths"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈhoʊmioʊˌpæθ/"
+  },
+  {
+    "word": "melena",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "personalty",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "trollop",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "trollops"
+    ],
+    "stored": [
+      "trollops"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈtrɑləp/"
+  },
+  {
+    "word": "undulation",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌʌndʒəˈleɪʃən/"
+  },
+  {
+    "word": "carnality",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/kɑrˈnæləti/"
+  },
+  {
+    "word": "didactics",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "dirndl",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "dirndls"
+    ],
+    "stored": [
+      "dirndls"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "doohickey",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "doohickeys"
+    ],
+    "stored": [
+      "doohickeys"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈduˌhɪki/"
+  },
+  {
+    "word": "educationalist",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "educationalists"
+    ],
+    "stored": [
+      "educationalists"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌɛdʒəˈkeɪʃənəlɪst/"
+  },
+  {
+    "word": "hyperextension",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌhaɪpɚɪkˈstɛnʃən/"
+  },
+  {
+    "word": "neocolonialism",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌnioʊkəˈloʊniəˌlɪzəm/"
+  },
+  {
+    "word": "salver",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "salvers"
+    ],
+    "stored": [
+      "salvers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈsælvɚ/"
+  },
+  {
+    "word": "subconsciousness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "typographer",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "typographers"
+    ],
+    "stored": [
+      "typographers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/taɪˈpɑɡrəfɚ/"
+  },
+  {
+    "word": "filthiness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈfɪlθinəs/"
+  },
+  {
+    "word": "likeliness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈlaɪklinəs/"
+  },
+  {
+    "word": "reinforcer",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "reinforcers"
+    ],
+    "stored": [
+      "reinforcers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "seraglio",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "seraglios"
+    ],
+    "stored": [
+      "seraglios"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/səˈræljoʊ/"
+  },
+  {
+    "word": "crudity",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkrudəti/"
+  },
+  {
+    "word": "finiteness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "galangal",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "pictograph",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "pictographs"
+    ],
+    "stored": [
+      "pictographs"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈpɪktoʊˌɡræf/"
+  },
+  {
+    "word": "sexpot",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "sexpots"
+    ],
+    "stored": [
+      "sexpots"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈsɛksˌpɑt/"
+  },
+  {
+    "word": "succotash",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "vaginitis",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌvædʒəˈnaɪtɪs/"
+  },
+  {
+    "word": "dadaism",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "defroster",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "defrosters"
+    ],
+    "stored": [
+      "defrosters"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/diˈfrɔstɚ/"
+  },
+  {
+    "word": "irreversibility",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌɪrɪvɝsəˈbɪləti/"
+  },
+  {
+    "word": "overexertion",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌoʊvɚɪɡˈzɝʃən/"
+  },
+  {
+    "word": "supremacism",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/suˈprɛməsɪzəm/"
+  },
+  {
+    "word": "boutonniere",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "boutonnieres"
+    ],
+    "stored": [
+      "boutonnieres"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌbutənˈɪr/"
+  },
+  {
+    "word": "bunkum",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈbʌŋkəm/"
+  },
+  {
+    "word": "chador",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "chadors"
+    ],
+    "stored": [
+      "chadors"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈtʃʌdɚ/"
+  },
+  {
+    "word": "cryptogram",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "cryptograms"
+    ],
+    "stored": [
+      "cryptograms"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈkrɪptəˌɡræm/"
+  },
+  {
+    "word": "deviousness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈdiviəsnəs/"
+  },
+  {
+    "word": "doubloon",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "doubloons"
+    ],
+    "stored": [
+      "doubloons"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/dəˈblun/"
+  },
+  {
+    "word": "eaglet",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "eaglets"
+    ],
+    "stored": [
+      "eaglets"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈiɡlət/"
+  },
+  {
+    "word": "entailment",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "leanness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈlinnəs/"
+  },
+  {
+    "word": "matricide",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "matricide",
+      "matricides"
+    ],
+    "stored": [
+      "matricides"
+    ],
+    "excluded": [
+      "matricide"
+    ],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmætrəˌsaɪd/"
+  },
+  {
+    "word": "mikvah",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "mikvahs"
+    ],
+    "stored": [
+      "mikvahs"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmɪkvə/"
+  },
+  {
+    "word": "nacre",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "xenograft",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "xenografts"
+    ],
+    "stored": [
+      "xenografts"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "inadmissibility",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "stuffiness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈstʌfinəs/"
+  },
+  {
+    "word": "alpinist",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "alpinists"
+    ],
+    "stored": [
+      "alpinists"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈælpənɪst/"
+  },
+  {
+    "word": "benefaction",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "benefactions",
+      "benefaction"
+    ],
+    "stored": [
+      "benefactions"
+    ],
+    "excluded": [
+      "benefaction"
+    ],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌbɛnəˈfækʃən/"
+  },
+  {
+    "word": "blurriness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈblɝinəs/"
+  },
+  {
+    "word": "borzoi",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "borzois"
+    ],
+    "stored": [
+      "borzois"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈbɔrzɔɪ/"
+  },
+  {
+    "word": "dispassion",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/dɪsˈpæʃən/"
+  },
+  {
+    "word": "inattentiveness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌɪnəˈtɛntɪvnəs/"
+  },
+  {
+    "word": "obscurantism",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/əbˈskjʊrəntɪzəm/"
+  },
+  {
+    "word": "unresponsiveness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ʌnrɪˈspɑnsɪvnəs/"
+  },
+  {
+    "word": "anchorite",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "anchorites"
+    ],
+    "stored": [
+      "anchorites"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈæŋkəˌraɪt/"
+  },
+  {
+    "word": "communicant",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "communicants"
+    ],
+    "stored": [
+      "communicants"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/kəˈmjunɪkənt/"
+  },
+  {
+    "word": "connoisseurship",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌkɑnəˈsɝʃɪp/"
+  },
+  {
+    "word": "denazification",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/diˌnɑtsɪfɪˈkeɪʃən/"
+  },
+  {
+    "word": "gavage",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "illuminance",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "lycanthrope",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "lycanthropes"
+    ],
+    "stored": [
+      "lycanthropes"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈlaɪkənˌθroʊp/"
+  },
+  {
+    "word": "measurer",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "measurers"
+    ],
+    "stored": [
+      "measurers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmɛʒɚɚ/"
+  },
+  {
+    "word": "purgation",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "ramekin",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "ramekins"
+    ],
+    "stored": [
+      "ramekins"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈræməkɪn/"
+  },
+  {
+    "word": "redactor",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "redactors"
+    ],
+    "stored": [
+      "redactors"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/rɪˈdæktɚ/"
+  },
+  {
+    "word": "tragedian",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "tragedians"
+    ],
+    "stored": [
+      "tragedians"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/trəˈdʒidiən/"
+  },
+  {
+    "word": "deciliter",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "deciliters"
+    ],
+    "stored": [
+      "deciliters"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈdɛsəˌlitɚ/"
+  },
+  {
+    "word": "intestacy",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ɪnˈtɛstəsi/"
+  },
+  {
+    "word": "kilobyte",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "kilobytes"
+    ],
+    "stored": [
+      "kilobytes"
+    ],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/ˈkɪloʊˌbaɪt/"
+  },
+  {
+    "word": "lushness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈlʌʃnəs/"
+  },
+  {
+    "word": "plunderer",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "plunderers"
+    ],
+    "stored": [
+      "plunderers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈplʌndɚɚ/"
+  },
+  {
+    "word": "tardigrade",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "tardigrades"
+    ],
+    "stored": [
+      "tardigrades"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈtɑrdiˌɡreɪd/"
+  },
+  {
+    "word": "warmness",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈwɔrmnəs/"
+  },
+  {
+    "word": "arrack",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈærək/"
+  },
+  {
+    "word": "gelignite",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈdʒɛlɪɡˌnaɪt/"
+  },
+  {
+    "word": "hymnody",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "CMU",
+    "ipa": "/REVIEW/"
+  },
+  {
+    "word": "monotheist",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "monotheists"
+    ],
+    "stored": [
+      "monotheists"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmɑnəˌθiɪst/"
+  },
+  {
+    "word": "nymphomania",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˌnɪmfoʊˈmeɪniə/"
+  },
+  {
+    "word": "sketcher",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "sketchers"
+    ],
+    "stored": [
+      "sketchers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈskɛtʃɚ/"
+  },
+  {
+    "word": "roughhouse",
+    "partOfSpeech": "verb",
+    "formPolicy": "v",
+    "proposed": [
+      "roughhouses",
+      "roughhoused",
+      "roughhousing"
+    ],
+    "stored": [
+      "roughhouses",
+      "roughhoused",
+      "roughhousing"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈrʌfˌhaʊs/"
+  },
+  {
+    "word": "housebreak",
+    "partOfSpeech": "verb",
+    "formPolicy": "v",
+    "proposed": [
+      "housebreaks",
+      "housebroke",
+      "housebroken",
+      "housebreaking"
+    ],
+    "stored": [
+      "housebreaks",
+      "housebroke",
+      "housebreaking"
+    ],
+    "excluded": [
+      "housebroken"
+    ],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈhaʊsˌbreɪk/"
+  },
+  {
+    "word": "jackknife",
+    "partOfSpeech": "verb",
+    "formPolicy": "v",
+    "proposed": [
+      "jackknifes",
+      "jackknifed",
+      "jackknifing"
+    ],
+    "stored": [
+      "jackknifes",
+      "jackknifed",
+      "jackknifing"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈdʒækˌnaɪf/"
+  },
+  {
+    "word": "bonehead",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "boneheads"
+    ],
+    "stored": [
+      "boneheads"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈboʊnˌhɛd/"
+  },
+  {
+    "word": "fuckhead",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "fuckheads"
+    ],
+    "stored": [
+      "fuckheads"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈfʌkˌhɛd/"
+  },
+  {
+    "word": "tearaway",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "tearaways"
+    ],
+    "stored": [
+      "tearaways"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈtɛrəˌweɪ/"
+  },
+  {
+    "word": "knockabout",
+    "partOfSpeech": "adjective",
+    "formPolicy": "a",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈnɑkəˌbaʊt/"
+  },
+  {
+    "word": "pallbearer",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "pallbearers"
+    ],
+    "stored": [
+      "pallbearers"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈpɔlˌbɛrɚ/"
+  },
+  {
+    "word": "schoolmistress",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "schoolmistresses"
+    ],
+    "stored": [
+      "schoolmistresses"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈskulˌmɪstrəs/"
+  },
+  {
+    "word": "nightspot",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "nightspots"
+    ],
+    "stored": [
+      "nightspots"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈnaɪtˌspɑt/"
+  },
+  {
+    "word": "eyewash",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈaɪˌwɑʃ/"
+  },
+  {
+    "word": "leaseholder",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "leaseholders"
+    ],
+    "stored": [
+      "leaseholders"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈlisˌhoʊldɚ/"
+  },
+  {
+    "word": "highchair",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "highchairs"
+    ],
+    "stored": [
+      "highchairs"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈhaɪˌtʃɛr/"
+  },
+  {
+    "word": "weedkiller",
+    "partOfSpeech": "noun",
+    "formPolicy": "m",
+    "proposed": [],
+    "stored": [],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈwidˌkɪlɚ/"
+  },
+  {
+    "word": "headstand",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "headstands"
+    ],
+    "stored": [
+      "headstands"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈhɛdˌstænd/"
+  },
+  {
+    "word": "gumdrop",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "gumdrops"
+    ],
+    "stored": [
+      "gumdrops"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈɡʌmˌdrɑp/"
+  },
+  {
+    "word": "moonshiner",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "moonshiners"
+    ],
+    "stored": [
+      "moonshiners"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈmunˌʃaɪnɚ/"
+  },
+  {
+    "word": "shopfront",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "shopfronts"
+    ],
+    "stored": [
+      "shopfronts"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈʃɑpˌfrʌnt/"
+  },
+  {
+    "word": "horsefly",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "horseflies"
+    ],
+    "stored": [
+      "horseflies"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈhɔrsˌflaɪ/"
+  },
+  {
+    "word": "popgun",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "popguns"
+    ],
+    "stored": [
+      "popguns"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈpɑpˌɡʌn/"
+  },
+  {
+    "word": "snuffbox",
+    "partOfSpeech": "noun",
+    "formPolicy": "n",
+    "proposed": [
+      "snuffboxes"
+    ],
+    "stored": [
+      "snuffboxes"
+    ],
+    "excluded": [],
+    "pronunciationResource": "manual",
+    "ipa": "/ˈsnʌfˌbɑks/"
+  }
+]

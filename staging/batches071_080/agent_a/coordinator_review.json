@@ -1,0 +1,242 @@
+{
+  "reviewedFile": "staging/batches071_080/coordinator/selected_entries.json",
+  "reviewedEntries": 268,
+  "reviewedOn": "2026-10-07",
+  "scope": "Read every entry for Burmese sense/naturalness, subtitle utility, GA IPA and explicit forms. No coordinator files modified.",
+  "summary": "One clear IPA correction (pascal), one useful missing/wrong sense replacement (smacker), several Burmese wording/precision improvements, and one capitalized-headword policy flag. Explicit inflections otherwise look correct; current dictionaries support several initially suspicious IPA variants.",
+  "corrections": [
+    {
+      "word": "pascal",
+      "field": "pronunciation",
+      "priority": "required",
+      "action": "replace",
+      "proposed": "/pæsˈkæl/",
+      "reason": "Current Cambridge US, Merriam-Webster and Collins American entries give final stress and unreduced /æ/ for the pressure unit as well as the namesake. Collins does list /ˈpæskəl/ at lines 317–329, explicitly under 'pascal in British English'; this explains the existing choice but does not support it as GA. Use the contemporary US /pæsˈkæl/.",
+      "sourceUrls": [
+        "https://dictionary.cambridge.org/us/dictionary/english/pascal",
+        "https://www.merriam-webster.com/dictionary/pascal",
+        "https://www.collinsdictionary.com/us/dictionary/english/pascal"
+      ]
+    },
+    {
+      "word": "smacker",
+      "field": "meanings[0].burmese",
+      "priority": "recommended",
+      "action": "replace",
+      "proposed": [
+        "အသံမြည်အောင် နမ်းသည့်အနမ်း",
+        "ဒေါ်လာတစ်ဒေါ်လာ သို့မဟုတ် ပေါင်တစ်ပေါင်"
+      ],
+      "reason": "The money sense is immediately useful in dialogue about prices ('50 smackers'). The stored second gloss means a strong punch, but the checked current entries principally define loud kiss, mouth/lips, and a dollar/pound; replacing the punch gloss with money is better supported and more useful.",
+      "sourceUrls": [
+        "https://dictionary.cambridge.org/us/dictionary/english/smacker",
+        "https://www.collinsdictionary.com/us/dictionary/english/smacker"
+      ]
+    },
+    {
+      "word": "kafkaesque",
+      "field": "word",
+      "priority": "policy_review",
+      "action": "hold or reject unless lowercase canonical spelling is independently established",
+      "reason": "Both current Collins and Cambridge display Kafkaesque with capital K. Its meaning and GA IPA are correct, but it is a capitalized eponymous adjective; silently normalizing this to lowercase is questionable under the canonical lowercase/no-proper-name dataset policy. This is a spelling-policy concern, not a claim that the adjective is invalid English.",
+      "sourceUrls": [
+        "https://www.collinsdictionary.com/us/dictionary/english/kafkaesque",
+        "https://dictionary.cambridge.org/us/dictionary/english/kafkaesque?q=Kafkaesque"
+      ]
+    },
+    {
+      "word": "deftness",
+      "field": "meanings[0].burmese",
+      "priority": "recommended",
+      "action": "replace",
+      "proposed": [
+        "ကျွမ်းကျင်သွက်လက်မှု"
+      ],
+      "reason": "The current phrase combines an adverbial စွာ with a nominal ကျွမ်းကျင်မှု awkwardly. The proposed short Burmese noun phrase directly captures skilful dexterity.",
+      "sourceUrls": []
+    },
+    {
+      "word": "elicitation",
+      "field": "meanings[0].burmese",
+      "priority": "recommended",
+      "action": "replace",
+      "proposed": [
+        "မေးမြန်း၍ အချက်အလက်ရယူခြင်း"
+      ],
+      "reason": "The current မေးမြန်းသိရှိအောင်အချက်အလက်ထုတ်ယူခြင်း is cumbersome and syntactically awkward. This preserves the selected information-gathering sense naturally.",
+      "sourceUrls": []
+    },
+    {
+      "word": "dissuasion",
+      "field": "meanings[0].burmese",
+      "priority": "recommended",
+      "action": "replace",
+      "proposed": [
+        "မလုပ်ရန် နားချတားဆီးခြင်း"
+      ],
+      "reason": "A more direct conversational Burmese rendering; avoids the awkward ဖျောင်းဖျ wording and retains persuasion against action.",
+      "sourceUrls": []
+    },
+    {
+      "word": "lollygag",
+      "field": "meanings[0].burmese",
+      "priority": "recommended",
+      "action": "replace",
+      "proposed": [
+        "အလုပ်မလုပ်ဘဲ အချိန်ဖြုန်းနေသည်"
+      ],
+      "reason": "ပေကပ်နေသည် can suggest obstinate refusal. The replacement directly conveys idling/dawdling and remains concise.",
+      "sourceUrls": []
+    },
+    {
+      "word": "linocut",
+      "field": "meanings[0].burmese",
+      "priority": "recommended",
+      "action": "replace",
+      "proposed": [
+        "လင်နိုလီယမ် အခင်းပြားပေါ် ပုံထွင်း၍ ရိုက်နှိပ်ထားသည့်ပန်းချီ"
+      ],
+      "reason": "The existing generic အခင်းပြား omits the defining linoleum material and could suggest carving a floorboard. Current dictionaries distinguish the linoleum block/design or print; the selected print sense should preserve that distinction.",
+      "sourceUrls": [
+        "https://www.collinsdictionary.com/us/dictionary/english/linocut",
+        "https://dictionary.cambridge.org/us/dictionary/english/linocut?topic=painting-drawing-and-printing"
+      ]
+    },
+    {
+      "word": "vacuity",
+      "field": "meanings[0].burmese",
+      "priority": "recommended",
+      "action": "replace",
+      "proposed": [
+        "ဗလာဖြစ်နေခြင်း",
+        "အတွေးအခေါ်အနှစ်သာရ ကင်းမဲ့ခြင်း"
+      ],
+      "reason": "လွတ်ဟာနေခြင်း is unnatural Burmese; ဗလာဖြစ်နေခြင်း is immediately understandable and preserves the emptiness sense.",
+      "sourceUrls": []
+    },
+    {
+      "word": "revivalism",
+      "field": "meanings[0].burmese",
+      "priority": "optional precision",
+      "action": "split the current combined gloss into two concise senses",
+      "proposed": [
+        "ဘာသာရေးယုံကြည်မှု ပြန်လည်တက်ကြွလာအောင် လှုံ့ဆော်ရေး",
+        "ဓလေ့ဟောင်းများ ပြန်လည်ရှင်သန်လာစေရန် ကြိုးပမ်းမှု"
+      ],
+      "reason": "The current combined 'ယုံကြည်မှုသို့မဟုတ်ဓလေ့' is broadly right but leaves the principal religious sense unclear. Current Collins distinguishes religious revival activity from restoring older customs/styles.",
+      "sourceUrls": [
+        "https://www.collinsdictionary.com/us/dictionary/english/revivalism"
+      ]
+    },
+    {
+      "word": "amblyopia",
+      "field": "meanings[0].burmese",
+      "priority": "optional precision",
+      "action": "remove the absolute one-eye restriction",
+      "proposed": [
+        "အမြင်ဖွံ့ဖြိုးမှု မပြည့်စုံ၍ မျက်စိမြင်အားနည်းခြင်း"
+      ],
+      "reason": "Usually one eye is affected, so the existing gloss describes the common presentation. However, AAPOS explicitly allows one or both eyes; omitting မျက်စိတစ်ဖက် avoids an unnecessary diagnostic restriction while retaining the developmental meaning.",
+      "sourceUrls": [
+        "https://www.aapos.org/glossary/amblyopia",
+        "https://dictionary.cambridge.org/us/dictionary/english/amblyopia"
+      ]
+    },
+    {
+      "word": "touchback",
+      "field": "meanings[0].burmese",
+      "priority": "recommended precision",
+      "action": "replace",
+      "proposed": [
+        "အမေရိကန်ဘောလုံးတွင် ပြိုင်ဘက်ပို့သည့်ဘောလုံး ကိုယ့်ဂိုးဧရိယာ၌ရပ်သွား၍ အမှတ်မပေးဘဲ သတ်မှတ်နေရာမှ ပြန်စရခြင်း"
+      ],
+      "reason": "Merely saying a ball 'lands in the end zone' also describes a live ball and is too broad. The dictionary sense requires the ball to be downed/dead behind the team's own goal line after the opponent put it there; the short gloss should distinguish that from simply landing.",
+      "sourceUrls": [
+        "https://www.collinsdictionary.com/us/dictionary/english/touchback"
+      ]
+    },
+    {
+      "word": "equipage",
+      "field": "selection/meanings",
+      "priority": "optional deprioritize",
+      "action": "prefer dropping if stronger subtitle candidates are available; otherwise shorten the carriage gloss",
+      "proposedIfKept": [
+        "တပ် သို့မဟုတ် ခရီးစဉ်အတွက် အသုံးအဆောင်အစုံ",
+        "မြင်းလှည်းနှင့် မြင်းကိရိယာအစုံ"
+      ],
+      "reason": "This is genuine but chiefly historical/formal vocabulary. The existing carriage gloss is cumbersome and 'support equipment' is vague. It is a weaker candidate than practical conversational entries, but not automatically invalid or wholly archaic.",
+      "sourceUrls": [
+        "https://www.collinsdictionary.com/us/dictionary/english/equipage"
+      ]
+    }
+  ],
+  "acceptedPronunciationReviews": [
+    {
+      "word": "emery",
+      "decision": "keep /ˈɛməri/",
+      "reason": "The three-syllable rhotic realization is supported; /ə+r/ and /ɚ/ are transcription alternatives here.",
+      "sourceUrls": [
+        "https://dictionary.cambridge.org/pronunciation/english/emery",
+        "https://www.collinsdictionary.com/us/dictionary/english/emery"
+      ]
+    },
+    {
+      "word": "stalagmite",
+      "decision": "keep /stəˈlæɡmaɪt/",
+      "reason": "Cambridge explicitly distinguishes US final-root stress from its UK first-syllable variant.",
+      "sourceUrls": [
+        "https://dictionary.cambridge.org/us/pronunciation/english/stalagmite"
+      ]
+    },
+    {
+      "word": "frangipane",
+      "decision": "keep /ˈfrændʒəˌpeɪn/",
+      "reason": "Collins explicitly lists this as an American pronunciation even though Cambridge selects a different US variant.",
+      "sourceUrls": [
+        "https://www.collinsdictionary.com/us/dictionary/english/frangipane"
+      ]
+    },
+    {
+      "word": "hemoptysis",
+      "decision": "keep /hɪˈmɑptəsɪs/",
+      "reason": "Collins American entry supports the reduced vowel after /pt/.",
+      "sourceUrls": [
+        "https://www.collinsdictionary.com/us/dictionary/english/hemoptysis"
+      ]
+    },
+    {
+      "word": "ruminative",
+      "decision": "keep /ˈruməˌneɪtɪv/",
+      "reason": "The American /neɪtɪv/ ending is supported; do not mechanically replace it with the British /nətɪv/ variant.",
+      "sourceUrls": [
+        "https://www.collinsdictionary.com/us/dictionary/english-pronunciations/ruminative"
+      ]
+    },
+    {
+      "word": "suzerainty",
+      "decision": "keep /ˈsuzɚɪnti/",
+      "reason": "Matches Cambridge US /ˈsuː.zɚ.ɪn.ti/.",
+      "sourceUrls": [
+        "https://dictionary.cambridge.org/us/pronunciation/english/suzerainty"
+      ]
+    },
+    {
+      "word": "ideogram",
+      "decision": "keep /ˈɪdioʊˌɡræm/",
+      "reason": "Collins American entry explicitly accepts the /oʊ/ variant; Cambridge's /ə/ variant does not invalidate it.",
+      "sourceUrls": [
+        "https://www.collinsdictionary.com/us/dictionary/english/ideogram"
+      ]
+    },
+    {
+      "word": "blancmange",
+      "decision": "keep /bləˈmɑndʒ/",
+      "reason": "Collins lists the /ndʒ/ American variant beside /nʒ/.",
+      "sourceUrls": [
+        "https://www.collinsdictionary.com/us/dictionary/english/blancmange"
+      ]
+    }
+  ],
+  "formsReview": "All 268 explicit form arrays were inspected. No concrete incorrect spelling or irregular-inflection issue found. In particular, menservants, frontiersmen, groundsmen, plainsmen, quarrymen, triggermen, perihelia, tumuli, pettifogged/pettifogging, lollygagged/lollygagging and shanghaied/shanghaiing are legitimate. Omitted oriented can be correct if it is excluded by prior ownership, so this is not a request to restore a collision.",
+  "selectionReview": "Most entries have a plausible conversation, crime, period narrative, medical or documentary use. No fabricated compounds or obviously inflected headwords were found by substantive reading. I did not blanket-reject genuine medical or historical vocabulary merely because it is uncommon; equipage is the clearest optional low-value candidate among this set."
+}

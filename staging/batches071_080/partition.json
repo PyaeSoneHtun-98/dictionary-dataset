@@ -1,0 +1,26 @@
+{
+  "rule": "int(sha256(ascii_word).hexdigest(),16) % 10",
+  "groups": {
+    "agent_a": [
+      0,
+      1,
+      2
+    ],
+    "agent_b": [
+      3,
+      4,
+      5
+    ],
+    "agent_c": [
+      6,
+      7,
+      8
+    ],
+    "coordinator": [
+      9
+    ]
+  },
+  "baselineCommit": "7be581cc925e8c097cf89efdf973b1f65a62da66",
+  "baselineLookupKeys": 54600,
+  "reviewDate": "2026-10-07"
+}

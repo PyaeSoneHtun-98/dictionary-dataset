@@ -1,0 +1,796 @@
+{
+  "authoredDrafts": 772,
+  "selected": 577,
+  "rejectedAfterDraft": [
+    {
+      "word": "matchday",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "convective",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "geotechnical",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "cryo",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "bioavailability",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "extractive",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "salicylic",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "statically",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "posteriorly",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "underused",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "biomechanical",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "pairwise",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "survivorship",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "epigenetics",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "historicity",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "phylogenetic",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "teenaged",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "unfertilized",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "unselected",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "unplaced",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "fulminant",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "uncaused",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "unremarked",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "uninfluenced",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "canonic",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "isochronous",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "stereotypic",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "hierarchic",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "wonted",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "deconstructionist",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "pointillist",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "bounden",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "rivalrous",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "precursory",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "satisfiable",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "defeasible",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "adulatory",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "commutable",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "apelike",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "supererogatory",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "braggy",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "substitutable",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "gnomish",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "platitudinous",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "expectable",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "maidenly",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "acquirable",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "expansible",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "concupiscent",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "heathenish",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "sesquipedalian",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "counteractive",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "drugless",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "numerable",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "seeable",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "gradational",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "ponderable",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "unobligated",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "inspiriting",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "unweaned",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "abeyant",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "unbraced",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "undesigned",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "unrigged",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "logarithmically",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "nohow",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "matrilineally",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "practicably",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "fulsomely",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "patrilineally",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "magisterially",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "meritoriously",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "smashingly",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "munificently",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "martially",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "alliteratively",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "befittingly",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "deprecatively",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "enterprisingly",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "feetfirst",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "individualistically",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "menially",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "nuttily",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "pacifistically",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "piquantly",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "profitlessly",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "propitiously",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "puritanically",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "repellently",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "scrappily",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "slantwise",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "slightingly",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "sobbingly",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "valorously",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "venally",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "zestily",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "benefice",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "pygmy",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "saree",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "gramma",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "orientalist",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "effendi",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "fakir",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "syndicalist",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "centroid",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "hajji",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "agnate",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "poltroon",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "licentiate",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "constitutionalist",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "temporality",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "banns",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "scholasticism",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "tetralogy",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "picador",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "synecdoche",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "visualizer",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "flautist",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "pronation",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "stomatitis",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "terpene",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "vacuole",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "grapheme",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "hypermedia",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "phial",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "psycholinguistics",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "scaler",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "semitone",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "entablature",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "specifier",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "transcendentalism",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "endoderm",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "curacy",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "intercalation",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "teleology",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "transitivity",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "viceroyalty",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "adiposity",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "barramundi",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "cadastre",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "kabob",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "mummery",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "prothrombin",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "toreador",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "bilberry",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "catechist",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "expositor",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "individualization",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "parvo",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "plectrum",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "substring",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "remora",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "sodomite",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "dolmen",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "shalwar",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "shillelagh",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "mazurka",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "minyan",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "respecter",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "adventuress",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "byre",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "chorea",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "quintillion",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "arteritis",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "curettage",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "hemangioma",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "kyphosis",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "laminectomy",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "pointillism",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "abruption",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "mucilage",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "psychophysiology",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "hypokalemia",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "pureness",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "tontine",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "trichotillomania",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "griot",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "melena",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "personalty",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "didactics",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "dirndl",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "subconsciousness",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "reinforcer",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "finiteness",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "galangal",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "succotash",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "dadaism",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "entailment",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "nacre",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "xenograft",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "inadmissibility",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "gavage",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "illuminance",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "purgation",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    },
+    {
+      "word": "hymnody",
+      "reason": "Excluded from current usable pool after subtitle usefulness and canonical-spelling review; not necessarily an invalid English word."
+    }
+  ],
+  "specificDecisions": [
+    "No assigned batch-number files were produced after the user changed the target to quality-dependent aggregation.",
+    "Excluded gramma, saree, flautist and kabob as low-value alternatives of established covered lemmas.",
+    "Stored no plurals for mass/abstract nouns. Bitters, rounders, and sundries retain their established plural-only lexical senses.",
+    "Reviewed homunculus/homunculi, ileum/ilea, embolus/emboli, vivarium/vivaria and diptych/diptychs; kaiju plural is invariant and therefore not stored.",
+    "Reviewed all selected missing-resource IPA. Cussed uses the adjective pronunciation; noir, quinoa, genocidal, rentier, menarche, mortgagor, and compound/derivative stress received explicit corrections.",
+    "Burmese glosses independently authored. WordNet English definitions used for lexical sense review only."
+  ],
+  "originalAssignedTarget": 1500,
+  "shortfall": 923
+}
