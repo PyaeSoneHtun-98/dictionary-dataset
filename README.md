@@ -91,6 +91,8 @@ python -m unittest discover -s tests
 
 CI checks batches and deterministic snapshots without changing frozen assets. The initial review record is `reports/phrase_extension_013_016_review_20261007.md`; authored drafts, peer findings, editorial decisions, and unpublished candidates are in `staging/phrases013_016/`. The complete second review and applied corrections are documented in `reports/phrase_extension_013_016_rereview_20261007.md` and `staging/phrase_rereview_20261007/`. Native Burmese human sign-off and actual Windows app loading/lookup tests remain outstanding.
 
+For manual Burmese review, open `reports/burmese_manual_review.html` in a browser. It works offline and shows English/Burmese together, initially prioritizing the 141 revised entries. Mark Correct/Unclear/Wrong, enter suggestions, and export notes after each session. Browser storage keeps progress where available; exported JSON can be imported in another browser. This review tool never edits dictionary files. Regenerate it with `python scripts/build_burmese_review_page.py` after data updates.
+
 ## Layout
 
 ```text
