@@ -1,0 +1,320 @@
+{
+  "rejections": {
+    "litchi": "Covered spelling variant of frozen lychee.",
+    "likeability": "Spelling variant of draft American canonical likability.",
+    "sniveller": "British spelling variant of draft sniveler.",
+    "empanel": "Spelling variant of draft impanel; reserve one owner.",
+    "blowzy": "Spelling variant of draft blowsy; reserve one owner.",
+    "pernickety": "Covered variant of frozen persnickety.",
+    "brilliancy": "Covered variant of frozen brilliance.",
+    "intransigency": "Covered variant of frozen intransigence.",
+    "lat": "Covered gym noun already represented by frozen lats.",
+    "crosshatched": "Ordinary participle of draft crosshatch; store under the base verb.",
+    "precooked": "Ordinary participle of draft precook; store under the base verb.",
+    "namedrop": "Preferred current monolingual spelling name-drop; disputed separator-free spelling deferred.",
+    "spotweld": "Current dictionary spelling spot-weld; reject glued verb.",
+    "sightread": "Preferred current dictionary spelling sight-read; reject glued verb.",
+    "razorblade": "Preferred current dictionary spelling razor blade; defer disputed closed spelling.",
+    "centerfield": "Preferred current dictionary spelling center field; defer disputed closed spelling.",
+    "prayerbook": "Preferred current dictionary spelling prayer book; defer disputed closed spelling.",
+    "bottlecap": "Preferred current dictionary spelling bottle cap; defer disputed closed spelling.",
+    "spoonfeed": "Preferred current dictionary spelling spoon-feed; reject glued verb and erroneous spoonfeeded form.",
+    "goldplate": "Preferred current dictionary spelling gold-plate; closed spelling not independently established.",
+    "timeslot": "Preferred current dictionary spelling time slot; closed spelling not independently established.",
+    "dropship": "Current dictionary spelling drop-ship; closed spelling not independently established.",
+    "fieldhouse": "Current dictionary spelling field house; closed spelling not independently established.",
+    "powerplay": "Current dictionary spelling power play; closed spelling not independently established.",
+    "protip": "Current dictionary spelling pro tip; closed spelling not independently established.",
+    "popstar": "Current dictionary spelling pop star; closed spelling not independently established.",
+    "wishlist": "Current dictionary spelling wish list; user-submitted closed proposal is not publisher verification.",
+    "deathmatch": "Current retrieved publisher entry is death match; closed spelling not independently established.",
+    "livewire": "Current dictionary spelling live wire; closed proposal is not publisher verification.",
+    "bodyweight": "Ordinary open noun body weight; adjective use alone does not establish closed noun.",
+    "codename": "Current dictionary spelling code name; closed spelling not independently established.",
+    "softcore": "Current dictionary spelling soft-core; closed spelling not independently established.",
+    "powerline": "Current dictionary spelling power line; closed spelling not independently established.",
+    "mindboggling": "Current dictionary spelling mind-boggling; reject glued adjective.",
+    "killshot": "Current dictionary spelling kill shot; closed spelling not independently established.",
+    "loanshark": "Current dictionary spelling loan shark; reject glued noun.",
+    "bottlefeed": "Current dictionary spelling bottle-feed; reject glued verb.",
+    "underprescribe": "No current publisher spelling evidence established; defer rather than invent.",
+    "systemwide": "No current publisher closed spelling evidence established; defer.",
+    "fuckwad": "No current reputable dictionary spelling evidence established; defer.",
+    "shitbag": "No current reputable dictionary spelling evidence established; defer.",
+    "unperceptiveness": "Suffix-derived word has not yet received current publisher verification; defer.",
+    "pornstar": "Current dictionary spelling porn star; closed spelling not independently established.",
+    "jerkoff": "Current noun spelling jerk-off; defer glued noun.",
+    "surrebutter": "Very narrow procedural legal term with low expected subtitle value.",
+    "cloze": "Specialist language-testing terminology with low subtitle value.",
+    "homiletics": "Specialist sermon theory, lower narrative usefulness.",
+    "innocency": "Covered noun variant of frozen innocence.",
+    "transiency": "Covered noun variant of frozen transience.",
+    "complacence": "Covered noun variant of frozen complacency.",
+    "saliency": "Covered noun variant of frozen salience.",
+    "lenience": "Covered noun variant of frozen leniency.",
+    "bosun": "Covered noun variant of frozen boatswain.",
+    "smidgeon": "Covered spelling variant of frozen smidgen.",
+    "flunkey": "Covered spelling variant of frozen flunky.",
+    "saw": "Reserve saw for the much more frequent irregular past of draft see; do not publish a conflicting tool headword.",
+    "won": "Reserve won for the frequent irregular past/participle of win; currency sense deferred to avoid a conflicting owner.",
+    "sixpack": "Current dictionary spelling six-pack; separator-free spelling has not been independently established.",
+    "onsite": "Common spelling on-site; current closed publisher dictionary evidence not established in this review.",
+    "liveborn": "Preferred spelling live-born; current closed publisher spelling not established.",
+    "fadeout": "Preferred spelling fade-out; current closed publisher dictionary evidence not established in this review."
+  },
+  "changes": {
+    "kepi": {
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ရှေ့အနားပြားပါ စစ်သားဦးထုပ်"
+          ]
+        }
+      ]
+    },
+    "cob": {
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ပြောင်းဖူးရိုး",
+            "ပုခုံးနိမ့်၍ ကိုယ်လုံးထွားသော မြင်းမျိုး"
+          ]
+        }
+      ]
+    },
+    "overtop": {
+      "forms": [
+        "overtops",
+        "overtopped",
+        "overtopping"
+      ]
+    },
+    "crosscut": {
+      "forms": [
+        "crosscuts",
+        "crosscutting"
+      ]
+    },
+    "cheerlead": {
+      "forms": [
+        "cheerleads",
+        "cheerled",
+        "cheerleading"
+      ]
+    },
+    "overbid": {
+      "forms": [
+        "overbids",
+        "overbidding"
+      ]
+    },
+    "underspend": {
+      "forms": [
+        "underspends",
+        "underspent",
+        "underspending"
+      ]
+    },
+    "foreknow": {
+      "forms": [
+        "foreknows",
+        "foreknew",
+        "foreknown",
+        "foreknowing"
+      ]
+    },
+    "unweave": {
+      "forms": [
+        "unweaves",
+        "unwove",
+        "unwoven",
+        "unweaving"
+      ]
+    },
+    "reprogram": {
+      "forms": [
+        "reprograms",
+        "reprogrammed",
+        "reprogramming"
+      ]
+    },
+    "coldheartedness": {
+      "pronunciation": "/ˌkoʊldˈhɑrtɪdnəs/"
+    },
+    "pigheadedness": {
+      "pronunciation": "/ˌpɪɡˈhɛdɪdnəs/"
+    },
+    "unassertiveness": {
+      "pronunciation": "/ˌʌnəˈsɝtɪvnəs/"
+    },
+    "unmindfulness": {
+      "pronunciation": "/ʌnˈmaɪndfəlnəs/"
+    },
+    "dankness": {
+      "pronunciation": "/ˈdæŋknəs/"
+    },
+    "daftness": {
+      "pronunciation": "/ˈdæftnəs/"
+    },
+    "snugness": {
+      "pronunciation": "/ˈsnʌɡnəs/"
+    },
+    "staidness": {
+      "pronunciation": "/ˈsteɪdnəs/"
+    },
+    "trimness": {
+      "pronunciation": "/ˈtrɪmnəs/"
+    },
+    "deliveryman": {
+      "forms": [
+        "deliverymen"
+      ]
+    },
+    "muscleman": {
+      "forms": [
+        "musclemen"
+      ]
+    },
+    "roadman": {
+      "forms": [
+        "roadmen"
+      ]
+    },
+    "lobsterman": {
+      "forms": [
+        "lobstermen"
+      ]
+    },
+    "signalman": {
+      "forms": [
+        "signalmen"
+      ]
+    },
+    "clansman": {
+      "forms": [
+        "clansmen"
+      ]
+    },
+    "garbageman": {
+      "forms": [
+        "garbagemen"
+      ]
+    },
+    "fishwife": {
+      "forms": [
+        "fishwives"
+      ]
+    },
+    "clanswoman": {
+      "forms": [
+        "clanswomen"
+      ]
+    },
+    "outdoorswoman": {
+      "forms": [
+        "outdoorswomen"
+      ]
+    },
+    "paperknife": {
+      "forms": [
+        "paperknives"
+      ]
+    },
+    "pointsman": {
+      "forms": [
+        "pointsmen"
+      ]
+    },
+    "trencherman": {
+      "forms": [
+        "trenchermen"
+      ]
+    },
+    "laundrywoman": {
+      "forms": [
+        "laundrywomen"
+      ]
+    },
+    "sawbones": {
+      "forms": []
+    },
+    "muggins": {
+      "forms": []
+    },
+    "slyboots": {
+      "forms": []
+    },
+    "stonefish": {
+      "forms": []
+    },
+    "nevus": {
+      "forms": [
+        "nevi"
+      ]
+    },
+    "quarterstaff": {
+      "forms": [
+        "quarterstaffs",
+        "quarterstaves"
+      ]
+    },
+    "recheck": {
+      "pronunciation": "/ˌriˈtʃɛk/"
+    },
+    "potholed": {
+      "pronunciation": "/ˈpɑtˌhoʊld/"
+    },
+    "onsite": {
+      "pronunciation": "/ˈɑnˌsaɪt/"
+    },
+    "woohoo": {
+      "pronunciation": "/ˌwuˈhu/"
+    },
+    "oversold": {
+      "pronunciation": "/ˌoʊvɚˈsoʊld/"
+    },
+    "qigong": {
+      "pronunciation": "/ˈtʃiˌɡʊŋ/"
+    },
+    "unquote": {
+      "pronunciation": "/ʌnˈkwoʊt/"
+    },
+    "overbought": {
+      "pronunciation": "/ˌoʊvɚˈbɔt/"
+    },
+    "vendee": {
+      "pronunciation": "/vɛnˈdi/"
+    },
+    "overbuilt": {
+      "pronunciation": "/ˌoʊvɚˈbɪlt/"
+    },
+    "precook": {
+      "pronunciation": "/ˌpriˈkʊk/"
+    },
+    "preexist": {
+      "pronunciation": "/ˌpriɪɡˈzɪst/"
+    },
+    "overdiagnose": {
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "burmese": [
+            "ရောဂါရှိကြောင်း အလွန်အကျွံသတ်မှတ်သည်"
+          ]
+        }
+      ]
+    },
+    "filariasis": {
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "burmese": [
+            "ကိုယ်တွင်းအမျှင်ပုံသန်ကောင်များကြောင့် ဖြစ်သည့် ကပ်ပါးရောဂါ"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,4435 @@
+[
+  {
+    "word": "bob",
+    "proposed": [
+      "bobs",
+      "bobbed",
+      "bobbing"
+    ],
+    "stored": [
+      "bobs",
+      "bobbed",
+      "bobbing"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "age",
+    "proposed": [
+      "ages",
+      "aged",
+      "aging",
+      "ageing"
+    ],
+    "stored": [
+      "ages",
+      "ageing"
+    ],
+    "omitted": [
+      "aged",
+      "aging"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "pet",
+    "proposed": [
+      "pets",
+      "pet"
+    ],
+    "stored": [
+      "pets"
+    ],
+    "omitted": [
+      "pet"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "ass",
+    "proposed": [
+      "asses"
+    ],
+    "stored": [
+      "asses"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "opt",
+    "proposed": [
+      "opts",
+      "opted",
+      "opting"
+    ],
+    "stored": [
+      "opts",
+      "opted",
+      "opting"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "rue",
+    "proposed": [
+      "rues",
+      "rued",
+      "ruing"
+    ],
+    "stored": [
+      "rues",
+      "rued",
+      "ruing"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "retard",
+    "proposed": [
+      "retards",
+      "retarded",
+      "retarding"
+    ],
+    "stored": [
+      "retards",
+      "retarded",
+      "retarding"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "dun",
+    "proposed": [
+      "duns",
+      "dunned",
+      "dunning"
+    ],
+    "stored": [
+      "duns",
+      "dunned",
+      "dunning"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "fag",
+    "proposed": [
+      "fags"
+    ],
+    "stored": [
+      "fags"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "den",
+    "proposed": [
+      "dens"
+    ],
+    "stored": [
+      "dens"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "spa",
+    "proposed": [
+      "spas"
+    ],
+    "stored": [
+      "spas"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "ref",
+    "proposed": [
+      "refs"
+    ],
+    "stored": [
+      "refs"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "lad",
+    "proposed": [
+      "lads"
+    ],
+    "stored": [
+      "lads"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "mag",
+    "proposed": [
+      "mags"
+    ],
+    "stored": [
+      "mags"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "sac",
+    "proposed": [
+      "sacs"
+    ],
+    "stored": [
+      "sacs"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "sop",
+    "proposed": [
+      "sops"
+    ],
+    "stored": [
+      "sops"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "nan",
+    "proposed": [
+      "nans"
+    ],
+    "stored": [
+      "nans"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "fib",
+    "proposed": [
+      "fibs",
+      "fibbed",
+      "fibbing"
+    ],
+    "stored": [
+      "fibs",
+      "fibbed"
+    ],
+    "omitted": [
+      "fibbing"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "marquis",
+    "proposed": [
+      "marquises"
+    ],
+    "stored": [],
+    "omitted": [
+      "marquises"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "rowan",
+    "proposed": [
+      "rowans"
+    ],
+    "stored": [
+      "rowans"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "bey",
+    "proposed": [
+      "beys"
+    ],
+    "stored": [
+      "beys"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "imp",
+    "proposed": [
+      "imps"
+    ],
+    "stored": [
+      "imps"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "pollock",
+    "proposed": [
+      "pollocks"
+    ],
+    "stored": [
+      "pollocks"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "mohawk",
+    "proposed": [
+      "mohawks"
+    ],
+    "stored": [
+      "mohawks"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "cob",
+    "proposed": [
+      "cobs"
+    ],
+    "stored": [
+      "cobs"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "whiting",
+    "proposed": [
+      "whitings",
+      "whiting"
+    ],
+    "stored": [
+      "whitings"
+    ],
+    "omitted": [
+      "whiting"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "moa",
+    "proposed": [
+      "moas"
+    ],
+    "stored": [
+      "moas"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "chevalier",
+    "proposed": [
+      "chevaliers"
+    ],
+    "stored": [
+      "chevaliers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "vac",
+    "proposed": [
+      "vacs"
+    ],
+    "stored": [
+      "vacs"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "zag",
+    "proposed": [
+      "zags",
+      "zagged",
+      "zagging"
+    ],
+    "stored": [
+      "zags",
+      "zagged",
+      "zagging"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "crosscut",
+    "proposed": [
+      "crosscuts",
+      "crosscuted",
+      "crosscuting"
+    ],
+    "stored": [
+      "crosscuts",
+      "crosscuted",
+      "crosscuting"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "eon",
+    "proposed": [
+      "eons"
+    ],
+    "stored": [
+      "eons"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "whirligig",
+    "proposed": [
+      "whirligigs"
+    ],
+    "stored": [
+      "whirligigs"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "dogsled",
+    "proposed": [
+      "dogsleds"
+    ],
+    "stored": [
+      "dogsleds"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "uke",
+    "proposed": [
+      "ukes"
+    ],
+    "stored": [
+      "ukes"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "croton",
+    "proposed": [
+      "crotons"
+    ],
+    "stored": [
+      "crotons"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "windsurf",
+    "proposed": [
+      "windsurfs",
+      "windsurfed",
+      "windsurfing"
+    ],
+    "stored": [
+      "windsurfs",
+      "windsurfed",
+      "windsurfing"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "borderland",
+    "proposed": [
+      "borderlands"
+    ],
+    "stored": [
+      "borderlands"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "cheerlead",
+    "proposed": [
+      "cheerleads",
+      "cheerleaded",
+      "cheerleading"
+    ],
+    "stored": [
+      "cheerleads",
+      "cheerleaded"
+    ],
+    "omitted": [
+      "cheerleading"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "overbid",
+    "proposed": [
+      "overbids",
+      "overbidded",
+      "overbidding"
+    ],
+    "stored": [
+      "overbids",
+      "overbidded",
+      "overbidding"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "prizefight",
+    "proposed": [
+      "prizefights"
+    ],
+    "stored": [
+      "prizefights"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "silversmith",
+    "proposed": [
+      "silversmiths"
+    ],
+    "stored": [
+      "silversmiths"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "horsewhip",
+    "proposed": [
+      "horsewhips"
+    ],
+    "stored": [
+      "horsewhips"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "stonemason",
+    "proposed": [
+      "stonemasons"
+    ],
+    "stored": [
+      "stonemasons"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "underspend",
+    "proposed": [
+      "underspends",
+      "underspended",
+      "underspending"
+    ],
+    "stored": [
+      "underspends",
+      "underspended",
+      "underspending"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "maidservant",
+    "proposed": [
+      "maidservants"
+    ],
+    "stored": [
+      "maidservants"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "greengrocer",
+    "proposed": [
+      "greengrocers"
+    ],
+    "stored": [
+      "greengrocers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "signalman",
+    "proposed": [
+      "signalmans"
+    ],
+    "stored": [
+      "signalmans"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "prizefighter",
+    "proposed": [
+      "prizefighters"
+    ],
+    "stored": [
+      "prizefighters"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "rosehip",
+    "proposed": [
+      "rosehips"
+    ],
+    "stored": [
+      "rosehips"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "cowshed",
+    "proposed": [
+      "cowsheds"
+    ],
+    "stored": [
+      "cowsheds"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "gooseneck",
+    "proposed": [
+      "goosenecks"
+    ],
+    "stored": [
+      "goosenecks"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "waterspout",
+    "proposed": [
+      "waterspouts"
+    ],
+    "stored": [
+      "waterspouts"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "backplate",
+    "proposed": [
+      "backplates"
+    ],
+    "stored": [
+      "backplates"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "seneschal",
+    "proposed": [
+      "seneschals"
+    ],
+    "stored": [
+      "seneschals"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "sixpack",
+    "proposed": [
+      "sixpacks"
+    ],
+    "stored": [
+      "sixpacks"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "roadhog",
+    "proposed": [
+      "roadhogs"
+    ],
+    "stored": [
+      "roadhogs"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "hellhound",
+    "proposed": [
+      "hellhounds"
+    ],
+    "stored": [
+      "hellhounds"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "pawl",
+    "proposed": [
+      "pawls"
+    ],
+    "stored": [
+      "pawls"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "cuirass",
+    "proposed": [
+      "cuirasses"
+    ],
+    "stored": [
+      "cuirasses"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "fingerling",
+    "proposed": [
+      "fingerlings"
+    ],
+    "stored": [
+      "fingerlings"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "flattop",
+    "proposed": [
+      "flattops"
+    ],
+    "stored": [
+      "flattops"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "taproot",
+    "proposed": [
+      "taproots"
+    ],
+    "stored": [
+      "taproots"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "foreleg",
+    "proposed": [
+      "forelegs"
+    ],
+    "stored": [
+      "forelegs"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "tenderfoot",
+    "proposed": [
+      "tenderfoots",
+      "tenderfeet"
+    ],
+    "stored": [
+      "tenderfoots",
+      "tenderfeet"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "torchbearer",
+    "proposed": [
+      "torchbearers"
+    ],
+    "stored": [
+      "torchbearers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "handspring",
+    "proposed": [
+      "handsprings"
+    ],
+    "stored": [
+      "handsprings"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "handcart",
+    "proposed": [
+      "handcarts"
+    ],
+    "stored": [
+      "handcarts"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "satrap",
+    "proposed": [
+      "satraps"
+    ],
+    "stored": [
+      "satraps"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "tattletale",
+    "proposed": [
+      "tattletales"
+    ],
+    "stored": [
+      "tattletales"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "clansman",
+    "proposed": [
+      "clansmans"
+    ],
+    "stored": [
+      "clansmans"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "knuckleball",
+    "proposed": [
+      "knuckleballs"
+    ],
+    "stored": [
+      "knuckleballs"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "pilchard",
+    "proposed": [
+      "pilchards",
+      "pilchard"
+    ],
+    "stored": [
+      "pilchards"
+    ],
+    "omitted": [
+      "pilchard"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "plebe",
+    "proposed": [
+      "plebes"
+    ],
+    "stored": [
+      "plebes"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "pouf",
+    "proposed": [
+      "poufs"
+    ],
+    "stored": [
+      "poufs"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "servitor",
+    "proposed": [
+      "servitors"
+    ],
+    "stored": [
+      "servitors"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "styptic",
+    "proposed": [
+      "styptics"
+    ],
+    "stored": [
+      "styptics"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "hatful",
+    "proposed": [
+      "hatfuls"
+    ],
+    "stored": [
+      "hatfuls"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "clubfoot",
+    "proposed": [
+      "club feet",
+      "club-feet",
+      "clubfeet",
+      "clubfoot"
+    ],
+    "stored": [
+      "clubfeet"
+    ],
+    "omitted": [
+      "club feet",
+      "club-feet",
+      "clubfoot"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "cookhouse",
+    "proposed": [
+      "cookhouses"
+    ],
+    "stored": [
+      "cookhouses"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "dogleg",
+    "proposed": [
+      "doglegs"
+    ],
+    "stored": [
+      "doglegs"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "fishpond",
+    "proposed": [
+      "fishponds"
+    ],
+    "stored": [
+      "fishponds"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "playsuit",
+    "proposed": [
+      "playsuits"
+    ],
+    "stored": [
+      "playsuits"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "forelock",
+    "proposed": [
+      "forelocks"
+    ],
+    "stored": [
+      "forelocks"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "cockfight",
+    "proposed": [
+      "cockfights"
+    ],
+    "stored": [
+      "cockfights"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "daybed",
+    "proposed": [
+      "daybeds"
+    ],
+    "stored": [
+      "daybeds"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "scrapheap",
+    "proposed": [
+      "scrapheaps"
+    ],
+    "stored": [
+      "scrapheaps"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "bedroll",
+    "proposed": [
+      "bedrolls"
+    ],
+    "stored": [
+      "bedrolls"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "handbasket",
+    "proposed": [
+      "handbaskets"
+    ],
+    "stored": [
+      "handbaskets"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "tollgate",
+    "proposed": [
+      "tollgates"
+    ],
+    "stored": [
+      "tollgates"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "rockslide",
+    "proposed": [
+      "rockslides"
+    ],
+    "stored": [
+      "rockslides"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "bandmaster",
+    "proposed": [
+      "bandmasters"
+    ],
+    "stored": [
+      "bandmasters"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "majorette",
+    "proposed": [
+      "majorettes"
+    ],
+    "stored": [
+      "majorettes"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "shorebird",
+    "proposed": [
+      "shorebirds"
+    ],
+    "stored": [
+      "shorebirds"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "haversack",
+    "proposed": [
+      "haversacks"
+    ],
+    "stored": [
+      "haversacks"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "thundercloud",
+    "proposed": [
+      "thunderclouds"
+    ],
+    "stored": [
+      "thunderclouds"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "crimper",
+    "proposed": [
+      "crimpers"
+    ],
+    "stored": [
+      "crimpers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "dabbler",
+    "proposed": [
+      "dabblers"
+    ],
+    "stored": [
+      "dabblers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "sourpuss",
+    "proposed": [
+      "sourpusses"
+    ],
+    "stored": [
+      "sourpusses"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "gatecrasher",
+    "proposed": [
+      "gatecrashers"
+    ],
+    "stored": [
+      "gatecrashers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "bootmaker",
+    "proposed": [
+      "bootmakers"
+    ],
+    "stored": [
+      "bootmakers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "cashbox",
+    "proposed": [
+      "cashboxes"
+    ],
+    "stored": [
+      "cashboxes"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "mountebank",
+    "proposed": [
+      "mountebanks"
+    ],
+    "stored": [
+      "mountebanks"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "deathblow",
+    "proposed": [
+      "deathblows"
+    ],
+    "stored": [
+      "deathblows"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "prayerbook",
+    "proposed": [
+      "prayerbooks"
+    ],
+    "stored": [
+      "prayerbooks"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "rasher",
+    "proposed": [
+      "rashers"
+    ],
+    "stored": [
+      "rashers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "sweetmeat",
+    "proposed": [
+      "sweetmeats",
+      "sweetmeat"
+    ],
+    "stored": [
+      "sweetmeats"
+    ],
+    "omitted": [
+      "sweetmeat"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "guardroom",
+    "proposed": [
+      "guardrooms"
+    ],
+    "stored": [
+      "guardrooms"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "hangnail",
+    "proposed": [
+      "hangnails"
+    ],
+    "stored": [
+      "hangnails"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "somnambulist",
+    "proposed": [
+      "somnambulists"
+    ],
+    "stored": [
+      "somnambulists"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "fortuneteller",
+    "proposed": [
+      "fortunetellers"
+    ],
+    "stored": [
+      "fortunetellers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "woodworm",
+    "proposed": [
+      "woodworm",
+      "woodworms"
+    ],
+    "stored": [
+      "woodworms"
+    ],
+    "omitted": [
+      "woodworm"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "towline",
+    "proposed": [
+      "towlines"
+    ],
+    "stored": [
+      "towlines"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "fetlock",
+    "proposed": [
+      "fetlocks"
+    ],
+    "stored": [
+      "fetlocks"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "armlet",
+    "proposed": [
+      "armlets"
+    ],
+    "stored": [
+      "armlets"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "millpond",
+    "proposed": [
+      "millponds"
+    ],
+    "stored": [
+      "millponds"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "paintbox",
+    "proposed": [
+      "paintboxes"
+    ],
+    "stored": [
+      "paintboxes"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "salesroom",
+    "proposed": [
+      "salesrooms"
+    ],
+    "stored": [
+      "salesrooms"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "noncitizen",
+    "proposed": [
+      "noncitizens"
+    ],
+    "stored": [
+      "noncitizens"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "daylily",
+    "proposed": [
+      "daylilies"
+    ],
+    "stored": [
+      "daylilies"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "glowworm",
+    "proposed": [
+      "glowworms",
+      "glowworm"
+    ],
+    "stored": [
+      "glowworms"
+    ],
+    "omitted": [
+      "glowworm"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "yardarm",
+    "proposed": [
+      "yardarms"
+    ],
+    "stored": [
+      "yardarms"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "barkeeper",
+    "proposed": [
+      "barkeepers"
+    ],
+    "stored": [
+      "barkeepers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "quizmaster",
+    "proposed": [
+      "quizmasters"
+    ],
+    "stored": [
+      "quizmasters"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "winepress",
+    "proposed": [
+      "winepresses"
+    ],
+    "stored": [
+      "winepresses"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "stonefish",
+    "proposed": [
+      "stonefishes"
+    ],
+    "stored": [
+      "stonefishes"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "cogwheel",
+    "proposed": [
+      "cogwheels"
+    ],
+    "stored": [
+      "cogwheels"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "crossbeam",
+    "proposed": [
+      "crossbeams"
+    ],
+    "stored": [
+      "crossbeams"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "grandniece",
+    "proposed": [
+      "grandnieces"
+    ],
+    "stored": [
+      "grandnieces"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "packrat",
+    "proposed": [
+      "packrats"
+    ],
+    "stored": [
+      "packrats"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "bandbox",
+    "proposed": [
+      "bandboxes"
+    ],
+    "stored": [
+      "bandboxes"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "knothole",
+    "proposed": [
+      "knotholes"
+    ],
+    "stored": [
+      "knotholes"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "windsock",
+    "proposed": [
+      "windsocks"
+    ],
+    "stored": [
+      "windsocks"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "popinjay",
+    "proposed": [
+      "popinjays"
+    ],
+    "stored": [
+      "popinjays"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "rubdown",
+    "proposed": [
+      "rubdowns"
+    ],
+    "stored": [
+      "rubdowns"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "kitbag",
+    "proposed": [
+      "kitbags"
+    ],
+    "stored": [
+      "kitbags"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "slingback",
+    "proposed": [
+      "slingbacks"
+    ],
+    "stored": [
+      "slingbacks"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "woodlouse",
+    "proposed": [
+      "woodlice"
+    ],
+    "stored": [
+      "woodlice"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "garbageman",
+    "proposed": [
+      "garbagemans"
+    ],
+    "stored": [
+      "garbagemans"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "chophouse",
+    "proposed": [
+      "chophouses"
+    ],
+    "stored": [
+      "chophouses"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "timecard",
+    "proposed": [
+      "timecards"
+    ],
+    "stored": [
+      "timecards"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "quarterstaff",
+    "proposed": [
+      "quarterstaffs"
+    ],
+    "stored": [
+      "quarterstaffs"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "applecart",
+    "proposed": [
+      "applecarts"
+    ],
+    "stored": [
+      "applecarts"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "placekicker",
+    "proposed": [
+      "placekickers"
+    ],
+    "stored": [
+      "placekickers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "whaleboat",
+    "proposed": [
+      "whaleboats"
+    ],
+    "stored": [
+      "whaleboats"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "cowpoke",
+    "proposed": [
+      "cowpokes"
+    ],
+    "stored": [
+      "cowpokes"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "underskirt",
+    "proposed": [
+      "underskirts"
+    ],
+    "stored": [
+      "underskirts"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "appeaser",
+    "proposed": [
+      "appeasers"
+    ],
+    "stored": [
+      "appeasers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "lowboy",
+    "proposed": [
+      "lowboys"
+    ],
+    "stored": [
+      "lowboys"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "harpooner",
+    "proposed": [
+      "harpooners"
+    ],
+    "stored": [
+      "harpooners"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "gadabout",
+    "proposed": [
+      "gadabouts"
+    ],
+    "stored": [
+      "gadabouts"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "inamorata",
+    "proposed": [
+      "inamoratas"
+    ],
+    "stored": [
+      "inamoratas"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "swearword",
+    "proposed": [
+      "swearwords"
+    ],
+    "stored": [
+      "swearwords"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "booklover",
+    "proposed": [
+      "booklovers"
+    ],
+    "stored": [
+      "booklovers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "skulker",
+    "proposed": [
+      "skulkers"
+    ],
+    "stored": [
+      "skulkers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "tailfin",
+    "proposed": [
+      "tailfins"
+    ],
+    "stored": [
+      "tailfins"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "termagant",
+    "proposed": [
+      "termagants"
+    ],
+    "stored": [
+      "termagants"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "fishwife",
+    "proposed": [
+      "fishwifes"
+    ],
+    "stored": [
+      "fishwifes"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "handwheel",
+    "proposed": [
+      "handwheels"
+    ],
+    "stored": [
+      "handwheels"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "pithead",
+    "proposed": [
+      "pitheads"
+    ],
+    "stored": [
+      "pitheads"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "megahit",
+    "proposed": [
+      "megahits"
+    ],
+    "stored": [
+      "megahits"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "roomer",
+    "proposed": [
+      "roomers"
+    ],
+    "stored": [
+      "roomers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "shunter",
+    "proposed": [
+      "shunters"
+    ],
+    "stored": [
+      "shunters"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "bedwetter",
+    "proposed": [
+      "bedwetters"
+    ],
+    "stored": [
+      "bedwetters"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "imprecation",
+    "proposed": [
+      "imprecations",
+      "imprecation"
+    ],
+    "stored": [
+      "imprecations"
+    ],
+    "omitted": [
+      "imprecation"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "inkpot",
+    "proposed": [
+      "inkpots"
+    ],
+    "stored": [
+      "inkpots"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "locknut",
+    "proposed": [
+      "locknuts"
+    ],
+    "stored": [
+      "locknuts"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "marrowbone",
+    "proposed": [
+      "marrowbones"
+    ],
+    "stored": [
+      "marrowbones"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "parasail",
+    "proposed": [
+      "parasails",
+      "parasailed",
+      "parasailing"
+    ],
+    "stored": [
+      "parasails",
+      "parasailed",
+      "parasailing"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "thimbleful",
+    "proposed": [
+      "thimblefuls",
+      "thimblesful"
+    ],
+    "stored": [
+      "thimblefuls",
+      "thimblesful"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "coachbuilder",
+    "proposed": [
+      "coachbuilders"
+    ],
+    "stored": [
+      "coachbuilders"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "disseminator",
+    "proposed": [
+      "disseminators"
+    ],
+    "stored": [
+      "disseminators"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "jingoist",
+    "proposed": [
+      "jingoists"
+    ],
+    "stored": [
+      "jingoists"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "resurvey",
+    "proposed": [
+      "resurveys",
+      "resurveyed",
+      "resurveying"
+    ],
+    "stored": [
+      "resurveys",
+      "resurveyed",
+      "resurveying"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "sadomasochist",
+    "proposed": [
+      "sadomasochists"
+    ],
+    "stored": [
+      "sadomasochists"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "selfie",
+    "proposed": [
+      "selfies"
+    ],
+    "stored": [
+      "selfies"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "scumbag",
+    "proposed": [
+      "scumbags"
+    ],
+    "stored": [
+      "scumbags"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "worldview",
+    "proposed": [
+      "worldviews"
+    ],
+    "stored": [
+      "worldviews"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "thingy",
+    "proposed": [
+      "thingies"
+    ],
+    "stored": [
+      "thingies"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "tagline",
+    "proposed": [
+      "taglines"
+    ],
+    "stored": [
+      "taglines"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "hottie",
+    "proposed": [
+      "hotties"
+    ],
+    "stored": [
+      "hotties"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "roadshow",
+    "proposed": [
+      "roadshows"
+    ],
+    "stored": [
+      "roadshows"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "wishlist",
+    "proposed": [
+      "wishlists"
+    ],
+    "stored": [
+      "wishlists"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "masterclass",
+    "proposed": [
+      "masterclasses"
+    ],
+    "stored": [
+      "masterclasses"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "douchebag",
+    "proposed": [
+      "douchebags"
+    ],
+    "stored": [
+      "douchebags"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "shoutout",
+    "proposed": [
+      "shoutouts"
+    ],
+    "stored": [
+      "shoutouts"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "resupply",
+    "proposed": [
+      "resupplies",
+      "resupplied",
+      "resupplying"
+    ],
+    "stored": [
+      "resupplies",
+      "resupplied",
+      "resupplying"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "bullseye",
+    "proposed": [
+      "bullseyes"
+    ],
+    "stored": [
+      "bullseyes"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "outro",
+    "proposed": [
+      "outros"
+    ],
+    "stored": [
+      "outros"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "timescale",
+    "proposed": [
+      "timescales"
+    ],
+    "stored": [
+      "timescales"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "curveball",
+    "proposed": [
+      "curveballs"
+    ],
+    "stored": [
+      "curveballs"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "encoder",
+    "proposed": [
+      "encoders"
+    ],
+    "stored": [
+      "encoders"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "rulebook",
+    "proposed": [
+      "rulebooks"
+    ],
+    "stored": [
+      "rulebooks"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "crackhead",
+    "proposed": [
+      "crackheads"
+    ],
+    "stored": [
+      "crackheads"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "conman",
+    "proposed": [
+      "conmen"
+    ],
+    "stored": [
+      "conmen"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "clicker",
+    "proposed": [
+      "clickers"
+    ],
+    "stored": [
+      "clickers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "reinvest",
+    "proposed": [
+      "reinvests",
+      "reinvested",
+      "reinvesting"
+    ],
+    "stored": [
+      "reinvests",
+      "reinvested",
+      "reinvesting"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "twerk",
+    "proposed": [
+      "twerks",
+      "twerked",
+      "twerking"
+    ],
+    "stored": [
+      "twerks",
+      "twerked",
+      "twerking"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "deathmatch",
+    "proposed": [
+      "deathmatches"
+    ],
+    "stored": [
+      "deathmatches"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "multitask",
+    "proposed": [
+      "multitasks",
+      "multitasked",
+      "multitasking"
+    ],
+    "stored": [
+      "multitasks",
+      "multitasked",
+      "multitasking"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "reprogram",
+    "proposed": [
+      "reprograms",
+      "reprogramed",
+      "reprograming"
+    ],
+    "stored": [
+      "reprograms",
+      "reprogramed",
+      "reprograming"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "reframe",
+    "proposed": [
+      "reframes",
+      "reframed",
+      "reframing"
+    ],
+    "stored": [
+      "reframes",
+      "reframed",
+      "reframing"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "recheck",
+    "proposed": [
+      "rechecks",
+      "rechecked",
+      "rechecking"
+    ],
+    "stored": [
+      "rechecks",
+      "rechecked",
+      "rechecking"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "preamp",
+    "proposed": [
+      "preamps"
+    ],
+    "stored": [
+      "preamps"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "renderer",
+    "proposed": [
+      "renderers"
+    ],
+    "stored": [
+      "renderers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "repopulate",
+    "proposed": [
+      "repopulates",
+      "repopulated",
+      "repopulating"
+    ],
+    "stored": [
+      "repopulates",
+      "repopulated",
+      "repopulating"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "dreamcatcher",
+    "proposed": [
+      "dreamcatchers"
+    ],
+    "stored": [
+      "dreamcatchers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "underwire",
+    "proposed": [
+      "underwires"
+    ],
+    "stored": [
+      "underwires"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "delegitimize",
+    "proposed": [
+      "delegitimizes",
+      "delegitimized",
+      "delegitimizing"
+    ],
+    "stored": [
+      "delegitimizes",
+      "delegitimized",
+      "delegitimizing"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "blackcurrant",
+    "proposed": [
+      "blackcurrant",
+      "blackcurrants"
+    ],
+    "stored": [
+      "blackcurrants"
+    ],
+    "omitted": [
+      "blackcurrant"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "replicant",
+    "proposed": [
+      "replicants"
+    ],
+    "stored": [
+      "replicants"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "restrictor",
+    "proposed": [
+      "restrictors"
+    ],
+    "stored": [
+      "restrictors"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "returnee",
+    "proposed": [
+      "returnees"
+    ],
+    "stored": [
+      "returnees"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "upperclassman",
+    "proposed": [
+      "upperclassmen"
+    ],
+    "stored": [
+      "upperclassmen"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "rebreather",
+    "proposed": [
+      "rebreathers"
+    ],
+    "stored": [
+      "rebreathers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "twentysomething",
+    "proposed": [
+      "twentysomethings"
+    ],
+    "stored": [
+      "twentysomethings"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "unclench",
+    "proposed": [
+      "unclenches",
+      "unclenched",
+      "unclenching"
+    ],
+    "stored": [
+      "unclenches",
+      "unclenched",
+      "unclenching"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "operationalize",
+    "proposed": [
+      "operationalizes",
+      "operationalized",
+      "operationalizing"
+    ],
+    "stored": [
+      "operationalizes",
+      "operationalized",
+      "operationalizing"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "undersheriff",
+    "proposed": [
+      "undersheriffs"
+    ],
+    "stored": [
+      "undersheriffs"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "powerbroker",
+    "proposed": [
+      "powerbrokers"
+    ],
+    "stored": [
+      "powerbrokers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "capful",
+    "proposed": [
+      "capfuls"
+    ],
+    "stored": [
+      "capfuls"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "panderer",
+    "proposed": [
+      "panderers"
+    ],
+    "stored": [
+      "panderers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "bottlecap",
+    "proposed": [
+      "bottlecaps"
+    ],
+    "stored": [
+      "bottlecaps"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "carhop",
+    "proposed": [
+      "carhops"
+    ],
+    "stored": [
+      "carhops"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "worrywart",
+    "proposed": [
+      "worrywarts"
+    ],
+    "stored": [
+      "worrywarts"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "inciter",
+    "proposed": [
+      "inciters"
+    ],
+    "stored": [
+      "inciters"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "stableboy",
+    "proposed": [
+      "stableboys"
+    ],
+    "stored": [
+      "stableboys"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "fusspot",
+    "proposed": [
+      "fusspots"
+    ],
+    "stored": [
+      "fusspots"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "punster",
+    "proposed": [
+      "punsters"
+    ],
+    "stored": [
+      "punsters"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "bunkmate",
+    "proposed": [
+      "bunkmates"
+    ],
+    "stored": [
+      "bunkmates"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "floozie",
+    "proposed": [
+      "floozies"
+    ],
+    "stored": [],
+    "omitted": [
+      "floozies"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "greenskeeper",
+    "proposed": [
+      "greenskeepers"
+    ],
+    "stored": [
+      "greenskeepers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "interstice",
+    "proposed": [
+      "interstices"
+    ],
+    "stored": [
+      "interstices"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "unperson",
+    "proposed": [
+      "unpersons"
+    ],
+    "stored": [
+      "unpersons"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "deicer",
+    "proposed": [
+      "deicers"
+    ],
+    "stored": [
+      "deicers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "pilferer",
+    "proposed": [
+      "pilferers"
+    ],
+    "stored": [
+      "pilferers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "paperhanger",
+    "proposed": [
+      "paperhangers"
+    ],
+    "stored": [
+      "paperhangers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "whirlybird",
+    "proposed": [
+      "whirlybirds"
+    ],
+    "stored": [
+      "whirlybirds"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "demister",
+    "proposed": [
+      "demisters"
+    ],
+    "stored": [
+      "demisters"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "kibitzer",
+    "proposed": [
+      "kibitzers"
+    ],
+    "stored": [
+      "kibitzers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "loiterer",
+    "proposed": [
+      "loiterers"
+    ],
+    "stored": [
+      "loiterers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "coarsen",
+    "proposed": [
+      "coarsens",
+      "coarsened",
+      "coarsening"
+    ],
+    "stored": [
+      "coarsens",
+      "coarsened",
+      "coarsening"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "bowdlerize",
+    "proposed": [
+      "bowdlerizes",
+      "bowdlerized",
+      "bowdlerizing"
+    ],
+    "stored": [
+      "bowdlerizes",
+      "bowdlerized",
+      "bowdlerizing"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "decalcify",
+    "proposed": [
+      "decalcifies",
+      "decalcified",
+      "decalcifying"
+    ],
+    "stored": [
+      "decalcifies",
+      "decalcified",
+      "decalcifying"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "dishevel",
+    "proposed": [
+      "dishevels",
+      "dishevelled",
+      "disheveled",
+      "disheveling",
+      "dishevelling"
+    ],
+    "stored": [
+      "dishevels",
+      "dishevelled",
+      "disheveling",
+      "dishevelling"
+    ],
+    "omitted": [
+      "disheveled"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "enamor",
+    "proposed": [
+      "enamors",
+      "enamored",
+      "enamoring"
+    ],
+    "stored": [
+      "enamors",
+      "enamoring"
+    ],
+    "omitted": [
+      "enamored"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "galumph",
+    "proposed": [
+      "galumphs",
+      "galumphed",
+      "galumphing"
+    ],
+    "stored": [
+      "galumphs",
+      "galumphed",
+      "galumphing"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "immure",
+    "proposed": [
+      "immures",
+      "immured",
+      "immuring"
+    ],
+    "stored": [
+      "immures",
+      "immured",
+      "immuring"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "misaddress",
+    "proposed": [
+      "misaddresses",
+      "misaddressed",
+      "misaddressing"
+    ],
+    "stored": [
+      "misaddresses",
+      "misaddressed",
+      "misaddressing"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "misconceive",
+    "proposed": [
+      "misconceives",
+      "misconceived",
+      "misconceiving"
+    ],
+    "stored": [
+      "misconceives",
+      "misconceived",
+      "misconceiving"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "misdeliver",
+    "proposed": [
+      "misdelivers",
+      "misdelivered",
+      "misdelivering"
+    ],
+    "stored": [
+      "misdelivers",
+      "misdelivered",
+      "misdelivering"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "misspend",
+    "proposed": [
+      "misspends",
+      "misspent",
+      "misspending"
+    ],
+    "stored": [
+      "misspends",
+      "misspent",
+      "misspending"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "mistranslate",
+    "proposed": [
+      "mistranslates",
+      "mistranslated",
+      "mistranslating"
+    ],
+    "stored": [
+      "mistranslates",
+      "mistranslated",
+      "mistranslating"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "novelize",
+    "proposed": [
+      "novelizes",
+      "novelized",
+      "novelizing"
+    ],
+    "stored": [
+      "novelizes",
+      "novelized",
+      "novelizing"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "overgeneralize",
+    "proposed": [
+      "overgeneralizes",
+      "overgeneralized",
+      "overgeneralizing"
+    ],
+    "stored": [
+      "overgeneralizes",
+      "overgeneralized",
+      "overgeneralizing"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "playact",
+    "proposed": [
+      "playacts",
+      "playacted",
+      "playacting"
+    ],
+    "stored": [
+      "playacts",
+      "playacted",
+      "playacting"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "precook",
+    "proposed": [
+      "precooks",
+      "precooked",
+      "precooking"
+    ],
+    "stored": [
+      "precooks",
+      "precooked",
+      "precooking"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "preexist",
+    "proposed": [
+      "preexists",
+      "preexisted",
+      "preexisting"
+    ],
+    "stored": [
+      "preexists",
+      "preexisted"
+    ],
+    "omitted": [
+      "preexisting"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "prefabricate",
+    "proposed": [
+      "prefabricates",
+      "prefabricated",
+      "prefabricating"
+    ],
+    "stored": [
+      "prefabricates",
+      "prefabricated",
+      "prefabricating"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "spelunk",
+    "proposed": [
+      "spelunks",
+      "spelunked",
+      "spelunking"
+    ],
+    "stored": [
+      "spelunks",
+      "spelunked",
+      "spelunking"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "spoonfeed",
+    "proposed": [
+      "spoonfeeds",
+      "spoonfeeded",
+      "spoonfeeding"
+    ],
+    "stored": [
+      "spoonfeeds",
+      "spoonfeeded",
+      "spoonfeeding"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "tauten",
+    "proposed": [
+      "tautens",
+      "tautened",
+      "tautening"
+    ],
+    "stored": [
+      "tautens",
+      "tautened",
+      "tautening"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "unbosom",
+    "proposed": [
+      "unbosoms",
+      "unbosomed",
+      "unbosoming"
+    ],
+    "stored": [
+      "unbosoms",
+      "unbosomed",
+      "unbosoming"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "uncloak",
+    "proposed": [
+      "uncloaks",
+      "uncloaked",
+      "uncloaking"
+    ],
+    "stored": [
+      "uncloaks",
+      "uncloaked",
+      "uncloaking"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "unclothe",
+    "proposed": [
+      "unclothes",
+      "unclothed",
+      "unclothing"
+    ],
+    "stored": [
+      "unclothes",
+      "unclothing"
+    ],
+    "omitted": [
+      "unclothed"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "underquote",
+    "proposed": [
+      "underquotes",
+      "underquoted",
+      "underquoting"
+    ],
+    "stored": [
+      "underquotes",
+      "underquoted",
+      "underquoting"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "unfrock",
+    "proposed": [
+      "unfrocks",
+      "unfrocked",
+      "unfrocking"
+    ],
+    "stored": [
+      "unfrocks",
+      "unfrocked",
+      "unfrocking"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "unreel",
+    "proposed": [
+      "unreels",
+      "unreeled",
+      "unreeling"
+    ],
+    "stored": [
+      "unreels",
+      "unreeled",
+      "unreeling"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "unsnarl",
+    "proposed": [
+      "unsnarls",
+      "unsnarled",
+      "unsnarling"
+    ],
+    "stored": [
+      "unsnarls",
+      "unsnarled",
+      "unsnarling"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "unyoke",
+    "proposed": [
+      "unyokes",
+      "unyoked",
+      "unyoking"
+    ],
+    "stored": [
+      "unyokes",
+      "unyoked",
+      "unyoking"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "tatterdemalion",
+    "proposed": [
+      "tatterdemalions"
+    ],
+    "stored": [
+      "tatterdemalions"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "antimacassar",
+    "proposed": [
+      "antimacassars"
+    ],
+    "stored": [
+      "antimacassars"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "averment",
+    "proposed": [
+      "averments"
+    ],
+    "stored": [
+      "averments"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "breechloader",
+    "proposed": [
+      "breechloaders"
+    ],
+    "stored": [
+      "breechloaders"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "buttinsky",
+    "proposed": [
+      "buttinskies"
+    ],
+    "stored": [
+      "buttinskies"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "carrycot",
+    "proposed": [
+      "carrycots"
+    ],
+    "stored": [
+      "carrycots"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "checkroom",
+    "proposed": [
+      "checkrooms"
+    ],
+    "stored": [
+      "checkrooms"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "clanswoman",
+    "proposed": [
+      "clanswomans"
+    ],
+    "stored": [
+      "clanswomans"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "cotenant",
+    "proposed": [
+      "cotenants"
+    ],
+    "stored": [
+      "cotenants"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "counterblow",
+    "proposed": [
+      "counterblows"
+    ],
+    "stored": [
+      "counterblows"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "cowpie",
+    "proposed": [
+      "cowpies"
+    ],
+    "stored": [
+      "cowpies"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "dawdler",
+    "proposed": [
+      "dawdlers"
+    ],
+    "stored": [
+      "dawdlers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "devisee",
+    "proposed": [
+      "devisees"
+    ],
+    "stored": [
+      "devisees"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "dockhand",
+    "proposed": [
+      "dockhands"
+    ],
+    "stored": [
+      "dockhands"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "doorknocker",
+    "proposed": [
+      "doorknockers"
+    ],
+    "stored": [
+      "doorknockers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "earflap",
+    "proposed": [
+      "earflaps"
+    ],
+    "stored": [
+      "earflaps"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "eyetooth",
+    "proposed": [
+      "eye-teeth",
+      "eyeteeth"
+    ],
+    "stored": [
+      "eyeteeth"
+    ],
+    "omitted": [
+      "eye-teeth"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "fencesitter",
+    "proposed": [
+      "fencesitters"
+    ],
+    "stored": [
+      "fencesitters"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "foglamp",
+    "proposed": [
+      "foglamps"
+    ],
+    "stored": [
+      "foglamps"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "grandstander",
+    "proposed": [
+      "grandstanders"
+    ],
+    "stored": [
+      "grandstanders"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "groveler",
+    "proposed": [
+      "grovelers"
+    ],
+    "stored": [
+      "grovelers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "hoopskirt",
+    "proposed": [
+      "hoopskirts"
+    ],
+    "stored": [
+      "hoopskirts"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "hoosgow",
+    "proposed": [
+      "hoosgows"
+    ],
+    "stored": [
+      "hoosgows"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "infelicity",
+    "proposed": [
+      "infelicity"
+    ],
+    "stored": [],
+    "omitted": [
+      "infelicity"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "jabberer",
+    "proposed": [
+      "jabberers"
+    ],
+    "stored": [
+      "jabberers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "jarful",
+    "proposed": [
+      "jarfuls"
+    ],
+    "stored": [
+      "jarfuls"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "kettleful",
+    "proposed": [
+      "kettlefuls"
+    ],
+    "stored": [
+      "kettlefuls"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "nailbrush",
+    "proposed": [
+      "nailbrushes"
+    ],
+    "stored": [
+      "nailbrushes"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "nudnik",
+    "proposed": [
+      "nudniks"
+    ],
+    "stored": [
+      "nudniks"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "oilcan",
+    "proposed": [
+      "oilcans"
+    ],
+    "stored": [
+      "oilcans"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "oilstone",
+    "proposed": [
+      "oilstones"
+    ],
+    "stored": [
+      "oilstones"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "outdoorswoman",
+    "proposed": [
+      "outdoorswomans"
+    ],
+    "stored": [
+      "outdoorswomans"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "paperknife",
+    "proposed": [
+      "paperknifes"
+    ],
+    "stored": [
+      "paperknifes"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "playscript",
+    "proposed": [
+      "playscripts"
+    ],
+    "stored": [
+      "playscripts"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "pointsman",
+    "proposed": [
+      "pointsmans"
+    ],
+    "stored": [
+      "pointsmans"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "promptbook",
+    "proposed": [
+      "promptbooks"
+    ],
+    "stored": [
+      "promptbooks"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "ropemaker",
+    "proposed": [
+      "ropemakers"
+    ],
+    "stored": [
+      "ropemakers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "rowlock",
+    "proposed": [
+      "rowlocks"
+    ],
+    "stored": [
+      "rowlocks"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "ruminator",
+    "proposed": [
+      "ruminators"
+    ],
+    "stored": [
+      "ruminators"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "saltcellar",
+    "proposed": [
+      "saltcellars"
+    ],
+    "stored": [
+      "saltcellars"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "scandalmonger",
+    "proposed": [
+      "scandalmongers"
+    ],
+    "stored": [
+      "scandalmongers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "sceneshifter",
+    "proposed": [
+      "sceneshifters"
+    ],
+    "stored": [
+      "sceneshifters"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "schoolfellow",
+    "proposed": [
+      "schoolfellows"
+    ],
+    "stored": [
+      "schoolfellows"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "slowcoach",
+    "proposed": [
+      "slowcoaches"
+    ],
+    "stored": [
+      "slowcoaches"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "slyboots",
+    "proposed": [
+      "slybootses"
+    ],
+    "stored": [
+      "slybootses"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "sniveller",
+    "proposed": [
+      "snivellers"
+    ],
+    "stored": [
+      "snivellers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "spyhole",
+    "proposed": [
+      "spyholes"
+    ],
+    "stored": [
+      "spyholes"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "squabbler",
+    "proposed": [
+      "squabblers"
+    ],
+    "stored": [
+      "squabblers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "squanderer",
+    "proposed": [
+      "squanderers"
+    ],
+    "stored": [
+      "squanderers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "steamfitter",
+    "proposed": [
+      "steamfitters"
+    ],
+    "stored": [
+      "steamfitters"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "stewpan",
+    "proposed": [
+      "stewpans"
+    ],
+    "stored": [
+      "stewpans"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "stripteaser",
+    "proposed": [
+      "stripteasers"
+    ],
+    "stored": [
+      "stripteasers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "stumblebum",
+    "proposed": [
+      "stumblebums"
+    ],
+    "stored": [
+      "stumblebums"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "supplanter",
+    "proposed": [
+      "supplanters"
+    ],
+    "stored": [
+      "supplanters"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "swellhead",
+    "proposed": [
+      "swellhead"
+    ],
+    "stored": [],
+    "omitted": [
+      "swellhead"
+    ],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "teacupful",
+    "proposed": [
+      "teacupfuls"
+    ],
+    "stored": [
+      "teacupfuls"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "tiepin",
+    "proposed": [
+      "tiepins"
+    ],
+    "stored": [
+      "tiepins"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "trencherman",
+    "proposed": [
+      "trenchermans"
+    ],
+    "stored": [
+      "trenchermans"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "waddler",
+    "proposed": [
+      "waddlers"
+    ],
+    "stored": [
+      "waddlers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "waterskin",
+    "proposed": [
+      "waterskins"
+    ],
+    "stored": [
+      "waterskins"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "woodscrew",
+    "proposed": [
+      "woodscrews"
+    ],
+    "stored": [
+      "woodscrews"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "workbasket",
+    "proposed": [
+      "workbaskets"
+    ],
+    "stored": [
+      "workbaskets"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "titer",
+    "proposed": [
+      "titers"
+    ],
+    "stored": [
+      "titers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "thermistor",
+    "proposed": [
+      "thermistors"
+    ],
+    "stored": [
+      "thermistors"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "microstructure",
+    "proposed": [
+      "microstructures"
+    ],
+    "stored": [
+      "microstructures"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "epiglottis",
+    "proposed": [
+      "epiglottides",
+      "epiglottises"
+    ],
+    "stored": [
+      "epiglottides",
+      "epiglottises"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "organophosphate",
+    "proposed": [
+      "organophosphates"
+    ],
+    "stored": [
+      "organophosphates"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "nevus",
+    "proposed": [
+      "nevuses"
+    ],
+    "stored": [
+      "nevuses"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "meningioma",
+    "proposed": [
+      "meningiomas"
+    ],
+    "stored": [
+      "meningiomas"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "clubhead",
+    "proposed": [
+      "clubheads"
+    ],
+    "stored": [
+      "clubheads"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "occiput",
+    "proposed": [
+      "occiputs"
+    ],
+    "stored": [
+      "occiputs"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "toxoid",
+    "proposed": [
+      "toxoids"
+    ],
+    "stored": [
+      "toxoids"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "fibroma",
+    "proposed": [
+      "fibromas"
+    ],
+    "stored": [
+      "fibromas"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "prokaryote",
+    "proposed": [
+      "prokaryotes"
+    ],
+    "stored": [
+      "prokaryotes"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "hydrocele",
+    "proposed": [
+      "hydroceles"
+    ],
+    "stored": [
+      "hydroceles"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "fasciculation",
+    "proposed": [
+      "fasciculations"
+    ],
+    "stored": [
+      "fasciculations"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "resuscitator",
+    "proposed": [
+      "resuscitators"
+    ],
+    "stored": [
+      "resuscitators"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "phonetician",
+    "proposed": [
+      "phoneticians"
+    ],
+    "stored": [
+      "phoneticians"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "macroeconomist",
+    "proposed": [
+      "macroeconomists"
+    ],
+    "stored": [
+      "macroeconomists"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "microeconomist",
+    "proposed": [
+      "microeconomists"
+    ],
+    "stored": [
+      "microeconomists"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "glassworker",
+    "proposed": [
+      "glassworkers"
+    ],
+    "stored": [
+      "glassworkers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "laundrywoman",
+    "proposed": [
+      "laundrywomans"
+    ],
+    "stored": [
+      "laundrywomans"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "refinisher",
+    "proposed": [
+      "refinishers"
+    ],
+    "stored": [
+      "refinishers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "varnisher",
+    "proposed": [
+      "varnishers"
+    ],
+    "stored": [
+      "varnishers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "needleworker",
+    "proposed": [
+      "needleworkers"
+    ],
+    "stored": [
+      "needleworkers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "shielder",
+    "proposed": [
+      "shielders"
+    ],
+    "stored": [
+      "shielders"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "eponym",
+    "proposed": [
+      "eponyms"
+    ],
+    "stored": [
+      "eponyms"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "empurple",
+    "proposed": [
+      "empurples",
+      "empurpled",
+      "empurpling"
+    ],
+    "stored": [
+      "empurples",
+      "empurpled",
+      "empurpling"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "outgeneral",
+    "proposed": [
+      "outgenerals",
+      "outgeneraled",
+      "outgeneraling"
+    ],
+    "stored": [
+      "outgenerals",
+      "outgeneraled",
+      "outgeneraling"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "outrival",
+    "proposed": [
+      "outrivals",
+      "outrivaled",
+      "outrivaling"
+    ],
+    "stored": [
+      "outrivals",
+      "outrivaled",
+      "outrivaling"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "foreknow",
+    "proposed": [
+      "foreknows",
+      "foreknowed",
+      "foreknowing"
+    ],
+    "stored": [
+      "foreknows",
+      "foreknowed",
+      "foreknowing"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "forefend",
+    "proposed": [
+      "forefends",
+      "forefended",
+      "forefending"
+    ],
+    "stored": [
+      "forefends",
+      "forefended",
+      "forefending"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "unweave",
+    "proposed": [
+      "unweaves",
+      "unweaved",
+      "unweaving"
+    ],
+    "stored": [
+      "unweaves",
+      "unweaved",
+      "unweaving"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "reprover",
+    "proposed": [
+      "reprovers"
+    ],
+    "stored": [
+      "reprovers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "reconciler",
+    "proposed": [
+      "reconcilers"
+    ],
+    "stored": [
+      "reconcilers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "extortioner",
+    "proposed": [
+      "extortioners"
+    ],
+    "stored": [
+      "extortioners"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "deviser",
+    "proposed": [
+      "devisers"
+    ],
+    "stored": [
+      "devisers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "despoiler",
+    "proposed": [
+      "despoilers"
+    ],
+    "stored": [
+      "despoilers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "expounder",
+    "proposed": [
+      "expounders"
+    ],
+    "stored": [
+      "expounders"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "falsifier",
+    "proposed": [
+      "falsifiers"
+    ],
+    "stored": [
+      "falsifiers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "trustor",
+    "proposed": [
+      "trustors"
+    ],
+    "stored": [
+      "trustors"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "promisee",
+    "proposed": [
+      "promisees"
+    ],
+    "stored": [
+      "promisees"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "vendee",
+    "proposed": [
+      "vendees"
+    ],
+    "stored": [
+      "vendees"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "disburser",
+    "proposed": [
+      "disbursers"
+    ],
+    "stored": [
+      "disbursers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "surrebutter",
+    "proposed": [
+      "surrebutters"
+    ],
+    "stored": [
+      "surrebutters"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  },
+  {
+    "word": "waverer",
+    "proposed": [
+      "waverers"
+    ],
+    "stored": [
+      "waverers"
+    ],
+    "omitted": [],
+    "review": "Count nouns explicitly selected by authored N tag; verbs reviewed by authored v tag; global root collision filtering still required."
+  }
+]

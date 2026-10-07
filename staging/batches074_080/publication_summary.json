@@ -1,0 +1,57 @@
+{
+  "baselineCommit": "f19387bdfb7153bd4022de29a0278dd5e8431a75",
+  "baselineLookupKeys": 56703,
+  "drafts": 3579,
+  "editorialRejections": 60,
+  "unpublishedSurplus": 19,
+  "headwords": 3500,
+  "storedForms": 1975,
+  "lookupKeysAdded": 5475,
+  "meanings": 3983,
+  "removedForms": 12,
+  "verifiedAllowlistAdditions": 1317,
+  "batches": [
+    {
+      "batch": 74,
+      "headwords": 500,
+      "forms": 344,
+      "meanings": 628
+    },
+    {
+      "batch": 75,
+      "headwords": 500,
+      "forms": 227,
+      "meanings": 562
+    },
+    {
+      "batch": 76,
+      "headwords": 500,
+      "forms": 280,
+      "meanings": 551
+    },
+    {
+      "batch": 77,
+      "headwords": 500,
+      "forms": 241,
+      "meanings": 570
+    },
+    {
+      "batch": 78,
+      "headwords": 500,
+      "forms": 181,
+      "meanings": 569
+    },
+    {
+      "batch": 79,
+      "headwords": 500,
+      "forms": 361,
+      "meanings": 550
+    },
+    {
+      "batch": 80,
+      "headwords": 500,
+      "forms": 341,
+      "meanings": 553
+    }
+  ]
+}

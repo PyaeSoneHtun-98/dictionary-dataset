@@ -1,0 +1,21 @@
+{
+  "entries": 1043,
+  "forms": 662,
+  "baselineKeys": 56703,
+  "excludedDrafts": [
+    {
+      "word": "unlabelled",
+      "reason": "covered American spelling variant"
+    },
+    {
+      "word": "unarmoured",
+      "reason": "covered American spelling variant"
+    },
+    {
+      "word": "carver",
+      "reason": "current lookup key"
+    }
+  ],
+  "errors": [],
+  "compoundFlags": 367
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-07",
+  "testSuite": {
+    "command": ".local-venv/Scripts/python.exe -m unittest tests/test_extension_dictionary.py tests/test_phrase_dictionary.py",
+    "exitCode": 0,
+    "output": "........................\r\n----------------------------------------------------------------------\r\nRan 24 tests in 7.437s\r\n\r\nOK"
+  },
+  "artifactCheck": {
+    "command": ".local-venv/Scripts/python.exe scripts/build_extension_artifact.py --check",
+    "exitCode": 0,
+    "sha256": "2c0818ba6d5d835af2a28a5d2a98c0a96b6414d0af2c252bf9caf32a1bc16086"
+  },
+  "priorExtensionEntries": {
+    "count": 6500,
+    "changedHeads": [],
+    "comparison": "Compared previous Git HEAD artifact with rebuilt entries by canonical head."
+  },
+  "frozenArtifact": {
+    "sha256Utf8Lf": "fcdb26986ed62bfaa130732ed0e88cc2e30bbc7f964b4b16de47f809783ed325",
+    "changedPaths": []
+  },
+  "phraseProject": {
+    "changedPaths": []
+  },
+  "nativeBurmeseSignoff": false,
+  "windowsApplicationLookupTesting": false
+}

@@ -1,0 +1,8577 @@
+[
+  {
+    "word": "lot",
+    "proposed": [
+      "lots",
+      "lot"
+    ],
+    "stored": [
+      "lots"
+    ],
+    "excluded": [
+      "lot"
+    ]
+  },
+  {
+    "word": "hit",
+    "proposed": [
+      "hits",
+      "hitting"
+    ],
+    "stored": [
+      "hits"
+    ],
+    "excluded": [
+      "hitting"
+    ]
+  },
+  {
+    "word": "cut",
+    "proposed": [
+      "cuts",
+      "cutting"
+    ],
+    "stored": [
+      "cuts"
+    ],
+    "excluded": [
+      "cutting"
+    ]
+  },
+  {
+    "word": "kid",
+    "proposed": [
+      "kids",
+      "kidded",
+      "kidding"
+    ],
+    "stored": [
+      "kids",
+      "kidded",
+      "kidding"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "pro",
+    "proposed": [
+      "pros"
+    ],
+    "stored": [
+      "pros"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "ex",
+    "proposed": [
+      "exes"
+    ],
+    "stored": [
+      "exes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "mad",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "rip",
+    "proposed": [
+      "rips",
+      "ripped",
+      "ripping"
+    ],
+    "stored": [
+      "rips",
+      "ripped"
+    ],
+    "excluded": [
+      "ripping"
+    ]
+  },
+  {
+    "word": "pat",
+    "proposed": [
+      "pats",
+      "patted",
+      "patting"
+    ],
+    "stored": [
+      "pats",
+      "patted",
+      "patting"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "par",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "ad",
+    "proposed": [
+      "ads"
+    ],
+    "stored": [
+      "ads"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "vet",
+    "proposed": [
+      "vets",
+      "vetted",
+      "vetting"
+    ],
+    "stored": [
+      "vets",
+      "vetted",
+      "vetting"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "cod",
+    "proposed": [
+      "cods",
+      "cod"
+    ],
+    "stored": [
+      "cods"
+    ],
+    "excluded": [
+      "cod"
+    ]
+  },
+  {
+    "word": "homer",
+    "proposed": [
+      "homers"
+    ],
+    "stored": [
+      "homers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "id",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "bum",
+    "proposed": [
+      "bums",
+      "bummed",
+      "bumming"
+    ],
+    "stored": [
+      "bums",
+      "bummed",
+      "bumming"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "sterling",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "wed",
+    "proposed": [
+      "weds",
+      "wed",
+      "wedded",
+      "wedding"
+    ],
+    "stored": [
+      "weds",
+      "wedded"
+    ],
+    "excluded": [
+      "wed",
+      "wedding"
+    ]
+  },
+  {
+    "word": "darling",
+    "proposed": [
+      "darlings",
+      "darling"
+    ],
+    "stored": [
+      "darlings"
+    ],
+    "excluded": [
+      "darling"
+    ]
+  },
+  {
+    "word": "gee",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "git",
+    "proposed": [
+      "gits"
+    ],
+    "stored": [
+      "gits"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "fey",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "obi",
+    "proposed": [
+      "obis"
+    ],
+    "stored": [
+      "obis"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "lac",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "raja",
+    "proposed": [
+      "rajas"
+    ],
+    "stored": [
+      "rajas"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "fen",
+    "proposed": [
+      "fens"
+    ],
+    "stored": [
+      "fens"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "ewe",
+    "proposed": [
+      "ewes"
+    ],
+    "stored": [
+      "ewes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "bap",
+    "proposed": [
+      "baps"
+    ],
+    "stored": [
+      "baps"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "cay",
+    "proposed": [
+      "cays"
+    ],
+    "stored": [
+      "cays"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "imperium",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "overtop",
+    "proposed": [
+      "overtops",
+      "overtoped",
+      "overtoping"
+    ],
+    "stored": [
+      "overtops",
+      "overtoped",
+      "overtoping"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "indisposed",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "lox",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "overstuffed",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "plenipotentiary",
+    "proposed": [
+      "plenipotentiaries"
+    ],
+    "stored": [
+      "plenipotentiaries"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "alb",
+    "proposed": [
+      "albs"
+    ],
+    "stored": [
+      "albs"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "nog",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "honeyed",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "jaundiced",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "bishopric",
+    "proposed": [
+      "bishoprics"
+    ],
+    "stored": [
+      "bishoprics"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "bushing",
+    "proposed": [
+      "bushings"
+    ],
+    "stored": [
+      "bushings"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "sainted",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "nonplussed",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "hotfoot",
+    "proposed": [
+      "hotfoots",
+      "hotfooted",
+      "hotfooting"
+    ],
+    "stored": [
+      "hotfoots",
+      "hotfooted",
+      "hotfooting"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "constructivist",
+    "proposed": [
+      "constructivists"
+    ],
+    "stored": [
+      "constructivists"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "condole",
+    "proposed": [
+      "condoles",
+      "condoled",
+      "condoling"
+    ],
+    "stored": [
+      "condoles",
+      "condoled",
+      "condoling"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "duomo",
+    "proposed": [
+      "duomos"
+    ],
+    "stored": [
+      "duomos"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "overlie",
+    "proposed": [
+      "overlies",
+      "overlay",
+      "overlain",
+      "overlying"
+    ],
+    "stored": [
+      "overlies",
+      "overlain",
+      "overlying"
+    ],
+    "excluded": [
+      "overlay"
+    ]
+  },
+  {
+    "word": "enfilade",
+    "proposed": [
+      "enfilades",
+      "enfiladed",
+      "enfilading"
+    ],
+    "stored": [
+      "enfilades",
+      "enfiladed",
+      "enfilading"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "handwash",
+    "proposed": [
+      "handwashes",
+      "handwashed",
+      "handwashing"
+    ],
+    "stored": [
+      "handwashes",
+      "handwashed",
+      "handwashing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "awl",
+    "proposed": [
+      "awls"
+    ],
+    "stored": [
+      "awls"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "cud",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "fanged",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "handwrite",
+    "proposed": [
+      "handwrites",
+      "handwrote",
+      "handwritten",
+      "handwriting"
+    ],
+    "stored": [
+      "handwrites",
+      "handwrote"
+    ],
+    "excluded": [
+      "handwritten",
+      "handwriting"
+    ]
+  },
+  {
+    "word": "sough",
+    "proposed": [
+      "soughs",
+      "soughed",
+      "soughing"
+    ],
+    "stored": [
+      "soughs",
+      "soughed",
+      "soughing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "shadowbox",
+    "proposed": [
+      "shadowboxes",
+      "shadowboxed",
+      "shadowboxing"
+    ],
+    "stored": [
+      "shadowboxes",
+      "shadowboxed",
+      "shadowboxing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "unalloyed",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "topnotch",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "inhere",
+    "proposed": [
+      "inheres",
+      "inhered",
+      "inhering"
+    ],
+    "stored": [
+      "inheres",
+      "inhered",
+      "inhering"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "underfed",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unhampered",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "nuncio",
+    "proposed": [
+      "nuncios"
+    ],
+    "stored": [
+      "nuncios"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "mudder",
+    "proposed": [
+      "mudders"
+    ],
+    "stored": [
+      "mudders"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "scrag",
+    "proposed": [
+      "scrags",
+      "scragged",
+      "scragging"
+    ],
+    "stored": [
+      "scrags",
+      "scragged",
+      "scragging"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "spectacled",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "untended",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "counterpoise",
+    "proposed": [
+      "counterpoises"
+    ],
+    "stored": [
+      "counterpoises"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "mujahid",
+    "proposed": [
+      "mujahidin",
+      "mujahideen"
+    ],
+    "stored": [
+      "mujahidin",
+      "mujahideen"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "unaired",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sportscast",
+    "proposed": [
+      "sportscasts"
+    ],
+    "stored": [
+      "sportscasts"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "tiptop",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "piddling",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "pudge",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "spume",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unshackled",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unvoiced",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "impanel",
+    "proposed": [
+      "empanels",
+      "impanels",
+      "empanelled",
+      "impaneled",
+      "impanelled",
+      "empanelling",
+      "impaneling",
+      "impanelling"
+    ],
+    "stored": [
+      "empanels",
+      "impanels",
+      "empanelled",
+      "impaneled",
+      "impanelled",
+      "empanelling",
+      "impaneling",
+      "impanelling"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "pedigreed",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unequipped",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unflavored",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "overbear",
+    "proposed": [
+      "overbears",
+      "overbore",
+      "overborne",
+      "overbearing"
+    ],
+    "stored": [
+      "overbears",
+      "overbore",
+      "overborne"
+    ],
+    "excluded": [
+      "overbearing"
+    ]
+  },
+  {
+    "word": "fusilier",
+    "proposed": [
+      "fusiliers"
+    ],
+    "stored": [
+      "fusiliers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "prizewinning",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "ungoverned",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unprepossessing",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unshaved",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unschooled",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sandlot",
+    "proposed": [
+      "sandlots"
+    ],
+    "stored": [
+      "sandlots"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "unthreatening",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "cretinous",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "nobble",
+    "proposed": [
+      "nobbles",
+      "nobbled",
+      "nobbling"
+    ],
+    "stored": [
+      "nobbles",
+      "nobbled",
+      "nobbling"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "shofar",
+    "proposed": [
+      "shofars"
+    ],
+    "stored": [
+      "shofars"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "undyed",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "doctrinally",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "interpenetrate",
+    "proposed": [
+      "interpenetrates",
+      "interpenetrated",
+      "interpenetrating"
+    ],
+    "stored": [
+      "interpenetrates",
+      "interpenetrated",
+      "interpenetrating"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "outpoint",
+    "proposed": [
+      "outpoints",
+      "outpointed",
+      "outpointing"
+    ],
+    "stored": [
+      "outpoints",
+      "outpointed",
+      "outpointing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "tinpot",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "undereducated",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "untracked",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "tenderhearted",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "uncomprehending",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "acclimatization",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "blandish",
+    "proposed": [
+      "blandishes",
+      "blandished",
+      "blandishing"
+    ],
+    "stored": [
+      "blandishes",
+      "blandished",
+      "blandishing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "quadrupedal",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "cryptographically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "decrement",
+    "proposed": [
+      "decrements"
+    ],
+    "stored": [
+      "decrements"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "execrate",
+    "proposed": [
+      "execrates",
+      "execrated",
+      "execrating"
+    ],
+    "stored": [
+      "execrates",
+      "execrated",
+      "execrating"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "underpopulated",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "undescended",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "untrammeled",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "halyard",
+    "proposed": [
+      "halyards"
+    ],
+    "stored": [
+      "halyards"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "parasailing",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "theremin",
+    "proposed": [
+      "theremins"
+    ],
+    "stored": [
+      "theremins"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "wolfhound",
+    "proposed": [
+      "wolfhounds"
+    ],
+    "stored": [
+      "wolfhounds"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "bandeau",
+    "proposed": [
+      "bandeaus"
+    ],
+    "stored": [
+      "bandeaus"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "gesso",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "counterterror",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "prepossessing",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "bowstring",
+    "proposed": [
+      "bowstrings"
+    ],
+    "stored": [
+      "bowstrings"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "chivvy",
+    "proposed": [
+      "chivvies",
+      "chivvied",
+      "chivvying"
+    ],
+    "stored": [
+      "chivvies",
+      "chivvied",
+      "chivvying"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "sublimity",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "tossup",
+    "proposed": [
+      "tossups"
+    ],
+    "stored": [
+      "tossups"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "shopworn",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "abeam",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "forsythia",
+    "proposed": [
+      "forsythia"
+    ],
+    "stored": [],
+    "excluded": [
+      "forsythia"
+    ]
+  },
+  {
+    "word": "kilohertz",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "meetinghouse",
+    "proposed": [
+      "meetinghouses"
+    ],
+    "stored": [
+      "meetinghouses"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "tinplate",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "evolutionist",
+    "proposed": [
+      "evolutionists"
+    ],
+    "stored": [
+      "evolutionists"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "propertied",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "parvenu",
+    "proposed": [
+      "parvenus"
+    ],
+    "stored": [
+      "parvenus"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "consolingly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "stirringly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "congenially",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sonorously",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "tunefully",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "bombastically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "cuttingly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "parochially",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "woodenly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "clamorously",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "penitently",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "turbulently",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "tunelessly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "drably",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "truculently",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "hazardously",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "illegibly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "tastelessly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "winsomely",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "obdurately",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "chirpily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "odiously",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "lugubriously",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "quixotically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "aristocratically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "dementedly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "desolately",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "equably",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "snobbishly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "abortively",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "accommodatingly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "anarchically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "antithetically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "barefacedly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "cantankerously",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "cheerlessly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "chorally",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "cliquishly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "conjugally",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "convivially",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "covetously",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "cursively",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "damply",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "delusively",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "dingily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "domineeringly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "dowdily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "entreatingly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "faultily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "fecklessly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "fervidly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "filthily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "forgivably",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "friskily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "gloweringly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "grouchily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "grubbily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "grungily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "haggardly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "heedfully",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "idyllically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "illiberally",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "jeeringly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "knavishly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "licentiously",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "lividly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "loquaciously",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "measuredly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "mendaciously",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "modishly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "moistly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "mulishly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "musingly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "neglectfully",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "nervily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "obstreperously",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "owlishly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "palatably",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "pettily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "placatingly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "poutingly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "prissily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "provokingly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "pryingly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "puckishly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "pugnaciously",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "queasily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "racily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "raffishly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "ramblingly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "repentantly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "restively",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "reticently",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "revengefully",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "rottenly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "rowdily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "scurrilously",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "shambolically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sidesplittingly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "slangily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "spicily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sprucely",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "stagily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "standoffishly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "stodgily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "stormily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "stuffily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sultrily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "surlily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "tetchily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "torpidly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "trimly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "wackily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "waggishly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "wheezily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "zestfully",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "storytelling",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "standout",
+    "proposed": [
+      "standouts"
+    ],
+    "stored": [
+      "standouts"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "seamlessly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unsurprisingly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "slideshow",
+    "proposed": [
+      "slideshows"
+    ],
+    "stored": [
+      "slideshows"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "treehouse",
+    "proposed": [
+      "treehouses"
+    ],
+    "stored": [
+      "treehouses"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "intercultural",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "programmatic",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "searchable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unfiltered",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "homeschool",
+    "proposed": [
+      "homeschools",
+      "homeschooled",
+      "homeschooling"
+    ],
+    "stored": [
+      "homeschools",
+      "homeschooled",
+      "homeschooling"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "stateside",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "treatable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "shitload",
+    "proposed": [
+      "shitloads"
+    ],
+    "stored": [
+      "shitloads"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "terracotta",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "dancehall",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "electronica",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "globalist",
+    "proposed": [
+      "globalists"
+    ],
+    "stored": [
+      "globalists"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "licensure",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "riverfront",
+    "proposed": [
+      "riverfronts"
+    ],
+    "stored": [
+      "riverfronts"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "breathable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "stormwater",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "incrementally",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "postgame",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "hyperspace",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "superfast",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "postcolonial",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sustainably",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "truckload",
+    "proposed": [
+      "truckloads"
+    ],
+    "stored": [
+      "truckloads"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "dodgeball",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "greenlight",
+    "proposed": [
+      "greenlights",
+      "greenlit",
+      "greenlighted",
+      "greenlighting"
+    ],
+    "stored": [
+      "greenlights",
+      "greenlit",
+      "greenlighted",
+      "greenlighting"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "nanoscale",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "regrowth",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "surefire",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "reintegration",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "timeshare",
+    "proposed": [
+      "timeshares"
+    ],
+    "stored": [
+      "timeshares"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "timestamp",
+    "proposed": [
+      "timestamps"
+    ],
+    "stored": [
+      "timestamps"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "smartass",
+    "proposed": [
+      "smartasses"
+    ],
+    "stored": [
+      "smartasses"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "unapologetically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "walkable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "cartoonish",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "stratospheric",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "globalism",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "prioritization",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "employability",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "multicast",
+    "proposed": [
+      "multicasts",
+      "multicasted",
+      "multicasting"
+    ],
+    "stored": [
+      "multicasts",
+      "multicasted",
+      "multicasting"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "southerner",
+    "proposed": [
+      "southerners"
+    ],
+    "stored": [
+      "southerners"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "deadlift",
+    "proposed": [
+      "deadlifts"
+    ],
+    "stored": [
+      "deadlifts"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "uncredited",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sourcebook",
+    "proposed": [
+      "sourcebooks"
+    ],
+    "stored": [
+      "sourcebooks"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "waterpark",
+    "proposed": [
+      "waterparks"
+    ],
+    "stored": [
+      "waterparks"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "shortwave",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "timeslot",
+    "proposed": [
+      "timeslots"
+    ],
+    "stored": [
+      "timeslots"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "quintessentially",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "gif",
+    "proposed": [
+      "gifs"
+    ],
+    "stored": [
+      "gifs"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "alt",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sim",
+    "proposed": [
+      "sims"
+    ],
+    "stored": [
+      "sims"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "wiki",
+    "proposed": [
+      "wikis"
+    ],
+    "stored": [
+      "wikis"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "bae",
+    "proposed": [
+      "baes"
+    ],
+    "stored": [
+      "baes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "trans",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "whereupon",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "overstrain",
+    "proposed": [
+      "overstrains",
+      "overstrained",
+      "overstraining"
+    ],
+    "stored": [
+      "overstrains",
+      "overstrained",
+      "overstraining"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "bighead",
+    "proposed": [
+      "bigheads"
+    ],
+    "stored": [
+      "bigheads"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "downslope",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unrevised",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "weaponless",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "bedsit",
+    "proposed": [
+      "bedsits"
+    ],
+    "stored": [
+      "bedsits"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "overpraise",
+    "proposed": [
+      "overpraises",
+      "overpraised",
+      "overpraising"
+    ],
+    "stored": [
+      "overpraises",
+      "overpraised",
+      "overpraising"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "bowlegged",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "centerfield",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "oldish",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "phototherapy",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "postbox",
+    "proposed": [
+      "postboxes"
+    ],
+    "stored": [
+      "postboxes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "unedifying",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "shamefaced",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "weensy",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "bosun",
+    "proposed": [
+      "bosuns"
+    ],
+    "stored": [
+      "bosuns"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "declamation",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "futurology",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "intercessor",
+    "proposed": [
+      "intercessors"
+    ],
+    "stored": [
+      "intercessors"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "offertory",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "propitiation",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "rooibos",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "showjumping",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "standpipe",
+    "proposed": [
+      "standpipes"
+    ],
+    "stored": [
+      "standpipes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "tagliatelle",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "yellowcake",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "dosimeter",
+    "proposed": [
+      "dosimeters"
+    ],
+    "stored": [
+      "dosimeters"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "leatherneck",
+    "proposed": [
+      "leathernecks"
+    ],
+    "stored": [
+      "leathernecks"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "uncropped",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unexcited",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "deliveryman",
+    "proposed": [
+      "deliverymans"
+    ],
+    "stored": [
+      "deliverymans"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "dumbfounding",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "fishhook",
+    "proposed": [
+      "fishhooks"
+    ],
+    "stored": [
+      "fishhooks"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "glassworks",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "horsewoman",
+    "proposed": [
+      "horsewomen"
+    ],
+    "stored": [
+      "horsewomen"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "lionhearted",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "musketry",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "neuropsychiatry",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "railhead",
+    "proposed": [
+      "railheads"
+    ],
+    "stored": [
+      "railheads"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "squirter",
+    "proposed": [
+      "squirters"
+    ],
+    "stored": [
+      "squirters"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "suzerain",
+    "proposed": [
+      "suzerains"
+    ],
+    "stored": [
+      "suzerains"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "unpackaged",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "equerry",
+    "proposed": [
+      "equerries"
+    ],
+    "stored": [
+      "equerries"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "namedrop",
+    "proposed": [
+      "namedrops",
+      "namedroped",
+      "namedroping"
+    ],
+    "stored": [
+      "namedrops",
+      "namedroped",
+      "namedroping"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "outdraw",
+    "proposed": [
+      "outdraws",
+      "outdrew",
+      "outdrawn",
+      "outdrawing"
+    ],
+    "stored": [
+      "outdraws",
+      "outdrew",
+      "outdrawn",
+      "outdrawing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "windbreak",
+    "proposed": [
+      "windbreaks"
+    ],
+    "stored": [
+      "windbreaks"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "unembarrassed",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unpersuaded",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "bechamel",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "cowled",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "muezzin",
+    "proposed": [
+      "muezzins"
+    ],
+    "stored": [
+      "muezzins"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "protoplasm",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sententious",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "soymilk",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "thunderhead",
+    "proposed": [
+      "thunderheads"
+    ],
+    "stored": [
+      "thunderheads"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "undomesticated",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "bioweapon",
+    "proposed": [
+      "bioweapons"
+    ],
+    "stored": [
+      "bioweapons"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "impasto",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "loveseat",
+    "proposed": [
+      "loveseats"
+    ],
+    "stored": [
+      "loveseats"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "miniaturist",
+    "proposed": [
+      "miniaturists"
+    ],
+    "stored": [
+      "miniaturists"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "nasturtium",
+    "proposed": [
+      "nasturtiums",
+      "nasturtium"
+    ],
+    "stored": [
+      "nasturtiums"
+    ],
+    "excluded": [
+      "nasturtium"
+    ]
+  },
+  {
+    "word": "neonatology",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "elfish",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "exclamatory",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "radiopaque",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "semisweet",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "clothespin",
+    "proposed": [
+      "clothespins"
+    ],
+    "stored": [
+      "clothespins"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "equipoise",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "herbage",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "odoriferous",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "owlet",
+    "proposed": [
+      "owlets"
+    ],
+    "stored": [
+      "owlets"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "peacoat",
+    "proposed": [
+      "peacoats"
+    ],
+    "stored": [
+      "peacoats"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "sapwood",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "slipcover",
+    "proposed": [
+      "slipcovers"
+    ],
+    "stored": [
+      "slipcovers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "vulpine",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "bronchiolitis",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "bunghole",
+    "proposed": [
+      "bungholes"
+    ],
+    "stored": [
+      "bungholes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "cedarwood",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "encomium",
+    "proposed": [
+      "encomiums"
+    ],
+    "stored": [
+      "encomiums"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "ileostomy",
+    "proposed": [
+      "ileostomies"
+    ],
+    "stored": [
+      "ileostomies"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "impetigo",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "tapenade",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "hypoactive",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "lidless",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sybaritic",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unplowed",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "antipasto",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "brindled",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "concuss",
+    "proposed": [
+      "concusses",
+      "concussed",
+      "concussing"
+    ],
+    "stored": [
+      "concusses",
+      "concussed",
+      "concussing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "efflorescence",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "goatherd",
+    "proposed": [
+      "goatherds"
+    ],
+    "stored": [
+      "goatherds"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "redbreast",
+    "proposed": [
+      "redbreasts"
+    ],
+    "stored": [
+      "redbreasts"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "rescript",
+    "proposed": [
+      "rescripts"
+    ],
+    "stored": [
+      "rescripts"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "sophistic",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "versification",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "epee",
+    "proposed": [
+      "epees"
+    ],
+    "stored": [
+      "epees"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "plimsoll",
+    "proposed": [
+      "plimsolls"
+    ],
+    "stored": [
+      "plimsolls"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "reckoner",
+    "proposed": [
+      "reckoners"
+    ],
+    "stored": [
+      "reckoners"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "strongbox",
+    "proposed": [
+      "strongboxes"
+    ],
+    "stored": [
+      "strongboxes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "tarantella",
+    "proposed": [
+      "tarantellas"
+    ],
+    "stored": [
+      "tarantellas"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "superabundant",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "uninflected",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "electrostatics",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "endodontics",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "expiatory",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "leisured",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "motorcoach",
+    "proposed": [
+      "motorcoaches"
+    ],
+    "stored": [
+      "motorcoaches"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "plasmapheresis",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "subtropics",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "tandoor",
+    "proposed": [
+      "tandoors"
+    ],
+    "stored": [
+      "tandoors"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "astringency",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "biodefense",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "dumbwaiter",
+    "proposed": [
+      "dumbwaiters"
+    ],
+    "stored": [
+      "dumbwaiters"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "rugger",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "vileness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "errorless",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "hempen",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "penurious",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "subaqueous",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "wizardly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "alembic",
+    "proposed": [
+      "alembics"
+    ],
+    "stored": [
+      "alembics"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "axiomatically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "brilliancy",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "dewdrop",
+    "proposed": [
+      "dewdrops"
+    ],
+    "stored": [
+      "dewdrops"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "donjon",
+    "proposed": [
+      "donjons"
+    ],
+    "stored": [
+      "donjons"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "flogger",
+    "proposed": [
+      "floggers"
+    ],
+    "stored": [
+      "floggers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "hosepipe",
+    "proposed": [
+      "hosepipes"
+    ],
+    "stored": [
+      "hosepipes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "illimitable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "nibbler",
+    "proposed": [
+      "nibblers"
+    ],
+    "stored": [
+      "nibblers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "orzo",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "postmistress",
+    "proposed": [
+      "postmistresses"
+    ],
+    "stored": [
+      "postmistresses"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "rambutan",
+    "proposed": [
+      "rambutans"
+    ],
+    "stored": [
+      "rambutans"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "rubato",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "swingeing",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "tostada",
+    "proposed": [
+      "tostadas"
+    ],
+    "stored": [
+      "tostadas"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "unripened",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "woodgrain",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "foredeck",
+    "proposed": [
+      "foredecks"
+    ],
+    "stored": [
+      "foredecks"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "forenoon",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "ropeway",
+    "proposed": [
+      "ropeways"
+    ],
+    "stored": [
+      "ropeways"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "scrapple",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "streambed",
+    "proposed": [
+      "streambeds"
+    ],
+    "stored": [
+      "streambeds"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "weighbridge",
+    "proposed": [
+      "weighbridges"
+    ],
+    "stored": [
+      "weighbridges"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "whitebait",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "appurtenant",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "hooved",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "ownerless",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "untempered",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "doglike",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "fadeout",
+    "proposed": [
+      "fadeouts"
+    ],
+    "stored": [
+      "fadeouts"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "jingly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "mahout",
+    "proposed": [
+      "mahouts"
+    ],
+    "stored": [
+      "mahouts"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "mangler",
+    "proposed": [
+      "manglers"
+    ],
+    "stored": [
+      "manglers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "moleskin",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "panoptic",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "pasturage",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "swinish",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unarticulated",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "ascription",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "lithographer",
+    "proposed": [
+      "lithographers"
+    ],
+    "stored": [
+      "lithographers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "packhorse",
+    "proposed": [
+      "packhorses"
+    ],
+    "stored": [
+      "packhorses"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "seedbed",
+    "proposed": [
+      "seedbeds"
+    ],
+    "stored": [
+      "seedbeds"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "workingman",
+    "proposed": [
+      "workingmen"
+    ],
+    "stored": [
+      "workingmen"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "chockablock",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unimposing",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unspecialized",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "boysenberry",
+    "proposed": [
+      "boysenberries",
+      "boysenberry"
+    ],
+    "stored": [
+      "boysenberries"
+    ],
+    "excluded": [
+      "boysenberry"
+    ]
+  },
+  {
+    "word": "chieftaincy",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "crofter",
+    "proposed": [
+      "crofters"
+    ],
+    "stored": [
+      "crofters"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "dandified",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "feebleminded",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "gorget",
+    "proposed": [
+      "gorgets"
+    ],
+    "stored": [
+      "gorgets"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "heterosexism",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "lunette",
+    "proposed": [
+      "lunettes"
+    ],
+    "stored": [
+      "lunettes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "spectrogram",
+    "proposed": [
+      "spectrograms"
+    ],
+    "stored": [
+      "spectrograms"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "surefooted",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "brambly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "comfortless",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "phantasmagorical",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "transplantable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "cockatrice",
+    "proposed": [
+      "cockatrices"
+    ],
+    "stored": [
+      "cockatrices"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "conjuncture",
+    "proposed": [
+      "conjunctures"
+    ],
+    "stored": [
+      "conjunctures"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "cowpox",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "outsole",
+    "proposed": [
+      "outsoles"
+    ],
+    "stored": [
+      "outsoles"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "plaint",
+    "proposed": [
+      "plaints"
+    ],
+    "stored": [
+      "plaints"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "almsgiving",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "aquavit",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "benzocaine",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "chignon",
+    "proposed": [
+      "chignons"
+    ],
+    "stored": [
+      "chignons"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "conferral",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "crosier",
+    "proposed": [
+      "crosiers"
+    ],
+    "stored": [
+      "crosiers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "dacoit",
+    "proposed": [
+      "dacoits"
+    ],
+    "stored": [
+      "dacoits"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "erratum",
+    "proposed": [
+      "errata"
+    ],
+    "stored": [
+      "errata"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "fordable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "foreignness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "intermittency",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "pubescence",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sexagenarian",
+    "proposed": [
+      "sexagenarians"
+    ],
+    "stored": [
+      "sexagenarians"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "unvented",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "hardhearted",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sozzled",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "coeducation",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "contradistinction",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "dragger",
+    "proposed": [
+      "draggers"
+    ],
+    "stored": [
+      "draggers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "epilator",
+    "proposed": [
+      "epilators"
+    ],
+    "stored": [
+      "epilators"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "floatplane",
+    "proposed": [
+      "floatplanes"
+    ],
+    "stored": [
+      "floatplanes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "knavish",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "lieutenancy",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "meerschaum",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "pilothouse",
+    "proposed": [
+      "pilothouses"
+    ],
+    "stored": [
+      "pilothouses"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "proselyte",
+    "proposed": [
+      "proselytes"
+    ],
+    "stored": [
+      "proselytes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "shako",
+    "proposed": [
+      "shakos"
+    ],
+    "stored": [
+      "shakos"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "shamisen",
+    "proposed": [
+      "shamisens"
+    ],
+    "stored": [
+      "shamisens"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "tyrannous",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unratified",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "voiceprint",
+    "proposed": [
+      "voiceprints"
+    ],
+    "stored": [
+      "voiceprints"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "undissolved",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "dermabrasion",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "fatback",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "roustabout",
+    "proposed": [
+      "roustabouts"
+    ],
+    "stored": [
+      "roustabouts"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "saleslady",
+    "proposed": [
+      "salesladies"
+    ],
+    "stored": [
+      "salesladies"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "antepartum",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "carpetbagging",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "dunghill",
+    "proposed": [
+      "dunghills"
+    ],
+    "stored": [
+      "dunghills"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "pageboy",
+    "proposed": [
+      "pageboys"
+    ],
+    "stored": [
+      "pageboys"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "sheepfold",
+    "proposed": [
+      "sheepfolds"
+    ],
+    "stored": [
+      "sheepfolds"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "causeless",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "reparable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "testate",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unlamented",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "externalization",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "lenience",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "saliency",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unitard",
+    "proposed": [
+      "unitards"
+    ],
+    "stored": [
+      "unitards"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "valediction",
+    "proposed": [
+      "valedictions"
+    ],
+    "stored": [
+      "valedictions"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "baksheesh",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "catamount",
+    "proposed": [
+      "catamounts"
+    ],
+    "stored": [
+      "catamounts"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "flatcar",
+    "proposed": [
+      "flatcars"
+    ],
+    "stored": [
+      "flatcars"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "neckband",
+    "proposed": [
+      "neckbands"
+    ],
+    "stored": [
+      "neckbands"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "sipper",
+    "proposed": [
+      "sippers"
+    ],
+    "stored": [
+      "sippers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "suffusion",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "transferor",
+    "proposed": [
+      "transferors"
+    ],
+    "stored": [
+      "transferors"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "verminous",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "whiskery",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "thickheaded",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "antiemetic",
+    "proposed": [
+      "antiemetics"
+    ],
+    "stored": [
+      "antiemetics"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "cautery",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "formalwear",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "oubliette",
+    "proposed": [
+      "oubliettes"
+    ],
+    "stored": [
+      "oubliettes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "provender",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "troopship",
+    "proposed": [
+      "troopships"
+    ],
+    "stored": [
+      "troopships"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "tugger",
+    "proposed": [
+      "tuggers"
+    ],
+    "stored": [
+      "tuggers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "cobwebby",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "coxcomb",
+    "proposed": [
+      "coxcombs"
+    ],
+    "stored": [
+      "coxcombs"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "efficaciously",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "executrix",
+    "proposed": [
+      "executrices"
+    ],
+    "stored": [
+      "executrices"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "flyspeck",
+    "proposed": [
+      "flyspecks"
+    ],
+    "stored": [
+      "flyspecks"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "frequenter",
+    "proposed": [
+      "frequenters"
+    ],
+    "stored": [
+      "frequenters"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "hatbox",
+    "proposed": [
+      "hatboxes"
+    ],
+    "stored": [
+      "hatboxes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "henbane",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "owlish",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sawbones",
+    "proposed": [
+      "sawboneses"
+    ],
+    "stored": [
+      "sawboneses"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "tramline",
+    "proposed": [
+      "tramlines"
+    ],
+    "stored": [
+      "tramlines"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "autodidactic",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "blowsy",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "cremains",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "depressor",
+    "proposed": [
+      "depressors"
+    ],
+    "stored": [
+      "depressors"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "exhaustible",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "headwaiter",
+    "proposed": [
+      "headwaiters"
+    ],
+    "stored": [
+      "headwaiters"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "razorblade",
+    "proposed": [
+      "razorblades"
+    ],
+    "stored": [
+      "razorblades"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "tenpin",
+    "proposed": [
+      "tenpins"
+    ],
+    "stored": [
+      "tenpins"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "thighbone",
+    "proposed": [
+      "thighbones"
+    ],
+    "stored": [
+      "thighbones"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "unhesitating",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "visored",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "rurally",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "greatcoat",
+    "proposed": [
+      "greatcoats"
+    ],
+    "stored": [
+      "greatcoats"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "invigilator",
+    "proposed": [
+      "invigilators"
+    ],
+    "stored": [
+      "invigilators"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "memorialization",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "muggins",
+    "proposed": [
+      "mugginses"
+    ],
+    "stored": [
+      "mugginses"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "toiler",
+    "proposed": [
+      "toilers"
+    ],
+    "stored": [
+      "toilers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "remediable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "anointment",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "assignor",
+    "proposed": [
+      "assignors"
+    ],
+    "stored": [
+      "assignors"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "carpetbag",
+    "proposed": [
+      "carpetbags"
+    ],
+    "stored": [
+      "carpetbags"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "elasticized",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "hawser",
+    "proposed": [
+      "hawsers"
+    ],
+    "stored": [
+      "hawsers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "whitecap",
+    "proposed": [
+      "whitecaps"
+    ],
+    "stored": [
+      "whitecaps"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "annuitant",
+    "proposed": [
+      "annuitants"
+    ],
+    "stored": [
+      "annuitants"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "braincase",
+    "proposed": [
+      "braincases"
+    ],
+    "stored": [
+      "braincases"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "customhouse",
+    "proposed": [
+      "customhouses"
+    ],
+    "stored": [
+      "customhouses"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "downstroke",
+    "proposed": [
+      "downstrokes"
+    ],
+    "stored": [
+      "downstrokes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "harmonizer",
+    "proposed": [
+      "harmonizers"
+    ],
+    "stored": [
+      "harmonizers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "partaker",
+    "proposed": [
+      "partakers"
+    ],
+    "stored": [
+      "partakers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "principalship",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "verruca",
+    "proposed": [
+      "verrucas"
+    ],
+    "stored": [
+      "verrucas"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "cataleptic",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "crosshatched",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "lissome",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "starlike",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "trancelike",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unmodulated",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unsalaried",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "corer",
+    "proposed": [
+      "corers"
+    ],
+    "stored": [
+      "corers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "deerstalker",
+    "proposed": [
+      "deerstalkers"
+    ],
+    "stored": [
+      "deerstalkers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "greasepaint",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "handclap",
+    "proposed": [
+      "handclaps"
+    ],
+    "stored": [
+      "handclaps"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "streetwalker",
+    "proposed": [
+      "streetwalkers"
+    ],
+    "stored": [
+      "streetwalkers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "unornamented",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "wrongfulness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "residentially",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "fanlight",
+    "proposed": [
+      "fanlights"
+    ],
+    "stored": [
+      "fanlights"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "glossolalia",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "toolshed",
+    "proposed": [
+      "toolsheds"
+    ],
+    "stored": [
+      "toolsheds"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "unvanquished",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unwearied",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "bushwhacker",
+    "proposed": [
+      "bushwhackers"
+    ],
+    "stored": [
+      "bushwhackers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "casuistry",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "emendation",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "princeling",
+    "proposed": [
+      "princelings"
+    ],
+    "stored": [
+      "princelings"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "reprobation",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "undiscerning",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unmourned",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "demurrer",
+    "proposed": [
+      "demurrers"
+    ],
+    "stored": [
+      "demurrers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "kindliness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "muscleman",
+    "proposed": [
+      "musclemans"
+    ],
+    "stored": [
+      "musclemans"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "parer",
+    "proposed": [
+      "parers"
+    ],
+    "stored": [
+      "parers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "punnet",
+    "proposed": [
+      "punnets"
+    ],
+    "stored": [
+      "punnets"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "toyshop",
+    "proposed": [
+      "toyshops"
+    ],
+    "stored": [
+      "toyshops"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "sissified",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unfeathered",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unguaranteed",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "venturous",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "bassoonist",
+    "proposed": [
+      "bassoonists"
+    ],
+    "stored": [
+      "bassoonists"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "beignet",
+    "proposed": [
+      "beignets"
+    ],
+    "stored": [
+      "beignets"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "cager",
+    "proposed": [
+      "cagers"
+    ],
+    "stored": [
+      "cagers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "eiderdown",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "factuality",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "haymaking",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "hoofer",
+    "proposed": [
+      "hoofers"
+    ],
+    "stored": [
+      "hoofers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "housetop",
+    "proposed": [
+      "housetops"
+    ],
+    "stored": [
+      "housetops"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "hypochondriacal",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "kepi",
+    "proposed": [
+      "kepis"
+    ],
+    "stored": [
+      "kepis"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "perfectible",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sensitizer",
+    "proposed": [
+      "sensitizers"
+    ],
+    "stored": [
+      "sensitizers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "worktable",
+    "proposed": [
+      "worktables"
+    ],
+    "stored": [
+      "worktables"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "daybook",
+    "proposed": [
+      "daybooks"
+    ],
+    "stored": [
+      "daybooks"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "foresail",
+    "proposed": [
+      "foresails"
+    ],
+    "stored": [
+      "foresails"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "inwardness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sharkskin",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "stridor",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "labyrinthian",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "subaquatic",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "barnstormer",
+    "proposed": [
+      "barnstormers"
+    ],
+    "stored": [
+      "barnstormers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "clearway",
+    "proposed": [
+      "clearways"
+    ],
+    "stored": [
+      "clearways"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "noddle",
+    "proposed": [
+      "noddles"
+    ],
+    "stored": [
+      "noddles"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "stubbled",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "vituperation",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "corkage",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "countertransference",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "disapprobation",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "esoterica",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "nobleness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "tisane",
+    "proposed": [
+      "tisanes"
+    ],
+    "stored": [
+      "tisanes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "tricorne",
+    "proposed": [
+      "tricornes"
+    ],
+    "stored": [
+      "tricornes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "comestible",
+    "proposed": [
+      "comestibles"
+    ],
+    "stored": [
+      "comestibles"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "corpulence",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "greensward",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "locution",
+    "proposed": [
+      "locutions",
+      "locution"
+    ],
+    "stored": [
+      "locutions"
+    ],
+    "excluded": [
+      "locution"
+    ]
+  },
+  {
+    "word": "nubbin",
+    "proposed": [
+      "nubbins"
+    ],
+    "stored": [
+      "nubbins"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "prognosticator",
+    "proposed": [
+      "prognosticators"
+    ],
+    "stored": [
+      "prognosticators"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "rapacity",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "requital",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "snacker",
+    "proposed": [
+      "snackers"
+    ],
+    "stored": [
+      "snackers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "vulgarian",
+    "proposed": [
+      "vulgarians"
+    ],
+    "stored": [
+      "vulgarians"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "demurrage",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "escheat",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "lasciviousness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "microdot",
+    "proposed": [
+      "microdots"
+    ],
+    "stored": [
+      "microdots"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "sawhorse",
+    "proposed": [
+      "sawhorses"
+    ],
+    "stored": [
+      "sawhorses"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "slattern",
+    "proposed": [
+      "slatterns"
+    ],
+    "stored": [
+      "slatterns"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "teacake",
+    "proposed": [
+      "teacakes"
+    ],
+    "stored": [
+      "teacakes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "begrimed",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "degaussing",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "parquetry",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "phrenologist",
+    "proposed": [
+      "phrenologists"
+    ],
+    "stored": [
+      "phrenologists"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "schoolmarm",
+    "proposed": [
+      "schoolmarms"
+    ],
+    "stored": [
+      "schoolmarms"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "tearless",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "thirdhand",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "gasbag",
+    "proposed": [
+      "gasbags"
+    ],
+    "stored": [
+      "gasbags"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "telescopically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "appreciator",
+    "proposed": [
+      "appreciators"
+    ],
+    "stored": [
+      "appreciators"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "groundbreaker",
+    "proposed": [
+      "groundbreakers"
+    ],
+    "stored": [
+      "groundbreakers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "hobbyhorse",
+    "proposed": [
+      "hobbyhorses"
+    ],
+    "stored": [
+      "hobbyhorses"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "landlubber",
+    "proposed": [
+      "landlubbers"
+    ],
+    "stored": [
+      "landlubbers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "bigheaded",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "flavorsome",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "uncontrived",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unmalted",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "dynast",
+    "proposed": [
+      "dynasts"
+    ],
+    "stored": [
+      "dynasts"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "greaseball",
+    "proposed": [
+      "greaseballs"
+    ],
+    "stored": [
+      "greaseballs"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "guvnor",
+    "proposed": [
+      "guvnors"
+    ],
+    "stored": [
+      "guvnors"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "lazybones",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "pastille",
+    "proposed": [
+      "pastilles"
+    ],
+    "stored": [
+      "pastilles"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "roadman",
+    "proposed": [
+      "roadmans"
+    ],
+    "stored": [
+      "roadmans"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "rusticity",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "secessionism",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "cuckoldry",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "curette",
+    "proposed": [
+      "curettes"
+    ],
+    "stored": [
+      "curettes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "entrepot",
+    "proposed": [
+      "entrepots"
+    ],
+    "stored": [
+      "entrepots"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "latke",
+    "proposed": [
+      "latkes"
+    ],
+    "stored": [
+      "latkes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "sackful",
+    "proposed": [
+      "sackfuls",
+      "sacksful"
+    ],
+    "stored": [
+      "sackfuls",
+      "sacksful"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "spirometer",
+    "proposed": [
+      "spirometers"
+    ],
+    "stored": [
+      "spirometers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "overladen",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "rockbound",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "towheaded",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "arguer",
+    "proposed": [
+      "arguers"
+    ],
+    "stored": [
+      "arguers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "cannoneer",
+    "proposed": [
+      "cannoneers"
+    ],
+    "stored": [
+      "cannoneers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "foreshock",
+    "proposed": [
+      "foreshocks"
+    ],
+    "stored": [
+      "foreshocks"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "housemother",
+    "proposed": [
+      "housemothers"
+    ],
+    "stored": [
+      "housemothers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "importunity",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "keelboat",
+    "proposed": [
+      "keelboats"
+    ],
+    "stored": [
+      "keelboats"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "kinsfolk",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "larcenous",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "nullifier",
+    "proposed": [
+      "nullifiers"
+    ],
+    "stored": [
+      "nullifiers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "scratchpad",
+    "proposed": [
+      "scratchpads"
+    ],
+    "stored": [
+      "scratchpads"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "sleekness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "truculence",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "ennoblement",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "gentlefolk",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "hoarfrost",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "menhir",
+    "proposed": [
+      "menhirs"
+    ],
+    "stored": [
+      "menhirs"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "naysaying",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sickroom",
+    "proposed": [
+      "sickrooms"
+    ],
+    "stored": [
+      "sickrooms"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "softish",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "totemism",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "tuxedoed",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "yardie",
+    "proposed": [
+      "yardies"
+    ],
+    "stored": [
+      "yardies"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "foodless",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "needlecraft",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "terabit",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "bewitchment",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "disentanglement",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "electrocautery",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "exquisiteness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "firetrap",
+    "proposed": [
+      "firetraps"
+    ],
+    "stored": [
+      "firetraps"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "glassful",
+    "proposed": [
+      "glassfuls",
+      "glassesful"
+    ],
+    "stored": [
+      "glassfuls",
+      "glassesful"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "peroration",
+    "proposed": [
+      "perorations",
+      "peroration"
+    ],
+    "stored": [
+      "perorations"
+    ],
+    "excluded": [
+      "peroration"
+    ]
+  },
+  {
+    "word": "poolroom",
+    "proposed": [
+      "poolrooms"
+    ],
+    "stored": [
+      "poolrooms"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "rainmaking",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sculler",
+    "proposed": [
+      "scullers"
+    ],
+    "stored": [
+      "scullers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "sleety",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unposed",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "cloudlike",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "placatory",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "undismayed",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "untoasted",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "flawlessness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "malapropism",
+    "proposed": [
+      "malapropisms"
+    ],
+    "stored": [
+      "malapropisms"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "numerologist",
+    "proposed": [
+      "numerologists"
+    ],
+    "stored": [
+      "numerologists"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "soberness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "bashfulness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "corespondent",
+    "proposed": [
+      "corespondents"
+    ],
+    "stored": [
+      "corespondents"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "endlessness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "facetiousness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "gauntleted",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "gunstock",
+    "proposed": [
+      "gunstocks"
+    ],
+    "stored": [
+      "gunstocks"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "recriminatory",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "surcoat",
+    "proposed": [
+      "surcoats"
+    ],
+    "stored": [
+      "surcoats"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "cartload",
+    "proposed": [
+      "cartloads"
+    ],
+    "stored": [
+      "cartloads"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "disjuncture",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "freehanded",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "nosegay",
+    "proposed": [
+      "nosegays"
+    ],
+    "stored": [
+      "nosegays"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "tablespoonful",
+    "proposed": [
+      "tablespoonfuls",
+      "tablespoonsful"
+    ],
+    "stored": [
+      "tablespoonfuls",
+      "tablespoonsful"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "wiseacre",
+    "proposed": [
+      "wiseacres"
+    ],
+    "stored": [
+      "wiseacres"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "aptness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "backbend",
+    "proposed": [
+      "backbends"
+    ],
+    "stored": [
+      "backbends"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "fireboat",
+    "proposed": [
+      "fireboats"
+    ],
+    "stored": [
+      "fireboats"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "nebbish",
+    "proposed": [
+      "nebbishes"
+    ],
+    "stored": [
+      "nebbishes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "nonperformance",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "noseband",
+    "proposed": [
+      "nosebands"
+    ],
+    "stored": [
+      "nosebands"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "remilitarization",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "tideland",
+    "proposed": [
+      "tidelands"
+    ],
+    "stored": [
+      "tidelands"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "unflustered",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unpurified",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "drabness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "encrustation",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "exculpation",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "gerontocracy",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "homeliness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "lobsterman",
+    "proposed": [
+      "lobstermans"
+    ],
+    "stored": [
+      "lobstermans"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "procuress",
+    "proposed": [
+      "procuresses"
+    ],
+    "stored": [
+      "procuresses"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "scaremonger",
+    "proposed": [
+      "scaremongers"
+    ],
+    "stored": [
+      "scaremongers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "smarm",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "escapology",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "mesmerist",
+    "proposed": [
+      "mesmerists"
+    ],
+    "stored": [
+      "mesmerists"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "politesse",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "striver",
+    "proposed": [
+      "strivers"
+    ],
+    "stored": [
+      "strivers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "foolhardiness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "luxuriousness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "perfectibility",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "spoonerism",
+    "proposed": [
+      "spoonerisms"
+    ],
+    "stored": [
+      "spoonerisms"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "suavity",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "succinctness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "chatterer",
+    "proposed": [
+      "chatterers"
+    ],
+    "stored": [
+      "chatterers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "complacence",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "cookstove",
+    "proposed": [
+      "cookstoves"
+    ],
+    "stored": [
+      "cookstoves"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "dishrag",
+    "proposed": [
+      "dishrags"
+    ],
+    "stored": [
+      "dishrags"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "hauberk",
+    "proposed": [
+      "hauberks"
+    ],
+    "stored": [
+      "hauberks"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "knucklebones",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sunlamp",
+    "proposed": [
+      "sunlamps"
+    ],
+    "stored": [
+      "sunlamps"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "tractability",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "votary",
+    "proposed": [
+      "votaries"
+    ],
+    "stored": [
+      "votaries"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "cuke",
+    "proposed": [
+      "cukes"
+    ],
+    "stored": [
+      "cukes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "girly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "setlist",
+    "proposed": [
+      "setlists"
+    ],
+    "stored": [
+      "setlists"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "majorly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "reapply",
+    "proposed": [
+      "reapplies",
+      "reapplied",
+      "reapplying"
+    ],
+    "stored": [
+      "reapplies",
+      "reapplied",
+      "reapplying"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "intellectualism",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "breathtakingly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "configurable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "seasonality",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "testable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "tunable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "telepathically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "windowless",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "intersectionality",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sonically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "uncountable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "anecdotally",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "borderless",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "politicization",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "demographically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unironically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "procedurally",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "volunteerism",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "institutionalization",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "securitization",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "survivable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "discretely",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "prospectively",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "dropship",
+    "proposed": [
+      "dropships",
+      "dropshipped",
+      "dropshipping"
+    ],
+    "stored": [
+      "dropships",
+      "dropshipped",
+      "dropshipping"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "unwinnable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "victimless",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "refillable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "holistically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "jiggly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "neutrally",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unelectable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "electable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "statism",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "structuralist",
+    "proposed": [
+      "structuralists"
+    ],
+    "stored": [
+      "structuralists"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "explosiveness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "subliminally",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "bootable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "lockable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "scientism",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "antifascist",
+    "proposed": [
+      "antifascists"
+    ],
+    "stored": [
+      "antifascists"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "giftedness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "narratively",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "opportunistically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "buildable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "egyptologist",
+    "proposed": [
+      "egyptologists"
+    ],
+    "stored": [
+      "egyptologists"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "prolifically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "vaginally",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "cultish",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "numbingly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "rabidly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "acupuncturist",
+    "proposed": [
+      "acupuncturists"
+    ],
+    "stored": [
+      "acupuncturists"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "vibrantly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "dimmable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "workability",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "anticommunist",
+    "proposed": [
+      "anticommunists"
+    ],
+    "stored": [
+      "anticommunists"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "collegiality",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "inviolability",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "putatively",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "upgradable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "horseless",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "reimbursable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "huggable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "statelessness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "suicidality",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "generalizable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "gorgeousness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "algorithmically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "bioavailable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "certifiably",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "inclusively",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "incomprehensibly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "interconnectivity",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "mountable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "muscly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "corporately",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "hormonally",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "likeability",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "gallerist",
+    "proposed": [
+      "gallerists"
+    ],
+    "stored": [
+      "gallerists"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "thrillingly",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unconstitutionality",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "prayerfully",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "transhumanist",
+    "proposed": [
+      "transhumanists"
+    ],
+    "stored": [
+      "transhumanists"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "unfathomably",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "ergonomically",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "commendably",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "microwavable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "unhealthily",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "denialist",
+    "proposed": [
+      "denialists"
+    ],
+    "stored": [
+      "denialists"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "feloniously",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "literalist",
+    "proposed": [
+      "literalists"
+    ],
+    "stored": [
+      "literalists"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "soonish",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "fabulousness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "representativeness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "grittiness",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "memoirist",
+    "proposed": [
+      "memoirists"
+    ],
+    "stored": [
+      "memoirists"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "undefeatable",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "adulate",
+    "proposed": [
+      "adulates",
+      "adulated",
+      "adulating"
+    ],
+    "stored": [
+      "adulates",
+      "adulated",
+      "adulating"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "anthologize",
+    "proposed": [
+      "anthologizes",
+      "anthologized",
+      "anthologizing"
+    ],
+    "stored": [
+      "anthologizes",
+      "anthologized",
+      "anthologizing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "apotheosize",
+    "proposed": [
+      "apotheosizes",
+      "apotheosized",
+      "apotheosizing"
+    ],
+    "stored": [
+      "apotheosizes",
+      "apotheosized",
+      "apotheosizing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "bedraggle",
+    "proposed": [
+      "bedraggles",
+      "bedraggled",
+      "bedraggling"
+    ],
+    "stored": [
+      "bedraggles",
+      "bedraggling"
+    ],
+    "excluded": [
+      "bedraggled"
+    ]
+  },
+  {
+    "word": "begrime",
+    "proposed": [
+      "begrimes",
+      "begrimed",
+      "begriming"
+    ],
+    "stored": [
+      "begrimes",
+      "begriming"
+    ],
+    "excluded": [
+      "begrimed"
+    ]
+  },
+  {
+    "word": "bejewel",
+    "proposed": [
+      "bejewels",
+      "bejeweled",
+      "bejeweling"
+    ],
+    "stored": [
+      "bejewels",
+      "bejeweled",
+      "bejeweling"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "bootlick",
+    "proposed": [
+      "bootlicks",
+      "bootlicked",
+      "bootlicking"
+    ],
+    "stored": [
+      "bootlicks",
+      "bootlicked",
+      "bootlicking"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "breathalyze",
+    "proposed": [
+      "breathalyzes",
+      "breathalyzed",
+      "breathalyzing"
+    ],
+    "stored": [
+      "breathalyzes",
+      "breathalyzed",
+      "breathalyzing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "calumniate",
+    "proposed": [
+      "calumniates",
+      "calumniated",
+      "calumniating"
+    ],
+    "stored": [
+      "calumniates",
+      "calumniated",
+      "calumniating"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "coldcock",
+    "proposed": [
+      "coldcocks",
+      "coldcocked",
+      "coldcocking"
+    ],
+    "stored": [
+      "coldcocks",
+      "coldcocked",
+      "coldcocking"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "confabulate",
+    "proposed": [
+      "confabulates",
+      "confabulated",
+      "confabulating"
+    ],
+    "stored": [
+      "confabulates",
+      "confabulated",
+      "confabulating"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "contraindicate",
+    "proposed": [
+      "contraindicates",
+      "contraindicated",
+      "contraindicating"
+    ],
+    "stored": [
+      "contraindicates",
+      "contraindicated",
+      "contraindicating"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "copyedit",
+    "proposed": [
+      "copyedits",
+      "copyedited",
+      "copyediting"
+    ],
+    "stored": [
+      "copyedits",
+      "copyedited",
+      "copyediting"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "corrugate",
+    "proposed": [
+      "corrugates",
+      "corrugated",
+      "corrugating"
+    ],
+    "stored": [
+      "corrugates",
+      "corrugating"
+    ],
+    "excluded": [
+      "corrugated"
+    ]
+  },
+  {
+    "word": "decaffeinate",
+    "proposed": [
+      "decaffeinates",
+      "decaffeinated",
+      "decaffeinating"
+    ],
+    "stored": [
+      "decaffeinates",
+      "decaffeinated",
+      "decaffeinating"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "decolorize",
+    "proposed": [
+      "decolorizes",
+      "decolorized",
+      "decolorizing"
+    ],
+    "stored": [
+      "decolorizes",
+      "decolorized",
+      "decolorizing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "degauss",
+    "proposed": [
+      "degausses",
+      "degaussed",
+      "degaussing"
+    ],
+    "stored": [
+      "degausses",
+      "degaussed"
+    ],
+    "excluded": [
+      "degaussing"
+    ]
+  },
+  {
+    "word": "dehorn",
+    "proposed": [
+      "dehorns",
+      "dehorned",
+      "dehorning"
+    ],
+    "stored": [
+      "dehorns",
+      "dehorned",
+      "dehorning"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "deice",
+    "proposed": [
+      "deices",
+      "deiced",
+      "deicing"
+    ],
+    "stored": [
+      "deices",
+      "deiced",
+      "deicing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "demythologize",
+    "proposed": [
+      "demythologizes",
+      "demythologized",
+      "demythologizing"
+    ],
+    "stored": [
+      "demythologizes",
+      "demythologized",
+      "demythologizing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "denaturalize",
+    "proposed": [
+      "denaturalizes",
+      "denaturalized",
+      "denaturalizing"
+    ],
+    "stored": [
+      "denaturalizes",
+      "denaturalized",
+      "denaturalizing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "denazify",
+    "proposed": [
+      "denazifies",
+      "denazified",
+      "denazifying"
+    ],
+    "stored": [
+      "denazifies",
+      "denazified",
+      "denazifying"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "descale",
+    "proposed": [
+      "descales",
+      "descaled",
+      "descaling"
+    ],
+    "stored": [
+      "descales",
+      "descaled",
+      "descaling"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "desynchronize",
+    "proposed": [
+      "desynchronizes",
+      "desynchronized",
+      "desynchronizing"
+    ],
+    "stored": [
+      "desynchronizes",
+      "desynchronized",
+      "desynchronizing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "discommode",
+    "proposed": [
+      "discommodes",
+      "discommoded",
+      "discommoding"
+    ],
+    "stored": [
+      "discommodes",
+      "discommoded",
+      "discommoding"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "dumbfound",
+    "proposed": [
+      "dumbfounds",
+      "dumbfounded",
+      "dumbfounding"
+    ],
+    "stored": [
+      "dumbfounds"
+    ],
+    "excluded": [
+      "dumbfounded",
+      "dumbfounding"
+    ]
+  },
+  {
+    "word": "enrobe",
+    "proposed": [
+      "enrobes",
+      "enrobed",
+      "enrobing"
+    ],
+    "stored": [
+      "enrobes",
+      "enrobed",
+      "enrobing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "ensnarl",
+    "proposed": [
+      "ensnarls",
+      "ensnarled",
+      "ensnarling"
+    ],
+    "stored": [
+      "ensnarls",
+      "ensnarled",
+      "ensnarling"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "eroticize",
+    "proposed": [
+      "eroticizes",
+      "eroticized",
+      "eroticizing"
+    ],
+    "stored": [
+      "eroticizes",
+      "eroticized",
+      "eroticizing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "exposit",
+    "proposed": [
+      "exposits",
+      "exposited",
+      "expositing"
+    ],
+    "stored": [
+      "exposits",
+      "exposited",
+      "expositing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "foreordain",
+    "proposed": [
+      "foreordains",
+      "foreordained",
+      "foreordaining"
+    ],
+    "stored": [
+      "foreordains",
+      "foreordained",
+      "foreordaining"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "foreshorten",
+    "proposed": [
+      "foreshortens",
+      "foreshortened",
+      "foreshortening"
+    ],
+    "stored": [
+      "foreshortens",
+      "foreshortened",
+      "foreshortening"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "goldbrick",
+    "proposed": [
+      "goldbricks",
+      "goldbricked",
+      "goldbricking"
+    ],
+    "stored": [
+      "goldbricks",
+      "goldbricked",
+      "goldbricking"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "goldplate",
+    "proposed": [
+      "goldplates",
+      "goldplated",
+      "goldplating"
+    ],
+    "stored": [
+      "goldplates",
+      "goldplated",
+      "goldplating"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "houseclean",
+    "proposed": [
+      "housecleans",
+      "housecleaned",
+      "housecleaning"
+    ],
+    "stored": [
+      "housecleans",
+      "housecleaned"
+    ],
+    "excluded": [
+      "housecleaning"
+    ]
+  },
+  {
+    "word": "inculpate",
+    "proposed": [
+      "inculpates",
+      "inculpated",
+      "inculpating"
+    ],
+    "stored": [
+      "inculpates",
+      "inculpated",
+      "inculpating"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "interpellate",
+    "proposed": [
+      "interpellates",
+      "interpellated",
+      "interpellating"
+    ],
+    "stored": [
+      "interpellates",
+      "interpellated",
+      "interpellating"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "invigilate",
+    "proposed": [
+      "invigilates",
+      "invigilated",
+      "invigilating"
+    ],
+    "stored": [
+      "invigilates",
+      "invigilated",
+      "invigilating"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "irrupt",
+    "proposed": [
+      "irrupts",
+      "irrupted",
+      "irrupting"
+    ],
+    "stored": [
+      "irrupts",
+      "irrupted",
+      "irrupting"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "logroll",
+    "proposed": [
+      "logrolls",
+      "logrolled",
+      "logrolling"
+    ],
+    "stored": [
+      "logrolls",
+      "logrolled",
+      "logrolling"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "marbleize",
+    "proposed": [
+      "marbleizes",
+      "marbleized",
+      "marbleizing"
+    ],
+    "stored": [
+      "marbleizes",
+      "marbleized",
+      "marbleizing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "martyrize",
+    "proposed": [
+      "martyrizes",
+      "martyrized",
+      "martyrizing"
+    ],
+    "stored": [
+      "martyrizes",
+      "martyrized",
+      "martyrizing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "misgauge",
+    "proposed": [
+      "misgauges",
+      "misgauged",
+      "misgauging"
+    ],
+    "stored": [
+      "misgauges",
+      "misgauged",
+      "misgauging"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "mulct",
+    "proposed": [
+      "mulcts",
+      "mulcted",
+      "mulcting"
+    ],
+    "stored": [
+      "mulcts",
+      "mulcted",
+      "mulcting"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "outshout",
+    "proposed": [
+      "outshouts",
+      "outshouted",
+      "outshouting"
+    ],
+    "stored": [
+      "outshouts",
+      "outshouted",
+      "outshouting"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "overarch",
+    "proposed": [
+      "overarches",
+      "overarched",
+      "overarching"
+    ],
+    "stored": [
+      "overarches",
+      "overarched",
+      "overarching"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "overboil",
+    "proposed": [
+      "overboils",
+      "overboiled",
+      "overboiling"
+    ],
+    "stored": [
+      "overboils",
+      "overboiled",
+      "overboiling"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "overfatigue",
+    "proposed": [
+      "overfatigues",
+      "overfatigued",
+      "overfatiguing"
+    ],
+    "stored": [
+      "overfatigues",
+      "overfatigued",
+      "overfatiguing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "pauperize",
+    "proposed": [
+      "pauperizes",
+      "pauperized",
+      "pauperizing"
+    ],
+    "stored": [
+      "pauperizes",
+      "pauperized",
+      "pauperizing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "plasticize",
+    "proposed": [
+      "plasticizes",
+      "plasticized",
+      "plasticizing"
+    ],
+    "stored": [
+      "plasticizes",
+      "plasticized",
+      "plasticizing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "rarefy",
+    "proposed": [
+      "rarefies",
+      "rarefied",
+      "rarefying"
+    ],
+    "stored": [
+      "rarefies",
+      "rarefying"
+    ],
+    "excluded": [
+      "rarefied"
+    ]
+  },
+  {
+    "word": "reapportion",
+    "proposed": [
+      "reapportions",
+      "reapportioned",
+      "reapportioning"
+    ],
+    "stored": [
+      "reapportions",
+      "reapportioned",
+      "reapportioning"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "ruggedize",
+    "proposed": [
+      "ruggedizes",
+      "ruggedized",
+      "ruggedizing"
+    ],
+    "stored": [
+      "ruggedizes",
+      "ruggedized",
+      "ruggedizing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "satisfice",
+    "proposed": [
+      "satisfices",
+      "satisficed",
+      "satisficing"
+    ],
+    "stored": [
+      "satisfices",
+      "satisficed",
+      "satisficing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "shellack",
+    "proposed": [
+      "shellacks",
+      "shellacked",
+      "shellacking"
+    ],
+    "stored": [
+      "shellacks",
+      "shellacked",
+      "shellacking"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "sightread",
+    "proposed": [
+      "sightreads",
+      "sightreading"
+    ],
+    "stored": [
+      "sightreads",
+      "sightreading"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "spellbind",
+    "proposed": [
+      "spellbinds",
+      "spellbound",
+      "spellbinding"
+    ],
+    "stored": [
+      "spellbinds",
+      "spellbinding"
+    ],
+    "excluded": [
+      "spellbound"
+    ]
+  },
+  {
+    "word": "spotweld",
+    "proposed": [
+      "spotwelds",
+      "spotwelded",
+      "spotwelding"
+    ],
+    "stored": [
+      "spotwelds",
+      "spotwelded",
+      "spotwelding"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "ululate",
+    "proposed": [
+      "ululates",
+      "ululated",
+      "ululating"
+    ],
+    "stored": [
+      "ululates",
+      "ululated",
+      "ululating"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "unbelt",
+    "proposed": [
+      "unbelts",
+      "unbelted",
+      "unbelting"
+    ],
+    "stored": [
+      "unbelts",
+      "unbelted",
+      "unbelting"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "undercharge",
+    "proposed": [
+      "undercharges",
+      "undercharged",
+      "undercharging"
+    ],
+    "stored": [
+      "undercharges",
+      "undercharged",
+      "undercharging"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "undernourish",
+    "proposed": [
+      "undernourishes",
+      "undernourished",
+      "undernourishing"
+    ],
+    "stored": [
+      "undernourishes",
+      "undernourishing"
+    ],
+    "excluded": [
+      "undernourished"
+    ]
+  },
+  {
+    "word": "understock",
+    "proposed": [
+      "understocks",
+      "understocked",
+      "understocking"
+    ],
+    "stored": [
+      "understocks",
+      "understocked",
+      "understocking"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "unharness",
+    "proposed": [
+      "unharnesses",
+      "unharnessed",
+      "unharnessing"
+    ],
+    "stored": [
+      "unharnesses",
+      "unharnessed",
+      "unharnessing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "untwine",
+    "proposed": [
+      "untwines",
+      "untwined",
+      "untwining"
+    ],
+    "stored": [
+      "untwines",
+      "untwined",
+      "untwining"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "friendzone",
+    "proposed": [
+      "friendzones"
+    ],
+    "stored": [
+      "friendzones"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "kendo",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "powerplay",
+    "proposed": [
+      "powerplays"
+    ],
+    "stored": [
+      "powerplays"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "superfood",
+    "proposed": [
+      "superfoods"
+    ],
+    "stored": [
+      "superfoods"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "animatronic",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "ayahuasca",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "cordillera",
+    "proposed": [
+      "cordilleras"
+    ],
+    "stored": [
+      "cordilleras"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "interwar",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "oppositional",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "sociopolitical",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "starstruck",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "victimhood",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "faunal",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "froggy",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "huzzah",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "multifunctional",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "supermassive",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "buzzy",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "colada",
+    "proposed": [
+      "coladas"
+    ],
+    "stored": [
+      "coladas"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "janitorial",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "masterwork",
+    "proposed": [
+      "masterworks"
+    ],
+    "stored": [
+      "masterworks"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "triathlete",
+    "proposed": [
+      "triathletes"
+    ],
+    "stored": [
+      "triathletes"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "telethon",
+    "proposed": [
+      "telethons"
+    ],
+    "stored": [
+      "telethons"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "coochie",
+    "proposed": [
+      "coochies"
+    ],
+    "stored": [
+      "coochies"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "subgenre",
+    "proposed": [
+      "subgenres"
+    ],
+    "stored": [
+      "subgenres"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "syrah",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "touristic",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "bassline",
+    "proposed": [
+      "basslines"
+    ],
+    "stored": [
+      "basslines"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "belter",
+    "proposed": [
+      "belters"
+    ],
+    "stored": [
+      "belters"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "bloop",
+    "proposed": [
+      "bloops"
+    ],
+    "stored": [
+      "bloops"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "rager",
+    "proposed": [
+      "ragers"
+    ],
+    "stored": [
+      "ragers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "reenter",
+    "proposed": [
+      "reenters",
+      "reentered",
+      "reentering"
+    ],
+    "stored": [
+      "reenters",
+      "reentered",
+      "reentering"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "ripoff",
+    "proposed": [
+      "ripoffs"
+    ],
+    "stored": [
+      "ripoffs"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "uncircumcised",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "counterparty",
+    "proposed": [
+      "counterparties"
+    ],
+    "stored": [
+      "counterparties"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "fieldhouse",
+    "proposed": [
+      "fieldhouses"
+    ],
+    "stored": [
+      "fieldhouses"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "midcentury",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "libtard",
+    "proposed": [
+      "libtards"
+    ],
+    "stored": [
+      "libtards"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "argan",
+    "proposed": [
+      "argans"
+    ],
+    "stored": [
+      "argans"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "cannabinoid",
+    "proposed": [
+      "cannabinoids"
+    ],
+    "stored": [
+      "cannabinoids"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "capoeira",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "colorway",
+    "proposed": [
+      "colorways"
+    ],
+    "stored": [
+      "colorways"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "disruptor",
+    "proposed": [
+      "disruptors"
+    ],
+    "stored": [
+      "disruptors"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "hissy",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "preload",
+    "proposed": [
+      "preloads",
+      "preloaded",
+      "preloading"
+    ],
+    "stored": [
+      "preloads",
+      "preloaded",
+      "preloading"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "skillset",
+    "proposed": [
+      "skillsets"
+    ],
+    "stored": [
+      "skillsets"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "breakpoint",
+    "proposed": [
+      "breakpoints"
+    ],
+    "stored": [
+      "breakpoints"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "fangirl",
+    "proposed": [
+      "fangirls"
+    ],
+    "stored": [
+      "fangirls"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "hypoxic",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "peacebuilding",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "protip",
+    "proposed": [
+      "protips"
+    ],
+    "stored": [
+      "protips"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "megastar",
+    "proposed": [
+      "megastars"
+    ],
+    "stored": [
+      "megastars"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "plainclothes",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "softcover",
+    "proposed": [
+      "softcovers"
+    ],
+    "stored": [
+      "softcovers"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "bobblehead",
+    "proposed": [
+      "bobbleheads"
+    ],
+    "stored": [
+      "bobbleheads"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "jammy",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "popstar",
+    "proposed": [
+      "popstars"
+    ],
+    "stored": [
+      "popstars"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "pouty",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "rosewater",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "abiotic",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "butthead",
+    "proposed": [
+      "buttheads"
+    ],
+    "stored": [
+      "buttheads"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "sapiosexual",
+    "proposed": [
+      "sapiosexuals"
+    ],
+    "stored": [
+      "sapiosexuals"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "neurodiverse",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "mindshare",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "deincentivize",
+    "proposed": [
+      "deincentivizes",
+      "deincentivized",
+      "deincentivizing"
+    ],
+    "stored": [
+      "deincentivizes",
+      "deincentivized",
+      "deincentivizing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "preprint",
+    "proposed": [
+      "preprints"
+    ],
+    "stored": [
+      "preprints"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "hygge",
+    "proposed": [],
+    "stored": [],
+    "excluded": []
+  },
+  {
+    "word": "misdiagnose",
+    "proposed": [
+      "misdiagnoses",
+      "misdiagnosed",
+      "misdiagnosing"
+    ],
+    "stored": [
+      "misdiagnoses",
+      "misdiagnosed",
+      "misdiagnosing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "overdiagnose",
+    "proposed": [
+      "overdiagnoses",
+      "overdiagnosed",
+      "overdiagnosing"
+    ],
+    "stored": [
+      "overdiagnoses",
+      "overdiagnosed",
+      "overdiagnosing"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "overmedicate",
+    "proposed": [
+      "overmedicates",
+      "overmedicated",
+      "overmedicating"
+    ],
+    "stored": [
+      "overmedicates",
+      "overmedicated",
+      "overmedicating"
+    ],
+    "excluded": []
+  },
+  {
+    "word": "underprescribe",
+    "proposed": [
+      "underprescribes",
+      "underprescribed",
+      "underprescribing"
+    ],
+    "stored": [
+      "underprescribes",
+      "underprescribed",
+      "underprescribing"
+    ],
+    "excluded": []
+  }
+]

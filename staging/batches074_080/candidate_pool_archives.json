@@ -1,0 +1,37 @@
+[
+  {
+    "path": "agent_a\\candidate_pool.json",
+    "sha256": "7aec46251c0a9ba40c843a57cb1bd3ece4d193bdae478521cfaf039305614b0d",
+    "compressedPath": "agent_a\\candidate_pool.json.zlib",
+    "bytes": 5901992,
+    "compressedBytes": 455167
+  },
+  {
+    "path": "agent_b\\candidate_pool.json",
+    "sha256": "6b5385ed4dc2cb2c4a2e7656eaef2afe0231b189e4e758fd17a976d45854cf78",
+    "compressedPath": "agent_b\\candidate_pool.json.zlib",
+    "bytes": 5875006,
+    "compressedBytes": 455853
+  },
+  {
+    "path": "agent_c\\candidate_pool.json",
+    "sha256": "1155623e0d5d653dd515271d43944ed5b5c3fe27807edfd789dec5fb7a03d668",
+    "compressedPath": "agent_c\\candidate_pool.json.zlib",
+    "bytes": 5857542,
+    "compressedBytes": 451060
+  },
+  {
+    "path": "coordinator\\candidate_pool.json",
+    "sha256": "4e3606fa0b6c873e732e46401d4b44489e23cfdb1b4d4392bf1c907ca840dd95",
+    "compressedPath": "coordinator\\candidate_pool.json.zlib",
+    "bytes": 1984002,
+    "compressedBytes": 161641
+  },
+  {
+    "path": "agent_c\\pool_filtered.json",
+    "sha256": "aa9a59a5e98821698d5bc677adcd4bf9a6d7d1017a22746c964ed84fce4e9c17",
+    "compressedPath": "agent_c\\pool_filtered.json.zlib",
+    "bytes": 4429851,
+    "compressedBytes": 436978
+  }
+]

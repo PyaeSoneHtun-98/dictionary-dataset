@@ -1,0 +1,138 @@
+{
+  "rejected": [
+    {
+      "word": "paygrade",
+      "reason": "manual editorial exclusion: low subtitle usefulness or redundant variant",
+      "source": "authored_1.txt",
+      "line": 227
+    },
+    {
+      "word": "macronutrient",
+      "reason": "manual editorial exclusion: low subtitle usefulness or redundant variant",
+      "source": "authored_2.txt",
+      "line": 103
+    },
+    {
+      "word": "obstinance",
+      "reason": "manual editorial exclusion: low subtitle usefulness or redundant variant",
+      "source": "authored_2.txt",
+      "line": 166
+    },
+    {
+      "word": "shlock",
+      "reason": "manual editorial exclusion: low subtitle usefulness or redundant variant",
+      "source": "authored_2.txt",
+      "line": 183
+    },
+    {
+      "word": "poignance",
+      "reason": "manual editorial exclusion: low subtitle usefulness or redundant variant",
+      "source": "authored_2.txt",
+      "line": 189
+    },
+    {
+      "word": "shlep",
+      "reason": "manual editorial exclusion: low subtitle usefulness or redundant variant",
+      "source": "authored_2.txt",
+      "line": 222
+    },
+    {
+      "word": "unindustrialized",
+      "reason": "outside assigned namespace",
+      "source": "authored_3.txt",
+      "line": 40
+    },
+    {
+      "word": "knuckleballer",
+      "reason": "outside assigned namespace",
+      "source": "authored_4.txt",
+      "line": 15
+    },
+    {
+      "word": "depersonalization",
+      "reason": "excluded prior namespace",
+      "source": "authored_4.txt",
+      "line": 86
+    },
+    {
+      "word": "personhood",
+      "reason": "excluded prior namespace",
+      "source": "authored_4.txt",
+      "line": 107
+    },
+    {
+      "word": "deceptiveness",
+      "reason": "outside assigned namespace",
+      "source": "authored_4.txt",
+      "line": 108
+    },
+    {
+      "word": "unwary",
+      "reason": "excluded prior namespace",
+      "source": "authored_4.txt",
+      "line": 128
+    },
+    {
+      "word": "rediscoverable",
+      "reason": "outside assigned namespace",
+      "source": "authored_4.txt",
+      "line": 138
+    },
+    {
+      "word": "exploitable",
+      "reason": "outside assigned namespace",
+      "source": "authored_4.txt",
+      "line": 154
+    },
+    {
+      "word": "noiselessly",
+      "reason": "excluded prior namespace",
+      "source": "authored_4.txt",
+      "line": 156
+    },
+    {
+      "word": "cowardliness",
+      "reason": "outside assigned namespace",
+      "source": "authored_4.txt",
+      "line": 157
+    },
+    {
+      "word": "hopefulness",
+      "reason": "excluded prior namespace",
+      "source": "authored_4.txt",
+      "line": 158
+    },
+    {
+      "word": "grandiosity",
+      "reason": "excluded prior namespace",
+      "source": "authored_4.txt",
+      "line": 164
+    },
+    {
+      "word": "change​lessness",
+      "reason": "invalid orthography",
+      "source": "authored_4.txt",
+      "line": 178
+    },
+    {
+      "word": "deliberativeness",
+      "reason": "outside assigned namespace",
+      "source": "authored_4.txt",
+      "line": 182
+    },
+    {
+      "word": "promptness",
+      "reason": "excluded prior namespace",
+      "source": "authored_4.txt",
+      "line": 202
+    }
+  ],
+  "duplicateDraftRowsIgnored": [
+    {
+      "word": "supplanter",
+      "source": "authored_4.txt",
+      "line": 104
+    }
+  ],
+  "summary": "Authored sources are exploratory. Retained entries selected for modern subtitle, novel, news and documentary usefulness. Narrow technical, archaic and weak derivatives excluded. No final batches or frozen assets written."
+}

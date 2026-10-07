@@ -1,0 +1,987 @@
+{
+  "huffily": {
+    "root": "huffy",
+    "rootIPA": "/ˈhʌfi/",
+    "proposal": "/ˈhʌfili/"
+  },
+  "gracelessly": {
+    "root": "graceless",
+    "rootIPA": "/ˈgreɪsləs/",
+    "proposal": "/ˈgreɪsləsli/"
+  },
+  "grandiosely": {
+    "root": "grandiose",
+    "rootIPA": "/ˌɡrændiˈoʊs/",
+    "proposal": "/ˌɡrændiˈoʊsli/"
+  },
+  "languorously": {
+    "root": "languorous",
+    "rootIPA": "/ˈlæŋɡərəs/",
+    "proposal": "/ˈlæŋɡərəsli/"
+  },
+  "jerkiness": {
+    "root": "jerky",
+    "rootIPA": "/ˈʤərki/",
+    "proposal": "/ˈʤərkinəs/"
+  },
+  "lifelessness": {
+    "root": "lifeless",
+    "rootIPA": "/ˈlaɪfləs/",
+    "proposal": "/ˈlaɪfləsnəs/"
+  },
+  "acquisitiveness": {
+    "root": "acquisitive",
+    "rootIPA": "/əˈkwɪzətɪv/",
+    "proposal": "/əˈkwɪzətɪvnəs/"
+  },
+  "dourly": {
+    "root": "dour",
+    "rootIPA": "/daʊər/",
+    "proposal": "/daʊərli/"
+  },
+  "iciness": {
+    "root": "icy",
+    "rootIPA": "/ˈaɪsi/",
+    "proposal": "/ˈaɪsinəs/"
+  },
+  "lackadaisically": {
+    "root": "lackadaisical",
+    "rootIPA": "/ˌlækəˈdeɪzɪkəl/",
+    "proposal": "/ˌlækəˈdeɪzɪkəlli/"
+  },
+  "prodigally": {
+    "root": "prodigal",
+    "rootIPA": "/ˈprɑdɪɡəl/",
+    "proposal": "/ˈprɑdɪɡəlli/"
+  },
+  "chubbiness": {
+    "root": "chubby",
+    "rootIPA": "/ˈtʃʌbi/",
+    "proposal": "/ˈtʃʌbinəs/"
+  },
+  "lovesickness": {
+    "root": "lovesick",
+    "rootIPA": "/lˈʌvsɪk/",
+    "proposal": "/lˈʌvsɪknəs/"
+  },
+  "comeliness": {
+    "root": "comely",
+    "rootIPA": "/ˈkəmli/",
+    "proposal": "/ˈkəmlinəs/"
+  },
+  "perverseness": {
+    "root": "perverse",
+    "rootIPA": "/pərˈvərs/",
+    "proposal": "/pərˈvərsnəs/"
+  },
+  "boyishness": {
+    "root": "boyish",
+    "rootIPA": "/ˈbɔɪɪʃ/",
+    "proposal": "/ˈbɔɪɪʃnəs/"
+  },
+  "unsoundness": {
+    "root": "unsound",
+    "rootIPA": "/ənˈsaʊnd/",
+    "proposal": "/ənˈsaʊndnəs/"
+  },
+  "timorously": {
+    "root": "timorous",
+    "rootIPA": "/ˈtɪmɚəs/",
+    "proposal": "/ˈtɪmɚəsli/"
+  },
+  "extortionately": {
+    "root": "extortionate",
+    "rootIPA": "/ɛkˈstɔrʃənət/",
+    "proposal": "/ɛkˈstɔrʃənətli/"
+  },
+  "muddiness": {
+    "root": "muddy",
+    "rootIPA": "/ˈmʌdi/",
+    "proposal": "/ˈmʌdinəs/"
+  },
+  "presumptuousness": {
+    "root": "presumptuous",
+    "rootIPA": "/prɪˈzʌmptʃəwəs/",
+    "proposal": "/prɪˈzʌmptʃəwəsnəs/"
+  },
+  "roguishly": {
+    "root": "roguish",
+    "rootIPA": "/ɹˈoʊɡɪʃ/",
+    "proposal": "/ɹˈoʊɡɪʃli/"
+  },
+  "stateliness": {
+    "root": "stately",
+    "rootIPA": "/ˈsteɪtli/",
+    "proposal": "/ˈsteɪtlinəs/"
+  },
+  "dankness": {
+    "root": "dank",
+    "rootIPA": "/dæŋk/",
+    "proposal": "/dæŋknəs/"
+  },
+  "fretfully": {
+    "root": "fretful",
+    "rootIPA": "/ˈfrɛtfəl/",
+    "proposal": "/ˈfrɛtfəlli/"
+  },
+  "restfully": {
+    "root": "restful",
+    "rootIPA": "/ˈrɛstfəl/",
+    "proposal": "/ˈrɛstfəlli/"
+  },
+  "jaggedly": {
+    "root": "jagged",
+    "rootIPA": "/ʤægd/",
+    "proposal": "/ʤægdli/"
+  },
+  "rigidness": {
+    "root": "rigid",
+    "rootIPA": "/ˈrɪdʒəd/",
+    "proposal": "/ˈrɪdʒədnəs/"
+  },
+  "indirectness": {
+    "root": "indirect",
+    "rootIPA": "/ɪndɚˈɛkt/",
+    "proposal": "/ɪndɚˈɛktnəs/"
+  },
+  "limitlessness": {
+    "root": "limitless",
+    "rootIPA": "/ˈlɪmətləs/",
+    "proposal": "/ˈlɪmətləsnəs/"
+  },
+  "subversiveness": {
+    "root": "subversive",
+    "rootIPA": "/səbˈvɝsɪv/",
+    "proposal": "/səbˈvɝsɪvnəs/"
+  },
+  "absentmindedness": {
+    "root": "absentminded",
+    "rootIPA": "/ˌæbsəntˈmaɪndɪd/",
+    "proposal": "/ˌæbsəntˈmaɪndɪdnəs/"
+  },
+  "agelessness": {
+    "root": "ageless",
+    "rootIPA": "/ˈeɪdʒləs/",
+    "proposal": "/ˈeɪdʒləsnəs/"
+  },
+  "lopsidedness": {
+    "root": "lopsided",
+    "rootIPA": "/ˈlɑpˌsaɪdɪd/",
+    "proposal": "/ˈlɑpˌsaɪdɪdnəs/"
+  },
+  "bloodthirstiness": {
+    "root": "bloodthirsty",
+    "rootIPA": "/ˈblʌdθɝsti/",
+    "proposal": "/ˈblʌdθɝstinəs/"
+  },
+  "costliness": {
+    "root": "costly",
+    "rootIPA": "/ˈkɑstli/",
+    "proposal": "/ˈkɑstlinəs/"
+  },
+  "primitiveness": {
+    "root": "primitive",
+    "rootIPA": "/ˈprɪmətɪv/",
+    "proposal": "/ˈprɪmətɪvnəs/"
+  },
+  "defectiveness": {
+    "root": "defective",
+    "rootIPA": "/dɪˈfɛktɪv/",
+    "proposal": "/dɪˈfɛktɪvnəs/"
+  },
+  "jumpiness": {
+    "root": "jumpy",
+    "rootIPA": "/ˈdʒʌmpi/",
+    "proposal": "/ˈdʒʌmpinəs/"
+  },
+  "solidness": {
+    "root": "solid",
+    "rootIPA": "/ˈsɑləd/",
+    "proposal": "/ˈsɑlədnəs/"
+  },
+  "unnaturalness": {
+    "root": "unnatural",
+    "rootIPA": "/ənˈnætʃɚəl/",
+    "proposal": "/ənˈnætʃɚəlnəs/"
+  },
+  "cooperativeness": {
+    "root": "cooperative",
+    "rootIPA": "/koʊˈɑpɚˌeɪtɪv/",
+    "proposal": "/koʊˈɑpɚˌeɪtɪvnəs/"
+  },
+  "amateurishness": {
+    "root": "amateurish",
+    "rootIPA": "/ˈæməˌtʃɝɪʃ/",
+    "proposal": "/ˈæməˌtʃɝɪʃnəs/"
+  },
+  "mushiness": {
+    "root": "mushy",
+    "rootIPA": "/ˈmʌʃi/",
+    "proposal": "/ˈmʌʃinəs/"
+  },
+  "wiliness": {
+    "root": "wily",
+    "rootIPA": "/ˈwaɪli/",
+    "proposal": "/ˈwaɪlinəs/"
+  },
+  "ambitiousness": {
+    "root": "ambitious",
+    "rootIPA": "/æmˈbɪʃəs/",
+    "proposal": "/æmˈbɪʃəsnəs/"
+  },
+  "stealthiness": {
+    "root": "stealthy",
+    "rootIPA": "/ˈstɛlθi/",
+    "proposal": "/ˈstɛlθinəs/"
+  },
+  "fruitlessness": {
+    "root": "fruitless",
+    "rootIPA": "/ˈfrutləs/",
+    "proposal": "/ˈfrutləsnəs/"
+  },
+  "imperiousness": {
+    "root": "imperious",
+    "rootIPA": "/ˌɪmˈpɪriəs/",
+    "proposal": "/ˌɪmˈpɪriəsnəs/"
+  },
+  "tawdriness": {
+    "root": "tawdry",
+    "rootIPA": "/ˈtɔdri/",
+    "proposal": "/ˈtɔdrinəs/"
+  },
+  "daftness": {
+    "root": "daft",
+    "rootIPA": "/dæft/",
+    "proposal": "/dæftnəs/"
+  },
+  "lonesomeness": {
+    "root": "lonesome",
+    "rootIPA": "/ˈloʊnsəm/",
+    "proposal": "/ˈloʊnsəmnəs/"
+  },
+  "freakishness": {
+    "root": "freakish",
+    "rootIPA": "/fɹˈiːkɪʃ/",
+    "proposal": "/fɹˈiːkɪʃnəs/"
+  },
+  "studiousness": {
+    "root": "studious",
+    "rootIPA": "/ˈstudiəs/",
+    "proposal": "/ˈstudiəsnəs/"
+  },
+  "porousness": {
+    "root": "porous",
+    "rootIPA": "/ˈpɔrəs/",
+    "proposal": "/ˈpɔrəsnəs/"
+  },
+  "snugness": {
+    "root": "snug",
+    "rootIPA": "/snʌɡ/",
+    "proposal": "/snʌɡnəs/"
+  },
+  "rosiness": {
+    "root": "rosy",
+    "rootIPA": "/ˈroʊzi/",
+    "proposal": "/ˈroʊzinəs/"
+  },
+  "tactfulness": {
+    "root": "tactful",
+    "rootIPA": "/ˈtæktfəl/",
+    "proposal": "/ˈtæktfəlnəs/"
+  },
+  "abstemiously": {
+    "root": "abstemious",
+    "rootIPA": "/æbˈstimiəs/",
+    "proposal": "/æbˈstimiəsli/"
+  },
+  "amorally": {
+    "root": "amoral",
+    "rootIPA": "/eɪˈmɔrəl/",
+    "proposal": "/eɪˈmɔrəlli/"
+  },
+  "bawdily": {
+    "root": "bawdy",
+    "rootIPA": "/ˈbɔdi/",
+    "proposal": "/ˈbɔdili/"
+  },
+  "churlishly": {
+    "root": "churlish",
+    "rootIPA": "/tʃˈɜːlɪʃ/",
+    "proposal": "/tʃˈɜːlɪʃli/"
+  },
+  "combatively": {
+    "root": "combative",
+    "rootIPA": "/kəmˈbætɪv/",
+    "proposal": "/kəmˈbætɪvli/"
+  },
+  "concernedly": {
+    "root": "concerned",
+    "rootIPA": "/kənˈsɝnd/",
+    "proposal": "/kənˈsɝndli/"
+  },
+  "creakily": {
+    "root": "creaky",
+    "rootIPA": "/ˈkriki/",
+    "proposal": "/ˈkrikili/"
+  },
+  "dauntlessly": {
+    "root": "dauntless",
+    "rootIPA": "/dˈɔːntləs/",
+    "proposal": "/dˈɔːntləsli/"
+  },
+  "defenselessly": {
+    "root": "defenseless",
+    "rootIPA": "/dɪˈfɛnsləs/",
+    "proposal": "/dɪˈfɛnsləsli/"
+  },
+  "dirtily": {
+    "root": "dirty",
+    "rootIPA": "/ˈdɝti/",
+    "proposal": "/ˈdɝtili/"
+  },
+  "faithlessly": {
+    "root": "faithless",
+    "rootIPA": "/fˈeɪθləs/",
+    "proposal": "/fˈeɪθləsli/"
+  },
+  "fractiously": {
+    "root": "fractious",
+    "rootIPA": "/ˈfrækʃəs/",
+    "proposal": "/ˈfrækʃəsli/"
+  },
+  "frumpily": {
+    "root": "frumpy",
+    "rootIPA": "/ˈfrəmpi/",
+    "proposal": "/ˈfrəmpili/"
+  },
+  "garrulously": {
+    "root": "garrulous",
+    "rootIPA": "/ˈgɛrələs/",
+    "proposal": "/ˈgɛrələsli/"
+  },
+  "genteelly": {
+    "root": "genteel",
+    "rootIPA": "/ʤɛnˈtil/",
+    "proposal": "/ʤɛnˈtilli/"
+  },
+  "gluttonously": {
+    "root": "gluttonous",
+    "rootIPA": "/ˈglətənəs/",
+    "proposal": "/ˈglətənəsli/"
+  },
+  "gutturally": {
+    "root": "guttural",
+    "rootIPA": "/ˈgətərəl/",
+    "proposal": "/ˈgətərəlli/"
+  },
+  "illustriously": {
+    "root": "illustrious",
+    "rootIPA": "/ˌɪˈləstriəs/",
+    "proposal": "/ˌɪˈləstriəsli/"
+  },
+  "maladroitly": {
+    "root": "maladroit",
+    "rootIPA": "/mˈælɐdɹˌɔɪt/",
+    "proposal": "/mˈælɐdɹˌɔɪtli/"
+  },
+  "mawkishly": {
+    "root": "mawkish",
+    "rootIPA": "/ˈmɔkɪʃ/",
+    "proposal": "/ˈmɔkɪʃli/"
+  },
+  "noxiously": {
+    "root": "noxious",
+    "rootIPA": "/ˈnɑkʃəs/",
+    "proposal": "/ˈnɑkʃəsli/"
+  },
+  "observantly": {
+    "root": "observant",
+    "rootIPA": "/əbˈzɝvənt/",
+    "proposal": "/əbˈzɝvəntli/"
+  },
+  "onerously": {
+    "root": "onerous",
+    "rootIPA": "/ˈoʊnərəs/",
+    "proposal": "/ˈoʊnərəsli/"
+  },
+  "priggishly": {
+    "root": "priggish",
+    "rootIPA": "/ˈprɪɡɪʃ/",
+    "proposal": "/ˈprɪɡɪʃli/"
+  },
+  "professorially": {
+    "root": "professorial",
+    "rootIPA": "/ˌproʊfəˈsɔriəl/",
+    "proposal": "/ˌproʊfəˈsɔriəlli/"
+  },
+  "protractedly": {
+    "root": "protracted",
+    "rootIPA": "/proʊˈtræktɪd/",
+    "proposal": "/proʊˈtræktɪdli/"
+  },
+  "purposelessly": {
+    "root": "purposeless",
+    "rootIPA": "/ˈpərpəsləs/",
+    "proposal": "/ˈpərpəsləsli/"
+  },
+  "querulously": {
+    "root": "querulous",
+    "rootIPA": "/kˈwɛrələs/",
+    "proposal": "/kˈwɛrələsli/"
+  },
+  "receptively": {
+    "root": "receptive",
+    "rootIPA": "/rɪˈsɛptɪv/",
+    "proposal": "/rɪˈsɛptɪvli/"
+  },
+  "riskily": {
+    "root": "risky",
+    "rootIPA": "/ˈrɪski/",
+    "proposal": "/ˈrɪskili/"
+  },
+  "sacrilegiously": {
+    "root": "sacrilegious",
+    "rootIPA": "/ˌsækrəˈlɛʤɪs/",
+    "proposal": "/ˌsækrəˈlɛʤɪsli/"
+  },
+  "shapelessly": {
+    "root": "shapeless",
+    "rootIPA": "/ˈʃeɪpləs/",
+    "proposal": "/ˈʃeɪpləsli/"
+  },
+  "smuttily": {
+    "root": "smutty",
+    "rootIPA": "/sˈməˌti/",
+    "proposal": "/sˈməˌtili/"
+  },
+  "snootily": {
+    "root": "snooty",
+    "rootIPA": "/sˈnuti/",
+    "proposal": "/sˈnutili/"
+  },
+  "spaciously": {
+    "root": "spacious",
+    "rootIPA": "/ˈspeɪʃəs/",
+    "proposal": "/ˈspeɪʃəsli/"
+  },
+  "squalidly": {
+    "root": "squalid",
+    "rootIPA": "/ˈskwɑləd/",
+    "proposal": "/ˈskwɑlədli/"
+  },
+  "squeamishly": {
+    "root": "squeamish",
+    "rootIPA": "/skˈwimɪʃ/",
+    "proposal": "/skˈwimɪʃli/"
+  },
+  "stiltedly": {
+    "root": "stilted",
+    "rootIPA": "/ˈstɪltɪd/",
+    "proposal": "/ˈstɪltɪdli/"
+  },
+  "stockily": {
+    "root": "stocky",
+    "rootIPA": "/ˈstɑki/",
+    "proposal": "/ˈstɑkili/"
+  },
+  "taciturnly": {
+    "root": "taciturn",
+    "rootIPA": "/ˈtæsɪˌtɝn/",
+    "proposal": "/ˈtæsɪˌtɝnli/"
+  },
+  "touchily": {
+    "root": "touchy",
+    "rootIPA": "/ˈtʌtʃi/",
+    "proposal": "/ˈtʌtʃili/"
+  },
+  "verbosely": {
+    "root": "verbose",
+    "rootIPA": "/vɜːbˈoʊs/",
+    "proposal": "/vɜːbˈoʊsli/"
+  },
+  "wordily": {
+    "root": "wordy",
+    "rootIPA": "/ˈwərdi/",
+    "proposal": "/ˈwərdili/"
+  },
+  "worthlessly": {
+    "root": "worthless",
+    "rootIPA": "/ˈwərθləs/",
+    "proposal": "/ˈwərθləsli/"
+  },
+  "wrathfully": {
+    "root": "wrathful",
+    "rootIPA": "/ɹˈæθfəl/",
+    "proposal": "/ɹˈæθfəlli/"
+  },
+  "abstractedness": {
+    "root": "abstracted",
+    "rootIPA": "/ˈæbˌstræktɪd/",
+    "proposal": "/ˈæbˌstræktɪdnəs/"
+  },
+  "balkiness": {
+    "root": "balky",
+    "rootIPA": "/bˈɔːki/",
+    "proposal": "/bˈɔːkinəs/"
+  },
+  "bottomlessness": {
+    "root": "bottomless",
+    "rootIPA": "/ˈbɑtəmləs/",
+    "proposal": "/ˈbɑtəmləsnəs/"
+  },
+  "bubbliness": {
+    "root": "bubbly",
+    "rootIPA": "/ˈbəbəli/",
+    "proposal": "/ˈbəbəlinəs/"
+  },
+  "bumptiousness": {
+    "root": "bumptious",
+    "rootIPA": "/bˈʌmpʃəs/",
+    "proposal": "/bˈʌmpʃəsnəs/"
+  },
+  "buxomness": {
+    "root": "buxom",
+    "rootIPA": "/ˈbʌksəm/",
+    "proposal": "/ˈbʌksəmnəs/"
+  },
+  "capaciousness": {
+    "root": "capacious",
+    "rootIPA": "/kəˈpeɪʃəs/",
+    "proposal": "/kəˈpeɪʃəsnəs/"
+  },
+  "carefreeness": {
+    "root": "carefree",
+    "rootIPA": "/ˈkɛrfri/",
+    "proposal": "/ˈkɛrfrinəs/"
+  },
+  "ceremoniousness": {
+    "root": "ceremonious",
+    "rootIPA": "/ˌsɛrəˈmoʊniəs/",
+    "proposal": "/ˌsɛrəˈmoʊniəsnəs/"
+  },
+  "cheerlessness": {
+    "root": "cheerless",
+    "rootIPA": "/ˈtʃɪrləs/",
+    "proposal": "/ˈtʃɪrləsnəs/"
+  },
+  "clamminess": {
+    "root": "clammy",
+    "rootIPA": "/ˈklæmi/",
+    "proposal": "/ˈklæminəs/"
+  },
+  "cocksureness": {
+    "root": "cocksure",
+    "rootIPA": "/ˈkɑkʃʊr/",
+    "proposal": "/ˈkɑkʃʊrnəs/"
+  },
+  "coldheartedness": {
+    "root": "coldhearted",
+    "rootIPA": "/kˈoʊldhɑːɹɾᵻd/",
+    "proposal": "/kˈoʊldhɑːɹɾᵻdnəs/"
+  },
+  "contemplativeness": {
+    "root": "contemplative",
+    "rootIPA": "/kənˈtɛmplətɪv/",
+    "proposal": "/kənˈtɛmplətɪvnəs/"
+  },
+  "contemptuousness": {
+    "root": "contemptuous",
+    "rootIPA": "/kənˈtɛmptʃuəs/",
+    "proposal": "/kənˈtɛmptʃuəsnəs/"
+  },
+  "continuousness": {
+    "root": "continuous",
+    "rootIPA": "/kənˈtɪnjuəs/",
+    "proposal": "/kənˈtɪnjuəsnəs/"
+  },
+  "convincingness": {
+    "root": "convincing",
+    "rootIPA": "/kənˈvɪnsɪŋ/",
+    "proposal": "/kənˈvɪnsɪŋnəs/"
+  },
+  "crabbiness": {
+    "root": "crabby",
+    "rootIPA": "/ˈkræbi/",
+    "proposal": "/ˈkræbinəs/"
+  },
+  "crotchetiness": {
+    "root": "crotchety",
+    "rootIPA": "/ˈkrɑʧəti/",
+    "proposal": "/ˈkrɑʧətinəs/"
+  },
+  "curliness": {
+    "root": "curly",
+    "rootIPA": "/ˈkɝli/",
+    "proposal": "/ˈkɝlinəs/"
+  },
+  "dauntlessness": {
+    "root": "dauntless",
+    "rootIPA": "/dˈɔːntləs/",
+    "proposal": "/dˈɔːntləsnəs/"
+  },
+  "dejectedness": {
+    "root": "dejected",
+    "rootIPA": "/dɪˈdʒɛktɪd/",
+    "proposal": "/dɪˈdʒɛktɪdnəs/"
+  },
+  "dinginess": {
+    "root": "dingy",
+    "rootIPA": "/ˈdɪnʤi/",
+    "proposal": "/ˈdɪnʤinəs/"
+  },
+  "disdainfulness": {
+    "root": "disdainful",
+    "rootIPA": "/dɪsˈdeɪnfəl/",
+    "proposal": "/dɪsˈdeɪnfəlnəs/"
+  },
+  "dispassionateness": {
+    "root": "dispassionate",
+    "rootIPA": "/dɪˈspæʃənət/",
+    "proposal": "/dɪˈspæʃənətnəs/"
+  },
+  "dissoluteness": {
+    "root": "dissolute",
+    "rootIPA": "/dˈɪsəlˌuːt/",
+    "proposal": "/dˈɪsəlˌuːtnəs/"
+  },
+  "distrustfulness": {
+    "root": "distrustful",
+    "rootIPA": "/dɪˈstrʌstfəl/",
+    "proposal": "/dɪˈstrʌstfəlnəs/"
+  },
+  "dowdiness": {
+    "root": "dowdy",
+    "rootIPA": "/ˈdaʊdi/",
+    "proposal": "/ˈdaʊdinəs/"
+  },
+  "easygoingness": {
+    "root": "easygoing",
+    "rootIPA": "/ˈiziˈgoʊɪŋ/",
+    "proposal": "/ˈiziˈgoʊɪŋnəs/"
+  },
+  "faultlessness": {
+    "root": "faultless",
+    "rootIPA": "/fˈɔltləs/",
+    "proposal": "/fˈɔltləsnəs/"
+  },
+  "fidgetiness": {
+    "root": "fidgety",
+    "rootIPA": "/fˈɪdʒɪɾi/",
+    "proposal": "/fˈɪdʒɪɾinəs/"
+  },
+  "fieriness": {
+    "root": "fiery",
+    "rootIPA": "/ˈfaɪɚi/",
+    "proposal": "/ˈfaɪɚinəs/"
+  },
+  "friskiness": {
+    "root": "frisky",
+    "rootIPA": "/ˈfrɪski/",
+    "proposal": "/ˈfrɪskinəs/"
+  },
+  "frostiness": {
+    "root": "frosty",
+    "rootIPA": "/ˈfrɔsti/",
+    "proposal": "/ˈfrɔstinəs/"
+  },
+  "furtiveness": {
+    "root": "furtive",
+    "rootIPA": "/ˈfərtɪv/",
+    "proposal": "/ˈfərtɪvnəs/"
+  },
+  "gleefulness": {
+    "root": "gleeful",
+    "rootIPA": "/ˈglifəl/",
+    "proposal": "/ˈglifəlnəs/"
+  },
+  "groundlessness": {
+    "root": "groundless",
+    "rootIPA": "/ˈgraʊndləs/",
+    "proposal": "/ˈgraʊndləsnəs/"
+  },
+  "grubbiness": {
+    "root": "grubby",
+    "rootIPA": "/ˈgrəbi/",
+    "proposal": "/ˈgrəbinəs/"
+  },
+  "gutlessness": {
+    "root": "gutless",
+    "rootIPA": "/ˈgətlɛs/",
+    "proposal": "/ˈgətlɛsnəs/"
+  },
+  "heftiness": {
+    "root": "hefty",
+    "rootIPA": "/ˈhɛfti/",
+    "proposal": "/ˈhɛftinəs/"
+  },
+  "huffiness": {
+    "root": "huffy",
+    "rootIPA": "/ˈhʌfi/",
+    "proposal": "/ˈhʌfinəs/"
+  },
+  "illicitness": {
+    "root": "illicit",
+    "rootIPA": "/ɪˈlɪsɪt/",
+    "proposal": "/ɪˈlɪsɪtnəs/"
+  },
+  "ineffectualness": {
+    "root": "ineffectual",
+    "rootIPA": "/ˌɪnəˈfɛkʧuəl/",
+    "proposal": "/ˌɪnəˈfɛkʧuəlnəs/"
+  },
+  "intentness": {
+    "root": "intent",
+    "rootIPA": "/ˌɪnˈtɛnt/",
+    "proposal": "/ˌɪnˈtɛntnəs/"
+  },
+  "involuntariness": {
+    "root": "involuntary",
+    "rootIPA": "/ɪnˈvɑləntɛri/",
+    "proposal": "/ɪnˈvɑləntɛrinəs/"
+  },
+  "kindheartedness": {
+    "root": "kindhearted",
+    "rootIPA": "/ˌkaɪndˈhɑrtɪd/",
+    "proposal": "/ˌkaɪndˈhɑrtɪdnəs/"
+  },
+  "knottiness": {
+    "root": "knotty",
+    "rootIPA": "/ˈnɑti/",
+    "proposal": "/ˈnɑtinəs/"
+  },
+  "laboriousness": {
+    "root": "laborious",
+    "rootIPA": "/ləˈbɔriəs/",
+    "proposal": "/ləˈbɔriəsnəs/"
+  },
+  "lankiness": {
+    "root": "lanky",
+    "rootIPA": "/ˈlæŋki/",
+    "proposal": "/ˈlæŋkinəs/"
+  },
+  "lordliness": {
+    "root": "lordly",
+    "rootIPA": "/ˈlɔrˌdli/",
+    "proposal": "/ˈlɔrˌdlinəs/"
+  },
+  "luckiness": {
+    "root": "lucky",
+    "rootIPA": "/ˈlʌki/",
+    "proposal": "/ˈlʌkinəs/"
+  },
+  "lucrativeness": {
+    "root": "lucrative",
+    "rootIPA": "/ˈlukrətɪv/",
+    "proposal": "/ˈlukrətɪvnəs/"
+  },
+  "meddlesomeness": {
+    "root": "meddlesome",
+    "rootIPA": "/ˈmɛdəlsəm/",
+    "proposal": "/ˈmɛdəlsəmnəs/"
+  },
+  "meditativeness": {
+    "root": "meditative",
+    "rootIPA": "/ˈmɛdəˌteɪtɪv/",
+    "proposal": "/ˈmɛdəˌteɪtɪvnəs/"
+  },
+  "mistiness": {
+    "root": "misty",
+    "rootIPA": "/ˈmɪsti/",
+    "proposal": "/ˈmɪstinəs/"
+  },
+  "moroseness": {
+    "root": "morose",
+    "rootIPA": "/məˈroʊs/",
+    "proposal": "/məˈroʊsnəs/"
+  },
+  "namelessness": {
+    "root": "nameless",
+    "rootIPA": "/ˈneɪmləs/",
+    "proposal": "/ˈneɪmləsnəs/"
+  },
+  "nefariousness": {
+    "root": "nefarious",
+    "rootIPA": "/nəˈfɛriəs/",
+    "proposal": "/nəˈfɛriəsnəs/"
+  },
+  "officiousness": {
+    "root": "officious",
+    "rootIPA": "/əfˈɪʃəs/",
+    "proposal": "/əfˈɪʃəsnəs/"
+  },
+  "overbearingness": {
+    "root": "overbearing",
+    "rootIPA": "/ˈoʊvərˈbɛrɪŋ/",
+    "proposal": "/ˈoʊvərˈbɛrɪŋnəs/"
+  },
+  "parsimoniousness": {
+    "root": "parsimonious",
+    "rootIPA": "/ˌpɑrsəˈmoʊniəs/",
+    "proposal": "/ˌpɑrsəˈmoʊniəsnəs/"
+  },
+  "petiteness": {
+    "root": "petite",
+    "rootIPA": "/pəˈtit/",
+    "proposal": "/pəˈtitnəs/"
+  },
+  "pigheadedness": {
+    "root": "pigheaded",
+    "rootIPA": "/pɪɡhˈɛdᵻd/",
+    "proposal": "/pɪɡhˈɛdᵻdnəs/"
+  },
+  "placidness": {
+    "root": "placid",
+    "rootIPA": "/ˈplæsəd/",
+    "proposal": "/ˈplæsədnəs/"
+  },
+  "prickliness": {
+    "root": "prickly",
+    "rootIPA": "/ˈprɪkli/",
+    "proposal": "/ˈprɪklinəs/"
+  },
+  "puckishness": {
+    "root": "puckish",
+    "rootIPA": "/ˈpʌkɪʃ/",
+    "proposal": "/ˈpʌkɪʃnəs/"
+  },
+  "pudginess": {
+    "root": "pudgy",
+    "rootIPA": "/ˈpəʤi/",
+    "proposal": "/ˈpəʤinəs/"
+  },
+  "putridness": {
+    "root": "putrid",
+    "rootIPA": "/ˈpjutrɪd/",
+    "proposal": "/ˈpjutrɪdnəs/"
+  },
+  "repetitiousness": {
+    "root": "repetitious",
+    "rootIPA": "/ˌrɛpəˈtɪʃəs/",
+    "proposal": "/ˌrɛpəˈtɪʃəsnəs/"
+  },
+  "ricketiness": {
+    "root": "rickety",
+    "rootIPA": "/ˈrɪkəti/",
+    "proposal": "/ˈrɪkətinəs/"
+  },
+  "runniness": {
+    "root": "runny",
+    "rootIPA": "/ˈrəni/",
+    "proposal": "/ˈrəninəs/"
+  },
+  "semiconsciousness": {
+    "root": "semiconscious",
+    "rootIPA": "/ˌsɛmiˈkɑnʃəs/",
+    "proposal": "/ˌsɛmiˈkɑnʃəsnəs/"
+  },
+  "shagginess": {
+    "root": "shaggy",
+    "rootIPA": "/ˈʃægi/",
+    "proposal": "/ˈʃæginəs/"
+  },
+  "shapeliness": {
+    "root": "shapely",
+    "rootIPA": "/ˈʃeɪpli/",
+    "proposal": "/ˈʃeɪplinəs/"
+  },
+  "sightlessness": {
+    "root": "sightless",
+    "rootIPA": "/ˈsaɪtləs/",
+    "proposal": "/ˈsaɪtləsnəs/"
+  },
+  "smarminess": {
+    "root": "smarmy",
+    "rootIPA": "/sˈmɑrmi/",
+    "proposal": "/sˈmɑrminəs/"
+  },
+  "sootiness": {
+    "root": "sooty",
+    "rootIPA": "/ˈsuti/",
+    "proposal": "/ˈsutinəs/"
+  },
+  "spuriousness": {
+    "root": "spurious",
+    "rootIPA": "/ˈspəriəs/",
+    "proposal": "/ˈspəriəsnəs/"
+  },
+  "staidness": {
+    "root": "staid",
+    "rootIPA": "/steɪd/",
+    "proposal": "/steɪdnəs/"
+  },
+  "stretchiness": {
+    "root": "stretchy",
+    "rootIPA": "/stɹˈɛtʃi/",
+    "proposal": "/stɹˈɛtʃinəs/"
+  },
+  "tomboyishness": {
+    "root": "tomboyish",
+    "rootIPA": "/ˈtɑmbɔɪɪʃ/",
+    "proposal": "/ˈtɑmbɔɪɪʃnəs/"
+  },
+  "traitorousness": {
+    "root": "traitorous",
+    "rootIPA": "/ˈtreɪtərəs/",
+    "proposal": "/ˈtreɪtərəsnəs/"
+  },
+  "trimness": {
+    "root": "trim",
+    "rootIPA": "/trɪm/",
+    "proposal": "/trɪmnəs/"
+  },
+  "tumultuousness": {
+    "root": "tumultuous",
+    "rootIPA": "/ˌtuˈməˌlʧuəs/",
+    "proposal": "/ˌtuˈməˌlʧuəsnəs/"
+  },
+  "unassertiveness": {
+    "root": "unassertive",
+    "rootIPA": "/ʌnɐsˈɜːɾɪv/",
+    "proposal": "/ʌnɐsˈɜːɾɪvnəs/"
+  },
+  "unkemptness": {
+    "root": "unkempt",
+    "rootIPA": "/ənˈkɛmpt/",
+    "proposal": "/ənˈkɛmptnəs/"
+  },
+  "unmindfulness": {
+    "root": "unmindful",
+    "rootIPA": "/ʌnmˈaɪndfəl/",
+    "proposal": "/ʌnmˈaɪndfəlnəs/"
+  },
+  "unobtrusiveness": {
+    "root": "unobtrusive",
+    "rootIPA": "/ˌənəbˈtrusɪv/",
+    "proposal": "/ˌənəbˈtrusɪvnəs/"
+  },
+  "unyieldingness": {
+    "root": "unyielding",
+    "rootIPA": "/əˈnjildɪŋ/",
+    "proposal": "/əˈnjildɪŋnəs/"
+  },
+  "villainousness": {
+    "root": "villainous",
+    "rootIPA": "/ˈvɪlənəs/",
+    "proposal": "/ˈvɪlənəsnəs/"
+  },
+  "wholeheartedness": {
+    "root": "wholehearted",
+    "rootIPA": "/hoʊlhˈɑːɹɾᵻd/",
+    "proposal": "/hoʊlhˈɑːɹɾᵻdnəs/"
+  },
+  "winsomeness": {
+    "root": "winsome",
+    "rootIPA": "/ˈwɪnsəm/",
+    "proposal": "/ˈwɪnsəmnəs/"
+  },
+  "woodenness": {
+    "root": "wooden",
+    "rootIPA": "/ˈwʊdən/",
+    "proposal": "/ˈwʊdənnəs/"
+  },
+  "worthwhileness": {
+    "root": "worthwhile",
+    "rootIPA": "/ˈwɝθˈwaɪl/",
+    "proposal": "/ˈwɝθˈwaɪlnəs/"
+  }
+}

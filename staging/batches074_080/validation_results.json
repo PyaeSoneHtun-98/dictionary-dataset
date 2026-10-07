@@ -1,0 +1,44 @@
+[
+  {
+    "file": "dictionary_batch_074.json",
+    "exitCode": 0,
+    "output": "VALID\nbatch: 74\nentries: 500\nprior_lookup_keys: 56703\nnew_headwords: 500\nnew_unique_forms: 344",
+    "sha256Utf8Lf": "2949ae068a377fe9073230e0d335b275c1a44156e6d69d0650cfe6516c7cfd96"
+  },
+  {
+    "file": "dictionary_batch_075.json",
+    "exitCode": 0,
+    "output": "VALID\nbatch: 75\nentries: 500\nprior_lookup_keys: 57547\nnew_headwords: 500\nnew_unique_forms: 227",
+    "sha256Utf8Lf": "15fc9c06e50d90e2c5b4257a081ad4939fae63a818f564fe0e10d60f6ebc7a85"
+  },
+  {
+    "file": "dictionary_batch_076.json",
+    "exitCode": 0,
+    "output": "VALID\nbatch: 76\nentries: 500\nprior_lookup_keys: 58274\nnew_headwords: 500\nnew_unique_forms: 280",
+    "sha256Utf8Lf": "9465c43aa9c78fd42fc57a3e8973d6fdfa069cc0418e249089b3d096191cfe96"
+  },
+  {
+    "file": "dictionary_batch_077.json",
+    "exitCode": 0,
+    "output": "VALID\nbatch: 77\nentries: 500\nprior_lookup_keys: 59054\nnew_headwords: 500\nnew_unique_forms: 241",
+    "sha256Utf8Lf": "52f4abd6457e9bc50a09973a7b1ca6c2c2444c5c1a0693953b40a1561c2d7697"
+  },
+  {
+    "file": "dictionary_batch_078.json",
+    "exitCode": 0,
+    "output": "VALID\nbatch: 78\nentries: 500\nprior_lookup_keys: 59795\nnew_headwords: 500\nnew_unique_forms: 181",
+    "sha256Utf8Lf": "083bb7bd725eb2990ba97c5da9fead93f6f7cc9c7c2416dd2c7e7233a385f6b0"
+  },
+  {
+    "file": "dictionary_batch_079.json",
+    "exitCode": 0,
+    "output": "VALID\nbatch: 79\nentries: 500\nprior_lookup_keys: 60476\nnew_headwords: 500\nnew_unique_forms: 361",
+    "sha256Utf8Lf": "6e0806dfc5d8ef36a9f9a313e1a3aa9c09e5261442a8c0e80e7ca91f3ede7aa9"
+  },
+  {
+    "file": "dictionary_batch_080.json",
+    "exitCode": 0,
+    "output": "VALID\nbatch: 80\nentries: 500\nprior_lookup_keys: 61337\nnew_headwords: 500\nnew_unique_forms: 341",
+    "sha256Utf8Lf": "a98cc3541201cf425502da12ef57d05654ac6085da159963f3cdddefacdf59f1"
+  }
+]

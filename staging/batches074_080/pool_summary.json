@@ -1,0 +1,8 @@
+{
+  "priorKeys": 56703,
+  "candidates": 90208,
+  "wordnetCandidates": 26716,
+  "reviewDate": "2026-10-07",
+  "baseline": "f19387bdfb7153bd4022de29a0278dd5e8431a75",
+  "selection": "Broader pool including modern words absent from WordNet, short words and words previously filtered by uncertain lemma suggestions. Requires manual review, no automatic translations."
+}
