@@ -1,0 +1,688 @@
+{
+  "batch": 14,
+  "reviewedEntryCount": 250,
+  "reviewedStoredFormCount": 352,
+  "actionableEntryCount": 20,
+  "reviewedNoChangeEntryCount": 230,
+  "scope": "Every entry, stored form, type and Burmese gloss reviewed; ownership checked against all frozen PhraseBatches 001–012 and extension batches 013–016.",
+  "exactCollisionCount": 0,
+  "policyNotes": [
+    "No batch, artifact, index or git changes were made by this reviewer. Burmese proposals are independently authored; publisher URLs support only English meaning/grammar facts.",
+    "All existing inflections are grammatical. Zero type changes are necessary. No new separated-object forms or placeholders are proposed.",
+    "New proposed forms are globally unowned except live from hand to mouth, currently owned by the later Batch 016 entry that must be replaced in coordination.",
+    "Keep out of proportion: disproportionate state is independently useful beyond frozen blow things out of proportion, which denotes exaggeration.",
+    "Keep to the bone for independent intensity/exhaustion uses; its selected reduction gloss is proposed for replacement above.",
+    "Keep established phrasal synonyms chase away/chase off and churn out/crank out: changing the particle or verb creates distinct established expressions, not cosmetic spellings."
+  ],
+  "crossBatchIssue": {
+    "retainOwner": "PhraseExtensionBatches/phrase_batch_014.json: from hand to mouth",
+    "replaceLaterEntry": "PhraseExtensionBatches/phrase_batch_016.json: live from hand to mouth",
+    "reason": "Same idiom with live prefixed; not a genuinely new phrase. Coordinated full earlier-owner replacement is included in changes."
+  },
+  "changes": [
+    {
+      "phrase": "bug out",
+      "entryNumber": 6,
+      "priority": "P2",
+      "reason": "The departure gloss is restricted to an emergency, and two useful US subtitle senses are missing: panic/lose composure and eyes protruding/opening wide.",
+      "sources": [
+        "https://dictionary.cambridge.org/us/dictionary/english/bug-out"
+      ],
+      "replacement": {
+        "phrase": "bug out",
+        "type": "phrasal_verb",
+        "forms": [
+          "bugs out",
+          "bugged out",
+          "bugging out"
+        ],
+        "burmese": [
+          "အမြန် ထွက်သွားသည်",
+          "ကြောက်လန့်စိုးရိမ်ပြီး ထိန်းမနိုင်သိမ်းမရ ဖြစ်သည်",
+          "မျက်လုံး ပြူးထွက်လာသည်"
+        ]
+      }
+    },
+    {
+      "phrase": "chase away",
+      "entryNumber": 37,
+      "priority": "P2",
+      "reason": "Physical expulsion is correct; add the established figurative sense of dispelling fears or unpleasant feelings.",
+      "sources": [
+        "https://www.collinsdictionary.com/dictionary/english/chase-away"
+      ],
+      "replacement": {
+        "phrase": "chase away",
+        "type": "phrasal_verb",
+        "forms": [
+          "chases away",
+          "chased away",
+          "chasing away"
+        ],
+        "burmese": [
+          "မောင်းထုတ်သည်",
+          "စိုးရိမ်မှု သို့မဟုတ် မကောင်းသည့်ခံစားချက်ကို ပျောက်ကင်းစေသည်"
+        ]
+      }
+    },
+    {
+      "phrase": "chase down",
+      "entryNumber": 41,
+      "priority": "P2",
+      "reason": "Catching a fleeing person is only one sense; locating a person, lead, or item through persistent searching is common in investigation dialogue.",
+      "sources": [
+        "https://www.collinsdictionary.com/dictionary/english/chase-down"
+      ],
+      "replacement": {
+        "phrase": "chase down",
+        "type": "phrasal_verb",
+        "forms": [
+          "chases down",
+          "chased down",
+          "chasing down"
+        ],
+        "burmese": [
+          "လိုက်ဖမ်း၍ မိအောင်လုပ်သည်",
+          "လိုက်ရှာပြီး တွေ့အောင်လုပ်သည်"
+        ]
+      }
+    },
+    {
+      "phrase": "from hand to mouth",
+      "entryNumber": 86,
+      "priority": "P2",
+      "reason": "The existing gloss implies daily labor, whereas the idiom describes income barely covering immediate living needs. Consolidate the later Batch 016 cosmetic expansion under this earlier owner; transfer its surface string and useful live inflections here only after replacing that later canonical entry.",
+      "sources": [
+        "https://www.collinsdictionary.com/dictionary/english/from-hand-to-mouth"
+      ],
+      "replacement": {
+        "phrase": "from hand to mouth",
+        "type": "idiom",
+        "forms": [
+          "live from hand to mouth",
+          "lives from hand to mouth",
+          "lived from hand to mouth",
+          "living from hand to mouth"
+        ],
+        "burmese": [
+          "ရသမျှဝင်ငွေနဲ့ စားဝတ်နေရေး အနိုင်နိုင် ဖြည့်ဆည်းနေရသည်"
+        ]
+      }
+    },
+    {
+      "phrase": "cough up",
+      "entryNumber": 91,
+      "priority": "P2",
+      "reason": "The literal gloss leaves the expulsion action unclear. Clarify coughing something out, and include the established reluctant disclosure sense useful in crime dialogue.",
+      "sources": [
+        "https://www.collinsdictionary.com/dictionary/english/cough-up"
+      ],
+      "replacement": {
+        "phrase": "cough up",
+        "type": "phrasal_verb",
+        "forms": [
+          "coughs up",
+          "coughed up",
+          "coughing up"
+        ],
+        "burmese": [
+          "မပေးချင်ဘဲ ငွေထုတ်ပေးသည်",
+          "ချောင်းဆိုးပြီး သွေး သို့မဟုတ် အချွဲ ထုတ်သည်",
+          "မပြောချင်ဘဲ အချက်အလက် ထုတ်ပြောသည်"
+        ]
+      }
+    },
+    {
+      "phrase": "crowd out",
+      "entryNumber": 99,
+      "priority": "P2",
+      "reason": "The current gloss restricts the displaced object to another person. The expression also covers activities, ideas, or resources being excluded by something taking all the available room or attention.",
+      "sources": [
+        "https://www.collinsdictionary.com/dictionary/english/crowd-out"
+      ],
+      "replacement": {
+        "phrase": "crowd out",
+        "type": "phrasal_verb",
+        "forms": [
+          "crowds out",
+          "crowded out",
+          "crowding out"
+        ],
+        "burmese": [
+          "နေရာယူပိတ်ဆို့၍ အခြားသူ သို့မဟုတ် အရာကို နေရာမရအောင်လုပ်သည်"
+        ]
+      }
+    },
+    {
+      "phrase": "go up in smoke",
+      "entryNumber": 107,
+      "priority": "P2",
+      "reason": "Add the common literal fire-destruction sense; the existing figurative failure sense is correct.",
+      "sources": [
+        "https://dictionary.cambridge.org/dictionary/english/go-up-in-smoke"
+      ],
+      "replacement": {
+        "phrase": "go up in smoke",
+        "type": "idiom",
+        "forms": [
+          "goes up in smoke",
+          "went up in smoke",
+          "gone up in smoke",
+          "going up in smoke",
+          "up in smoke"
+        ],
+        "burmese": [
+          "အစီအစဉ် သို့မဟုတ် မျှော်လင့်ချက် ပျက်စီးသွားသည်",
+          "မီးလောင်ပြီး ပျက်စီးသွားသည်"
+        ]
+      }
+    },
+    {
+      "phrase": "dish out",
+      "entryNumber": 114,
+      "priority": "P2",
+      "reason": "The general distribution sense is sound; criticism, rather than only punishment, is a frequent figurative object. Expand that sense without introducing an extra duplicate distribution gloss.",
+      "sources": [
+        "https://www.collinsdictionary.com/us/dictionary/english/dish-out"
+      ],
+      "replacement": {
+        "phrase": "dish out",
+        "type": "phrasal_verb",
+        "forms": [
+          "dishes out",
+          "dished out",
+          "dishing out"
+        ],
+        "burmese": [
+          "ဝေငှသည်",
+          "ဝေဖန်ချက် သို့မဟုတ် အပြစ်ဒဏ်များ ပေးသည်"
+        ]
+      }
+    },
+    {
+      "phrase": "to a tee",
+      "entryNumber": 121,
+      "priority": "P2",
+      "reason": "The well-established spelling to a T should resolve to the same owner after lowercasing.",
+      "sources": [
+        "https://www.collinsdictionary.com/dictionary/english/to-a-t"
+      ],
+      "replacement": {
+        "phrase": "to a tee",
+        "type": "idiom",
+        "forms": [
+          "to a t"
+        ],
+        "burmese": [
+          "အတိအကျ ကိုက်ညီအောင်"
+        ]
+      }
+    },
+    {
+      "phrase": "to the bone",
+      "entryNumber": 130,
+      "priority": "P2",
+      "reason": "The reduction gloss repeats the frozen cut to the bone entry. Keep the independent intensity usage, and replace that repeated selected gloss with the common exhaustion use. The idiom remains useful with chilled/soaked/worked, beyond the frozen verb phrase.",
+      "sources": [
+        "https://www.collinsdictionary.com/us/dictionary/english/to-the-bone",
+        "https://dictionaryblog.cambridge.org/2025/07/30/i-feel-it-in-my-bones-idioms-with-bone/"
+      ],
+      "replacement": {
+        "phrase": "to the bone",
+        "type": "idiom",
+        "forms": [],
+        "burmese": [
+          "အရိုးထိအောင် ပြင်းထန်စွာ",
+          "အလွန်အမင်း ပင်ပန်းအောင်"
+        ]
+      }
+    },
+    {
+      "phrase": "apple of your eye",
+      "entryNumber": 135,
+      "priority": "P2",
+      "reason": "The possessive is variable, but forms is empty. Add common grammatical possessive variants, all within the token limit, under this owner.",
+      "sources": [
+        "https://dictionary.cambridge.org/dictionary/english/apple-of-eye"
+      ],
+      "replacement": {
+        "phrase": "apple of your eye",
+        "type": "idiom",
+        "forms": [
+          "apple of my eye",
+          "apple of his eye",
+          "apple of her eye",
+          "apple of our eye",
+          "apple of their eye"
+        ],
+        "burmese": [
+          "အချစ်ဆုံး၊ အမြတ်နိုးဆုံးသူ"
+        ]
+      }
+    },
+    {
+      "phrase": "thorn in your side",
+      "entryNumber": 139,
+      "priority": "P2",
+      "reason": "The possessive is variable, but forms is empty. Add common possessive variants under the same owner; no placeholder or separated object is introduced.",
+      "sources": [
+        "https://dictionary.cambridge.org/us/dictionary/english/thorn"
+      ],
+      "replacement": {
+        "phrase": "thorn in your side",
+        "type": "idiom",
+        "forms": [
+          "thorn in my side",
+          "thorn in his side",
+          "thorn in her side",
+          "thorn in our side",
+          "thorn in their side"
+        ],
+        "burmese": [
+          "အမြဲဒုက္ခပေးနေသည့် လူ သို့မဟုတ် ကိစ္စ"
+        ]
+      }
+    },
+    {
+      "phrase": "ivory tower",
+      "entryNumber": 158,
+      "priority": "P2",
+      "reason": "The present gloss makes this a community of intellectuals. It denotes a place, situation, or attitude isolated from practical everyday life, and can describe a single person.",
+      "sources": [
+        "https://dictionary.cambridge.org/dictionary/english/ivory-tower",
+        "https://www.collinsdictionary.com/zh/dictionary/english/ivory-tower"
+      ],
+      "replacement": {
+        "phrase": "ivory tower",
+        "type": "idiom",
+        "forms": [
+          "ivory towers"
+        ],
+        "burmese": [
+          "သာမန်လူတို့၏ လက်တွေ့ဘဝနဲ့ ကင်းကွာနေသည့် အခြေအနေ"
+        ]
+      }
+    },
+    {
+      "phrase": "pie in the sky",
+      "entryNumber": 159,
+      "priority": "P2",
+      "reason": "Merely uncertain understates the idiom: the hoped-for thing is highly unlikely or unrealistic, not simply unconfirmed.",
+      "sources": [
+        "https://dictionary.cambridge.org/dictionary/english/pie-in-the-sky"
+      ],
+      "replacement": {
+        "phrase": "pie in the sky",
+        "type": "idiom",
+        "forms": [
+          "pies in the sky"
+        ],
+        "burmese": [
+          "လက်တွေ့ဖြစ်လာဖို့ အလွန်ခက်သည့် စိတ်ကူးယဉ်မျှော်လင့်ချက်"
+        ]
+      }
+    },
+    {
+      "phrase": "death warmed over",
+      "entryNumber": 170,
+      "priority": "P2",
+      "reason": "Add the documented British warmed up variant to this same idiom owner. The existing Burmese gloss and US canonical string are sound.",
+      "sources": [
+        "https://dictionary.cambridge.org/dictionary/english/look-feel-like-death-warmed-over?q=look-feel-like-death-warmed-up_1"
+      ],
+      "replacement": {
+        "phrase": "death warmed over",
+        "type": "idiom",
+        "forms": [
+          "death warmed up"
+        ],
+        "burmese": [
+          "မကျန်းမမာနှင့် အလွန်ပင်ပန်းနွမ်းနယ်နေပုံ"
+        ]
+      }
+    },
+    {
+      "phrase": "grapple with",
+      "entryNumber": 206,
+      "priority": "P2",
+      "reason": "The mental struggle sense is correct; add physically seizing and wrestling with someone, a useful action/crime sense.",
+      "sources": [
+        "https://dictionary.cambridge.org/us/dictionary/english/grapple?topic=fighting"
+      ],
+      "replacement": {
+        "phrase": "grapple with",
+        "type": "phrasal_verb",
+        "forms": [
+          "grapples with",
+          "grappled with",
+          "grappling with"
+        ],
+        "burmese": [
+          "ခက်ခဲသည့် ပြဿနာကို ဖြေရှင်းရန် ရုန်းကန်သည်",
+          "ကိုင်ဖမ်း၍ လုံးထွေးသတ်ပုတ်သည်"
+        ]
+      }
+    },
+    {
+      "phrase": "heap on",
+      "entryNumber": 234,
+      "priority": "P2",
+      "reason": "The Burmese တင်ပုံပေးသည် is awkward and only literal. Use natural piling language and include the publisher-documented abundant praise/criticism sense.",
+      "sources": [
+        "https://dictionary.cambridge.org/dictionary/english/heap-on",
+        "https://www.oxfordlearnersdictionaries.com/definition/american_english/heap_2"
+      ],
+      "replacement": {
+        "phrase": "heap on",
+        "type": "phrasal_verb",
+        "forms": [
+          "heaps on",
+          "heaped on",
+          "heaping on"
+        ],
+        "burmese": [
+          "အများကြီး ပုံတင်သည်",
+          "ချီးကျူးစကား သို့မဟုတ် ဝေဖန်စကားများ အလွန်အကျွံ ပြောသည်"
+        ]
+      }
+    },
+    {
+      "phrase": "heat up",
+      "entryNumber": 237,
+      "priority": "P2",
+      "reason": "ပူလာသည် only gives the intransitive result. Add the very common transitive food-reheating action, retaining the two existing senses.",
+      "sources": [
+        "https://www.collinsdictionary.com/dictionary/english/heat-up"
+      ],
+      "replacement": {
+        "phrase": "heat up",
+        "type": "phrasal_verb",
+        "forms": [
+          "heats up",
+          "heated up",
+          "heating up"
+        ],
+        "burmese": [
+          "ပူလာသည်",
+          "စားစရာကို ပြန်အပူပေးသည်",
+          "အခြေအနေ ပိုပြင်းထန်လာသည်"
+        ]
+      }
+    },
+    {
+      "phrase": "hem in",
+      "entryNumber": 241,
+      "priority": "P2",
+      "reason": "The enclosure gloss is correct; add the common figurative restriction on freedom to act or change.",
+      "sources": [
+        "https://www.collinsdictionary.com/dictionary/english/hem-in"
+      ],
+      "replacement": {
+        "phrase": "hem in",
+        "type": "phrasal_verb",
+        "forms": [
+          "hems in",
+          "hemmed in",
+          "hemming in"
+        ],
+        "burmese": [
+          "ထွက်ပေါက်မရှိအောင် ဝိုင်းပိတ်သည်",
+          "လွတ်လွတ်လပ်လပ် မလုပ်နိုင်အောင် ကန့်သတ်ထားသည်"
+        ]
+      }
+    },
+    {
+      "phrase": "bad hair day",
+      "entryNumber": 233,
+      "priority": "P2",
+      "reason": "The figurative bad-day sense is correct, but the original and still common unattractive/unmanageable hair sense is useful in subtitle dialogue.",
+      "sources": [
+        "https://dictionaryblog.cambridge.org/2019/01/02/bad-hair-day-words-and-phrases-that-describe-hair/",
+        "https://dictionary.cambridge.org/dictionary/english/bad-hair-day"
+      ],
+      "replacement": {
+        "phrase": "bad hair day",
+        "type": "idiom",
+        "forms": [
+          "bad hair days"
+        ],
+        "burmese": [
+          "အရာရာ အဆင်မပြေသည့်နေ့",
+          "ဆံပင်ပုံစံ အဆင်မပြေသည့်နေ့"
+        ]
+      }
+    }
+  ],
+  "reviewedNoChangePhrases": [
+    "as quiet as a mouse",
+    "buck up",
+    "as right as rain",
+    "all and sundry",
+    "as sick as a dog",
+    "as slippery as an eel",
+    "as thick as thieves",
+    "as tough as old boots",
+    "bulk up",
+    "after a fashion",
+    "as white as a sheet",
+    "as blind as a bat",
+    "bundle up",
+    "as bold as brass",
+    "as busy as a bee",
+    "button up",
+    "as dead as a doornail",
+    "after the fact",
+    "as dry as a bone",
+    "as fresh as a daisy",
+    "carve out",
+    "as mad as a hatter",
+    "as steady as a rock",
+    "as and when",
+    "cast off",
+    "as sharp as a tack",
+    "as dull as dishwater",
+    "cast out",
+    "as stubborn as a mule",
+    "as sweet as honey",
+    "as it were",
+    "as strong as an ox",
+    "chalk up",
+    "as proud as a peacock",
+    "as gentle as a lamb",
+    "around the clock",
+    "around the corner",
+    "as yet",
+    "around the bend",
+    "out of the running",
+    "out of step",
+    "chase off",
+    "on the receiving end",
+    "out of proportion",
+    "on the cards",
+    "chase up",
+    "on your doorstep",
+    "on the breadline",
+    "choke down",
+    "on the back foot",
+    "out of favor",
+    "on the front foot",
+    "churn out",
+    "on the fly",
+    "on the sly",
+    "on the double",
+    "claw back",
+    "on the off chance",
+    "on the go",
+    "in the balance",
+    "cling on",
+    "in the offing",
+    "in your good books",
+    "clog up",
+    "in your bad books",
+    "on your own terms",
+    "in full swing",
+    "in fits and starts",
+    "cloud over",
+    "in dribs and drabs",
+    "in a different league",
+    "on the trot",
+    "clown around",
+    "in a world of pain",
+    "in a tight corner",
+    "cock up",
+    "for dear life",
+    "for good measure",
+    "in the fullness of time",
+    "from pillar to post",
+    "comb through",
+    "from the ground up",
+    "conjure up",
+    "from rags to riches",
+    "go from strength to strength",
+    "in the main",
+    "from the horse's mouth",
+    "under a cloud",
+    "under lock and key",
+    "crank out",
+    "under the sun",
+    "in the making",
+    "under your belt",
+    "up to scratch",
+    "up to snuff",
+    "curl up",
+    "up the creek",
+    "in the bargain",
+    "up the wall",
+    "damp down",
+    "without rhyme or reason",
+    "with your eyes closed",
+    "dash off",
+    "in your own right",
+    "with bated breath",
+    "with a heavy heart",
+    "with a grain of salt",
+    "within striking distance",
+    "dish up",
+    "within your grasp",
+    "in your own sweet time",
+    "to a fault",
+    "dive in",
+    "to the bitter end",
+    "to the letter",
+    "in your prime",
+    "dole out",
+    "to the hilt",
+    "to the core",
+    "drum up",
+    "cut to the quick",
+    "in good spirits",
+    "to your heart's content",
+    "duck out",
+    "eye of the storm",
+    "dust off",
+    "fly in the ointment",
+    "in bad faith",
+    "eat away at",
+    "wild goose chase",
+    "white elephant",
+    "golden boy",
+    "eat into",
+    "golden goose",
+    "in bad taste",
+    "sacred cow",
+    "ebb away",
+    "holy grail",
+    "silver spoon",
+    "egg on",
+    "glass jaw",
+    "in full force",
+    "glass half full",
+    "embark on",
+    "glass half empty",
+    "explain away",
+    "in name only",
+    "bag of tricks",
+    "bag of bones",
+    "ferret out",
+    "bundle of joy",
+    "ball of fire",
+    "file away",
+    "kiss of death",
+    "in part",
+    "walking encyclopedia",
+    "finish with",
+    "armchair critic",
+    "smart cookie",
+    "in passing",
+    "firm up",
+    "cool customer",
+    "smooth operator",
+    "fold up",
+    "fast talker",
+    "straight shooter",
+    "in retrospect",
+    "loose cannon",
+    "fob off",
+    "live wire",
+    "busy bee",
+    "freeze out",
+    "eager beaver",
+    "early bird",
+    "in force",
+    "freshen up",
+    "night owl",
+    "lone wolf",
+    "old hand",
+    "fritter away",
+    "old flame",
+    "in effect",
+    "old hat",
+    "glaze over",
+    "old school",
+    "new blood",
+    "gobble up",
+    "young at heart",
+    "in principle",
+    "young gun",
+    "big cheese",
+    "big fish",
+    "big shot",
+    "grind down",
+    "in short supply",
+    "top dog",
+    "small fry",
+    "gross out",
+    "small potatoes",
+    "big leagues",
+    "gun for",
+    "big shoes to fill",
+    "in plain terms",
+    "big mouth",
+    "forked tongue",
+    "hammer out",
+    "sharp tongue",
+    "silver tongue",
+    "in a split second",
+    "harp on",
+    "poisoned chalice",
+    "poison pill",
+    "haul in",
+    "bad egg",
+    "bad seed",
+    "in a roundabout way",
+    "born loser",
+    "poor sport",
+    "good sport",
+    "fair-weather friend",
+    "in a manner of speaking",
+    "dirty work",
+    "dirty pool",
+    "dirty trick",
+    "hike up",
+    "dirty look",
+    "for all practical purposes",
+    "dirty mind",
+    "jack up",
+    "clean hands"
+  ]
+}

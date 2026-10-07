@@ -1,0 +1,330 @@
+{
+  "batch": 13,
+  "reviewedEntries": 250,
+  "reviewedForms": 374,
+  "method": "Every canonical, stored form and Burmese sense read; cross-owner variant comparison against all frozen and extension entries.",
+  "findings": [
+    {
+      "batch": 13,
+      "phrase": "ace in the hole",
+      "reason": "Cambridge explicitly treats ace up your sleeve as the same idiom. Consolidate that entry and real possessor/plural surfaces under one owner.",
+      "sources": [
+        "https://dictionary.cambridge.org/dictionary/english/ace-up-sleeve?q=ace-up-your-sleeve"
+      ],
+      "before": {
+        "phrase": "ace in the hole",
+        "type": "idiom",
+        "forms": [],
+        "burmese": [
+          "လိုအပ်မှ ထုတ်သုံးမည့် အသာစီးရစရာ လျှို့ဝှက်အကြံ"
+        ]
+      },
+      "replacement": {
+        "phrase": "ace in the hole",
+        "type": "idiom",
+        "forms": [
+          "aces in the hole",
+          "ace up your sleeve",
+          "ace up my sleeve",
+          "ace up his sleeve",
+          "ace up her sleeve",
+          "ace up our sleeve",
+          "ace up their sleeve",
+          "aces up your sleeve",
+          "aces up my sleeve",
+          "aces up his sleeve",
+          "aces up her sleeve",
+          "aces up our sleeves",
+          "aces up their sleeves",
+          "ace up our sleeves",
+          "ace up their sleeves"
+        ],
+        "burmese": [
+          "လိုအပ်မှ ထုတ်သုံးမည့် အသာစီးရစရာ လျှို့ဝှက်နည်း သို့မဟုတ် အစွမ်းအစ"
+        ]
+      }
+    },
+    {
+      "batch": 13,
+      "phrase": "ace up your sleeve",
+      "reason": "Replace the duplicate idiom owner with a useful, independently verified and unused expression.",
+      "sources": [
+        "https://dictionary.cambridge.org/us/dictionary/english/pet-peeve"
+      ],
+      "before": {
+        "phrase": "ace up your sleeve",
+        "type": "idiom",
+        "forms": [],
+        "burmese": [
+          "တခြားသူမသိသေးသည့် အသာစီးရစရာ လျှို့ဝှက်နည်း"
+        ]
+      },
+      "replacement": {
+        "phrase": "pet peeve",
+        "type": "idiom",
+        "forms": [
+          "pet peeves"
+        ],
+        "burmese": [
+          "ကိုယ့်အတွက် အထူးစိတ်အနှောင့်အယှက်ဖြစ်စေသည့် အရာ"
+        ]
+      }
+    },
+    {
+      "batch": 13,
+      "phrase": "beside the point",
+      "reason": "The frozen entry that's beside the point already owns this expression. Do not count a shorter cosmetic variant as new.",
+      "sources": [
+        "https://dictionary.cambridge.org/us/dictionary/english/double-standard"
+      ],
+      "before": {
+        "phrase": "beside the point",
+        "type": "expression",
+        "forms": [],
+        "burmese": [
+          "ပြောနေတဲ့အကြောင်းနဲ့ မဆိုင်ဘူး"
+        ]
+      },
+      "replacement": {
+        "phrase": "double standard",
+        "type": "expression",
+        "forms": [
+          "double standards"
+        ],
+        "burmese": [
+          "တူညီသည့်ကိစ္စကို လူအလိုက် မမျှမတ စံနှစ်မျိုးထား၍ ဆက်ဆံခြင်း"
+        ]
+      }
+    },
+    {
+      "batch": 13,
+      "phrase": "at rock bottom",
+      "reason": "Frozen hit rock bottom already owns this idiom; changing the verb to a state preposition must not count as a new idiom. Replace with distinct subtitle vocabulary.",
+      "sources": [
+        "https://www.collinsdictionary.com/dictionary/english/ride-shotgun"
+      ],
+      "before": {
+        "phrase": "at rock bottom",
+        "type": "idiom",
+        "forms": [],
+        "burmese": [
+          "အနိမ့်ဆုံးအခြေအနေကို ရောက်နေသည်"
+        ]
+      },
+      "replacement": {
+        "phrase": "ride shotgun",
+        "type": "idiom",
+        "forms": [
+          "rides shotgun",
+          "rode shotgun",
+          "ridden shotgun",
+          "riding shotgun"
+        ],
+        "burmese": [
+          "ကားမောင်းသူဘေး ရှေ့ခုံမှာ ထိုင်လိုက်သည်"
+        ]
+      }
+    },
+    {
+      "batch": 13,
+      "phrase": "skeleton in the closet",
+      "reason": "Include common plural and cupboard variants under the same owner.",
+      "sources": [],
+      "before": {
+        "phrase": "skeleton in the closet",
+        "type": "idiom",
+        "forms": [],
+        "burmese": [
+          "လူမသိအောင် ဖုံးကွယ်ထားသည့် အရှက်ရစရာအတိတ်"
+        ]
+      },
+      "replacement": {
+        "phrase": "skeleton in the closet",
+        "type": "idiom",
+        "forms": [
+          "skeletons in the closet",
+          "skeleton in the cupboard",
+          "skeletons in the cupboard"
+        ],
+        "burmese": [
+          "လူမသိအောင် ဖုံးကွယ်ထားသည့် အရှက်ရစရာအတိတ်"
+        ]
+      }
+    },
+    {
+      "batch": 13,
+      "phrase": "wolf in sheep's clothing",
+      "reason": "Useful real irregular plural surface is missing.",
+      "sources": [],
+      "before": {
+        "phrase": "wolf in sheep's clothing",
+        "type": "idiom",
+        "forms": [],
+        "burmese": [
+          "လူကောင်းဟန်ဆောင်ထားသည့် လူဆိုး"
+        ]
+      },
+      "replacement": {
+        "phrase": "wolf in sheep's clothing",
+        "type": "idiom",
+        "forms": [
+          "wolves in sheep's clothing"
+        ],
+        "burmese": [
+          "လူကောင်းဟန်ဆောင်ထားသည့် လူဆိုး"
+        ]
+      }
+    },
+    {
+      "batch": 13,
+      "phrase": "snake in the grass",
+      "reason": "Useful real noun plural surface is missing.",
+      "sources": [],
+      "before": {
+        "phrase": "snake in the grass",
+        "type": "idiom",
+        "forms": [],
+        "burmese": [
+          "မိတ်ဆွေဟန်ဆောင်ထားသည့် ရန်သူ"
+        ]
+      },
+      "replacement": {
+        "phrase": "snake in the grass",
+        "type": "idiom",
+        "forms": [
+          "snakes in the grass"
+        ],
+        "burmese": [
+          "မိတ်ဆွေဟန်ဆောင်ထားသည့် ရန်သူ"
+        ]
+      }
+    },
+    {
+      "batch": 13,
+      "phrase": "gun down",
+      "reason": "Correct Burmese action spelling: ပစ်လှဲ indicates shooting someone down; ပစ်လဲ is an incorrect action construction.",
+      "sources": [],
+      "before": {
+        "phrase": "gun down",
+        "type": "phrasal_verb",
+        "forms": [
+          "guns down",
+          "gunned down",
+          "gunning down"
+        ],
+        "burmese": [
+          "သေနတ်ဖြင့် ပစ်လဲသည်"
+        ]
+      },
+      "replacement": {
+        "phrase": "gun down",
+        "type": "phrasal_verb",
+        "forms": [
+          "guns down",
+          "gunned down",
+          "gunning down"
+        ],
+        "burmese": [
+          "သေနတ်ဖြင့် ပစ်လှဲသည်"
+        ]
+      }
+    },
+    {
+      "batch": 13,
+      "phrase": "suck up to",
+      "reason": "Flattering for advantage is not restricted to a workplace superior.",
+      "sources": [],
+      "before": {
+        "phrase": "suck up to",
+        "type": "phrasal_verb",
+        "forms": [
+          "sucks up to",
+          "sucked up to",
+          "sucking up to"
+        ],
+        "burmese": [
+          "မျက်နှာရအောင် အထက်လူကြီးကို ဖားသည်"
+        ]
+      },
+      "replacement": {
+        "phrase": "suck up to",
+        "type": "phrasal_verb",
+        "forms": [
+          "sucks up to",
+          "sucked up to",
+          "sucking up to"
+        ],
+        "burmese": [
+          "မျက်နှာရအောင် ဖားသည်"
+        ]
+      }
+    },
+    {
+      "batch": 13,
+      "phrase": "shrug off",
+      "reason": "Include the common physical shoulder movement sense as well as figurative dismissal.",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/us/definition/english/shrug-off"
+      ],
+      "before": {
+        "phrase": "shrug off",
+        "type": "phrasal_verb",
+        "forms": [
+          "shrugs off",
+          "shrugged off",
+          "shrugging off"
+        ],
+        "burmese": [
+          "အရေးမထားဘဲ ပယ်ချသည်"
+        ]
+      },
+      "replacement": {
+        "phrase": "shrug off",
+        "type": "phrasal_verb",
+        "forms": [
+          "shrugs off",
+          "shrugged off",
+          "shrugging off"
+        ],
+        "burmese": [
+          "အရေးမထားဘဲ ပယ်ချသည်",
+          "ပခုံးတွန့်၍ ဖယ်ထုတ်သည်"
+        ]
+      }
+    },
+    {
+      "batch": 13,
+      "phrase": "hush up",
+      "reason": "Include the common American keep-quiet sense as well as hiding information.",
+      "sources": [
+        "https://www.collinsdictionary.com/dictionary/english/hush-up"
+      ],
+      "before": {
+        "phrase": "hush up",
+        "type": "phrasal_verb",
+        "forms": [
+          "hushes up",
+          "hushed up",
+          "hushing up"
+        ],
+        "burmese": [
+          "လူမသိအောင် ဖုံးဖိထားသည်"
+        ]
+      },
+      "replacement": {
+        "phrase": "hush up",
+        "type": "phrasal_verb",
+        "forms": [
+          "hushes up",
+          "hushed up",
+          "hushing up"
+        ],
+        "burmese": [
+          "လူမသိအောင် ဖုံးဖိထားသည်",
+          "တိတ်တိတ်နေသည်"
+        ]
+      }
+    }
+  ],
+  "unchangedEntries": 239
+}

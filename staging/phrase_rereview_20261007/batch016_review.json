@@ -1,0 +1,1914 @@
+{
+  "batch": 16,
+  "source_file": "PhraseExtensionBatches/phrase_batch_016.json",
+  "source_sha256": "9322856235c44c8c4625311b924f93efd977124a6b5996bf3530ef47176f5828",
+  "reviewed_entry_count": 250,
+  "reviewed_form_count": 673,
+  "all_namespace_entry_count": 4000,
+  "namespace_exact_conflicts": [],
+  "flagged_entry_count": 42,
+  "reviewed_no_change_count": 208,
+  "reviewed_no_change_phrases": [
+    "get the shaft",
+    "sell off",
+    "get the runs",
+    "screech to a halt",
+    "get your goat",
+    "sell out",
+    "ducks in a row",
+    "shore up",
+    "reasonable suspicion",
+    "give a wide berth to",
+    "give an inch",
+    "simmer down",
+    "give short shrift",
+    "give up the ghost",
+    "give your eyeteeth for",
+    "due process",
+    "give your right arm for",
+    "go bananas",
+    "slack off",
+    "go nuts",
+    "go ape",
+    "burden of proof",
+    "slog through",
+    "go ballistic",
+    "go postal",
+    "smash up",
+    "go pear-shaped",
+    "go to pot",
+    "go to seed",
+    "snap up",
+    "go to the dogs",
+    "go to the wall",
+    "sniff around",
+    "go overboard",
+    "go down a treat",
+    "circumstantial evidence",
+    "sniff out",
+    "go down the tubes",
+    "go down the toilet",
+    "sock away",
+    "go whole hog",
+    "physical evidence",
+    "soften up",
+    "go through hell",
+    "go through the mill",
+    "go for a song",
+    "chain of custody",
+    "sound off",
+    "grease the wheels",
+    "grease your palm",
+    "sound out",
+    "hand on heart",
+    "hang a left",
+    "spark off",
+    "hang a right",
+    "spin off",
+    "have a ball",
+    "material witness",
+    "have kittens",
+    "sponge off",
+    "have sticky fingers",
+    "have a green thumb",
+    "hostile witness",
+    "square away",
+    "have a sweet tooth",
+    "have a tin ear",
+    "square off",
+    "hit the jackpot",
+    "expert witness",
+    "hit the hay",
+    "square up",
+    "hit the sack",
+    "hit the bottle",
+    "squirrel away",
+    "hit the books",
+    "hit the ceiling",
+    "state's evidence",
+    "hit the roof",
+    "hit the headlines",
+    "hit the high spots",
+    "stake out",
+    "hit the panic button",
+    "bench warrant",
+    "hit pay dirt",
+    "stave off",
+    "hold court",
+    "hold the fort",
+    "stir up",
+    "hold the bag",
+    "plead guilty",
+    "hold a candle to",
+    "stow away",
+    "hog the limelight",
+    "jump the gun",
+    "jump the shark",
+    "string up",
+    "plead not guilty",
+    "jump through hoops",
+    "jump on the bandwagon",
+    "stumble upon",
+    "join the club",
+    "keep a stiff upper lip",
+    "swallow up",
+    "keep body and soul together",
+    "plead the fifth",
+    "keep your shirt on",
+    "sweep aside",
+    "kick the bucket",
+    "kick the habit",
+    "sweep up",
+    "kick up a fuss",
+    "kick up a stink",
+    "tail off",
+    "kill time",
+    "knock on wood",
+    "tamper with",
+    "knock your socks off",
+    "taper off",
+    "lay down the law",
+    "lay it on thick",
+    "grand jury",
+    "tease out",
+    "lay cards on the table",
+    "lead a double life",
+    "high and dry",
+    "tee off",
+    "in the lurch",
+    "accessory after the fact",
+    "let fly",
+    "thin out",
+    "let loose",
+    "let sleeping dogs lie",
+    "thrash out",
+    "let rip",
+    "contempt of court",
+    "tick off",
+    "lift the lid",
+    "light a fire under",
+    "live a lie",
+    "touch down",
+    "obstruction of justice",
+    "live and breathe",
+    "tough out",
+    "lock horns",
+    "look daggers",
+    "trail off",
+    "look like death",
+    "statute of limitations",
+    "trickle down",
+    "lose the plot",
+    "trip up",
+    "make a meal of",
+    "make a hash of",
+    "trot out",
+    "make a splash",
+    "make a song and dance",
+    "power of attorney",
+    "make tracks",
+    "tuck away",
+    "move heaven and earth",
+    "nip it in the bud",
+    "tuck into",
+    "paint the town red",
+    "pass the buck",
+    "pay lip service",
+    "civil suit",
+    "pay through the nose",
+    "tune out",
+    "pay the piper",
+    "vouch for",
+    "play fast and loose",
+    "play second fiddle",
+    "wade in",
+    "play possum",
+    "play the field",
+    "wade through",
+    "criminal record",
+    "play the victim",
+    "play devil's advocate",
+    "pull a fast one",
+    "wash down",
+    "pull out all the stops",
+    "rap sheet",
+    "push the envelope",
+    "push the boat out",
+    "put a sock in it",
+    "clean record",
+    "water down",
+    "put on the dog",
+    "put paid to",
+    "weigh down",
+    "put the kibosh on",
+    "cold case",
+    "put your oar in",
+    "weigh in",
+    "put your thinking cap on",
+    "weigh up",
+    "raise a stink",
+    "hot pursuit",
+    "whip out",
+    "raise hell",
+    "read the riot act",
+    "whip up",
+    "ride the gravy train",
+    "sting operation",
+    "ride high",
+    "whittle down",
+    "ride roughshod over"
+  ],
+  "issues": [
+    {
+      "entry_number": 7,
+      "phrase": "get your feet wet",
+      "action": "replace_entry",
+      "category": "useful_forms",
+      "reason": "The current mixed possessive forms miss ordinary past/participle or third-person strings likely in dialogue. Add the listed grammatical contiguous forms under the existing owner; do not count them as separate phrases.",
+      "original_entry": {
+        "phrase": "get your feet wet",
+        "type": "idiom",
+        "forms": [
+          "get my feet wet",
+          "got my feet wet",
+          "gets his feet wet",
+          "getting your feet wet"
+        ],
+        "burmese": [
+          "အလုပ်သစ်တစ်ခုကို စမ်းလုပ်ကြည့်သည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "get your feet wet",
+        "type": "idiom",
+        "forms": [
+          "get my feet wet",
+          "got my feet wet",
+          "gets his feet wet",
+          "getting your feet wet",
+          "got your feet wet",
+          "gotten your feet wet",
+          "gotten my feet wet",
+          "got his feet wet",
+          "gotten his feet wet",
+          "gets her feet wet",
+          "got her feet wet",
+          "getting my feet wet",
+          "getting his feet wet",
+          "getting her feet wet",
+          "get our feet wet",
+          "get their feet wet"
+        ],
+        "burmese": [
+          "အလုပ်သစ်တစ်ခုကို စမ်းလုပ်ကြည့်သည်"
+        ]
+      },
+      "source_urls": []
+    },
+    {
+      "entry_number": 9,
+      "phrase": "get your wires crossed",
+      "action": "replace_entry",
+      "category": "useful_forms",
+      "reason": "The current mixed possessive forms miss ordinary past/participle or third-person strings likely in dialogue. Add the listed grammatical contiguous forms under the existing owner; do not count them as separate phrases.",
+      "original_entry": {
+        "phrase": "get your wires crossed",
+        "type": "idiom",
+        "forms": [
+          "get my wires crossed",
+          "got my wires crossed",
+          "gets her wires crossed",
+          "getting your wires crossed"
+        ],
+        "burmese": [
+          "နားလည်မှုလွဲသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "get your wires crossed",
+        "type": "idiom",
+        "forms": [
+          "get my wires crossed",
+          "got my wires crossed",
+          "gets her wires crossed",
+          "getting your wires crossed",
+          "got your wires crossed",
+          "gotten your wires crossed",
+          "gotten my wires crossed",
+          "got our wires crossed",
+          "got their wires crossed",
+          "gets his wires crossed",
+          "got his wires crossed",
+          "got her wires crossed",
+          "getting my wires crossed",
+          "getting his wires crossed",
+          "getting her wires crossed"
+        ],
+        "burmese": [
+          "နားလည်မှုလွဲသည်"
+        ]
+      },
+      "source_urls": []
+    },
+    {
+      "entry_number": 17,
+      "phrase": "skim off",
+      "action": "replace_entry",
+      "category": "sense_or_gloss",
+      "reason": "The second Burmese gloss repeats two verbs awkwardly. It should identify quietly taking a portion of receipts/profits, without implying that all skimming is violent theft.",
+      "original_entry": {
+        "phrase": "skim off",
+        "type": "phrasal_verb",
+        "forms": [
+          "skims off",
+          "skimmed off",
+          "skimming off"
+        ],
+        "burmese": [
+          "အပေါ်မှ ခပ်ထုတ်သည်",
+          "ငွေကို ခိုးယူဖြတ်ယူသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "skim off",
+        "type": "phrasal_verb",
+        "forms": [
+          "skims off",
+          "skimmed off",
+          "skimming off"
+        ],
+        "burmese": [
+          "အပေါ်ယံမှ ခပ်ထုတ်သည်",
+          "ရငွေထဲမှ အချို့ကို တိတ်တဆိတ် ဖြတ်ယူသည်"
+        ]
+      },
+      "source_urls": []
+    },
+    {
+      "entry_number": 32,
+      "phrase": "presumption of innocence",
+      "action": "replace_entry",
+      "category": "sense_or_gloss",
+      "reason": "The current Burmese construction for not yet proven guilty is incomplete; explicitly distinguish proving guilt from merely proving an offence.",
+      "original_entry": {
+        "phrase": "presumption of innocence",
+        "type": "expression",
+        "forms": [],
+        "burmese": [
+          "အပြစ်မသက်သေပြရသေးသူကို အပြစ်ကင်းသူဟု ယူဆခြင်း"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "presumption of innocence",
+        "type": "expression",
+        "forms": [],
+        "burmese": [
+          "အပြစ်ရှိကြောင်း မသက်သေပြနိုင်မချင်း အပြစ်ကင်းသူဟု ယူဆခြင်း"
+        ]
+      },
+      "source_urls": []
+    },
+    {
+      "entry_number": 42,
+      "phrase": "go down the rabbit hole",
+      "action": "replace_entry",
+      "category": "useful_forms",
+      "reason": "This is an inflecting five-token idiom, not a fixed uninflected expression. The four ordinary tense/aspect surface forms fit the token limit.",
+      "original_entry": {
+        "phrase": "go down the rabbit hole",
+        "type": "idiom",
+        "forms": [],
+        "burmese": [
+          "စူးစမ်းရင်း ပိုမိုရှုပ်ထွေးသည့် အကြောင်းအရာထဲ နစ်သွားသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "go down the rabbit hole",
+        "type": "idiom",
+        "forms": [
+          "goes down the rabbit hole",
+          "went down the rabbit hole",
+          "gone down the rabbit hole",
+          "going down the rabbit hole"
+        ],
+        "burmese": [
+          "စူးစမ်းရင်း ပိုမိုရှုပ်ထွေးသည့် အကြောင်းအရာထဲ နစ်သွားသည်"
+        ]
+      },
+      "source_urls": []
+    },
+    {
+      "entry_number": 48,
+      "phrase": "go through the roof",
+      "action": "replace_canonical_slot",
+      "category": "variant_ownership",
+      "reason": "This republishes the frozen through-the-roof idiom by adding an inflected leading verb. Its extra anger sense requires a separately documented frozen correction/overlay design, rather than a second extension owner. Root reviewer resolved this overlap in favour of replacement.",
+      "related_owner": {
+        "file": "PhraseBatches/phrase_batch_009.json",
+        "phrase": "through the roof"
+      },
+      "original_entry": {
+        "phrase": "go through the roof",
+        "type": "idiom",
+        "forms": [
+          "goes through the roof",
+          "went through the roof",
+          "gone through the roof",
+          "going through the roof"
+        ],
+        "burmese": [
+          "အလွန်ဒေါသထွက်သည်",
+          "ဈေးနှုန်း အလွန်မြင့်တက်သွားသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "take no prisoners",
+        "type": "idiom",
+        "forms": [
+          "takes no prisoners",
+          "took no prisoners",
+          "taken no prisoners",
+          "taking no prisoners"
+        ],
+        "burmese": [
+          "သူတစ်ပါးကို မငဲ့ဘဲ အလျှော့မပေးတမ်း လုပ်ဆောင်သည်"
+        ]
+      },
+      "source_urls": [
+        "https://dictionary.cambridge.org/dictionary/english/take-no-prisoners"
+      ]
+    },
+    {
+      "entry_number": 52,
+      "phrase": "soak up",
+      "action": "replace_entry",
+      "category": "sense_or_gloss",
+      "reason": "Knowledge is understood and remembered, not experienced as an atmosphere. Separate the liquid, information and pleasurable-experience senses within the three-sense ceiling.",
+      "original_entry": {
+        "phrase": "soak up",
+        "type": "phrasal_verb",
+        "forms": [
+          "soaks up",
+          "soaked up",
+          "soaking up"
+        ],
+        "burmese": [
+          "စုပ်ယူသည်",
+          "ဗဟုသုတ သို့မဟုတ် ပတ်ဝန်းကျင်ကို စိတ်ပါဝင်စားစွာ ခံစားယူသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "soak up",
+        "type": "phrasal_verb",
+        "forms": [
+          "soaks up",
+          "soaked up",
+          "soaking up"
+        ],
+        "burmese": [
+          "စုပ်ယူသည်",
+          "ဗဟုသုတများကို နားလည်မှတ်သားယူသည်",
+          "ပတ်ဝန်းကျင်အရသာကို အားရပါးရ ခံစားသည်"
+        ]
+      },
+      "source_urls": [
+        "https://dictionary.cambridge.org/dictionary/english/soak-up"
+      ]
+    },
+    {
+      "entry_number": 55,
+      "phrase": "go into your shell",
+      "action": "replace_entry",
+      "category": "useful_forms",
+      "reason": "The current mixed possessive forms miss ordinary past/participle or third-person strings likely in dialogue. Add the listed grammatical contiguous forms under the existing owner; do not count them as separate phrases.",
+      "original_entry": {
+        "phrase": "go into your shell",
+        "type": "idiom",
+        "forms": [
+          "go into my shell",
+          "went into my shell",
+          "goes into her shell",
+          "going into your shell"
+        ],
+        "burmese": [
+          "သူများနှင့် မပေါင်းဘဲ ကိုယ့်ဘာသာ နေတော့သည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "go into your shell",
+        "type": "idiom",
+        "forms": [
+          "go into my shell",
+          "went into my shell",
+          "goes into her shell",
+          "going into your shell",
+          "went into your shell",
+          "gone into your shell",
+          "gone into my shell",
+          "went into her shell",
+          "gone into her shell",
+          "goes into his shell",
+          "went into his shell",
+          "gone into his shell",
+          "going into my shell",
+          "going into his shell",
+          "going into her shell"
+        ],
+        "burmese": [
+          "သူများနှင့် မပေါင်းဘဲ ကိုယ့်ဘာသာ နေတော့သည်"
+        ]
+      },
+      "source_urls": []
+    },
+    {
+      "entry_number": 59,
+      "phrase": "grin and bear it",
+      "action": "replace_entry",
+      "category": "useful_forms",
+      "reason": "The perfect-tense coordinated participle is grinned and borne it. The stored grinned and bore it is valid simple past and should remain.",
+      "original_entry": {
+        "phrase": "grin and bear it",
+        "type": "idiom",
+        "forms": [
+          "grins and bears it",
+          "grinned and bore it",
+          "grinning and bearing it"
+        ],
+        "burmese": [
+          "မကြိုက်ပေမဲ့ မညည်းညူဘဲ သည်းခံသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "grin and bear it",
+        "type": "idiom",
+        "forms": [
+          "grins and bears it",
+          "grinned and bore it",
+          "grinning and bearing it",
+          "grinned and borne it"
+        ],
+        "burmese": [
+          "မကြိုက်ပေမဲ့ မညည်းညူဘဲ သည်းခံသည်"
+        ]
+      },
+      "source_urls": [
+        "https://dictionary.cambridge.org/us/dictionary/english/grin-and-bear-it",
+        "https://www.merriam-webster.com/dictionary/bear"
+      ]
+    },
+    {
+      "entry_number": 61,
+      "phrase": "person of interest",
+      "action": "replace_entry",
+      "category": "sense_or_gloss",
+      "reason": "စုံစမ်းလိုသူ can read as a person who wants to investigate. Identify the person being investigated, without labelling them charged or guilty.",
+      "original_entry": {
+        "phrase": "person of interest",
+        "type": "expression",
+        "forms": [
+          "persons of interest",
+          "people of interest"
+        ],
+        "burmese": [
+          "အမှုနှင့်ဆက်စပ်၍ စုံစမ်းလိုသူ"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "person of interest",
+        "type": "expression",
+        "forms": [
+          "persons of interest",
+          "people of interest"
+        ],
+        "burmese": [
+          "အမှုနှင့် ပတ်သက်နိုင်သည်ဟု ယူဆ၍ ရဲက စုံစမ်းနေသူ"
+        ]
+      },
+      "source_urls": [
+        "https://www.merriam-webster.com/dictionary/person%20of%20interest"
+      ]
+    },
+    {
+      "entry_number": 66,
+      "phrase": "hang your head",
+      "action": "replace_entry",
+      "category": "useful_forms",
+      "reason": "The current mixed possessive forms miss ordinary past/participle or third-person strings likely in dialogue. Add the listed grammatical contiguous forms under the existing owner; do not count them as separate phrases.",
+      "original_entry": {
+        "phrase": "hang your head",
+        "type": "idiom",
+        "forms": [
+          "hang my head",
+          "hung my head",
+          "hangs his head",
+          "hanging your head"
+        ],
+        "burmese": [
+          "အရှက် သို့မဟုတ် ဝမ်းနည်းမှုကြောင့် ခေါင်းငုံ့နေသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "hang your head",
+        "type": "idiom",
+        "forms": [
+          "hang my head",
+          "hung my head",
+          "hangs his head",
+          "hanging your head",
+          "hung your head",
+          "hung his head",
+          "hangs her head",
+          "hung her head",
+          "hanging my head",
+          "hanging his head",
+          "hanging her head"
+        ],
+        "burmese": [
+          "အရှက် သို့မဟုတ် ဝမ်းနည်းမှုကြောင့် ခေါင်းငုံ့နေသည်"
+        ]
+      },
+      "source_urls": []
+    },
+    {
+      "entry_number": 70,
+      "phrase": "have a cow",
+      "action": "replace_entry",
+      "category": "sense_or_gloss",
+      "reason": "The idiom does not require the cause to be trivial; remove အသေးအဖွဲကြောင့်. The emotion is being angry/upset, not positive excitement.",
+      "original_entry": {
+        "phrase": "have a cow",
+        "type": "idiom",
+        "forms": [
+          "has a cow",
+          "had a cow",
+          "having a cow"
+        ],
+        "burmese": [
+          "အသေးအဖွဲကြောင့် အလွန်စိတ်ဆိုး၊ စိတ်လှုပ်ရှားသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "have a cow",
+        "type": "idiom",
+        "forms": [
+          "has a cow",
+          "had a cow",
+          "having a cow"
+        ],
+        "burmese": [
+          "အလွန်စိတ်ဆိုးပြီး အကြီးအကျယ် တုံ့ပြန်သည်"
+        ]
+      },
+      "source_urls": [
+        "https://www.merriam-webster.com/dictionary/have%20a%20cow"
+      ]
+    },
+    {
+      "entry_number": 80,
+      "phrase": "have your work cut out",
+      "action": "replace_entry",
+      "category": "useful_forms",
+      "reason": "The current mixed possessive forms miss ordinary past/participle or third-person strings likely in dialogue. Add the listed grammatical contiguous forms under the existing owner; do not count them as separate phrases.",
+      "original_entry": {
+        "phrase": "have your work cut out",
+        "type": "idiom",
+        "forms": [
+          "has her work cut out",
+          "had my work cut out",
+          "having your work cut out"
+        ],
+        "burmese": [
+          "အလုပ်ပြီးဖို့ အလွန်ကြိုးစားရမည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "have your work cut out",
+        "type": "idiom",
+        "forms": [
+          "has her work cut out",
+          "had my work cut out",
+          "having your work cut out",
+          "have my work cut out",
+          "have our work cut out",
+          "have their work cut out",
+          "has his work cut out",
+          "had your work cut out",
+          "had his work cut out",
+          "had her work cut out",
+          "having my work cut out"
+        ],
+        "burmese": [
+          "အလုပ်ပြီးဖို့ အလွန်ကြိုးစားရမည်"
+        ]
+      },
+      "source_urls": []
+    },
+    {
+      "entry_number": 91,
+      "phrase": "stack up",
+      "action": "replace_entry",
+      "category": "sense_or_gloss",
+      "reason": "The comparative sense describes the subject's standing when judged against others, rather than actively comparing them, and need not guarantee a favourable result. Replace the comparison gloss accordingly. Oxford also confirms the common crime/dialogue sense of seeming reasonable or making sense (often negated in the surrounding sentence), which is missing; add it as the third sense.",
+      "original_entry": {
+        "phrase": "stack up",
+        "type": "phrasal_verb",
+        "forms": [
+          "stacks up",
+          "stacked up",
+          "stacking up"
+        ],
+        "burmese": [
+          "များလာသည်",
+          "နှိုင်းယှဉ်ကြည့်လျှင် အဆင့်မီသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "stack up",
+        "type": "phrasal_verb",
+        "forms": [
+          "stacks up",
+          "stacked up",
+          "stacking up"
+        ],
+        "burmese": [
+          "စုပုံများပြားလာသည်",
+          "အခြားအရာများနှင့် ယှဉ်ကြည့်ရာတွင် အဆင့်အတန်း ပေါ်လွင်သည်",
+          "ယုတ္တိကျ၍ အဓိပ္ပာယ်ရှိသည်"
+        ]
+      },
+      "source_urls": [
+        "https://www.merriam-webster.com/dictionary/stack%20up",
+        "https://www.oxfordlearnersdictionaries.com/definition/english/stack-up"
+      ]
+    },
+    {
+      "entry_number": 120,
+      "phrase": "keep your powder dry",
+      "action": "replace_entry",
+      "category": "useful_forms",
+      "reason": "The current mixed possessive forms miss ordinary past/participle or third-person strings likely in dialogue. Add the listed grammatical contiguous forms under the existing owner; do not count them as separate phrases.",
+      "original_entry": {
+        "phrase": "keep your powder dry",
+        "type": "idiom",
+        "forms": [
+          "keep my powder dry",
+          "kept my powder dry",
+          "keeps his powder dry",
+          "keeping your powder dry"
+        ],
+        "burmese": [
+          "လိုအပ်လာလျှင် အဆင်သင့်ဖြစ်အောင် ပြင်ထားသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "keep your powder dry",
+        "type": "idiom",
+        "forms": [
+          "keep my powder dry",
+          "kept my powder dry",
+          "keeps his powder dry",
+          "keeping your powder dry",
+          "kept your powder dry",
+          "kept his powder dry",
+          "keeps her powder dry",
+          "kept her powder dry",
+          "keeping my powder dry",
+          "keeping his powder dry",
+          "keeping her powder dry"
+        ],
+        "burmese": [
+          "လိုအပ်လာလျှင် အဆင်သင့်ဖြစ်အောင် ပြင်ထားသည်"
+        ]
+      },
+      "source_urls": []
+    },
+    {
+      "entry_number": 125,
+      "phrase": "no contest",
+      "action": "replace_entry",
+      "category": "sense_or_gloss",
+      "reason": "The legal plea is valid but the common conversational/competition sense of obvious one-sided superiority is missing.",
+      "original_entry": {
+        "phrase": "no contest",
+        "type": "expression",
+        "forms": [],
+        "burmese": [
+          "စွဲချက်ကို ဝန်မခံသော်လည်း မကန့်ကွက်ကြောင်း ထွက်ဆိုခြင်း"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "no contest",
+        "type": "expression",
+        "forms": [],
+        "burmese": [
+          "စွဲချက်ကို ဝန်မခံသော်လည်း မကန့်ကွက်ကြောင်း ထွက်ဆိုခြင်း",
+          "တစ်ဖက်က အပြတ်အသတ် သာလွန်သည်"
+        ]
+      },
+      "source_urls": [
+        "https://www.collinsdictionary.com/dictionary/english/no-contest",
+        "https://www.merriam-webster.com/dictionary/no%20contest"
+      ]
+    },
+    {
+      "entry_number": 130,
+      "phrase": "kick up your heels",
+      "action": "replace_entry",
+      "category": "useful_forms",
+      "reason": "The current mixed possessive forms miss ordinary past/participle or third-person strings likely in dialogue. Add the listed grammatical contiguous forms under the existing owner; do not count them as separate phrases.",
+      "original_entry": {
+        "phrase": "kick up your heels",
+        "type": "idiom",
+        "forms": [
+          "kick up my heels",
+          "kicked up my heels",
+          "kicks up her heels",
+          "kicking up your heels"
+        ],
+        "burmese": [
+          "လွတ်လွတ်လပ်လပ် ပျော်မြူးသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "kick up your heels",
+        "type": "idiom",
+        "forms": [
+          "kick up my heels",
+          "kicked up my heels",
+          "kicks up her heels",
+          "kicking up your heels",
+          "kicked up your heels",
+          "kicked up her heels",
+          "kicks up his heels",
+          "kicked up his heels",
+          "kicking up my heels",
+          "kicking up his heels",
+          "kicking up her heels"
+        ],
+        "burmese": [
+          "လွတ်လွတ်လပ်လပ် ပျော်မြူးသည်"
+        ]
+      },
+      "source_urls": []
+    },
+    {
+      "entry_number": 132,
+      "phrase": "hung jury",
+      "action": "replace_entry",
+      "category": "sense_or_gloss",
+      "reason": "The headword names a jury unable to agree on the required verdict, not simply the abstract fact that plural juries disagree. Make the noun referent clear.",
+      "original_entry": {
+        "phrase": "hung jury",
+        "type": "expression",
+        "forms": [
+          "hung juries"
+        ],
+        "burmese": [
+          "ဂျူရီများ အဆုံးအဖြတ်ကို သဘောမတူနိုင်ခြင်း"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "hung jury",
+        "type": "expression",
+        "forms": [
+          "hung juries"
+        ],
+        "burmese": [
+          "စီရင်ချက်အပေါ် သဘောတူညီမှု မရနိုင်သည့် ဂျူရီအဖွဲ့"
+        ]
+      },
+      "source_urls": []
+    },
+    {
+      "entry_number": 136,
+      "phrase": "know which way is up",
+      "action": "replace_entry",
+      "category": "useful_forms",
+      "reason": "Add the normal third-person and participial present forms. All are five tokens; the existing past forms remain grammatical.",
+      "original_entry": {
+        "phrase": "know which way is up",
+        "type": "idiom",
+        "forms": [
+          "knew which way was up",
+          "know which way was up"
+        ],
+        "burmese": [
+          "ဘယ်လိုပြုမူလုပ်ဆောင်ရမလဲကို နားလည်သည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "know which way is up",
+        "type": "idiom",
+        "forms": [
+          "knew which way was up",
+          "know which way was up",
+          "knows which way is up",
+          "knowing which way is up"
+        ],
+        "burmese": [
+          "ဘယ်လိုပြုမူလုပ်ဆောင်ရမလဲကို နားလည်သည်"
+        ]
+      },
+      "source_urls": []
+    },
+    {
+      "entry_number": 155,
+      "phrase": "lick your wounds",
+      "action": "replace_entry",
+      "category": "sense_and_forms",
+      "reason": "The idiom is recovery after humiliation/defeat, rather than literal injuries. licks your wounds normally changes the sufferer away from the subject and is unsuitable as its default reflexive third-person form; use licks his/her wounds.",
+      "original_entry": {
+        "phrase": "lick your wounds",
+        "type": "idiom",
+        "forms": [
+          "licks your wounds",
+          "licked your wounds",
+          "licking your wounds"
+        ],
+        "burmese": [
+          "ရှုံးနိမ့်ဒဏ်ရာမှ သက်သာလာအောင် ခဏနားသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "lick your wounds",
+        "type": "idiom",
+        "forms": [
+          "lick my wounds",
+          "lick our wounds",
+          "lick their wounds",
+          "licks his wounds",
+          "licks her wounds",
+          "licked my wounds",
+          "licked your wounds",
+          "licked his wounds",
+          "licked her wounds",
+          "licked our wounds",
+          "licked their wounds",
+          "licking my wounds",
+          "licking your wounds",
+          "licking his wounds",
+          "licking her wounds",
+          "licking our wounds",
+          "licking their wounds"
+        ],
+        "burmese": [
+          "ရှုံးနိမ့်မှုကြောင့် စိတ်ထိခိုက်ရာမှ ပြန်အားတင်းရန် ခဏနားသည်"
+        ]
+      },
+      "source_urls": []
+    },
+    {
+      "entry_number": 162,
+      "phrase": "live from hand to mouth",
+      "action": "replace_canonical_slot",
+      "category": "variant_ownership",
+      "reason": "The longer phrase is the same earlier-owned idiom with its normal leading verb/complement, not a genuinely new phrase. Consolidate valid contiguous strings with the earlier extension owner and replace this canonical slot.",
+      "related_owner": {
+        "file": "PhraseExtensionBatches/phrase_batch_014.json",
+        "phrase": "from hand to mouth"
+      },
+      "original_entry": {
+        "phrase": "live from hand to mouth",
+        "type": "idiom",
+        "forms": [],
+        "burmese": [
+          "ရသမျှ ဝင်ငွေဖြင့် တစ်နေ့စာတစ်နေ့ စားသောက်နေရသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "make a beeline for",
+        "type": "idiom",
+        "forms": [
+          "makes a beeline for",
+          "made a beeline for",
+          "making a beeline for"
+        ],
+        "burmese": [
+          "လိုရာဆီကို အလျင်အမြန် တည့်တည့်သွားသည်"
+        ]
+      },
+      "source_urls": [
+        "https://dictionary.cambridge.org/dictionary/english/make-a-beeline-for"
+      ]
+    },
+    {
+      "entry_number": 170,
+      "phrase": "lose your shirt",
+      "action": "replace_entry",
+      "category": "useful_forms",
+      "reason": "The current mixed possessive forms miss ordinary past/participle or third-person strings likely in dialogue. Add the listed grammatical contiguous forms under the existing owner; do not count them as separate phrases.",
+      "original_entry": {
+        "phrase": "lose your shirt",
+        "type": "idiom",
+        "forms": [
+          "lose my shirt",
+          "lost my shirt",
+          "loses his shirt",
+          "losing your shirt"
+        ],
+        "burmese": [
+          "ငွေအများကြီး သို့မဟုတ် ပိုင်ဆိုင်သမျှ ဆုံးရှုံးသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "lose your shirt",
+        "type": "idiom",
+        "forms": [
+          "lose my shirt",
+          "lost my shirt",
+          "loses his shirt",
+          "losing your shirt",
+          "lost your shirt",
+          "lost his shirt",
+          "loses her shirt",
+          "lost her shirt",
+          "losing my shirt",
+          "losing his shirt",
+          "losing her shirt"
+        ],
+        "burmese": [
+          "ငွေအများကြီး သို့မဟုတ် ပိုင်ဆိုင်သမျှ ဆုံးရှုံးသည်"
+        ]
+      },
+      "source_urls": []
+    },
+    {
+      "entry_number": 171,
+      "phrase": "lose your rag",
+      "action": "replace_entry",
+      "category": "useful_forms",
+      "reason": "The current mixed possessive forms miss ordinary past/participle or third-person strings likely in dialogue. Add the listed grammatical contiguous forms under the existing owner; do not count them as separate phrases.",
+      "original_entry": {
+        "phrase": "lose your rag",
+        "type": "idiom",
+        "forms": [
+          "lose my rag",
+          "lost my rag",
+          "loses her rag",
+          "losing your rag"
+        ],
+        "burmese": [
+          "ရုတ်တရက် စိတ်ဆိုးသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "lose your rag",
+        "type": "idiom",
+        "forms": [
+          "lose my rag",
+          "lost my rag",
+          "loses her rag",
+          "losing your rag",
+          "lost your rag",
+          "lost her rag",
+          "loses his rag",
+          "lost his rag",
+          "losing my rag",
+          "losing his rag",
+          "losing her rag"
+        ],
+        "burmese": [
+          "ရုတ်တရက် စိတ်ဆိုးသည်"
+        ]
+      },
+      "source_urls": []
+    },
+    {
+      "entry_number": 173,
+      "phrase": "lose your marbles",
+      "action": "replace_entry",
+      "category": "useful_forms",
+      "reason": "The current mixed possessive forms miss ordinary past/participle or third-person strings likely in dialogue. Add the listed grammatical contiguous forms under the existing owner; do not count them as separate phrases.",
+      "original_entry": {
+        "phrase": "lose your marbles",
+        "type": "idiom",
+        "forms": [
+          "lose my marbles",
+          "lost my marbles",
+          "loses his marbles",
+          "losing your marbles"
+        ],
+        "burmese": [
+          "စိတ်မမှန်တော့သလို ဖြစ်သည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "lose your marbles",
+        "type": "idiom",
+        "forms": [
+          "lose my marbles",
+          "lost my marbles",
+          "loses his marbles",
+          "losing your marbles",
+          "lost your marbles",
+          "lost his marbles",
+          "loses her marbles",
+          "lost her marbles",
+          "losing my marbles",
+          "losing his marbles",
+          "losing her marbles"
+        ],
+        "burmese": [
+          "စိတ်မမှန်တော့သလို ဖြစ်သည်"
+        ]
+      },
+      "source_urls": []
+    },
+    {
+      "entry_number": 175,
+      "phrase": "double jeopardy",
+      "action": "replace_entry",
+      "category": "sense_or_gloss",
+      "reason": "The legal context is a second prosecution or punishment for the same offence, not ordinary repeated charging without qualification. Add the punishment dimension without explaining jurisdiction-specific exceptions in a lookup gloss.",
+      "original_entry": {
+        "phrase": "double jeopardy",
+        "type": "expression",
+        "forms": [],
+        "burmese": [
+          "တူညီသည့် ပြစ်မှုအတွက် ထပ်မံတရားစွဲခံရခြင်း"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "double jeopardy",
+        "type": "expression",
+        "forms": [],
+        "burmese": [
+          "ပြစ်မှုတစ်ခုတည်းအတွက် ထပ်မံတရားစွဲဆို သို့မဟုတ် အပြစ်ပေးခံရခြင်း"
+        ]
+      },
+      "source_urls": [
+        "https://www.law.cornell.edu/wex/double_jeopardy"
+      ]
+    },
+    {
+      "entry_number": 187,
+      "phrase": "tuck in",
+      "action": "replace_entry",
+      "category": "sense_or_gloss",
+      "reason": "The clothing sense is common in dialogue and is currently missing. Keep the bed-cover and eating senses; all three remain useful.",
+      "original_entry": {
+        "phrase": "tuck in",
+        "type": "phrasal_verb",
+        "forms": [
+          "tucks in",
+          "tucked in",
+          "tucking in"
+        ],
+        "burmese": [
+          "အိပ်ရာထဲ စောင်လုံအောင် ခြုံပေးသည်",
+          "အားရပါးရ စစားသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "tuck in",
+        "type": "phrasal_verb",
+        "forms": [
+          "tucks in",
+          "tucked in",
+          "tucking in"
+        ],
+        "burmese": [
+          "အင်္ကျီအောက်စကို ဘောင်းဘီ သို့မဟုတ် ထဘီထဲ ထည့်သည်",
+          "အိပ်ရာထဲ စောင်လုံအောင် ခြုံပေးသည်",
+          "အားရပါးရ စစားသည်"
+        ]
+      },
+      "source_urls": [
+        "https://www.collinsdictionary.com/dictionary/english/tuck-in",
+        "https://www.oxfordlearnersdictionaries.com/us/definition/american_english/tuck-in"
+      ]
+    },
+    {
+      "entry_number": 188,
+      "phrase": "open a can of worms",
+      "action": "replace_canonical_slot",
+      "category": "variant_ownership",
+      "reason": "The longer phrase is the same earlier-owned idiom with its normal leading verb/complement, not a genuinely new phrase. Consolidate valid contiguous strings with the earlier extension owner and replace this canonical slot.",
+      "related_owner": {
+        "file": "PhraseExtensionBatches/phrase_batch_013.json",
+        "phrase": "can of worms"
+      },
+      "original_entry": {
+        "phrase": "open a can of worms",
+        "type": "idiom",
+        "forms": [],
+        "burmese": [
+          "ပြဿနာအသစ် အများကြီး ထွက်လာစေသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "move the goalposts",
+        "type": "idiom",
+        "forms": [
+          "moves the goalposts",
+          "moved the goalposts",
+          "moving the goalposts"
+        ],
+        "burmese": [
+          "သဘောတူပြီးသား စည်းကမ်းသတ်မှတ်ချက်ကို ပြန်ပြောင်းပြီး အခက်တွေ့အောင်လုပ်သည်"
+        ]
+      },
+      "source_urls": [
+        "https://dictionary.cambridge.org/dictionary/english/move-the-goalposts"
+      ]
+    },
+    {
+      "entry_number": 189,
+      "phrase": "open the floodgates",
+      "action": "replace_entry",
+      "category": "sense_or_gloss",
+      "reason": "The figurative phrase can unleash requests, applications, money, discussion or other activity; it is not restricted to problems or emotions. Use a neutral unrestricted gloss.",
+      "original_entry": {
+        "phrase": "open the floodgates",
+        "type": "idiom",
+        "forms": [
+          "opens the floodgates",
+          "opened the floodgates",
+          "opening the floodgates"
+        ],
+        "burmese": [
+          "တားထားရာမှ ပြဿနာ သို့မဟုတ် ခံစားချက်များ အများကြီးထွက်လာစေသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "open the floodgates",
+        "type": "idiom",
+        "forms": [
+          "opens the floodgates",
+          "opened the floodgates",
+          "opening the floodgates"
+        ],
+        "burmese": [
+          "ပိတ်ပင်ကန့်သတ်ထားရာမှ အရာတစ်ခု အလုံးအရင်းဖြင့် ဖြစ်ပေါ်လာစေသည်"
+        ]
+      },
+      "source_urls": [
+        "https://www.merriam-webster.com/dictionary/open%20the%20floodgates"
+      ]
+    },
+    {
+      "entry_number": 190,
+      "phrase": "cease and desist",
+      "action": "replace_entry",
+      "category": "sense_or_gloss",
+      "reason": "The current gloss defines an order only. The unhyphenated phrase is also a verbal demand/action to stop; a lawyer letter is not automatically a legal order. Give both the stopping sense and the formal-demand sense.",
+      "original_entry": {
+        "phrase": "cease and desist",
+        "type": "expression",
+        "forms": [],
+        "burmese": [
+          "လုပ်နေသည့် အနှောင့်အယှက် သို့မဟုတ် ချိုးဖောက်မှုကို ရပ်ရန် ဥပဒေအရ အမိန့်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "cease and desist",
+        "type": "expression",
+        "forms": [
+          "ceases and desists",
+          "ceased and desisted",
+          "ceasing and desisting"
+        ],
+        "burmese": [
+          "လုပ်နေသည့် အပြုအမူကို ရပ်တန့်ပြီး ထပ်မလုပ်တော့သည်",
+          "ဆက်မလုပ်ရန် တရားဝင် တားမြစ်သတိပေးချက်"
+        ]
+      },
+      "source_urls": [
+        "https://dictionary.cambridge.org/us/dictionary/english/cease-and-desist",
+        "https://www.oxfordlearnersdictionaries.com/definition/english/cease-and-desist",
+        "https://www.law.cornell.edu/wex/cease_and_desist_letter"
+      ]
+    },
+    {
+      "entry_number": 193,
+      "phrase": "paper over the cracks",
+      "action": "replace_canonical_slot",
+      "category": "variant_ownership",
+      "reason": "The longer phrase is the same earlier-owned idiom with its normal leading verb/complement, not a genuinely new phrase. Consolidate valid contiguous strings with the earlier extension owner and replace this canonical slot.",
+      "related_owner": {
+        "file": "PhraseExtensionBatches/phrase_batch_015.json",
+        "phrase": "paper over"
+      },
+      "original_entry": {
+        "phrase": "paper over the cracks",
+        "type": "idiom",
+        "forms": [
+          "papers over the cracks",
+          "papered over the cracks",
+          "papering over the cracks"
+        ],
+        "burmese": [
+          "ပြဿနာအရင်းကို မရှင်းဘဲ အပေါ်ယံဖုံးကွယ်သည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "at cross purposes",
+        "type": "idiom",
+        "forms": [],
+        "burmese": [
+          "မတူသည့်အကြောင်း သို့မဟုတ် ရည်ရွယ်ချက်ကို ပြောနေ၍ အချင်းချင်း နားလည်မှုလွဲနေသည်"
+        ]
+      },
+      "source_urls": [
+        "https://dictionary.cambridge.org/dictionary/english/cross-purposes"
+      ]
+    },
+    {
+      "entry_number": 195,
+      "phrase": "tune in",
+      "action": "replace_entry",
+      "category": "sense_or_gloss",
+      "reason": "ရုပ်သံကို ဖွင့်နားထောင် alone omits viewing a television programme. Correct the medium-neutral action without changing either sense.",
+      "original_entry": {
+        "phrase": "tune in",
+        "type": "phrasal_verb",
+        "forms": [
+          "tunes in",
+          "tuned in",
+          "tuning in"
+        ],
+        "burmese": [
+          "ရေဒီယို သို့မဟုတ် ရုပ်သံကို ဖွင့်နားထောင်သည်",
+          "အာရုံစိုက်သည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "tune in",
+        "type": "phrasal_verb",
+        "forms": [
+          "tunes in",
+          "tuned in",
+          "tuning in"
+        ],
+        "burmese": [
+          "ရေဒီယို သို့မဟုတ် ရုပ်သံအစီအစဉ်ကို ဖွင့်ကြည့်နားထောင်သည်",
+          "အာရုံစိုက်သည်"
+        ]
+      },
+      "source_urls": []
+    },
+    {
+      "entry_number": 201,
+      "phrase": "play cat and mouse",
+      "action": "replace_canonical_slot",
+      "category": "variant_ownership",
+      "reason": "The longer phrase is the same earlier-owned idiom with its normal leading verb/complement, not a genuinely new phrase. Consolidate valid contiguous strings with the earlier extension owner and replace this canonical slot.",
+      "related_owner": {
+        "file": "PhraseExtensionBatches/phrase_batch_015.json",
+        "phrase": "cat and mouse"
+      },
+      "original_entry": {
+        "phrase": "play cat and mouse",
+        "type": "idiom",
+        "forms": [
+          "plays cat and mouse",
+          "played cat and mouse",
+          "playing cat and mouse"
+        ],
+        "burmese": [
+          "တစ်ဖက်သားကို လွှတ်လိုက်ဖမ်းလိုက်ဖြင့် ကစားသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "run rings around",
+        "type": "idiom",
+        "forms": [
+          "runs rings around",
+          "ran rings around",
+          "running rings around",
+          "run circles around",
+          "runs circles around",
+          "ran circles around",
+          "running circles around"
+        ],
+        "burmese": [
+          "တစ်ဖက်လူထက် အရည်အချင်းများစွာ သာလွန်သည်"
+        ]
+      },
+      "source_urls": [
+        "https://dictionary.cambridge.org/dictionary/english/run-rings-around",
+        "https://www.dictionary.com/browse/ring"
+      ]
+    },
+    {
+      "entry_number": 204,
+      "phrase": "wrongful death",
+      "action": "replace_entry",
+      "category": "sense_or_gloss",
+      "reason": "The existing wording can imply a criminally guilty act and misses negligence, a central civil wrongful-death context.",
+      "original_entry": {
+        "phrase": "wrongful death",
+        "type": "expression",
+        "forms": [],
+        "burmese": [
+          "တစ်ဦး၏ အပြစ်ရှိသည့် လုပ်ရပ်ကြောင့် သေဆုံးမှု"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "wrongful death",
+        "type": "expression",
+        "forms": [],
+        "burmese": [
+          "တစ်ဦး၏ မတရားလုပ်ရပ် သို့မဟုတ် ပေါ့ဆမှုကြောင့် သေဆုံးမှု"
+        ]
+      },
+      "source_urls": [
+        "https://www.law.cornell.edu/wex/wrongful_death"
+      ]
+    },
+    {
+      "entry_number": 209,
+      "phrase": "play the fool",
+      "action": "replace_entry",
+      "category": "sense_or_gloss",
+      "reason": "ပေါ့ပေါ့ပျက်ပျက် can mean careless or irresponsible behaviour and misses the intentional silly behaviour/joking sense.",
+      "original_entry": {
+        "phrase": "play the fool",
+        "type": "idiom",
+        "forms": [
+          "plays the fool",
+          "played the fool",
+          "playing the fool"
+        ],
+        "burmese": [
+          "ပေါ့ပေါ့ပျက်ပျက် ပြုမူနေသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "play the fool",
+        "type": "idiom",
+        "forms": [
+          "plays the fool",
+          "played the fool",
+          "playing the fool"
+        ],
+        "burmese": [
+          "ပေါက်ကရပြောဆိုပြုမူ၍ ပျော်အောင်လုပ်သည်"
+        ]
+      },
+      "source_urls": [
+        "https://dictionary.cambridge.org/dictionary/english/act-play-the-fool"
+      ]
+    },
+    {
+      "entry_number": 214,
+      "phrase": "wash away",
+      "action": "replace_entry",
+      "category": "sense_or_gloss",
+      "reason": "Only an intransitive washed/carried-away gloss is stored. The common transitive wash away dirt, blood or evidence needs the removal sense.",
+      "original_entry": {
+        "phrase": "wash away",
+        "type": "phrasal_verb",
+        "forms": [
+          "washes away",
+          "washed away",
+          "washing away"
+        ],
+        "burmese": [
+          "ရေနှင့် မျောပါပျောက်သွားသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "wash away",
+        "type": "phrasal_verb",
+        "forms": [
+          "washes away",
+          "washed away",
+          "washing away"
+        ],
+        "burmese": [
+          "ရေနှင့် မျောပါပျောက်သွားသည်",
+          "ရေဖြင့် ဆေးကြောဖယ်ရှားသည်"
+        ]
+      },
+      "source_urls": [
+        "https://www.collinsdictionary.com/dictionary/english/wash-away"
+      ]
+    },
+    {
+      "entry_number": 215,
+      "phrase": "poke your nose in",
+      "action": "replace_entry",
+      "category": "useful_forms",
+      "reason": "The current mixed possessive forms miss ordinary past/participle or third-person strings likely in dialogue. Add the listed grammatical contiguous forms under the existing owner; do not count them as separate phrases.",
+      "original_entry": {
+        "phrase": "poke your nose in",
+        "type": "idiom",
+        "forms": [
+          "poke my nose in",
+          "poked my nose in",
+          "pokes his nose in",
+          "poking your nose in"
+        ],
+        "burmese": [
+          "သူများကိစ္စကို စပ်စုဝင်ပါသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "poke your nose in",
+        "type": "idiom",
+        "forms": [
+          "poke my nose in",
+          "poked my nose in",
+          "pokes his nose in",
+          "poking your nose in",
+          "poked your nose in",
+          "poked his nose in",
+          "pokes her nose in",
+          "poked her nose in",
+          "poking my nose in",
+          "poking his nose in",
+          "poking her nose in",
+          "poke your nose into",
+          "poked your nose into",
+          "poking your nose into",
+          "poke my nose into",
+          "poked my nose into",
+          "pokes his nose into",
+          "poked his nose into",
+          "poking his nose into"
+        ],
+        "burmese": [
+          "သူများကိစ္စကို စပ်စုဝင်ပါသည်"
+        ]
+      },
+      "source_urls": []
+    },
+    {
+      "entry_number": 220,
+      "phrase": "pull your punches",
+      "action": "replace_entry",
+      "category": "sense_and_forms",
+      "reason": "အားမပါဘဲ ထိုးသည် can imply inability/weakness rather than deliberately withholding force. The figurative sense also extends beyond criticism to deliberate restraint in attacking/competing.",
+      "original_entry": {
+        "phrase": "pull your punches",
+        "type": "idiom",
+        "forms": [
+          "pull my punches",
+          "pulled my punches",
+          "pulls his punches",
+          "pulling your punches"
+        ],
+        "burmese": [
+          "အားမပါဘဲ ထိုးသည်",
+          "ဝေဖန်ရာတွင် အားနာပြီး လျှော့ပြောသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "pull your punches",
+        "type": "idiom",
+        "forms": [
+          "pull my punches",
+          "pulled my punches",
+          "pulls his punches",
+          "pulling your punches",
+          "pulled your punches",
+          "pulls her punches",
+          "pulled his punches",
+          "pulled her punches",
+          "pulling my punches",
+          "pulling his punches",
+          "pulling her punches",
+          "pull our punches",
+          "pull their punches",
+          "pull punches",
+          "pulls punches",
+          "pulled punches",
+          "pulling punches"
+        ],
+        "burmese": [
+          "ထိုးနှက်ရာတွင် အားကို တမင်လျှော့ထားသည်",
+          "ဝေဖန်တိုက်ခိုက်ရာတွင် တမင်အရှိန်လျှော့ထားသည်"
+        ]
+      },
+      "source_urls": [
+        "https://www.merriam-webster.com/dictionary/pull%20punches"
+      ]
+    },
+    {
+      "entry_number": 222,
+      "phrase": "wash out",
+      "action": "replace_entry",
+      "category": "sense_or_gloss",
+      "reason": "The fail a course/training or be eliminated as unsuitable sense is common in military, school and sport dialogue and is absent.",
+      "original_entry": {
+        "phrase": "wash out",
+        "type": "phrasal_verb",
+        "forms": [
+          "washes out",
+          "washed out",
+          "washing out"
+        ],
+        "burmese": [
+          "ဆေးကြောဖယ်ရှားသည်",
+          "မိုးကြောင့် အစီအစဉ် ပျက်သွားသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "wash out",
+        "type": "phrasal_verb",
+        "forms": [
+          "washes out",
+          "washed out",
+          "washing out"
+        ],
+        "burmese": [
+          "ဆေးကြောဖယ်ရှားသည်",
+          "မိုးကြောင့် အစီအစဉ် ပျက်သွားသည်",
+          "အရည်အချင်းမမီ၍ သင်တန်း သို့မဟုတ် ရွေးချယ်မှုမှ ထွက်ရသည်"
+        ]
+      },
+      "source_urls": [
+        "https://www.merriam-webster.com/dictionary/wash%20out"
+      ]
+    },
+    {
+      "entry_number": 230,
+      "phrase": "put the boot in",
+      "action": "replace_entry",
+      "category": "sense_or_gloss",
+      "reason": "The existing figurative gloss is useful, but the literal idiomatic attack on someone already down is also a common crime/action sense.",
+      "original_entry": {
+        "phrase": "put the boot in",
+        "type": "idiom",
+        "forms": [
+          "puts the boot in",
+          "putting the boot in"
+        ],
+        "burmese": [
+          "အားနည်းနေသူကို ပိုပြီး ဝေဖန်တိုက်ခိုက်သည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "put the boot in",
+        "type": "idiom",
+        "forms": [
+          "puts the boot in",
+          "putting the boot in"
+        ],
+        "burmese": [
+          "လဲနေသူကို ထပ်ကန်ကျောက်သည်",
+          "အားနည်းနေသူကို ပိုပြီး ဝေဖန်တိုက်ခိုက်သည်"
+        ]
+      },
+      "source_urls": [
+        "https://dictionary.cambridge.org/dictionary/english/put-the-boot-in"
+      ]
+    },
+    {
+      "entry_number": 236,
+      "phrase": "put words in your mouth",
+      "action": "replace_entry",
+      "category": "useful_forms",
+      "reason": "The possessive identifies the person falsely attributed words, not necessarily the actor. Add ordinary put/puts/putting strings with my/his/her mouth and our/their mouths, plus useful plural your mouths. Plural possessors use plural mouths. All strings are five tokens; past put equals base and must not be duplicated.",
+      "original_entry": {
+        "phrase": "put words in your mouth",
+        "type": "idiom",
+        "forms": [
+          "puts words in your mouth",
+          "putting words in your mouth",
+          "put words in my mouth"
+        ],
+        "burmese": [
+          "မပြောခဲ့သည့်စကားကို ပြောသယောင် လုပ်သည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "put words in your mouth",
+        "type": "idiom",
+        "forms": [
+          "put words in my mouth",
+          "put words in his mouth",
+          "put words in her mouth",
+          "put words in our mouths",
+          "put words in their mouths",
+          "puts words in my mouth",
+          "puts words in your mouth",
+          "puts words in his mouth",
+          "puts words in her mouth",
+          "puts words in our mouths",
+          "puts words in their mouths",
+          "putting words in my mouth",
+          "putting words in your mouth",
+          "putting words in his mouth",
+          "putting words in her mouth",
+          "putting words in our mouths",
+          "putting words in their mouths",
+          "put words in your mouths",
+          "puts words in your mouths",
+          "putting words in your mouths"
+        ],
+        "burmese": [
+          "မပြောခဲ့သည့်စကားကို ပြောသယောင် လုပ်သည်"
+        ]
+      },
+      "source_urls": []
+    },
+    {
+      "entry_number": 239,
+      "phrase": "raise the roof",
+      "action": "replace_entry",
+      "category": "sense_or_gloss",
+      "reason": "The phrase can also mean angrily and loudly protesting; the stored rejoicing-only sense misses that established common use.",
+      "original_entry": {
+        "phrase": "raise the roof",
+        "type": "idiom",
+        "forms": [
+          "raises the roof",
+          "raised the roof",
+          "raising the roof"
+        ],
+        "burmese": [
+          "အလွန်ကျယ်လောင်စွာ အော်ဟစ်ပျော်မြူးသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "raise the roof",
+        "type": "idiom",
+        "forms": [
+          "raises the roof",
+          "raised the roof",
+          "raising the roof"
+        ],
+        "burmese": [
+          "အလွန်ကျယ်လောင်စွာ အော်ဟစ်ပျော်မြူးသည်",
+          "ဒေါသတကြီး ဆူညံကန့်ကွက်သည်"
+        ]
+      },
+      "source_urls": [
+        "https://www.dictionary.com/browse/raise-the-roof"
+      ]
+    },
+    {
+      "entry_number": 244,
+      "phrase": "rest on your laurels",
+      "action": "replace_entry",
+      "category": "useful_forms",
+      "reason": "The current mixed possessive forms miss ordinary past/participle or third-person strings likely in dialogue. Add the listed grammatical contiguous forms under the existing owner; do not count them as separate phrases.",
+      "original_entry": {
+        "phrase": "rest on your laurels",
+        "type": "idiom",
+        "forms": [
+          "rest on my laurels",
+          "rested on my laurels",
+          "rests on her laurels",
+          "resting on your laurels"
+        ],
+        "burmese": [
+          "အရင်အောင်မြင်မှုကိုပဲ အားကိုးပြီး မကြိုးစားတော့သည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "rest on your laurels",
+        "type": "idiom",
+        "forms": [
+          "rest on my laurels",
+          "rested on my laurels",
+          "rests on her laurels",
+          "resting on your laurels",
+          "rested on your laurels",
+          "rested on her laurels",
+          "rests on his laurels",
+          "rested on his laurels",
+          "resting on my laurels",
+          "resting on his laurels",
+          "resting on her laurels"
+        ],
+        "burmese": [
+          "အရင်အောင်မြင်မှုကိုပဲ အားကိုးပြီး မကြိုးစားတော့သည်"
+        ]
+      },
+      "source_urls": []
+    }
+  ],
+  "earlier_extension_owner_consolidations": [
+    {
+      "file": "PhraseExtensionBatches/phrase_batch_014.json",
+      "phrase": "from hand to mouth",
+      "original_entry": {
+        "phrase": "from hand to mouth",
+        "type": "idiom",
+        "forms": [],
+        "burmese": [
+          "တစ်နေ့လုပ်မှ တစ်နေ့စားရသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "from hand to mouth",
+        "type": "idiom",
+        "forms": [
+          "live from hand to mouth",
+          "lives from hand to mouth",
+          "lived from hand to mouth",
+          "living from hand to mouth"
+        ],
+        "burmese": [
+          "တစ်နေ့လုပ်မှ တစ်နေ့စားရသည်"
+        ]
+      },
+      "reason": "Single-owner consolidation of Batch 016 duplicate; perform together with its canonical replacement."
+    },
+    {
+      "file": "PhraseExtensionBatches/phrase_batch_013.json",
+      "phrase": "can of worms",
+      "original_entry": {
+        "phrase": "can of worms",
+        "type": "idiom",
+        "forms": [
+          "cans of worms"
+        ],
+        "burmese": [
+          "ရှင်းဖို့စလိုက်မှ ပြဿနာတွေအများကြီး ထွက်လာသည့်ကိစ္စ"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "can of worms",
+        "type": "idiom",
+        "forms": [
+          "cans of worms",
+          "open a can of worms",
+          "opens a can of worms",
+          "opened a can of worms",
+          "opening a can of worms"
+        ],
+        "burmese": [
+          "ရှင်းဖို့စလိုက်မှ ပြဿနာတွေအများကြီး ထွက်လာသည့်ကိစ္စ"
+        ]
+      },
+      "reason": "Single-owner consolidation of Batch 016 duplicate; perform together with its canonical replacement."
+    },
+    {
+      "file": "PhraseExtensionBatches/phrase_batch_015.json",
+      "phrase": "paper over",
+      "original_entry": {
+        "phrase": "paper over",
+        "type": "phrasal_verb",
+        "forms": [
+          "papers over",
+          "papered over",
+          "papering over"
+        ],
+        "burmese": [
+          "ပြဿနာကို အပေါ်ယံသာ ဖုံးကွယ်ဖြေရှင်းသည်"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "paper over",
+        "type": "phrasal_verb",
+        "forms": [
+          "papers over",
+          "papered over",
+          "papering over",
+          "paper over the cracks",
+          "papers over the cracks",
+          "papered over the cracks",
+          "papering over the cracks"
+        ],
+        "burmese": [
+          "ပြဿနာကို အပေါ်ယံသာ ဖုံးကွယ်ဖြေရှင်းသည်"
+        ]
+      },
+      "reason": "Single-owner consolidation of Batch 016 duplicate; perform together with its canonical replacement."
+    },
+    {
+      "file": "PhraseExtensionBatches/phrase_batch_015.json",
+      "phrase": "cat and mouse",
+      "original_entry": {
+        "phrase": "cat and mouse",
+        "type": "idiom",
+        "forms": [
+          "cat and mouse games"
+        ],
+        "burmese": [
+          "တစ်ယောက်ကိုတစ်ယောက် လိုက်ဖမ်း၊ ရှောင်တိမ်းကစားသည့်သဘော"
+        ]
+      },
+      "replacement_entry": {
+        "phrase": "cat and mouse",
+        "type": "idiom",
+        "forms": [
+          "cat and mouse games",
+          "play cat and mouse",
+          "plays cat and mouse",
+          "played cat and mouse",
+          "playing cat and mouse"
+        ],
+        "burmese": [
+          "တစ်ယောက်ကိုတစ်ယောက် လိုက်ဖမ်း၊ ရှောင်တိမ်းကစားသည့်သဘော"
+        ]
+      },
+      "reason": "Single-owner consolidation of Batch 016 duplicate; perform together with its canonical replacement."
+    }
+  ],
+  "notes": [
+    "Every entry and stored form was read manually. Exact canonical/form ownership was checked across all frozen and extension batches. Possessive-normalized and contained-string screening was followed by manual semantic review.",
+    "New canonical replacements and proposed Batch 016 forms were checked against the entire current namespace, including later entries in Batch 016.",
+    "ducks in a row remains a valid four-token contiguous fragment: the full get/have your ducks in a row is six tokens and therefore unavailable in v1.",
+    "lay cards on the table/cards on the table remain useful five/four-token contiguous strings. The fuller possessive verbal expression is six tokens.",
+    "No placeholder strings or separated-object pattern expansion is proposed.",
+    "Positive glosses for hold a candle to and pull your punches can be negated in their surrounding sentence; negation is not represented as an equivalent form.",
+    "run rings around and run circles around belong to one replacement owner; past participle run coincides with base and is not duplicated.",
+    "No batch, lookup, manifest, runtime artifact, frozen asset or Git data was edited. Publisher source facts informed independently authored Burmese glosses; no proprietary definitions were copied.",
+    "Follow-up: plural our/their/your mouth forms corrected to mouths; stack up comparison changed to relative standing, and its make-sense meaning added from Oxford. The staging helper generator is historical and must not be rerun over these refined reports."
+  ]
+}

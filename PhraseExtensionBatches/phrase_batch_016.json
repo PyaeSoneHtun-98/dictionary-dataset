@@ -85,7 +85,19 @@
         "get my feet wet",
         "got my feet wet",
         "gets his feet wet",
-        "getting your feet wet"
+        "getting your feet wet",
+        "got your feet wet",
+        "gotten your feet wet",
+        "gotten my feet wet",
+        "got his feet wet",
+        "gotten his feet wet",
+        "gets her feet wet",
+        "got her feet wet",
+        "getting my feet wet",
+        "getting his feet wet",
+        "getting her feet wet",
+        "get our feet wet",
+        "get their feet wet"
       ],
       "burmese": [
         "အလုပ်သစ်တစ်ခုကို စမ်းလုပ်ကြည့်သည်"
@@ -106,7 +118,18 @@
         "get my wires crossed",
         "got my wires crossed",
         "gets her wires crossed",
-        "getting your wires crossed"
+        "getting your wires crossed",
+        "got your wires crossed",
+        "gotten your wires crossed",
+        "gotten my wires crossed",
+        "got our wires crossed",
+        "got their wires crossed",
+        "gets his wires crossed",
+        "got his wires crossed",
+        "got her wires crossed",
+        "getting my wires crossed",
+        "getting his wires crossed",
+        "getting her wires crossed"
       ],
       "burmese": [
         "နားလည်မှုလွဲသည်"
@@ -206,8 +229,8 @@
         "skimming off"
       ],
       "burmese": [
-        "အပေါ်မှ ခပ်ထုတ်သည်",
-        "ငွေကို ခိုးယူဖြတ်ယူသည်"
+        "အပေါ်ယံမှ ခပ်ထုတ်သည်",
+        "ရငွေထဲမှ အချို့ကို တိတ်တဆိတ် ဖြတ်ယူသည်"
       ]
     },
     {
@@ -385,7 +408,7 @@
       "type": "expression",
       "forms": [],
       "burmese": [
-        "အပြစ်မသက်သေပြရသေးသူကို အပြစ်ကင်းသူဟု ယူဆခြင်း"
+        "အပြစ်ရှိကြောင်း မသက်သေပြနိုင်မချင်း အပြစ်ကင်းသူဟု ယူဆခြင်း"
       ]
     },
     {
@@ -500,7 +523,12 @@
     {
       "phrase": "go down the rabbit hole",
       "type": "idiom",
-      "forms": [],
+      "forms": [
+        "goes down the rabbit hole",
+        "went down the rabbit hole",
+        "gone down the rabbit hole",
+        "going down the rabbit hole"
+      ],
       "burmese": [
         "စူးစမ်းရင်း ပိုမိုရှုပ်ထွေးသည့် အကြောင်းအရာထဲ နစ်သွားသည်"
       ]
@@ -570,17 +598,16 @@
       ]
     },
     {
-      "phrase": "go through the roof",
+      "phrase": "take no prisoners",
       "type": "idiom",
       "forms": [
-        "goes through the roof",
-        "went through the roof",
-        "gone through the roof",
-        "going through the roof"
+        "takes no prisoners",
+        "took no prisoners",
+        "taken no prisoners",
+        "taking no prisoners"
       ],
       "burmese": [
-        "အလွန်ဒေါသထွက်သည်",
-        "ဈေးနှုန်း အလွန်မြင့်တက်သွားသည်"
+        "သူတစ်ပါးကို မငဲ့ဘဲ အလျှော့မပေးတမ်း လုပ်ဆောင်သည်"
       ]
     },
     {
@@ -632,7 +659,8 @@
       ],
       "burmese": [
         "စုပ်ယူသည်",
-        "ဗဟုသုတ သို့မဟုတ် ပတ်ဝန်းကျင်ကို စိတ်ပါဝင်စားစွာ ခံစားယူသည်"
+        "ဗဟုသုတများကို နားလည်မှတ်သားယူသည်",
+        "ပတ်ဝန်းကျင်အရသာကို အားရပါးရ ခံစားသည်"
       ]
     },
     {
@@ -663,7 +691,18 @@
         "go into my shell",
         "went into my shell",
         "goes into her shell",
-        "going into your shell"
+        "going into your shell",
+        "went into your shell",
+        "gone into your shell",
+        "gone into my shell",
+        "went into her shell",
+        "gone into her shell",
+        "goes into his shell",
+        "went into his shell",
+        "gone into his shell",
+        "going into my shell",
+        "going into his shell",
+        "going into her shell"
       ],
       "burmese": [
         "သူများနှင့် မပေါင်းဘဲ ကိုယ့်ဘာသာ နေတော့သည်"
@@ -712,7 +751,8 @@
       "forms": [
         "grins and bears it",
         "grinned and bore it",
-        "grinning and bearing it"
+        "grinning and bearing it",
+        "grinned and borne it"
       ],
       "burmese": [
         "မကြိုက်ပေမဲ့ မညည်းညူဘဲ သည်းခံသည်"
@@ -738,7 +778,7 @@
         "people of interest"
       ],
       "burmese": [
-        "အမှုနှင့်ဆက်စပ်၍ စုံစမ်းလိုသူ"
+        "အမှုနှင့် ပတ်သက်နိုင်သည်ဟု ယူဆ၍ ရဲက စုံစမ်းနေသူ"
       ]
     },
     {
@@ -792,7 +832,14 @@
         "hang my head",
         "hung my head",
         "hangs his head",
-        "hanging your head"
+        "hanging your head",
+        "hung your head",
+        "hung his head",
+        "hangs her head",
+        "hung her head",
+        "hanging my head",
+        "hanging his head",
+        "hanging her head"
       ],
       "burmese": [
         "အရှက် သို့မဟုတ် ဝမ်းနည်းမှုကြောင့် ခေါင်းငုံ့နေသည်"
@@ -841,7 +888,7 @@
         "having a cow"
       ],
       "burmese": [
-        "အသေးအဖွဲကြောင့် အလွန်စိတ်ဆိုး၊ စိတ်လှုပ်ရှားသည်"
+        "အလွန်စိတ်ဆိုးပြီး အကြီးအကျယ် တုံ့ပြန်သည်"
       ]
     },
     {
@@ -961,7 +1008,15 @@
       "forms": [
         "has her work cut out",
         "had my work cut out",
-        "having your work cut out"
+        "having your work cut out",
+        "have my work cut out",
+        "have our work cut out",
+        "have their work cut out",
+        "has his work cut out",
+        "had your work cut out",
+        "had his work cut out",
+        "had her work cut out",
+        "having my work cut out"
       ],
       "burmese": [
         "အလုပ်ပြီးဖို့ အလွန်ကြိုးစားရမည်"
@@ -1086,8 +1141,9 @@
         "stacking up"
       ],
       "burmese": [
-        "များလာသည်",
-        "နှိုင်းယှဉ်ကြည့်လျှင် အဆင့်မီသည်"
+        "စုပုံများပြားလာသည်",
+        "အခြားအရာများနှင့် ယှဉ်ကြည့်ရာတွင် အဆင့်အတန်း ပေါ်လွင်သည်",
+        "ယုတ္တိကျ၍ အဓိပ္ပာယ်ရှိသည်"
       ]
     },
     {
@@ -1429,7 +1485,14 @@
         "keep my powder dry",
         "kept my powder dry",
         "keeps his powder dry",
-        "keeping your powder dry"
+        "keeping your powder dry",
+        "kept your powder dry",
+        "kept his powder dry",
+        "keeps her powder dry",
+        "kept her powder dry",
+        "keeping my powder dry",
+        "keeping his powder dry",
+        "keeping her powder dry"
       ],
       "burmese": [
         "လိုအပ်လာလျှင် အဆင်သင့်ဖြစ်အောင် ပြင်ထားသည်"
@@ -1484,7 +1547,8 @@
       "type": "expression",
       "forms": [],
       "burmese": [
-        "စွဲချက်ကို ဝန်မခံသော်လည်း မကန့်ကွက်ကြောင်း ထွက်ဆိုခြင်း"
+        "စွဲချက်ကို ဝန်မခံသော်လည်း မကန့်ကွက်ကြောင်း ထွက်ဆိုခြင်း",
+        "တစ်ဖက်က အပြတ်အသတ် သာလွန်သည်"
       ]
     },
     {
@@ -1542,7 +1606,14 @@
         "kick up my heels",
         "kicked up my heels",
         "kicks up her heels",
-        "kicking up your heels"
+        "kicking up your heels",
+        "kicked up your heels",
+        "kicked up her heels",
+        "kicks up his heels",
+        "kicked up his heels",
+        "kicking up my heels",
+        "kicking up his heels",
+        "kicking up her heels"
       ],
       "burmese": [
         "လွတ်လွတ်လပ်လပ် ပျော်မြူးသည်"
@@ -1567,7 +1638,7 @@
         "hung juries"
       ],
       "burmese": [
-        "ဂျူရီများ အဆုံးအဖြတ်ကို သဘောမတူနိုင်ခြင်း"
+        "စီရင်ချက်အပေါ် သဘောတူညီမှု မရနိုင်သည့် ဂျူရီအဖွဲ့"
       ]
     },
     {
@@ -1607,7 +1678,9 @@
       "type": "idiom",
       "forms": [
         "knew which way was up",
-        "know which way was up"
+        "know which way was up",
+        "knows which way is up",
+        "knowing which way is up"
       ],
       "burmese": [
         "ဘယ်လိုပြုမူလုပ်ဆောင်ရမလဲကို နားလည်သည်"
@@ -1815,12 +1888,26 @@
       "phrase": "lick your wounds",
       "type": "idiom",
       "forms": [
-        "licks your wounds",
+        "lick my wounds",
+        "lick our wounds",
+        "lick their wounds",
+        "licks his wounds",
+        "licks her wounds",
+        "licked my wounds",
         "licked your wounds",
-        "licking your wounds"
+        "licked his wounds",
+        "licked her wounds",
+        "licked our wounds",
+        "licked their wounds",
+        "licking my wounds",
+        "licking your wounds",
+        "licking his wounds",
+        "licking her wounds",
+        "licking our wounds",
+        "licking their wounds"
       ],
       "burmese": [
-        "ရှုံးနိမ့်ဒဏ်ရာမှ သက်သာလာအောင် ခဏနားသည်"
+        "ရှုံးနိမ့်မှုကြောင့် စိတ်ထိခိုက်ရာမှ ပြန်အားတင်းရန် ခဏနားသည်"
       ]
     },
     {
@@ -1894,11 +1981,15 @@
       ]
     },
     {
-      "phrase": "live from hand to mouth",
+      "phrase": "make a beeline for",
       "type": "idiom",
-      "forms": [],
+      "forms": [
+        "makes a beeline for",
+        "made a beeline for",
+        "making a beeline for"
+      ],
       "burmese": [
-        "ရသမျှ ဝင်ငွေဖြင့် တစ်နေ့စာတစ်နေ့ စားသောက်နေရသည်"
+        "လိုရာဆီကို အလျင်အမြန် တည့်တည့်သွားသည်"
       ]
     },
     {
@@ -1988,7 +2079,14 @@
         "lose my shirt",
         "lost my shirt",
         "loses his shirt",
-        "losing your shirt"
+        "losing your shirt",
+        "lost your shirt",
+        "lost his shirt",
+        "loses her shirt",
+        "lost her shirt",
+        "losing my shirt",
+        "losing his shirt",
+        "losing her shirt"
       ],
       "burmese": [
         "ငွေအများကြီး သို့မဟုတ် ပိုင်ဆိုင်သမျှ ဆုံးရှုံးသည်"
@@ -2001,7 +2099,14 @@
         "lose my rag",
         "lost my rag",
         "loses her rag",
-        "losing your rag"
+        "losing your rag",
+        "lost your rag",
+        "lost her rag",
+        "loses his rag",
+        "lost his rag",
+        "losing my rag",
+        "losing his rag",
+        "losing her rag"
       ],
       "burmese": [
         "ရုတ်တရက် စိတ်ဆိုးသည်"
@@ -2026,7 +2131,14 @@
         "lose my marbles",
         "lost my marbles",
         "loses his marbles",
-        "losing your marbles"
+        "losing your marbles",
+        "lost your marbles",
+        "lost his marbles",
+        "loses her marbles",
+        "lost her marbles",
+        "losing my marbles",
+        "losing his marbles",
+        "losing her marbles"
       ],
       "burmese": [
         "စိတ်မမှန်တော့သလို ဖြစ်သည်"
@@ -2049,7 +2161,7 @@
       "type": "expression",
       "forms": [],
       "burmese": [
-        "တူညီသည့် ပြစ်မှုအတွက် ထပ်မံတရားစွဲခံရခြင်း"
+        "ပြစ်မှုတစ်ခုတည်းအတွက် ထပ်မံတရားစွဲဆို သို့မဟုတ် အပြစ်ပေးခံရခြင်း"
       ]
     },
     {
@@ -2191,16 +2303,21 @@
         "tucking in"
       ],
       "burmese": [
+        "အင်္ကျီအောက်စကို ဘောင်းဘီ သို့မဟုတ် ထဘီထဲ ထည့်သည်",
         "အိပ်ရာထဲ စောင်လုံအောင် ခြုံပေးသည်",
         "အားရပါးရ စစားသည်"
       ]
     },
     {
-      "phrase": "open a can of worms",
+      "phrase": "move the goalposts",
       "type": "idiom",
-      "forms": [],
+      "forms": [
+        "moves the goalposts",
+        "moved the goalposts",
+        "moving the goalposts"
+      ],
       "burmese": [
-        "ပြဿနာအသစ် အများကြီး ထွက်လာစေသည်"
+        "သဘောတူပြီးသား စည်းကမ်းသတ်မှတ်ချက်ကို ပြန်ပြောင်းပြီး အခက်တွေ့အောင်လုပ်သည်"
       ]
     },
     {
@@ -2212,15 +2329,20 @@
         "opening the floodgates"
       ],
       "burmese": [
-        "တားထားရာမှ ပြဿနာ သို့မဟုတ် ခံစားချက်များ အများကြီးထွက်လာစေသည်"
+        "ပိတ်ပင်ကန့်သတ်ထားရာမှ အရာတစ်ခု အလုံးအရင်းဖြင့် ဖြစ်ပေါ်လာစေသည်"
       ]
     },
     {
       "phrase": "cease and desist",
       "type": "expression",
-      "forms": [],
+      "forms": [
+        "ceases and desists",
+        "ceased and desisted",
+        "ceasing and desisting"
+      ],
       "burmese": [
-        "လုပ်နေသည့် အနှောင့်အယှက် သို့မဟုတ် ချိုးဖောက်မှုကို ရပ်ရန် ဥပဒေအရ အမိန့်"
+        "လုပ်နေသည့် အပြုအမူကို ရပ်တန့်ပြီး ထပ်မလုပ်တော့သည်",
+        "ဆက်မလုပ်ရန် တရားဝင် တားမြစ်သတိပေးချက်"
       ]
     },
     {
@@ -2248,15 +2370,11 @@
       ]
     },
     {
-      "phrase": "paper over the cracks",
+      "phrase": "at cross purposes",
       "type": "idiom",
-      "forms": [
-        "papers over the cracks",
-        "papered over the cracks",
-        "papering over the cracks"
-      ],
+      "forms": [],
       "burmese": [
-        "ပြဿနာအရင်းကို မရှင်းဘဲ အပေါ်ယံဖုံးကွယ်သည်"
+        "မတူသည့်အကြောင်း သို့မဟုတ် ရည်ရွယ်ချက်ကို ပြောနေ၍ အချင်းချင်း နားလည်မှုလွဲနေသည်"
       ]
     },
     {
@@ -2280,7 +2398,7 @@
         "tuning in"
       ],
       "burmese": [
-        "ရေဒီယို သို့မဟုတ် ရုပ်သံကို ဖွင့်နားထောင်သည်",
+        "ရေဒီယို သို့မဟုတ် ရုပ်သံအစီအစဉ်ကို ဖွင့်ကြည့်နားထောင်သည်",
         "အာရုံစိုက်သည်"
       ]
     },
@@ -2343,15 +2461,19 @@
       ]
     },
     {
-      "phrase": "play cat and mouse",
+      "phrase": "run rings around",
       "type": "idiom",
       "forms": [
-        "plays cat and mouse",
-        "played cat and mouse",
-        "playing cat and mouse"
+        "runs rings around",
+        "ran rings around",
+        "running rings around",
+        "run circles around",
+        "runs circles around",
+        "ran circles around",
+        "running circles around"
       ],
       "burmese": [
-        "တစ်ဖက်သားကို လွှတ်လိုက်ဖမ်းလိုက်ဖြင့် ကစားသည်"
+        "တစ်ဖက်လူထက် အရည်အချင်းများစွာ သာလွန်သည်"
       ]
     },
     {
@@ -2383,7 +2505,7 @@
       "type": "expression",
       "forms": [],
       "burmese": [
-        "တစ်ဦး၏ အပြစ်ရှိသည့် လုပ်ရပ်ကြောင့် သေဆုံးမှု"
+        "တစ်ဦး၏ မတရားလုပ်ရပ် သို့မဟုတ် ပေါ့ဆမှုကြောင့် သေဆုံးမှု"
       ]
     },
     {
@@ -2443,7 +2565,7 @@
         "playing the fool"
       ],
       "burmese": [
-        "ပေါ့ပေါ့ပျက်ပျက် ပြုမူနေသည်"
+        "ပေါက်ကရပြောဆိုပြုမူ၍ ပျော်အောင်လုပ်သည်"
       ]
     },
     {
@@ -2501,7 +2623,8 @@
         "washing away"
       ],
       "burmese": [
-        "ရေနှင့် မျောပါပျောက်သွားသည်"
+        "ရေနှင့် မျောပါပျောက်သွားသည်",
+        "ရေဖြင့် ဆေးကြောဖယ်ရှားသည်"
       ]
     },
     {
@@ -2511,7 +2634,22 @@
         "poke my nose in",
         "poked my nose in",
         "pokes his nose in",
-        "poking your nose in"
+        "poking your nose in",
+        "poked your nose in",
+        "poked his nose in",
+        "pokes her nose in",
+        "poked her nose in",
+        "poking my nose in",
+        "poking his nose in",
+        "poking her nose in",
+        "poke your nose into",
+        "poked your nose into",
+        "poking your nose into",
+        "poke my nose into",
+        "poked my nose into",
+        "pokes his nose into",
+        "poked his nose into",
+        "poking his nose into"
       ],
       "burmese": [
         "သူများကိစ္စကို စပ်စုဝင်ပါသည်"
@@ -2571,11 +2709,24 @@
         "pull my punches",
         "pulled my punches",
         "pulls his punches",
-        "pulling your punches"
+        "pulling your punches",
+        "pulled your punches",
+        "pulls her punches",
+        "pulled his punches",
+        "pulled her punches",
+        "pulling my punches",
+        "pulling his punches",
+        "pulling her punches",
+        "pull our punches",
+        "pull their punches",
+        "pull punches",
+        "pulls punches",
+        "pulled punches",
+        "pulling punches"
       ],
       "burmese": [
-        "အားမပါဘဲ ထိုးသည်",
-        "ဝေဖန်ရာတွင် အားနာပြီး လျှော့ပြောသည်"
+        "ထိုးနှက်ရာတွင် အားကို တမင်လျှော့ထားသည်",
+        "ဝေဖန်တိုက်ခိုက်ရာတွင် တမင်အရှိန်လျှော့ထားသည်"
       ]
     },
     {
@@ -2600,7 +2751,8 @@
       ],
       "burmese": [
         "ဆေးကြောဖယ်ရှားသည်",
-        "မိုးကြောင့် အစီအစဉ် ပျက်သွားသည်"
+        "မိုးကြောင့် အစီအစဉ် ပျက်သွားသည်",
+        "အရည်အချင်းမမီ၍ သင်တန်း သို့မဟုတ် ရွေးချယ်မှုမှ ထွက်ရသည်"
       ]
     },
     {
@@ -2689,6 +2841,7 @@
         "putting the boot in"
       ],
       "burmese": [
+        "လဲနေသူကို ထပ်ကန်ကျောက်သည်",
         "အားနည်းနေသူကို ပိုပြီး ဝေဖန်တိုက်ခိုက်သည်"
       ]
     },
@@ -2754,9 +2907,26 @@
       "phrase": "put words in your mouth",
       "type": "idiom",
       "forms": [
+        "put words in my mouth",
+        "put words in his mouth",
+        "put words in her mouth",
+        "put words in our mouths",
+        "put words in their mouths",
+        "puts words in my mouth",
         "puts words in your mouth",
+        "puts words in his mouth",
+        "puts words in her mouth",
+        "puts words in our mouths",
+        "puts words in their mouths",
+        "putting words in my mouth",
         "putting words in your mouth",
-        "put words in my mouth"
+        "putting words in his mouth",
+        "putting words in her mouth",
+        "putting words in our mouths",
+        "putting words in their mouths",
+        "put words in your mouths",
+        "puts words in your mouths",
+        "putting words in your mouths"
       ],
       "burmese": [
         "မပြောခဲ့သည့်စကားကို ပြောသယောင် လုပ်သည်"
@@ -2795,7 +2965,8 @@
         "raising the roof"
       ],
       "burmese": [
-        "အလွန်ကျယ်လောင်စွာ အော်ဟစ်ပျော်မြူးသည်"
+        "အလွန်ကျယ်လောင်စွာ အော်ဟစ်ပျော်မြူးသည်",
+        "ဒေါသတကြီး ဆူညံကန့်ကွက်သည်"
       ]
     },
     {
@@ -2849,7 +3020,14 @@
         "rest on my laurels",
         "rested on my laurels",
         "rests on her laurels",
-        "resting on your laurels"
+        "resting on your laurels",
+        "rested on your laurels",
+        "rested on her laurels",
+        "rests on his laurels",
+        "rested on his laurels",
+        "resting on my laurels",
+        "resting on his laurels",
+        "resting on her laurels"
       ],
       "burmese": [
         "အရင်အောင်မြင်မှုကိုပဲ အားကိုးပြီး မကြိုးစားတော့သည်"

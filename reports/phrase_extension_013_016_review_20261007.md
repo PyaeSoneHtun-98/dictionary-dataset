@@ -1,5 +1,7 @@
 # Phrase extension Batches 013–016
 
+This is the initial review record for commit `4b9b047`. Its counts and hash describe that original commit. The subsequent complete second review, current counts and applied corrections are in `phrase_extension_013_016_rereview_20261007.md`.
+
 The user authorized 1,000 additional useful English → Burmese phrases, including idioms. They are packaged separately from frozen Phrase Dictionary v1.0.0. No frozen phrase assets, frozen single-word assets, or existing single-word extension data were changed.
 
 ## Result

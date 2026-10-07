@@ -69,9 +69,9 @@ Phrase Dictionary **v1.0.0 is frozen** at **3,000 phrases**, **4,827 forms**, an
 
 The separate phrase extension adds **Batches 013–016**, exactly **250 entries per batch**:
 
-- **1,000 new phrases:** 600 idioms, 260 phrasal verbs, and 140 fixed expressions
-- **2,045 stored forms**, **3,045 extension lookup keys**, and **1,128 Burmese meanings**
-- **4,000 combined canonical phrases**, **6,872 forms**, and **10,872 lookup keys**
+- **1,000 new phrases:** 601 idioms, 260 phrasal verbs, and 139 fixed expressions
+- **2,682 stored forms**, **3,682 extension lookup keys**, and **1,164 Burmese meanings**
+- **4,000 combined canonical phrases**, **7,509 forms**, and **11,509 lookup keys**
 - Active state: `phrase_extension_manifest.json`; next batch **017**
 - Source: `PhraseExtensionBatches/phrase_batch_XXX.json`
 - Exclusion index: `phrase_extension_lookup/used_phrase_keys_current.zlib.b64`
@@ -89,7 +89,7 @@ python scripts/build_phrase_extension_artifact.py --check
 python -m unittest discover -s tests
 ```
 
-CI checks batches and deterministic snapshots without changing frozen assets. The review record is `reports/phrase_extension_013_016_review_20261007.md`; authored drafts, peer findings, editorial decisions, and unpublished candidates are in `staging/phrases013_016/`. Native Burmese human sign-off and actual Windows app loading/lookup tests remain outstanding.
+CI checks batches and deterministic snapshots without changing frozen assets. The initial review record is `reports/phrase_extension_013_016_review_20261007.md`; authored drafts, peer findings, editorial decisions, and unpublished candidates are in `staging/phrases013_016/`. The complete second review and applied corrections are documented in `reports/phrase_extension_013_016_rereview_20261007.md` and `staging/phrase_rereview_20261007/`. Native Burmese human sign-off and actual Windows app loading/lookup tests remain outstanding.
 
 ## Layout
 

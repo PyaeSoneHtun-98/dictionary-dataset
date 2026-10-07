@@ -1,16 +1,16 @@
 {
   "version": 1,
   "artifact": "dist/phrases_extension.json",
-  "sha256": "6a195e24be5e586771cacb3013bbd7dbf83fb3384e967a6010e7becaf75c2556",
+  "sha256": "26a932d88b8bda52638de7eaf2bc1adb78e0b36099250fa8523f550853ffbb85",
   "sha256Scope": "utf8-lf",
   "throughBatch": 16,
   "canonicalPhrases": 1000,
-  "storedForms": 2045,
-  "lookupKeys": 3045,
-  "burmeseMeanings": 1128,
+  "storedForms": 2682,
+  "lookupKeys": 3682,
+  "burmeseMeanings": 1164,
   "typeCounts": {
-    "expression": 140,
-    "idiom": 600,
+    "expression": 139,
+    "idiom": 601,
     "phrasal_verb": 260
   },
   "baseArtifactSha256": "951a8bbe54824cf76728393791607798f878a062b19eca63e572278ba8f62926"

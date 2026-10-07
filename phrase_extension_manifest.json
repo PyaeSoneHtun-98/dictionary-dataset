@@ -15,16 +15,16 @@
   "extensionBatchCount": 4,
   "extensionPhrases": 1000,
   "totalPhrases": 4000,
-  "extensionStoredForms": 2045,
-  "extensionBurmeseMeanings": 1128,
+  "extensionStoredForms": 2682,
+  "extensionBurmeseMeanings": 1164,
   "extensionTypeCounts": {
-    "expression": 140,
-    "idiom": 600,
+    "expression": 139,
+    "idiom": 601,
     "phrasal_verb": 260
   },
   "totalTypeCounts": {
-    "expression": 1020,
-    "idiom": 1535,
+    "expression": 1019,
+    "idiom": 1536,
     "phrasal_verb": 1445
   },
   "batchFilenamePattern": "PhraseExtensionBatches/phrase_batch_XXX.json",
@@ -34,8 +34,8 @@
     "baseLookup": "phrase_lookup/used_phrase_keys_current.zlib.b64",
     "encoding": "base64(zlib(utf8 newline-separated keys))",
     "throughBatch": 16,
-    "uniqueLookupKeys": 10872,
-    "sha256": "14d869f923b5e52b9142b6a25fd6618cacc844f68a8bbf54dbe83a2b84fa7718",
+    "uniqueLookupKeys": 11509,
+    "sha256": "196c116395fe6616084de26f4110f91da2fd58b651752703f242348cfe7b30cf",
     "sha256Scope": "base64-trimmed"
   }
 }

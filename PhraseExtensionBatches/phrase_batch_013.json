@@ -216,7 +216,11 @@
     {
       "phrase": "skeleton in the closet",
       "type": "idiom",
-      "forms": [],
+      "forms": [
+        "skeletons in the closet",
+        "skeleton in the cupboard",
+        "skeletons in the cupboard"
+      ],
       "burmese": [
         "လူမသိအောင် ဖုံးကွယ်ထားသည့် အရှက်ရစရာအတိတ်"
       ]
@@ -236,7 +240,9 @@
     {
       "phrase": "wolf in sheep's clothing",
       "type": "idiom",
-      "forms": [],
+      "forms": [
+        "wolves in sheep's clothing"
+      ],
       "burmese": [
         "လူကောင်းဟန်ဆောင်ထားသည့် လူဆိုး"
       ]
@@ -244,7 +250,9 @@
     {
       "phrase": "snake in the grass",
       "type": "idiom",
-      "forms": [],
+      "forms": [
+        "snakes in the grass"
+      ],
       "burmese": [
         "မိတ်ဆွေဟန်ဆောင်ထားသည့် ရန်သူ"
       ]
@@ -272,17 +280,35 @@
     {
       "phrase": "ace in the hole",
       "type": "idiom",
-      "forms": [],
+      "forms": [
+        "aces in the hole",
+        "ace up your sleeve",
+        "ace up my sleeve",
+        "ace up his sleeve",
+        "ace up her sleeve",
+        "ace up our sleeve",
+        "ace up their sleeve",
+        "aces up your sleeve",
+        "aces up my sleeve",
+        "aces up his sleeve",
+        "aces up her sleeve",
+        "aces up our sleeves",
+        "aces up their sleeves",
+        "ace up our sleeves",
+        "ace up their sleeves"
+      ],
       "burmese": [
-        "လိုအပ်မှ ထုတ်သုံးမည့် အသာစီးရစရာ လျှို့ဝှက်အကြံ"
+        "လိုအပ်မှ ထုတ်သုံးမည့် အသာစီးရစရာ လျှို့ဝှက်နည်း သို့မဟုတ် အစွမ်းအစ"
       ]
     },
     {
-      "phrase": "ace up your sleeve",
+      "phrase": "pet peeve",
       "type": "idiom",
-      "forms": [],
+      "forms": [
+        "pet peeves"
+      ],
       "burmese": [
-        "တခြားသူမသိသေးသည့် အသာစီးရစရာ လျှို့ဝှက်နည်း"
+        "ကိုယ့်အတွက် အထူးစိတ်အနှောင့်အယှက်ဖြစ်စေသည့် အရာ"
       ]
     },
     {
@@ -424,7 +450,11 @@
       "phrase": "can of worms",
       "type": "idiom",
       "forms": [
-        "cans of worms"
+        "cans of worms",
+        "open a can of worms",
+        "opens a can of worms",
+        "opened a can of worms",
+        "opening a can of worms"
       ],
       "burmese": [
         "ရှင်းဖို့စလိုက်မှ ပြဿနာတွေအများကြီး ထွက်လာသည့်ကိစ္စ"
@@ -503,7 +533,8 @@
         "hushing up"
       ],
       "burmese": [
-        "လူမသိအောင် ဖုံးဖိထားသည်"
+        "လူမသိအောင် ဖုံးဖိထားသည်",
+        "တိတ်တိတ်နေသည်"
       ]
     },
     {
@@ -817,7 +848,8 @@
         "shrugging off"
       ],
       "burmese": [
-        "အရေးမထားဘဲ ပယ်ချသည်"
+        "အရေးမထားဘဲ ပယ်ချသည်",
+        "ပခုံးတွန့်၍ ဖယ်ထုတ်သည်"
       ]
     },
     {
@@ -944,7 +976,7 @@
         "gunning down"
       ],
       "burmese": [
-        "သေနတ်ဖြင့် ပစ်လဲသည်"
+        "သေနတ်ဖြင့် ပစ်လှဲသည်"
       ]
     },
     {
@@ -1296,7 +1328,10 @@
     {
       "phrase": "by all appearances",
       "type": "expression",
-      "forms": [],
+      "forms": [
+        "to all appearances",
+        "from all appearances"
+      ],
       "burmese": [
         "မြင်ရသလောက်တော့"
       ]
@@ -1404,10 +1439,15 @@
       "phrase": "raw deal",
       "type": "idiom",
       "forms": [
-        "raw deals"
+        "raw deals",
+        "get a raw deal",
+        "gets a raw deal",
+        "got a raw deal",
+        "gotten a raw deal",
+        "getting a raw deal"
       ],
       "burmese": [
-        "မတရားခံရတဲ့အခြေအနေ"
+        "မတရားသဖြင့် ဆက်ဆံခံရမှု"
       ]
     },
     {
@@ -1692,7 +1732,7 @@
         "sucking up to"
       ],
       "burmese": [
-        "မျက်နှာရအောင် အထက်လူကြီးကို ဖားသည်"
+        "မျက်နှာရအောင် ဖားသည်"
       ]
     },
     {
@@ -1788,11 +1828,13 @@
       ]
     },
     {
-      "phrase": "beside the point",
+      "phrase": "double standard",
       "type": "expression",
-      "forms": [],
+      "forms": [
+        "double standards"
+      ],
       "burmese": [
-        "ပြောနေတဲ့အကြောင်းနဲ့ မဆိုင်ဘူး"
+        "တူညီသည့်ကိစ္စကို လူအလိုက် မမျှမတ စံနှစ်မျိုးထား၍ ဆက်ဆံခြင်း"
       ]
     },
     {
@@ -2119,11 +2161,16 @@
       ]
     },
     {
-      "phrase": "at rock bottom",
+      "phrase": "ride shotgun",
       "type": "idiom",
-      "forms": [],
+      "forms": [
+        "rides shotgun",
+        "rode shotgun",
+        "ridden shotgun",
+        "riding shotgun"
+      ],
       "burmese": [
-        "အနိမ့်ဆုံးအခြေအနေကို ရောက်နေသည်"
+        "ကားမောင်းသူဘေး ရှေ့ခုံမှာ ထိုင်လိုက်သည်"
       ]
     },
     {
