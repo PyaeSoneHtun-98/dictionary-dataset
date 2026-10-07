@@ -1,0 +1,322 @@
+[
+  {
+    "phrase": "in the loop",
+    "action": "replace",
+    "reason": "The idiom means being included in information/discussion about a particular activity. Important news in general is too broad.",
+    "replacement": {
+      "phrase": "in the loop",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "သက်ဆိုင်တဲ့ကိစ္စရဲ့ သတင်းအချက်အလက်တွေကို သိခွင့်ရနေသည်"
+      ]
+    }
+  },
+  {
+    "phrase": "at the cutting edge",
+    "action": "replace",
+    "reason": "The current Burmese phrase ရှေ့ဆုံးကနေသည် is awkward and ambiguous. Use a natural phrase for being at the forefront.",
+    "replacement": {
+      "phrase": "at the cutting edge",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "နည်းပညာ သို့မဟုတ် တီထွင်မှုမှာ ရှေ့တန်းရောက်နေသည်"
+      ]
+    }
+  },
+  {
+    "phrase": "at daggers drawn",
+    "action": "replace",
+    "reason": "Cambridge describes strong mutual hostility and distrust; the current gloss implies actual ongoing fighting.",
+    "replacement": {
+      "phrase": "at daggers drawn",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "တစ်ယောက်နဲ့တစ်ယောက် အပြင်းအထန် ရန်လိုနေသည်"
+      ]
+    }
+  },
+  {
+    "phrase": "by a country mile",
+    "action": "replace",
+    "reason": "The idiom describes a large margin, including losses or misses. The gloss should not force a winning/superiority interpretation.",
+    "replacement": {
+      "phrase": "by a country mile",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "အများကြီး ကွာပြီး"
+      ]
+    }
+  },
+  {
+    "phrase": "before your time",
+    "action": "replace",
+    "reason": "The stored my/his/her/our/their forms share this gloss, so မင်း incorrectly fixes the person to the addressee.",
+    "replacement": {
+      "phrase": "before your time",
+      "type": "expression",
+      "forms": [
+        "before my time",
+        "before his time",
+        "before her time",
+        "before our time",
+        "before their time"
+      ],
+      "burmese": [
+        "မမွေးခင်က သို့မဟုတ် ဒီနေရာကို မရောက်ခင်က"
+      ]
+    }
+  },
+  {
+    "phrase": "all the same",
+    "action": "replace",
+    "reason": "The second idiomatic sense is making no difference/indifference, not literal identical things. Cambridge and Collins also identify the nevertheless sense.",
+    "replacement": {
+      "phrase": "all the same",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "ဒါပေမဲ့လည်း",
+        "ဘယ်ဟာဖြစ်ဖြစ် ထူးမခြားနားပဲ"
+      ]
+    }
+  },
+  {
+    "phrase": "as sharp as a tack",
+    "action": "replace",
+    "reason": "နားလည်လွယ်သည် can read as easy to understand. The idiom concerns a person who grasps things quickly.",
+    "replacement": {
+      "phrase": "as sharp as a tack",
+      "type": "idiom",
+      "forms": [
+        "sharp as a tack"
+      ],
+      "burmese": [
+        "ဉာဏ်ထက်မြက်ပြီး သဘောပေါက်လွယ်သည်"
+      ]
+    }
+  },
+  {
+    "phrase": "for dear life",
+    "action": "replace",
+    "reason": "Collins includes desperate intensity, including figurative contexts. The gloss should not require a literal life-threatening event.",
+    "replacement": {
+      "phrase": "for dear life",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "အသက်နဲ့ရင်းရသလို အစွမ်းကုန်"
+      ]
+    }
+  },
+  {
+    "phrase": "for good measure",
+    "action": "replace",
+    "reason": "Cambridge/Oxford foreground an extra addition. More certainty is only one context; supply an independently useful extra/bonus gloss.",
+    "replacement": {
+      "phrase": "for good measure",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "အပိုအဖြစ် ထပ်ပြီး",
+        "ပိုသေချာအောင် ထပ်ပြီး"
+      ]
+    }
+  },
+  {
+    "phrase": "after your own heart",
+    "action": "replace",
+    "reason": "Add natural plural-heart forms for plural referents. Existing singular-heart forms can remain for collective or singular-they uses.",
+    "replacement": {
+      "phrase": "after your own heart",
+      "type": "idiom",
+      "forms": [
+        "after my own heart",
+        "after his own heart",
+        "after her own heart",
+        "after our own heart",
+        "after their own heart",
+        "after our own hearts",
+        "after their own hearts"
+      ],
+      "burmese": [
+        "ကိုယ်နဲ့ စိတ်တူကိုယ်တူ ဖြစ်သည်"
+      ]
+    }
+  },
+  {
+    "phrase": "to your heart's content",
+    "action": "replace",
+    "reason": "Add the natural plural possessive forms for plural hearts. Existing singular forms can remain for collective or singular-they uses.",
+    "replacement": {
+      "phrase": "to your heart's content",
+      "type": "idiom",
+      "forms": [
+        "to my heart's content",
+        "to his heart's content",
+        "to her heart's content",
+        "to our heart's content",
+        "to their heart's content",
+        "to our hearts' content",
+        "to their hearts' content",
+        "to your hearts' content"
+      ],
+      "burmese": [
+        "စိတ်ကျေနပ်တဲ့အထိ"
+      ]
+    }
+  },
+  {
+    "phrase": "under your belt",
+    "action": "replace",
+    "reason": "Add conventional plural-belt forms for plural people; the existing collective/singular-they forms need not be removed.",
+    "replacement": {
+      "phrase": "under your belt",
+      "type": "idiom",
+      "forms": [
+        "under my belt",
+        "under his belt",
+        "under her belt",
+        "under our belt",
+        "under their belt",
+        "under our belts",
+        "under their belts",
+        "under your belts"
+      ],
+      "burmese": [
+        "အတွေ့အကြုံအဖြစ် ရရှိထားသည်"
+      ]
+    }
+  },
+  {
+    "phrase": "beside yourself",
+    "action": "replace",
+    "reason": "The idiom changes reflexive pronouns with the experiencer. Add useful real reflexive variants, preserving the current correct gloss.",
+    "replacement": {
+      "phrase": "beside yourself",
+      "type": "idiom",
+      "forms": [
+        "beside myself",
+        "beside himself",
+        "beside herself",
+        "beside ourselves",
+        "beside themselves",
+        "beside yourselves"
+      ],
+      "burmese": [
+        "စိတ်လှုပ်ရှားလွန်းလို့ ကိုယ့်ကိုယ်ကို မထိန်းနိုင်သည်"
+      ]
+    }
+  },
+  {
+    "phrase": "under the sun",
+    "action": "replace",
+    "reason": "The selected everywhere/everything imaginable sense is idiomatic, rather than a literal under-sun expression.",
+    "replacement": {
+      "phrase": "under the sun",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "လောကမှာ ရှိသမျှ"
+      ]
+    }
+  },
+  {
+    "phrase": "without rhyme or reason",
+    "action": "replace",
+    "reason": "The no-explanation/no-sense meaning is an established idiom; use the idiom type.",
+    "replacement": {
+      "phrase": "without rhyme or reason",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "ကျိုးကြောင်းဆီလျော်တဲ့ အကြောင်းမရှိဘဲ"
+      ]
+    }
+  },
+  {
+    "phrase": "with bated breath",
+    "action": "replace",
+    "reason": "The apprehensive/excited anticipation meaning is idiomatic; use the idiom type.",
+    "replacement": {
+      "phrase": "with bated breath",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "စိတ်လှုပ်ရှားစွာ စောင့်ဆိုင်းပြီး"
+      ]
+    }
+  },
+  {
+    "phrase": "with a heavy heart",
+    "action": "replace",
+    "reason": "The sorrowful-heart metaphor is idiomatic; use the idiom type.",
+    "replacement": {
+      "phrase": "with a heavy heart",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "ဝမ်းနည်းစိတ်နဲ့"
+      ]
+    }
+  },
+  {
+    "phrase": "to the letter",
+    "action": "replace",
+    "reason": "The selected exact-compliance meaning is idiomatic, rather than a literal letter reference.",
+    "replacement": {
+      "phrase": "to the letter",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "ညွှန်ကြားထားတဲ့အတိုင်း အတိအကျ"
+      ]
+    }
+  },
+  {
+    "phrase": "to a fault",
+    "action": "replace",
+    "reason": "This excessive-degree modifier is idiomatic, rather than a literal fault reference.",
+    "replacement": {
+      "phrase": "to a fault",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "ကောင်းတဲ့အကျင့်တစ်ခု လွန်ကဲလောက်အောင်"
+      ]
+    }
+  },
+  {
+    "phrase": "for old times' sake",
+    "action": "reject",
+    "reason": "This is the same expression as frozen for old times sake, with a punctuation correction. Do not count it as genuinely new extension vocabulary; the frozen asset must remain unchanged."
+  },
+  {
+    "phrase": "all of a piece",
+    "action": "reject",
+    "reason": "Established, but literary/formal and a weak subtitle-priority choice in a pool with enough stronger candidates."
+  },
+  {
+    "phrase": "as sound as a bell",
+    "action": "reject",
+    "reason": "Established but comparatively dated and weak for ordinary subtitle lookup; stronger health/condition idioms already exist."
+  },
+  {
+    "phrase": "by fair means or foul",
+    "action": "reject",
+    "reason": "Established but literary and comparatively low-priority for ordinary contemporary dialogue. Enough stronger candidates are available."
+  },
+  {
+    "phrase": "to a turn",
+    "action": "reject",
+    "reason": "Established cooking idiom, but narrow and low-priority compared with the available general subtitle expressions."
+  },
+  {
+    "phrase": "from time immemorial",
+    "action": "reject",
+    "reason": "Established but heavily formal/literary and low-priority for this extension pool."
+  }
+]

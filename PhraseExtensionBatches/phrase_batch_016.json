@@ -1,0 +1,2933 @@
+{
+  "version": 1,
+  "batch": 16,
+  "entries": [
+    {
+      "phrase": "get the shaft",
+      "type": "idiom",
+      "forms": [
+        "gets the shaft",
+        "got the shaft",
+        "gotten the shaft",
+        "getting the shaft"
+      ],
+      "burmese": [
+        "မတရားအနိုင်ကျင့်ခံရသည်"
+      ]
+    },
+    {
+      "phrase": "sell off",
+      "type": "phrasal_verb",
+      "forms": [
+        "sells off",
+        "sold off",
+        "selling off"
+      ],
+      "burmese": [
+        "ပိုင်ဆိုင်မှုများကို ရောင်းထုတ်သည်"
+      ]
+    },
+    {
+      "phrase": "get the runs",
+      "type": "idiom",
+      "forms": [
+        "gets the runs",
+        "got the runs",
+        "gotten the runs",
+        "getting the runs"
+      ],
+      "burmese": [
+        "ဝမ်းလျှောသည်"
+      ]
+    },
+    {
+      "phrase": "screech to a halt",
+      "type": "expression",
+      "forms": [
+        "screeches to a halt",
+        "screeched to a halt",
+        "screeching to a halt"
+      ],
+      "burmese": [
+        "အသံစူးစူးနှင့် ရုတ်တရက် ရပ်တန့်သည်"
+      ]
+    },
+    {
+      "phrase": "get your goat",
+      "type": "idiom",
+      "forms": [
+        "gets your goat",
+        "got your goat",
+        "gotten your goat",
+        "getting your goat"
+      ],
+      "burmese": [
+        "စိတ်တိုအောင် လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "sell out",
+      "type": "phrasal_verb",
+      "forms": [
+        "sells out",
+        "sold out",
+        "selling out"
+      ],
+      "burmese": [
+        "အကုန်ရောင်းကုန်သည်",
+        "အကျိုးအတွက် သစ္စာဖောက်သည်"
+      ]
+    },
+    {
+      "phrase": "get your feet wet",
+      "type": "idiom",
+      "forms": [
+        "get my feet wet",
+        "got my feet wet",
+        "gets his feet wet",
+        "getting your feet wet"
+      ],
+      "burmese": [
+        "အလုပ်သစ်တစ်ခုကို စမ်းလုပ်ကြည့်သည်"
+      ]
+    },
+    {
+      "phrase": "ducks in a row",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "လိုအပ်တာအားလုံး စနစ်တကျ အသင့်ဖြစ်နေခြင်း"
+      ]
+    },
+    {
+      "phrase": "get your wires crossed",
+      "type": "idiom",
+      "forms": [
+        "get my wires crossed",
+        "got my wires crossed",
+        "gets her wires crossed",
+        "getting your wires crossed"
+      ],
+      "burmese": [
+        "နားလည်မှုလွဲသည်"
+      ]
+    },
+    {
+      "phrase": "shore up",
+      "type": "phrasal_verb",
+      "forms": [
+        "shores up",
+        "shored up",
+        "shoring up"
+      ],
+      "burmese": [
+        "ပိုခိုင်မာအောင် ထောက်ပံ့သည်"
+      ]
+    },
+    {
+      "phrase": "reasonable suspicion",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ရာဇဝတ်မှုနှင့် ပတ်သက်သည်ဟု ယူဆရန် ခိုင်လုံသည့် အကြောင်းရှိခြင်း"
+      ]
+    },
+    {
+      "phrase": "give a wide berth to",
+      "type": "idiom",
+      "forms": [
+        "gives a wide berth to",
+        "gave a wide berth to",
+        "given a wide berth to",
+        "giving a wide berth to"
+      ],
+      "burmese": [
+        "ဝေးဝေးကနေ ရှောင်သည်"
+      ]
+    },
+    {
+      "phrase": "give an inch",
+      "type": "idiom",
+      "forms": [
+        "gives an inch",
+        "gave an inch",
+        "given an inch",
+        "giving an inch"
+      ],
+      "burmese": [
+        "အနည်းငယ် အလျှော့ပေးသည်"
+      ]
+    },
+    {
+      "phrase": "simmer down",
+      "type": "phrasal_verb",
+      "forms": [
+        "simmers down",
+        "simmered down",
+        "simmering down"
+      ],
+      "burmese": [
+        "ဒေါသ ပြေလျော့လာသည်"
+      ]
+    },
+    {
+      "phrase": "give short shrift",
+      "type": "idiom",
+      "forms": [
+        "gives short shrift",
+        "gave short shrift",
+        "given short shrift",
+        "giving short shrift"
+      ],
+      "burmese": [
+        "သိပ်မစဉ်းစားဘဲ လျစ်လျူရှုသည်"
+      ]
+    },
+    {
+      "phrase": "give up the ghost",
+      "type": "idiom",
+      "forms": [
+        "gives up the ghost",
+        "gave up the ghost",
+        "given up the ghost",
+        "giving up the ghost"
+      ],
+      "burmese": [
+        "အသက်ထွက်သည်",
+        "ပျက်ပြီး အလုပ်မလုပ်တော့သည်"
+      ]
+    },
+    {
+      "phrase": "skim off",
+      "type": "phrasal_verb",
+      "forms": [
+        "skims off",
+        "skimmed off",
+        "skimming off"
+      ],
+      "burmese": [
+        "အပေါ်မှ ခပ်ထုတ်သည်",
+        "ငွေကို ခိုးယူဖြတ်ယူသည်"
+      ]
+    },
+    {
+      "phrase": "give your eyeteeth for",
+      "type": "idiom",
+      "forms": [
+        "give my eyeteeth for",
+        "gave my eyeteeth for",
+        "given his eyeteeth for",
+        "giving my eyeteeth for"
+      ],
+      "burmese": [
+        "အလွန်လိုချင်လို့ ဘာမဆို ပေးချင်သည်"
+      ]
+    },
+    {
+      "phrase": "due process",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ဥပဒေနှင့်အညီ တရားမျှတစွာ ဆောင်ရွက်သည့် လုပ်ထုံးလုပ်နည်း"
+      ]
+    },
+    {
+      "phrase": "give your right arm for",
+      "type": "idiom",
+      "forms": [
+        "give my right arm for",
+        "gave my right arm for",
+        "given his right arm for",
+        "giving my right arm for"
+      ],
+      "burmese": [
+        "အလွန်လိုချင်လို့ ဘာမဆို ပေးချင်သည်"
+      ]
+    },
+    {
+      "phrase": "go bananas",
+      "type": "idiom",
+      "forms": [
+        "goes bananas",
+        "went bananas",
+        "gone bananas",
+        "going bananas"
+      ],
+      "burmese": [
+        "အလွန်စိတ်လှုပ်ရှား၊ စိတ်ထိန်းမရဖြစ်သည်"
+      ]
+    },
+    {
+      "phrase": "slack off",
+      "type": "phrasal_verb",
+      "forms": [
+        "slacks off",
+        "slacked off",
+        "slacking off"
+      ],
+      "burmese": [
+        "အားလျှော့လုပ်သည်",
+        "အလုပ်ကို ပျင်းရိလျော့လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "go nuts",
+      "type": "idiom",
+      "forms": [
+        "goes nuts",
+        "went nuts",
+        "gone nuts",
+        "going nuts"
+      ],
+      "burmese": [
+        "ရူးသလို စိတ်ထိန်းမရဖြစ်သည်"
+      ]
+    },
+    {
+      "phrase": "go ape",
+      "type": "idiom",
+      "forms": [
+        "goes ape",
+        "went ape",
+        "gone ape",
+        "going ape"
+      ],
+      "burmese": [
+        "အလွန်ဒေါသထွက်၊ စိတ်ထိန်းမရဖြစ်သည်"
+      ]
+    },
+    {
+      "phrase": "burden of proof",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "အဆိုကို မှန်ကြောင်း သက်သေပြရန် တာဝန်"
+      ]
+    },
+    {
+      "phrase": "slog through",
+      "type": "phrasal_verb",
+      "forms": [
+        "slogs through",
+        "slogged through",
+        "slogging through"
+      ],
+      "burmese": [
+        "အပင်ပန်းခံ၍ ပြီးအောင်လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "go ballistic",
+      "type": "idiom",
+      "forms": [
+        "goes ballistic",
+        "went ballistic",
+        "gone ballistic",
+        "going ballistic"
+      ],
+      "burmese": [
+        "အလွန်အမင်း ဒေါသထွက်သည်"
+      ]
+    },
+    {
+      "phrase": "go postal",
+      "type": "idiom",
+      "forms": [
+        "goes postal",
+        "went postal",
+        "gone postal",
+        "going postal"
+      ],
+      "burmese": [
+        "အလွန်ဒေါသထွက်ပြီး အကြမ်းဖက်နိုင်သည့်အထိ စိတ်ထိန်းမရဖြစ်သည်"
+      ]
+    },
+    {
+      "phrase": "smash up",
+      "type": "phrasal_verb",
+      "forms": [
+        "smashes up",
+        "smashed up",
+        "smashing up"
+      ],
+      "burmese": [
+        "ထုခွဲဖျက်ဆီးသည်"
+      ]
+    },
+    {
+      "phrase": "go pear-shaped",
+      "type": "idiom",
+      "forms": [
+        "goes pear-shaped",
+        "went pear-shaped",
+        "gone pear-shaped",
+        "going pear-shaped"
+      ],
+      "burmese": [
+        "အစီအစဉ်ပျက်ပြီး အဆင်မပြေဖြစ်သည်"
+      ]
+    },
+    {
+      "phrase": "go to pot",
+      "type": "idiom",
+      "forms": [
+        "goes to pot",
+        "went to pot",
+        "gone to pot",
+        "going to pot"
+      ],
+      "burmese": [
+        "တဖြည်းဖြည်း ယိုယွင်းပျက်စီးသွားသည်"
+      ]
+    },
+    {
+      "phrase": "presumption of innocence",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "အပြစ်မသက်သေပြရသေးသူကို အပြစ်ကင်းသူဟု ယူဆခြင်း"
+      ]
+    },
+    {
+      "phrase": "go to seed",
+      "type": "idiom",
+      "forms": [
+        "goes to seed",
+        "went to seed",
+        "gone to seed",
+        "going to seed"
+      ],
+      "burmese": [
+        "အခြေအနေ၊ အရည်အသွေး တဖြည်းဖြည်း ယိုယွင်းလာသည်"
+      ]
+    },
+    {
+      "phrase": "snap up",
+      "type": "phrasal_verb",
+      "forms": [
+        "snaps up",
+        "snapped up",
+        "snapping up"
+      ],
+      "burmese": [
+        "အခွင့်ရသည်နှင့် အမြန် ဝယ်ယူသည်"
+      ]
+    },
+    {
+      "phrase": "go to the dogs",
+      "type": "idiom",
+      "forms": [
+        "goes to the dogs",
+        "went to the dogs",
+        "gone to the dogs",
+        "going to the dogs"
+      ],
+      "burmese": [
+        "အလွန်ယိုယွင်းပျက်စီးသွားသည်"
+      ]
+    },
+    {
+      "phrase": "go to the wall",
+      "type": "idiom",
+      "forms": [
+        "goes to the wall",
+        "went to the wall",
+        "gone to the wall",
+        "going to the wall"
+      ],
+      "burmese": [
+        "လုပ်ငန်း အရှုံးပေါ်ပြီး ပျက်သွားသည်"
+      ]
+    },
+    {
+      "phrase": "sniff around",
+      "type": "phrasal_verb",
+      "forms": [
+        "sniffs around",
+        "sniffed around",
+        "sniffing around"
+      ],
+      "burmese": [
+        "သတင်းရရန် လျှောက်စုံစမ်းသည်"
+      ]
+    },
+    {
+      "phrase": "go overboard",
+      "type": "idiom",
+      "forms": [
+        "goes overboard",
+        "went overboard",
+        "gone overboard",
+        "going overboard"
+      ],
+      "burmese": [
+        "လိုအပ်သည်ထက် အလွန်အကျူး လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "go down a treat",
+      "type": "idiom",
+      "forms": [
+        "goes down a treat",
+        "went down a treat",
+        "gone down a treat",
+        "going down a treat"
+      ],
+      "burmese": [
+        "လူတွေ အလွန်ကြိုက်ကြသည်"
+      ]
+    },
+    {
+      "phrase": "circumstantial evidence",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "အခြေအနေများမှတစ်ဆင့် အကြောင်းအရာကို ခန့်မှန်းသက်သေပြသည့် အထောက်အထား"
+      ]
+    },
+    {
+      "phrase": "sniff out",
+      "type": "phrasal_verb",
+      "forms": [
+        "sniffs out",
+        "sniffed out",
+        "sniffing out"
+      ],
+      "burmese": [
+        "ခြေရာခံရှာဖော်သည်"
+      ]
+    },
+    {
+      "phrase": "go down the rabbit hole",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "စူးစမ်းရင်း ပိုမိုရှုပ်ထွေးသည့် အကြောင်းအရာထဲ နစ်သွားသည်"
+      ]
+    },
+    {
+      "phrase": "go down the tubes",
+      "type": "idiom",
+      "forms": [
+        "goes down the tubes",
+        "went down the tubes",
+        "gone down the tubes",
+        "going down the tubes"
+      ],
+      "burmese": [
+        "ပျက်စီးကျရှုံးသွားသည်"
+      ]
+    },
+    {
+      "phrase": "go down the toilet",
+      "type": "idiom",
+      "forms": [
+        "goes down the toilet",
+        "went down the toilet",
+        "gone down the toilet",
+        "going down the toilet"
+      ],
+      "burmese": [
+        "ပျက်စီး၊ အလဟဿဖြစ်သွားသည်"
+      ]
+    },
+    {
+      "phrase": "sock away",
+      "type": "phrasal_verb",
+      "forms": [
+        "socks away",
+        "socked away",
+        "socking away"
+      ],
+      "burmese": [
+        "နောင်အတွက် ငွေကို စုထားသည်"
+      ]
+    },
+    {
+      "phrase": "go whole hog",
+      "type": "idiom",
+      "forms": [
+        "goes whole hog",
+        "went whole hog",
+        "gone whole hog",
+        "going whole hog",
+        "go the whole hog",
+        "goes the whole hog",
+        "went the whole hog",
+        "gone the whole hog",
+        "going the whole hog"
+      ],
+      "burmese": [
+        "အကုန်အစင် လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "physical evidence",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "မှုခင်းနှင့် ဆက်စပ်သည့် ပစ္စည်း သက်သေအထောက်အထား"
+      ]
+    },
+    {
+      "phrase": "go through the roof",
+      "type": "idiom",
+      "forms": [
+        "goes through the roof",
+        "went through the roof",
+        "gone through the roof",
+        "going through the roof"
+      ],
+      "burmese": [
+        "အလွန်ဒေါသထွက်သည်",
+        "ဈေးနှုန်း အလွန်မြင့်တက်သွားသည်"
+      ]
+    },
+    {
+      "phrase": "soften up",
+      "type": "phrasal_verb",
+      "forms": [
+        "softens up",
+        "softened up",
+        "softening up"
+      ],
+      "burmese": [
+        "အားနည်းလာအောင် လုပ်သည်",
+        "လိုရာတောင်းဆိုမီ စိတ်ပျော့အောင်လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "go through hell",
+      "type": "idiom",
+      "forms": [
+        "goes through hell",
+        "went through hell",
+        "gone through hell",
+        "going through hell"
+      ],
+      "burmese": [
+        "အလွန်ဆိုးရွားသည့် အတွေ့အကြုံကို ခံစားရသည်"
+      ]
+    },
+    {
+      "phrase": "go through the mill",
+      "type": "idiom",
+      "forms": [
+        "goes through the mill",
+        "went through the mill",
+        "gone through the mill",
+        "going through the mill"
+      ],
+      "burmese": [
+        "ခက်ခဲပင်ပန်းသည့် အတွေ့အကြုံကို ဖြတ်သန်းရသည်"
+      ]
+    },
+    {
+      "phrase": "soak up",
+      "type": "phrasal_verb",
+      "forms": [
+        "soaks up",
+        "soaked up",
+        "soaking up"
+      ],
+      "burmese": [
+        "စုပ်ယူသည်",
+        "ဗဟုသုတ သို့မဟုတ် ပတ်ဝန်းကျင်ကို စိတ်ပါဝင်စားစွာ ခံစားယူသည်"
+      ]
+    },
+    {
+      "phrase": "go for a song",
+      "type": "idiom",
+      "forms": [
+        "goes for a song",
+        "went for a song",
+        "gone for a song",
+        "going for a song"
+      ],
+      "burmese": [
+        "ဈေးအလွန်သက်သာစွာ ရောင်းရသည်"
+      ]
+    },
+    {
+      "phrase": "chain of custody",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "သက်သေပစ္စည်းကို ဘယ်သူထိန်းသိမ်းခဲ့ကြောင်း လက်ဆင့်ကမ်းမှတ်တမ်း"
+      ]
+    },
+    {
+      "phrase": "go into your shell",
+      "type": "idiom",
+      "forms": [
+        "go into my shell",
+        "went into my shell",
+        "goes into her shell",
+        "going into your shell"
+      ],
+      "burmese": [
+        "သူများနှင့် မပေါင်းဘဲ ကိုယ့်ဘာသာ နေတော့သည်"
+      ]
+    },
+    {
+      "phrase": "sound off",
+      "type": "phrasal_verb",
+      "forms": [
+        "sounds off",
+        "sounded off",
+        "sounding off"
+      ],
+      "burmese": [
+        "ကိုယ့်အမြင်ကို ကျယ်ကျယ်လောင်လောင် ထုတ်ပြောသည်"
+      ]
+    },
+    {
+      "phrase": "grease the wheels",
+      "type": "idiom",
+      "forms": [
+        "greases the wheels",
+        "greased the wheels",
+        "greasing the wheels"
+      ],
+      "burmese": [
+        "အလုပ်ချောမွေ့အောင် ကူညီသည်",
+        "အလုပ်ပြီးဖို့ လာဘ်ပေးသည်"
+      ]
+    },
+    {
+      "phrase": "grease your palm",
+      "type": "idiom",
+      "forms": [
+        "greases your palm",
+        "greased your palm",
+        "greasing your palm"
+      ],
+      "burmese": [
+        "လာဘ်ငွေပေးသည်"
+      ]
+    },
+    {
+      "phrase": "grin and bear it",
+      "type": "idiom",
+      "forms": [
+        "grins and bears it",
+        "grinned and bore it",
+        "grinning and bearing it"
+      ],
+      "burmese": [
+        "မကြိုက်ပေမဲ့ မညည်းညူဘဲ သည်းခံသည်"
+      ]
+    },
+    {
+      "phrase": "sound out",
+      "type": "phrasal_verb",
+      "forms": [
+        "sounds out",
+        "sounded out",
+        "sounding out"
+      ],
+      "burmese": [
+        "အမြင် သို့မဟုတ် ဆန္ဒကို စမ်းမေးသည်"
+      ]
+    },
+    {
+      "phrase": "person of interest",
+      "type": "expression",
+      "forms": [
+        "persons of interest",
+        "people of interest"
+      ],
+      "burmese": [
+        "အမှုနှင့်ဆက်စပ်၍ စုံစမ်းလိုသူ"
+      ]
+    },
+    {
+      "phrase": "hand on heart",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "စိတ်ရင်းဖြင့် အမှန်အတိုင်း"
+      ]
+    },
+    {
+      "phrase": "hang a left",
+      "type": "idiom",
+      "forms": [
+        "hangs a left",
+        "hung a left",
+        "hanging a left"
+      ],
+      "burmese": [
+        "ဘယ်ဘက်ကို ကွေ့သည်"
+      ]
+    },
+    {
+      "phrase": "spark off",
+      "type": "phrasal_verb",
+      "forms": [
+        "sparks off",
+        "sparked off",
+        "sparking off"
+      ],
+      "burmese": [
+        "ဖြစ်ပေါ်လာစေသည်"
+      ]
+    },
+    {
+      "phrase": "hang a right",
+      "type": "idiom",
+      "forms": [
+        "hangs a right",
+        "hung a right",
+        "hanging a right"
+      ],
+      "burmese": [
+        "ညာဘက်ကို ကွေ့သည်"
+      ]
+    },
+    {
+      "phrase": "hang your head",
+      "type": "idiom",
+      "forms": [
+        "hang my head",
+        "hung my head",
+        "hangs his head",
+        "hanging your head"
+      ],
+      "burmese": [
+        "အရှက် သို့မဟုတ် ဝမ်းနည်းမှုကြောင့် ခေါင်းငုံ့နေသည်"
+      ]
+    },
+    {
+      "phrase": "spin off",
+      "type": "phrasal_verb",
+      "forms": [
+        "spins off",
+        "spun off",
+        "spinning off"
+      ],
+      "burmese": [
+        "မူလလုပ်ငန်းမှ သီးခြားလုပ်ငန်း ခွဲထုတ်သည်"
+      ]
+    },
+    {
+      "phrase": "have a ball",
+      "type": "idiom",
+      "forms": [
+        "has a ball",
+        "had a ball",
+        "having a ball"
+      ],
+      "burmese": [
+        "အလွန်ပျော်ရွှင်စွာ အချိန်ကုန်သည်"
+      ]
+    },
+    {
+      "phrase": "material witness",
+      "type": "expression",
+      "forms": [
+        "material witnesses"
+      ],
+      "burmese": [
+        "အမှုအတွက် အရေးကြီးသည့် သက်သေခံသူ"
+      ]
+    },
+    {
+      "phrase": "have a cow",
+      "type": "idiom",
+      "forms": [
+        "has a cow",
+        "had a cow",
+        "having a cow"
+      ],
+      "burmese": [
+        "အသေးအဖွဲကြောင့် အလွန်စိတ်ဆိုး၊ စိတ်လှုပ်ရှားသည်"
+      ]
+    },
+    {
+      "phrase": "have kittens",
+      "type": "idiom",
+      "forms": [
+        "has kittens",
+        "had kittens",
+        "having kittens"
+      ],
+      "burmese": [
+        "အလွန်စိတ်ပူ၊ စိတ်လှုပ်ရှားသည်"
+      ]
+    },
+    {
+      "phrase": "sponge off",
+      "type": "phrasal_verb",
+      "forms": [
+        "sponges off",
+        "sponged off",
+        "sponging off"
+      ],
+      "burmese": [
+        "သူတစ်ပါးကို မှီခိုကပ်စားသည်"
+      ]
+    },
+    {
+      "phrase": "have sticky fingers",
+      "type": "idiom",
+      "forms": [
+        "has sticky fingers",
+        "had sticky fingers",
+        "having sticky fingers"
+      ],
+      "burmese": [
+        "သူများပစ္စည်း ခိုးတတ်သည်"
+      ]
+    },
+    {
+      "phrase": "have a green thumb",
+      "type": "idiom",
+      "forms": [
+        "has a green thumb",
+        "had a green thumb",
+        "having a green thumb",
+        "have green fingers",
+        "has green fingers",
+        "had green fingers",
+        "having green fingers"
+      ],
+      "burmese": [
+        "အပင်စိုက်ပျိုးရာတွင် ကျွမ်းကျင်သည်"
+      ]
+    },
+    {
+      "phrase": "hostile witness",
+      "type": "expression",
+      "forms": [
+        "hostile witnesses"
+      ],
+      "burmese": [
+        "မိမိကို ခေါ်ယူသက်သေခံစေသူဘက်ကို ဆန့်ကျင်သည့် သက်သေ"
+      ]
+    },
+    {
+      "phrase": "square away",
+      "type": "phrasal_verb",
+      "forms": [
+        "squares away",
+        "squared away",
+        "squaring away"
+      ],
+      "burmese": [
+        "စနစ်တကျ ပြင်ဆင်ပြီးစီးစေသည်"
+      ]
+    },
+    {
+      "phrase": "have a sweet tooth",
+      "type": "idiom",
+      "forms": [
+        "has a sweet tooth",
+        "had a sweet tooth",
+        "having a sweet tooth"
+      ],
+      "burmese": [
+        "အချိုစားရတာ အလွန်ကြိုက်သည်"
+      ]
+    },
+    {
+      "phrase": "have a tin ear",
+      "type": "idiom",
+      "forms": [
+        "has a tin ear",
+        "had a tin ear",
+        "having a tin ear"
+      ],
+      "burmese": [
+        "အသံအနိမ့်အမြင့်ကို ကောင်းကောင်း မခွဲနိုင်သည်",
+        "သူများခံစားချက်ကို နားမလည်သည်"
+      ]
+    },
+    {
+      "phrase": "square off",
+      "type": "phrasal_verb",
+      "forms": [
+        "squares off",
+        "squared off",
+        "squaring off"
+      ],
+      "burmese": [
+        "တိုက်ခိုက်ယှဉ်ပြိုင်ရန် ရင်ဆိုင်သည်"
+      ]
+    },
+    {
+      "phrase": "have your work cut out",
+      "type": "idiom",
+      "forms": [
+        "has her work cut out",
+        "had my work cut out",
+        "having your work cut out"
+      ],
+      "burmese": [
+        "အလုပ်ပြီးဖို့ အလွန်ကြိုးစားရမည်"
+      ]
+    },
+    {
+      "phrase": "hit the jackpot",
+      "type": "idiom",
+      "forms": [
+        "hits the jackpot",
+        "hitting the jackpot"
+      ],
+      "burmese": [
+        "ငွေအများကြီး ကံစမ်းပေါက်သည်",
+        "အလွန်ကံကောင်းပြီး အောင်မြင်မှုကြီး ရသည်"
+      ]
+    },
+    {
+      "phrase": "expert witness",
+      "type": "expression",
+      "forms": [
+        "expert witnesses"
+      ],
+      "burmese": [
+        "ကျွမ်းကျင်မှုဖြင့် သက်သေခံသည့် ပညာရှင်"
+      ]
+    },
+    {
+      "phrase": "hit the hay",
+      "type": "idiom",
+      "forms": [
+        "hits the hay",
+        "hitting the hay"
+      ],
+      "burmese": [
+        "အိပ်ရာဝင်သည်"
+      ]
+    },
+    {
+      "phrase": "square up",
+      "type": "phrasal_verb",
+      "forms": [
+        "squares up",
+        "squared up",
+        "squaring up"
+      ],
+      "burmese": [
+        "ရန်ဖြစ်ရန် အသင့်ပြင်သည်",
+        "အကြွေးရှင်းသည်"
+      ]
+    },
+    {
+      "phrase": "hit the sack",
+      "type": "idiom",
+      "forms": [
+        "hits the sack",
+        "hitting the sack"
+      ],
+      "burmese": [
+        "အိပ်ရာဝင်သည်"
+      ]
+    },
+    {
+      "phrase": "hit the bottle",
+      "type": "idiom",
+      "forms": [
+        "hits the bottle",
+        "hitting the bottle"
+      ],
+      "burmese": [
+        "အရက် အလွန်အကျွံသောက်သည်"
+      ]
+    },
+    {
+      "phrase": "squirrel away",
+      "type": "phrasal_verb",
+      "forms": [
+        "squirrels away",
+        "squirreled away",
+        "squirreling away"
+      ],
+      "burmese": [
+        "နောင်သုံးရန် တိတ်တဆိတ် သိမ်းထားသည်"
+      ]
+    },
+    {
+      "phrase": "hit the books",
+      "type": "idiom",
+      "forms": [
+        "hits the books",
+        "hitting the books"
+      ],
+      "burmese": [
+        "စာကို အားစိုက်ကျက်သည်"
+      ]
+    },
+    {
+      "phrase": "hit the ceiling",
+      "type": "idiom",
+      "forms": [
+        "hits the ceiling",
+        "hitting the ceiling"
+      ],
+      "burmese": [
+        "ရုတ်တရက် အလွန်ဒေါသထွက်သည်"
+      ]
+    },
+    {
+      "phrase": "state's evidence",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "အစိုးရတရားလိုဘက်အတွက် သက်သေထွက်ဆိုချက်"
+      ]
+    },
+    {
+      "phrase": "stack up",
+      "type": "phrasal_verb",
+      "forms": [
+        "stacks up",
+        "stacked up",
+        "stacking up"
+      ],
+      "burmese": [
+        "များလာသည်",
+        "နှိုင်းယှဉ်ကြည့်လျှင် အဆင့်မီသည်"
+      ]
+    },
+    {
+      "phrase": "hit the roof",
+      "type": "idiom",
+      "forms": [
+        "hits the roof",
+        "hitting the roof"
+      ],
+      "burmese": [
+        "ရုတ်တရက် အလွန်ဒေါသထွက်သည်"
+      ]
+    },
+    {
+      "phrase": "hit the headlines",
+      "type": "idiom",
+      "forms": [
+        "hits the headlines",
+        "hitting the headlines"
+      ],
+      "burmese": [
+        "သတင်းကြီး ဖြစ်လာသည်"
+      ]
+    },
+    {
+      "phrase": "hit the high spots",
+      "type": "idiom",
+      "forms": [
+        "hits the high spots",
+        "hitting the high spots"
+      ],
+      "burmese": [
+        "အဓိကအချက်များကိုသာ အကျဉ်းချုပ်ပြောသည်"
+      ]
+    },
+    {
+      "phrase": "stake out",
+      "type": "phrasal_verb",
+      "forms": [
+        "stakes out",
+        "staked out",
+        "staking out"
+      ],
+      "burmese": [
+        "လျှို့ဝှက် စောင့်ကြည့်သည်",
+        "ကိုယ့်နေရာကို သတ်မှတ်ယူသည်"
+      ]
+    },
+    {
+      "phrase": "hit the panic button",
+      "type": "idiom",
+      "forms": [
+        "hits the panic button",
+        "hitting the panic button"
+      ],
+      "burmese": [
+        "အရေးပေါ်သဘောဖြင့် ကြောက်လန့်တုံ့ပြန်သည်"
+      ]
+    },
+    {
+      "phrase": "bench warrant",
+      "type": "expression",
+      "forms": [
+        "bench warrants"
+      ],
+      "burmese": [
+        "တရားရုံးအမိန့် မလိုက်နာသူကို ဖမ်းရန် တရားသူကြီးထုတ်ဝရမ်း"
+      ]
+    },
+    {
+      "phrase": "hit pay dirt",
+      "type": "idiom",
+      "forms": [
+        "hits pay dirt",
+        "hitting pay dirt"
+      ],
+      "burmese": [
+        "ရှာနေသည့် တန်ဖိုးရှိသောအရာကို တွေ့သည်"
+      ]
+    },
+    {
+      "phrase": "stave off",
+      "type": "phrasal_verb",
+      "forms": [
+        "staves off",
+        "staved off",
+        "staving off"
+      ],
+      "burmese": [
+        "အန္တရာယ်ကို ယာယီ တားဆီးထားသည်"
+      ]
+    },
+    {
+      "phrase": "hold court",
+      "type": "idiom",
+      "forms": [
+        "holds court",
+        "held court",
+        "holding court"
+      ],
+      "burmese": [
+        "ဝိုင်းနေသူများ၏ အာရုံကိုယူပြီး စကားပြောနေသည်"
+      ]
+    },
+    {
+      "phrase": "hold the fort",
+      "type": "idiom",
+      "forms": [
+        "holds the fort",
+        "held the fort",
+        "holding the fort"
+      ],
+      "burmese": [
+        "တခြားသူမရှိချိန် အလုပ် သို့မဟုတ် နေရာကို ထိန်းထားပေးသည်"
+      ]
+    },
+    {
+      "phrase": "stir up",
+      "type": "phrasal_verb",
+      "forms": [
+        "stirs up",
+        "stirred up",
+        "stirring up"
+      ],
+      "burmese": [
+        "ပြဿနာ သို့မဟုတ် ခံစားချက်ကို ဆွပေးသည်"
+      ]
+    },
+    {
+      "phrase": "hold the bag",
+      "type": "idiom",
+      "forms": [
+        "holds the bag",
+        "held the bag",
+        "holding the bag"
+      ],
+      "burmese": [
+        "သူများလုပ်သည့်ပြဿနာအတွက် တစ်ယောက်တည်း တာဝန်ခံရသည်"
+      ]
+    },
+    {
+      "phrase": "plead guilty",
+      "type": "expression",
+      "forms": [
+        "pleads guilty",
+        "pleaded guilty",
+        "pleading guilty",
+        "pled guilty"
+      ],
+      "burmese": [
+        "အပြစ်ရှိကြောင်း ဝန်ခံသည်"
+      ]
+    },
+    {
+      "phrase": "hold a candle to",
+      "type": "idiom",
+      "forms": [
+        "holds a candle to",
+        "held a candle to",
+        "holding a candle to"
+      ],
+      "burmese": [
+        "အစွမ်းအစ သို့မဟုတ် အရည်အသွေးချင်း ယှဉ်နိုင်သည်"
+      ]
+    },
+    {
+      "phrase": "stow away",
+      "type": "phrasal_verb",
+      "forms": [
+        "stows away",
+        "stowed away",
+        "stowing away"
+      ],
+      "burmese": [
+        "ယာဉ်ပေါ် တိတ်တဆိတ် လိုက်ပါသည်",
+        "သိမ်းဆည်းထားသည်"
+      ]
+    },
+    {
+      "phrase": "hog the limelight",
+      "type": "idiom",
+      "forms": [
+        "hogs the limelight",
+        "hogged the limelight",
+        "hogging the limelight"
+      ],
+      "burmese": [
+        "သူများထက် ပိုပြီး လူတွေအာရုံစိုက်အောင် နေရာယူသည်"
+      ]
+    },
+    {
+      "phrase": "jump the gun",
+      "type": "idiom",
+      "forms": [
+        "jumps the gun",
+        "jumped the gun",
+        "jumping the gun"
+      ],
+      "burmese": [
+        "အချိန်မတန်ခင် လောပြီး စလုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "jump the shark",
+      "type": "idiom",
+      "forms": [
+        "jumps the shark",
+        "jumped the shark",
+        "jumping the shark"
+      ],
+      "burmese": [
+        "ယခင်အရည်အသွေးမှ ယိုယွင်းစပြုလာသည်"
+      ]
+    },
+    {
+      "phrase": "string up",
+      "type": "phrasal_verb",
+      "forms": [
+        "strings up",
+        "strung up",
+        "stringing up"
+      ],
+      "burmese": [
+        "ကြိုးနှင့် ချိတ်တင်သည်",
+        "ကြိုးဆွဲသတ်သည်"
+      ]
+    },
+    {
+      "phrase": "plead not guilty",
+      "type": "expression",
+      "forms": [
+        "pleads not guilty",
+        "pleaded not guilty",
+        "pleading not guilty",
+        "pled not guilty"
+      ],
+      "burmese": [
+        "အပြစ်မရှိကြောင်း ထွက်ဆိုသည်"
+      ]
+    },
+    {
+      "phrase": "jump through hoops",
+      "type": "idiom",
+      "forms": [
+        "jumps through hoops",
+        "jumped through hoops",
+        "jumping through hoops"
+      ],
+      "burmese": [
+        "လိုချင်တာရဖို့ စည်းကမ်းအဆင့်ဆင့်ကို အခက်အခဲခံ ဖြတ်သန်းသည်"
+      ]
+    },
+    {
+      "phrase": "jump on the bandwagon",
+      "type": "idiom",
+      "forms": [
+        "jumps on the bandwagon",
+        "jumped on the bandwagon",
+        "jumping on the bandwagon"
+      ],
+      "burmese": [
+        "ခေတ်စားအောင်မြင်နေသောကြောင့် ဝင်ပါလိုက်သည်"
+      ]
+    },
+    {
+      "phrase": "stumble upon",
+      "type": "phrasal_verb",
+      "forms": [
+        "stumbles upon",
+        "stumbled upon",
+        "stumbling upon"
+      ],
+      "burmese": [
+        "မမျှော်လင့်ဘဲ ရှာတွေ့သည်"
+      ]
+    },
+    {
+      "phrase": "join the club",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "ကိုယ်လည်း အလားတူ အခက်အခဲကြုံနေရသည်"
+      ]
+    },
+    {
+      "phrase": "keep a stiff upper lip",
+      "type": "idiom",
+      "forms": [
+        "keeps a stiff upper lip",
+        "kept a stiff upper lip",
+        "keeping a stiff upper lip"
+      ],
+      "burmese": [
+        "ဒုက္ခကြုံသော်လည်း ခံစားချက်မပြဘဲ ကြံ့ကြံ့ခံသည်"
+      ]
+    },
+    {
+      "phrase": "swallow up",
+      "type": "phrasal_verb",
+      "forms": [
+        "swallows up",
+        "swallowed up",
+        "swallowing up"
+      ],
+      "burmese": [
+        "မျိုပျောက်သွားစေသည်",
+        "အကုန် သိမ်းယူသည်"
+      ]
+    },
+    {
+      "phrase": "keep body and soul together",
+      "type": "idiom",
+      "forms": [
+        "keeps body and soul together",
+        "kept body and soul together",
+        "keeping body and soul together"
+      ],
+      "burmese": [
+        "အသက်ရှင်ရုံသာ ငွေရှာနိုင်သည်"
+      ]
+    },
+    {
+      "phrase": "plead the fifth",
+      "type": "expression",
+      "forms": [
+        "pleads the fifth",
+        "pleaded the fifth",
+        "pleading the fifth",
+        "pled the fifth"
+      ],
+      "burmese": [
+        "ကိုယ့်ကို အပြစ်ဖြစ်စေမည့် မေးခွန်းကို ဖြေရန် ငြင်းသည်"
+      ]
+    },
+    {
+      "phrase": "keep your powder dry",
+      "type": "idiom",
+      "forms": [
+        "keep my powder dry",
+        "kept my powder dry",
+        "keeps his powder dry",
+        "keeping your powder dry"
+      ],
+      "burmese": [
+        "လိုအပ်လာလျှင် အဆင်သင့်ဖြစ်အောင် ပြင်ထားသည်"
+      ]
+    },
+    {
+      "phrase": "keep your shirt on",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "စိတ်အေးအေးထားပါ"
+      ]
+    },
+    {
+      "phrase": "sweep aside",
+      "type": "phrasal_verb",
+      "forms": [
+        "sweeps aside",
+        "swept aside",
+        "sweeping aside"
+      ],
+      "burmese": [
+        "ဂရုမစိုက်ဘဲ ဖယ်ပစ်သည်"
+      ]
+    },
+    {
+      "phrase": "kick the bucket",
+      "type": "idiom",
+      "forms": [
+        "kicks the bucket",
+        "kicked the bucket",
+        "kicking the bucket"
+      ],
+      "burmese": [
+        "သေသည်"
+      ]
+    },
+    {
+      "phrase": "kick the habit",
+      "type": "idiom",
+      "forms": [
+        "kicks the habit",
+        "kicked the habit",
+        "kicking the habit"
+      ],
+      "burmese": [
+        "စွဲလမ်းနေသည့် အကျင့်ကို ဖြတ်နိုင်သည်"
+      ]
+    },
+    {
+      "phrase": "no contest",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "စွဲချက်ကို ဝန်မခံသော်လည်း မကန့်ကွက်ကြောင်း ထွက်ဆိုခြင်း"
+      ]
+    },
+    {
+      "phrase": "sweep up",
+      "type": "phrasal_verb",
+      "forms": [
+        "sweeps up",
+        "swept up",
+        "sweeping up"
+      ],
+      "burmese": [
+        "လှည်းကျင်းစုသိမ်းသည်"
+      ]
+    },
+    {
+      "phrase": "kick up a fuss",
+      "type": "idiom",
+      "forms": [
+        "kicks up a fuss",
+        "kicked up a fuss",
+        "kicking up a fuss"
+      ],
+      "burmese": [
+        "မကျေနပ်လို့ ဆူဆူညံညံ ကန့်ကွက်သည်"
+      ]
+    },
+    {
+      "phrase": "kick up a stink",
+      "type": "idiom",
+      "forms": [
+        "kicks up a stink",
+        "kicked up a stink",
+        "kicking up a stink"
+      ],
+      "burmese": [
+        "မကျေနပ်လို့ အကြီးအကျယ် ကန့်ကွက်သည်"
+      ]
+    },
+    {
+      "phrase": "tail off",
+      "type": "phrasal_verb",
+      "forms": [
+        "tails off",
+        "tailed off",
+        "tailing off"
+      ],
+      "burmese": [
+        "တဖြည်းဖြည်း လျော့နည်းပြီး ပျောက်သွားသည်"
+      ]
+    },
+    {
+      "phrase": "kick up your heels",
+      "type": "idiom",
+      "forms": [
+        "kick up my heels",
+        "kicked up my heels",
+        "kicks up her heels",
+        "kicking up your heels"
+      ],
+      "burmese": [
+        "လွတ်လွတ်လပ်လပ် ပျော်မြူးသည်"
+      ]
+    },
+    {
+      "phrase": "kill time",
+      "type": "idiom",
+      "forms": [
+        "kills time",
+        "killed time",
+        "killing time"
+      ],
+      "burmese": [
+        "အချိန်ကုန်အောင် တစ်ခုခုလုပ်နေသည်"
+      ]
+    },
+    {
+      "phrase": "hung jury",
+      "type": "expression",
+      "forms": [
+        "hung juries"
+      ],
+      "burmese": [
+        "ဂျူရီများ အဆုံးအဖြတ်ကို သဘောမတူနိုင်ခြင်း"
+      ]
+    },
+    {
+      "phrase": "knock on wood",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "ကံကောင်းမှု မပျက်စေလိုလို့ ဆုတောင်းပြောသည့်စကား"
+      ]
+    },
+    {
+      "phrase": "tamper with",
+      "type": "phrasal_verb",
+      "forms": [
+        "tampers with",
+        "tampered with",
+        "tampering with"
+      ],
+      "burmese": [
+        "ခွင့်မရှိဘဲ လက်ဝင်ပြင်ကာ ပျက်စီးစေသည်"
+      ]
+    },
+    {
+      "phrase": "knock your socks off",
+      "type": "idiom",
+      "forms": [
+        "knocks your socks off",
+        "knocked your socks off",
+        "knocking your socks off"
+      ],
+      "burmese": [
+        "အလွန်အံ့သြ၊ အထင်ကြီးသွားစေသည်"
+      ]
+    },
+    {
+      "phrase": "know which way is up",
+      "type": "idiom",
+      "forms": [
+        "knew which way was up",
+        "know which way was up"
+      ],
+      "burmese": [
+        "ဘယ်လိုပြုမူလုပ်ဆောင်ရမလဲကို နားလည်သည်"
+      ]
+    },
+    {
+      "phrase": "taper off",
+      "type": "phrasal_verb",
+      "forms": [
+        "tapers off",
+        "tapered off",
+        "tapering off"
+      ],
+      "burmese": [
+        "တဖြည်းဖြည်း လျော့နည်းသွားသည်"
+      ]
+    },
+    {
+      "phrase": "lay down the law",
+      "type": "idiom",
+      "forms": [
+        "lays down the law",
+        "laid down the law",
+        "laying down the law"
+      ],
+      "burmese": [
+        "ဘာလုပ်ရမလဲကို တင်းတင်းကြပ်ကြပ် အမိန့်ပေးသည်"
+      ]
+    },
+    {
+      "phrase": "lay it on thick",
+      "type": "idiom",
+      "forms": [
+        "lays it on thick",
+        "laid it on thick",
+        "laying it on thick"
+      ],
+      "burmese": [
+        "ချီးမွမ်း၊ ပြောဆိုရာတွင် အလွန်အကျူး ချဲ့ကားသည်"
+      ]
+    },
+    {
+      "phrase": "grand jury",
+      "type": "expression",
+      "forms": [
+        "grand juries"
+      ],
+      "burmese": [
+        "ရာဇဝတ်မှု စွဲဆိုရန် သက်သေလုံလောက်မှု ရှိမရှိ ဆုံးဖြတ်သည့် ဂျူရီအဖွဲ့"
+      ]
+    },
+    {
+      "phrase": "tease out",
+      "type": "phrasal_verb",
+      "forms": [
+        "teases out",
+        "teased out",
+        "teasing out"
+      ],
+      "burmese": [
+        "ခက်ခဲသည့် အချက်များကို ဖြည်းဖြည်း ရှာဖော်သည်"
+      ]
+    },
+    {
+      "phrase": "lay cards on the table",
+      "type": "idiom",
+      "forms": [
+        "lays cards on the table",
+        "laid cards on the table",
+        "laying cards on the table",
+        "cards on the table"
+      ],
+      "burmese": [
+        "ကိုယ့်ရည်ရွယ်ချက်ကို ရှင်းရှင်းလင်းလင်း ဖော်ပြသည်"
+      ]
+    },
+    {
+      "phrase": "lead a double life",
+      "type": "idiom",
+      "forms": [
+        "leads a double life",
+        "led a double life",
+        "leading a double life"
+      ],
+      "burmese": [
+        "သူများမသိသည့် နောက်ကွယ်ဘဝတစ်မျိုးနှင့် နေထိုင်သည်"
+      ]
+    },
+    {
+      "phrase": "high and dry",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "အကူအညီမရှိဘဲ ဒုက္ခရောက်နေသော"
+      ]
+    },
+    {
+      "phrase": "tee off",
+      "type": "phrasal_verb",
+      "forms": [
+        "tees off",
+        "teed off",
+        "teeing off"
+      ],
+      "burmese": [
+        "ဂေါက်ဘောလုံးကို စရိုက်သည်",
+        "စိတ်ဆိုးအောင်လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "in the lurch",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "အကူအညီမရှိဘဲ ဒုက္ခထဲ ကျန်နေရသော"
+      ]
+    },
+    {
+      "phrase": "accessory after the fact",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ပြစ်မှုကျူးလွန်ပြီးသူကို သိလျက်နှင့် ဖမ်းမမိအောင် ကူညီဖုံးကွယ်ပေးသူ"
+      ]
+    },
+    {
+      "phrase": "let fly",
+      "type": "idiom",
+      "forms": [
+        "lets fly",
+        "letting fly"
+      ],
+      "burmese": [
+        "ပြင်းပြင်းထန်ထန် အော်ဟစ်ဝေဖန်သည်",
+        "ရုတ်တရက် ပစ်ခတ်တိုက်ခိုက်သည်"
+      ]
+    },
+    {
+      "phrase": "thin out",
+      "type": "phrasal_verb",
+      "forms": [
+        "thins out",
+        "thinned out",
+        "thinning out"
+      ],
+      "burmese": [
+        "လူ သို့မဟုတ် ပစ္စည်း အရေအတွက် လျော့လာသည်"
+      ]
+    },
+    {
+      "phrase": "let loose",
+      "type": "idiom",
+      "forms": [
+        "lets loose",
+        "letting loose"
+      ],
+      "burmese": [
+        "ထိန်းထားရာမှ လွှတ်ပေးသည်",
+        "လွတ်လွတ်လပ်လပ် ပျော်သည်"
+      ]
+    },
+    {
+      "phrase": "let sleeping dogs lie",
+      "type": "idiom",
+      "forms": [
+        "lets sleeping dogs lie",
+        "letting sleeping dogs lie"
+      ],
+      "burmese": [
+        "အတိတ်ပြဿနာကို ပြန်မနှိုးဆွဘဲ ထားလိုက်သည်"
+      ]
+    },
+    {
+      "phrase": "thrash out",
+      "type": "phrasal_verb",
+      "forms": [
+        "thrashes out",
+        "thrashed out",
+        "thrashing out"
+      ],
+      "burmese": [
+        "ဆွေးနွေးငြင်းခုံ၍ ဖြေရှင်းသည်"
+      ]
+    },
+    {
+      "phrase": "let rip",
+      "type": "idiom",
+      "forms": [
+        "lets rip",
+        "letting rip"
+      ],
+      "burmese": [
+        "အစွမ်းကုန် လွတ်လွတ်လပ်လပ် လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "contempt of court",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "တရားရုံးအာဏာကို မလေးစားခြင်း သို့မဟုတ် အမိန့်မလိုက်နာခြင်း"
+      ]
+    },
+    {
+      "phrase": "lick your wounds",
+      "type": "idiom",
+      "forms": [
+        "licks your wounds",
+        "licked your wounds",
+        "licking your wounds"
+      ],
+      "burmese": [
+        "ရှုံးနိမ့်ဒဏ်ရာမှ သက်သာလာအောင် ခဏနားသည်"
+      ]
+    },
+    {
+      "phrase": "tick off",
+      "type": "phrasal_verb",
+      "forms": [
+        "ticks off",
+        "ticked off",
+        "ticking off"
+      ],
+      "burmese": [
+        "စာရင်းပေါ် အမှန်ခြစ်သည်",
+        "ဆူပူသည်",
+        "စိတ်ဆိုးစေသည်"
+      ]
+    },
+    {
+      "phrase": "lift the lid",
+      "type": "idiom",
+      "forms": [
+        "lifts the lid",
+        "lifted the lid",
+        "lifting the lid"
+      ],
+      "burmese": [
+        "ဖုံးကွယ်ထားသည့်အကြောင်းကို ဖော်ထုတ်သည်"
+      ]
+    },
+    {
+      "phrase": "light a fire under",
+      "type": "idiom",
+      "forms": [
+        "lights a fire under",
+        "lit a fire under",
+        "lighting a fire under"
+      ],
+      "burmese": [
+        "တစ်ယောက်ယောက်ကို မြန်မြန်အလုပ်လုပ်အောင် တွန်းအားပေးသည်"
+      ]
+    },
+    {
+      "phrase": "live a lie",
+      "type": "idiom",
+      "forms": [
+        "lives a lie",
+        "lived a lie",
+        "living a lie"
+      ],
+      "burmese": [
+        "အမှန်ကိုဖုံးကွယ်ပြီး သူများအထင်လွဲအောင် နေထိုင်သည်"
+      ]
+    },
+    {
+      "phrase": "touch down",
+      "type": "phrasal_verb",
+      "forms": [
+        "touches down",
+        "touched down",
+        "touching down"
+      ],
+      "burmese": [
+        "လေယာဉ် ဆင်းသက်သည်"
+      ]
+    },
+    {
+      "phrase": "obstruction of justice",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "အမှုစုံစမ်းခြင်း သို့မဟုတ် တရားစီရင်ခြင်းကို တားဆီးနှောင့်ယှက်ခြင်း"
+      ]
+    },
+    {
+      "phrase": "live from hand to mouth",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "ရသမျှ ဝင်ငွေဖြင့် တစ်နေ့စာတစ်နေ့ စားသောက်နေရသည်"
+      ]
+    },
+    {
+      "phrase": "live and breathe",
+      "type": "idiom",
+      "forms": [
+        "lives and breathes",
+        "lived and breathed",
+        "living and breathing"
+      ],
+      "burmese": [
+        "ကိစ္စတစ်ခုကို ဘဝတစ်ခုလုံးလို စိတ်ဝင်စားနှစ်မြှုပ်ထားသည်"
+      ]
+    },
+    {
+      "phrase": "tough out",
+      "type": "phrasal_verb",
+      "forms": [
+        "toughs out",
+        "toughed out",
+        "toughing out"
+      ],
+      "burmese": [
+        "ကြိတ်မှိတ် တောင့်ခံကျော်လွှားသည်"
+      ]
+    },
+    {
+      "phrase": "lock horns",
+      "type": "idiom",
+      "forms": [
+        "locks horns",
+        "locked horns",
+        "locking horns"
+      ],
+      "burmese": [
+        "ပြင်းပြင်းထန်ထန် ထိပ်တိုက်တွေ့ ငြင်းခုံသည်"
+      ]
+    },
+    {
+      "phrase": "look daggers",
+      "type": "idiom",
+      "forms": [
+        "looks daggers",
+        "looked daggers",
+        "looking daggers"
+      ],
+      "burmese": [
+        "ဒေါသတကြီး စူးစူးရဲရဲ စိုက်ကြည့်သည်"
+      ]
+    },
+    {
+      "phrase": "trail off",
+      "type": "phrasal_verb",
+      "forms": [
+        "trails off",
+        "trailed off",
+        "trailing off"
+      ],
+      "burmese": [
+        "အသံ တဖြည်းဖြည်း ပျော့သွားပြီး ရပ်သွားသည်"
+      ]
+    },
+    {
+      "phrase": "look like death",
+      "type": "idiom",
+      "forms": [
+        "looks like death",
+        "looked like death",
+        "looking like death"
+      ],
+      "burmese": [
+        "နေမကောင်း၊ အလွန်ပင်ပန်းနေပုံ ပေါက်သည်"
+      ]
+    },
+    {
+      "phrase": "statute of limitations",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "အမှုစွဲဆိုခွင့်ရှိသည့် အချိန်ကာလ သတ်မှတ်ချက်"
+      ]
+    },
+    {
+      "phrase": "lose your shirt",
+      "type": "idiom",
+      "forms": [
+        "lose my shirt",
+        "lost my shirt",
+        "loses his shirt",
+        "losing your shirt"
+      ],
+      "burmese": [
+        "ငွေအများကြီး သို့မဟုတ် ပိုင်ဆိုင်သမျှ ဆုံးရှုံးသည်"
+      ]
+    },
+    {
+      "phrase": "lose your rag",
+      "type": "idiom",
+      "forms": [
+        "lose my rag",
+        "lost my rag",
+        "loses her rag",
+        "losing your rag"
+      ],
+      "burmese": [
+        "ရုတ်တရက် စိတ်ဆိုးသည်"
+      ]
+    },
+    {
+      "phrase": "trickle down",
+      "type": "phrasal_verb",
+      "forms": [
+        "trickles down",
+        "trickled down",
+        "trickling down"
+      ],
+      "burmese": [
+        "အပေါ်အဆင့်မှ အောက်သို့ တဖြည်းဖြည်း ရောက်လာသည်"
+      ]
+    },
+    {
+      "phrase": "lose your marbles",
+      "type": "idiom",
+      "forms": [
+        "lose my marbles",
+        "lost my marbles",
+        "loses his marbles",
+        "losing your marbles"
+      ],
+      "burmese": [
+        "စိတ်မမှန်တော့သလို ဖြစ်သည်"
+      ]
+    },
+    {
+      "phrase": "lose the plot",
+      "type": "idiom",
+      "forms": [
+        "loses the plot",
+        "lost the plot",
+        "losing the plot"
+      ],
+      "burmese": [
+        "ဘာဖြစ်နေမှန်း မသိတော့ဘဲ စိတ်ထိန်းမရဖြစ်သည်"
+      ]
+    },
+    {
+      "phrase": "double jeopardy",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "တူညီသည့် ပြစ်မှုအတွက် ထပ်မံတရားစွဲခံရခြင်း"
+      ]
+    },
+    {
+      "phrase": "trip up",
+      "type": "phrasal_verb",
+      "forms": [
+        "trips up",
+        "tripped up",
+        "tripping up"
+      ],
+      "burmese": [
+        "ခြေချော်လဲသည်",
+        "အမှားလုပ်မိအောင် လှည့်ထောင်သည်"
+      ]
+    },
+    {
+      "phrase": "make a meal of",
+      "type": "idiom",
+      "forms": [
+        "makes a meal of",
+        "made a meal of",
+        "making a meal of"
+      ],
+      "burmese": [
+        "လွယ်သည့်ကိစ္စကို မလိုအပ်ဘဲ ခက်ခဲကြီးကျယ်အောင် လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "make a hash of",
+      "type": "idiom",
+      "forms": [
+        "makes a hash of",
+        "made a hash of",
+        "making a hash of"
+      ],
+      "burmese": [
+        "အလုပ်ကို တလွဲတချော် လုပ်ပျက်သည်"
+      ]
+    },
+    {
+      "phrase": "trot out",
+      "type": "phrasal_verb",
+      "forms": [
+        "trots out",
+        "trotted out",
+        "trotting out"
+      ],
+      "burmese": [
+        "ဟောင်းနွမ်းသည့် အကြောင်းပြချက်ကို ထပ်ထုတ်ပြောသည်"
+      ]
+    },
+    {
+      "phrase": "make a splash",
+      "type": "idiom",
+      "forms": [
+        "makes a splash",
+        "made a splash",
+        "making a splash"
+      ],
+      "burmese": [
+        "လူတွေအာရုံစိုက် အထင်ကြီးလာအောင် လုပ်နိုင်သည်"
+      ]
+    },
+    {
+      "phrase": "make a song and dance",
+      "type": "idiom",
+      "forms": [
+        "makes a song and dance",
+        "made a song and dance",
+        "making a song and dance"
+      ],
+      "burmese": [
+        "အသေးအဖွဲကို မလိုအပ်ဘဲ ကြီးကြီးကျယ်ကျယ် လုပ်ပြောနေသည်"
+      ]
+    },
+    {
+      "phrase": "power of attorney",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ကိုယ်စား ဆုံးဖြတ်ဆောင်ရွက်ရန် ဥပဒေအရ လွှဲအပ်ထားသည့် အာဏာ"
+      ]
+    },
+    {
+      "phrase": "make tracks",
+      "type": "idiom",
+      "forms": [
+        "makes tracks",
+        "made tracks",
+        "making tracks"
+      ],
+      "burmese": [
+        "အလျင်အမြန် ထွက်ခွာသည်"
+      ]
+    },
+    {
+      "phrase": "tuck away",
+      "type": "phrasal_verb",
+      "forms": [
+        "tucks away",
+        "tucked away",
+        "tucking away"
+      ],
+      "burmese": [
+        "လုံခြုံစွာ သိမ်းထားသည်",
+        "စားပစ်သည်"
+      ]
+    },
+    {
+      "phrase": "move heaven and earth",
+      "type": "idiom",
+      "forms": [
+        "moves heaven and earth",
+        "moved heaven and earth",
+        "moving heaven and earth"
+      ],
+      "burmese": [
+        "ဖြစ်အောင် အစွမ်းကုန် ကြိုးစားသည်"
+      ]
+    },
+    {
+      "phrase": "nip it in the bud",
+      "type": "idiom",
+      "forms": [
+        "nips it in the bud",
+        "nipped it in the bud",
+        "nipping it in the bud"
+      ],
+      "burmese": [
+        "စဖြစ်ခါစမှာပင် တားဆီးပစ်သည်"
+      ]
+    },
+    {
+      "phrase": "tuck in",
+      "type": "phrasal_verb",
+      "forms": [
+        "tucks in",
+        "tucked in",
+        "tucking in"
+      ],
+      "burmese": [
+        "အိပ်ရာထဲ စောင်လုံအောင် ခြုံပေးသည်",
+        "အားရပါးရ စစားသည်"
+      ]
+    },
+    {
+      "phrase": "open a can of worms",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "ပြဿနာအသစ် အများကြီး ထွက်လာစေသည်"
+      ]
+    },
+    {
+      "phrase": "open the floodgates",
+      "type": "idiom",
+      "forms": [
+        "opens the floodgates",
+        "opened the floodgates",
+        "opening the floodgates"
+      ],
+      "burmese": [
+        "တားထားရာမှ ပြဿနာ သို့မဟုတ် ခံစားချက်များ အများကြီးထွက်လာစေသည်"
+      ]
+    },
+    {
+      "phrase": "cease and desist",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "လုပ်နေသည့် အနှောင့်အယှက် သို့မဟုတ် ချိုးဖောက်မှုကို ရပ်ရန် ဥပဒေအရ အမိန့်"
+      ]
+    },
+    {
+      "phrase": "tuck into",
+      "type": "phrasal_verb",
+      "forms": [
+        "tucks into",
+        "tucked into",
+        "tucking into"
+      ],
+      "burmese": [
+        "အားရပါးရ စားသည်"
+      ]
+    },
+    {
+      "phrase": "paint the town red",
+      "type": "idiom",
+      "forms": [
+        "paints the town red",
+        "painted the town red",
+        "painting the town red"
+      ],
+      "burmese": [
+        "အပြင်ထွက်ပြီး အားရပါးရ ပျော်မြူးသည်"
+      ]
+    },
+    {
+      "phrase": "paper over the cracks",
+      "type": "idiom",
+      "forms": [
+        "papers over the cracks",
+        "papered over the cracks",
+        "papering over the cracks"
+      ],
+      "burmese": [
+        "ပြဿနာအရင်းကို မရှင်းဘဲ အပေါ်ယံဖုံးကွယ်သည်"
+      ]
+    },
+    {
+      "phrase": "pass the buck",
+      "type": "idiom",
+      "forms": [
+        "passes the buck",
+        "passed the buck",
+        "passing the buck"
+      ],
+      "burmese": [
+        "ကိုယ့်တာဝန်ကို သူများထံ လွှဲချသည်"
+      ]
+    },
+    {
+      "phrase": "tune in",
+      "type": "phrasal_verb",
+      "forms": [
+        "tunes in",
+        "tuned in",
+        "tuning in"
+      ],
+      "burmese": [
+        "ရေဒီယို သို့မဟုတ် ရုပ်သံကို ဖွင့်နားထောင်သည်",
+        "အာရုံစိုက်သည်"
+      ]
+    },
+    {
+      "phrase": "pay lip service",
+      "type": "idiom",
+      "forms": [
+        "pays lip service",
+        "paid lip service",
+        "paying lip service"
+      ],
+      "burmese": [
+        "အပြောဖြင့်သာ ထောက်ခံပြီး လက်တွေ့မလုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "civil suit",
+      "type": "expression",
+      "forms": [
+        "civil suits"
+      ],
+      "burmese": [
+        "အရပ်ဘက် တရားစွဲဆိုမှု"
+      ]
+    },
+    {
+      "phrase": "pay through the nose",
+      "type": "idiom",
+      "forms": [
+        "pays through the nose",
+        "paid through the nose",
+        "paying through the nose"
+      ],
+      "burmese": [
+        "တန်တာထက် ပိုပြီး ငွေပေးရသည်"
+      ]
+    },
+    {
+      "phrase": "tune out",
+      "type": "phrasal_verb",
+      "forms": [
+        "tunes out",
+        "tuned out",
+        "tuning out"
+      ],
+      "burmese": [
+        "အာရုံမစိုက်ဘဲ လျစ်လျူရှုသည်"
+      ]
+    },
+    {
+      "phrase": "pay the piper",
+      "type": "idiom",
+      "forms": [
+        "pays the piper",
+        "paid the piper",
+        "paying the piper"
+      ],
+      "burmese": [
+        "ကိုယ်လုပ်ခဲ့သည့်ကိစ္စ၏ အကျိုးဆက်ကို ခံရသည်"
+      ]
+    },
+    {
+      "phrase": "play cat and mouse",
+      "type": "idiom",
+      "forms": [
+        "plays cat and mouse",
+        "played cat and mouse",
+        "playing cat and mouse"
+      ],
+      "burmese": [
+        "တစ်ဖက်သားကို လွှတ်လိုက်ဖမ်းလိုက်ဖြင့် ကစားသည်"
+      ]
+    },
+    {
+      "phrase": "vouch for",
+      "type": "phrasal_verb",
+      "forms": [
+        "vouches for",
+        "vouched for",
+        "vouching for"
+      ],
+      "burmese": [
+        "ယုံကြည်ရကြောင်း အာမခံပေးသည်"
+      ]
+    },
+    {
+      "phrase": "play fast and loose",
+      "type": "idiom",
+      "forms": [
+        "plays fast and loose",
+        "played fast and loose",
+        "playing fast and loose"
+      ],
+      "burmese": [
+        "စည်းကမ်း၊ ကတိကို လျစ်လျူရှုပြီး လုပ်ချင်သလို လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "wrongful death",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "တစ်ဦး၏ အပြစ်ရှိသည့် လုပ်ရပ်ကြောင့် သေဆုံးမှု"
+      ]
+    },
+    {
+      "phrase": "play second fiddle",
+      "type": "idiom",
+      "forms": [
+        "plays second fiddle",
+        "played second fiddle",
+        "playing second fiddle"
+      ],
+      "burmese": [
+        "သူများနောက်က ဒုတိယနေရာသာ ရသည်"
+      ]
+    },
+    {
+      "phrase": "wade in",
+      "type": "phrasal_verb",
+      "forms": [
+        "wades in",
+        "waded in",
+        "wading in"
+      ],
+      "burmese": [
+        "ဆွေးနွေးမှု သို့မဟုတ် ရန်ပွဲထဲ ရုတ်တရက် ဝင်ပါသည်"
+      ]
+    },
+    {
+      "phrase": "play possum",
+      "type": "idiom",
+      "forms": [
+        "plays possum",
+        "played possum",
+        "playing possum"
+      ],
+      "burmese": [
+        "သေနေ၊ အိပ်နေသလို ဟန်ဆောင်သည်"
+      ]
+    },
+    {
+      "phrase": "play the field",
+      "type": "idiom",
+      "forms": [
+        "plays the field",
+        "played the field",
+        "playing the field"
+      ],
+      "burmese": [
+        "ချစ်သူတစ်ယောက်တည်း မထားဘဲ လူအများနှင့် တွဲသည်"
+      ]
+    },
+    {
+      "phrase": "play the fool",
+      "type": "idiom",
+      "forms": [
+        "plays the fool",
+        "played the fool",
+        "playing the fool"
+      ],
+      "burmese": [
+        "ပေါ့ပေါ့ပျက်ပျက် ပြုမူနေသည်"
+      ]
+    },
+    {
+      "phrase": "wade through",
+      "type": "phrasal_verb",
+      "forms": [
+        "wades through",
+        "waded through",
+        "wading through"
+      ],
+      "burmese": [
+        "ပင်ပန်းစွာ ပြီးအောင် ဖတ် သို့မဟုတ် လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "criminal record",
+      "type": "expression",
+      "forms": [
+        "criminal records"
+      ],
+      "burmese": [
+        "ယခင် ပြစ်မှုမှတ်တမ်း"
+      ]
+    },
+    {
+      "phrase": "play the victim",
+      "type": "idiom",
+      "forms": [
+        "plays the victim",
+        "played the victim",
+        "playing the victim"
+      ],
+      "burmese": [
+        "ကိုယ့်ကိုယ်ကို မတရားခံရသူအဖြစ် ဟန်လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "play devil's advocate",
+      "type": "idiom",
+      "forms": [
+        "plays devil's advocate",
+        "played devil's advocate",
+        "playing devil's advocate"
+      ],
+      "burmese": [
+        "အငြင်းအခုံအားကောင်းအောင် မိမိမယုံသည့် ဆန့်ကျင်ဘက်အမြင်ကို တင်ပြသည်"
+      ]
+    },
+    {
+      "phrase": "wash away",
+      "type": "phrasal_verb",
+      "forms": [
+        "washes away",
+        "washed away",
+        "washing away"
+      ],
+      "burmese": [
+        "ရေနှင့် မျောပါပျောက်သွားသည်"
+      ]
+    },
+    {
+      "phrase": "poke your nose in",
+      "type": "idiom",
+      "forms": [
+        "poke my nose in",
+        "poked my nose in",
+        "pokes his nose in",
+        "poking your nose in"
+      ],
+      "burmese": [
+        "သူများကိစ္စကို စပ်စုဝင်ပါသည်"
+      ]
+    },
+    {
+      "phrase": "pull a fast one",
+      "type": "idiom",
+      "forms": [
+        "pulls a fast one",
+        "pulled a fast one",
+        "pulling a fast one"
+      ],
+      "burmese": [
+        "လှည့်စားသည်"
+      ]
+    },
+    {
+      "phrase": "wash down",
+      "type": "phrasal_verb",
+      "forms": [
+        "washes down",
+        "washed down",
+        "washing down"
+      ],
+      "burmese": [
+        "ရေဖြင့် ဆေးချသည်",
+        "အစာမျိုလွယ်ရန် အရည်သောက်ချသည်"
+      ]
+    },
+    {
+      "phrase": "pull out all the stops",
+      "type": "idiom",
+      "forms": [
+        "pulls out all the stops",
+        "pulled out all the stops",
+        "pulling out all the stops"
+      ],
+      "burmese": [
+        "အောင်မြင်အောင် တတ်နိုင်သမျှ အကုန်လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "rap sheet",
+      "type": "expression",
+      "forms": [
+        "rap sheets"
+      ],
+      "burmese": [
+        "ဖမ်းဆီးခံရမှုနှင့် ပြစ်မှုမှတ်တမ်း"
+      ]
+    },
+    {
+      "phrase": "pull your punches",
+      "type": "idiom",
+      "forms": [
+        "pull my punches",
+        "pulled my punches",
+        "pulls his punches",
+        "pulling your punches"
+      ],
+      "burmese": [
+        "အားမပါဘဲ ထိုးသည်",
+        "ဝေဖန်ရာတွင် အားနာပြီး လျှော့ပြောသည်"
+      ]
+    },
+    {
+      "phrase": "push the envelope",
+      "type": "idiom",
+      "forms": [
+        "pushes the envelope",
+        "pushed the envelope",
+        "pushing the envelope"
+      ],
+      "burmese": [
+        "လက်ရှိစံနှုန်းအကန့်အသတ်ကို ကျော်လွန်လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "wash out",
+      "type": "phrasal_verb",
+      "forms": [
+        "washes out",
+        "washed out",
+        "washing out"
+      ],
+      "burmese": [
+        "ဆေးကြောဖယ်ရှားသည်",
+        "မိုးကြောင့် အစီအစဉ် ပျက်သွားသည်"
+      ]
+    },
+    {
+      "phrase": "push the boat out",
+      "type": "idiom",
+      "forms": [
+        "pushes the boat out",
+        "pushed the boat out",
+        "pushing the boat out"
+      ],
+      "burmese": [
+        "အထူးအခါမို့ ငွေအများကြီးသုံးပြီး ပျော်ပွဲလုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "put a sock in it",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "ပါးစပ်ပိတ်"
+      ]
+    },
+    {
+      "phrase": "clean record",
+      "type": "expression",
+      "forms": [
+        "clean records"
+      ],
+      "burmese": [
+        "ပြစ်မှုကင်းသည့် မှတ်တမ်း"
+      ]
+    },
+    {
+      "phrase": "water down",
+      "type": "phrasal_verb",
+      "forms": [
+        "waters down",
+        "watered down",
+        "watering down"
+      ],
+      "burmese": [
+        "ရေရော၍ ကျဲစေသည်",
+        "ပြင်းထန်မှု လျှော့ချသည်"
+      ]
+    },
+    {
+      "phrase": "put on the dog",
+      "type": "idiom",
+      "forms": [
+        "puts on the dog",
+        "putting on the dog"
+      ],
+      "burmese": [
+        "အထင်ကြီးအောင် ငွေရှိ၊ အဆင့်မြင့်သလို ဟန်လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "put paid to",
+      "type": "idiom",
+      "forms": [
+        "puts paid to",
+        "putting paid to"
+      ],
+      "burmese": [
+        "အစီအစဉ် သို့မဟုတ် မျှော်လင့်ချက်ကို ပျက်စီးစေသည်"
+      ]
+    },
+    {
+      "phrase": "weigh down",
+      "type": "phrasal_verb",
+      "forms": [
+        "weighs down",
+        "weighed down",
+        "weighing down"
+      ],
+      "burmese": [
+        "လေးလံဖိစီးစေသည်",
+        "စိတ်ဖိစီးစေသည်"
+      ]
+    },
+    {
+      "phrase": "put the boot in",
+      "type": "idiom",
+      "forms": [
+        "puts the boot in",
+        "putting the boot in"
+      ],
+      "burmese": [
+        "အားနည်းနေသူကို ပိုပြီး ဝေဖန်တိုက်ခိုက်သည်"
+      ]
+    },
+    {
+      "phrase": "put the kibosh on",
+      "type": "idiom",
+      "forms": [
+        "puts the kibosh on",
+        "putting the kibosh on"
+      ],
+      "burmese": [
+        "တားဆီးပြီး အဆုံးသတ်ပစ်သည်"
+      ]
+    },
+    {
+      "phrase": "cold case",
+      "type": "expression",
+      "forms": [
+        "cold cases"
+      ],
+      "burmese": [
+        "ကြာမြင့်စွာ မဖြေရှင်းနိုင်သေးသည့် အမှု"
+      ]
+    },
+    {
+      "phrase": "put your oar in",
+      "type": "idiom",
+      "forms": [
+        "put my oar in",
+        "puts his oar in",
+        "putting your oar in"
+      ],
+      "burmese": [
+        "သူများကိစ္စကို မဖိတ်ခေါ်ဘဲ ဝင်ပြောသည်"
+      ]
+    },
+    {
+      "phrase": "weigh in",
+      "type": "phrasal_verb",
+      "forms": [
+        "weighs in",
+        "weighed in",
+        "weighing in"
+      ],
+      "burmese": [
+        "ဆွေးနွေးမှုတွင် ကိုယ့်အမြင် ဝင်ပြောသည်",
+        "ကိုယ်အလေးချိန် ချိန်သည်"
+      ]
+    },
+    {
+      "phrase": "put your thinking cap on",
+      "type": "idiom",
+      "forms": [
+        "put my thinking cap on",
+        "puts his thinking cap on",
+        "putting your thinking cap on"
+      ],
+      "burmese": [
+        "ဖြေရှင်းနည်းရအောင် သေချာစဉ်းစားသည်"
+      ]
+    },
+    {
+      "phrase": "put words in your mouth",
+      "type": "idiom",
+      "forms": [
+        "puts words in your mouth",
+        "putting words in your mouth",
+        "put words in my mouth"
+      ],
+      "burmese": [
+        "မပြောခဲ့သည့်စကားကို ပြောသယောင် လုပ်သည်"
+      ]
+    },
+    {
+      "phrase": "weigh up",
+      "type": "phrasal_verb",
+      "forms": [
+        "weighs up",
+        "weighed up",
+        "weighing up"
+      ],
+      "burmese": [
+        "ကောင်းကျိုးဆိုးကျိုး ချိန်ဆစဉ်းစားသည်"
+      ]
+    },
+    {
+      "phrase": "raise a stink",
+      "type": "idiom",
+      "forms": [
+        "raises a stink",
+        "raised a stink",
+        "raising a stink"
+      ],
+      "burmese": [
+        "အကြီးအကျယ် ကန့်ကွက်ဆူညံသည်"
+      ]
+    },
+    {
+      "phrase": "raise the roof",
+      "type": "idiom",
+      "forms": [
+        "raises the roof",
+        "raised the roof",
+        "raising the roof"
+      ],
+      "burmese": [
+        "အလွန်ကျယ်လောင်စွာ အော်ဟစ်ပျော်မြူးသည်"
+      ]
+    },
+    {
+      "phrase": "hot pursuit",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "ထွက်ပြေးသူကို အနောက်မှ ကပ်လိုက်ဖမ်းခြင်း"
+      ]
+    },
+    {
+      "phrase": "whip out",
+      "type": "phrasal_verb",
+      "forms": [
+        "whips out",
+        "whipped out",
+        "whipping out"
+      ],
+      "burmese": [
+        "အလျင်အမြန် ဆွဲထုတ်သည်"
+      ]
+    },
+    {
+      "phrase": "raise hell",
+      "type": "idiom",
+      "forms": [
+        "raises hell",
+        "raised hell",
+        "raising hell"
+      ],
+      "burmese": [
+        "ဆူဆူညံညံ ပြဿနာရှာသည်",
+        "ပြင်းထန်စွာ ကန့်ကွက်သည်"
+      ]
+    },
+    {
+      "phrase": "read the riot act",
+      "type": "idiom",
+      "forms": [
+        "reads the riot act",
+        "reading the riot act"
+      ],
+      "burmese": [
+        "စည်းကမ်းလိုက်နာဖို့ ပြင်းပြင်းထန်ထန် သတိပေးဆူပူသည်"
+      ]
+    },
+    {
+      "phrase": "rest on your laurels",
+      "type": "idiom",
+      "forms": [
+        "rest on my laurels",
+        "rested on my laurels",
+        "rests on her laurels",
+        "resting on your laurels"
+      ],
+      "burmese": [
+        "အရင်အောင်မြင်မှုကိုပဲ အားကိုးပြီး မကြိုးစားတော့သည်"
+      ]
+    },
+    {
+      "phrase": "whip up",
+      "type": "phrasal_verb",
+      "forms": [
+        "whips up",
+        "whipped up",
+        "whipping up"
+      ],
+      "burmese": [
+        "အမြန် ပြင်ဆင်ဖန်တီးသည်",
+        "ခံစားချက်ကို ပြင်းထန်လာအောင် ဆွသည်"
+      ]
+    },
+    {
+      "phrase": "ride the gravy train",
+      "type": "idiom",
+      "forms": [
+        "rides the gravy train",
+        "rode the gravy train",
+        "ridden the gravy train",
+        "riding the gravy train"
+      ],
+      "burmese": [
+        "အားစိုက်စရာမလိုဘဲ ငွေ၊ အကျိုးအမြတ်များများ ရနေသည်"
+      ]
+    },
+    {
+      "phrase": "sting operation",
+      "type": "expression",
+      "forms": [
+        "sting operations"
+      ],
+      "burmese": [
+        "ထောင်ချောက်ဆင်၍ တရားခံဖမ်းသည့် လျှို့ဝှက်စစ်ဆင်ရေး"
+      ]
+    },
+    {
+      "phrase": "ride high",
+      "type": "idiom",
+      "forms": [
+        "rides high",
+        "rode high",
+        "ridden high",
+        "riding high"
+      ],
+      "burmese": [
+        "အလွန်အောင်မြင်နေသည်"
+      ]
+    },
+    {
+      "phrase": "whittle down",
+      "type": "phrasal_verb",
+      "forms": [
+        "whittles down",
+        "whittled down",
+        "whittling down"
+      ],
+      "burmese": [
+        "တဖြည်းဖြည်း လျှော့ချသည်"
+      ]
+    },
+    {
+      "phrase": "ride roughshod over",
+      "type": "idiom",
+      "forms": [
+        "rides roughshod over",
+        "rode roughshod over",
+        "ridden roughshod over",
+        "riding roughshod over"
+      ],
+      "burmese": [
+        "သူများအခွင့်အရေးကို မငဲ့ဘဲ လုပ်ချင်သလို လုပ်သည်"
+      ]
+    }
+  ]
+}

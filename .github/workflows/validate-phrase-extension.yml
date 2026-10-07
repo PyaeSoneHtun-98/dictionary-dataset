@@ -1,0 +1,54 @@
+name: Validate Phrase Dictionary Extension
+
+on:
+  push:
+    paths:
+      - "PhraseExtensionBatches/**"
+      - "phrase_extension_manifest.json"
+      - "phrase_extension_lookup/**"
+      - "dist/phrases_extension*"
+      - "PhraseBatches/**"
+      - "phrase_manifest.json"
+      - "phrase_lookup/**"
+      - "dist/phrases_v1.json"
+      - "scripts/phrase*.py"
+      - "scripts/*phrase*.py"
+      - "tests/test_phrase*.py"
+      - ".github/workflows/validate-phrase-extension.yml"
+  pull_request:
+    paths:
+      - "PhraseExtensionBatches/**"
+      - "phrase_extension_manifest.json"
+      - "phrase_extension_lookup/**"
+      - "dist/phrases_extension*"
+      - "PhraseBatches/**"
+      - "phrase_manifest.json"
+      - "phrase_lookup/**"
+      - "dist/phrases_v1.json"
+      - "scripts/*phrase*.py"
+      - "tests/test_phrase*.py"
+      - ".github/workflows/validate-phrase-extension.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Test frozen phrase and extension validators
+        run: python -m unittest tests/test_phrase_dictionary.py tests/test_phrase_extension.py
+      - name: Validate extension batches
+        shell: bash
+        run: |
+          for batch in PhraseExtensionBatches/phrase_batch_*.json; do
+            python scripts/validate_phrase_extension_batch.py "$batch"
+          done
+      - name: Verify deterministic manifest and exclusion index
+        run: python scripts/rebuild_phrase_extension_lookup.py
+      - name: Verify separate runtime artifact
+        run: python scripts/build_phrase_extension_artifact.py --check

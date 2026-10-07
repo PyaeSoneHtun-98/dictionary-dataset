@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-07",
+  "baselineCommit": "93803ae",
+  "checks": [
+    {
+      "name": "tests",
+      "exitCode": 0,
+      "output": "......................................\r\n----------------------------------------------------------------------\r\nRan 38 tests in 5.898s\r\n\r\nOK\r\n"
+    },
+    {
+      "name": "lookup",
+      "exitCode": 0,
+      "output": "PASS batches=4 extension=1000 total=4000 lookup=10872 nextBatch=017\r\n"
+    },
+    {
+      "name": "artifact",
+      "exitCode": 0,
+      "output": "PASS canonical=1000 forms=2045 lookup=3045 sha256=6a195e24be5e586771cacb3013bbd7dbf83fb3384e967a6010e7becaf75c2556\r\n"
+    },
+    {
+      "name": "frozen",
+      "exitCode": 0,
+      "output": "warning: unable to access 'C:\\Users\\DELL/.config/git/ignore': Permission denied\n"
+    },
+    {
+      "name": "batch13",
+      "exitCode": 0,
+      "output": "PASS batch=013 entries=250 forms=374\r\n"
+    },
+    {
+      "name": "batch14",
+      "exitCode": 0,
+      "output": "PASS batch=014 entries=250 forms=352\r\n"
+    },
+    {
+      "name": "batch15",
+      "exitCode": 0,
+      "output": "PASS batch=015 entries=250 forms=646\r\n"
+    },
+    {
+      "name": "batch16",
+      "exitCode": 0,
+      "output": "PASS batch=016 entries=250 forms=673\r\n"
+    }
+  ],
+  "testsPassed": 38,
+  "nativeHumanBurmeseSignoff": false,
+  "windowsAppQaPerformed": false
+}

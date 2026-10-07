@@ -63,6 +63,34 @@ The 2026-10-07 continuation added Batches 071–073, prioritizing subtitle usefu
 
 The subsequent continuation completed Batches 074–080 after expanding and reviewing the candidate pool. Editorial decisions, publisher spelling records, validation results and unpublished candidates are documented in `reports/extension_074_080_review_20261007.md` and `staging/batches074_080/`.
 
+## Phrase dictionary and useful idiom extension
+
+Phrase Dictionary **v1.0.0 is frozen** at **3,000 phrases**, **4,827 forms**, and **7,827 lookup keys**. Its source remains under `PhraseBatches/`, with `phrase_manifest.json`, `phrase_lookup/`, `dist/phrases_v1.json`, and `PHRASE_FINALIZATION.md` unchanged.
+
+The separate phrase extension adds **Batches 013–016**, exactly **250 entries per batch**:
+
+- **1,000 new phrases:** 600 idioms, 260 phrasal verbs, and 140 fixed expressions
+- **2,045 stored forms**, **3,045 extension lookup keys**, and **1,128 Burmese meanings**
+- **4,000 combined canonical phrases**, **6,872 forms**, and **10,872 lookup keys**
+- Active state: `phrase_extension_manifest.json`; next batch **017**
+- Source: `PhraseExtensionBatches/phrase_batch_XXX.json`
+- Exclusion index: `phrase_extension_lookup/used_phrase_keys_current.zlib.b64`
+- App artifact: `dist/phrases_extension.json`; counts/hash: `dist/phrases_extension.metadata.json`
+
+Load both `dist/phrases_v1.json` and `dist/phrases_extension.json`. Both use `{ "version": 1, "entries": [...] }` and entries with exactly `phrase`, `type`, `forms`, and `burmese`. Index each canonical and stored form for contiguous, longest-phrase matching over 2–5 subtitle tokens. The compressed lookup files are generation exclusion indexes, not definition payloads. Separated-object patterns, fuzzy matching, and sentence translation are not implemented by these data artifacts.
+
+Validate and synchronize with:
+
+```powershell
+python scripts/validate_phrase_extension_batch.py PhraseExtensionBatches/phrase_batch_016.json --expected-batch 16
+python scripts/rebuild_phrase_extension_lookup.py --write
+python scripts/build_phrase_extension_artifact.py --write
+python scripts/build_phrase_extension_artifact.py --check
+python -m unittest discover -s tests
+```
+
+CI checks batches and deterministic snapshots without changing frozen assets. The review record is `reports/phrase_extension_013_016_review_20261007.md`; authored drafts, peer findings, editorial decisions, and unpublished candidates are in `staging/phrases013_016/`. Native Burmese human sign-off and actual Windows app loading/lookup tests remain outstanding.
+
 ## Layout
 
 ```text

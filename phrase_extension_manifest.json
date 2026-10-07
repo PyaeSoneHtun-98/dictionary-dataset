@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "project": "Subtitle Bridge English-Burmese Phrase Dictionary Extension",
+  "baseRelease": {
+    "version": "1.0.0",
+    "canonicalPhrases": 3000,
+    "batches": 12,
+    "artifact": "dist/phrases_v1.json",
+    "artifactSha256": "951a8bbe54824cf76728393791607798f878a062b19eca63e572278ba8f62926",
+    "lookupKeys": 7827
+  },
+  "entriesPerBatch": 250,
+  "latestBatch": 16,
+  "nextBatch": 17,
+  "extensionBatchCount": 4,
+  "extensionPhrases": 1000,
+  "totalPhrases": 4000,
+  "extensionStoredForms": 2045,
+  "extensionBurmeseMeanings": 1128,
+  "extensionTypeCounts": {
+    "expression": 140,
+    "idiom": 600,
+    "phrasal_verb": 260
+  },
+  "totalTypeCounts": {
+    "expression": 1020,
+    "idiom": 1535,
+    "phrasal_verb": 1445
+  },
+  "batchFilenamePattern": "PhraseExtensionBatches/phrase_batch_XXX.json",
+  "status": "in_progress",
+  "lookup": {
+    "path": "phrase_extension_lookup/used_phrase_keys_current.zlib.b64",
+    "baseLookup": "phrase_lookup/used_phrase_keys_current.zlib.b64",
+    "encoding": "base64(zlib(utf8 newline-separated keys))",
+    "throughBatch": 16,
+    "uniqueLookupKeys": 10872,
+    "sha256": "14d869f923b5e52b9142b6a25fd6618cacc844f68a8bbf54dbe83a2b84fa7718",
+    "sha256Scope": "base64-trimmed"
+  }
+}

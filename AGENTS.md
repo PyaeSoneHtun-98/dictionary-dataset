@@ -491,3 +491,37 @@ After Batch 012:
 
 Phrase Dictionary v1 does not implement fuzzy matching, semantic matching, runtime AI translation, sentence translation, placeholders, separated-object phrasal verbs, cross-cue matching, phrases longer than five tokens, pronunciation, IPA, examples, synonyms/antonyms, UI changes, or macOS work.
 
+---
+
+# Phrase Dictionary Extension — active continuation after phrase v1.0.0
+
+The frozen phrase release contains 3,000 phrases in Batches 001–012. The user authorized 1,000 additional useful phrases, including idioms, in separate Batches 013–016. Further continuation uses the active extension manifest.
+
+Never modify `PhraseBatches/`, `phrase_lookup/`, `phrase_manifest.json`, `dist/phrases_v1.json`, or `PHRASE_FINALIZATION.md` for extension generation. All frozen single-word assets and the separate single-word extension remain unchanged as well.
+
+Use:
+
+- `PhraseExtensionBatches/phrase_batch_XXX.json` — Batch 013 onward, exactly 250 entries each
+- `phrase_extension_manifest.json` — active progress and next batch
+- `phrase_extension_lookup/used_phrase_keys_current.zlib.b64` — frozen phrase keys plus all extension keys
+- `dist/phrases_extension.json` — only new canonical entries, same runtime schema as phrase v1
+- `dist/phrases_extension.metadata.json` — artifact counts and SHA-256
+
+The existing phrase schema, three allowed types, natural independently authored Burmese meanings, maximum three senses, and 2–5-token contiguous matching rules apply unchanged. Useful idioms are a priority. Exclude every frozen and earlier extension canonical/form key. Do not count inflections, pronoun substitutions, article changes, or cosmetic spellings of existing entries as new phrases merely to reach a total. Review variant ownership and semantic overlap manually, in addition to exact collision checks.
+
+For each next batch:
+
+1. Read `phrase_extension_manifest.json` and use `nextBatch`.
+2. Build a substantially larger candidate pool and curate 250 genuinely useful new phrases.
+3. Manually author Burmese meanings and review real useful forms, including irregular verbs.
+4. Run `python scripts/validate_phrase_extension_batch.py PhraseExtensionBatches/phrase_batch_XXX.json --expected-batch XXX`.
+5. Run `python scripts/rebuild_phrase_extension_lookup.py --write`.
+6. Run `python scripts/build_phrase_extension_artifact.py --write` and then `--check`.
+7. Run `python -m unittest tests/test_phrase_dictionary.py tests/test_phrase_extension.py`.
+8. Confirm deterministic snapshot checks, frozen assets unchanged, and commit directly.
+9. Report new canonical/type/form counts, cumulative phrase totals, and next batch.
+
+The extension validator reconstructs ownership from the frozen source/artifact and earlier extension batches; it verifies the frozen hashes and rejects English text, duplicate meanings, and invisible/control characters in new Burmese meanings. The runtime artifact contains definitions; the compressed lookup is only an exclusion namespace. Load both runtime artifacts and index each canonical phrase and form using the same contiguous longest-match contract.
+
+Changes to forms or meanings of existing frozen entries require a separately documented correction/overlay design. New extension batches must not silently republish those entries or alter their owners.
+

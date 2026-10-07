@@ -1,0 +1,168 @@
+[
+  {
+    "phrase": "bring to heel",
+    "action": "reject",
+    "reason": "The active idiom has an intervening object: bring someone/something to heel. The canonical string omits that required object and is unsuitable for contiguous matching. Real passive participle surfaces do not establish the proposed bare active canonical; reject this entry rather than manufacture pronoun variants."
+  },
+  {
+    "phrase": "bring to book",
+    "action": "reject",
+    "reason": "The active idiom has an intervening object: bring someone to book. The canonical string omits that required object and is unsuitable for contiguous matching. Real passive participle surfaces do not establish the proposed bare active canonical; reject this entry rather than manufacture pronoun variants."
+  },
+  {
+    "phrase": "bring to justice",
+    "action": "reject",
+    "reason": "The active idiom has an intervening object: bring someone to justice. The canonical string omits that required object and is unsuitable for contiguous matching. Real passive participle surfaces do not establish the proposed bare active canonical; reject this entry rather than manufacture pronoun variants."
+  },
+  {
+    "phrase": "bring to your knees",
+    "action": "reject",
+    "reason": "The active idiom has an intervening object: bring someone/something to their knees. The canonical string omits that required object and is unsuitable for contiguous matching. Real passive participle surfaces do not establish the proposed bare active canonical; reject this entry rather than manufacture pronoun variants."
+  },
+  {
+    "phrase": "lead by the nose",
+    "action": "reject",
+    "reason": "The active idiom has an intervening object: lead someone by the nose. The canonical string omits that required object and is unsuitable for contiguous matching. Real passive participle surfaces do not establish the proposed bare active canonical; reject this entry rather than manufacture pronoun variants."
+  },
+  {
+    "phrase": "lead up the garden path",
+    "action": "reject",
+    "reason": "The active idiom has an intervening object: lead someone up the garden path. The canonical string omits that required object and is unsuitable for contiguous matching. Real passive participle surfaces do not establish the proposed bare active canonical; reject this entry rather than manufacture pronoun variants."
+  },
+  {
+    "phrase": "put through the wringer",
+    "action": "reject",
+    "reason": "The active idiom has an intervening object: put someone through the wringer. The canonical string omits that required object and is unsuitable for contiguous matching. Real passive participle surfaces do not establish the proposed bare active canonical; reject this entry rather than manufacture pronoun variants."
+  },
+  {
+    "phrase": "rake over the coals",
+    "action": "reject",
+    "reason": "The active idiom has an intervening object: rake someone over the coals. The canonical string omits that required object and is unsuitable for contiguous matching. Real passive participle surfaces do not establish the proposed bare active canonical; reject this entry rather than manufacture pronoun variants."
+  },
+  {
+    "phrase": "run to ground",
+    "action": "reject",
+    "reason": "The active idiom has an intervening object: run someone/something to ground. The canonical string omits that required object and is unsuitable for contiguous matching. Real passive participle surfaces do not establish the proposed bare active canonical; reject this entry rather than manufacture pronoun variants."
+  },
+  {
+    "phrase": "sell down the river",
+    "action": "reject",
+    "reason": "The active idiom has an intervening object: sell someone down the river. The canonical string omits that required object and is unsuitable for contiguous matching. Real passive participle surfaces do not establish the proposed bare active canonical; reject this entry rather than manufacture pronoun variants."
+  },
+  {
+    "phrase": "send packing",
+    "action": "reject",
+    "reason": "The active idiom has an intervening object: send someone packing. The canonical string omits that required object and is unsuitable for contiguous matching. Real passive participle surfaces do not establish the proposed bare active canonical; reject this entry rather than manufacture pronoun variants."
+  },
+  {
+    "phrase": "sweep under the carpet",
+    "action": "reject",
+    "reason": "The active idiom has an intervening object: sweep something under the carpet/rug. The canonical string omits that required object and is unsuitable for contiguous matching. Real passive participle surfaces do not establish the proposed bare active canonical; reject this entry rather than manufacture pronoun variants."
+  },
+  {
+    "phrase": "throw to the wolves",
+    "action": "reject",
+    "reason": "The active idiom has an intervening object: throw someone to the wolves. The canonical string omits that required object and is unsuitable for contiguous matching. Real passive participle surfaces do not establish the proposed bare active canonical; reject this entry rather than manufacture pronoun variants."
+  },
+  {
+    "phrase": "throw under the bus",
+    "action": "reject",
+    "reason": "The active idiom has an intervening object: throw someone under the bus. The canonical string omits that required object and is unsuitable for contiguous matching. Real passive participle surfaces do not establish the proposed bare active canonical; reject this entry rather than manufacture pronoun variants."
+  },
+  {
+    "phrase": "kill with kindness",
+    "action": "reject",
+    "reason": "The active idiom has an intervening object: kill someone with kindness. The canonical string omits that required object and is unsuitable for contiguous matching. Real passive participle surfaces do not establish the proposed bare active canonical; reject this entry rather than manufacture pronoun variants."
+  },
+  {
+    "phrase": "give the slip to",
+    "action": "reject",
+    "reason": "The normal modern idiom is give someone the slip, with an intervening object. Give the slip to occurs in historical publisher examples, but is a dated inverted construction and a weak contemporary subtitle selection; reject under the surplus-pool quality policy."
+  },
+  {
+    "phrase": "drop the other shoe",
+    "action": "reject",
+    "reason": "The selected Burmese sense describes the other shoe dropping, whereas this active canonical makes someone drop it. The usual anticipation idiom is wait for the other shoe to drop; the proposed active string is an unsupported substitute for that construction."
+  },
+  {
+    "phrase": "small fry",
+    "action": "replace",
+    "reason": "The original gloss unnecessarily restricts unimportant people to young people or junior group members. Adults of any age can be small fry.",
+    "replacement": {
+      "phrase": "small fry",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "အရေးမပါသည့် လူများ"
+      ]
+    }
+  },
+  {
+    "phrase": "poor sport",
+    "action": "replace",
+    "reason": "The original gloss is awkward Burmese and substitutes an unprincipled desire to win for the actual inability to take defeat or a joke gracefully.",
+    "replacement": {
+      "phrase": "poor sport",
+      "type": "idiom",
+      "forms": [
+        "poor sports"
+      ],
+      "burmese": [
+        "အရှုံးကို မခံနိုင်သူ",
+        "အပျော်သဘော စနောက်တာကို လက်မခံနိုင်သူ"
+      ]
+    }
+  },
+  {
+    "phrase": "good sport",
+    "action": "replace",
+    "reason": "The original Burmese has an unnatural losing-ability construction and misses the ability to take teasing or join in good-humoredly.",
+    "replacement": {
+      "phrase": "good sport",
+      "type": "idiom",
+      "forms": [
+        "good sports"
+      ],
+      "burmese": [
+        "အနိုင်အရှုံးကို သဘောထားကြီးစွာ လက်ခံတတ်သူ",
+        "အပျော်သဘော စနောက်တာကို ခံနိုင်ပြီး လိုက်ပါပျော်ရွှင်တတ်သူ"
+      ]
+    }
+  },
+  {
+    "phrase": "do the honors",
+    "action": "replace",
+    "reason": "The original gloss reverses agency: the person performs a hosting or ceremonial task, rather than merely being invited to start something.",
+    "replacement": {
+      "phrase": "do the honors",
+      "type": "idiom",
+      "forms": [
+        "does the honors",
+        "did the honors",
+        "done the honors",
+        "doing the honors"
+      ],
+      "burmese": [
+        "ဧည့်ခံကျွေးမွေးပေးသည်",
+        "အစပြုပေးရမည့် တာဝန်ကို ဆောင်ရွက်ပေးသည်"
+      ]
+    }
+  },
+  {
+    "phrase": "eat your hat",
+    "action": "replace",
+    "reason": "The original gloss reverses the condition: the speaker promises an absurd act if their prediction is wrong, not if it is right. The idiom normally appears as a conditional assurance; remove the mechanically inflected ate/eats/eating surfaces and keep useful base possessor variants.",
+    "replacement": {
+      "phrase": "eat your hat",
+      "type": "idiom",
+      "forms": [
+        "eat my hat",
+        "eat his hat",
+        "eat her hat"
+      ],
+      "burmese": [
+        "ကိုယ်ထင်တာမှားရင် ဘာမဆိုလုပ်မယ်လို့ အခိုင်အမာ ပြောသည်"
+      ]
+    }
+  }
+]

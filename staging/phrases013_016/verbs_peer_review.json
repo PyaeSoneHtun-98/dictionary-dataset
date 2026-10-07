@@ -1,0 +1,1186 @@
+[
+  {
+    "phrase": "take into custody",
+    "action": "reject",
+    "reason": "The active canonical omits the mandatory intervening object: take someone into custody. Past passive taken into custody is real, but that does not make this object-gap base a contiguous canonical idiom. Prefer a complete independently selected unit."
+  },
+  {
+    "phrase": "hold without bail",
+    "action": "reject",
+    "reason": "The active canonical omits the mandatory intervening object: hold someone without bail. Held without bail is a valid passive surface, but the incomplete active base is unsuitable as this canonical expression."
+  },
+  {
+    "phrase": "sign a confession",
+    "action": "reject",
+    "reason": "Transparent verb plus object, rather than a fixed idiom, phrasal verb, or noncompositional expression. Confession itself carries the lexical content."
+  },
+  {
+    "phrase": "mopping up operation",
+    "action": "reject",
+    "reason": "Low incremental lookup value: transparent noun elaboration of mop up, which is already a stronger candidate in this pool; normally mopping-up operation when attributive."
+  },
+  {
+    "phrase": "denial of service",
+    "action": "reject",
+    "reason": "Specialist network terminology with low independent subtitle value relative to the abundant general-language candidates; normally part of denial-of-service attack rather than a free-standing conversational unit."
+  },
+  {
+    "phrase": "working capital",
+    "action": "reject",
+    "reason": "Low-priority specialist accounting noun unit; the useful core capital vocabulary is already available and general conversational/figurative candidates are stronger for this selection."
+  },
+  {
+    "phrase": "agent provocateur",
+    "action": "reject",
+    "reason": "Established loan expression, but relatively specialist political terminology with limited immediate subtitle usefulness compared with abundant common idioms."
+  },
+  {
+    "phrase": "soften up",
+    "action": "replace",
+    "reason": "The second gloss contains a wording error: လိုရာပြောမရမီ means before being unable to say what is wanted. It should express softening someone before making a request.",
+    "replacement": {
+      "phrase": "soften up",
+      "type": "phrasal_verb",
+      "forms": [
+        "softens up",
+        "softened up",
+        "softening up"
+      ],
+      "burmese": [
+        "အားနည်းလာအောင် လုပ်သည်",
+        "လိုရာတောင်းဆိုမီ စိတ်ပျော့အောင်လုပ်သည်"
+      ]
+    }
+  },
+  {
+    "phrase": "trail off",
+    "action": "replace",
+    "reason": "The gloss အသံ တဖြည်းဖြည်း တိုးသွား can be ambiguous to an instant-lookup reader. State fading directly.",
+    "replacement": {
+      "phrase": "trail off",
+      "type": "phrasal_verb",
+      "forms": [
+        "trails off",
+        "trailed off",
+        "trailing off"
+      ],
+      "burmese": [
+        "အသံ တဖြည်းဖြည်း ပျော့သွားပြီး ရပ်သွားသည်"
+      ]
+    }
+  },
+  {
+    "phrase": "reasonable doubt",
+    "action": "replace",
+    "reason": "The existing wording awkwardly implies doubt as a reason for believing guilt. This unit means reasoned uncertainty about the guilt claim.",
+    "replacement": {
+      "phrase": "reasonable doubt",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "အပြစ်ရှိတယ်ဆိုတာအပေါ် ခိုင်လုံတဲ့ သံသယ"
+      ]
+    }
+  },
+  {
+    "phrase": "contempt of court",
+    "action": "replace",
+    "reason": "Hostility or hatred is not required. The unit covers disrespect for the authority of the court or disobedience of its order.",
+    "replacement": {
+      "phrase": "contempt of court",
+      "type": "expression",
+      "forms": [],
+      "burmese": [
+        "တရားရုံးအာဏာကို မလေးစားခြင်း သို့မဟုတ် အမိန့်မလိုက်နာခြင်း"
+      ]
+    }
+  },
+  {
+    "phrase": "walk all over",
+    "action": "replace",
+    "reason": "This is a figurative idiom with intensifier all, rather than an ordinary particle/prepositional phrasal verb. Cambridge categorizes it under idioms.",
+    "replacement": {
+      "phrase": "walk all over",
+      "type": "idiom",
+      "forms": [
+        "walks all over",
+        "walked all over",
+        "walking all over"
+      ],
+      "burmese": [
+        "နိုင်ရာစီးပြီး ဖိနှိပ်သည်"
+      ]
+    }
+  },
+  {
+    "phrase": "fall in",
+    "action": "replace",
+    "reason": "The military line-up sense is a genuine phrasal verb, not a fixed nonverbal expression.",
+    "replacement": {
+      "phrase": "fall in",
+      "type": "phrasal_verb",
+      "forms": [
+        "falls in",
+        "fell in",
+        "falling in",
+        "fallen in"
+      ],
+      "burmese": [
+        "တပ်ဖွဲ့အဖြစ် တန်းစီနေရာယူသည်"
+      ]
+    }
+  },
+  {
+    "phrase": "rubber stamp",
+    "action": "replace",
+    "reason": "The open two-word canonical is a noun unit; the verb normally has hyphenated spelling. Add clear figurative noun readings and a useful plural, rather than implying missing verb inflections.",
+    "replacement": {
+      "phrase": "rubber stamp",
+      "type": "idiom",
+      "forms": [
+        "rubber stamps"
+      ],
+      "burmese": [
+        "မစဉ်းစားမစစ်ဆေးဘဲ ပေးတဲ့ အတည်ပြုချက်",
+        "သူများဆုံးဖြတ်တာကိုသာ အလိုက်သင့် အတည်ပြုပေးသူ"
+      ]
+    }
+  },
+  {
+    "phrase": "silent partner",
+    "action": "replace",
+    "reason": "လုပ်ဖော်ကိုင်ဖက် can suggest a coworker. This expression specifically denotes an investing business partner who does not manage the business; add useful plural.",
+    "replacement": {
+      "phrase": "silent partner",
+      "type": "expression",
+      "forms": [
+        "silent partners"
+      ],
+      "burmese": [
+        "စီမံခန့်ခွဲမှုမှာ ဝင်မပါဘဲ ငွေထည့်ဝင်ထားတဲ့ အစုစပ်ဖက်"
+      ]
+    }
+  },
+  {
+    "phrase": "sleeping partner",
+    "action": "replace",
+    "reason": "Same precision issue as silent partner; this established British equivalent is not itself wrong. Add reviewed plural.",
+    "replacement": {
+      "phrase": "sleeping partner",
+      "type": "expression",
+      "forms": [
+        "sleeping partners"
+      ],
+      "burmese": [
+        "စီမံခန့်ခွဲမှုမှာ ဝင်မပါဘဲ ငွေထည့်ဝင်ထားတဲ့ အစုစပ်ဖက်"
+      ]
+    }
+  },
+  {
+    "phrase": "red tape",
+    "action": "replace",
+    "reason": "The bureaucratic loanword is less immediately clear than natural Burmese describing the obstructive procedures.",
+    "replacement": {
+      "phrase": "red tape",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "လုပ်ငန်းနှောင့်နှေးစေတဲ့ ရုံးလုပ်ထုံးလုပ်နည်းတွေနဲ့ စာရွက်စာတမ်းအဆင့်ဆင့်"
+      ]
+    }
+  },
+  {
+    "phrase": "hired gun",
+    "action": "replace",
+    "reason": "The second reading is broader than someone who argues a case: it includes any hired expert acting for another party. Keep the hitman sense and improve the figurative sense; add plural.",
+    "replacement": {
+      "phrase": "hired gun",
+      "type": "idiom",
+      "forms": [
+        "hired guns"
+      ],
+      "burmese": [
+        "ငွေယူပြီး လူသတ်ပေးသူ",
+        "တစ်ဖက်လူအတွက် ငွေယူပြီး အလုပ်လုပ်ပေးတဲ့ ကျွမ်းကျင်သူ"
+      ]
+    }
+  },
+  {
+    "phrase": "in self defense",
+    "action": "replace",
+    "reason": "Preserve the ordinary canonical hyphenation of the compound self-defense. The existing open subtitle spelling remains a useful alternative form.",
+    "replacement": {
+      "phrase": "in self-defense",
+      "type": "expression",
+      "forms": [
+        "in self defense"
+      ],
+      "burmese": [
+        "မိမိကိုယ်ကို ကာကွယ်ရန်"
+      ]
+    }
+  },
+  {
+    "phrase": "person of interest",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "person of interest",
+      "type": "expression",
+      "forms": [
+        "persons of interest",
+        "people of interest"
+      ],
+      "burmese": [
+        "အမှုနှင့်ဆက်စပ်၍ စုံစမ်းလိုသူ"
+      ]
+    }
+  },
+  {
+    "phrase": "material witness",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "material witness",
+      "type": "expression",
+      "forms": [
+        "material witnesses"
+      ],
+      "burmese": [
+        "အမှုအတွက် အရေးကြီးသည့် သက်သေခံသူ"
+      ]
+    }
+  },
+  {
+    "phrase": "hostile witness",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "hostile witness",
+      "type": "expression",
+      "forms": [
+        "hostile witnesses"
+      ],
+      "burmese": [
+        "မိမိကို ခေါ်ယူသက်သေခံစေသူဘက်ကို ဆန့်ကျင်သည့် သက်သေ"
+      ]
+    }
+  },
+  {
+    "phrase": "expert witness",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "expert witness",
+      "type": "expression",
+      "forms": [
+        "expert witnesses"
+      ],
+      "burmese": [
+        "ကျွမ်းကျင်မှုဖြင့် သက်သေခံသည့် ပညာရှင်"
+      ]
+    }
+  },
+  {
+    "phrase": "search warrant",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "search warrant",
+      "type": "expression",
+      "forms": [
+        "search warrants"
+      ],
+      "burmese": [
+        "ရှာဖွေခွင့် ဝရမ်း"
+      ]
+    }
+  },
+  {
+    "phrase": "arrest warrant",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "arrest warrant",
+      "type": "expression",
+      "forms": [
+        "arrest warrants"
+      ],
+      "burmese": [
+        "ဖမ်းဆီးခွင့် ဝရမ်း"
+      ]
+    }
+  },
+  {
+    "phrase": "bench warrant",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "bench warrant",
+      "type": "expression",
+      "forms": [
+        "bench warrants"
+      ],
+      "burmese": [
+        "တရားရုံးအမိန့် မလိုက်နာသူကို ဖမ်းရန် တရားသူကြီးထုတ်ဝရမ်း"
+      ]
+    }
+  },
+  {
+    "phrase": "plea bargain",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "plea bargain",
+      "type": "expression",
+      "forms": [
+        "plea bargains"
+      ],
+      "burmese": [
+        "အပြစ်ဝန်ခံမည်ဟု သဘောတူ၍ စွဲချက် သို့မဟုတ် ပြစ်ဒဏ် လျှော့ပေါ့ပေးစေရန် ညှိနှိုင်းမှု"
+      ]
+    }
+  },
+  {
+    "phrase": "hung jury",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "hung jury",
+      "type": "expression",
+      "forms": [
+        "hung juries"
+      ],
+      "burmese": [
+        "ဂျူရီများ အဆုံးအဖြတ်ကို သဘောမတူနိုင်ခြင်း"
+      ]
+    }
+  },
+  {
+    "phrase": "grand jury",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "grand jury",
+      "type": "expression",
+      "forms": [
+        "grand juries"
+      ],
+      "burmese": [
+        "ရာဇဝတ်မှု စွဲဆိုရန် သက်သေလုံလောက်မှု ရှိမရှိ ဆုံးဖြတ်သည့် ဂျူရီအဖွဲ့"
+      ]
+    }
+  },
+  {
+    "phrase": "restraining order",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "restraining order",
+      "type": "expression",
+      "forms": [
+        "restraining orders"
+      ],
+      "burmese": [
+        "ချဉ်းကပ်ခြင်း သို့မဟုတ် အနှောင့်အယှက်ပေးခြင်းကို တားမြစ်သည့် တရားရုံးအမိန့်"
+      ]
+    }
+  },
+  {
+    "phrase": "class action",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "class action",
+      "type": "expression",
+      "forms": [
+        "class actions"
+      ],
+      "burmese": [
+        "နစ်နာသူများ စုပေါင်းစွဲဆိုသည့် အမှု"
+      ]
+    }
+  },
+  {
+    "phrase": "civil suit",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "civil suit",
+      "type": "expression",
+      "forms": [
+        "civil suits"
+      ],
+      "burmese": [
+        "အရပ်ဘက် တရားစွဲဆိုမှု"
+      ]
+    }
+  },
+  {
+    "phrase": "criminal record",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "criminal record",
+      "type": "expression",
+      "forms": [
+        "criminal records"
+      ],
+      "burmese": [
+        "ယခင် ပြစ်မှုမှတ်တမ်း"
+      ]
+    }
+  },
+  {
+    "phrase": "rap sheet",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "rap sheet",
+      "type": "expression",
+      "forms": [
+        "rap sheets"
+      ],
+      "burmese": [
+        "ဖမ်းဆီးခံရမှုနှင့် ပြစ်မှုမှတ်တမ်း"
+      ]
+    }
+  },
+  {
+    "phrase": "clean record",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "clean record",
+      "type": "expression",
+      "forms": [
+        "clean records"
+      ],
+      "burmese": [
+        "ပြစ်မှုကင်းသည့် မှတ်တမ်း"
+      ]
+    }
+  },
+  {
+    "phrase": "cold case",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "cold case",
+      "type": "expression",
+      "forms": [
+        "cold cases"
+      ],
+      "burmese": [
+        "ကြာမြင့်စွာ မဖြေရှင်းနိုင်သေးသည့် အမှု"
+      ]
+    }
+  },
+  {
+    "phrase": "sting operation",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "sting operation",
+      "type": "expression",
+      "forms": [
+        "sting operations"
+      ],
+      "burmese": [
+        "ထောင်ချောက်ဆင်၍ တရားခံဖမ်းသည့် လျှို့ဝှက်စစ်ဆင်ရေး"
+      ]
+    }
+  },
+  {
+    "phrase": "undercover operation",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "undercover operation",
+      "type": "expression",
+      "forms": [
+        "undercover operations"
+      ],
+      "burmese": [
+        "အယောင်ဆောင်ပြီး လျှို့ဝှက် စုံစမ်းဖမ်းဆီးမှု"
+      ]
+    }
+  },
+  {
+    "phrase": "life sentence",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "life sentence",
+      "type": "expression",
+      "forms": [
+        "life sentences"
+      ],
+      "burmese": [
+        "တစ်သက်တစ်ကျွန်း ထောင်ဒဏ်"
+      ]
+    }
+  },
+  {
+    "phrase": "death sentence",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "death sentence",
+      "type": "expression",
+      "forms": [
+        "death sentences"
+      ],
+      "burmese": [
+        "သေဒဏ်"
+      ]
+    }
+  },
+  {
+    "phrase": "crime of passion",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "crime of passion",
+      "type": "expression",
+      "forms": [
+        "crimes of passion"
+      ],
+      "burmese": [
+        "ပြင်းထန်သော ခံစားချက်ကြောင့် ရုတ်တရက် ကျူးလွန်သည့် ပြစ်မှု"
+      ]
+    }
+  },
+  {
+    "phrase": "smoking gun",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "smoking gun",
+      "type": "idiom",
+      "forms": [
+        "smoking guns"
+      ],
+      "burmese": [
+        "ငြင်းမရသည့် အပြစ်ရှိကြောင်း သက်သေ"
+      ]
+    }
+  },
+  {
+    "phrase": "protection racket",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "protection racket",
+      "type": "expression",
+      "forms": [
+        "protection rackets"
+      ],
+      "burmese": [
+        "ငွေမပေးလျှင် ဒုက္ခပေးမည်ဟု ခြိမ်းခြောက်သည့် ဂိုဏ်းလုပ်ငန်း"
+      ]
+    }
+  },
+  {
+    "phrase": "confidence trick",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "confidence trick",
+      "type": "expression",
+      "forms": [
+        "confidence tricks"
+      ],
+      "burmese": [
+        "ယုံကြည်လာအောင်လုပ်ပြီး လိမ်လည်ခြင်း"
+      ]
+    }
+  },
+  {
+    "phrase": "inside job",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "inside job",
+      "type": "expression",
+      "forms": [
+        "inside jobs"
+      ],
+      "burmese": [
+        "အတွင်းလူ ပါဝင်ကျူးလွန်သည့် ပြစ်မှု"
+      ]
+    }
+  },
+  {
+    "phrase": "getaway driver",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "getaway driver",
+      "type": "expression",
+      "forms": [
+        "getaway drivers"
+      ],
+      "burmese": [
+        "ပြစ်မှုကျူးလွန်သူများ ထွက်ပြေးရန် ကားမောင်းပေးသူ"
+      ]
+    }
+  },
+  {
+    "phrase": "contract killing",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "contract killing",
+      "type": "expression",
+      "forms": [
+        "contract killings"
+      ],
+      "burmese": [
+        "ကြေးစား လူသတ်မှု"
+      ]
+    }
+  },
+  {
+    "phrase": "home invasion",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "home invasion",
+      "type": "expression",
+      "forms": [
+        "home invasions"
+      ],
+      "burmese": [
+        "လူနေအိမ်ထဲ အကြမ်းဖက်ဝင်ရောက်မှု"
+      ]
+    }
+  },
+  {
+    "phrase": "citizen's arrest",
+    "action": "replace",
+    "reason": "Add the publisher-documented countable plural citizen's arrests (Collins word forms).",
+    "replacement": {
+      "phrase": "citizen's arrest",
+      "type": "expression",
+      "forms": [
+        "citizen's arrests"
+      ],
+      "burmese": [
+        "သာမန်ပြည်သူက ပြစ်မှုကျူးလွန်သူကို ဥပဒေအရ ဖမ်းဆီးခြင်း"
+      ]
+    }
+  },
+  {
+    "phrase": "prisoner of war",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "prisoner of war",
+      "type": "expression",
+      "forms": [
+        "prisoners of war"
+      ],
+      "burmese": [
+        "စစ်သုံ့ပန်း"
+      ]
+    }
+  },
+  {
+    "phrase": "first strike",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "first strike",
+      "type": "expression",
+      "forms": [
+        "first strikes"
+      ],
+      "burmese": [
+        "ရန်သူထက် အရင် လက်ဦးမှုယူ တိုက်ခိုက်မှု"
+      ]
+    }
+  },
+  {
+    "phrase": "surgical strike",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "surgical strike",
+      "type": "expression",
+      "forms": [
+        "surgical strikes"
+      ],
+      "burmese": [
+        "သတ်မှတ်ပစ်မှတ်ကိုသာ တိတိကျကျ ထိအောင် တိုက်ခိုက်မှု"
+      ]
+    }
+  },
+  {
+    "phrase": "preemptive strike",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "preemptive strike",
+      "type": "expression",
+      "forms": [
+        "preemptive strikes"
+      ],
+      "burmese": [
+        "ရန်သူ မတိုက်မီ ကြိုတင် လက်ဦးမှုယူ တိုက်ခိုက်မှု"
+      ]
+    }
+  },
+  {
+    "phrase": "safe house",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "safe house",
+      "type": "expression",
+      "forms": [
+        "safe houses"
+      ],
+      "burmese": [
+        "ပုန်းခိုရန် လုံခြုံသောအိမ်"
+      ]
+    }
+  },
+  {
+    "phrase": "panic room",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "panic room",
+      "type": "expression",
+      "forms": [
+        "panic rooms"
+      ],
+      "burmese": [
+        "အရေးပေါ် ပုန်းခိုလုံခြုံရန် ခိုင်ခံ့စွာ တည်ဆောက်ထားသည့် အခန်း"
+      ]
+    }
+  },
+  {
+    "phrase": "security clearance",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "security clearance",
+      "type": "expression",
+      "forms": [
+        "security clearances"
+      ],
+      "burmese": [
+        "လျှို့ဝှက်သတင်းကို ရယူနိုင်ရန် လုံခြုံရေးအရ ခွင့်ပြုချက်"
+      ]
+    }
+  },
+  {
+    "phrase": "black site",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "black site",
+      "type": "expression",
+      "forms": [
+        "black sites"
+      ],
+      "burmese": [
+        "လျှို့ဝှက် ထိန်းသိမ်းစစ်ဆေးရေး နေရာ"
+      ]
+    }
+  },
+  {
+    "phrase": "sleeper agent",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "sleeper agent",
+      "type": "expression",
+      "forms": [
+        "sleeper agents"
+      ],
+      "burmese": [
+        "အမိန့်ရသည်အထိ ပုံမှန်လူလို နေနေသည့် လျှို့ဝှက်သူလျှို"
+      ]
+    }
+  },
+  {
+    "phrase": "double agent",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "double agent",
+      "type": "expression",
+      "forms": [
+        "double agents"
+      ],
+      "burmese": [
+        "နှစ်ဖက်စလုံးအတွက် လုပ်ပေးနေသည့် သူလျှို"
+      ]
+    }
+  },
+  {
+    "phrase": "false flag",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "false flag",
+      "type": "expression",
+      "forms": [
+        "false flags"
+      ],
+      "burmese": [
+        "အခြားအဖွဲ့ လုပ်သလို အယောင်ဆောင်ထားသည့် တိုက်ခိုက်မှု"
+      ]
+    }
+  },
+  {
+    "phrase": "false positive",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "false positive",
+      "type": "expression",
+      "forms": [
+        "false positives"
+      ],
+      "burmese": [
+        "မရှိသောအရာကို ရှိသည်ဟု မှားပြသည့် ရလဒ်"
+      ]
+    }
+  },
+  {
+    "phrase": "false negative",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "false negative",
+      "type": "expression",
+      "forms": [
+        "false negatives"
+      ],
+      "burmese": [
+        "ရှိသောအရာကို မရှိဟု မှားပြသည့် ရလဒ်"
+      ]
+    }
+  },
+  {
+    "phrase": "data breach",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "data breach",
+      "type": "expression",
+      "forms": [
+        "data breaches"
+      ],
+      "burmese": [
+        "လျှို့ဝှက်အချက်အလက်များ ခွင့်မရှိဘဲ ပေါက်ကြားရယူခံရမှု"
+      ]
+    }
+  },
+  {
+    "phrase": "factory reset",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "factory reset",
+      "type": "expression",
+      "forms": [
+        "factory resets"
+      ],
+      "burmese": [
+        "စက်ကို မူလစက်ရုံထုတ် အခြေအနေအတိုင်း ပြန်ထားခြင်း"
+      ]
+    }
+  },
+  {
+    "phrase": "blue screen",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "blue screen",
+      "type": "expression",
+      "forms": [
+        "blue screens"
+      ],
+      "burmese": [
+        "ကွန်ပျူတာစနစ် ပျက်သွားကြောင်း ပြသည့် အပြာရောင်မျက်နှာပြင်"
+      ]
+    }
+  },
+  {
+    "phrase": "system failure",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "system failure",
+      "type": "expression",
+      "forms": [
+        "system failures"
+      ],
+      "burmese": [
+        "စနစ် ချို့ယွင်းပျက်စီးမှု"
+      ]
+    }
+  },
+  {
+    "phrase": "hostile takeover",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "hostile takeover",
+      "type": "expression",
+      "forms": [
+        "hostile takeovers"
+      ],
+      "burmese": [
+        "ပိုင်ရှင်ဘက်က မလိုလားဘဲ ကုမ္ပဏီကို ဝယ်ယူထိန်းချုပ်ခြင်း"
+      ]
+    }
+  },
+  {
+    "phrase": "conflict of interest",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "conflict of interest",
+      "type": "expression",
+      "forms": [
+        "conflicts of interest"
+      ],
+      "burmese": [
+        "ကိုယ်ကျိုးနှင့် တာဝန် ဆန့်ကျင်နေမှု"
+      ]
+    }
+  },
+  {
+    "phrase": "shell company",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "shell company",
+      "type": "expression",
+      "forms": [
+        "shell companies"
+      ],
+      "burmese": [
+        "တကယ့်လုပ်ငန်းမရှိဘဲ စာရွက်ပေါ်တွင်သာ ရှိသည့် ကုမ္ပဏီ"
+      ]
+    }
+  },
+  {
+    "phrase": "front company",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "front company",
+      "type": "expression",
+      "forms": [
+        "front companies"
+      ],
+      "burmese": [
+        "တခြားလုပ်ငန်းကို ဖုံးကွယ်ပေးရန် အယောင်ပြထားသည့် ကုမ္ပဏီ"
+      ]
+    }
+  },
+  {
+    "phrase": "slush fund",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "slush fund",
+      "type": "expression",
+      "forms": [
+        "slush funds"
+      ],
+      "burmese": [
+        "မရိုးသားသည့် ရည်ရွယ်ချက်ဖြင့် သုံးရန် လျှို့ဝှက်ထားသည့် ရန်ပုံငွေ"
+      ]
+    }
+  },
+  {
+    "phrase": "profit margin",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "profit margin",
+      "type": "expression",
+      "forms": [
+        "profit margins"
+      ],
+      "burmese": [
+        "ရောင်းအားနှင့် နှိုင်းယှဉ်ထားသည့် အမြတ်အချိုး"
+      ]
+    }
+  },
+  {
+    "phrase": "tax haven",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "tax haven",
+      "type": "expression",
+      "forms": [
+        "tax havens"
+      ],
+      "burmese": [
+        "အခွန်နည်း၍ ငွေသိမ်းထားရန် အဆင်ပြေသည့် နိုင်ငံ သို့မဟုတ် နယ်မြေ"
+      ]
+    }
+  },
+  {
+    "phrase": "golden parachute",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "golden parachute",
+      "type": "idiom",
+      "forms": [
+        "golden parachutes"
+      ],
+      "burmese": [
+        "ရာထူးမှ ထုတ်ပယ်ခံရလျှင် ထိပ်တန်းအရာရှိ ရမည့် လျော်ကြေးကြီး"
+      ]
+    }
+  },
+  {
+    "phrase": "golden handshake",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "golden handshake",
+      "type": "idiom",
+      "forms": [
+        "golden handshakes"
+      ],
+      "burmese": [
+        "အလုပ်ထွက်ရန် သဘောတူသူကို ပေးသည့် လျော်ကြေးကြီး"
+      ]
+    }
+  },
+  {
+    "phrase": "poison pill",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "poison pill",
+      "type": "idiom",
+      "forms": [
+        "poison pills"
+      ],
+      "burmese": [
+        "ကုမ္ပဏီကို အတင်းဝယ်ယူမရအောင် တားသည့် အစီအစဉ်"
+      ]
+    }
+  },
+  {
+    "phrase": "white knight",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "white knight",
+      "type": "idiom",
+      "forms": [
+        "white knights"
+      ],
+      "burmese": [
+        "ဒုက္ခရောက်နေသည့် ကုမ္ပဏီကို ကူညီဝယ်ယူပေးသူ",
+        "အကျပ်အတည်းကို ကယ်တင်ပေးသူ"
+      ]
+    }
+  },
+  {
+    "phrase": "blank check",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "blank check",
+      "type": "idiom",
+      "forms": [
+        "blank checks"
+      ],
+      "burmese": [
+        "မိမိစိတ်ကြိုက် ဆုံးဖြတ်လုပ်ပိုင်ခွင့် အပြည့်",
+        "ငွေပမာဏမရေးရသေးသည့် ချက်လက်မှတ်"
+      ]
+    }
+  },
+  {
+    "phrase": "black market",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "black market",
+      "type": "expression",
+      "forms": [
+        "black markets"
+      ],
+      "burmese": [
+        "တရားမဝင် ဈေးကွက်"
+      ]
+    }
+  },
+  {
+    "phrase": "free market",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "free market",
+      "type": "expression",
+      "forms": [
+        "free markets"
+      ],
+      "burmese": [
+        "အစိုးရ ဝင်ရောက်ထိန်းချုပ်မှုနည်းသည့် ဈေးကွက်"
+      ]
+    }
+  },
+  {
+    "phrase": "bear market",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "bear market",
+      "type": "expression",
+      "forms": [
+        "bear markets"
+      ],
+      "burmese": [
+        "ရင်းနှီးမြှုပ်နှံမှု ဈေးနှုန်းများ ကျနေသည့် ဈေးကွက်"
+      ]
+    }
+  },
+  {
+    "phrase": "bull market",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "bull market",
+      "type": "expression",
+      "forms": [
+        "bull markets"
+      ],
+      "burmese": [
+        "ရင်းနှီးမြှုပ်နှံမှု ဈေးနှုန်းများ တက်နေသည့် ဈေးကွက်"
+      ]
+    }
+  },
+  {
+    "phrase": "fire sale",
+    "action": "replace",
+    "reason": "Add individually reviewed, useful countable-noun plural surface form(s). No invented mass-noun plural is included.",
+    "replacement": {
+      "phrase": "fire sale",
+      "type": "expression",
+      "forms": [
+        "fire sales"
+      ],
+      "burmese": [
+        "အရေးပေါ် ဈေးလျှော့ပြီး ရောင်းချမှု"
+      ]
+    }
+  }
+]

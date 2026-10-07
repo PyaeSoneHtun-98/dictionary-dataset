@@ -1,0 +1,5445 @@
+{
+  "draftCounts": {
+    "coordinator": 240,
+    "idioms": 484,
+    "verbs": 452,
+    "expressions": 616
+  },
+  "rawDraftEntries": 1792,
+  "eligibleUniqueEntries": 1663,
+  "selectedEntries": 1000,
+  "selectedTypeCounts": {
+    "phrasal_verb": 260,
+    "idiom": 600,
+    "expression": 140
+  },
+  "selectedSourceCounts": {
+    "coordinator": 226,
+    "idioms": 412,
+    "verbs": 309,
+    "expressions": 53
+  },
+  "selectedForms": 2045,
+  "selectedMeanings": 1128,
+  "selectedOwnership": [
+    {
+      "phrase": "lawyer up",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in the loop",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "run out of steam",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "touch base",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "on a roll",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "dead to rights",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "hold a grudge",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in a pinch",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "raise the stakes",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "cut the mustard",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "smoking gun",
+      "source": "idioms"
+    },
+    {
+      "phrase": "red herring",
+      "source": "idioms"
+    },
+    {
+      "phrase": "elephant in the room",
+      "source": "idioms"
+    },
+    {
+      "phrase": "skeleton in the closet",
+      "source": "idioms"
+    },
+    {
+      "phrase": "wolf in sheep's clothing",
+      "source": "idioms"
+    },
+    {
+      "phrase": "snake in the grass",
+      "source": "idioms"
+    },
+    {
+      "phrase": "ace in the hole",
+      "source": "idioms"
+    },
+    {
+      "phrase": "ace up your sleeve",
+      "source": "idioms"
+    },
+    {
+      "phrase": "black sheep",
+      "source": "idioms"
+    },
+    {
+      "phrase": "dark horse",
+      "source": "idioms"
+    },
+    {
+      "phrase": "cash cow",
+      "source": "idioms"
+    },
+    {
+      "phrase": "silver bullet",
+      "source": "idioms"
+    },
+    {
+      "phrase": "silver lining",
+      "source": "idioms"
+    },
+    {
+      "phrase": "glass ceiling",
+      "source": "idioms"
+    },
+    {
+      "phrase": "house of cards",
+      "source": "idioms"
+    },
+    {
+      "phrase": "can of worms",
+      "source": "idioms"
+    },
+    {
+      "phrase": "bundle of nerves",
+      "source": "idioms"
+    },
+    {
+      "phrase": "couch potato",
+      "source": "idioms"
+    },
+    {
+      "phrase": "backseat driver",
+      "source": "idioms"
+    },
+    {
+      "phrase": "wet blanket",
+      "source": "idioms"
+    },
+    {
+      "phrase": "party pooper",
+      "source": "idioms"
+    },
+    {
+      "phrase": "social butterfly",
+      "source": "idioms"
+    },
+    {
+      "phrase": "shrinking violet",
+      "source": "idioms"
+    },
+    {
+      "phrase": "tough cookie",
+      "source": "idioms"
+    },
+    {
+      "phrase": "bad apple",
+      "source": "idioms"
+    },
+    {
+      "phrase": "sore loser",
+      "source": "idioms"
+    },
+    {
+      "phrase": "foul play",
+      "source": "idioms"
+    },
+    {
+      "phrase": "dirty laundry",
+      "source": "idioms"
+    },
+    {
+      "phrase": "clean bill of health",
+      "source": "idioms"
+    },
+    {
+      "phrase": "clean sweep",
+      "source": "idioms"
+    },
+    {
+      "phrase": "smooth sailing",
+      "source": "idioms"
+    },
+    {
+      "phrase": "diamond in the rough",
+      "source": "idioms"
+    },
+    {
+      "phrase": "rough around the edges",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hard feelings",
+      "source": "idioms"
+    },
+    {
+      "phrase": "sore point",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hot potato",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hot seat",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hot air",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hot under the collar",
+      "source": "idioms"
+    },
+    {
+      "phrase": "chicken out",
+      "source": "idioms"
+    },
+    {
+      "phrase": "clam up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "doze off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "nod off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "butt in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "boot up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "buckle up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "brighten up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "cordon off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "fess up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "hunker down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "hush up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "jot down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "rat on",
+      "source": "verbs"
+    },
+    {
+      "phrase": "rat out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "string along",
+      "source": "verbs"
+    },
+    {
+      "phrase": "rough up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "size up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "sober up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "shrug off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "single out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "win over",
+      "source": "verbs"
+    },
+    {
+      "phrase": "gun down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "hack into",
+      "source": "verbs"
+    },
+    {
+      "phrase": "gloss over",
+      "source": "verbs"
+    },
+    {
+      "phrase": "creep up on",
+      "source": "verbs"
+    },
+    {
+      "phrase": "map out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "mop up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "peter out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "pig out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "pipe down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "pitch in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "shell out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "suss out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "flesh out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "flush out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "frown on",
+      "source": "verbs"
+    },
+    {
+      "phrase": "gear up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "crank up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "hash out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "tip off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "on tenterhooks",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "under your thumb",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "up the ante",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "at your wits' end",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "at the eleventh hour",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "at death's door",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "on your last legs",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "on your high horse",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "under your wing",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "behind bars",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "out of this world",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "under the microscope",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "beyond the pale",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "on the rebound",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in your element",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "behind the curve",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "plea bargain",
+      "source": "verbs"
+    },
+    {
+      "phrase": "search warrant",
+      "source": "verbs"
+    },
+    {
+      "phrase": "arrest warrant",
+      "source": "verbs"
+    },
+    {
+      "phrase": "probable cause",
+      "source": "verbs"
+    },
+    {
+      "phrase": "reasonable doubt",
+      "source": "verbs"
+    },
+    {
+      "phrase": "class action",
+      "source": "verbs"
+    },
+    {
+      "phrase": "restraining order",
+      "source": "verbs"
+    },
+    {
+      "phrase": "witness protection",
+      "source": "verbs"
+    },
+    {
+      "phrase": "inside job",
+      "source": "verbs"
+    },
+    {
+      "phrase": "safe house",
+      "source": "verbs"
+    },
+    {
+      "phrase": "double agent",
+      "source": "verbs"
+    },
+    {
+      "phrase": "black market",
+      "source": "verbs"
+    },
+    {
+      "phrase": "money laundering",
+      "source": "verbs"
+    },
+    {
+      "phrase": "conflict of interest",
+      "source": "verbs"
+    },
+    {
+      "phrase": "insider trading",
+      "source": "verbs"
+    },
+    {
+      "phrase": "red tape",
+      "source": "verbs"
+    },
+    {
+      "phrase": "blank check",
+      "source": "verbs"
+    },
+    {
+      "phrase": "better half",
+      "source": "expressions"
+    },
+    {
+      "phrase": "fall guy",
+      "source": "expressions"
+    },
+    {
+      "phrase": "whipping boy",
+      "source": "expressions"
+    },
+    {
+      "phrase": "sitting duck",
+      "source": "expressions"
+    },
+    {
+      "phrase": "salt of the earth",
+      "source": "expressions"
+    },
+    {
+      "phrase": "life of the party",
+      "source": "expressions"
+    },
+    {
+      "phrase": "heart of stone",
+      "source": "idioms"
+    },
+    {
+      "phrase": "labor of love",
+      "source": "expressions"
+    },
+    {
+      "phrase": "match made in heaven",
+      "source": "expressions"
+    },
+    {
+      "phrase": "easy mark",
+      "source": "expressions"
+    },
+    {
+      "phrase": "open book",
+      "source": "expressions"
+    },
+    {
+      "phrase": "food for thought",
+      "source": "expressions"
+    },
+    {
+      "phrase": "pipe dream",
+      "source": "expressions"
+    },
+    {
+      "phrase": "butterflies in your stomach",
+      "source": "expressions"
+    },
+    {
+      "phrase": "raw deal",
+      "source": "expressions"
+    },
+    {
+      "phrase": "fair shake",
+      "source": "expressions"
+    },
+    {
+      "phrase": "shot in the arm",
+      "source": "expressions"
+    },
+    {
+      "phrase": "kick in the teeth",
+      "source": "expressions"
+    },
+    {
+      "phrase": "pat on the back",
+      "source": "expressions"
+    },
+    {
+      "phrase": "slap on the wrist",
+      "source": "expressions"
+    },
+    {
+      "phrase": "stab in the back",
+      "source": "expressions"
+    },
+    {
+      "phrase": "bone of contention",
+      "source": "expressions"
+    },
+    {
+      "phrase": "tongue in cheek",
+      "source": "expressions"
+    },
+    {
+      "phrase": "in stitches",
+      "source": "expressions"
+    },
+    {
+      "phrase": "green with envy",
+      "source": "expressions"
+    },
+    {
+      "phrase": "fit to be tied",
+      "source": "expressions"
+    },
+    {
+      "phrase": "hopping mad",
+      "source": "expressions"
+    },
+    {
+      "phrase": "tickled pink",
+      "source": "expressions"
+    },
+    {
+      "phrase": "on top of the world",
+      "source": "expressions"
+    },
+    {
+      "phrase": "in the doghouse",
+      "source": "expressions"
+    },
+    {
+      "phrase": "in a fog",
+      "source": "expressions"
+    },
+    {
+      "phrase": "in a rut",
+      "source": "expressions"
+    },
+    {
+      "phrase": "in a pickle",
+      "source": "expressions"
+    },
+    {
+      "phrase": "all thumbs",
+      "source": "expressions"
+    },
+    {
+      "phrase": "all heart",
+      "source": "expressions"
+    },
+    {
+      "phrase": "child's play",
+      "source": "expressions"
+    },
+    {
+      "phrase": "cheap shot",
+      "source": "expressions"
+    },
+    {
+      "phrase": "free rein",
+      "source": "expressions"
+    },
+    {
+      "phrase": "free ride",
+      "source": "expressions"
+    },
+    {
+      "phrase": "in the driver's seat",
+      "source": "expressions"
+    },
+    {
+      "phrase": "in the crosshairs",
+      "source": "expressions"
+    },
+    {
+      "phrase": "out of your element",
+      "source": "expressions"
+    },
+    {
+      "phrase": "in the home stretch",
+      "source": "expressions"
+    },
+    {
+      "phrase": "on the rocks",
+      "source": "expressions"
+    },
+    {
+      "phrase": "on the level",
+      "source": "expressions"
+    },
+    {
+      "phrase": "on the wagon",
+      "source": "expressions"
+    },
+    {
+      "phrase": "off the wagon",
+      "source": "expressions"
+    },
+    {
+      "phrase": "off the wall",
+      "source": "expressions"
+    },
+    {
+      "phrase": "out of the picture",
+      "source": "expressions"
+    },
+    {
+      "phrase": "dead in the water",
+      "source": "expressions"
+    },
+    {
+      "phrase": "larger than life",
+      "source": "expressions"
+    },
+    {
+      "phrase": "just deserts",
+      "source": "expressions"
+    },
+    {
+      "phrase": "white lie",
+      "source": "expressions"
+    },
+    {
+      "phrase": "loaded question",
+      "source": "expressions"
+    },
+    {
+      "phrase": "on the blink",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "at full tilt",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "at loose ends",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "at pains to",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "at the helm",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "at rock bottom",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "at the cutting edge",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "at daggers drawn",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "at sixes and sevens",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "by hook or by crook",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "by leaps and bounds",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "by a country mile",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "beside yourself",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "above the law",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "across the board",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "all the same",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "all the rage",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "after your own heart",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as good as dead",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as cold as ice",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as cool as a cucumber",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as easy as pie",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as fit as a fiddle",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as flat as a pancake",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as free as a bird",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as hard as nails",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as light as a feather",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as old as time",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as plain as day",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as quick as a flash",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as quiet as a mouse",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as right as rain",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as sick as a dog",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as slippery as an eel",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as thick as thieves",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as tough as old boots",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as white as a sheet",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as blind as a bat",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as bold as brass",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as busy as a bee",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as dead as a doornail",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as dry as a bone",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as fresh as a daisy",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as mad as a hatter",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as steady as a rock",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as sharp as a tack",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as dull as dishwater",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as stubborn as a mule",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as sweet as honey",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as strong as an ox",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as proud as a peacock",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as gentle as a lamb",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "around the clock",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "around the corner",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "around the bend",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "out of the running",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "out of step",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "on the receiving end",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "on the cards",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "on your doorstep",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "on the breadline",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "on the back foot",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "on the front foot",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "on the fly",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "on the sly",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "on the double",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "on the go",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in the balance",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in the offing",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in your good books",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in your bad books",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in full swing",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in fits and starts",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in dribs and drabs",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in a different league",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in a world of pain",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in a tight corner",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "for dear life",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "for good measure",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "from pillar to post",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "from the ground up",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "from hand to mouth",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "from rags to riches",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "go from strength to strength",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "from the horse's mouth",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "under a cloud",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "under lock and key",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "under the sun",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "under your belt",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "up to scratch",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "up to snuff",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "up the creek",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "up the wall",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "go up in smoke",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "without rhyme or reason",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "with your eyes closed",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "with bated breath",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "with a heavy heart",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "with a grain of salt",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "within striking distance",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "within your grasp",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "to a fault",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "to a tee",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "to the bitter end",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "to the letter",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "to the hilt",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "to the core",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "to the bone",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "cut to the quick",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "to your heart's content",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "apple of your eye",
+      "source": "idioms"
+    },
+    {
+      "phrase": "eye of the storm",
+      "source": "idioms"
+    },
+    {
+      "phrase": "fly in the ointment",
+      "source": "idioms"
+    },
+    {
+      "phrase": "thorn in your side",
+      "source": "idioms"
+    },
+    {
+      "phrase": "wild goose chase",
+      "source": "idioms"
+    },
+    {
+      "phrase": "white elephant",
+      "source": "idioms"
+    },
+    {
+      "phrase": "golden boy",
+      "source": "idioms"
+    },
+    {
+      "phrase": "golden goose",
+      "source": "idioms"
+    },
+    {
+      "phrase": "sacred cow",
+      "source": "idioms"
+    },
+    {
+      "phrase": "holy grail",
+      "source": "idioms"
+    },
+    {
+      "phrase": "silver spoon",
+      "source": "idioms"
+    },
+    {
+      "phrase": "glass jaw",
+      "source": "idioms"
+    },
+    {
+      "phrase": "glass half full",
+      "source": "idioms"
+    },
+    {
+      "phrase": "glass half empty",
+      "source": "idioms"
+    },
+    {
+      "phrase": "ivory tower",
+      "source": "idioms"
+    },
+    {
+      "phrase": "pie in the sky",
+      "source": "idioms"
+    },
+    {
+      "phrase": "bag of tricks",
+      "source": "idioms"
+    },
+    {
+      "phrase": "bag of bones",
+      "source": "idioms"
+    },
+    {
+      "phrase": "bundle of joy",
+      "source": "idioms"
+    },
+    {
+      "phrase": "ball of fire",
+      "source": "idioms"
+    },
+    {
+      "phrase": "kiss of death",
+      "source": "idioms"
+    },
+    {
+      "phrase": "death warmed over",
+      "source": "idioms"
+    },
+    {
+      "phrase": "walking encyclopedia",
+      "source": "idioms"
+    },
+    {
+      "phrase": "armchair critic",
+      "source": "idioms"
+    },
+    {
+      "phrase": "smart cookie",
+      "source": "idioms"
+    },
+    {
+      "phrase": "cool customer",
+      "source": "idioms"
+    },
+    {
+      "phrase": "smooth operator",
+      "source": "idioms"
+    },
+    {
+      "phrase": "fast talker",
+      "source": "idioms"
+    },
+    {
+      "phrase": "straight shooter",
+      "source": "idioms"
+    },
+    {
+      "phrase": "loose cannon",
+      "source": "idioms"
+    },
+    {
+      "phrase": "live wire",
+      "source": "idioms"
+    },
+    {
+      "phrase": "busy bee",
+      "source": "idioms"
+    },
+    {
+      "phrase": "eager beaver",
+      "source": "idioms"
+    },
+    {
+      "phrase": "early bird",
+      "source": "idioms"
+    },
+    {
+      "phrase": "night owl",
+      "source": "idioms"
+    },
+    {
+      "phrase": "lone wolf",
+      "source": "idioms"
+    },
+    {
+      "phrase": "old hand",
+      "source": "idioms"
+    },
+    {
+      "phrase": "old flame",
+      "source": "idioms"
+    },
+    {
+      "phrase": "old hat",
+      "source": "idioms"
+    },
+    {
+      "phrase": "old school",
+      "source": "idioms"
+    },
+    {
+      "phrase": "new blood",
+      "source": "idioms"
+    },
+    {
+      "phrase": "young at heart",
+      "source": "idioms"
+    },
+    {
+      "phrase": "young gun",
+      "source": "idioms"
+    },
+    {
+      "phrase": "big cheese",
+      "source": "idioms"
+    },
+    {
+      "phrase": "big fish",
+      "source": "idioms"
+    },
+    {
+      "phrase": "big shot",
+      "source": "idioms"
+    },
+    {
+      "phrase": "top dog",
+      "source": "idioms"
+    },
+    {
+      "phrase": "small fry",
+      "source": "idioms"
+    },
+    {
+      "phrase": "small potatoes",
+      "source": "idioms"
+    },
+    {
+      "phrase": "big leagues",
+      "source": "idioms"
+    },
+    {
+      "phrase": "big shoes to fill",
+      "source": "idioms"
+    },
+    {
+      "phrase": "big mouth",
+      "source": "idioms"
+    },
+    {
+      "phrase": "forked tongue",
+      "source": "idioms"
+    },
+    {
+      "phrase": "sharp tongue",
+      "source": "idioms"
+    },
+    {
+      "phrase": "silver tongue",
+      "source": "idioms"
+    },
+    {
+      "phrase": "poisoned chalice",
+      "source": "idioms"
+    },
+    {
+      "phrase": "poison pill",
+      "source": "idioms"
+    },
+    {
+      "phrase": "bad egg",
+      "source": "idioms"
+    },
+    {
+      "phrase": "bad seed",
+      "source": "idioms"
+    },
+    {
+      "phrase": "bad hair day",
+      "source": "idioms"
+    },
+    {
+      "phrase": "born loser",
+      "source": "idioms"
+    },
+    {
+      "phrase": "poor sport",
+      "source": "idioms"
+    },
+    {
+      "phrase": "good sport",
+      "source": "idioms"
+    },
+    {
+      "phrase": "fair-weather friend",
+      "source": "idioms"
+    },
+    {
+      "phrase": "dirty work",
+      "source": "idioms"
+    },
+    {
+      "phrase": "dirty pool",
+      "source": "idioms"
+    },
+    {
+      "phrase": "dirty trick",
+      "source": "idioms"
+    },
+    {
+      "phrase": "dirty look",
+      "source": "idioms"
+    },
+    {
+      "phrase": "dirty mind",
+      "source": "idioms"
+    },
+    {
+      "phrase": "clean hands",
+      "source": "idioms"
+    },
+    {
+      "phrase": "rough justice",
+      "source": "idioms"
+    },
+    {
+      "phrase": "rough ride",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hard sell",
+      "source": "idioms"
+    },
+    {
+      "phrase": "soft sell",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hard knocks",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hard up",
+      "source": "idioms"
+    },
+    {
+      "phrase": "soft touch",
+      "source": "idioms"
+    },
+    {
+      "phrase": "soft target",
+      "source": "idioms"
+    },
+    {
+      "phrase": "raw nerve",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hot ticket",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hot property",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hot and bothered",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hot on the heels of",
+      "source": "idioms"
+    },
+    {
+      "phrase": "cold comfort",
+      "source": "idioms"
+    },
+    {
+      "phrase": "cold fish",
+      "source": "idioms"
+    },
+    {
+      "phrase": "chicken feed",
+      "source": "idioms"
+    },
+    {
+      "phrase": "chicken-and-egg problem",
+      "source": "idioms"
+    },
+    {
+      "phrase": "bird's-eye view",
+      "source": "idioms"
+    },
+    {
+      "phrase": "eagle eye",
+      "source": "idioms"
+    },
+    {
+      "phrase": "fish story",
+      "source": "idioms"
+    },
+    {
+      "phrase": "fish in troubled waters",
+      "source": "idioms"
+    },
+    {
+      "phrase": "fishing expedition",
+      "source": "idioms"
+    },
+    {
+      "phrase": "dog-eat-dog world",
+      "source": "idioms"
+    },
+    {
+      "phrase": "dog and pony show",
+      "source": "idioms"
+    },
+    {
+      "phrase": "dog days",
+      "source": "idioms"
+    },
+    {
+      "phrase": "cat and mouse",
+      "source": "idioms"
+    },
+    {
+      "phrase": "fat cat",
+      "source": "idioms"
+    },
+    {
+      "phrase": "guinea pig",
+      "source": "idioms"
+    },
+    {
+      "phrase": "rat race",
+      "source": "idioms"
+    },
+    {
+      "phrase": "rat's nest",
+      "source": "idioms"
+    },
+    {
+      "phrase": "monkey business",
+      "source": "idioms"
+    },
+    {
+      "phrase": "monkey on your back",
+      "source": "idioms"
+    },
+    {
+      "phrase": "horse trading",
+      "source": "idioms"
+    },
+    {
+      "phrase": "horse of a different color",
+      "source": "idioms"
+    },
+    {
+      "phrase": "one-trick pony",
+      "source": "idioms"
+    },
+    {
+      "phrase": "perfect storm",
+      "source": "idioms"
+    },
+    {
+      "phrase": "storm in a teacup",
+      "source": "idioms"
+    },
+    {
+      "phrase": "rain on your parade",
+      "source": "idioms"
+    },
+    {
+      "phrase": "rain cats and dogs",
+      "source": "idioms"
+    },
+    {
+      "phrase": "blow a fuse",
+      "source": "idioms"
+    },
+    {
+      "phrase": "blow a gasket",
+      "source": "idioms"
+    },
+    {
+      "phrase": "blow smoke",
+      "source": "idioms"
+    },
+    {
+      "phrase": "blow the lid off",
+      "source": "idioms"
+    },
+    {
+      "phrase": "blow your top",
+      "source": "idioms"
+    },
+    {
+      "phrase": "blow your stack",
+      "source": "idioms"
+    },
+    {
+      "phrase": "blow your brains out",
+      "source": "idioms"
+    },
+    {
+      "phrase": "blow the doors off",
+      "source": "idioms"
+    },
+    {
+      "phrase": "beat a retreat",
+      "source": "idioms"
+    },
+    {
+      "phrase": "beat the rap",
+      "source": "idioms"
+    },
+    {
+      "phrase": "beat the clock",
+      "source": "idioms"
+    },
+    {
+      "phrase": "beat your chest",
+      "source": "idioms"
+    },
+    {
+      "phrase": "beat the pants off",
+      "source": "idioms"
+    },
+    {
+      "phrase": "break your heart",
+      "source": "idioms"
+    },
+    {
+      "phrase": "break your neck",
+      "source": "idioms"
+    },
+    {
+      "phrase": "break the back of",
+      "source": "idioms"
+    },
+    {
+      "phrase": "break the camel's back",
+      "source": "idioms"
+    },
+    {
+      "phrase": "bring the curtain down",
+      "source": "idioms"
+    },
+    {
+      "phrase": "bring up the rear",
+      "source": "idioms"
+    },
+    {
+      "phrase": "bury yourself in work",
+      "source": "idioms"
+    },
+    {
+      "phrase": "bite your nails",
+      "source": "idioms"
+    },
+    {
+      "phrase": "batten down the hatches",
+      "source": "idioms"
+    },
+    {
+      "phrase": "bat an eyelid",
+      "source": "idioms"
+    },
+    {
+      "phrase": "bare your teeth",
+      "source": "idioms"
+    },
+    {
+      "phrase": "bend your ear",
+      "source": "idioms"
+    },
+    {
+      "phrase": "bet the farm",
+      "source": "idioms"
+    },
+    {
+      "phrase": "bet your bottom dollar",
+      "source": "idioms"
+    },
+    {
+      "phrase": "button your lip",
+      "source": "idioms"
+    },
+    {
+      "phrase": "button it",
+      "source": "idioms"
+    },
+    {
+      "phrase": "call off the dogs",
+      "source": "idioms"
+    },
+    {
+      "phrase": "call to mind",
+      "source": "idioms"
+    },
+    {
+      "phrase": "carry a torch",
+      "source": "idioms"
+    },
+    {
+      "phrase": "carry the day",
+      "source": "idioms"
+    },
+    {
+      "phrase": "cast a shadow",
+      "source": "idioms"
+    },
+    {
+      "phrase": "cast the first stone",
+      "source": "idioms"
+    },
+    {
+      "phrase": "cast pearls before swine",
+      "source": "idioms"
+    },
+    {
+      "phrase": "catch fire",
+      "source": "idioms"
+    },
+    {
+      "phrase": "catch the bug",
+      "source": "idioms"
+    },
+    {
+      "phrase": "catch your death",
+      "source": "idioms"
+    },
+    {
+      "phrase": "chew the fat",
+      "source": "idioms"
+    },
+    {
+      "phrase": "chew the scenery",
+      "source": "idioms"
+    },
+    {
+      "phrase": "chew your ear off",
+      "source": "idioms"
+    },
+    {
+      "phrase": "climb the walls",
+      "source": "idioms"
+    },
+    {
+      "phrase": "clutch at straws",
+      "source": "idioms"
+    },
+    {
+      "phrase": "come to grief",
+      "source": "idioms"
+    },
+    {
+      "phrase": "come unstuck",
+      "source": "idioms"
+    },
+    {
+      "phrase": "come up trumps",
+      "source": "idioms"
+    },
+    {
+      "phrase": "come up roses",
+      "source": "idioms"
+    },
+    {
+      "phrase": "come into your own",
+      "source": "idioms"
+    },
+    {
+      "phrase": "come of age",
+      "source": "idioms"
+    },
+    {
+      "phrase": "come out in the wash",
+      "source": "idioms"
+    },
+    {
+      "phrase": "come out smelling of roses",
+      "source": "idioms"
+    },
+    {
+      "phrase": "come to a sticky end",
+      "source": "idioms"
+    },
+    {
+      "phrase": "cook the books",
+      "source": "idioms"
+    },
+    {
+      "phrase": "cool your heels",
+      "source": "idioms"
+    },
+    {
+      "phrase": "cost the earth",
+      "source": "idioms"
+    },
+    {
+      "phrase": "crack the whip",
+      "source": "idioms"
+    },
+    {
+      "phrase": "cramp your style",
+      "source": "idioms"
+    },
+    {
+      "phrase": "cross swords",
+      "source": "idioms"
+    },
+    {
+      "phrase": "cross paths",
+      "source": "idioms"
+    },
+    {
+      "phrase": "cross the floor",
+      "source": "idioms"
+    },
+    {
+      "phrase": "cry foul",
+      "source": "idioms"
+    },
+    {
+      "phrase": "cry bloody murder",
+      "source": "idioms"
+    },
+    {
+      "phrase": "cut the apron strings",
+      "source": "idioms"
+    },
+    {
+      "phrase": "cut your own throat",
+      "source": "idioms"
+    },
+    {
+      "phrase": "dance to your tune",
+      "source": "idioms"
+    },
+    {
+      "phrase": "dance with the devil",
+      "source": "idioms"
+    },
+    {
+      "phrase": "dangle a carrot",
+      "source": "idioms"
+    },
+    {
+      "phrase": "dig your own grave",
+      "source": "idioms"
+    },
+    {
+      "phrase": "do a number on",
+      "source": "idioms"
+    },
+    {
+      "phrase": "do the honors",
+      "source": "idioms"
+    },
+    {
+      "phrase": "do the dirty on",
+      "source": "idioms"
+    },
+    {
+      "phrase": "do your head in",
+      "source": "idioms"
+    },
+    {
+      "phrase": "do your bit",
+      "source": "idioms"
+    },
+    {
+      "phrase": "draw a bead on",
+      "source": "idioms"
+    },
+    {
+      "phrase": "draw blood",
+      "source": "idioms"
+    },
+    {
+      "phrase": "drink like a fish",
+      "source": "idioms"
+    },
+    {
+      "phrase": "drop a bombshell",
+      "source": "idioms"
+    },
+    {
+      "phrase": "eat crow",
+      "source": "idioms"
+    },
+    {
+      "phrase": "eat humble pie",
+      "source": "idioms"
+    },
+    {
+      "phrase": "eat your words",
+      "source": "idioms"
+    },
+    {
+      "phrase": "eat your heart out",
+      "source": "idioms"
+    },
+    {
+      "phrase": "eat your hat",
+      "source": "idioms"
+    },
+    {
+      "phrase": "eat out of your hand",
+      "source": "idioms"
+    },
+    {
+      "phrase": "eat dirt",
+      "source": "idioms"
+    },
+    {
+      "phrase": "eat like a horse",
+      "source": "idioms"
+    },
+    {
+      "phrase": "egg on your face",
+      "source": "idioms"
+    },
+    {
+      "phrase": "end in tears",
+      "source": "idioms"
+    },
+    {
+      "phrase": "fall on your feet",
+      "source": "idioms"
+    },
+    {
+      "phrase": "fall on your sword",
+      "source": "idioms"
+    },
+    {
+      "phrase": "fall flat on your face",
+      "source": "idioms"
+    },
+    {
+      "phrase": "fall head over heels",
+      "source": "idioms"
+    },
+    {
+      "phrase": "feather your nest",
+      "source": "idioms"
+    },
+    {
+      "phrase": "feel the pinch",
+      "source": "idioms"
+    },
+    {
+      "phrase": "fight tooth and nail",
+      "source": "idioms"
+    },
+    {
+      "phrase": "fight a losing battle",
+      "source": "idioms"
+    },
+    {
+      "phrase": "find your voice",
+      "source": "idioms"
+    },
+    {
+      "phrase": "fly off the handle",
+      "source": "idioms"
+    },
+    {
+      "phrase": "fly in the face of",
+      "source": "idioms"
+    },
+    {
+      "phrase": "fly the coop",
+      "source": "idioms"
+    },
+    {
+      "phrase": "fly the nest",
+      "source": "idioms"
+    },
+    {
+      "phrase": "foam at the mouth",
+      "source": "idioms"
+    },
+    {
+      "phrase": "follow your nose",
+      "source": "idioms"
+    },
+    {
+      "phrase": "foot the bill",
+      "source": "idioms"
+    },
+    {
+      "phrase": "get a raw deal",
+      "source": "idioms"
+    },
+    {
+      "phrase": "get a bum rap",
+      "source": "idioms"
+    },
+    {
+      "phrase": "get an earful",
+      "source": "idioms"
+    },
+    {
+      "phrase": "get religion",
+      "source": "idioms"
+    },
+    {
+      "phrase": "get the boot",
+      "source": "idioms"
+    },
+    {
+      "phrase": "get the ax",
+      "source": "idioms"
+    },
+    {
+      "phrase": "get the sack",
+      "source": "idioms"
+    },
+    {
+      "phrase": "get the shaft",
+      "source": "idioms"
+    },
+    {
+      "phrase": "get the runs",
+      "source": "idioms"
+    },
+    {
+      "phrase": "get your goat",
+      "source": "idioms"
+    },
+    {
+      "phrase": "get your feet wet",
+      "source": "idioms"
+    },
+    {
+      "phrase": "ducks in a row",
+      "source": "idioms"
+    },
+    {
+      "phrase": "get your wires crossed",
+      "source": "idioms"
+    },
+    {
+      "phrase": "give a wide berth to",
+      "source": "idioms"
+    },
+    {
+      "phrase": "give an inch",
+      "source": "idioms"
+    },
+    {
+      "phrase": "give short shrift",
+      "source": "idioms"
+    },
+    {
+      "phrase": "give up the ghost",
+      "source": "idioms"
+    },
+    {
+      "phrase": "give your eyeteeth for",
+      "source": "idioms"
+    },
+    {
+      "phrase": "give your right arm for",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go bananas",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go nuts",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go ape",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go ballistic",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go postal",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go pear-shaped",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go to pot",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go to seed",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go to the dogs",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go to the wall",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go overboard",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go down a treat",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go down the rabbit hole",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go down the tubes",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go down the toilet",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go whole hog",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go through the roof",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go through hell",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go through the mill",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go for a song",
+      "source": "idioms"
+    },
+    {
+      "phrase": "go into your shell",
+      "source": "idioms"
+    },
+    {
+      "phrase": "grease the wheels",
+      "source": "idioms"
+    },
+    {
+      "phrase": "grease your palm",
+      "source": "idioms"
+    },
+    {
+      "phrase": "grin and bear it",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hand on heart",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hang a left",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hang a right",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hang your head",
+      "source": "idioms"
+    },
+    {
+      "phrase": "have a ball",
+      "source": "idioms"
+    },
+    {
+      "phrase": "have a cow",
+      "source": "idioms"
+    },
+    {
+      "phrase": "have kittens",
+      "source": "idioms"
+    },
+    {
+      "phrase": "have sticky fingers",
+      "source": "idioms"
+    },
+    {
+      "phrase": "have a green thumb",
+      "source": "idioms"
+    },
+    {
+      "phrase": "have a sweet tooth",
+      "source": "idioms"
+    },
+    {
+      "phrase": "have a tin ear",
+      "source": "idioms"
+    },
+    {
+      "phrase": "have your work cut out",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hit the jackpot",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hit the hay",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hit the sack",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hit the bottle",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hit the books",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hit the ceiling",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hit the roof",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hit the headlines",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hit the high spots",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hit the panic button",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hit pay dirt",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hold court",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hold the fort",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hold the bag",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hold a candle to",
+      "source": "idioms"
+    },
+    {
+      "phrase": "hog the limelight",
+      "source": "idioms"
+    },
+    {
+      "phrase": "jump the gun",
+      "source": "idioms"
+    },
+    {
+      "phrase": "jump the shark",
+      "source": "idioms"
+    },
+    {
+      "phrase": "jump through hoops",
+      "source": "idioms"
+    },
+    {
+      "phrase": "jump on the bandwagon",
+      "source": "idioms"
+    },
+    {
+      "phrase": "join the club",
+      "source": "idioms"
+    },
+    {
+      "phrase": "keep a stiff upper lip",
+      "source": "idioms"
+    },
+    {
+      "phrase": "keep body and soul together",
+      "source": "idioms"
+    },
+    {
+      "phrase": "keep your powder dry",
+      "source": "idioms"
+    },
+    {
+      "phrase": "keep your shirt on",
+      "source": "idioms"
+    },
+    {
+      "phrase": "kick the bucket",
+      "source": "idioms"
+    },
+    {
+      "phrase": "kick the habit",
+      "source": "idioms"
+    },
+    {
+      "phrase": "kick up a fuss",
+      "source": "idioms"
+    },
+    {
+      "phrase": "kick up a stink",
+      "source": "idioms"
+    },
+    {
+      "phrase": "kick up your heels",
+      "source": "idioms"
+    },
+    {
+      "phrase": "kill time",
+      "source": "idioms"
+    },
+    {
+      "phrase": "knock on wood",
+      "source": "idioms"
+    },
+    {
+      "phrase": "knock your socks off",
+      "source": "idioms"
+    },
+    {
+      "phrase": "know which way is up",
+      "source": "idioms"
+    },
+    {
+      "phrase": "lay down the law",
+      "source": "idioms"
+    },
+    {
+      "phrase": "lay it on thick",
+      "source": "idioms"
+    },
+    {
+      "phrase": "lay cards on the table",
+      "source": "idioms"
+    },
+    {
+      "phrase": "lead a double life",
+      "source": "idioms"
+    },
+    {
+      "phrase": "high and dry",
+      "source": "idioms"
+    },
+    {
+      "phrase": "in the lurch",
+      "source": "idioms"
+    },
+    {
+      "phrase": "let fly",
+      "source": "idioms"
+    },
+    {
+      "phrase": "let loose",
+      "source": "idioms"
+    },
+    {
+      "phrase": "let sleeping dogs lie",
+      "source": "idioms"
+    },
+    {
+      "phrase": "let rip",
+      "source": "idioms"
+    },
+    {
+      "phrase": "lick your wounds",
+      "source": "idioms"
+    },
+    {
+      "phrase": "lift the lid",
+      "source": "idioms"
+    },
+    {
+      "phrase": "light a fire under",
+      "source": "idioms"
+    },
+    {
+      "phrase": "live a lie",
+      "source": "idioms"
+    },
+    {
+      "phrase": "live from hand to mouth",
+      "source": "idioms"
+    },
+    {
+      "phrase": "live and breathe",
+      "source": "idioms"
+    },
+    {
+      "phrase": "lock horns",
+      "source": "idioms"
+    },
+    {
+      "phrase": "look daggers",
+      "source": "idioms"
+    },
+    {
+      "phrase": "look like death",
+      "source": "idioms"
+    },
+    {
+      "phrase": "lose your shirt",
+      "source": "idioms"
+    },
+    {
+      "phrase": "lose your rag",
+      "source": "idioms"
+    },
+    {
+      "phrase": "lose your marbles",
+      "source": "idioms"
+    },
+    {
+      "phrase": "lose the plot",
+      "source": "idioms"
+    },
+    {
+      "phrase": "make a meal of",
+      "source": "idioms"
+    },
+    {
+      "phrase": "make a hash of",
+      "source": "idioms"
+    },
+    {
+      "phrase": "make a splash",
+      "source": "idioms"
+    },
+    {
+      "phrase": "make a song and dance",
+      "source": "idioms"
+    },
+    {
+      "phrase": "make tracks",
+      "source": "idioms"
+    },
+    {
+      "phrase": "move heaven and earth",
+      "source": "idioms"
+    },
+    {
+      "phrase": "nip it in the bud",
+      "source": "idioms"
+    },
+    {
+      "phrase": "open a can of worms",
+      "source": "idioms"
+    },
+    {
+      "phrase": "open the floodgates",
+      "source": "idioms"
+    },
+    {
+      "phrase": "paint the town red",
+      "source": "idioms"
+    },
+    {
+      "phrase": "paper over the cracks",
+      "source": "idioms"
+    },
+    {
+      "phrase": "pass the buck",
+      "source": "idioms"
+    },
+    {
+      "phrase": "pay lip service",
+      "source": "idioms"
+    },
+    {
+      "phrase": "pay through the nose",
+      "source": "idioms"
+    },
+    {
+      "phrase": "pay the piper",
+      "source": "idioms"
+    },
+    {
+      "phrase": "play cat and mouse",
+      "source": "idioms"
+    },
+    {
+      "phrase": "play fast and loose",
+      "source": "idioms"
+    },
+    {
+      "phrase": "play second fiddle",
+      "source": "idioms"
+    },
+    {
+      "phrase": "play possum",
+      "source": "idioms"
+    },
+    {
+      "phrase": "play the field",
+      "source": "idioms"
+    },
+    {
+      "phrase": "play the fool",
+      "source": "idioms"
+    },
+    {
+      "phrase": "play the victim",
+      "source": "idioms"
+    },
+    {
+      "phrase": "play devil's advocate",
+      "source": "idioms"
+    },
+    {
+      "phrase": "poke your nose in",
+      "source": "idioms"
+    },
+    {
+      "phrase": "pull a fast one",
+      "source": "idioms"
+    },
+    {
+      "phrase": "pull out all the stops",
+      "source": "idioms"
+    },
+    {
+      "phrase": "pull your punches",
+      "source": "idioms"
+    },
+    {
+      "phrase": "push the envelope",
+      "source": "idioms"
+    },
+    {
+      "phrase": "push the boat out",
+      "source": "idioms"
+    },
+    {
+      "phrase": "put a sock in it",
+      "source": "idioms"
+    },
+    {
+      "phrase": "put on the dog",
+      "source": "idioms"
+    },
+    {
+      "phrase": "put paid to",
+      "source": "idioms"
+    },
+    {
+      "phrase": "put the boot in",
+      "source": "idioms"
+    },
+    {
+      "phrase": "put the kibosh on",
+      "source": "idioms"
+    },
+    {
+      "phrase": "put your oar in",
+      "source": "idioms"
+    },
+    {
+      "phrase": "put your thinking cap on",
+      "source": "idioms"
+    },
+    {
+      "phrase": "put words in your mouth",
+      "source": "idioms"
+    },
+    {
+      "phrase": "raise a stink",
+      "source": "idioms"
+    },
+    {
+      "phrase": "raise the roof",
+      "source": "idioms"
+    },
+    {
+      "phrase": "raise hell",
+      "source": "idioms"
+    },
+    {
+      "phrase": "read the riot act",
+      "source": "idioms"
+    },
+    {
+      "phrase": "rest on your laurels",
+      "source": "idioms"
+    },
+    {
+      "phrase": "ride the gravy train",
+      "source": "idioms"
+    },
+    {
+      "phrase": "ride high",
+      "source": "idioms"
+    },
+    {
+      "phrase": "ride roughshod over",
+      "source": "idioms"
+    },
+    {
+      "phrase": "suck up to",
+      "source": "idioms"
+    },
+    {
+      "phrase": "angle for",
+      "source": "verbs"
+    },
+    {
+      "phrase": "auction off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "barge in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "barge into",
+      "source": "verbs"
+    },
+    {
+      "phrase": "bash in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "bat around",
+      "source": "verbs"
+    },
+    {
+      "phrase": "bawl out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "beam down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "beam up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "belch out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "belt out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "belt up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "bid up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "bleep out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "blot out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "bog down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "bone up on",
+      "source": "verbs"
+    },
+    {
+      "phrase": "boot out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "boss around",
+      "source": "verbs"
+    },
+    {
+      "phrase": "box in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "bristle at",
+      "source": "verbs"
+    },
+    {
+      "phrase": "bubble over",
+      "source": "verbs"
+    },
+    {
+      "phrase": "buck up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "bug out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "bulk up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "bundle up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "button up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "carve out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "cast off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "cast out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "chalk up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "chase away",
+      "source": "verbs"
+    },
+    {
+      "phrase": "chase down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "chase off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "chase up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "choke down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "churn out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "claw back",
+      "source": "verbs"
+    },
+    {
+      "phrase": "cling on",
+      "source": "verbs"
+    },
+    {
+      "phrase": "clog up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "cloud over",
+      "source": "verbs"
+    },
+    {
+      "phrase": "clown around",
+      "source": "verbs"
+    },
+    {
+      "phrase": "cock up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "comb through",
+      "source": "verbs"
+    },
+    {
+      "phrase": "conjure up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "cough up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "crank out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "crowd out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "curl up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "damp down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "dash off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "dish out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "dish up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "dive in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "dole out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "drum up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "duck out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "dust off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "eat away at",
+      "source": "verbs"
+    },
+    {
+      "phrase": "eat into",
+      "source": "verbs"
+    },
+    {
+      "phrase": "ebb away",
+      "source": "verbs"
+    },
+    {
+      "phrase": "egg on",
+      "source": "verbs"
+    },
+    {
+      "phrase": "embark on",
+      "source": "verbs"
+    },
+    {
+      "phrase": "explain away",
+      "source": "verbs"
+    },
+    {
+      "phrase": "ferret out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "file away",
+      "source": "verbs"
+    },
+    {
+      "phrase": "finish with",
+      "source": "verbs"
+    },
+    {
+      "phrase": "firm up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "fold up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "fob off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "freeze out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "freshen up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "fritter away",
+      "source": "verbs"
+    },
+    {
+      "phrase": "glaze over",
+      "source": "verbs"
+    },
+    {
+      "phrase": "gobble up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "grapple with",
+      "source": "verbs"
+    },
+    {
+      "phrase": "grind down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "gross out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "gun for",
+      "source": "verbs"
+    },
+    {
+      "phrase": "hammer out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "harp on",
+      "source": "verbs"
+    },
+    {
+      "phrase": "haul in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "heap on",
+      "source": "verbs"
+    },
+    {
+      "phrase": "heat up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "hem in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "hike up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "jack up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "jam up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "jazz up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "keel over",
+      "source": "verbs"
+    },
+    {
+      "phrase": "key in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "kick around",
+      "source": "verbs"
+    },
+    {
+      "phrase": "knuckle down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "latch on",
+      "source": "verbs"
+    },
+    {
+      "phrase": "latch onto",
+      "source": "verbs"
+    },
+    {
+      "phrase": "leak out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "level off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "limber up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "link up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "loosen up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "luck out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "lump together",
+      "source": "verbs"
+    },
+    {
+      "phrase": "max out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "measure up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "mill around",
+      "source": "verbs"
+    },
+    {
+      "phrase": "mope around",
+      "source": "verbs"
+    },
+    {
+      "phrase": "muscle in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "muster up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "nose around",
+      "source": "verbs"
+    },
+    {
+      "phrase": "pack in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "pack up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "pair off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "paper over",
+      "source": "verbs"
+    },
+    {
+      "phrase": "pare down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "peel off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "perk up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "pipe up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "plow through",
+      "source": "verbs"
+    },
+    {
+      "phrase": "plug away",
+      "source": "verbs"
+    },
+    {
+      "phrase": "plug in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "plug up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "polish up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "pony up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "pore over",
+      "source": "verbs"
+    },
+    {
+      "phrase": "pound out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "power down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "power up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "prop up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "psych out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "psych up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "puff up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "rack up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "reel in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "rein in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "rile up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "ring around",
+      "source": "verbs"
+    },
+    {
+      "phrase": "rip into",
+      "source": "verbs"
+    },
+    {
+      "phrase": "rip up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "roll in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "rope in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "round off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "round up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "rustle up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "scale back",
+      "source": "verbs"
+    },
+    {
+      "phrase": "scale down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "scare away",
+      "source": "verbs"
+    },
+    {
+      "phrase": "scare off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "scare up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "scrape by",
+      "source": "verbs"
+    },
+    {
+      "phrase": "scrape together",
+      "source": "verbs"
+    },
+    {
+      "phrase": "seal off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "seize on",
+      "source": "verbs"
+    },
+    {
+      "phrase": "sell off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "sell out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "shore up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "simmer down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "skim off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "slack off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "slog through",
+      "source": "verbs"
+    },
+    {
+      "phrase": "smash up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "snap up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "sniff around",
+      "source": "verbs"
+    },
+    {
+      "phrase": "sniff out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "sock away",
+      "source": "verbs"
+    },
+    {
+      "phrase": "soften up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "soak up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "sound off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "sound out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "spark off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "spin off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "sponge off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "square away",
+      "source": "verbs"
+    },
+    {
+      "phrase": "square off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "square up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "squirrel away",
+      "source": "verbs"
+    },
+    {
+      "phrase": "stack up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "stake out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "stave off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "stir up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "stow away",
+      "source": "verbs"
+    },
+    {
+      "phrase": "string up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "stumble upon",
+      "source": "verbs"
+    },
+    {
+      "phrase": "swallow up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "sweep aside",
+      "source": "verbs"
+    },
+    {
+      "phrase": "sweep up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "tail off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "tamper with",
+      "source": "verbs"
+    },
+    {
+      "phrase": "taper off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "tease out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "tee off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "thin out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "thrash out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "tick off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "touch down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "tough out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "trail off",
+      "source": "verbs"
+    },
+    {
+      "phrase": "trickle down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "trip up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "trot out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "tuck away",
+      "source": "verbs"
+    },
+    {
+      "phrase": "tuck in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "tuck into",
+      "source": "verbs"
+    },
+    {
+      "phrase": "tune in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "tune out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "vouch for",
+      "source": "verbs"
+    },
+    {
+      "phrase": "wade in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "wade through",
+      "source": "verbs"
+    },
+    {
+      "phrase": "wash away",
+      "source": "verbs"
+    },
+    {
+      "phrase": "wash down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "wash out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "water down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "weigh down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "weigh in",
+      "source": "verbs"
+    },
+    {
+      "phrase": "weigh up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "whip out",
+      "source": "verbs"
+    },
+    {
+      "phrase": "whip up",
+      "source": "verbs"
+    },
+    {
+      "phrase": "whittle down",
+      "source": "verbs"
+    },
+    {
+      "phrase": "at close quarters",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "at a stretch",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "by all appearances",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "by a hair's breadth",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "by your own admission",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "beyond all recognition",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "beyond the call of duty",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "beyond the grave",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "beneath contempt",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "beside the point",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "between you and me",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "between jobs",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "before your time",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "before your very eyes",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "against your better judgment",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "against your will",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "above and beyond",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "above suspicion",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "all told",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "all but",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "all and sundry",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "after a fashion",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "after the fact",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as and when",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as it were",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "as yet",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "out of proportion",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "out of favor",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "on the off chance",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "on your own terms",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "on the trot",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in the fullness of time",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in the main",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in the making",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in the bargain",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in your own right",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in your own sweet time",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in your prime",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in good spirits",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in bad faith",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in bad taste",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in full force",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in name only",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in part",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in passing",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in retrospect",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in force",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in effect",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in principle",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in short supply",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in plain terms",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in a split second",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in a roundabout way",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "in a manner of speaking",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "for all practical purposes",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "for all intents and purposes",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "for all you know",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "for all i care",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "for the sake of argument",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "for fear of",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "from the bottom up",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "from the word go",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "from the get-go",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "from the outset",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "from head to toe",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "under the guise of",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "up to par",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "up for debate",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "up for discussion",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "up for renewal",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "up to the mark",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "up to the task",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "up and about",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "up and coming",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "without reservation",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "with hindsight",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "with every passing day",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "with the best intentions",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "within a hair's breadth",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "within spitting distance",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "within earshot",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "within your rights",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "to a man",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "to no avail",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "to all appearances",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "to the point",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "to your dying day",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "to your cost",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "to your credit",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "to say the least",
+      "source": "coordinator"
+    },
+    {
+      "phrase": "screech to a halt",
+      "source": "verbs"
+    },
+    {
+      "phrase": "reasonable suspicion",
+      "source": "verbs"
+    },
+    {
+      "phrase": "due process",
+      "source": "verbs"
+    },
+    {
+      "phrase": "burden of proof",
+      "source": "verbs"
+    },
+    {
+      "phrase": "presumption of innocence",
+      "source": "verbs"
+    },
+    {
+      "phrase": "circumstantial evidence",
+      "source": "verbs"
+    },
+    {
+      "phrase": "physical evidence",
+      "source": "verbs"
+    },
+    {
+      "phrase": "chain of custody",
+      "source": "verbs"
+    },
+    {
+      "phrase": "person of interest",
+      "source": "verbs"
+    },
+    {
+      "phrase": "material witness",
+      "source": "verbs"
+    },
+    {
+      "phrase": "hostile witness",
+      "source": "verbs"
+    },
+    {
+      "phrase": "expert witness",
+      "source": "verbs"
+    },
+    {
+      "phrase": "state's evidence",
+      "source": "verbs"
+    },
+    {
+      "phrase": "bench warrant",
+      "source": "verbs"
+    },
+    {
+      "phrase": "plead guilty",
+      "source": "verbs"
+    },
+    {
+      "phrase": "plead not guilty",
+      "source": "verbs"
+    },
+    {
+      "phrase": "plead the fifth",
+      "source": "verbs"
+    },
+    {
+      "phrase": "no contest",
+      "source": "verbs"
+    },
+    {
+      "phrase": "hung jury",
+      "source": "verbs"
+    },
+    {
+      "phrase": "grand jury",
+      "source": "verbs"
+    },
+    {
+      "phrase": "accessory after the fact",
+      "source": "verbs"
+    },
+    {
+      "phrase": "contempt of court",
+      "source": "verbs"
+    },
+    {
+      "phrase": "obstruction of justice",
+      "source": "verbs"
+    },
+    {
+      "phrase": "statute of limitations",
+      "source": "verbs"
+    },
+    {
+      "phrase": "double jeopardy",
+      "source": "verbs"
+    },
+    {
+      "phrase": "power of attorney",
+      "source": "verbs"
+    },
+    {
+      "phrase": "cease and desist",
+      "source": "verbs"
+    },
+    {
+      "phrase": "civil suit",
+      "source": "verbs"
+    },
+    {
+      "phrase": "wrongful death",
+      "source": "verbs"
+    },
+    {
+      "phrase": "criminal record",
+      "source": "verbs"
+    },
+    {
+      "phrase": "rap sheet",
+      "source": "verbs"
+    },
+    {
+      "phrase": "clean record",
+      "source": "verbs"
+    },
+    {
+      "phrase": "cold case",
+      "source": "verbs"
+    },
+    {
+      "phrase": "hot pursuit",
+      "source": "verbs"
+    },
+    {
+      "phrase": "sting operation",
+      "source": "verbs"
+    }
+  ],
+  "rejections": [
+    {
+      "source": "coordinator",
+      "phrase": "at first blush",
+      "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+    },
+    {
+      "source": "coordinator",
+      "phrase": "by common consent",
+      "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+    },
+    {
+      "source": "coordinator",
+      "phrase": "by fair means or foul",
+      "reason": "Established but literary and comparatively low-priority for ordinary contemporary dialogue. Enough stronger candidates are available."
+    },
+    {
+      "source": "coordinator",
+      "phrase": "all of a piece",
+      "reason": "Established, but literary/formal and a weak subtitle-priority choice in a pool with enough stronger candidates."
+    },
+    {
+      "source": "coordinator",
+      "phrase": "as safe as houses",
+      "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+    },
+    {
+      "source": "coordinator",
+      "phrase": "as sound as a bell",
+      "reason": "Established but comparatively dated and weak for ordinary subtitle lookup; stronger health/condition idioms already exist."
+    },
+    {
+      "source": "coordinator",
+      "phrase": "as thin as a rake",
+      "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+    },
+    {
+      "source": "coordinator",
+      "phrase": "in the last resort",
+      "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+    },
+    {
+      "source": "coordinator",
+      "phrase": "for good or ill",
+      "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+    },
+    {
+      "source": "coordinator",
+      "phrase": "for old times' sake",
+      "reason": "This is the same expression as frozen for old times sake, with a punctuation correction. Do not count it as genuinely new extension vocabulary; the frozen asset must remain unchanged."
+    },
+    {
+      "source": "coordinator",
+      "phrase": "from time immemorial",
+      "reason": "Established but heavily formal/literary and low-priority for this extension pool."
+    },
+    {
+      "source": "coordinator",
+      "phrase": "from bad to worse",
+      "reason": "Longer surface of an already frozen expression; avoid counting a preposition/article elaboration as new vocabulary."
+    },
+    {
+      "source": "coordinator",
+      "phrase": "with the benefit of hindsight",
+      "reason": "Longer surface of an already frozen expression; avoid counting a preposition/article elaboration as new vocabulary."
+    },
+    {
+      "source": "coordinator",
+      "phrase": "to a turn",
+      "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+    },
+    {
+      "source": "idioms",
+      "phrase": "hard as nails",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as hard as nails"
+    },
+    {
+      "source": "idioms",
+      "phrase": "cut the mustard",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "cut the mustard"
+    },
+    {
+      "source": "idioms",
+      "phrase": "cut to the quick",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "cut to the quick"
+    },
+    {
+      "source": "idioms",
+      "phrase": "go up in smoke",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "go up in smoke"
+    },
+    {
+      "source": "idioms",
+      "phrase": "go from strength to strength",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "go from strength to strength"
+    },
+    {
+      "source": "idioms",
+      "phrase": "hold a grudge",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "hold a grudge"
+    },
+    {
+      "source": "verbs",
+      "phrase": "chicken out",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "chicken out"
+    },
+    {
+      "source": "verbs",
+      "phrase": "suck up to",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "suck up to"
+    },
+    {
+      "source": "verbs",
+      "phrase": "sign a confession",
+      "reason": "Transparent verb plus object, rather than a fixed idiom, phrasal verb, or noncompositional expression. Confession itself carries the lexical content."
+    },
+    {
+      "source": "verbs",
+      "phrase": "take into custody",
+      "reason": "The active canonical omits the mandatory intervening object: take someone into custody. Past passive taken into custody is real, but that does not make this object-gap base a contiguous canonical idiom. Prefer a complete independently selected unit."
+    },
+    {
+      "source": "verbs",
+      "phrase": "hold without bail",
+      "reason": "The active canonical omits the mandatory intervening object: hold someone without bail. Held without bail is a valid passive surface, but the incomplete active base is unsuitable as this canonical expression."
+    },
+    {
+      "source": "verbs",
+      "phrase": "foul play",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "foul play"
+    },
+    {
+      "source": "verbs",
+      "phrase": "smoking gun",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "smoking gun"
+    },
+    {
+      "source": "verbs",
+      "phrase": "mopping up operation",
+      "reason": "Low incremental lookup value: transparent noun elaboration of mop up, which is already a stronger candidate in this pool; normally mopping-up operation when attributive."
+    },
+    {
+      "source": "verbs",
+      "phrase": "agent provocateur",
+      "reason": "Established loan expression, but relatively specialist political terminology with limited immediate subtitle usefulness compared with abundant common idioms."
+    },
+    {
+      "source": "verbs",
+      "phrase": "denial of service",
+      "reason": "Specialist network terminology with low independent subtitle value relative to the abundant general-language candidates; normally part of denial-of-service attack rather than a free-standing conversational unit."
+    },
+    {
+      "source": "verbs",
+      "phrase": "working capital",
+      "reason": "Low-priority specialist accounting noun unit; the useful core capital vocabulary is already available and general conversational/figurative candidates are stronger for this selection."
+    },
+    {
+      "source": "verbs",
+      "phrase": "poison pill",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "poison pill"
+    },
+    {
+      "source": "expressions",
+      "phrase": "heart of stone",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "heart of stone"
+    },
+    {
+      "source": "expressions",
+      "phrase": "point of no return",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "point of no return"
+    },
+    {
+      "source": "expressions",
+      "phrase": "beside yourself",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "beside yourself"
+    },
+    {
+      "source": "expressions",
+      "phrase": "mad as a hatter",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as mad as a hatter"
+    },
+    {
+      "source": "expressions",
+      "phrase": "under a cloud",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "under a cloud"
+    },
+    {
+      "source": "expressions",
+      "phrase": "under your thumb",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "under your thumb"
+    },
+    {
+      "source": "expressions",
+      "phrase": "under lock and key",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "under lock and key"
+    },
+    {
+      "source": "expressions",
+      "phrase": "under the microscope",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "under the microscope"
+    },
+    {
+      "source": "expressions",
+      "phrase": "at your wits' end",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "at your wits' end"
+    },
+    {
+      "source": "expressions",
+      "phrase": "at loose ends",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "at loose ends"
+    },
+    {
+      "source": "expressions",
+      "phrase": "at sixes and sevens",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "at sixes and sevens"
+    },
+    {
+      "source": "expressions",
+      "phrase": "in a pinch",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "in a pinch"
+    },
+    {
+      "source": "expressions",
+      "phrase": "fit as a fiddle",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as fit as a fiddle"
+    },
+    {
+      "source": "expressions",
+      "phrase": "right as rain",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as right as rain"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as cool as a cucumber",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as cool as a cucumber"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as cold as ice",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as cold as ice"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as hard as nails",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as hard as nails"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as gentle as a lamb",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as gentle as a lamb"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as stubborn as a mule",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as stubborn as a mule"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as proud as a peacock",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as proud as a peacock"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as free as a bird",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as free as a bird"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as blind as a bat",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as blind as a bat"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as quiet as a mouse",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as quiet as a mouse"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as busy as a bee",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as busy as a bee"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as fresh as a daisy",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as fresh as a daisy"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as quick as a flash",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as quick as a flash"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as plain as day",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as plain as day"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as dead as a doornail",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as dead as a doornail"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as bold as brass",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as bold as brass"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as thick as thieves",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as thick as thieves"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as sick as a dog",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as sick as a dog"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as strong as an ox",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as strong as an ox"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as slippery as an eel",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as slippery as an eel"
+    },
+    {
+      "source": "expressions",
+      "phrase": "as steady as a rock",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "as steady as a rock"
+    },
+    {
+      "source": "expressions",
+      "phrase": "blood money",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "blood money"
+    },
+    {
+      "source": "expressions",
+      "phrase": "hush money",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "hush money"
+    },
+    {
+      "source": "expressions",
+      "phrase": "dirty money",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "dirty money"
+    },
+    {
+      "source": "expressions",
+      "phrase": "seed money",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "seed money"
+    },
+    {
+      "source": "expressions",
+      "phrase": "dirty tricks",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "dirty trick"
+    },
+    {
+      "source": "expressions",
+      "phrase": "from hand to mouth",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "from hand to mouth"
+    },
+    {
+      "source": "expressions",
+      "phrase": "for dear life",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "for dear life"
+    },
+    {
+      "source": "expressions",
+      "phrase": "for good measure",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "for good measure"
+    },
+    {
+      "source": "expressions",
+      "phrase": "for all intents and purposes",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "for all intents and purposes"
+    },
+    {
+      "source": "expressions",
+      "phrase": "for fear of",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "for fear of"
+    },
+    {
+      "source": "expressions",
+      "phrase": "for the sake of argument",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "for the sake of argument"
+    },
+    {
+      "source": "expressions",
+      "phrase": "in good spirits",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "in good spirits"
+    },
+    {
+      "source": "expressions",
+      "phrase": "in bad taste",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "in bad taste"
+    },
+    {
+      "source": "expressions",
+      "phrase": "in full swing",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "in full swing"
+    },
+    {
+      "source": "expressions",
+      "phrase": "in full force",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "in full force"
+    },
+    {
+      "source": "expressions",
+      "phrase": "in the fullness of time",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "in the fullness of time"
+    },
+    {
+      "source": "expressions",
+      "phrase": "in your element",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "in your element"
+    },
+    {
+      "source": "expressions",
+      "phrase": "in your prime",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "in your prime"
+    },
+    {
+      "source": "expressions",
+      "phrase": "on the rebound",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "on the rebound"
+    },
+    {
+      "source": "expressions",
+      "phrase": "on a roll",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "on a roll"
+    },
+    {
+      "source": "expressions",
+      "phrase": "on tenterhooks",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "on tenterhooks"
+    },
+    {
+      "source": "expressions",
+      "phrase": "on your last legs",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "on your last legs"
+    },
+    {
+      "source": "expressions",
+      "phrase": "on your high horse",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "on your high horse"
+    },
+    {
+      "source": "expressions",
+      "phrase": "on the sly",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "on the sly"
+    },
+    {
+      "source": "expressions",
+      "phrase": "on the fly",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "on the fly"
+    },
+    {
+      "source": "expressions",
+      "phrase": "on the go",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "on the go"
+    },
+    {
+      "source": "expressions",
+      "phrase": "on probation",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "on probation"
+    },
+    {
+      "source": "expressions",
+      "phrase": "on parole",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "on parole"
+    },
+    {
+      "source": "expressions",
+      "phrase": "on bail",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "on bail"
+    },
+    {
+      "source": "expressions",
+      "phrase": "out of the running",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "out of the running"
+    },
+    {
+      "source": "expressions",
+      "phrase": "out of this world",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "out of this world"
+    },
+    {
+      "source": "expressions",
+      "phrase": "out of proportion",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "out of proportion"
+    },
+    {
+      "source": "expressions",
+      "phrase": "above and beyond",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "above and beyond"
+    },
+    {
+      "source": "expressions",
+      "phrase": "above suspicion",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "above suspicion"
+    },
+    {
+      "source": "expressions",
+      "phrase": "above the law",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "above the law"
+    },
+    {
+      "source": "expressions",
+      "phrase": "beneath contempt",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "beneath contempt"
+    },
+    {
+      "source": "expressions",
+      "phrase": "beyond the pale",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "beyond the pale"
+    },
+    {
+      "source": "expressions",
+      "phrase": "beyond the call of duty",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "beyond the call of duty"
+    },
+    {
+      "source": "expressions",
+      "phrase": "beside the point",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "beside the point"
+    },
+    {
+      "source": "expressions",
+      "phrase": "between you and me",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "between you and me"
+    },
+    {
+      "source": "expressions",
+      "phrase": "between jobs",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "between jobs"
+    },
+    {
+      "source": "expressions",
+      "phrase": "behind bars",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "behind bars"
+    },
+    {
+      "source": "expressions",
+      "phrase": "behind the curve",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "behind the curve"
+    },
+    {
+      "source": "expressions",
+      "phrase": "before your very eyes",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "before your very eyes"
+    },
+    {
+      "source": "expressions",
+      "phrase": "before your time",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "before your time"
+    },
+    {
+      "source": "expressions",
+      "phrase": "after the fact",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "after the fact"
+    },
+    {
+      "source": "expressions",
+      "phrase": "after a fashion",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "after a fashion"
+    },
+    {
+      "source": "expressions",
+      "phrase": "after your own heart",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "after your own heart"
+    },
+    {
+      "source": "expressions",
+      "phrase": "against your better judgment",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "against your better judgment"
+    },
+    {
+      "source": "expressions",
+      "phrase": "against your will",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "against your will"
+    },
+    {
+      "source": "expressions",
+      "phrase": "across the board",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "across the board"
+    },
+    {
+      "source": "expressions",
+      "phrase": "around the clock",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "around the clock"
+    },
+    {
+      "source": "expressions",
+      "phrase": "around the bend",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "around the bend"
+    },
+    {
+      "source": "expressions",
+      "phrase": "around the corner",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "around the corner"
+    },
+    {
+      "source": "expressions",
+      "phrase": "up the creek",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "up the creek"
+    },
+    {
+      "source": "expressions",
+      "phrase": "up for debate",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "up for debate"
+    },
+    {
+      "source": "expressions",
+      "phrase": "up to scratch",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "up to scratch"
+    },
+    {
+      "source": "expressions",
+      "phrase": "up to snuff",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "up to snuff"
+    },
+    {
+      "source": "expressions",
+      "phrase": "up to par",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "up to par"
+    },
+    {
+      "source": "expressions",
+      "phrase": "up and about",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "up and about"
+    },
+    {
+      "source": "expressions",
+      "phrase": "up and coming",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "up and coming"
+    },
+    {
+      "source": "expressions",
+      "phrase": "done to a turn",
+      "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+    },
+    {
+      "source": "expressions",
+      "phrase": "dead to rights",
+      "reason": "Equivalent article/possessor/simile surface or duplicate draft",
+      "owner": "dead to rights"
+    }
+  ],
+  "unpublishedEligiblePhrases": [
+    "ride shotgun",
+    "rise from the ashes",
+    "roll out the red carpet",
+    "roll with the punches",
+    "rub shoulders",
+    "rub your nose in",
+    "run a tight ship",
+    "run rings around",
+    "run the gauntlet",
+    "run with the pack",
+    "run on fumes",
+    "save your bacon",
+    "scrape the barrel",
+    "scratch the surface",
+    "screw up your courage",
+    "sell like hotcakes",
+    "sell your soul",
+    "set your teeth on edge",
+    "set the world on fire",
+    "shoot the breeze",
+    "shoot from the hip",
+    "shoot the messenger",
+    "shoot your mouth off",
+    "shoot yourself in the foot",
+    "show your teeth",
+    "sit pretty",
+    "sit on your hands",
+    "sit on a goldmine",
+    "skin and bones",
+    "sleep with one eye open",
+    "smell a rat",
+    "smoke and mirrors",
+    "split hairs",
+    "stand on ceremony",
+    "stand head and shoulders above",
+    "step into the breach",
+    "stir the pot",
+    "suck it up",
+    "sweat blood",
+    "sweat bullets",
+    "take a powder",
+    "take a tumble",
+    "take the cake",
+    "take the gloves off",
+    "hats off to",
+    "talk a blue streak",
+    "talk through your hat",
+    "talk shop",
+    "taste your own medicine",
+    "tear your hair out",
+    "throw a curveball",
+    "throw cold water on",
+    "throw down the gauntlet",
+    "tickle your fancy",
+    "toe to toe",
+    "tread on your toes",
+    "tread water",
+    "turn tail",
+    "turn up your nose at",
+    "twiddle your thumbs",
+    "twist the knife",
+    "walk the plank",
+    "walk the tightrope",
+    "wash your hands of",
+    "wear the pants",
+    "wolf at the door",
+    "walk all over",
+    "worm out of",
+    "wring out",
+    "yank out",
+    "zip up",
+    "undercover operation",
+    "protective custody",
+    "house arrest",
+    "solitary confinement",
+    "life sentence",
+    "death sentence",
+    "on parole",
+    "on probation",
+    "on bail",
+    "post bail",
+    "jump bail",
+    "press charges",
+    "drop the charges",
+    "serve time",
+    "do time",
+    "make bail",
+    "turn state's evidence",
+    "take the stand",
+    "on the stand",
+    "plead insanity",
+    "in self-defense",
+    "crime of passion",
+    "blood money",
+    "hush money",
+    "dirty money",
+    "protection racket",
+    "confidence trick",
+    "getaway driver",
+    "hired gun",
+    "contract killing",
+    "identity theft",
+    "human trafficking",
+    "armed robbery",
+    "hit and run",
+    "breaking and entering",
+    "home invasion",
+    "citizen's arrest",
+    "martial law",
+    "rules of engagement",
+    "chain of command",
+    "friendly fire",
+    "covering fire",
+    "suppressive fire",
+    "collateral damage",
+    "active duty",
+    "missing in action",
+    "killed in action",
+    "prisoner of war",
+    "behind enemy lines",
+    "no man's land",
+    "scorched earth",
+    "shock and awe",
+    "search and destroy",
+    "search and rescue",
+    "cease fire",
+    "stand at ease",
+    "stand at attention",
+    "fall in",
+    "weapons free",
+    "weapons hot",
+    "weapons hold",
+    "fire in the hole",
+    "danger pay",
+    "hazard pay",
+    "honorable discharge",
+    "dishonorable discharge",
+    "high alert",
+    "red alert",
+    "all clear",
+    "point of no return",
+    "last line of defense",
+    "in the line of duty",
+    "show of force",
+    "balance of power",
+    "clear and present danger",
+    "nuclear option",
+    "first strike",
+    "surgical strike",
+    "preemptive strike",
+    "stealth mode",
+    "panic room",
+    "plausible deniability",
+    "national security",
+    "state secrets",
+    "security clearance",
+    "black ops",
+    "black site",
+    "sleeper agent",
+    "false flag",
+    "false positive",
+    "false negative",
+    "social engineering",
+    "data breach",
+    "factory reset",
+    "blue screen",
+    "root access",
+    "access denied",
+    "system failure",
+    "business as usual",
+    "hostile takeover",
+    "shell company",
+    "front company",
+    "slush fund",
+    "seed money",
+    "venture capital",
+    "cash flow",
+    "market share",
+    "net worth",
+    "return on investment",
+    "profit margin",
+    "capital gains",
+    "tax evasion",
+    "tax haven",
+    "golden parachute",
+    "golden handshake",
+    "white knight",
+    "rubber stamp",
+    "free market",
+    "bear market",
+    "bull market",
+    "fire sale",
+    "liquid assets",
+    "frozen assets",
+    "deep pockets",
+    "sleeping partner",
+    "silent partner",
+    "guilty pleasure",
+    "emotional baggage",
+    "arm candy",
+    "eye candy",
+    "puppy love",
+    "tough love",
+    "love triangle",
+    "love affair",
+    "love life",
+    "love interest",
+    "love nest",
+    "love child",
+    "blind date",
+    "double date",
+    "date night",
+    "one-night stand",
+    "friends with benefits",
+    "open relationship",
+    "long-distance relationship",
+    "significant other",
+    "soul mate",
+    "old maid",
+    "eligible bachelor",
+    "broken home",
+    "blended family",
+    "extended family",
+    "nuclear family",
+    "single parent",
+    "empty nest",
+    "family tree",
+    "family ties",
+    "blood relation",
+    "next of kin",
+    "people person",
+    "free spirit",
+    "kindred spirit",
+    "queen bee",
+    "tough customer",
+    "class clown",
+    "class act",
+    "drama queen",
+    "control freak",
+    "attention seeker",
+    "penny pincher",
+    "fortune hunter",
+    "gold digger",
+    "social climber",
+    "yes man",
+    "jack of all trades",
+    "pillar of the community",
+    "man of the hour",
+    "man of few words",
+    "man of the world",
+    "shoulder to cry on",
+    "marriage of convenience",
+    "whirlwind romance",
+    "passing fancy",
+    "listening ear",
+    "household name",
+    "old soul",
+    "acquired taste",
+    "wishful thinking",
+    "daylight robbery",
+    "tall tale",
+    "sob story",
+    "fairy tale",
+    "cautionary tale",
+    "success story",
+    "mixed blessing",
+    "fresh start",
+    "second chance",
+    "trial run",
+    "dry run",
+    "dress rehearsal",
+    "dress code",
+    "rite of passage",
+    "baptism of fire",
+    "steep learning curve",
+    "turning point",
+    "tipping point",
+    "watershed moment",
+    "defining moment",
+    "moment of truth",
+    "flash in the pan",
+    "gut feeling",
+    "gut reaction",
+    "sixth sense",
+    "nagging doubt",
+    "sinking feeling",
+    "knot in your stomach",
+    "lump in your throat",
+    "heavy heart",
+    "change of scene",
+    "reality check",
+    "rude awakening",
+    "home truth",
+    "mixed bag",
+    "hornet's nest",
+    "vicious circle",
+    "downward spiral",
+    "slippery slope",
+    "snowball effect",
+    "domino effect",
+    "ripple effect",
+    "chain reaction",
+    "double whammy",
+    "fair hearing",
+    "sticking point",
+    "hot topic",
+    "burning question",
+    "leading question",
+    "trick question",
+    "rhetorical question",
+    "taboo subject",
+    "inside joke",
+    "running joke",
+    "practical joke",
+    "dirty joke",
+    "sick joke",
+    "laughing stock",
+    "comic relief",
+    "gallows humor",
+    "black humor",
+    "dry humor",
+    "in hysterics",
+    "beyond words",
+    "lost for words",
+    "sick at heart",
+    "sick to your stomach",
+    "mad as hell",
+    "happy as a clam",
+    "pleased as punch",
+    "floating on air",
+    "in seventh heaven",
+    "down in the mouth",
+    "under a spell",
+    "on skid row",
+    "on easy street",
+    "in the lap of luxury",
+    "in the money",
+    "in a funk",
+    "in limbo",
+    "in a quandary",
+    "in two minds",
+    "of sound mind",
+    "not in your right mind",
+    "at a low ebb",
+    "in the pink",
+    "hale and hearty",
+    "bright and breezy",
+    "full of beans",
+    "full of yourself",
+    "full of hot air",
+    "all talk and no action",
+    "all smiles",
+    "all sweetness and light",
+    "all skin and bones",
+    "all in your head",
+    "as tough as nails",
+    "as sly as a fox",
+    "as deaf as a post",
+    "as slow as molasses",
+    "as old as the hills",
+    "as sure as hell",
+    "as neat as a pin",
+    "as clean as a whistle",
+    "as weak as a kitten",
+    "like chalk and cheese",
+    "like a house on fire",
+    "like a ton of bricks",
+    "like there's no tomorrow",
+    "like nobody's business",
+    "like clockwork",
+    "like wildfire",
+    "like crazy",
+    "like hell",
+    "like mad",
+    "piece of the action",
+    "slice of the pie",
+    "feather in your cap",
+    "nest egg",
+    "rainy day fund",
+    "pin money",
+    "pocket money",
+    "funny money",
+    "easy money",
+    "smart money",
+    "old money",
+    "new money",
+    "money to burn",
+    "money down the drain",
+    "arm and a leg",
+    "king's ransom",
+    "pretty penny",
+    "small fortune",
+    "tidy sum",
+    "shoestring budget",
+    "on a shoestring",
+    "on the cheap",
+    "dirt cheap",
+    "cheap and cheerful",
+    "cheap thrills",
+    "small change",
+    "big bucks",
+    "big spender",
+    "neither fish nor fowl",
+    "different kettle of fish",
+    "the only game in town",
+    "the name of the game",
+    "numbers game",
+    "waiting game",
+    "blame game",
+    "mind game",
+    "confidence game",
+    "fun and games",
+    "fair game",
+    "fair play",
+    "dirty word",
+    "open season on",
+    "open house",
+    "open-door policy",
+    "open-and-shut case",
+    "open-ended question",
+    "open mind",
+    "open invitation",
+    "open wound",
+    "closed book",
+    "closed mind",
+    "closed shop",
+    "close to the bone",
+    "close to your heart",
+    "close at hand",
+    "hot on the trail",
+    "hot off the press",
+    "hot to trot",
+    "hot stuff",
+    "cold sweat",
+    "cold hard cash",
+    "the warm fuzzies",
+    "warm and fuzzy",
+    "heart and soul",
+    "heart-to-heart talk",
+    "head over heels",
+    "head in the clouds",
+    "head and shoulders above",
+    "head to toe",
+    "head to head",
+    "hand in glove",
+    "hand over fist",
+    "hands off",
+    "thumbs up",
+    "thumbs down",
+    "fingers crossed",
+    "finger in every pie",
+    "foot in the door",
+    "foot in both camps",
+    "footloose and fancy-free",
+    "free and easy",
+    "free lunch",
+    "free agent",
+    "free of charge",
+    "for free",
+    "for keeps",
+    "for the taking",
+    "for the asking",
+    "for a song",
+    "for peanuts",
+    "for love or money",
+    "for the hell of it",
+    "for the foreseeable future",
+    "for want of",
+    "for fear that",
+    "for the sake of appearances",
+    "for goodness' sake",
+    "for heaven's sake",
+    "in high spirits",
+    "in low spirits",
+    "in good company",
+    "in polite company",
+    "in the company of",
+    "in good taste",
+    "in rare form",
+    "in full bloom",
+    "in full flow",
+    "in the dead of night",
+    "in the dead of winter",
+    "in broad strokes",
+    "in short order",
+    "in no small measure",
+    "in no small part",
+    "in no particular order",
+    "in the hot seat",
+    "in the firing line",
+    "in the public eye",
+    "in the limelight",
+    "in the shadows",
+    "in the light of",
+    "in the teeth of",
+    "in the thick of",
+    "in the midst of",
+    "in the throes of",
+    "in the grip of",
+    "in the wake of",
+    "in the shadow of",
+    "in the footsteps of",
+    "in the pay of",
+    "in the pocket of",
+    "in league with",
+    "in cahoots with",
+    "in bed with",
+    "in tandem with",
+    "in concert with",
+    "in step with",
+    "out of step with",
+    "in tune with",
+    "out of tune with",
+    "in sync with",
+    "out of sync with",
+    "past your prime",
+    "in your heyday",
+    "in your twilight years",
+    "in the same league",
+    "in the big leagues",
+    "on the sidelines",
+    "on the defensive",
+    "on the offensive",
+    "on the outs",
+    "on speaking terms",
+    "on familiar terms",
+    "nodding acquaintance",
+    "on the cusp of",
+    "on the threshold of",
+    "on the eve of",
+    "on the heels of",
+    "on a winning streak",
+    "on a losing streak",
+    "on a tear",
+    "on a high",
+    "on an even keel",
+    "on an emotional roller coaster",
+    "on pins and needles",
+    "on a knife edge",
+    "on your best behavior",
+    "on bended knee",
+    "on the quiet",
+    "on the side",
+    "on the up and up",
+    "on the make",
+    "on the take",
+    "on the lam",
+    "on a whim",
+    "on a dare",
+    "on a hunch",
+    "on spec",
+    "on approval",
+    "on death row",
+    "on life support",
+    "off the leash",
+    "off the chain",
+    "off the boil",
+    "off the pace",
+    "off the mark",
+    "off the scale",
+    "off the peg",
+    "off the rack",
+    "off the shelf",
+    "off key",
+    "off base",
+    "off message",
+    "out to lunch",
+    "out to get you",
+    "out for the count",
+    "out of whack",
+    "out of kilter",
+    "out of joint",
+    "out of the way",
+    "out of the gate",
+    "out of print",
+    "out of stock",
+    "out of season",
+    "out of wedlock",
+    "out of pocket",
+    "out of circulation",
+    "out of steam",
+    "out of gas",
+    "out of juice",
+    "out of the closet",
+    "out of the woodwork",
+    "out of your hair",
+    "out of your system",
+    "out of your way",
+    "over a barrel",
+    "over the hill",
+    "over the hump",
+    "over the odds",
+    "over the counter",
+    "over the course of",
+    "over and above",
+    "over the long haul",
+    "above reproach",
+    "above the fray",
+    "below par",
+    "beneath your dignity",
+    "beyond measure",
+    "beyond compare",
+    "beyond redemption",
+    "beyond recognition",
+    "beyond description",
+    "beyond dispute",
+    "beyond question",
+    "beyond recall",
+    "beyond help",
+    "beyond caring",
+    "beyond hope",
+    "between ourselves",
+    "between two fires",
+    "between life and death",
+    "behind the wheel",
+    "behind schedule",
+    "after hours",
+    "after dark",
+    "after the dust settles",
+    "against the tide",
+    "against the run of play",
+    "against the law",
+    "against all expectations",
+    "across the aisle",
+    "around the block",
+    "round robin",
+    "up for sale",
+    "up for adoption",
+    "up for reelection",
+    "up to date",
+    "up to the minute",
+    "up close",
+    "down at heel",
+    "down the hatch",
+    "down the tubes",
+    "down the toilet",
+    "down the rabbit hole",
+    "down the garden path",
+    "down memory lane",
+    "down to the ground",
+    "down to a tee",
+    "down to a science",
+    "down to the last penny",
+    "done and dusted",
+    "done to death",
+    "done for",
+    "done deal",
+    "dead and buried",
+    "dead set against",
+    "dead set on",
+    "dead on your feet",
+    "dead wrong",
+    "dead ahead",
+    "dead ringer",
+    "dead weight",
+    "dead duck",
+    "dead letter",
+    "dead heat",
+    "death wish",
+    "death knell",
+    "death stare",
+    "life partner",
+    "life and death"
+  ]
+}

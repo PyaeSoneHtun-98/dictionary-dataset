@@ -1,0 +1,357 @@
+{
+  "cat's pajamas": {
+    "action": "reject",
+    "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+  },
+  "small beer": {
+    "action": "reject",
+    "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+  },
+  "horse sense": {
+    "action": "reject",
+    "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+  },
+  "cut a rug": {
+    "action": "reject",
+    "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+  },
+  "feel your oats": {
+    "action": "reject",
+    "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+  },
+  "carry the can": {
+    "action": "reject",
+    "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+  },
+  "go great guns": {
+    "action": "reject",
+    "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+  },
+  "hold your water": {
+    "action": "reject",
+    "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+  },
+  "know your onions": {
+    "action": "reject",
+    "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+  },
+  "lay an egg": {
+    "action": "reject",
+    "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+  },
+  "hug the limelight": {
+    "action": "reject",
+    "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+  },
+  "to a turn": {
+    "action": "reject",
+    "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+  },
+  "done to a turn": {
+    "action": "reject",
+    "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+  },
+  "as safe as houses": {
+    "action": "reject",
+    "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+  },
+  "as thin as a rake": {
+    "action": "reject",
+    "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+  },
+  "at first blush": {
+    "action": "reject",
+    "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+  },
+  "by common consent": {
+    "action": "reject",
+    "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+  },
+  "for good or ill": {
+    "action": "reject",
+    "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+  },
+  "in the last resort": {
+    "action": "reject",
+    "reason": "Established English, but lower subtitle priority than the stronger available candidates."
+  },
+  "small fry": {
+    "action": "replace",
+    "reason": "Sharpen the Burmese meaning and remove a misleading limitation.",
+    "replacement": {
+      "phrase": "small fry",
+      "type": "idiom",
+      "forms": [],
+      "burmese": [
+        "အရေးမပါသည့် လူများ သို့မဟုတ် အဖွဲ့အစည်းငယ်များ"
+      ]
+    }
+  },
+  "poor sport": {
+    "phrase": "poor sport",
+    "action": "replace",
+    "reason": "The original gloss is awkward Burmese and substitutes an unprincipled desire to win for the actual inability to take defeat or a joke gracefully.",
+    "replacement": {
+      "phrase": "poor sport",
+      "type": "idiom",
+      "forms": [
+        "poor sports"
+      ],
+      "burmese": [
+        "အရှုံးကို မခံနိုင်သူ",
+        "အပျော်သဘော စနောက်တာကို လက်မခံနိုင်သူ"
+      ]
+    }
+  },
+  "good sport": {
+    "phrase": "good sport",
+    "action": "replace",
+    "reason": "The original Burmese has an unnatural losing-ability construction and misses the ability to take teasing or join in good-humoredly.",
+    "replacement": {
+      "phrase": "good sport",
+      "type": "idiom",
+      "forms": [
+        "good sports"
+      ],
+      "burmese": [
+        "အနိုင်အရှုံးကို သဘောထားကြီးစွာ လက်ခံတတ်သူ",
+        "အပျော်သဘော စနောက်တာကို ခံနိုင်ပြီး လိုက်ပါပျော်ရွှင်တတ်သူ"
+      ]
+    }
+  },
+  "do the honors": {
+    "phrase": "do the honors",
+    "action": "replace",
+    "reason": "The original gloss reverses agency: the person performs a hosting or ceremonial task, rather than merely being invited to start something.",
+    "replacement": {
+      "phrase": "do the honors",
+      "type": "idiom",
+      "forms": [
+        "does the honors",
+        "did the honors",
+        "done the honors",
+        "doing the honors"
+      ],
+      "burmese": [
+        "ဧည့်ခံကျွေးမွေးပေးသည်",
+        "အစပြုပေးရမည့် တာဝန်ကို ဆောင်ရွက်ပေးသည်"
+      ]
+    }
+  },
+  "white lie": {
+    "action": "replace",
+    "reason": "The selected figurative senses belong to idiom for consistent classification.",
+    "replacement": {
+      "phrase": "white lie",
+      "type": "idiom",
+      "forms": [
+        "white lies"
+      ],
+      "burmese": [
+        "တစ်ဖက်လူ စိတ်မထိခိုက်အောင် ပြောတဲ့လိမ်စကား"
+      ]
+    }
+  },
+  "loaded question": {
+    "action": "replace",
+    "reason": "The selected figurative senses belong to idiom for consistent classification.",
+    "replacement": {
+      "phrase": "loaded question",
+      "type": "idiom",
+      "forms": [
+        "loaded questions"
+      ],
+      "burmese": [
+        "ဖြေသူကို ထောင်ချောက်ဆင်ထားတဲ့မေးခွန်း"
+      ]
+    }
+  },
+  "butterflies in your stomach": {
+    "action": "replace",
+    "reason": "Add real useful possessor forms, individually reviewed for the figurative construction.",
+    "replacement": {
+      "phrase": "butterflies in your stomach",
+      "type": "idiom",
+      "forms": [
+        "butterflies in my stomach",
+        "butterflies in his stomach",
+        "butterflies in her stomach",
+        "butterflies in our stomach",
+        "butterflies in their stomach",
+        "butterflies in our stomachs",
+        "butterflies in their stomachs",
+        "butterflies in your stomachs"
+      ],
+      "burmese": [
+        "ရင်ခုန်စိတ်လှုပ်ရှားပြီး မငြိမ်မသက်ဖြစ်မှု"
+      ]
+    }
+  },
+  "out of your element": {
+    "action": "replace",
+    "reason": "Add real useful possessor forms, individually reviewed for the figurative construction.",
+    "replacement": {
+      "phrase": "out of your element",
+      "type": "idiom",
+      "forms": [
+        "out of my element",
+        "out of his element",
+        "out of her element",
+        "out of our element",
+        "out of their element"
+      ],
+      "burmese": [
+        "ကိုယ်မကျွမ်းကျင် မရင်းနှီးတဲ့အခြေအနေမှာ"
+      ]
+    }
+  },
+  "up in smoke": {
+    "action": "replace",
+    "reason": "Merge the shorter figurative surface and established verbal idiom into one owner; do not count both as new phrases.",
+    "replacement": {
+      "phrase": "go up in smoke",
+      "type": "idiom",
+      "forms": [
+        "goes up in smoke",
+        "went up in smoke",
+        "gone up in smoke",
+        "going up in smoke",
+        "up in smoke"
+      ],
+      "burmese": [
+        "အစီအစဉ် သို့မဟုတ် မျှော်လင့်ချက် ပျက်စီးသွားသည်"
+      ]
+    }
+  },
+  "from strength to strength": {
+    "action": "replace",
+    "reason": "Merge the shorter figurative surface and established verbal idiom into one owner; do not count both as new phrases.",
+    "replacement": {
+      "phrase": "go from strength to strength",
+      "type": "idiom",
+      "forms": [
+        "goes from strength to strength",
+        "went from strength to strength",
+        "gone from strength to strength",
+        "going from strength to strength",
+        "from strength to strength"
+      ],
+      "burmese": [
+        "ပိုပိုပြီး အောင်မြင်တိုးတက်လာသည်"
+      ]
+    }
+  },
+  "to the quick": {
+    "action": "replace",
+    "reason": "Merge the shorter figurative surface and established verbal idiom into one owner; do not count both as new phrases.",
+    "replacement": {
+      "phrase": "cut to the quick",
+      "type": "idiom",
+      "forms": [
+        "cuts to the quick",
+        "cutting to the quick",
+        "to the quick"
+      ],
+      "burmese": [
+        "နက်နက်ရှိုင်းရှိုင်း စိတ်ထိခိုက်စေသည်"
+      ]
+    }
+  },
+  "have a heart of stone": {
+    "action": "replace",
+    "reason": "Consolidate noun idiom and its real verbal surfaces under one owner.",
+    "replacement": {
+      "phrase": "heart of stone",
+      "type": "idiom",
+      "forms": [
+        "hearts of stone",
+        "have a heart of stone",
+        "has a heart of stone",
+        "had a heart of stone",
+        "having a heart of stone"
+      ],
+      "burmese": [
+        "သနားကြင်နာမှုမရှိတဲ့စိတ်ထား"
+      ]
+    }
+  },
+  "from bad to worse": {
+    "action": "reject",
+    "reason": "Longer surface of an already frozen expression; avoid counting a preposition/article elaboration as new vocabulary."
+  },
+  "with the benefit of hindsight": {
+    "action": "reject",
+    "reason": "Longer surface of an already frozen expression; avoid counting a preposition/article elaboration as new vocabulary."
+  },
+  "break your neck": {
+    "action": "replace",
+    "reason": "Include both the common literal subtitle sense and the useful idiomatic sense; avoid a metaphor-only lookup misleading an action or medical scene.",
+    "replacement": {
+      "phrase": "break your neck",
+      "type": "idiom",
+      "forms": [
+        "break my neck",
+        "broke my neck",
+        "breaks his neck",
+        "breaking your neck"
+      ],
+      "burmese": [
+        "လည်ပင်းကျိုးအောင် လုပ်သည်",
+        "အလွန်ကြိုးပမ်းအားထုတ်သည်"
+      ]
+    }
+  },
+  "bite your nails": {
+    "action": "replace",
+    "reason": "Include both the common literal subtitle sense and the useful idiomatic sense; avoid a metaphor-only lookup misleading an action or medical scene.",
+    "replacement": {
+      "phrase": "bite your nails",
+      "type": "idiom",
+      "forms": [
+        "bite my nails",
+        "bit my nails",
+        "bites her nails",
+        "biting your nails"
+      ],
+      "burmese": [
+        "လက်သည်းကို ကိုက်သည်",
+        "စိုးရိမ်ပူပန်စွာ စောင့်နေသည်"
+      ]
+    }
+  },
+  "foam at the mouth": {
+    "action": "replace",
+    "reason": "Include both the common literal subtitle sense and the useful idiomatic sense; avoid a metaphor-only lookup misleading an action or medical scene.",
+    "replacement": {
+      "phrase": "foam at the mouth",
+      "type": "idiom",
+      "forms": [
+        "foams at the mouth",
+        "foamed at the mouth",
+        "foaming at the mouth"
+      ],
+      "burmese": [
+        "ပါးစပ်မှာ အမြှုပ်ထွက်သည်",
+        "အလွန်ဒေါသထွက်နေသည်"
+      ]
+    }
+  },
+  "blow a fuse": {
+    "action": "replace",
+    "reason": "Include both the common literal subtitle sense and the useful idiomatic sense; avoid a metaphor-only lookup misleading an action or medical scene.",
+    "replacement": {
+      "phrase": "blow a fuse",
+      "type": "idiom",
+      "forms": [
+        "blows a fuse",
+        "blew a fuse",
+        "blown a fuse",
+        "blowing a fuse"
+      ],
+      "burmese": [
+        "လျှပ်စစ်ဖျူး ပြတ်သွားသည်",
+        "ရုတ်တရက် အလွန်စိတ်ဆိုးသည်"
+      ]
+    }
+  }
+}
